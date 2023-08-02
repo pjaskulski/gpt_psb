@@ -1,0 +1,102 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mikołaj Śmieszko"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Katarzyna"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Katarzyna"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Elżbieta"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Barbara"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Stanisław"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Tomasz"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Zygmunt Gajsler"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Szymon z Brzezin"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Stanisław Berger"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Szymon Tomaszewicz"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Józef Markowic"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Urszula"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Marcin Hanel"
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Szymon Szymonowic"
+    },
+    {
+        "family_relation": "siostrzenica",
+        "person": "Krystyna z Szymonowiców"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mikołaj"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Kosma Saluago de Campis"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Anna Anserinówna"
+    },
+    {
+        "family_relation": "wnuczka",
+        "person": "Anna"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Kaspar"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Mikołaj"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Elżbieta Kisiołkówna"
+    }
+]

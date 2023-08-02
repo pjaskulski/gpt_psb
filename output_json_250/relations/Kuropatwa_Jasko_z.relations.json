@@ -1,0 +1,30 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Przybek z Grodziny i Opatkowic"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Machna z Mokrska"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Piotr"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Przybek"
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Pakosz ze Żmigrodu"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta z Widuchowej"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Kuropatwa z Łańcuchowa"
+    }
+]

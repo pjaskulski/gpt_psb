@@ -1,0 +1,30 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jakub Leśniowolski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Dorota Skulska"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Leśniowolski"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna Oborska"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Paweł Leśniowolski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Marcin Leśniowolski"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna Gostomska"
+    }
+]

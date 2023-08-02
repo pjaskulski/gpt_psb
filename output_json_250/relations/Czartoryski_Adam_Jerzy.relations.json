@@ -1,0 +1,38 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Adam Kazimierz Czartoryski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Izabela Czartoryska"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Maria Wirtemberska"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Konstanty Czartoryski"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Zofia Zamoyska"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna Sapieżanka"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Władysław Czartoryski"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Iza Działyńska"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Działyński"
+    }
+]

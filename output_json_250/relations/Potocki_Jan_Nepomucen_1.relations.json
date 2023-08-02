@@ -1,0 +1,50 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Stanisław Potocki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna Działyńska"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Róża Wodzicka"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Maria Szajer"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Aleksander Potocki"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Teresa Potocka"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Jadwiga Potocka"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Ignacy Potocki"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Zofia Potocka"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Maria Potocka"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Potocki"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Jerzy Potocki"
+    }
+]

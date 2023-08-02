@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Władysław Skłodowski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Bronisława Skłodowska"
+    },
+    {
+        "family_relation": "ciotka",
+        "person": "J. J. Boguski"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Bronisława Dłuska"
+    },
+    {
+        "family_relation": "brat cioteczny",
+        "person": "Boguski"
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Kazimierz Dłuski"
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Piotr Curie"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Irena Joliot-Curie"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Ewa"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Fryderyk Joliot"
+    }
+]

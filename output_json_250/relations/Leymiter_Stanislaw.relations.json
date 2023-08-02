@@ -1,0 +1,50 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mikołaj Leymiter"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Benigna Leymiter"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Tesznar"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Jan Tesznar"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Jan Wierzynki"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Mikołaj Kreidler"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Leymiter"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Leymiter"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Barbara Leymiter"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Benigna Leymiter"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Wincenty Beck"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Tretkop"
+    }
+]

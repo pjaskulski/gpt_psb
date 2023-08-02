@@ -1,0 +1,26 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mikołaj"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Zawisza Czarny"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Piotr Kruczek"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Zawisza"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Piotr"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stefan"
+    }
+]

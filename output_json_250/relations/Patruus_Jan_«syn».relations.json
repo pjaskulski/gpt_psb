@@ -1,0 +1,34 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Katarzyna Bodenstein"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Barbara"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Katarzyna"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Zofia"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Krzysztof"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Konrad Bodenstein"
+    }
+]

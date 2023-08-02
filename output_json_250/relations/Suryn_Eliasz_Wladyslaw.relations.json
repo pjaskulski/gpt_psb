@@ -1,0 +1,58 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jerzy Suryn"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Apolonia Wołłowicz"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Krzysztof Suryn"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Bazyli Suryn"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Katarzyna Niekraszewicz"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Helena Giełda"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Krzysztof Suryn"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mikołaj Suryn"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Suryn"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Teodor Suryn"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna Suryn"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Eufrozyna Suryn"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Konstancja Suryn"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Helena Suryn"
+    }
+]

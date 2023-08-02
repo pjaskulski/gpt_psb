@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan Norwid"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Ludwika Norwid ze Zdzieborskich"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Ludwik Norwid"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Cyprian Norwid"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "Aleksander Napoleon Dybowski"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "Józef Dybowski"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Norwid z Sobieskich Komierowska"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Maria Norwid"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Paulina Norwid"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Ignacy Sobieski"
+    }
+]

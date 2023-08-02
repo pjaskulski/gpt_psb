@@ -1,0 +1,58 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan Mielecki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Sudolska"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Mikołaj Firlej"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta Tęczyńska"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj Tęczyński"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Jan Tarnowski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Andrzej Mielecki"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Walerian Mielecki"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Mielecki"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Mielecki"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Sebastian Mielecki"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Zawisza Janusz Mielecki"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna Mielecka"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Przecław Ligęza"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Bolesław II"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Małgorzata"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Wacław I"
+    },
+    {
+        "family_relation": "krewny",
+        "person": "Bolesław II"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Henryk VIII"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Ruprecht"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Wacław II"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Agnieszka"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Henryk II"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Henryk VIII"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Wacław"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Małgorzata"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Jadwiga"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Katarzyna"
+    }
+]

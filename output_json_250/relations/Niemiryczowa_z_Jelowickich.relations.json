@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Józef Jełowicki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Konstancja z Żorzewskich"
+    },
+    {
+        "family_relation": "babcia",
+        "person": "Zofia Hieronimowa Jełowicka"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Franciszek Jełowicki"
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Karol Józef Niemirycz"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Władysław Niemirycz"
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "Ludwika Skorczycka"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Fryderyk Niemirycz"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Bonawentura Niemirycz"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Henryk Niemirycz"
+    }
+]

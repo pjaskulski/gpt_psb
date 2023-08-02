@@ -1,0 +1,50 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Leon Sapieha"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Jadwiga Sapieżyna"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Jadwiga Sanguszkówna"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Władysław Sanguszko"
+    },
+    {
+        "family_relation": "kuzyn",
+        "person": "Jan Działyński"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Maria Jadwiga Sapieha"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Helena Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Władysław Leon Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Leon Paweł Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Paweł Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Adam Stefan Sapieha"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Wiktoryn Podfilipski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Szarawska"
+    },
+    {
+        "family_relation": "krewny",
+        "person": "Jerzy Jazłowiecki"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Marcin Podfilipski"
+    },
+    {
+        "family_relation": "brat cioteczny",
+        "person": "Jan Szarawski alias Sliadkowski"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Natalia z Orzechowskich"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Sebastian Podfilipski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Podfilipski"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Katarzyna Podfilipska"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Stanisław Orzechowski"
+    }
+]

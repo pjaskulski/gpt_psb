@@ -1,0 +1,58 @@
+[
+    {
+        "family_relation": "dziadek",
+        "person": "Mikołaj Sapieha"
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Fryderyk Sapieha"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Ewa ze Skaszewskich"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Tomasz Kazimierz Sapieha"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Aleksander Kazimierz Sapieha"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Krzysztof Franciszek Sapieha"
+    },
+    {
+        "family_relation": "kuzyn",
+        "person": "Kazimierz Leon Sapieha"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Konstancja Herburta"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj Herbut"
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "Anna Żółkiewska"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Ludwika Konstancja Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mikołaj Leon Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kazimierz Władysław Sapieha"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Paweł Franciszek Sapieha"
+    }
+]

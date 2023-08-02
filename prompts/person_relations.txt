@@ -1,9 +1,9 @@
 Na podstawie podanego tekstu wyszukaj wszystkich krewnych lub powinowatych głównego
-bohatera tekstu: {name}. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka,
+bohatera/bohaterki tekstu. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka,
 brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, szwagier,
 szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa.
 Wynik przedstaw w formie listy obiektów JSON zawierających pola:
-family relation: rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki )
+family relation: rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki)
 person: nazwa (imię i nazwisko osoby związanej relacją z bohaterem)
 Wypisz tylko rodzaje pokrewieństwa, które występują w tekście.
 Jeżeli w tekście nie ma żadnych informacji o pokrewieństwach głównego bohatera napisz: "brak danych".

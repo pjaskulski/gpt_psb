@@ -1,0 +1,62 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Marcin Myszkowski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Zuzanna Łaska"
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Jan Łaski"
+    },
+    {
+        "family_relation": "brat stryjeczny",
+        "person": "Mikołaj Myszkowski"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Jadwiga Tęczyńska"
+    },
+    {
+        "family_relation": "bracia",
+        "person": "Jakub Myszkowski, Hieronim Myszkowski"
+    },
+    {
+        "family_relation": "stryjeczni",
+        "person": "Mikołaj Myszkowski, Krzysztof Myszkowski, Andrzej Myszkowski"
+    },
+    {
+        "family_relation": "krewniak",
+        "person": "Zygmunt Myszkowski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Piotr Zborowski"
+    },
+    {
+        "family_relation": "córka stryjecznego brata",
+        "person": "Barbara Myszkowska"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Piotr Myszkowski, Mikołaj Myszkowski, Stanisław Myszkowski, Jan Myszkowski, Mikołaj Myszkowski"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Myszkowski"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Andrzej Tęczyński"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Andrzej Zebrzydowski"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Mikołaj Zebrzydowski"
+    }
+]

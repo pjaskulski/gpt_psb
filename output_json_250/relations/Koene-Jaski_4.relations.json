@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Barbara Niżyńska"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Dorota Rosenberg"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Małgorzata Ottinghusen"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Paweł (II)"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Grzegorz"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jerzy"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Michał Rosenberg"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Wessel Ottinghusen"
+    }
+]

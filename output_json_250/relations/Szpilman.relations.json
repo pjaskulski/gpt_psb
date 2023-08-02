@@ -1,0 +1,46 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Samuel Szpilman"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Estera Rapaport"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Reuwen Szpilman"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Regina Szpilman"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Henryk Szpilman"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Halina Szpilman"
+    },
+    {
+        "family_relation": "kuzyn",
+        "person": "Michael Taube"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Hania Grzecznarowska"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Andrzej Szpilman"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Krzysztof Szpilman"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Józef Grzecznarowski"
+    }
+]

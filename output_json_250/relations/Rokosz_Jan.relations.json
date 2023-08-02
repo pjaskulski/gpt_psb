@@ -1,0 +1,58 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Dobiesław z Konar"
+    },
+    {
+        "family_relation": "matka",
+        "person": "córka Paszka Niedźwiedzia z Bogumiłowic"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Ścibor z Koszyc"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Dobiesław z Konar"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Katarzyna"
+    },
+    {
+        "family_relation": "żona",
+        "person": "nieznana z imienia"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Dobiesław"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Dorota"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Beata"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Mikołaj z Łowczowa"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Dobiesław"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "family_relation": "dziadek",
+        "person": "Jakub"
+    },
+    {
+        "family_relation": "pradziadek",
+        "person": "Jakub"
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Krzesław z Szumska"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan (Jaszek) Rej z Nagłowic"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Stachna h. Poraj"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Rey"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Jan Rey"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Stogniew"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Chociemir Garnka (Garnysza) z Pojałowic i Suchcic"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Mikołaj z Barczkowic"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Wisław z Kościelca"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Spytek z Tarnowa"
+    }
+]

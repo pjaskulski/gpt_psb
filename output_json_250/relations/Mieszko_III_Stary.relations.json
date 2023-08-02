@@ -1,0 +1,70 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Bolesław II Krzywousty"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Salomea"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Bolesław Kędzierzawy"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Kazimierz"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Bolesław"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Mieszko"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Odo"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mieszko Młodszy"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Bolesław"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Władysław Laskonogi"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Eudoksja"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Wierzchosława-Ludmiła"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Judyta"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Elżbieta"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Salomea"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anastazja"
+    }
+]

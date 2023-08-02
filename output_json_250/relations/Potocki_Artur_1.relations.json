@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Adam Potocki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Katarzyna Branicka"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Andrzej Potocki"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Róża Lubomirska"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Eugeniusz Lubomirski"
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "Róża Zamoyska"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Róża Potocka"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Zofia Potocka"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Maciej Radziwiłł"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Zdzisław Tarnowski"
+    }
+]

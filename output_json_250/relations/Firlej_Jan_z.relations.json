@@ -1,0 +1,70 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Piotr Firlej"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Katarzyna z Tęczyńskich"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "Stanisław Gabriel Tęczyński"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Boner"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Seweryn Boner"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mikołaj Firlej"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Mikołaj Firlej"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Dzikówna z Pierśni"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Barbara z Mniszchów"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj Mniszch"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Henryk Firlej"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Jadwiga Firlej"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Mniszch"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Andrzej Firlej"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Firlej"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Piotr Firlej"
+    }
+]

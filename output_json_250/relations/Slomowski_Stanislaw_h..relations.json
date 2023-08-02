@@ -1,0 +1,22 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Wincenty"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna Starczynowska"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Andrzej Krzycki"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Jan Krzycki"
+    }
+]

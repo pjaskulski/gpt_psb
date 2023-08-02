@@ -1,0 +1,54 @@
+[
+    {
+        "family_relation": "wnuk",
+        "person": "Paweł"
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Aleksander Jan Potocki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Teresa Tarła"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Teodor Potocki"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Józef Potocki"
+    },
+    {
+        "family_relation": "stryj",
+        "person": "Teodor Potocki"
+    },
+    {
+        "family_relation": "krewne",
+        "person": "Anna Iwanowna"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Maria Ludwika Sapieha"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Aleksander Tarło"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "Jan Tarło"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Prosper Potocki"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Piotr Potocki"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Prot Potocki"
+    }
+]

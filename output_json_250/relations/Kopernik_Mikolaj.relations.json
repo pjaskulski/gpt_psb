@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mikołaj Kopernik (starszy)"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Barbara z Watzenrodów"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Andrzej Kopernik"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Barbara Kopernik"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Katarzyna Kopernik"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Tiedeman von Allen"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Jan Loitsch"
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Jan Loitsch"
+    },
+    {
+        "family_relation": "siostrzenica",
+        "person": "Krystyna Gertnerówna"
+    },
+    {
+        "family_relation": "siostrzenica",
+        "person": "Regina Mollerowa"
+    }
+]

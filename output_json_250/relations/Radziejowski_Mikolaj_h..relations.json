@@ -1,0 +1,54 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Andrzej Radziejowski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Małgorzata Kryska"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Radziejowski"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Stanisław Radziejowski"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Eufrozyna Działyńska"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj Działyński"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Radziejowski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Radziejowski"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Jan Działyński"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Mikołaj Działyński"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Andrzej Radziejowski"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Stanisław Radziejowski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Mikołaj Maciejowski"
+    }
+]

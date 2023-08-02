@@ -1,0 +1,34 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Włodko"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Halszka"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Piotr"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Stanisław"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "żona",
+        "person": "bratanica Piotra Wysza"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "nieznane imię"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna"
+    }
+]

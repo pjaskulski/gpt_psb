@@ -1,0 +1,18 @@
+[
+    {
+        "family_relation": "syn",
+        "person": "Kazimierz I"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Zdzisław"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Zawisza"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Spycigniew"
+    }
+]

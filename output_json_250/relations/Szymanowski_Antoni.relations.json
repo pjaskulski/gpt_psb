@@ -1,0 +1,34 @@
+[
+    {
+        "family_relation": "dziadek",
+        "person": "Michał Alfred Szymanowski"
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Aleksander Szymanowski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Józefa Natanson"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Zofia Chądzyńska"
+    },
+    {
+        "family_relation": "siostra stryjeczna",
+        "person": "Jadwiga Kaczanowska"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Paulina Lucyna Potok"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Piotr Szymanowski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Szymanowski"
+    }
+]

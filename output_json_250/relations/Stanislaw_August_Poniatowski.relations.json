@@ -1,0 +1,62 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Stanisław Poniatowski"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Konstancja z Czartoryskich"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Kazimierz Poniatowski"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Izabela Branicka"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Andrzej Poniatowski"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Michał Poniatowski"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Józef Poniatowski"
+    },
+    {
+        "family_relation": "bratanica",
+        "person": "Maria Teresa Poniatowska"
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Kazimierz Nestor Sapieha"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Konstancja Poniatowska"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Cichocki"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Izabela Poniatowska"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Grabowski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kazimierz Grabowski"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Grabowski"
+    }
+]

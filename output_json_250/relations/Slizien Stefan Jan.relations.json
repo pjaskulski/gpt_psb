@@ -1,0 +1,54 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Aleksander Kazimierz Ślizień"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Teodora z Mieleszków"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Michał Ignacy Bruno Ślizień"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Hanna Kociełłówna"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Adam Jerzy Kociełło"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Teodora"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Aleksander"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Adam Ślizień"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Róża Ślizień"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Stefan Antoni Wołodkowicz"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jerzy Antoni Rogala Iwanowski"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Teresa Ewa Ślizień"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Stefan Ignacy Ślizień"
+    }
+]

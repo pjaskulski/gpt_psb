@@ -1,0 +1,26 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jakub Szamszon"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Margula Szor"
+    },
+    {
+        "family_relation": "dziadek",
+        "person": "Samuel Izaak Szor"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Abraham"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Małka Towa"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Jakub Breitman"
+    }
+]

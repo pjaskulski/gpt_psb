@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jean Motty"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anne-Marie Bachmann"
+    },
+    {
+        "family_relation": "krewna",
+        "person": "Louise Noizières"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Apolonia Herwig"
+    },
+    {
+        "family_relation": "teść",
+        "person": "August"
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "Tekla Klimicka"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Marceli"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Walentyna"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Hipolit Cegielski"
+    }
+]

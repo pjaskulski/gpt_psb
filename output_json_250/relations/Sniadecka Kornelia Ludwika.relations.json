@@ -1,0 +1,54 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jędrzej Śniadecki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Konstancja z Mikułowskich"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Jan Śniadecki"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Zofia Balińska"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Michał Baliński"
+    },
+    {
+        "family_relation": "brat",
+        "person": "Józef Konstanty Śniadecki"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Antonina Śniadecka"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Kazimierz Sulistrowski"
+    },
+    {
+        "family_relation": "siostrzenica",
+        "person": "Ignacy Abramowicz"
+    },
+    {
+        "family_relation": "siostrzenica",
+        "person": "Mikołaj Abramowicz"
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Konstancja Skirmunt"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Aleksander Skirmunt"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Michał Czajkowski"
+    }
+]

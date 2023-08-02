@@ -1,0 +1,54 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Faustyn Mościcki"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Stefania Bojanowska"
+    },
+    {
+        "family_relation": "dziadek",
+        "person": "Walenty"
+    },
+    {
+        "family_relation": "stryj",
+        "person": "Kazimierz"
+    },
+    {
+        "family_relation": "stryj",
+        "person": "Jan"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Michalina Czyżewska"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Maria Nagórna Dobrzańska"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Mościcki"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Helena Mościcka"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Józef Mościcki"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Franciszek Mościcki"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Tadeusz Zwisłocki"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Aleksander Bobkowski"
+    }
+]

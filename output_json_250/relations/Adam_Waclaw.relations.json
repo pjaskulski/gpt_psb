@@ -1,0 +1,30 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Wacław Adam"
+    },
+    {
+        "family_relation": "matka",
+        "person": "Katarzyna Sydonja"
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta Kettler"
+    },
+    {
+        "family_relation": "teść",
+        "person": "Kettler"
+    },
+    {
+        "family_relation": "brat przyrodni",
+        "person": "Fryderyk Kazimierz"
+    },
+    {
+        "family_relation": "syn",
+        "person": "Fryderyk Wilhelm"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Elżbieta Lukrecja"
+    }
+]
