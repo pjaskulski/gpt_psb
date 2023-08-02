@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Oleszyce"
+        },
+        "place_of_death": {
+            "place": "Rymanów Zdrój"
+        },
+        "place_of_burial": {
+            "place": "Rymanów"
+        },
+        "date_of_birth": {
+            "date": "1867-04-29"
+        },
+        "date_of_death": {
+            "date": "1942-03-13"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

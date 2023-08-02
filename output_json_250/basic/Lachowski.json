@@ -1,0 +1,23 @@
+{
+    "place_of_birth": {
+        "place": "Mękarzów",
+        "note": "powiat lelowski"
+    },
+    "place_of_death": {
+        "place": "Koloszwar",
+        "note": "obecnie Cluj, Rumunia"
+    },
+    "place_of_burial": {
+        "place": "Koloszwar",
+        "note": "główny kościół unitariański"
+    },
+    "date_of_birth": {
+        "date": "1627"
+    },
+    "date_of_death": {
+        "date": "1691-08-06"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

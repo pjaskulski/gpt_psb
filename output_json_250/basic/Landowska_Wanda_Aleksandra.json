@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa"
+        },
+        "place_of_death": {
+            "place": "Lakeville",
+            "note": "stan Connecticut"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1879-07-05"
+        },
+        "date_of_death": {
+            "date": "1959-08-16"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,17 @@
+Na podstawie podanego tekstu napisz jednozdaniowy opis głównego bohatera/bohaterki,
+który będzie opisem itemu w bazie wiedzy na temat tej postaci.
+
+Przykład 1
+Tekst: "Soderini Carlos (ok. 1557–1591), kupiec i bankier.
+Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
+bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga. Od 1567 roku
+uczył się w szkole wiejskiej prowadzonej przez księdza Jana Tokalskiego z Krakowa.
+Następnie wstąpił na uniwersystet w Królewcu, gdzie zaprzyjaźnił się ze Zdenkiem Kovacem,
+synem właściciela banku w Pradze. Pracował w Banku Czeskim we Wrocławiu w latach 1577-78,
+później zaś, od 1579 roku praktykował jako młodszy asystent celny w Izbie Celnej miasta Gdańska.
+Pod koniec życia zamieszkał w Elblągu w pobliżu portu, gdzie prowadził interesy handlowe z Morycem Wachowskim.
+Zmarł w Hurczynianach, pochowano go na miejscowym cmentarzu parafialnym."
+Wynik:
+"Soderini Carlos (ok. 1557–1591), kupiec, bankier i asystent celny, studiował na Uniwersytecie w Królewcu."
+
+Tekst:

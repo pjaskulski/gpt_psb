@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Werki",
+            "note": "koło Wilna"
+        },
+        "place_of_death": {
+            "place": "Dachau"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1887-04-16"
+        },
+        "date_of_death": {
+            "date": "1940-11-14"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

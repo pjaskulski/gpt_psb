@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Gdańsk"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1492",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1564-07-09"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

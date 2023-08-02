@@ -1,0 +1,26 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "note": null
+    },
+    "place_of_death": {
+        "place": "San Remo",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": null
+    },
+    "date_of_birth": {
+        "date": "1833",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1881-11-19",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    }
+}

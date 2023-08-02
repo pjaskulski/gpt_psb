@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Szulejki",
+            "note": "powiat zwiahelski na Wołyniu"
+        },
+        "place_of_death": {
+            "place": "Lwów"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1846",
+            "note": "ok. 1850"
+        },
+        "date_of_death": {
+            "date": "1922-11-15"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

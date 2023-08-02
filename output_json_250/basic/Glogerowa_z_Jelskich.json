@@ -1,0 +1,25 @@
+{
+    "place_of_birth": {
+        "place": "Zamość",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Tykocin",
+        "note": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1860",
+        "note": "w połowie lipca"
+    },
+    "date_of_death": {
+        "date": "1899-04-11"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    }
+}

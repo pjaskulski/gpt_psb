@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Żurawno"
+    },
+    "place_of_burial": {
+        "place": "Lwów",
+        "note": "kościół Bernardynów"
+    },
+    "date_of_birth": {
+        "date": "1618"
+    },
+    "date_of_death": {
+        "date": "1664-06-03"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Laskowo-Głuchy",
+            "note": "koło Wyszkowa"
+        },
+        "place_of_death": {
+            "place": "Wrocław"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "rodzinny grób na Powązkach"
+        },
+        "date_of_birth": {
+            "date": "1825-03-09"
+        },
+        "date_of_death": {
+            "date": "1864-05-06"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

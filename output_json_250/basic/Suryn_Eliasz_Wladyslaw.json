@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "Mścisław",
+            "note": "kościół Karmelitów p. wezw. Nawiedzenia NMP"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1688",
+            "note": "przed 17 IX"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

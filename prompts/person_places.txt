@@ -1,0 +1,24 @@
+Na podstawie podanego tekstu biografii wyszukaj miejscowości związane z głównym bohaterem/bohaterką.
+Wynik przedstaw w formie listy obiektów JSON zawierających pola:
+place: nazwa miejscowości związanej z bohaterem/bohaterką
+date: data, kiedy bohater/bohaterka przebywał w danej miejscowości
+Miejscowość podaj w mianowniku.
+Jeżeli jakiejś informacji brak w podanym tekście napisz: 'brak danych'
+
+Przykład 1.
+Tekst: "Soderini Carlos (ok. 1557–1591), kupiec i bankier.
+Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
+bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga.
+Pracował w Banku Czeskim we Wrocławiu w latach 1577-78, później zaś, od 1579 roku
+praktykował w Izbie Celnej miasta Gdańska.
+Pod koniec życia zamieszkał w Elblągu w pobliżu portu.
+Zmarł w Hurczynianach, pochowano go na miejscowym cmentarzu parafialnym."
+Wynik:
+[{"place":"Andalewo", "date":"1557-06-01"},
+ {"place":"Wrocław", "date":"1577-1578"},
+ {"place":"Gdańsk", "date":"1579"},
+ {"place":"Elbląg", "date":"brak danych"},
+ {"place":"Hurczyniany", "date":"1591"}
+]
+
+Tekst:

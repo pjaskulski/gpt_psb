@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Brzeg"
+        },
+        "place_of_burial": {
+            "place": "Brzeg",
+            "note": "kościół kolegiacki"
+        },
+        "date_of_birth": {
+            "date": "1311",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1398-12-06",
+            "note": "między"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Suczawa",
+            "note": "na Bukowinie"
+        },
+        "place_of_death": {
+            "place": "Lublin"
+        },
+        "place_of_burial": {
+            "place": "Jerozolima",
+            "note": "cmentarz Har ha-Menuuchot"
+        },
+        "date_of_birth": {
+            "date": "1887-02-24",
+            "note": "lub 1887-03-03"
+        },
+        "date_of_death": {
+            "date": "1933-10-27"
+        },
+        "date_of_burial": {
+            "date": "1933-10-29"
+        }
+    }
+]

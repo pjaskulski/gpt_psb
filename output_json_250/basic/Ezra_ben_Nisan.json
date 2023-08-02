@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Troki",
+        "note": "stary cmentarz karaimski"
+    },
+    "date_of_birth": {
+        "date": "1596",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1666"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

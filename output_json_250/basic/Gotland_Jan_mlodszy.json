@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "Toruń"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1380",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1445",
+        "note": "po"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

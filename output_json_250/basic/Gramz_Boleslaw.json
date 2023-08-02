@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "Kubliczew",
+        "note": "gubernia witebska"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1904-04-04"
+    },
+    "date_of_death": {
+        "date": "1943-06-07"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

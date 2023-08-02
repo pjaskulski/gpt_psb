@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "Kuczbork",
+        "note": "powiat mławski"
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "note": "Służewiec"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1883-07-19"
+    },
+    "date_of_death": {
+        "date": "1950-04-30"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

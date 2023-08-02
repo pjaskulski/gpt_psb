@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zakroczym"
+        },
+        "place_of_death": {
+            "place": "Falęcin"
+        },
+        "place_of_burial": {
+            "place": "Falęcin",
+            "note": "tamtejszy cmentarz parafialny"
+        },
+        "date_of_birth": {
+            "date": "1782-03-04"
+        },
+        "date_of_death": {
+            "date": "1832-12-16"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

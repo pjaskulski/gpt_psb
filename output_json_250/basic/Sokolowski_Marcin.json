@@ -1,0 +1,27 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Litwa",
+            "note": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "note": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1670",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1736"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "note": "brak danych"
+        }
+    }
+]

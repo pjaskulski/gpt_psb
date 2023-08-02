@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "krużganki dominikanów"
+    },
+    "date_of_birth": {
+        "date": "1522",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1557-07-31"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Cieszyn"
+        },
+        "place_of_burial": {
+            "place": "Cieszyn",
+            "note": "kościół dominikanów cieszyńskich"
+        },
+        "date_of_birth": {
+            "date": "1574-12-12"
+        },
+        "date_of_death": {
+            "date": "1617-07-13"
+        },
+        "date_of_burial": {
+            "date": "1618-04-04"
+        }
+    }
+]

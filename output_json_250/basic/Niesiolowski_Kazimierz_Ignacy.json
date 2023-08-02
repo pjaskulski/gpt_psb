@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "ok. 1676",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "po 1752",
+            "note": "po"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

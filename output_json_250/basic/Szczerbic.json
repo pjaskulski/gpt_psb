@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "krużganki kościoła p. wezw. Świętej Trójcy (Dominikanów)"
+        },
+        "date_of_birth": {
+            "date": "1552",
+            "note": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1609-03-30"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

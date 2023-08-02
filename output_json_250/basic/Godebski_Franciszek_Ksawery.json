@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Frankenthal",
+            "note": "Palatynat Nadreński, wg Bonieckiego w Monachium"
+        },
+        "place_of_death": {
+            "place": "Lwów"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1801"
+        },
+        "date_of_death": {
+            "date": "1869-05-17"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

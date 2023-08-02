@@ -1,0 +1,56 @@
+Na podstawie podanego tekstu biografii wyszukaj następujące informacje dotyczące głównego bohatera/bohaterki:
+miejsce urodzenia, miejsce śmierci, miejsce pochówku, datę urodzenia, datę śmierci, datę pochówku.
+Wynik przedstaw w formie obiektów JSON zawierających pola:
+place_of_birth: miejsce urodzenia bohatera/bohaterki (nazwa miejscowości)
+place_of_death: miejsce śmierci bohatera/bohaterki (nazwa miejscowości)
+place_of_burial: miejsce pochówku bohatera/bohaterki (nazwa miejscowości), jeżeli
+znane są bardziej szczegółowe informacje o miejscu pochówku zapisz je w dodatkowym polu: note
+date_of_birth: data urodzenia bohatera/bohaterki, wyłącznie gdy obok daty są dodatkowe określenia, na przykład: około, przed, po
+zapisz je w dodatkowym polu: note
+date_of_death: data śmierci bohatera/bohaterki, wyłącznie gdy obok daty są dodatkowe określenia, na przykład: około, przed, po
+zapisz je w dodatkowym polu: note
+date_of_burial: data pochówku bohatera/bohaterki, wyłącznie gdy obok daty są dodatkowe określenia, na przykład: około, przed, po
+zapisz je w dodatkowym polu: note
+Wyszukaj również wszystkie urzędy i funkcje pełnione przez głównego bohatera/bohaterkę,
+wynik przedstaw w formie obiektów JSON zawierających pole:
+role_or_office: funkcja, urząd pełnione przez bohatera/bohaterkę
+Wyszukaj także wszystkich krewnych lub powinowatych głównego bohatera/bohaterki tekstu: możliwe rodzaje pokrewieństwa: 
+ojciec, matka, syn, córka, brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, 
+szwagier, szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa.
+Wypisz tylko rodzaje pokrewieństwa, które występują w tekście.
+Wynik przedstaw w formie obiektów JSON zawierających pola:
+family relation: rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki )
+person: nazwa (imię i nazwisko osoby związanej relacją z bohaterem/bohaterką)
+Jeżeli jakiejś informacji brak w podanym tekście napisz: 'brak danych'
+
+Przykład 1.
+Tekst: "Soderini Carlos (1557- ok. 1591), kupiec i bankier.
+Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
+bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga. Jego bratanicą była Małgorzata Anna, żona
+Winfrida de Loeve. S. ożenił się z Joanną, córką burgrabiego
+krakowskiego Adama Kurozwęckiego. Zmarł w Hurczynianach, pochowano go po 15 czerwca 1591 roku na miejscowym cmentarzu parafialnym."
+Wynik:
+{
+  "basic_info": [{"place_of_birth":"Andalewo"},
+         {"place_of_death":"Hurczyniany"},
+         {"place_of_burial":"Hurczyniany", "note": "miejscowy cmentarz parafialny"},
+         {"date_of_birth":"1557-06-01"},
+         {"date_of_death":"1591", "note":"około"},
+         {"date_of_burial":"1591-06-15", "note":"po"}
+        ],
+  "role_or_office": ["kupiec", "bankier"],
+  "relationships": [{"family_relation":"ojciec", "person":"Niccola Ricasoli"},
+        {"family_relation":"matka": "person":"Annalena Ricasoli"},
+        {"family_relation":"brat": "person":"Bernard"},
+        {"family_relation":"bratanica": "person":"Małgorzata Anna"},
+        {"family_relation":"żona": "person":"Joanna"},
+        {"family_relation":"teść": "person":"Adam Kurozwęcki"}
+      ]
+}
+
+Tekst: Szpręga (Sprenga, Spręga) Teodor, w zakonie Anastazy (1833—1911), reformat, misjonarz, komisarz generalny w Poznańskiem.
+Ur. 1 XI w Czersku (pow. chojnicki) w wielodzietnej rodzinie chłopskiej, był synem Ignacego i Katarzyny z domu Sabiniarz.
+S. uczył się w gimnazjum katolickim w Chojnicach. Dn. 5 V 1856 wstąpił do Zakonu Braci Mniejszych w Prow. Reformatów Niepokalanego Poczęcia NMP w W. Ks. Pozn. i Prusach Zachodnich. Po odbyciu nowicjatu w Wejherowie złożył 6 V 1857 profesję i podjął studia filozoficzno-teologiczne w klasztorze w Łąkach (pow. lubawski). Dn. 30 XI 1858 przyjął tam święcenia kapłańskie z rąk chełmińskiego bp. pomocniczego Jerzego Jeschke. Następnie dokończył studia teologiczne w Prow. Rekolektów Krzyża Świętego w Westfalii. Po powrocie został 2 IX 1861 wykładowcą historii Kościoła w studium seminaryjnym w Miejskiej Górce (pow. krobski). W r. 1862 przeniesiono go do Wejherowa, gdzie objął funkcje wicemagistra nowicjatu, kaznodziei i dyrektora Trzeciego Zakonu, a od 21 X 1864 gwardiana. Wydał „Regułę Trzeciego Zakonu św. Franciszka Serafickiego dla braci i sióstr w tymże Zakonie życie pokutne na świecie wiodących z dodatkiem krótkich objaśnień tejże reguły i niektórych stosownych nabożeństw” (Chełmno 1864). W poł. lipca 1865 został gwardianem i dyrektorem domu księży demerytów w Osiecznej koło Leszna (pow. wschowski). Przetłumaczył z języka niemieckiego „Przedsięwzięcia” św. Leonarda z Porto Maurizio (Rawicz 1869). Od r. 1870 był kaznodzieją w Zamartem (pow. chojnicki) i Miejskiej Górce.
+Uzyskawszy w maju 1872 tytuł misjonarza apostolskiego, udał się S. przez Wiedeń i Triest do Stambułu. Mieszkając tam, na przedmieściu Pera, w klasztorze przy kościele NMP (zwanej Draperis), pełnił funkcje kapelana sióstr franciszkanek oraz ambasady austro-węgierskiej. Pracował wśród mieszkających w Stambule katolików różnych narodowości, spowiadał pielgrzymów udających się do Ziemi Świętej, a także dojeżdżał z posługą kapłańską do polskiej osady Adampol. Korespondencje z Turcji zamieszczał w czasopismach religijno-społecznych: pelplińskim „Pielgrzymie” (1872 nr 42, 51, 1873 nr 623, 1877 nr 114, 1878 nr 102, 1879 nr 20, 53) i grodziskim „Tygodniku Katolickim” (1872 nr 43, 1873 nr 1). Szczegółowo zrelacjonował swoją pielgrzymkę do Ziemi Świętej z maja 1879 („Pielgrzym” 1879 nr 130—131, 133—134, 136—137, 139). Spisał też relację ks. Michała Ławrynowicza o ostatnich chwilach życia Adama Mickiewicza (tamże 1890 nr 79). W r. 1881 udał się w podróż do kraju. Po drodze dołączył do pielgrzymki słowiańskiej z okazji uroczystości św.św. Cyryla i Metodego, którą 5 VII t.r. w Rzymie przyjął na audiencji papież Leon XIII. W kraju spotkał się z o. Pacyfikiem Bydłowskim, byłym prowincjałem zniesionej w r. 1875 w ramach kulturkampfu Prow. Reformatów Niepokalanego Poczęcia NMP i definitorem generalnym zakonu, który w celu uniknięcia likwidacji klasztoru po swojej śmierci zaproponował S-emu powrót i zamieszkanie z nim w Miejskiej Górce. S. wrócił jednak do Stambułu, choć nieustannie zabiegał u gen. reformatów Bernardyna Dal Vago o zgodę na powrót do kraju. W poł. marca 1884 uzyskał ją i 13 VI t.r. opuścił Stambuł.
+S. został wikariuszem w Kurzętniku (pow. lubawski), następnie w styczniu 1885 w Zblewie (pow. starogardzki). Od lipca 1887 był wikariuszem parafii w Miejskiej Górce z obowiązkiem zamieszkania przy kościele zakonnym na Goruszkach, w którym zorganizował duszpasterstwo. W okresie 5 IX 1887 — 1 IV 1888 zastępował wikariusza parafii w Dubinie (pow. krobski), po czym wrócił do Miejskiej Górki. Wydał w Poznaniu, przetłumaczone na język polski: „Regułę Trzeciego Zakonu S. O. Franciszka” (wyd. 1 i 2 nieznane, wyd. 3, 1890, wyd. 4, 1898, wyd. 5, 1907) oraz „Breve najnowsze Leona XIII o odpustach dla tercjarzy III Zakonu św. Franciszka” (1902). Gdy w r. 1887 antykatolickie ustawy w Niemczech zostały zniesione, prowincjał Roger Binkowski udając się na przełomie maja i czerwca 1889 na kapit. generalną zakonu do Rzymu ustanowił S-ę swym zastępcą. Nowo wybrany gen. reformatów Alojzy Canali powierzył S-dze zadanie odrodzenia prowincji i dekretem z 7 IV 1890 powołał go na stanowisko komisarza generalnego. W dn. 16 V — 3 VI 1895 uczestniczył S. w kongregacji generalnej w Asyżu. Odtworzenie stanu prowincji sprzed r. 1875 okazało się niemożliwe z powodu niechęci władz pruskich do Polaków (w l. 1891—1900 przyjęto do zakonu i doprowadzono do kapłaństwa tylko siedmiu kandydatów) i w rezultacie S. ponownie wyjechał do Stambułu. Gdy w r. 1900 arcybp gnieźnieński i poznański Florian Stablewski odzyskał zamknięty w r. 1874 klasztor w Osiecznej i urządził w nim ponownie dom księży demerytów, mianował 1 X t.r. S-ę jego dyrektorem. Wobec braku księży w archidiecezji S. od 9 X 1900 do 23 V 1902 zastępował równocześnie proboszcza parafii w Drzeczkowie (pow. wschowski). Na przełomie maja i czerwca 1903 uczestniczył w kapit. generalnej zakonu w Rzymie. Na zaproszenie S-i przybył 19 III 1904 do Osiecznej o. Euzebiusz Stateczny, który pozostał tu dłużej i pomagał mu w pracy duszpasterskiej. W liście z 5 VI 1906 prosił S. gen. zakonu Dionizego Schulera o powołanie w jego miejsce nowego komisarza generalnego, lecz mimo to funkcję tę sprawował do śmierci. Dn. 1 XII 1908 obchodził złoty jubileusz kapłaństwa. Zmarł 26 VII 1911 w Osiecznej, został pochowany na placu przed kościołem.
+

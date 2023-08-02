@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "Nowy Sącz"
+    },
+    "place_of_death": {
+        "place": "Nowy Sącz"
+    },
+    "place_of_burial": {
+        "place": "Nowy Sącz",
+        "note": "wielki kapłański grób kolegiaty"
+    },
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1637"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

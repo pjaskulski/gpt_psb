@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "Berezówka",
+        "note": "powiat lityński na Podolu"
+    },
+    "place_of_death": {
+        "place": "Steckowce",
+        "note": "na Ukrainie"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1831-11-07"
+    },
+    "date_of_death": {
+        "date": "1887-12-23"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Stendal",
+            "note": "Brandenburgia"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "cmentarz przy kościele Mariackim"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1569-02-12",
+            "note": "przed"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

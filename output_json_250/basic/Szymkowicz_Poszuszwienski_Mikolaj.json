@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Poszuszwie",
+        "note": "w zborze"
+    },
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1563-07-28",
+        "note": "nie żył już"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

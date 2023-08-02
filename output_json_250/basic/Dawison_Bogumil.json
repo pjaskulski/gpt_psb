@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa"
+        },
+        "place_of_death": {
+            "place": "Drezno"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1818-05-15"
+        },
+        "date_of_death": {
+            "date": "1872-02-01"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

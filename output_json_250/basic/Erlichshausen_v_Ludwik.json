@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Królewiec"
+        },
+        "place_of_burial": {
+            "place": "Królewiec",
+            "note": "pochowany w tumie"
+        },
+        "date_of_birth": {
+            "date": "1410",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1467-04-04"
+        },
+        "date_of_burial": {
+            "place": "brak danych"
+        }
+    }
+]

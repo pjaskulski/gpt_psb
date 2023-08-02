@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1851"
+    },
+    "date_of_death": {
+        "date": "1933-1939",
+        "note": "między"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

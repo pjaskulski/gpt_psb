@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kampen",
+            "note": "Overijssel"
+        },
+        "place_of_death": {
+            "place": "Fryburg",
+            "note": "Brysgowia"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1490",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1538-09-07"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

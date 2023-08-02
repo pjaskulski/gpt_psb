@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Poznań"
+        },
+        "place_of_death": {
+            "place": "Krotoszyn"
+        },
+        "place_of_burial": {
+            "place": "Krotoszyn",
+            "note": "pochowany z honorami wojskowymi"
+        },
+        "date_of_birth": {
+            "date": "1839-10-15"
+        },
+        "date_of_death": {
+            "date": "1923-07-13"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

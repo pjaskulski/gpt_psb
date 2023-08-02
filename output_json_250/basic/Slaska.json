@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "Katowice"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski, grób rodzinny (kw. 339—III—5)"
+    },
+    "date_of_birth": {
+        "date": "1925-11-04"
+    },
+    "date_of_death": {
+        "date": "1989-09-18"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

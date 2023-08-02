@@ -1,0 +1,23 @@
+{
+    "place_of_birth": {
+        "place": "Zbiroż",
+        "note": "powiat rypiński"
+    },
+    "place_of_death": {
+        "place": "Łódź"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "date_of_birth": {
+        "date": "1878-11-02"
+    },
+    "date_of_death": {
+        "date": "1955-03-14"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "place_of_birth": {
+        "place": "Wiedeń",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Drezno",
+        "note": "okupowane przez Prusaków"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1699-12-08"
+    },
+    "date_of_death": {
+        "date": "1757-11-17"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    }
+}

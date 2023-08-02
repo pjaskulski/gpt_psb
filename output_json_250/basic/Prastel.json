@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Rakowicki"
+    },
+    "date_of_birth": {
+        "date": "1745"
+    },
+    "date_of_death": {
+        "date": "1808-07-06"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    }
+}

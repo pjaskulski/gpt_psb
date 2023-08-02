@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Łukiszki",
+        "note": "kościół Dominikanów pod wezwaniem św. św. Filipa i Jakuba pod Wilnem"
+    },
+    "date_of_birth": {
+        "date": "1650",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1707-04-02"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    }
+}

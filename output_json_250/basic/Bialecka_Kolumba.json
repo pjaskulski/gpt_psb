@@ -1,0 +1,24 @@
+{
+    "place_of_birth": {
+        "place": "Jaśniszcze",
+        "note": "koło Podkamienia w powiecie brodzkim"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": null
+    },
+    "date_of_birth": {
+        "date": "1838-08-23"
+    },
+    "date_of_death": {
+        "date": "1887-03-18"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    }
+}

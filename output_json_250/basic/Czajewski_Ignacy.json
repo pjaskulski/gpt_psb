@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "place_of_burial": {
+        "place": "Ząbki",
+        "note": "cmentarz w Ząbkach"
+    },
+    "date_of_birth": {
+        "date": "1868"
+    },
+    "date_of_death": {
+        "date": "1922-01-19"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

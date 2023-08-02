@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Leżajsk"
+        },
+        "place_of_death": {
+            "place": "Lwów"
+        },
+        "place_of_burial": {
+            "place": "Lwów",
+            "note": "cmentarz Łyczakowski"
+        },
+        "date_of_birth": {
+            "date": "1828-12-22"
+        },
+        "date_of_death": {
+            "date": "1893-03-23"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

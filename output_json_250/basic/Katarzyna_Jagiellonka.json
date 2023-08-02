@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "Uppsala",
+            "note": "podziemia katedry, kaplica nagrobna"
+        },
+        "date_of_birth": {
+            "date": "1526-11-01"
+        },
+        "date_of_death": {
+            "date": "1583-09-16"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Paryż"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Powązkowski"
+        },
+        "date_of_birth": {
+            "date": "1801-09-11"
+        },
+        "date_of_death": {
+            "date": "1869-02-14"
+        },
+        "date_of_burial": {
+            "place": "brak danych"
+        }
+    }
+]

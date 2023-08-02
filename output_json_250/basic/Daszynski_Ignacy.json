@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zbaraż"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "Kraków"
+        },
+        "date_of_birth": {
+            "date": "1866-10-26"
+        },
+        "date_of_death": {
+            "date": "1936"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Pułnuszki",
+            "note": "pod Dubinkami, województwo wileńskie"
+        },
+        "place_of_death": {
+            "place": "Węgrów"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1660"
+        },
+        "date_of_death": {
+            "date": "1724"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

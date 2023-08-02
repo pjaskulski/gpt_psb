@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Poznań"
+    },
+    "place_of_burial": {
+        "place": "Poznań",
+        "note": "katedra poznańska"
+    },
+    "date_of_birth": {
+        "date": "ok. 1500",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1583-04-19"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    }
+}

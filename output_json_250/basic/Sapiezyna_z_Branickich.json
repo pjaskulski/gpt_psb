@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Kodeń"
+    },
+    "place_of_burial": {
+        "place": "Kodeń"
+    },
+    "date_of_birth": {
+        "date": "1734",
+        "note": "około"
+    },
+    "date_of_death": {
+        "date": "1800-09-03"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

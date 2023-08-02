@@ -1,0 +1,22 @@
+{
+    "place_of_birth": {
+        "place": "Nysa",
+        "note": "na Śląsku"
+    },
+    "place_of_death": {
+        "place": "Chojnice"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1574-07-20"
+    },
+    "date_of_death": {
+        "date": "1627-12-20",
+        "note": "około"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

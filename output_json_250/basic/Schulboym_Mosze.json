@@ -1,0 +1,21 @@
+{
+    "place_of_birth": {
+        "place": "Jezierzany",
+        "note": "Galicja"
+    },
+    "place_of_death": {
+        "place": "Wiedeń"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "date_of_birth": {
+        "date": "1830-04-19"
+    },
+    "date_of_death": {
+        "date": "1918-04-24"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    }
+}

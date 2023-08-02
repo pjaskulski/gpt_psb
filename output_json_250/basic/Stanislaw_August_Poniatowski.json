@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Wołczyn"
+        },
+        "place_of_death": {
+            "place": "Petersburg"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "katedra św. Jana"
+        },
+        "date_of_birth": {
+            "date": "1732-01-17"
+        },
+        "date_of_death": {
+            "date": "1798-02-12"
+        },
+        "date_of_burial": {
+            "date": "1995-02-14"
+        }
+    }
+]
