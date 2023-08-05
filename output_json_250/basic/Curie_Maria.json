@@ -1,20 +1,21 @@
 {
-    "place_of_birth": {
-        "place": "Warszawa"
-    },
-    "place_of_death": {
-        "place": "brak danych"
-    },
-    "place_of_burial": {
-        "place": "brak danych"
-    },
-    "date_of_birth": {
-        "date": "1867-11-07"
-    },
-    "date_of_death": {
-        "date": "1934"
-    },
-    "date_of_burial": {
-        "date": "brak danych"
-    }
+  "place_of_birth": {
+    "place": "Warszawa"
+  },
+  "place_of_death": {
+    "place": "Paryż"
+  },
+  "place_of_burial": {
+    "place": "Sceaux",
+    "note": "pod Paryżem"
+  },
+  "date_of_birth": {
+    "date": "1867-11-07"
+  },
+  "date_of_death": {
+    "date": "1934-07-04"
+  },
+  "date_of_burial": {
+    "date": "1934-07-06"
+  }
 }

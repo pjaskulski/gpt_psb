@@ -1,0 +1,86 @@
+[
+    {
+        "institution": "Akademia Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Uniwersytet w Bolonii",
+        "place_of_institution": "Bolonia"
+    },
+    {
+        "institution": "Dwór Mikołaja Maciejowskiego",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Dwór francuski",
+        "place_of_institution": "Francja"
+    },
+    {
+        "institution": "Sejm warszawski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Sejm konwokacyjny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sejm elekcyjny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sejm koronacyjny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sejm pacyfikacyjny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rada senatorów",
+        "place_of_institution": "Piotrków"
+    },
+    {
+        "institution": "Zjazd senatorów",
+        "place_of_institution": "Brześć Litewski"
+    },
+    {
+        "institution": "Sejm",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rada wojenna",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sejm",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Bractwo Miłosierdzia Św. Łukasza",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Trybunał",
+        "place_of_institution": "Piotrków"
+    },
+    {
+        "institution": "Kościół Mariacki",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Starostwo łosickie",
+        "place_of_institution": "Łosice"
+    },
+    {
+        "institution": "Starostwo zatorskie",
+        "place_of_institution": "Zator"
+    },
+    {
+        "institution": "Starostwo oświęcimskie",
+        "place_of_institution": "Oświęcim"
+    },
+    {
+        "institution": "Starostwo drohickie",
+        "place_of_institution": "Drohiczyn"
+    }
+]

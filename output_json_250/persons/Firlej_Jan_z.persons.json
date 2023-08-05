@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Zygmunt I",
+        "date": "1545",
+        "info": "król"
+    },
+    {
+        "name": "Karol V",
+        "date": "1545",
+        "info": "cesarz"
+    },
+    {
+        "name": "Stanisław Hozjusz",
+        "date": "brak danych",
+        "info": "sekretarz królewski"
+    },
+    {
+        "name": "Albrecht pruski",
+        "date": "brak danych",
+        "info": "książę pruski"
+    },
+    {
+        "name": "Seweryn Boner",
+        "date": "1546",
+        "info": "kasztelan biecki"
+    },
+    {
+        "name": "Zygmunt August",
+        "date": "1548",
+        "info": "król"
+    },
+    {
+        "name": "Samuel Maciejowski",
+        "date": "brak danych",
+        "info": "biskup-humanista, kanclerz"
+    },
+    {
+        "name": "Moryc Wachowski",
+        "date": "1590",
+        "info": "kupiec zbożowy"
+    },
+    {
+        "name": "Andrzej Trzycieski",
+        "date": "1556",
+        "info": "autor elegii"
+    },
+    {
+        "name": "Marcin Zborowski",
+        "date": "1562",
+        "info": "kasztelan krakowski"
+    },
+    {
+        "name": "Grzegorz Paweł",
+        "date": "1565",
+        "info": "przywódca antytrynitarzy"
+    },
+    {
+        "name": "Jan Chodkiewicz",
+        "date": "1569",
+        "info": "marszałek litewski"
+    },
+    {
+        "name": "Piotr Zborowski",
+        "date": "brak danych",
+        "info": "wojewoda sandomierski"
+    },
+    {
+        "name": "Stanisław Barz",
+        "date": "1572",
+        "info": "wojewoda i starosta krakowski"
+    },
+    {
+        "name": "Jan Chodkiewicz",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Mikołaj Firlej",
+        "date": "1572",
+        "info": "starosta kazimirski"
+    },
+    {
+        "name": "Fr. Krasiński",
+        "date": "1573",
+        "info": "biskup"
+    },
+    {
+        "name": "Krzysztof Trecy",
+        "date": "1573",
+        "info": "minister zboru kalwińskiego w Krakowie i rektor szkoły tamże"
+    },
+    {
+        "name": "Beza",
+        "date": "1573",
+        "info": "brak danych"
+    },
+    {
+        "name": "Bullinger",
+        "date": "1573",
+        "info": "brak danych"
+    },
+    {
+        "name": "Jan III",
+        "date": "1573",
+        "info": "król szwedzki"
+    },
+    {
+        "name": "Katarzyna Jagiellonka",
+        "date": "1573",
+        "info": "królowa szwedzka"
+    },
+    {
+        "name": "Mikołaj Mielecki",
+        "date": "1573",
+        "info": "wojewoda podolski"
+    },
+    {
+        "name": "Anzelm Gostomski",
+        "date": "1573",
+        "info": "wojewoda rawski"
+    },
+    {
+        "name": "Jan Kostka",
+        "date": "1573",
+        "info": "kasztelan gdański"
+    },
+    {
+        "name": "St. Karnkowski",
+        "date": "1573",
+        "info": "brak danych"
+    },
+    {
+        "name": "Zborowski",
+        "date": "brak danych",
+        "info": "członek francuskiej partii"
+    },
+    {
+        "name": "Andegaweńczyk",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Henryk Walezy",
+        "date": "1573",
+        "info": "król"
+    },
+    {
+        "name": "Prymas Uchański",
+        "date": "1573",
+        "info": "prymas"
+    },
+    {
+        "name": "Mikołaj Mielecki",
+        "date": "1573",
+        "info": "senator"
+    },
+    {
+        "name": "Montluk",
+        "date": "1573",
+        "info": "poseł"
+    },
+    {
+        "name": "Piotr Zborowski",
+        "date": "1573",
+        "info": "brak danych"
+    },
+    {
+        "name": "Maksymilian",
+        "date": "1573",
+        "info": "cesarz"
+    },
+    {
+        "name": "Mateusz Siebeneycher",
+        "date": "1574",
+        "info": "drukarz"
+    },
+    {
+        "name": "Jan Dymitr Solikowski",
+        "date": "1574",
+        "info": "autor pisma"
+    },
+    {
+        "name": "Bp Krasiński",
+        "date": "1574",
+        "info": "biskup"
+    },
+    {
+        "name": "Nuncjusz Laureo",
+        "date": "1574",
+        "info": "nuncjusz"
+    },
+    {
+        "name": "Piotr Zborowski",
+        "date": "1574",
+        "info": "rywal"
+    },
+    {
+        "name": "Kardynał Hozjusz",
+        "date": "1574",
+        "info": "kardynał"
+    },
+    {
+        "name": "Zygmunt August",
+        "date": "1570",
+        "info": "król"
+    },
+    {
+        "name": "Fr. Krasiński",
+        "date": "brak danych",
+        "info": "podkanclerz, biskup"
+    },
+    {
+        "name": "Mik. Mielecki",
+        "date": "brak danych",
+        "info": "wojewoda"
+    },
+    {
+        "name": "Andrzej Dudycz",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Andrzej Trzycieski",
+        "date": "1565",
+        "info": "autor 'Epigrammatum liber I'"
+    },
+    {
+        "name": "Maciej Wierzbięta",
+        "date": "1573",
+        "info": "drukarz, autor 'Krótkie opisanie wiary świętej'"
+    },
+    {
+        "name": "Josias Simler",
+        "date": "1568",
+        "info": "autor 'De Aeterno Dei Filio'"
+    },
+    {
+        "name": "Piotr Roizjusz",
+        "date": "brak danych",
+        "info": "poeta"
+    }
+]

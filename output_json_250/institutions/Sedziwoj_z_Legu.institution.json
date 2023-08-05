@@ -1,0 +1,30 @@
+[
+    {
+        "institution": "Uniwersytet Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kapituła Katedralna Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kuria Rzymska",
+        "place_of_institution": "Rzym"
+    },
+    {
+        "institution": "Stolica Apostolska",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sąd Konsystorski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Synod Prowincjonalny",
+        "place_of_institution": "Łęczyca"
+    },
+    {
+        "institution": "Kapituła Katedralna Poznańska",
+        "place_of_institution": "Poznań"
+    }
+]

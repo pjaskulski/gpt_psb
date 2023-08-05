@@ -1,0 +1,38 @@
+[
+    {
+        "institution": "pruskie Zgromadzenie Narodowe",
+        "place_of_institution": "Berlin"
+    },
+    {
+        "institution": "Uniwersytet we Wrocławiu",
+        "place_of_institution": "Wrocław"
+    },
+    {
+        "institution": "seminarium duchowne",
+        "place_of_institution": "Pelplin"
+    },
+    {
+        "institution": "parafia kościoła św. Józefa",
+        "place_of_institution": "Gdańsk"
+    },
+    {
+        "institution": "parafia w Rumi",
+        "place_of_institution": "Rumia"
+    },
+    {
+        "institution": "Bractwo Bożej Opatrzności",
+        "place_of_institution": "Rumia"
+    },
+    {
+        "institution": "Bractwo Różańca Świętego",
+        "place_of_institution": "Reda"
+    },
+    {
+        "institution": "Liga Polska Narodowa",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "sejm pruski",
+        "place_of_institution": "Berlin"
+    }
+]

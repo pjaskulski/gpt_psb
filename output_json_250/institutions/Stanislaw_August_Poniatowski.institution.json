@@ -1,0 +1,406 @@
+[
+    {
+        "institution": "Uniw. Królewiecki",
+        "place_of_institution": "Królewiec"
+    },
+    {
+        "institution": "Tryb. Piotrkowski",
+        "place_of_institution": "Piotrków Trybunalski"
+    },
+    {
+        "institution": "Tryb. Skarbowy",
+        "place_of_institution": "Radom"
+    },
+    {
+        "institution": "sejm nadzwycz.",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Trybunał",
+        "place_of_institution": "Wschowa"
+    },
+    {
+        "institution": "Trybunał Litewski",
+        "place_of_institution": "Wilno"
+    },
+    {
+        "institution": "Rada Senatu",
+        "place_of_institution": "Wschowa"
+    },
+    {
+        "institution": "Poselstwo angielskie",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Dwór rosyjski",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Poselstwo inflanckie",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Poselstwo saskie",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Sejm",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Dwór saski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Rada Prywatna",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Szkoła Rycerska",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Kancelaria Królewska",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Konferencja Króla z Ministrami",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "brak danych",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Komisja Edukacyjna Narodowa",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rada Nieustająca",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Komisje Wojskowe",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Dep. Wojskowy RN",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "KEN",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Komisje Skarbowe",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "RN",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Dep. Interesów Cudzoziemskich RN",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sąd Marszałkowski",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Gabinet Maurycego Glayre’a",
+        "place_of_institution": "Paryż"
+    },
+    {
+        "institution": "kancelaria wojskowa króla",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Gabinet króla",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "placówka dyplomatyczna",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Komisja Edukacji Narodowej",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Departament",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Komisja",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Deputacja Interesów Zagranicznych",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Gabinet",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Kancelaria wojskowa",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Deputacja «do formy rządu»",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Tryb. Lubelski",
+        "place_of_institution": "Lublin"
+    },
+    {
+        "institution": "Bank Narodowy",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rada Gabinetowa",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sejm Czteroletni",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Straż",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rada Wojenna",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Konfederacja Targowicka",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Generalność",
+        "place_of_institution": "Grodno"
+    },
+    {
+        "institution": "Sejm Czteroletni",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Generalność targowicka",
+        "place_of_institution": "Grodno"
+    },
+    {
+        "institution": "Banki warszawskie",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Rada Zastępcza Tymczasowa",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Rada Najwyższa Narodowa",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Szkoła Rycerska",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Pałac Marmurowy",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Petersburska Akademia Nauk",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Akademia Nauk",
+        "place_of_institution": "Berlin"
+    },
+    {
+        "institution": "Zamek Warszawski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Kompania Manufaktur Wełnianych",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "manufaktura sukienna",
+        "place_of_institution": "Zaleszczyki"
+    },
+    {
+        "institution": "manufaktura wyrobów fajansowych",
+        "place_of_institution": "Belweder"
+    },
+    {
+        "institution": "ludwisarnia",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "wytwórnia",
+        "place_of_institution": "Kamieniec Podolski"
+    },
+    {
+        "institution": "fabryka ręcznej broni palnej",
+        "place_of_institution": "Kozienice"
+    },
+    {
+        "institution": "Komisja Górnicza (Kruszcową)",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "kopalnia marmurów",
+        "place_of_institution": "Dębnik"
+    },
+    {
+        "institution": "kopalnia węgla kamiennego",
+        "place_of_institution": "Szczakowa"
+    },
+    {
+        "institution": "obserwatorium astronomiczne",
+        "place_of_institution": "Zamek Warszawski"
+    },
+    {
+        "institution": "teatr francuski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "opera włoska",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "balet",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "scena narodowa",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "szkoła baletowa",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "teatr",
+        "place_of_institution": "Zamek Warszawski"
+    },
+    {
+        "institution": "teatr 'mały'",
+        "place_of_institution": "Łazienki"
+    },
+    {
+        "institution": "teatr 'na wyspie'",
+        "place_of_institution": "Łazienki"
+    },
+    {
+        "institution": "teatr w Pomarańczarni",
+        "place_of_institution": "Łazienki"
+    },
+    {
+        "institution": "orkiestra dworska i teatralna",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Zamek Ujazdowski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Zamek w Warszawie",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Łazienki Królewskie",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Biały Dom",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Pałac Myślewicki",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Pomarańczarnia",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Amfiteatr",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Biblioteka",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Mennica Warszawska",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Pałac Kazimierzowski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Pałac Pod Blachą",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Komisja Skarbu Jego Królewskiej Mości",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Komisja Ekonomiczna Skarbu Jego Królewskiej Mości",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Kasa Litewska",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Manufaktura sukienna",
+        "place_of_institution": "Zaleszczyki"
+    },
+    {
+        "institution": "Jurydyka Skaryszew",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Jurydyka Mariensztat",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Komisja Ekonomiczna",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Bankierzy genueńscy",
+        "place_of_institution": "Genua"
+    },
+    {
+        "institution": "Bankierzy holenderscy",
+        "place_of_institution": "Holandia"
+    },
+    {
+        "institution": "Masoneria",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Kościół św. Katarzyny",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Kościół parafialny w Wołczynie",
+        "place_of_institution": "Wołczyn"
+    },
+    {
+        "institution": "Katedra św. Jana",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Stara Pomarańczarnia",
+        "place_of_institution": "Łazienki"
+    }
+]

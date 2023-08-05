@@ -1,0 +1,30 @@
+[
+    {
+        "institution": "Katedra w Gnieźnie",
+        "place_of_institution": "Gniezno"
+    },
+    {
+        "institution": "Biskupstwo w Poznaniu",
+        "place_of_institution": "Poznań"
+    },
+    {
+        "institution": "Kapituła poznańska",
+        "place_of_institution": "Poznań"
+    },
+    {
+        "institution": "Kuria papieska",
+        "place_of_institution": "Rzym"
+    },
+    {
+        "institution": "Biskupstwo wrocławskie",
+        "place_of_institution": "Wrocław"
+    },
+    {
+        "institution": "Kapituła katedralna",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Dziekania gnieźnieńska",
+        "place_of_institution": "Gniezno"
+    }
+]

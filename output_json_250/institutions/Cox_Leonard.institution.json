@@ -1,0 +1,30 @@
+[
+    {
+        "institution": "Akademia Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Szkoła w Lewoczy",
+        "place_of_institution": "Lewocza"
+    },
+    {
+        "institution": "Szkoła w Koszycach",
+        "place_of_institution": "Koszyce"
+    },
+    {
+        "institution": "Szkoła opactwa w Reading",
+        "place_of_institution": "Reading"
+    },
+    {
+        "institution": "Szkoła w Bristol",
+        "place_of_institution": "Bristol"
+    },
+    {
+        "institution": "Szkoła w Reading",
+        "place_of_institution": "Reading"
+    },
+    {
+        "institution": "Szkoła w Coventry",
+        "place_of_institution": "Coventry"
+    }
+]

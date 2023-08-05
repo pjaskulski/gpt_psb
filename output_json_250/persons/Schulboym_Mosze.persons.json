@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Michał Wolf",
+        "date": "1870",
+        "info": "właściciel drukarni"
+    },
+    {
+        "name": "Baron M. Hirsch",
+        "date": "1887",
+        "info": "założyciel fundacji"
+    },
+    {
+        "name": "J. L. Ben-Zeew",
+        "date": "1881",
+        "info": "autor hebrajskiego słownika"
+    },
+    {
+        "name": "Arystoteles",
+        "date": "1877",
+        "info": "filozof, autor 'Etyki nikomachejskiej'"
+    },
+    {
+        "name": "F. Schiller",
+        "date": "1881",
+        "info": "autor 'Zbójców'"
+    }
+]

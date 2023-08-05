@@ -1,0 +1,37 @@
+[
+    {
+        "name": "A. Michałowski",
+        "date": "1895",
+        "info": "nauczyciel w Konserwatorium Warszawskim"
+    },
+    {
+        "name": "H. Urban",
+        "date": "1896",
+        "info": "nauczyciel kompozycji w Berlinie"
+    },
+    {
+        "name": "M. Karłowicz",
+        "date": "1896",
+        "info": "student kompozycji w Berlinie"
+    },
+    {
+        "name": "H. Lew",
+        "date": "brak danych",
+        "info": "pisarz i znawca folkloru hebrajskiego"
+    },
+    {
+        "name": "M. de Falla",
+        "date": "1926",
+        "info": "kompozytor"
+    },
+    {
+        "name": "F. Poulenc",
+        "date": "1927",
+        "info": "kompozytor"
+    },
+    {
+        "name": "E. Grieg",
+        "date": "brak danych",
+        "info": "kompozytor, wpływ na twórczość L."
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "institution": "dwór królewski",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "zamek chęciński",
+        "place_of_institution": "Chęciny"
+    },
+    {
+        "institution": "starostwo radomskie",
+        "place_of_institution": "Radom"
+    },
+    {
+        "institution": "starostwo nieszawskie",
+        "place_of_institution": "Nieszawa"
+    },
+    {
+        "institution": "starostwo inowrocławskie",
+        "place_of_institution": "Inowrocław"
+    },
+    {
+        "institution": "sąd królewski",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "uniwersytet w Krakowie",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "kapituła katedralna krakowska",
+        "place_of_institution": "Kraków"
+    }
+]

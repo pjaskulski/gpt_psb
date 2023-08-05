@@ -1,0 +1,38 @@
+[
+    {
+        "institution": "Szkoła w Świsłoczy",
+        "place_of_institution": "Świsłocz"
+    },
+    {
+        "institution": "Uniwersytet w Moskwie",
+        "place_of_institution": "Moskwa"
+    },
+    {
+        "institution": "Wydział Prawa",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Komitet Ziemli i Woli",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Komitet Prowincjonalny Litwy",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rząd Tymczasowy",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Wydział",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Komitet Litewski",
+        "place_of_institution": "Wilno"
+    },
+    {
+        "institution": "Rząd Narodowy",
+        "place_of_institution": "Warszawa"
+    }
+]

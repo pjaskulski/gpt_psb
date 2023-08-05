@@ -1,0 +1,42 @@
+[
+    {
+        "institution": "Bank Krajowy",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Tow. Tatrzańskie",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Gimnazjum",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Uniwersytet",
+        "place_of_institution": "Graz"
+    },
+    {
+        "institution": "Klinika Dziecięca",
+        "place_of_institution": "Wrocław"
+    },
+    {
+        "institution": "Szpital Zakaźny",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Szpital Dziecięcy im. Św. Zofii",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Zakład Patologii Ogólnej i Doświadczalnej Uniw. Lwow.",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Uniw. Lwow.",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Kolonie Dziecięce",
+        "place_of_institution": "Szczawnica"
+    }
+]

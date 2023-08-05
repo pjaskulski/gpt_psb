@@ -1,0 +1,38 @@
+[
+    {
+        "institution": "Uniwersytet Lwowski",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Uniwersytet Wiedeński",
+        "place_of_institution": "Wiedeń"
+    },
+    {
+        "institution": "Ministerstwo W. i O.",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Konsystorz Metropol.",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Metropol. Kapituła",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Metrop. sąd",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Ruskyj Syjon",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Hałyckyj Syjon",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Duszpastyr",
+        "place_of_institution": "brak danych"
+    }
+]

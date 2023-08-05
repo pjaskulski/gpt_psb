@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Janusz Zarzycki",
+        "date": "1943",
+        "info": "działacz komunistyczny"
+    },
+    {
+        "name": "Tadeusz Głąbski",
+        "date": "1943",
+        "info": "działacz komunistyczny"
+    },
+    {
+        "name": "Jan Rutkowski",
+        "date": "1943",
+        "info": "działacz komunistyczny"
+    },
+    {
+        "name": "Witold Sienkiewicz",
+        "date": "1961",
+        "info": "były dyrektor Dep. I MSW"
+    },
+    {
+        "name": "J. Kennedy",
+        "date": "1962",
+        "info": "prezydent USA"
+    },
+    {
+        "name": "Władysław Gomułka",
+        "date": "1962",
+        "info": "I sekretarz KC PZPR"
+    },
+    {
+        "name": "N. Chruszczow",
+        "date": "1962",
+        "info": "przywódca Związku Radzieckiego"
+    },
+    {
+        "name": "Paweł VI",
+        "date": "1973",
+        "info": "papież"
+    }
+]

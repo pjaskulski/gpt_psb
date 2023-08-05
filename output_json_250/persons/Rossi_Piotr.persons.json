@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Stanisław August",
+        "date": "1791",
+        "info": "król"
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "1794",
+        "info": "cesarzowa Rosji"
+    },
+    {
+        "name": "Augustyn Kossakowski",
+        "date": "1798",
+        "info": "architekt"
+    },
+    {
+        "name": "Wawrzyniec Gucewicz",
+        "date": "brak danych",
+        "info": "architekt"
+    },
+    {
+        "name": "Dominik Radziwiłł",
+        "date": "brak danych",
+        "info": "szlachcic"
+    },
+    {
+        "name": "Karol Schildhaus",
+        "date": "1810",
+        "info": "architekt"
+    },
+    {
+        "name": "Hermanowski",
+        "date": "1810",
+        "info": "mechanik"
+    }
+]

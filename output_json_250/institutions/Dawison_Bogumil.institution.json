@@ -1,0 +1,46 @@
+[
+    {
+        "institution": "Gazeta Warszawska",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Szkoła Dramatyczna",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Teatr Wielki",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Teatr Rozmaitości",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Teatr Wileński",
+        "place_of_institution": "Wilno"
+    },
+    {
+        "institution": "Teatr Lwowski",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Burg-teatr",
+        "place_of_institution": "Wiedeń"
+    },
+    {
+        "institution": "Thaliatheater",
+        "place_of_institution": "Hamburg"
+    },
+    {
+        "institution": "Teatr Drezdeński",
+        "place_of_institution": "Drezno"
+    },
+    {
+        "institution": "Teatr Niemiecki",
+        "place_of_institution": "Poznań"
+    },
+    {
+        "institution": "Teatr Warszawski",
+        "place_of_institution": "Warszawa"
+    }
+]

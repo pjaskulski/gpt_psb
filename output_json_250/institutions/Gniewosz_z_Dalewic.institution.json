@@ -1,0 +1,50 @@
+[
+    {
+        "institution": "Księstwo Opolskie",
+        "place_of_institution": "Opole"
+    },
+    {
+        "institution": "Zamek Wawelski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Dwór królewski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Starostwo Lwowskie",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Starostwo Trembowelskie",
+        "place_of_institution": "Trembowla"
+    },
+    {
+        "institution": "Podkomorzy Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Dwór drugiej żony Jagiełły, królowej Anny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Rada Królewska",
+        "place_of_institution": "Raciąż"
+    },
+    {
+        "institution": "Kasztelania Sandomierska",
+        "place_of_institution": "Sandomierz"
+    },
+    {
+        "institution": "Uniwersytet w Krakowie",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Klasztor w Koprzywnicy",
+        "place_of_institution": "Koprzywnica"
+    },
+    {
+        "institution": "Klasztor augustianów przy kościele Bożego Ciała",
+        "place_of_institution": "Kraków"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "institution": "Dwór królewski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Zamek wawelski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Zamek w Turku",
+        "place_of_institution": "Turku"
+    },
+    {
+        "institution": "Zamek Gripsholm",
+        "place_of_institution": "Mariefred"
+    },
+    {
+        "institution": "Królestwo Szwecji",
+        "place_of_institution": "Szwecja"
+    },
+    {
+        "institution": "Katedra w Uppsali",
+        "place_of_institution": "Uppsala"
+    }
+]

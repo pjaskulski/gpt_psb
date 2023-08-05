@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Jadwiga Młodnicka",
+        "date": "1600",
+        "info": "opiekunka"
+    },
+    {
+        "name": "Gerard Corselius",
+        "date": "1613",
+        "info": "wykładowca"
+    },
+    {
+        "name": "Eryk Puteanus",
+        "date": "1613",
+        "info": "wykładowca"
+    },
+    {
+        "name": "Abraham Bzowski",
+        "date": "1616",
+        "info": "historyk"
+    },
+    {
+        "name": "Władysław IV Waza",
+        "date": "1617",
+        "info": "królewicz, późniejszy król Polski"
+    },
+    {
+        "name": "Stanisław Kazanowski",
+        "date": "1617",
+        "info": "brak danych"
+    },
+    {
+        "name": "Jan Karol Chodkiewicz",
+        "date": "1617",
+        "info": "hetman wielki litewski"
+    },
+    {
+        "name": "Mikołaj Daniłowicz",
+        "date": "1620",
+        "info": "podskarbi koronny"
+    },
+    {
+        "name": "Janusz Ostrogski",
+        "date": "1620",
+        "info": "książę"
+    },
+    {
+        "name": "Jakub I",
+        "date": "1621",
+        "info": "król Anglii"
+    },
+    {
+        "name": "Chrystian IV",
+        "date": "1621",
+        "info": "król Danii"
+    },
+    {
+        "name": "Jan Tęczyński",
+        "date": "1621",
+        "info": "kasztelan wojnicki"
+    },
+    {
+        "name": "Zygmunt III Waza",
+        "date": "1632",
+        "info": "król Polski"
+    },
+    {
+        "name": "Urszula Meierin",
+        "date": "1632",
+        "info": "faworyta króla Zygmunta III Wazy"
+    },
+    {
+        "name": "Jakub Zadzik",
+        "date": "1633",
+        "info": "dysydent"
+    },
+    {
+        "name": "Jerzy Wilhelm",
+        "date": "1633",
+        "info": "poseł elektora"
+    },
+    {
+        "name": "Stefan della Bella",
+        "date": "brak danych",
+        "info": "artysta"
+    },
+    {
+        "name": "Ferdynand II",
+        "date": "brak danych",
+        "info": "cesarz"
+    },
+    {
+        "name": "Katarzyna Medici",
+        "date": "brak danych",
+        "info": "księżniczka"
+    },
+    {
+        "name": "Walerian Magni",
+        "date": "1636",
+        "info": "brak danych"
+    },
+    {
+        "name": "Gerard Denhoff",
+        "date": "1637",
+        "info": "brak danych"
+    },
+    {
+        "name": "Jakub Sienieński",
+        "date": "1638",
+        "info": "właściciel Rakowa"
+    },
+    {
+        "name": "Aleksander Lubomirski",
+        "date": "1638",
+        "info": "szlachcic"
+    },
+    {
+        "name": "Jerzy Wilhelm",
+        "date": "1639",
+        "info": "elektor brandenburski"
+    },
+    {
+        "name": "Adam Kazanowski",
+        "date": "1639",
+        "info": "rywal na dworze"
+    },
+    {
+        "name": "Jan Lipski",
+        "date": "brak danych",
+        "info": "protegowany przez Ossolińskiego"
+    },
+    {
+        "name": "Kazanowski",
+        "date": "brak danych",
+        "info": "marszałek dworu królowej"
+    },
+    {
+        "name": "Kasper Denhoff",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Herman Booth",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Fryderyk Wilhelm",
+        "date": "1641",
+        "info": "elektor"
+    },
+    {
+        "name": "Piotr Gembicki",
+        "date": "brak danych",
+        "info": "kanclerz"
+    },
+    {
+        "name": "Stanisław Baranowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "K. Denhoff",
+        "date": "1640",
+        "info": "brak danych"
+    },
+    {
+        "name": "Łukasz Opaliński",
+        "date": "1643",
+        "info": "marszałek w. kor."
+    },
+    {
+        "name": "Krzysztof Opaliński",
+        "date": "1646",
+        "info": "brak danych"
+    },
+    {
+        "name": "Ludwika Maria Gonzaga",
+        "date": "1646",
+        "info": "królowa"
+    },
+    {
+        "name": "Jan Leszczyński",
+        "date": "1645",
+        "info": "brak danych"
+    },
+    {
+        "name": "J. B. Tiepolo",
+        "date": "1647",
+        "info": "poseł wenecki"
+    },
+    {
+        "name": "Władysław IV",
+        "date": "brak danych",
+        "info": "król"
+    },
+    {
+        "name": "Adam Kisiel",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Bohdan Chmielnicki",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Jan Kazimierz",
+        "date": "brak danych",
+        "info": "królewicz"
+    },
+    {
+        "name": "Karol Ferdynand",
+        "date": "brak danych",
+        "info": "biskup"
+    },
+    {
+        "name": "Jan Kazimierz",
+        "date": "1649",
+        "info": "król"
+    },
+    {
+        "name": "Andrzej Leszczyński",
+        "date": "brak danych",
+        "info": "podkanclerz koronny"
+    },
+    {
+        "name": "Chmielnicki",
+        "date": "1649",
+        "info": "przywódca powstania kozackiego"
+    },
+    {
+        "name": "Jarema Wiśniowiecki",
+        "date": "1649",
+        "info": "szlachcic, wojskowy"
+    },
+    {
+        "name": "Piotr Gembicki",
+        "date": "brak danych",
+        "info": "pieczętarz"
+    },
+    {
+        "name": "Leibniz",
+        "date": "1669",
+        "info": "filozof, matematyk"
+    },
+    {
+        "name": "Krzysztof Opaliński",
+        "date": "1650",
+        "info": "poeta, polityk"
+    }
+]

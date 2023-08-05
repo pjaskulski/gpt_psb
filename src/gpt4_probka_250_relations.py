@@ -1,4 +1,4 @@
-""" analiza próbki 250 biogramów - informacje podstawowe """
+""" analiza próbki 250 biogramów - relacje rodzinne głównego bohatera/bohaterki """
 import os
 import sys
 import json

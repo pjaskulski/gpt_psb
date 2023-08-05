@@ -1,0 +1,34 @@
+[
+    {
+        "institution": "Uniwersytet Jagielloński",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Klinika Chirurgiczna UJ",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Szpital w Drohobyczu",
+        "place_of_institution": "Drohobycz"
+    },
+    {
+        "institution": "Szpital im. Dzieciątka Jezus",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Szpital Bonifratrów",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Wojskowy szpital polowy",
+        "place_of_institution": "Zwierzyniec"
+    },
+    {
+        "institution": "Stacja Sanitarno-Epidemiologiczna (Sanepid)",
+        "place_of_institution": "Olsztyn"
+    }
+]

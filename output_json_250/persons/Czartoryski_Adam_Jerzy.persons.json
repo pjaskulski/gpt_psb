@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Ciesielski",
+        "date": "brak danych",
+        "info": "wychowawca"
+    },
+    {
+        "name": "Piramowicz",
+        "date": "brak danych",
+        "info": "mistrz"
+    },
+    {
+        "name": "Kniaźnin",
+        "date": "brak danych",
+        "info": "mistrz"
+    },
+    {
+        "name": "Dupont de Nemours",
+        "date": "brak danych",
+        "info": "mistrz"
+    },
+    {
+        "name": "Norblin",
+        "date": "brak danych",
+        "info": "mistrz"
+    },
+    {
+        "name": "Schow",
+        "date": "brak danych",
+        "info": "mistrz"
+    },
+    {
+        "name": "Groddeck",
+        "date": "brak danych",
+        "info": "mistrz"
+    },
+    {
+        "name": "Herder",
+        "date": "1786",
+        "info": "brak danych"
+    },
+    {
+        "name": "Wieland",
+        "date": "1786",
+        "info": "brak danych"
+    },
+    {
+        "name": "Goethe",
+        "date": "1786",
+        "info": "brak danych"
+    },
+    {
+        "name": "Piattoli",
+        "date": "brak danych",
+        "info": "sekretarz księżnej"
+    },
+    {
+        "name": "Potocki Stanisław",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Niemcewicz",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Clark",
+        "date": "brak danych",
+        "info": "pisarz"
+    },
+    {
+        "name": "Robertson",
+        "date": "brak danych",
+        "info": "pisarz"
+    },
+    {
+        "name": "Lansdowne",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Argyle",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Strafford",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Hamilton",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "L. Wirtemberski",
+        "date": "1792",
+        "info": "dowódca wojskowy"
+    },
+    {
+        "name": "Kościuszko",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Repnin",
+        "date": "brak danych",
+        "info": "gen. gubernator litewski"
+    },
+    {
+        "name": "Katarzyna",
+        "date": "brak danych",
+        "info": "carowa"
+    },
+    {
+        "name": "Paweł",
+        "date": "brak danych",
+        "info": "car"
+    },
+    {
+        "name": "Aleksander",
+        "date": "brak danych",
+        "info": "w. ks."
+    },
+    {
+        "name": "Luiza-Elżbieta",
+        "date": "brak danych",
+        "info": "w. księżna"
+    },
+    {
+        "name": "Karol Emanuel IV",
+        "date": "brak danych",
+        "info": "król Sardynii"
+    },
+    {
+        "name": "Lewaszew",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Alfieri",
+        "date": "brak danych",
+        "info": "pisarz"
+    },
+    {
+        "name": "Stroganow",
+        "date": "brak danych",
+        "info": "przyjaciel"
+    },
+    {
+        "name": "Nowosilcow",
+        "date": "brak danych",
+        "info": "przyjaciel"
+    },
+    {
+        "name": "Koczubej",
+        "date": "brak danych",
+        "info": "przyjaciel"
+    },
+    {
+        "name": "La Harpe",
+        "date": "brak danych",
+        "info": "przyjaciel"
+    },
+    {
+        "name": "Fr. Wilhelm III",
+        "date": "brak danych",
+        "info": "król Prus"
+    },
+    {
+        "name": "Izabela Fleming",
+        "date": "brak danych",
+        "info": "matka"
+    },
+    {
+        "name": "Woroncow",
+        "date": "brak danych",
+        "info": "zastępca w sprawach zagranicznych"
+    },
+    {
+        "name": "Adam Kazimierz",
+        "date": "brak danych",
+        "info": "członek rady do spraw szkolnych w Ministerstwie Oświaty"
+    },
+    {
+        "name": "Tadeusz Czacki",
+        "date": "brak danych",
+        "info": "współpracownik"
+    },
+    {
+        "name": "Stanisław Niemcewicz",
+        "date": "listopad 1806",
+        "info": "brak danych"
+    },
+    {
+        "name": "Aleksander",
+        "date": "brak danych",
+        "info": "cesarz"
+    },
+    {
+        "name": "Budberg",
+        "date": "wiosna 1806",
+        "info": "minister"
+    },
+    {
+        "name": "Stroganow",
+        "date": "4 VI 1807",
+        "info": "brak danych"
+    },
+    {
+        "name": "Jerzy Czarny",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Pozzo di Borgo",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Capo d’Istria",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Rodofinikin",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Ipsilantowie",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Napoleon",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Józef",
+        "date": "brak danych",
+        "info": "wódz armii polskiej"
+    },
+    {
+        "name": "Stanisław Potocki",
+        "date": "brak danych",
+        "info": "prezydent rządu"
+    },
+    {
+        "name": "Ogiński",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Lubomirski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Plater",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Aleksander",
+        "date": "1811",
+        "info": "brak danych"
+    },
+    {
+        "name": "Józef",
+        "date": "1811",
+        "info": "brak danych"
+    },
+    {
+        "name": "Serra",
+        "date": "1811",
+        "info": "brak danych"
+    },
+    {
+        "name": "Adam Kazimierz Czartoryski",
+        "date": "1812",
+        "info": "brak danych"
+    },
+    {
+        "name": "Metternich",
+        "date": "1812",
+        "info": "brak danych"
+    },
+    {
+        "name": "Maret",
+        "date": "1812",
+        "info": "brak danych"
+    },
+    {
+        "name": "Napoleon",
+        "date": "1812",
+        "info": "brak danych"
+    },
+    {
+        "name": "Konstanty",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Castlereagh",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Kościuszko",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Stewart",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Biernacki",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Elżbieta",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Pozzo",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Stein",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Talleyrand",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Metternich",
+        "date": "1814",
+        "info": "brak danych"
+    },
+    {
+        "name": "Konstanty",
+        "date": "brak danych",
+        "info": "brat"
+    },
+    {
+        "name": "Stanisław Zamoyski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Anna Sapieżanka",
+        "date": "25 IX 1817",
+        "info": "żona"
+    },
+    {
+        "name": "Pac",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Nowosilcow",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Aleksander",
+        "date": "brak danych",
+        "info": "monarcha"
+    },
+    {
+        "name": "Lubecki",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Lelewel",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Mickiewicz",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Zan",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Malewski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Tadeusz Czacki",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Capodistria",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Mikołaj",
+        "date": "brak danych",
+        "info": "cesarz"
+    },
+    {
+        "name": "Mochnacki",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Kaliszan",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Chłopicki",
+        "date": "brak danych",
+        "info": "dyktator"
+    },
+    {
+        "name": "Radziwiłł",
+        "date": "brak danych",
+        "info": "wódz"
+    },
+    {
+        "name": "Niemojewski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "G. Małachowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "A. Horodyski",
+        "date": "brak danych",
+        "info": "minister"
+    },
+    {
+        "name": "Skrzynecki",
+        "date": "brak danych",
+        "info": "naczelny wódz"
+    },
+    {
+        "name": "Prądzyński",
+        "date": "brak danych",
+        "info": "wódz"
+    },
+    {
+        "name": "Krukowiecki",
+        "date": "brak danych",
+        "info": "dyktator"
+    },
+    {
+        "name": "Ramorino",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Metternich",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Władysław Zamojski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Karol Sienkiewicz",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Kalinka",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Klaczko",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Chrzanowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Kruszewski",
+        "date": "brak danych",
+        "info": "oficer"
+    },
+    {
+        "name": "Prószyński",
+        "date": "brak danych",
+        "info": "oficer"
+    },
+    {
+        "name": "Linowski",
+        "date": "brak danych",
+        "info": "oficer"
+    },
+    {
+        "name": "Skrzynecki",
+        "date": "brak danych",
+        "info": "oficer"
+    },
+    {
+        "name": "Szamyl",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Mehmet Ali",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Wielopolski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "L. Sapieha",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "lord Dudley Stuart",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Michał Czajkowski",
+        "date": "1841",
+        "info": "dyplomata"
+    },
+    {
+        "name": "F. Zach",
+        "date": "1843",
+        "info": "dyplomata"
+    },
+    {
+        "name": "Drozdowski",
+        "date": "1844",
+        "info": "dyplomata"
+    },
+    {
+        "name": "Ludwik Orpiszewski",
+        "date": "1843",
+        "info": "dyplomata"
+    },
+    {
+        "name": "Lamartine",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "gen. Chrzanowski",
+        "date": "brak danych",
+        "info": "generał"
+    },
+    {
+        "name": "Mierosławski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Kossuth",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Görgey",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Czajkowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Bem",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Zamoyski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Waligórski",
+        "date": "brak danych",
+        "info": "inżynier"
+    },
+    {
+        "name": "Dembiński",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Walewski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Działyński",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Andrzej Zamoyski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Marcin Tarnowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Józ. Ignacy Kraszewski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "M. Grabowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Franciszek Józef",
+        "date": "brak danych",
+        "info": "cesarz"
+    },
+    {
+        "name": "P. Moszyński",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "J. Lubomirski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Ludwik Wodzicki",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Tarnowski Staś",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Adam Sapieha",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Smolka",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "L. Górski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "F. Mycielski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Chłapowski",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Napoleon III",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Havas",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Aleksander II",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Morny",
+        "date": "brak danych",
+        "info": "brak danych"
+    }
+]

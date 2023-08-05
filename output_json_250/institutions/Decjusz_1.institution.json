@@ -1,0 +1,42 @@
+[
+    {
+        "institution": "Uniwersytet Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Mennica Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Mennica Wileńska",
+        "place_of_institution": "Wilno"
+    },
+    {
+        "institution": "Kółko Trzecieskiego",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Zbór Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Synod w Włodzisławiu",
+        "place_of_institution": "Włodzisław"
+    },
+    {
+        "institution": "Synod Kalwiński w Krakowie",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Żupy Olkuskie i Chęcińskie",
+        "place_of_institution": "Olkusz, Chęciny"
+    },
+    {
+        "institution": "Dwór Królewski",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Sejm Lubelski",
+        "place_of_institution": "Lublin"
+    }
+]

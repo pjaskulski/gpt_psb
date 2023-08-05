@@ -1,0 +1,42 @@
+[
+    {
+        "institution": "Uniwersytet Koloński",
+        "place_of_institution": "Kolonia"
+    },
+    {
+        "institution": "Uniwersytet Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kapituła Chełmińska",
+        "place_of_institution": "Chełmno"
+    },
+    {
+        "institution": "Klasztor Franciszkański",
+        "place_of_institution": "Lubawa"
+    },
+    {
+        "institution": "Klasztor w Kartuzach",
+        "place_of_institution": "Kartuzy"
+    },
+    {
+        "institution": "Kościół w Byszwałdzie",
+        "place_of_institution": "Byszwałd"
+    },
+    {
+        "institution": "Kościół w Lembargu",
+        "place_of_institution": "Lembarg"
+    },
+    {
+        "institution": "Katedra Chełmińska",
+        "place_of_institution": "Chełmno"
+    },
+    {
+        "institution": "Kościół Pofranciszkański",
+        "place_of_institution": "Lubawa"
+    },
+    {
+        "institution": "Katedra Pelplińska",
+        "place_of_institution": "Pelplin"
+    }
+]

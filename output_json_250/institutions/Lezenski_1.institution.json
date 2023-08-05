@@ -1,0 +1,46 @@
+[
+    {
+        "institution": "Akademia Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Sekretariat Królewski",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Skarb Koronny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Prepozytura Łęczycka",
+        "place_of_institution": "Łęczyca"
+    },
+    {
+        "institution": "Kanonia Warszawska",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Kanonia Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Opactwo Wąchockie",
+        "place_of_institution": "Wąchock"
+    },
+    {
+        "institution": "Biskupstwo Chełmskie",
+        "place_of_institution": "Chełm"
+    },
+    {
+        "institution": "Akademia Zamojska",
+        "place_of_institution": "Zamość"
+    },
+    {
+        "institution": "Biskupstwo Łuckie",
+        "place_of_institution": "Łuck"
+    },
+    {
+        "institution": "Szpital Św. Marcina",
+        "place_of_institution": "Warszawa"
+    }
+]

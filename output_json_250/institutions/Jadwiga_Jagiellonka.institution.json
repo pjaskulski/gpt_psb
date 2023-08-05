@@ -1,0 +1,22 @@
+[
+    {
+        "institution": "Szkoła królewiczów",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Dwór królewski",
+        "place_of_institution": "Poznań"
+    },
+    {
+        "institution": "Dwór bawarski",
+        "place_of_institution": "Landshut"
+    },
+    {
+        "institution": "Zamek Burghausen",
+        "place_of_institution": "Burghausen"
+    },
+    {
+        "institution": "Klasztor benedyktynek",
+        "place_of_institution": "Neuburg"
+    }
+]

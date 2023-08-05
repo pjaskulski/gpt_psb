@@ -1,0 +1,34 @@
+[
+    {
+        "institution": "Uniwersytet Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kolegium Kanonistów",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kolegium Jurystów",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Katedra Krakowska",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Klasztor Dominikanów",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kościół parafialny p. wezw. Wniebowzięcia NMP",
+        "place_of_institution": "Jasło"
+    },
+    {
+        "institution": "Katedra Przemyska",
+        "place_of_institution": "Przemyśl"
+    },
+    {
+        "institution": "Kolegiata NMP",
+        "place_of_institution": "Sandomierz"
+    }
+]

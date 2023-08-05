@@ -1,0 +1,50 @@
+[
+    {
+        "institution": "Zakład zegarmistrzowski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Ratusz Główny",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Giełda w Banku Polskim",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Cesarska Akademia Nauk",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Instytut Szlachecki",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Szpital Świętego Ducha",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Zamek Królewski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Towarzystwo Przemysłu, Sztuk i Nauk Wyzwolonych",
+        "place_of_institution": "Paryż"
+    },
+    {
+        "institution": "Bank Polski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "Muzeum Cesarskiej Akademii Nauk",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Biblioteka Akademii Nauk",
+        "place_of_institution": "Petersburg"
+    },
+    {
+        "institution": "Archiwum Historyczne",
+        "place_of_institution": "Petersburg"
+    }
+]

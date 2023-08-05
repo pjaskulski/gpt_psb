@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Jan T. Józefowicz",
+        "date": "brak danych",
+        "info": "kronikarz lwowski"
+    },
+    {
+        "name": "Wacław Zamoyski",
+        "date": "1645",
+        "info": "kasztelan lwowski"
+    },
+    {
+        "name": "Stanisław Różycki",
+        "date": "1650",
+        "info": "rektor"
+    },
+    {
+        "name": "Piotr Gembicki",
+        "date": "1650",
+        "info": "biskup krakowski"
+    },
+    {
+        "name": "Jakub Górski",
+        "date": "1651",
+        "info": "rektor"
+    },
+    {
+        "name": "Joachim Speroniusz",
+        "date": "1655",
+        "info": "prowizor"
+    },
+    {
+        "name": "Marcin Radymiński",
+        "date": "1655",
+        "info": "profesor"
+    },
+    {
+        "name": "Jan Brożek",
+        "date": "1658",
+        "info": "właściciel biblioteki"
+    }
+]

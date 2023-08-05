@@ -1,0 +1,50 @@
+[
+    {
+        "institution": "gimnazjum",
+        "place_of_institution": "Elbląg"
+    },
+    {
+        "institution": "Kapituła Warmińska",
+        "place_of_institution": "Frombork"
+    },
+    {
+        "institution": "Uniwersytet w Lowanium",
+        "place_of_institution": "Lowanium"
+    },
+    {
+        "institution": "Uniwersytet w Rzymie",
+        "place_of_institution": "Rzym"
+    },
+    {
+        "institution": "Uniwersytet w Ferrarze",
+        "place_of_institution": "Ferrara"
+    },
+    {
+        "institution": "Uniwersytet w Bolonii",
+        "place_of_institution": "Bolonia"
+    },
+    {
+        "institution": "Uniwersytet w Padwie",
+        "place_of_institution": "Padwa"
+    },
+    {
+        "institution": "Uniwersytet w Królewcu",
+        "place_of_institution": "Królewiec"
+    },
+    {
+        "institution": "Biblioteka księcia Albrechta",
+        "place_of_institution": "Królewiec"
+    },
+    {
+        "institution": "Biblioteka palatyna reńskiego Ottona Henryka",
+        "place_of_institution": "Weinheim"
+    },
+    {
+        "institution": "Królewski dwór Zygmunta Augusta",
+        "place_of_institution": "Wilno"
+    },
+    {
+        "institution": "Sejm Rzeszy",
+        "place_of_institution": "Speyer"
+    }
+]

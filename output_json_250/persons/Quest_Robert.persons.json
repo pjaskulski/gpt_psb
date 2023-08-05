@@ -1,0 +1,32 @@
+[
+    {
+        "name": "T. Escherich",
+        "date": "1900-1902",
+        "info": "lekarz, pediatra"
+    },
+    {
+        "name": "M. Pfaundler",
+        "date": "1900-1902",
+        "info": "lekarz, pediatra"
+    },
+    {
+        "name": "A. Czerny",
+        "date": "1902-1905",
+        "info": "lekarz, pediatra"
+    },
+    {
+        "name": "Kazimierz Mann",
+        "date": "brak danych",
+        "info": "malarz zakopiański"
+    },
+    {
+        "name": "Roman Mann",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Tadeusz Mann",
+        "date": "brak danych",
+        "info": "profesor biochemii i fizjologii w Cambridge"
+    }
+]

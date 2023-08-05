@@ -1,0 +1,126 @@
+[
+    {
+        "institution": "szkoła katolicka",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "kolegium jezuickie",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "skit w Maniawie",
+        "place_of_institution": "Maniawa"
+    },
+    {
+        "institution": "ławra uniowska",
+        "place_of_institution": "Uniów"
+    },
+    {
+        "institution": "monaster wicyński",
+        "place_of_institution": "Wicyń"
+    },
+    {
+        "institution": "drukarnia przy ławrze",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Zamek królewski",
+        "place_of_institution": "Warszawa"
+    },
+    {
+        "institution": "katedra św. Jura",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "cerkiew Zbawiciela",
+        "place_of_institution": "Sambor"
+    },
+    {
+        "institution": "bractwo przy cerkwi Narodzenia Matki Boskiej",
+        "place_of_institution": "Szczyrk"
+    },
+    {
+        "institution": "bractwo przy cerkwi Wniebowstąpienia Pańskiego",
+        "place_of_institution": "Śniatyn"
+    },
+    {
+        "institution": "Kuria rzymska",
+        "place_of_institution": "Rzym"
+    },
+    {
+        "institution": "katedra Świętej Trójcy",
+        "place_of_institution": "Kamieniec Podolski"
+    },
+    {
+        "institution": "klasztor kołomyjski",
+        "place_of_institution": "Kołomyja"
+    },
+    {
+        "institution": "klasztor tłumacki",
+        "place_of_institution": "Tłumacz"
+    },
+    {
+        "institution": "klasztor ugornicki",
+        "place_of_institution": "Ugorniki"
+    },
+    {
+        "institution": "ławra poczajowska",
+        "place_of_institution": "Poczajów"
+    },
+    {
+        "institution": "sąd duchowny",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "Kongregacja Propagandy Wiary",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "archimandria uniowska",
+        "place_of_institution": "Uniów"
+    },
+    {
+        "institution": "metropolia kijowska",
+        "place_of_institution": "Kijów"
+    },
+    {
+        "institution": "diecezja przemyska",
+        "place_of_institution": "Przemyśl"
+    },
+    {
+        "institution": "ławra kijowsko-peczerska",
+        "place_of_institution": "Kijów"
+    },
+    {
+        "institution": "katedra lwowska",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "klasztor wicyński",
+        "place_of_institution": "Wicyń"
+    },
+    {
+        "institution": "klasztor krechowski",
+        "place_of_institution": "Krechów"
+    },
+    {
+        "institution": "klasztor ławrowski",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "klasztor szczepłocki",
+        "place_of_institution": "Szczepłocice"
+    },
+    {
+        "institution": "cerkiew parafialna",
+        "place_of_institution": "Woszczańce"
+    },
+    {
+        "institution": "klasztor św. Jura",
+        "place_of_institution": "brak danych"
+    },
+    {
+        "institution": "mnisi w Uniowie",
+        "place_of_institution": "Uniów"
+    }
+]

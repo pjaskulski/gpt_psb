@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Adam Mickiewicz",
+        "date": "sierpień 1820",
+        "info": "poeta, miłość młodzieńcza"
+    },
+    {
+        "name": "Karolina Kowalska",
+        "date": "wiosna 1821",
+        "info": "doktorowa, romans"
+    },
+    {
+        "name": "Franciszek Malewski",
+        "date": "4 września 1821",
+        "info": "przyjaciel, poeta"
+    },
+    {
+        "name": "Józef Jeżowski",
+        "date": "4 września 1821",
+        "info": "przyjaciel"
+    },
+    {
+        "name": "Jan Czeczot",
+        "date": "28 września 1822",
+        "info": "przyjaciel, poeta"
+    },
+    {
+        "name": "Tomasz Zan",
+        "date": "1822",
+        "info": "przyjaciel, poeta"
+    },
+    {
+        "name": "Onufry Pietraszkiewicz",
+        "date": "brak danych",
+        "info": "przyjaciel, skazany na pobyt w Rosji"
+    },
+    {
+        "name": "Marceli Szymański",
+        "date": "3 kwietnia 1833",
+        "info": "emisariusz"
+    },
+    {
+        "name": "Józef Szczapiński",
+        "date": "3 kwietnia 1833",
+        "info": "doktor medycyny, znajomy na emigracji we Francji"
+    },
+    {
+        "name": "Ignacy Domeyko",
+        "date": "31 października 1830",
+        "info": "przyjaciel, poeta"
+    },
+    {
+        "name": "Juliusz Słowacki",
+        "date": "brak danych",
+        "info": "poeta"
+    },
+    {
+        "name": "Maria Szymanowska",
+        "date": "1853",
+        "info": "pianistka, kompozytorka"
+    },
+    {
+        "name": "Józef Zaliwski",
+        "date": "3 kwietnia 1833",
+        "info": "generał, organizator wyprawy do kraju"
+    },
+    {
+        "name": "A. E. Odyniec",
+        "date": "brak danych",
+        "info": "brak danych"
+    },
+    {
+        "name": "Zygmunt Sarnecki",
+        "date": "1899",
+        "info": "autor utworów literackich"
+    },
+    {
+        "name": "Krystyna Grzybowska",
+        "date": "1946",
+        "info": "autorka utworów literackich"
+    },
+    {
+        "name": "Aleksander Maliszewski",
+        "date": "1955",
+        "info": "autor utworów literackich"
+    },
+    {
+        "name": "Alina Świderska",
+        "date": "1955",
+        "info": "autorka powieści biograficznych"
+    },
+    {
+        "name": "Ksawery Pruszyński",
+        "date": "1956",
+        "info": "autor powieści biograficznych"
+    },
+    {
+        "name": "Mieczysław Jastrun",
+        "date": "1949",
+        "info": "autor powieści biograficznych"
+    },
+    {
+        "name": "Kazimierz Wierzyński",
+        "date": "1938",
+        "info": "autor utworów lirycznych"
+    },
+    {
+        "name": "Jan Lechoń",
+        "date": "1945",
+        "info": "autor utworów lirycznych"
+    },
+    {
+        "name": "Ryszard Krynicki",
+        "date": "1975",
+        "info": "autor utworów lirycznych"
+    },
+    {
+        "name": "Teodor Bujnicki",
+        "date": "1938",
+        "info": "autor parodii"
+    },
+    {
+        "name": "Artur Maria Swinarski",
+        "date": "1955",
+        "info": "autor parodii"
+    },
+    {
+        "name": "Stanisław Pigoń",
+        "date": "brak danych",
+        "info": "historyk literatury"
+    },
+    {
+        "name": "Maria Czapska",
+        "date": "brak danych",
+        "info": "historyk literatury"
+    },
+    {
+        "name": "J. Kleiner",
+        "date": "brak danych",
+        "info": "autor monografii mickiewiczowskiej"
+    }
+]

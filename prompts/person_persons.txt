@@ -1,10 +1,11 @@
 Na podstawie podanego tekstu biografii wyszukaj osoby związane z głównym bohaterem/bohaterką,
-lecz pomiń krewnych i powinowatych.
+lecz pomiń i nie uwzględniaj w wyniku krewnych i powinowatych.
 Wynik przedstaw w formie listy obiektów JSON zawierających pola:
 name: imię i nazwisko osoby związanej z bohaterem/bohaterką
 date: data, kiedy bohater/bohaterka spotkał/zetknał się z daną osobą
-info: dodatkowe informacje o osobie np. funkcja, zawód
-Jeżeli jakiejś informacji brak w podanym tekście napisz: 'brak danych'
+info: krótkie, dodatkowe informacje o osobie np. funkcja, zawód
+Jeżeli jakiejś informacji brak w podanym tekście napisz: 'brak danych',
+jeżeli w tekście nie ma informacji o takich osobach napisz 'brak danych'.
 
 Przykład 1.
 Tekst: "Soderini Carlos (ok. 1557–1591), kupiec i bankier.

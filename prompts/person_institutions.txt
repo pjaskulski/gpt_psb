@@ -2,7 +2,8 @@ Na podstawie podanego tekstu biografii wyszukaj instytucje związane z głównym
 Wynik przedstaw w formie listy obiektów JSON zawierających pola:
 institution: nazwa instytucji związanej z bohaterem/bohaterką
 place_of_institution: miejscowość w której położona jest instytucja związana z bohaterem/bohaterką
-Miejscowość podaj w mianowniku.
+Miejscowość podaj w mianowniku. Instytucje podane w przykładzie nie mogą być częścią wyniku.
+Każda instytucja powinna wystąpić w wyniku tylko raz (nie powtarzaj tych samych instytucji).
 Jeżeli jakiejś informacji brak w podanym tekście napisz: 'brak danych'
 
 Przykład 1.
@@ -10,10 +11,12 @@ Tekst: "Soderini Carlos (ok. 1557–1591), kupiec i bankier.
 Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
 bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga.
 Pracował w Banku Czeskim we Wrocławiu, później zaś praktykował w Izbie Celnej miasta Gdańska.
+W 1588 został doradcą angielskiej Kompanii Handlowej.
 Zmarł w Hurczynianach, pochowano go na miejscowym cmentarzu parafialnym."
 Wynik:
 [{"institution":"Bank Czeski", "place_of_institution":"Wrocław"},
- {"institution":"Izba Celna", "place_of_institution":"Gdańsk"}
+ {"institution":"Izba Celna", "place_of_institution":"Gdańsk"},
+ {"institution":"Kompania Handlowa", "place_of_institution":"brak danych"},
 ]
 
 Tekst:

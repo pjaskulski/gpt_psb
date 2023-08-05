@@ -1,0 +1,138 @@
+[
+    {
+        "place": "Mierzanowo",
+        "date": "1867-12-01"
+    },
+    {
+        "place": "Drezno",
+        "date": "brak danych"
+    },
+    {
+        "place": "Warszawa",
+        "date": "brak danych"
+    },
+    {
+        "place": "Skierbieszów",
+        "date": "1878"
+    },
+    {
+        "place": "Płock",
+        "date": "1892"
+    },
+    {
+        "place": "Ryga",
+        "date": "1887-1891"
+    },
+    {
+        "place": "Londyn",
+        "date": "1892"
+    },
+    {
+        "place": "Fryburg",
+        "date": "1897"
+    },
+    {
+        "place": "Vevey",
+        "date": "1903"
+    },
+    {
+        "place": "Chippis",
+        "date": "brak danych"
+    },
+    {
+        "place": "Neuhausen",
+        "date": "1912"
+    },
+    {
+        "place": "Miluza",
+        "date": "brak danych"
+    },
+    {
+        "place": "Bory pod Jaworznem",
+        "date": "brak danych"
+    },
+    {
+        "place": "Lwów",
+        "date": "1915-1917"
+    },
+    {
+        "place": "Glinnik Mariampolski",
+        "date": "brak danych"
+    },
+    {
+        "place": "Kraków",
+        "date": "brak danych"
+    },
+    {
+        "place": "Jedlicz",
+        "date": "1921"
+    },
+    {
+        "place": "Borysław",
+        "date": "brak danych"
+    },
+    {
+        "place": "Jaworzno",
+        "date": "brak danych"
+    },
+    {
+        "place": "Chorzów",
+        "date": "1922"
+    },
+    {
+        "place": "Tarnów",
+        "date": "1930"
+    },
+    {
+        "place": "Gdynia",
+        "date": "1937-07-24"
+    },
+    {
+        "place": "Włochy",
+        "date": "1938-06-01 do 1938-08-31"
+    },
+    {
+        "place": "Warszawa",
+        "date": "1938-1939"
+    },
+    {
+        "place": "Błota",
+        "date": "1939-09-02"
+    },
+    {
+        "place": "Ołyka",
+        "date": "1939-09-07 do 1939-09-13"
+    },
+    {
+        "place": "Załucze",
+        "date": "1939-09-14"
+    },
+    {
+        "place": "Kuty",
+        "date": "1939-09-17"
+    },
+    {
+        "place": "Rumunia",
+        "date": "1939-09-17 do 1939-12-25"
+    },
+    {
+        "place": "Czerniowce",
+        "date": "1939"
+    },
+    {
+        "place": "Bicaz",
+        "date": "1939"
+    },
+    {
+        "place": "Craiowa",
+        "date": "1939"
+    },
+    {
+        "place": "Szwajcaria",
+        "date": "1939-12-25 do 1946-10-02"
+    },
+    {
+        "place": "Versoix",
+        "date": "1946-10-02"
+    }
+]

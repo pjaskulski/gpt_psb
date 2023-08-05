@@ -1,0 +1,42 @@
+[
+    {
+        "institution": "Szkoła",
+        "place_of_institution": "Zamość"
+    },
+    {
+        "institution": "Klasztor św. Jerzego",
+        "place_of_institution": "Charberd"
+    },
+    {
+        "institution": "Klasztor Świętego Znaku",
+        "place_of_institution": "Cowk"
+    },
+    {
+        "institution": "Klasztor św. Jakuba",
+        "place_of_institution": "Jerozolima"
+    },
+    {
+        "institution": "Hospicjum ormiańskie przy kościele św. Marii Egipcjanki",
+        "place_of_institution": "Rzym"
+    },
+    {
+        "institution": "Ormiańskie hospicjum przy kościele Świętego Krzyża",
+        "place_of_institution": "Wenecja"
+    },
+    {
+        "institution": "Szkoła przy katedrze ormiańskiej",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Kościół Matki Bożej",
+        "place_of_institution": "Bursa"
+    },
+    {
+        "institution": "Katedra Ormiańska",
+        "place_of_institution": "Lwów"
+    },
+    {
+        "institution": "Kongregacja Rozkrzewiania Wiary",
+        "place_of_institution": "Rzym"
+    }
+]

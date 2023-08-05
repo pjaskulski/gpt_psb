@@ -1,0 +1,26 @@
+[
+    {
+        "institution": "Uniwersytet w Bolonii",
+        "place_of_institution": "Bolonii"
+    },
+    {
+        "institution": "Dwór Kazimierza Wielkiego",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kolegiata św. Michała na zamku krakowskim",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kapituła św. Floriana w Krakowie",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kuria papieska",
+        "place_of_institution": "Awinion"
+    },
+    {
+        "institution": "Kapituła wrocławska",
+        "place_of_institution": "Wrocław"
+    }
+]

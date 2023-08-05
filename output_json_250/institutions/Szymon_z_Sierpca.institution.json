@@ -1,0 +1,30 @@
+[
+    {
+        "institution": "Uniwersytet Krakowski",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kolegium Mniejsze",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Kolegium Większe",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "Bursa Ubogich",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "kościół p. wezw. Wszystkich Świętych",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "kościół p. wezw. św. Wojciecha",
+        "place_of_institution": "Kraków"
+    },
+    {
+        "institution": "kolegiata p. wezw. św. Floriana",
+        "place_of_institution": "Kraków"
+    }
+]
