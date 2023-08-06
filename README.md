@@ -1,6 +1,6 @@
 # Ekstrakcja informacji z biogramów postaci historycznych za pomocą skryptów wykorzystujących model GPT-4 przez API
 
-Próbka 250 biogramów z Polskiego Słownika Biograficzngo zostaną przetworzone przez model GPT-4 (przez API) w celu wydobycia kilku rodzajów informacji za pomocą odpowiednio skonstruowanych promptów. Rodzaje informacji:
+Próbka 250 biogramów z Polskiego Słownika Biograficznego została przetworzona przez model GPT-4 (przez API) w celu wydobycia kilku rodzajów informacji za pomocą odpowiednio skonstruowanych promptów. Rodzaje oczekiwanych informacji:
 - dane podstawowe (data urodzenia, miejsce urodzenia, data śmierci, miejsce śmierci, data pochówku, miejsce pochówku)
 - realacje rodzinne (wobec głównego bohatera/bohaterki biogramu)
 - ważne osoby (spoza krewnych i powinowanych)
