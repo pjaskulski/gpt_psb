@@ -150,7 +150,7 @@ if __name__ == '__main__':
             continue
 
         # weryfikacja liczby tokenów
-        tokens_in_data = count_tokens(prompt + text_from_file, "gpt2")
+        tokens_in_data = count_tokens(prompt + text_from_file)
         # bardzo długie biogramy mogą mieć dodatkowe akapity tekstu już po
         # informacji o śmierci bohatera/bohaterki biogramu, stąd więcej ostatnich zdań
         if tokens_in_data > 50000:

@@ -76,7 +76,7 @@ def short_version_relations(text:str) -> str:
     return result
 
 
-def count_tokens(text:str, model:str = "gpt2") -> int:
+def count_tokens(text:str, model:str = "gpt-4") -> int:
     """ funkcja zlicza tokeny """
     num_of_tokens = 0
     enc = tiktoken.get_encoding(model)
