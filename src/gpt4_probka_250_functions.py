@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 import tiktoken
 import spacy
 import openai
-import tenacity
 from tenacity import (
     retry,
     stop_after_attempt,
@@ -19,17 +18,10 @@ from tenacity import (
 # tryb pracy, jeżeli True używa API OpenAI, jeżeli False  to tylko test
 USE_API = True
 
-# parametry modelu gpt-4
-MODEL_MAX_TOKENS = 8000
-
 # maksymalna wielkość odpowiedzi
 OUTPUT_TOKENS = 2200
 # maksymalna liczba tokenów w treści biogramu
 MAX_TOKENS = 5000
-
-# ograniczenia API (dla bieżącej organizacji i modelu GPT-4)
-MAX_TOKENS_PER_MINUTE = 10000
-MAX_REQUESTS_PER_MINUTE=200
 
 # ceny gpt-4 w dolarach
 INPUT_PRICE_GPT4 = 0.03
@@ -82,7 +74,7 @@ def get_text_parts(text:str, max_tokens:int) -> list:
     return lista
 
 
-def count_tokens(text:str, model:str = "gpt2") -> int:
+def count_tokens(text:str, model:str = "gpt-4") -> int:
     """ funkcja zlicza tokeny """
     num_of_tokens = 0
     enc = tiktoken.get_encoding(model)
@@ -206,6 +198,7 @@ if __name__ == '__main__':
 
         # przetwarzanie modelem gpt-4
         if USE_API:
+            # rzeczywiste przetwarzanie przez model
             llm_prompt_tokens = llm_compl_tokens = 0
             llm_dict = []
 
@@ -247,7 +240,7 @@ if __name__ == '__main__':
         total_tokens += (llm_prompt_tokens + llm_compl_tokens)
 
         # przerwa między requestami
-        time.sleep(1.25)
+        time.sleep(0.25)
 
     print(f'Razem koszt: {total_price_gpt4:.2f} $, tokenów: {total_tokens}')
 

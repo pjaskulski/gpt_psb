@@ -8,22 +8,20 @@ from dotenv import load_dotenv
 import tiktoken
 import spacy
 import openai
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_random_exponential
+)
 
 
 # tryb pracy, jeżeli True używa API OpenAI, jeżeli False  to tylko test
 USE_API = True
 
-# parametry modelu gpt-4
-MODEL_MAX_TOKENS = 8000
-
 # maksymalna wielkość odpowiedzi
 OUTPUT_TOKENS = 2200
 # maksymalna liczba tokenów w treści biogramu
 MAX_TOKENS = 5000
-
-# ograniczenia API (dla bieżącej organizacji i modelu GPT-4)
-MAX_TOKENS_PER_MINUTE = 10000
-MAX_REQUESTS_PER_MINUTE=200
 
 # ceny gpt-4 w dolarach
 INPUT_PRICE_GPT4 = 0.03
@@ -103,7 +101,7 @@ def short_version_places(text:str) -> str:
     return result
 
 
-def count_tokens(text:str, model:str = "gpt2") -> int:
+def count_tokens(text:str, model:str = "gpt-4") -> int:
     """ funkcja zlicza tokeny """
     num_of_tokens = 0
     enc = tiktoken.get_encoding(model)
@@ -112,17 +110,22 @@ def count_tokens(text:str, model:str = "gpt2") -> int:
     return num_of_tokens
 
 
+@retry(wait=wait_random_exponential(min=30, max=60), stop=stop_after_attempt(6))
+def get_answer_with_backoff(**kwargs):
+    """ add exponential backoff to requests using the tenacity library """
+    return openai.ChatCompletion.create(**kwargs)
+
+
 def get_answer(prompt:str='', text:str='', model:str='gpt-4') -> str:
     """ funkcja konstruuje prompt do modelu GPT dostępnego przez API i zwraca wynik """
     result = ''
     prompt_tokens = completion_tokens = 0
 
     try:
-        response = openai.ChatCompletion.create(
+        response = get_answer_with_backoff(
                     model=model,
                     messages=[
-                        #{"role": "system", "content": "Jesteś pomocnym asystentem, specjalistą w dziedzinie historii, genealogii, życiorysów znanych postaci."},
-                        {"role": "system", "content": "You are a helpful assistant, a specialist in history, genealogy, biographies of famous figures."},
+                        {"role": "system", "content": "Jesteś pomocnym asystentem, specjalistą w dziedzinie historii, genealogii, życiorysów znanych postaci."},
                         {"role": "user", "content": f"{prompt}\n{text}"}
                     ],
                     temperature=0.0,
@@ -132,9 +135,7 @@ def get_answer(prompt:str='', text:str='', model:str='gpt-4') -> str:
         result = response['choices'][0]['message']['content']
         prompt_tokens = response['usage']['prompt_tokens']
         completion_tokens = response['usage']['completion_tokens']
-    except openai.error.RateLimitError as api_error:
-        print(api_error)
-        return '[RateLimitError]', 0, 0
+
     except Exception as api_error:
         print(api_error)
         sys.exit(1)
@@ -177,8 +178,6 @@ if __name__ == '__main__':
 
     total_price_gpt4 = 0
     total_tokens = 0
-    number_of_request = 0
-    tokens_per_minute = 0
 
     # spacy do podziału tekstu na zdania
     nlp = spacy.load('pl_core_news_lg')
@@ -196,7 +195,6 @@ if __name__ == '__main__':
 
     # pomiar czasu wykonania
     start_time = time.time()
-    loop_start_time = time.time()
 
     for data_file in data_file_list:
         # wczytanie tekstu z podanego pliku
@@ -233,14 +231,7 @@ if __name__ == '__main__':
             llm_prompt_tokens = llm_compl_tokens = 0
             llm_dict = []
             for part_of_text in texts_from_file:
-                result_obtained = False
-                while not result_obtained:
-                    p_llm_result, p_llm_prompt_tokens, p_llm_compl_tokens = get_answer(prompt_template, part_of_text, model='gpt-4')
-                    if p_llm_result != '[RateLimitError]':
-                        result_obtained = True
-                    else:
-                        print(f'Przerwa {60:.1f} s. ...')
-                        time.sleep(60)
+                p_llm_result, p_llm_prompt_tokens, p_llm_compl_tokens = get_answer(prompt_template, part_of_text, model='gpt-4')
 
                 p_llm_dict = format_result(p_llm_result)
                 for p_item in p_llm_dict:
@@ -250,31 +241,6 @@ if __name__ == '__main__':
                 llm_prompt_tokens += p_llm_prompt_tokens
                 llm_compl_tokens += p_llm_compl_tokens
 
-                # # zabezpieczenia przed przekroczeniem limitów API (l. przetwarzanych tokenów
-                # # na minutę, oraz liczbą zapytań na minutę)
-                tokens_per_minute += (llm_prompt_tokens + llm_compl_tokens)
-                number_of_request += 1
-
-                loop_end_time = time.time()
-                loop_elapsed_time = loop_end_time - loop_start_time
-
-                if tokens_per_minute > MAX_TOKENS_PER_MINUTE * 0.9 and loop_elapsed_time < 60:
-                    sleep_lenght = 60.0 - loop_elapsed_time + 1
-                    print(f'Przetworzono {tokens_per_minute} tokenów w ciągu ostatniej minuty, przerwa {sleep_lenght:.1f} s. ...')
-                    time.sleep(sleep_lenght)
-                elif number_of_request >= MAX_REQUESTS_PER_MINUTE and loop_elapsed_time < 60:
-                    sleep_lenght = 60.0 - loop_elapsed_time + 1
-                    print(f'Przetworzono {number_of_request} zapytań w ciągu ostatniej minuty, przerwa {sleep_lenght:.1f} s. ...')
-                    time.sleep(sleep_lenght)
-
-                loop_end_time = time.time()
-                loop_elapsed_time = loop_end_time - loop_start_time
-
-                if loop_elapsed_time >= 60.0:
-                    print('Minęła pełna minuta, reset licznika tokenów i zapytań...')
-                    tokens_per_minute = 0
-                    number_of_request = 0
-                    loop_start_time = time.time()
         else:
             # tryb testowy
             llm_prompt_tokens = count_tokens((len(texts_from_file) * prompt_template) + ' '.join(texts_from_file))
@@ -301,8 +267,8 @@ if __name__ == '__main__':
         total_price_gpt4 += price_gpt4
         total_tokens += (llm_prompt_tokens + llm_compl_tokens)
 
-        # przerwa między requestami 0.1 sekundy
-        time.sleep(0.1)
+        # przerwa między requestami
+        time.sleep(0.25)
 
     print(f'Razem koszt: {total_price_gpt4:.2f} $, tokenów: {total_tokens}')
 

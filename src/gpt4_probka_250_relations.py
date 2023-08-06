@@ -8,20 +8,21 @@ from dotenv import load_dotenv
 import tiktoken
 import spacy
 import openai
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_random_exponential
+)
 
 
 # tryb pracy, jeżeli True używa API OpenAI, jeżeli False  to tylko test
 USE_API = True
 
 # maksymalna wielkość odpowiedzi
-OUTPUT_TOKENS = 600
+OUTPUT_TOKENS = 1200
 
 # maksymalna liczba tokenów w treści biogramu
 MAX_TOKENS = 6000
-
-# ograniczenia API (dla bieżącej organizacji i modelu GPT-4)
-MAX_TOKENS_PER_MINUTE = 40000
-MAX_REQUESTS_PER_MINUTE=200
 
 # ceny gpt-4 w dolarach
 INPUT_PRICE_GPT4 = 0.03
@@ -84,13 +85,19 @@ def count_tokens(text:str, model:str = "gpt2") -> int:
     return num_of_tokens
 
 
+@retry(wait=wait_random_exponential(min=30, max=60), stop=stop_after_attempt(6))
+def get_answer_with_backoff(**kwargs):
+    """ add exponential backoff to requests using the tenacity library """
+    return openai.ChatCompletion.create(**kwargs)
+
+
 def get_answer(prompt:str='', text:str='', model:str='gpt-4') -> str:
     """ funkcja konstruuje prompt do modelu GPT dostępnego przez API i zwraca wynik """
     result = ''
     prompt_tokens = completion_tokens = 0
 
     try:
-        response = openai.ChatCompletion.create(
+        response = get_answer_with_backoff(
                     model=model,
                     messages=[
                         {"role": "system", "content": "Jesteś pomocnym asystentem, specjalistą w dziedzinie historii, genealogii, życiorysów znanych postaci."},
@@ -143,8 +150,6 @@ if __name__ == '__main__':
 
     total_price_gpt4 = 0
     total_tokens = 0
-    number_of_request = 0
-    tokens_per_minute = 0
 
     # spacy do podziału tekstu na zdania
     nlp = spacy.load('pl_core_news_md')
@@ -160,7 +165,6 @@ if __name__ == '__main__':
 
     # pomiar czasu wykonania
     start_time = time.time()
-    loop_start_time = time.time()
 
     for data_file in data_file_list:
         # wczytanie tekstu z podanego pliku
@@ -184,7 +188,7 @@ if __name__ == '__main__':
         text_from_file = short_version_relations(text_from_file)
 
         # weryfikacja liczby tokenów, za duże teksty (mimo skracania) są na razie pomijane
-        tokens_in_data = count_tokens(prompt + text_from_file, "gpt2")
+        tokens_in_data = count_tokens(prompt + text_from_file)
         if tokens_in_data > 8000 - OUTPUT_TOKENS:
             print(f'Za duży kontekst: {tokens_in_data} tokenów, biogram: {data_file_name}')
             continue
@@ -221,34 +225,8 @@ if __name__ == '__main__':
         total_price_gpt4 += price_gpt4
         total_tokens += (llm_prompt_tokens + llm_compl_tokens)
 
-        # zabezpieczenia przed przekroczeniem limitów API (l. przetwarzanych tokenów
-        # na minutę, oraz liczbą zapytań na minutę)
-        tokens_per_minute += (llm_prompt_tokens + llm_compl_tokens)
-        number_of_request += 1
-
-        loop_end_time = time.time()
-        loop_elapsed_time = loop_end_time - loop_start_time
-
-        if tokens_per_minute > MAX_TOKENS_PER_MINUTE * 0.9:
-            sleep_lenght = 60.0 - loop_elapsed_time + 1
-            print(f'Przetworzono {tokens_per_minute} tokenów w ciągu ostatniej minuty, przerwa {sleep_lenght:.1f} s. ...')
-            time.sleep(sleep_lenght)
-        elif number_of_request >= MAX_REQUESTS_PER_MINUTE:
-            sleep_lenght = 60.0 - loop_elapsed_time + 1
-            print(f'Przetworzono {number_of_request} zapytań w ciągu ostatniej minuty, przerwa {sleep_lenght:.1f} s. ...')
-            time.sleep(sleep_lenght)
-
-        loop_end_time = time.time()
-        loop_elapsed_time = loop_end_time - loop_start_time
-
-        if loop_elapsed_time >= 60.0:
-            print('Minęła pełna minuta, reset licznika tokenów i zapytań...')
-            tokens_per_minute = 0
-            number_of_request = 0
-            loop_start_time = time.time()
-
-        # przerwa między requestami 0.1 sekundy
-        time.sleep(0.1)
+        # przerwa między requestami
+        time.sleep(0.25)
 
     print(f'Razem koszt: {total_price_gpt4:.2f} $, tokenów: {total_tokens}')
 
