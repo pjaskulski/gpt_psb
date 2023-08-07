@@ -182,7 +182,7 @@ if __name__ == '__main__':
     # spacy do podziału tekstu na zdania
     nlp = spacy.load('pl_core_news_lg')
 
-    # szablon zapytania o ważne osoby dla postaci (poza krewnymi)
+    # szablon zapytania o miejscowości związane z postacią
     prompt_path = Path("..") / "prompts" / "person_places.txt"
     with open(prompt_path, 'r', encoding='utf-8') as f:
         prompt_template = f.read()

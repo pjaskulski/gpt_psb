@@ -160,7 +160,7 @@ if __name__ == '__main__':
     # spacy do podziału tekstu na zdania
     nlp = spacy.load('pl_core_news_lg')
 
-    # szablon zapytania o ważne osoby dla postaci (poza krewnymi)
+    # szablon zapytania o funkcje i urzędy
     prompt_path = Path("..") / "prompts" / "person_functions.txt"
     with open(prompt_path, 'r', encoding='utf-8') as f:
         prompt_template = f.read()
@@ -192,7 +192,6 @@ if __name__ == '__main__':
             print(f'Plik {data_file_name.replace(".txt",".functions.json")} z wynikiem przetwarzania już istnieje, pomijam...')
             continue
 
-        # bez skracania biogramów, efekt wyszukiwania instytucji i organizacji przez spaCy jest słaby
         # tekst dłuższych biogramów jest dzielony
         texts_from_file = get_text_parts(text_from_file, MAX_TOKENS)
 

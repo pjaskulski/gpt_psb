@@ -154,7 +154,7 @@ if __name__ == '__main__':
     # spacy do podziału tekstu na zdania
     nlp = spacy.load('pl_core_news_md')
 
-    # szablon zapytania o podstawowe informacje na temat postaci
+    # szablon zapytania o relacje rodzinne postaci
     prompt_path = Path("..") / "prompts" / "person_relations.txt"
     with open(prompt_path, 'r', encoding='utf-8') as f:
         prompt = f.read()
