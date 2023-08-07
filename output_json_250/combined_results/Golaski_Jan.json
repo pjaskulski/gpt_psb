@@ -1,0 +1,146 @@
+{
+    "name": "Jan Gołaski",
+    "psb_id": "PSB-08-0356",
+    "biogram_file": "Golaski_Jan.txt",
+    "date_of_birth": {
+        "date": "1745"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1807"
+    },
+    "place_of_death": {
+        "place": "Łowicz"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "rektor kolegium pijarskiego w Radziejowie",
+        "nauczyciel",
+        "nauczyciel klasy infimy",
+        "nauczyciel klasy gramatyki",
+        "profesor",
+        "prefekt",
+        "profesor klasy czwartej",
+        "wicedyrektor",
+        "wicerektor kolegium w Drohiczynie",
+        "wicerektor Collegium Nobilium w Warszawie",
+        "rektor kolegium w Radziejowie",
+        "superior",
+        "prowincjał",
+        "emeryt"
+    ],
+    "institutions": [
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Radziejów"
+        },
+        {
+            "institution_name": "zakon pijarów",
+            "institution_place": "Podoliniec"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Rzeszów"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Łuków"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Radom"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Łowicz"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Drohiczyn"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Szczuczyn"
+        },
+        {
+            "institution_name": "Collegium Nobilium",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "łowicki"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "ks. Jordan",
+            "person_date": "brak danych",
+            "person_info": "prowincjał pijarski"
+        },
+        {
+            "person_name": "ks. Reszczyński",
+            "person_date": "brak danych",
+            "person_info": "prowincjał pijarski"
+        },
+        {
+            "person_name": "ks. Franciszek Salezy Jezierski",
+            "person_date": "brak danych",
+            "person_info": "wizytator KEN"
+        },
+        {
+            "person_name": "ks. Teodor Waga",
+            "person_date": "brak danych",
+            "person_info": "prowincjał pijarski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Radziejów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Podoliniec",
+            "date": "1765"
+        },
+        {
+            "place": "Rzeszów",
+            "date": "1768-1770"
+        },
+        {
+            "place": "Łuków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Radom",
+            "date": "1774"
+        },
+        {
+            "place": "Łowicz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Drohiczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szczuczyn",
+            "date": "brak danych"
+        }
+    ]
+}

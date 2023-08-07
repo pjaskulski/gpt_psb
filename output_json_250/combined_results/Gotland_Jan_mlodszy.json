@@ -1,0 +1,97 @@
+{
+    "name": "Jan Gotland",
+    "psb_id": "PSB-08-0550",
+    "biogram_file": "Gotland_Jan_mlodszy.txt",
+    "date_of_birth": {
+        "date": "1380",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Toruń"
+    },
+    "date_of_death": {
+        "date": "1445",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "budowniczy toruński",
+        "murator"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Cech murarzy",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Kościół Św. Jana",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Kościół Św. Wawrzyńca",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Brama miejska",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Kościół OO. Franciszkanów",
+            "institution_place": "Braniewo"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Hans"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Hans Gotland",
+            "person_date": "brak danych",
+            "person_info": "murator, starszy cechu w Toruniu"
+        },
+        {
+            "person_name": "Jakub",
+            "person_date": "brak danych",
+            "person_info": "mistrz budowlany"
+        },
+        {
+            "person_name": "Św. Wawrzyńca",
+            "person_date": "1427",
+            "person_info": "święty, patron kościoła"
+        },
+        {
+            "person_name": "OO. Franciszkanów",
+            "person_date": "1437-45",
+            "person_info": "zakon franciszkański"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Toruń",
+            "date": "1380"
+        },
+        {
+            "place": "Toruń",
+            "date": "po 1389"
+        },
+        {
+            "place": "Braniewo",
+            "date": "1437-1445"
+        },
+        {
+            "place": "brak danych",
+            "date": "brak danych"
+        }
+    ]
+}

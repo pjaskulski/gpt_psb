@@ -1,0 +1,347 @@
+{
+    "name": "Stanisław Słomowski",
+    "psb_id": "PSB-39-0005",
+    "biogram_file": "Slomowski_Stanislaw_h.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1575-09-22"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "sufragan krakowski",
+        "arcybiskup lwowski",
+        "kanonik Szczytnicki w kapitule katedralnej krakowskiej",
+        "doktor obojga praw",
+        "kanonik w kapitule katedralnej poznańskiej",
+        "kanonik w kapitule katedralnej gnieźnieńskiej",
+        "kanonik Okoniewski w kapitule gnieźnieńskiej",
+        "prepozyt w kolegiacie kaliskiej",
+        "kanonik kielecki",
+        "archidiakon sądecki",
+        "sekretarz biskupa kujawskiego",
+        "wikariusz generalny i oficjał krakowski",
+        "kantor krakowski",
+        "biskup laodycejski",
+        "delegat na synod prowincjalny do Piotrkowa",
+        "komisarz królewski",
+        "członek sądów ultimae instantiae",
+        "ordynariusz archidiecezji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kapituła katedralna krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kapituła katedralna poznańska",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "kapituła gnieźnieńska",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "kolegiata kaliska",
+            "institution_place": "Kalisz"
+        },
+        {
+            "institution_name": "katedra krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "synod prowincjalny",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "katedra lwowska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "sejmik przedsejmowy woj. ruskiego",
+            "institution_place": "Sądowa Wisznia"
+        },
+        {
+            "institution_name": "sejm lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "kościół Świętej Trójcy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "zjazd woj. ruskiego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "archidiecezja",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wincenty"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Starczynowska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Andrzej Krzycki"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jan Krzycki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Piotr Tomicki",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Andrzej Krzycki",
+            "person_date": "1524",
+            "person_info": "siostrzeniec Piotra Tomickiego"
+        },
+        {
+            "person_name": "Jan Krzycki",
+            "person_date": "1525",
+            "person_info": "bratanek Andrzeja Krzyckiego"
+        },
+        {
+            "person_name": "Jakub Skrobiszewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "1549",
+            "person_info": "biskup chełmiński"
+        },
+        {
+            "person_name": "Jan z książąt lit.",
+            "person_date": "1537",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Stanisław Oleśnicki",
+            "person_date": "1538",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Paweł Wolski",
+            "person_date": "1544",
+            "person_info": "kanclerz wielki koronny"
+        },
+        {
+            "person_name": "Andrzej Zebrzydowski",
+            "person_date": "brak danych",
+            "person_info": "siostrzeniec Andrzeja Krzyckiego, biskup kujawski"
+        },
+        {
+            "person_name": "Bona Sforza",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Walenty Dembiński",
+            "person_date": "brak danych",
+            "person_info": "referendarz"
+        },
+        {
+            "person_name": "Samuel Maciejowski",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Andrzej Górka",
+            "person_date": "brak danych",
+            "person_info": "kasztelan poznański"
+        },
+        {
+            "person_name": "A. Farnese",
+            "person_date": "1559",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Jan Tarnowski",
+            "person_date": "1562",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Filip Padniewski",
+            "person_date": "1562",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1565",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "1565",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "G. F. Commendone",
+            "person_date": "1565",
+            "person_info": "nuncjusz papieski"
+        },
+        {
+            "person_name": "Paweł IV",
+            "person_date": "1565",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Piotr Skarga",
+            "person_date": "1565",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Grzegorz z Sambora",
+            "person_date": "1565",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Jakub Uchański",
+            "person_date": "1566",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Katarzyna Jagiellonka",
+            "person_date": "1566",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Mikołaj Sieniawski",
+            "person_date": "1567",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zofia z Tarnowskich Ostrogska",
+            "person_date": "1567",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Walezy",
+            "person_date": "1573",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1574",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Samuel Zborowski",
+            "person_date": "1574",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Wapowski",
+            "person_date": "1574",
+            "person_info": "kasztelan przemyski"
+        },
+        {
+            "person_name": "Andrzej Dudycz",
+            "person_date": "1573",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bartosz Paprocki",
+            "person_date": "1575",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Czechowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jarząbkowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1524"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1524"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1537-1544"
+        },
+        {
+            "place": "Kaliska",
+            "date": "1549"
+        },
+        {
+            "place": "Kielce",
+            "date": "1549"
+        },
+        {
+            "place": "Sądecka",
+            "date": "1549"
+        },
+        {
+            "place": "Tarnów",
+            "date": "1561"
+        },
+        {
+            "place": "Lwów",
+            "date": "1565"
+        },
+        {
+            "place": "Sądowa Wisznia",
+            "date": "1566"
+        },
+        {
+            "place": "Lublin",
+            "date": "1566"
+        },
+        {
+            "place": "Obroszyn",
+            "date": "1568"
+        },
+        {
+            "place": "Olenczyce",
+            "date": "1568"
+        },
+        {
+            "place": "Dunajów",
+            "date": "brak danych"
+        }
+    ]
+}

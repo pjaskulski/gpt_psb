@@ -1,0 +1,88 @@
+{
+    "name": "Onolf",
+    "psb_id": "PSB-24-0051",
+    "biogram_file": "Onolf.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1187",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Włocławek"
+    },
+    "functions": [
+        "biskup kruszwicki",
+        "biskup kujawski",
+        "dziekan kapituły"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Diecezja kruszwicka",
+            "institution_place": "Kruszwica"
+        },
+        {
+            "institution_name": "Diecezja włocławska",
+            "institution_place": "Włocławek"
+        },
+        {
+            "institution_name": "Kapituła",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szpital Św. Gotarda",
+            "institution_place": "Włocławek"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Swidger",
+            "person_date": "brak danych",
+            "person_info": "biskup kruszwicki"
+        },
+        {
+            "person_name": "Werner-Wiernierz",
+            "person_date": "brak danych",
+            "person_info": "biskup włocławski"
+        },
+        {
+            "person_name": "Leszek Bolesławowic",
+            "person_date": "1185",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Stefan",
+            "person_date": "1178",
+            "person_info": "biskup"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kruszwica",
+            "date": "przed 1161"
+        },
+        {
+            "place": "Włocławek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "1161"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "1180"
+        }
+    ]
+}

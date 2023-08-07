@@ -1,0 +1,212 @@
+{
+    "name": "Halina Sokołowska-Łuszczewska",
+    "psb_id": "PSB-40-0059",
+    "biogram_file": "Sokolowska-Luszczewska_Halina.txt",
+    "date_of_birth": {
+        "date": "1895-12-30"
+    },
+    "place_of_birth": {
+        "place": "Żytomierz"
+    },
+    "date_of_death": {
+        "date": "1970-11-17"
+    },
+    "place_of_death": {
+        "place": "Skolimów"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Skolimów",
+        "note": "miejscowy cmentarz parafialny"
+    },
+    "functions": [
+        "aktorka",
+        "reżyser",
+        "dyrektor teatru",
+        "pedagog",
+        "kierownik artystyczny teatru",
+        "instruktor oświatowy Okręgu Morskiego",
+        "starszy bibliotekarz",
+        "wykładowca na kursach oświatowych",
+        "dyrektor i kierownik artystyczny Teatru Miejskiego w Gnieźnie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkola Dramatyczna przy Warszawskim Tow. Muzycznym",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Polski",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Nowy Teatr Polski",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Klub Obywatelski «Ogniwo»",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Teatr Dramatyczny",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Teatr Polski",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Teatr Miejski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Teatr Miejski",
+            "institution_place": "Bydgoszcz"
+        },
+        {
+            "institution_name": "Teatr Objazdowy",
+            "institution_place": "Wielkopolska"
+        },
+        {
+            "institution_name": "Polski Biały Krzyż",
+            "institution_place": "Gdynia"
+        },
+        {
+            "institution_name": "Wydz. Kultury i Sztuki",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Gdański Zespół Artystyczny",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Teatr Miejski",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Teatr im. W. Bogusławskiego",
+            "institution_place": "Kalisz"
+        },
+        {
+            "institution_name": "Teatr im. J. Osterwy",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Teatr im. A. Fredry",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Schronisko Artystów Weteranów Scen Polskich",
+            "institution_place": "Skolimów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Józef Sokołowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Ewelina Proniewicz"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Leon Łuszczewski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Franciszek Rychłowski",
+            "person_date": "1914",
+            "person_info": "dyrektor Teatru Polskiego w Kijowie"
+        },
+        {
+            "person_name": "Juliusz Osterwa",
+            "person_date": "1916",
+            "person_info": "kierownik artystyczny teatru"
+        },
+        {
+            "person_name": "Stefan Jaracz",
+            "person_date": "1918",
+            "person_info": "aktor"
+        },
+        {
+            "person_name": "Bolesław Brzeski",
+            "person_date": "1927",
+            "person_info": "kierownik Teatru Objazdowym"
+        },
+        {
+            "person_name": "Leon Łuszczewski",
+            "person_date": "1917",
+            "person_info": "aktor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Żytomierz",
+            "date": "1895-12-30"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1913"
+        },
+        {
+            "place": "Kijów",
+            "date": "1914"
+        },
+        {
+            "place": "Poznań",
+            "date": "1919"
+        },
+        {
+            "place": "Lublin",
+            "date": "1923-1925"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "1925-1927"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1929"
+        },
+        {
+            "place": "Gdynia",
+            "date": "1929"
+        },
+        {
+            "place": "Lublin",
+            "date": "1939"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1939"
+        },
+        {
+            "place": "Ravensbrück",
+            "date": "1940"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1945"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1949"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1952-1954"
+        },
+        {
+            "place": "Lublin",
+            "date": "1954-1957"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1957-1965"
+        }
+    ]
+}

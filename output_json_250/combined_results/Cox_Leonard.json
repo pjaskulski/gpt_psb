@@ -1,0 +1,217 @@
+{
+    "name": "Leonard Cox",
+    "psb_id": "PSB-04-0162",
+    "biogram_file": "Cox_Leonard.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Thame",
+        "note": "Oxfordshire"
+    },
+    "date_of_death": {
+        "date": "1549",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "humanista-pedagog",
+        "profesor Akademii Krakowskiej",
+        "kaznodzieja nadworny Marii królowej węgierskiej",
+        "kierownik szkoły w Lewoczy",
+        "kierownik szkoły w Koszycach",
+        "profesor humaniorów",
+        "rektor szkoły opactwa w Reading",
+        "kierownik szkoły w Bristol",
+        "kierownik szkoły w Reading",
+        "kierownik szkoły w Coventry"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szkoła w Lewoczy",
+            "institution_place": "Lewocza"
+        },
+        {
+            "institution_name": "Szkoła w Koszycach",
+            "institution_place": "Koszyce"
+        },
+        {
+            "institution_name": "Szkoła opactwa w Reading",
+            "institution_place": "Reading"
+        },
+        {
+            "institution_name": "Szkoła w Bristol",
+            "institution_place": "Bristol"
+        },
+        {
+            "institution_name": "Szkoła w Reading",
+            "institution_place": "Reading"
+        },
+        {
+            "institution_name": "Szkoła w Coventry",
+            "institution_place": "Coventry"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Henryk Estienne",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Stöffler",
+            "person_date": "1514",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Melanchton",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Decjusz",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Andrzej Salomon",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Salomon",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Erazm Rotterdamczyk",
+            "person_date": "1519",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Henckel",
+            "person_date": "brak danych",
+            "person_info": "kaznodzieja nadworny Marii królowej węgierskiej, erazmiańczyk, krakowski magister"
+        },
+        {
+            "person_name": "Jan Łaski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Anian",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Zebrzydowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Rullus",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maciej Pyrser",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antonin",
+            "person_date": "brak danych",
+            "person_info": "doktor"
+        },
+        {
+            "person_name": "Hugh of Faringdon",
+            "person_date": "1530",
+            "person_info": "opat"
+        },
+        {
+            "person_name": "Gotfryd Troy",
+            "person_date": "1530",
+            "person_info": "z Bourges"
+        },
+        {
+            "person_name": "T. Cromwell",
+            "person_date": "brak danych",
+            "person_info": "arcbp"
+        },
+        {
+            "person_name": "Anna Boleyn",
+            "person_date": "1534",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk VIII",
+            "person_date": "1541",
+            "person_info": "król"
+        },
+        {
+            "person_name": "John Leland",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Thame",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tübingen",
+            "date": "1514"
+        },
+        {
+            "place": "Kraków",
+            "date": "1518"
+        },
+        {
+            "place": "Lewocza",
+            "date": "brak danych"
+        },
+        {
+            "place": "Koszyce",
+            "date": "1521"
+        },
+        {
+            "place": "Oxford",
+            "date": "1530"
+        },
+        {
+            "place": "Reading",
+            "date": "1530"
+        },
+        {
+            "place": "Londyn",
+            "date": "1532"
+        },
+        {
+            "place": "Caerleon",
+            "date": "brak danych"
+        }
+    ]
+}

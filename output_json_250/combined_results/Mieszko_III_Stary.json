@@ -1,0 +1,353 @@
+{
+    "name": "Mieszko III Stary",
+    "psb_id": "PSB-21-0028",
+    "biogram_file": "Mieszko_III_Stary.txt",
+    "date_of_birth": {
+        "date": "1126",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1202"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kalisk",
+        "note": "kolegiata Św. Pawła"
+    },
+    "functions": [
+        "książę wielkopolski",
+        "wielki (zwierzchni) książę polski",
+        "dux totius Polonie",
+        "dux maximus et princeps",
+        "krol"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Opactwo cystersów w Lądzie",
+            "institution_place": "Ląd"
+        },
+        {
+            "institution_name": "Kolegiata Św. Pawła",
+            "institution_place": "Kalisz"
+        },
+        {
+            "institution_name": "Katedra gnieźnieńska",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Joannici",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Bożogrobcy miechowscy",
+            "institution_place": "Miechów"
+        },
+        {
+            "institution_name": "Dwór gnieźnieński",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Dwór arcybiskupi",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Mennica",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bolesław II Krzywousty"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Salomea"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Bolesław Kędzierzawy"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Kazimierz"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Bolesław"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Mieszko"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Odo"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mieszko Młodszy"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Bolesław"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Władysław Laskonogi"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Eudoksja"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Wierzchosława-Ludmiła"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Judyta"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Salomea"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anastazja"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bolesław Kędzierzawy",
+            "person_date": "1141–6",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Władysław II",
+            "person_date": "1141–6",
+            "person_info": "książę zwierzchni"
+        },
+        {
+            "person_name": "Konrad III",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Albrecht Niedźwiedź",
+            "person_date": "1148",
+            "person_info": "margrabia"
+        },
+        {
+            "person_name": "Fryderyk Barbarossa",
+            "person_date": "1157",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Lestko",
+            "person_date": "1173",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Mieszko Plątonogi",
+            "person_date": "brak danych",
+            "person_info": "sojusznik"
+        },
+        {
+            "person_name": "Bogusław szczeciński",
+            "person_date": "1181",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zdzisław",
+            "person_date": "1181",
+            "person_info": "arcybiskup"
+        },
+        {
+            "person_name": "Kazimierz Sprawiedliwy",
+            "person_date": "1184",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj z rodu Lisów",
+            "person_date": "1191",
+            "person_info": "wojewoda"
+        },
+        {
+            "person_name": "Henryk Kietlicz",
+            "person_date": "1191",
+            "person_info": "kasztelan krakowski"
+        },
+        {
+            "person_name": "Helena",
+            "person_date": "1195",
+            "person_info": "wdowa po Kazimierzu"
+        },
+        {
+            "person_name": "Pełka",
+            "person_date": "1195",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Mikołaj",
+            "person_date": "1195",
+            "person_info": "wojewoda"
+        },
+        {
+            "person_name": "Wincenty",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Ferry I",
+            "person_date": "przed 1167",
+            "person_info": "hrabia Bitche w Lotaryngii"
+        },
+        {
+            "person_name": "Bernard",
+            "person_date": "przed 1178",
+            "person_info": "hrabia Anhaltu"
+        },
+        {
+            "person_name": "Sobiesław",
+            "person_date": "ok. 1173",
+            "person_info": "książę ołomuniecki"
+        },
+        {
+            "person_name": "Konrad",
+            "person_date": "po 1180",
+            "person_info": "margrabia Dolnych Łużyc"
+        },
+        {
+            "person_name": "Dobrosława",
+            "person_date": "po 1177",
+            "person_info": "zapewne księżniczka sławieńska"
+        },
+        {
+            "person_name": "Racibor",
+            "person_date": "przed 1177",
+            "person_info": "książę pomorski"
+        },
+        {
+            "person_name": "Bogusław I",
+            "person_date": "1177",
+            "person_info": "książę zachodniopomorski"
+        },
+        {
+            "person_name": "Zwinisława",
+            "person_date": "brak danych",
+            "person_info": "najpewniej księżniczka sławieńska"
+        },
+        {
+            "person_name": "Mszczuj I",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Poznań",
+            "date": "1146"
+        },
+        {
+            "place": "Kraków",
+            "date": "1146"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "1148"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "1157"
+        },
+        {
+            "place": "Kraków",
+            "date": "1173"
+        },
+        {
+            "place": "Poznań",
+            "date": "1179"
+        },
+        {
+            "place": "Racibórz",
+            "date": "1179"
+        },
+        {
+            "place": "Santok",
+            "date": "1179"
+        },
+        {
+            "place": "Pomorze",
+            "date": "1179"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1181"
+        },
+        {
+            "place": "Kraków",
+            "date": "1191"
+        },
+        {
+            "place": "Kujawy",
+            "date": "1194"
+        },
+        {
+            "place": "Mozgawa",
+            "date": "1195"
+        },
+        {
+            "place": "Kraków",
+            "date": "1198"
+        },
+        {
+            "place": "Kraków",
+            "date": "1199"
+        },
+        {
+            "place": "Wiślica",
+            "date": "1199"
+        },
+        {
+            "place": "Kraków",
+            "date": "1202"
+        },
+        {
+            "place": "Ląd",
+            "date": "1193"
+        },
+        {
+            "place": "Kalisk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gniezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1191"
+        },
+        {
+            "place": "Miechów",
+            "date": "1198"
+        }
+    ]
+}

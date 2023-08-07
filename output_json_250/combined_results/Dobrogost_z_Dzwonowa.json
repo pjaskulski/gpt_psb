@@ -1,0 +1,91 @@
+{
+    "name": "Dobrogost z Dzwonowa",
+    "psb_id": "PSB-05-0296",
+    "biogram_file": "Dobrogost_z_Dzwonowa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1321-04-16",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "w ziemi nie poświęconej"
+    },
+    "functions": [
+        "wojewoda poznański"
+    ],
+    "institutions": [
+        {
+            "institution_name": "województwo poznańskie",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "kościół poznański",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "syn",
+            "person": "nieznany z imienia"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dzierżykraj"
+        },
+        {
+            "family_relation": "żona",
+            "person": "nieznana z imienia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Łokietek",
+            "person_date": "1313/14",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Janusz z Bibersteinu",
+            "person_date": "brak danych",
+            "person_info": "wódz wojsk głogowskich"
+        },
+        {
+            "person_name": "Przemek",
+            "person_date": "brak danych",
+            "person_info": "wójt poznański"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dzwonowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1308-1318"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "1313/14"
+        },
+        {
+            "place": "Kłecko",
+            "date": "brak danych"
+        },
+        {
+            "place": "Górki",
+            "date": "brak danych"
+        }
+    ]
+}

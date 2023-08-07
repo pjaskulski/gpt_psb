@@ -1,0 +1,96 @@
+{
+    "name": "Artur Bartels",
+    "psb_id": "PSB-01-0561",
+    "biogram_file": "Bartels.txt",
+    "date_of_birth": {
+        "date": "1818-10-13"
+    },
+    "place_of_birth": {
+        "place": "Wilno"
+    },
+    "date_of_death": {
+        "date": "1885-12-23"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "satyryk",
+        "pieśniarz",
+        "rysownik",
+        "ziemianin",
+        "karykaturzysta",
+        "twórca piosenek",
+        "dziennikarz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Album wileński",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Łowca",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Leon Radziwiłł"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Wańkowiczówna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Leon Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Wilczyński",
+            "person_date": "1858",
+            "person_info": "wydawca 'Albumu wileńskiego'"
+        },
+        {
+            "person_name": "K. Bartoszewicz",
+            "person_date": "1888–1890",
+            "person_info": "wydawca piosenek i satyr B."
+        },
+        {
+            "person_name": "Wańkowicz",
+            "person_date": "brak danych",
+            "person_info": "rodzina posiadająca część spuścizny B."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wilno",
+            "date": "1818-10-13"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "name": "Franciszek Eljasz Aloe",
+    "psb_id": "PSB-01-0140",
+    "biogram_file": "Aloe.txt",
+    "date_of_birth": {
+        "date": "1759",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1821",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "członek wolnomularstwa",
+        "sekretarz legacji polskiej w Berlinie",
+        "twórca sprzysiężenia",
+        "członek Rady Zastępczej Tymczasowej",
+        "członek Wydziału dyplomatycznego",
+        "zastępca w Radzie Najwyższej Narodowej",
+        "członek Deputacji do rewizji papierów dyplomatycznych i krajowej",
+        "sekretarz Komisji Rządzącej do pism francuskich",
+        "sekretarz Rady Stanu",
+        "sekretarz Wielkiej Kapituły wolnomularstwa",
+        "członek Najwyższej Kapituły wolnomularstwa"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wolnomularstwo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wielki Wschód Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Legacja polska",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Rada Zastępcza Tymczasowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Najwyższa Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Deputacja do rewizji papierów dyplomatycznych i krajowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Rządząca",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Stanu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wielka Kapituła",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Najwyższa Kapituła",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Baptysta d’Aloy"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Henryka Rakocy"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Emanuel d’Aloy"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ignacy Potocki",
+            "person_date": "1781",
+            "person_info": "przyjaciel, polityk"
+        },
+        {
+            "person_name": "Ignacy Działyński",
+            "person_date": "1793",
+            "person_info": "generał, twórca sprzysiężenia"
+        },
+        {
+            "person_name": "J. Dembowski",
+            "person_date": "brak danych",
+            "person_info": "pośrednik w kontaktach z Ignacym Potockim"
+        },
+        {
+            "person_name": "Igelström",
+            "person_date": "brak danych",
+            "person_info": "potencjalny współpracownik"
+        },
+        {
+            "person_name": "Pl. Zubow",
+            "person_date": "brak danych",
+            "person_info": "potencjalny współpracownik"
+        },
+        {
+            "person_name": "Zakrzewski",
+            "person_date": "brak danych",
+            "person_info": "korespondent"
+        },
+        {
+            "person_name": "Deboli",
+            "person_date": "brak danych",
+            "person_info": "współpracownik w sprawie badania papierów ambasady rosyjskiej"
+        },
+        {
+            "person_name": "Vincent",
+            "person_date": "1807",
+            "person_info": "rezydent francuski, odbiorca biuletynów"
+        },
+        {
+            "person_name": "Leon Bajkow",
+            "person_date": "1816",
+            "person_info": "odbiorca akt z archiwum Igelströma"
+        },
+        {
+            "person_name": "Konstanty",
+            "person_date": "brak danych",
+            "person_info": "wielki książę"
+        },
+        {
+            "person_name": "Aleksander",
+            "person_date": "brak danych",
+            "person_info": "ofiarodawca nagrody"
+        },
+        {
+            "person_name": "Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "osoba, której Konstanty opowiadał o Aloe"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1759"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1821"
+        },
+        {
+            "place": "Rzym",
+            "date": "1783"
+        },
+        {
+            "place": "Berlin",
+            "date": "1789"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1794"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1795"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1807"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1816"
+        }
+    ]
+}

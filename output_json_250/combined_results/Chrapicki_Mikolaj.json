@@ -1,0 +1,165 @@
+{
+    "name": "Mikołaj Chrapicki",
+    "psb_id": "PSB-03-0661",
+    "biogram_file": "Chrapicki_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1514-02-02"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Lubawa",
+        "note": "kościół pofranciszkański"
+    },
+    "functions": [
+        "kanonik warmiński",
+        "bp chełmiński",
+        "toruńczyk",
+        "kleryk włocławski",
+        "kanonik wrocławski",
+        "archidiakon opolski",
+        "notariusz apostolski",
+        "notariusz cesarski",
+        "poseł króla w Rzymie",
+        "episcopus Culmensis",
+        "fundator klasztoru franciszkańskiego w Lubawie",
+        "administrator",
+        "koadiutor"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Koloński",
+            "institution_place": "Kolonia"
+        },
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kapituła Chełmińska",
+            "institution_place": "Chełmno"
+        },
+        {
+            "institution_name": "Klasztor Franciszkański",
+            "institution_place": "Lubawa"
+        },
+        {
+            "institution_name": "Klasztor w Kartuzach",
+            "institution_place": "Kartuzy"
+        },
+        {
+            "institution_name": "Kościół w Byszwałdzie",
+            "institution_place": "Byszwałd"
+        },
+        {
+            "institution_name": "Kościół w Lembargu",
+            "institution_place": "Lembarg"
+        },
+        {
+            "institution_name": "Katedra Chełmińska",
+            "institution_place": "Chełmno"
+        },
+        {
+            "institution_name": "Kościół Pofranciszkański",
+            "institution_place": "Lubawa"
+        },
+        {
+            "institution_name": "Katedra Pelplińska",
+            "institution_place": "Pelplin"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Watzelrode",
+            "person_date": "1489",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Albert Bischoff",
+            "person_date": "1495",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Jan Olbracht",
+            "person_date": "1496",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Konopacki",
+            "person_date": "1505",
+            "person_info": "administrator"
+        },
+        {
+            "person_name": "Aleksander",
+            "person_date": "1503",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1507",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Juliusz II",
+            "person_date": "1508",
+            "person_info": "papież"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kolonia",
+            "date": "1472"
+        },
+        {
+            "place": "Kraków",
+            "date": "1473"
+        },
+        {
+            "place": "Rzym",
+            "date": "1489"
+        },
+        {
+            "place": "Chełmno",
+            "date": "1496"
+        },
+        {
+            "place": "Byszwałd",
+            "date": "1500"
+        },
+        {
+            "place": "Lembarg",
+            "date": "1507"
+        },
+        {
+            "place": "Lubawa",
+            "date": "1502"
+        },
+        {
+            "place": "Radzyń",
+            "date": "1503"
+        },
+        {
+            "place": "Chełmno",
+            "date": "1505"
+        },
+        {
+            "place": "Starogard",
+            "date": "1505"
+        },
+        {
+            "place": "Papowo",
+            "date": "1505"
+        }
+    ]
+}

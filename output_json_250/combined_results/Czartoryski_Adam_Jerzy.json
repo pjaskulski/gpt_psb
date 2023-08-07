@@ -1,0 +1,1334 @@
+{
+    "name": "Adam Jerzy Czartoryski",
+    "psb_id": "PSB-04-0374",
+    "biogram_file": "Czartoryski_Adam_Jerzy.txt",
+    "date_of_birth": {
+        "date": "1770-01-14",
+        "note": "lub 11 I"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1861"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "mąż stanu",
+        "ochotnik do wojska litewskiego",
+        "kamerjunkier",
+        "brygadier w armii",
+        "adiutant w. ks. Aleksandra",
+        "poseł w Sardynii",
+        "książę",
+        "członek niejawnego komitetu",
+        "minister",
+        "członek rady do spraw szkolnych w Ministerstwie Oświaty",
+        "członek komitetu urządzenia żydów",
+        "kurator",
+        "zwierzchnik Uniwersytetu Wileńskiego",
+        "minister spraw zagranicznych",
+        "członek senatu",
+        "członek rady państwa",
+        "dygnitarz rosyjski",
+        "wicekról",
+        "członek Komitetu Centralnego",
+        "członek Rady Administracyjnej",
+        "senator-wojewoda",
+        "członek kuratorium",
+        "promotor ruchu filheleńskiego",
+        "promotor nastrojów italofilskich",
+        "prezydent wydziału wykonawczego Rady Administracyjnej",
+        "przewodniczący Rządu tymczasowego",
+        "członek Rady Najwyższej Narodowej",
+        "prezes Rządu Narodowego",
+        "wódz",
+        "dyktator",
+        "ochotnik w korpusie Ramoriny",
+        "kierownik polityki zagranicznej",
+        "kierownik szkoły dla panien",
+        "kierownik szkoły na Montparnasie",
+        "kierownik Biblioteki Polskiej",
+        "kierownik Towarzystwa Historyczno-Literackiego",
+        "kierownik Stowarzyszenia Pomocy Naukowej",
+        "kierownik Literackiego Stowarzyszenia Przyjaciół Polski",
+        "kierownik instytucji dobroczynnych",
+        "kierownik czasopism",
+        "kierownik przedsięwzięć naukowych",
+        "kierownik organizacji konspiracyjnej",
+        "kierownik agencji wschodniej",
+        "kierownik agencji zachodniej",
+        "kierownik legionów polskich we Francji",
+        "kierownik organizacji ogólno-słowiańskiej",
+        "kierownik oddziałów polskich z polskimi sztandarami u boku aljantów",
+        "prezydent Bureau des affaires polonaises"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "niejawny komitet",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Ministerstwo Oświaty",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "komitet urządzenia żydów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet Wileński",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "senat",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "rada państwa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Centralny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wszechnica Wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Rząd Tymczasowy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Administracyjna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Królestwo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kuratorium",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biblioteka",
+            "institution_place": "Puławy"
+        },
+        {
+            "institution_name": "Senat",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Administracyjna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Najwyższa Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Korpus Ramoriny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biblioteka Polska",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Towarzystwo Historyczno-Literackie",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Stowarzyszenie Pomocy Naukowej",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Literackie Stowarzyszenie Przyjaciół Polski",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Towarzystwo Demokratyczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Legiony Polskie",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Rząd Francuski",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Towarzystwo Rolnicze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Bureau des affaires polonaises",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytety rosyjskie",
+            "institution_place": "Rosja"
+        },
+        {
+            "institution_name": "Koło berlińskie",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Dom wydawniczy",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Adam Kazimierz Czartoryski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Izabela Czartoryska"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Maria Wirtemberska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Konstanty Czartoryski"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia Zamoyska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Sapieżanka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Władysław Czartoryski"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Iza Działyńska"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Działyński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ciesielski",
+            "person_date": "brak danych",
+            "person_info": "wychowawca"
+        },
+        {
+            "person_name": "Piramowicz",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Kniaźnin",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Dupont de Nemours",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Norblin",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Schow",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Groddeck",
+            "person_date": "brak danych",
+            "person_info": "mistrz"
+        },
+        {
+            "person_name": "Herder",
+            "person_date": "1786",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wieland",
+            "person_date": "1786",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Goethe",
+            "person_date": "1786",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piattoli",
+            "person_date": "brak danych",
+            "person_info": "sekretarz księżnej"
+        },
+        {
+            "person_name": "Potocki Stanisław",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Clark",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Robertson",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Lansdowne",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Argyle",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Strafford",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Hamilton",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Wirtemberski",
+            "person_date": "1792",
+            "person_info": "dowódca wojskowy"
+        },
+        {
+            "person_name": "Kościuszko",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Repnin",
+            "person_date": "brak danych",
+            "person_info": "gen. gubernator litewski"
+        },
+        {
+            "person_name": "Katarzyna",
+            "person_date": "brak danych",
+            "person_info": "carowa"
+        },
+        {
+            "person_name": "Paweł",
+            "person_date": "brak danych",
+            "person_info": "car"
+        },
+        {
+            "person_name": "Aleksander",
+            "person_date": "brak danych",
+            "person_info": "w. ks."
+        },
+        {
+            "person_name": "Luiza-Elżbieta",
+            "person_date": "brak danych",
+            "person_info": "w. księżna"
+        },
+        {
+            "person_name": "Karol Emanuel IV",
+            "person_date": "brak danych",
+            "person_info": "król Sardynii"
+        },
+        {
+            "person_name": "Lewaszew",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Alfieri",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Stroganow",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Nowosilcow",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Koczubej",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "La Harpe",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Fr. Wilhelm III",
+            "person_date": "brak danych",
+            "person_info": "król Prus"
+        },
+        {
+            "person_name": "Izabela Fleming",
+            "person_date": "brak danych",
+            "person_info": "matka"
+        },
+        {
+            "person_name": "Woroncow",
+            "person_date": "brak danych",
+            "person_info": "zastępca w sprawach zagranicznych"
+        },
+        {
+            "person_name": "Adam Kazimierz",
+            "person_date": "brak danych",
+            "person_info": "członek rady do spraw szkolnych w Ministerstwie Oświaty"
+        },
+        {
+            "person_name": "Tadeusz Czacki",
+            "person_date": "brak danych",
+            "person_info": "współpracownik"
+        },
+        {
+            "person_name": "Stanisław Niemcewicz",
+            "person_date": "listopad 1806",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander",
+            "person_date": "brak danych",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Budberg",
+            "person_date": "wiosna 1806",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Stroganow",
+            "person_date": "4 VI 1807",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Czarny",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pozzo di Borgo",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Capo d’Istria",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Rodofinikin",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ipsilantowie",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Napoleon",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef",
+            "person_date": "brak danych",
+            "person_info": "wódz armii polskiej"
+        },
+        {
+            "person_name": "Stanisław Potocki",
+            "person_date": "brak danych",
+            "person_info": "prezydent rządu"
+        },
+        {
+            "person_name": "Ogiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Plater",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander",
+            "person_date": "1811",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef",
+            "person_date": "1811",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Serra",
+            "person_date": "1811",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam Kazimierz Czartoryski",
+            "person_date": "1812",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Metternich",
+            "person_date": "1812",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maret",
+            "person_date": "1812",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Napoleon",
+            "person_date": "1812",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Konstanty",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Castlereagh",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kościuszko",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stewart",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Biernacki",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Elżbieta",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pozzo",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stein",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Talleyrand",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Metternich",
+            "person_date": "1814",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Konstanty",
+            "person_date": "brak danych",
+            "person_info": "brat"
+        },
+        {
+            "person_name": "Stanisław Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Anna Sapieżanka",
+            "person_date": "25 IX 1817",
+            "person_info": "żona"
+        },
+        {
+            "person_name": "Pac",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Nowosilcow",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander",
+            "person_date": "brak danych",
+            "person_info": "monarcha"
+        },
+        {
+            "person_name": "Lubecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Lelewel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mickiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zan",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Malewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Czacki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Capodistria",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj",
+            "person_date": "brak danych",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Mochnacki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kaliszan",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Chłopicki",
+            "person_date": "brak danych",
+            "person_info": "dyktator"
+        },
+        {
+            "person_name": "Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "wódz"
+        },
+        {
+            "person_name": "Niemojewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "G. Małachowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Horodyski",
+            "person_date": "brak danych",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Skrzynecki",
+            "person_date": "brak danych",
+            "person_info": "naczelny wódz"
+        },
+        {
+            "person_name": "Prądzyński",
+            "person_date": "brak danych",
+            "person_info": "wódz"
+        },
+        {
+            "person_name": "Krukowiecki",
+            "person_date": "brak danych",
+            "person_info": "dyktator"
+        },
+        {
+            "person_name": "Ramorino",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Metternich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Władysław Zamojski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Karol Sienkiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kalinka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Klaczko",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Chrzanowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kruszewski",
+            "person_date": "brak danych",
+            "person_info": "oficer"
+        },
+        {
+            "person_name": "Prószyński",
+            "person_date": "brak danych",
+            "person_info": "oficer"
+        },
+        {
+            "person_name": "Linowski",
+            "person_date": "brak danych",
+            "person_info": "oficer"
+        },
+        {
+            "person_name": "Skrzynecki",
+            "person_date": "brak danych",
+            "person_info": "oficer"
+        },
+        {
+            "person_name": "Szamyl",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mehmet Ali",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wielopolski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Sapieha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "lord Dudley Stuart",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał Czajkowski",
+            "person_date": "1841",
+            "person_info": "dyplomata"
+        },
+        {
+            "person_name": "F. Zach",
+            "person_date": "1843",
+            "person_info": "dyplomata"
+        },
+        {
+            "person_name": "Drozdowski",
+            "person_date": "1844",
+            "person_info": "dyplomata"
+        },
+        {
+            "person_name": "Ludwik Orpiszewski",
+            "person_date": "1843",
+            "person_info": "dyplomata"
+        },
+        {
+            "person_name": "Lamartine",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "gen. Chrzanowski",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Mierosławski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kossuth",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Görgey",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Czajkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bem",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Waligórski",
+            "person_date": "brak danych",
+            "person_info": "inżynier"
+        },
+        {
+            "person_name": "Dembiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Działyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin Tarnowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józ. Ignacy Kraszewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Grabowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Józef",
+            "person_date": "brak danych",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "P. Moszyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Wodzicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tarnowski Staś",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam Sapieha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Smolka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Górski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. Mycielski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Chłapowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Napoleon III",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Havas",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander II",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Morny",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1770"
+        },
+        {
+            "place": "Różanka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wołczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1786"
+        },
+        {
+            "place": "Treptau",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kamieniec",
+            "date": "1788"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "1789"
+        },
+        {
+            "place": "Holandia",
+            "date": "1789"
+        },
+        {
+            "place": "Anglia",
+            "date": "1789"
+        },
+        {
+            "place": "Szkocja",
+            "date": "1789"
+        },
+        {
+            "place": "Edynburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1792"
+        },
+        {
+            "place": "Puławy",
+            "date": "1792"
+        },
+        {
+            "place": "Galicja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bruksela",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1795"
+        },
+        {
+            "place": "Grodno",
+            "date": "1795"
+        },
+        {
+            "place": "Sardynia",
+            "date": "1799"
+        },
+        {
+            "place": "Florencja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "1800-1801"
+        },
+        {
+            "place": "Neapol",
+            "date": "1801"
+        },
+        {
+            "place": "Puławy",
+            "date": "1801"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1801"
+        },
+        {
+            "place": "Kłajpeda",
+            "date": "1802"
+        },
+        {
+            "place": "Wileńskie",
+            "date": "1803"
+        },
+        {
+            "place": "Syberia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Peterswalde",
+            "date": "1813-08-14"
+        },
+        {
+            "place": "Puławy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piszczany",
+            "date": "brak danych"
+        },
+        {
+            "place": "Karlsbad",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1809"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1813-03-30"
+        },
+        {
+            "place": "Reichenbach",
+            "date": "1813-06-22"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dubno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sieniawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bartoszyce",
+            "date": "1807"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1807"
+        },
+        {
+            "place": "Berlino",
+            "date": "brak danych"
+        },
+        {
+            "place": "Austerlitz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Holicz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jena",
+            "date": "brak danych"
+        },
+        {
+            "place": "Austerstädt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Iława",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rus",
+            "date": "1807"
+        },
+        {
+            "place": "Niemno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nowa Galicja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Blacha",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilanów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Litwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rus",
+            "date": "brak danych"
+        },
+        {
+            "place": "Księstwo Warszawskie",
+            "date": "1807"
+        },
+        {
+            "place": "Królestwo Polskie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1770-01-14"
+        },
+        {
+            "place": "Chaumont",
+            "date": "1814-02-25"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Elbląg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Królewiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kłajpeda",
+            "date": "brak danych"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włosowce",
+            "date": "1823-10-31"
+        },
+        {
+            "place": "Wilno",
+            "date": "1822-05"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niemcy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Marsylia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bolimów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1831-09-26"
+        },
+        {
+            "place": "Strasburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "1833"
+        },
+        {
+            "place": "Belgia",
+            "date": "1839"
+        },
+        {
+            "place": "Konstantynopol",
+            "date": "1841"
+        },
+        {
+            "place": "Belgrad",
+            "date": "1843"
+        },
+        {
+            "place": "Trnovo",
+            "date": "1844"
+        },
+        {
+            "place": "Jassy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bukareszt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "1843"
+        },
+        {
+            "place": "Christiania",
+            "date": "1848"
+        },
+        {
+            "place": "Berlin",
+            "date": "1848"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stambuł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bosfor",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kaukaz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gołuchów",
+            "date": "1858"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1858-11-30"
+        },
+        {
+            "place": "Montfermeil",
+            "date": "1861-07-15"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "name": "Wilhelm Karol Kolberg",
+    "psb_id": "PSB-13-0335",
+    "biogram_file": "Kolberg_Wilhelm_Karol.txt",
+    "date_of_birth": {
+        "date": "1807-06-13"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1877-06-04"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kartograf",
+        "hydrograf",
+        "inżynier dróg i mostów",
+        "porucznik w Korpusie Inżynierów wojska polskiego",
+        "inżynier w korpusie dróg i mostów",
+        "referent techniczny w Wydziale Komunikacji Komisji Rządowej Spraw Wewnętrznych",
+        "członek zarządu budowy drogi żelaznej warszawsko-wiedeńskiej",
+        "dyrektor drogi żelaznej warszawsko-wiedeńskiej",
+        "urzędnik przy naczelniku XIII okręgu zarządu komunikacji",
+        "inspektor XI okręgu zarządu komunikacji",
+        "członek ogólnego zarządu komunikacji",
+        "członek Rady Ogólnej Budowniczej przy Komisji Rządowej Spraw Wewnętrznych",
+        "członek Komitetu Wodociągów w Warszawie",
+        "urzędnik gminy ewangelicko-augsburskiej w Warszawie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Liceum Warszawskie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Korpus Inżynierów wojska polskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkola Aplikacyjna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kwatera Główna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Komunikacji Komisji Rządowej Spraw Wewnętrznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Droga żelazna warszawsko-wiedeńska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Ogólna Budownicza przy Komisji Rządowej Spraw Wewnętrznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Wodociągów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Gmina ewangelicko-augsburska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biblioteka Krasińskich",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Krzysztof Juliusz Henryk Kolberg"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Karolina Fryderyka Henrieta Mercoeur"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Oskar Kolberg"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Antoni Kolberg"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Emilia Karolina Gronau"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Bronisław Edward Kolberg"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Oskar Kolberg"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Jadwiga Karolina Kolberg"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Eleonora Kolberg"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Juliusz Wilhelm Józef Kolberg"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Wilhelm Edward Kolberg"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "brak danych",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1807-06-13"
+        },
+        {
+            "place": "Ryki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kurowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "1838-1839"
+        },
+        {
+            "place": "Austria",
+            "date": "1838-1839"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1838-1839"
+        },
+        {
+            "place": "Augustów",
+            "date": "1839-1841"
+        },
+        {
+            "place": "Niemcy",
+            "date": "1841-1844"
+        },
+        {
+            "place": "Belgia",
+            "date": "1841-1844"
+        },
+        {
+            "place": "Holandia",
+            "date": "1841-1844"
+        },
+        {
+            "place": "Francja",
+            "date": "1841-1844"
+        },
+        {
+            "place": "Anglia",
+            "date": "1841-1844"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

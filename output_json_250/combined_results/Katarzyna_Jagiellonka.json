@@ -1,0 +1,274 @@
+{
+    "name": "Katarzyna Jagiellonka",
+    "psb_id": "PSB-12-0233",
+    "biogram_file": "Katarzyna_Jagiellonka.txt",
+    "date_of_birth": {
+        "date": "1526-11-01"
+    },
+    "place_of_birth": {
+        "place": "Kraków"
+    },
+    "date_of_death": {
+        "date": "1583-09-16"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Uppsala",
+        "note": "podziemia katedry, kaplica nagrobna"
+    },
+    "functions": [
+        "królowa Szwecji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Dwór królewski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zamek wawelski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zamek w Turku",
+            "institution_place": "Turku"
+        },
+        {
+            "institution_name": "Zamek Gripsholm",
+            "institution_place": "Mariefred"
+        },
+        {
+            "institution_name": "Królestwo Szwecji",
+            "institution_place": "Szwecja"
+        },
+        {
+            "institution_name": "Katedra w Uppsali",
+            "institution_place": "Uppsala"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Zygmunt I"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Bona Sforza"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Zygmunt August"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "córka",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Zygmunt"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Batory"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Eryk XIV"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Karol"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Bona Sforza",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Zofia Jagiellonka",
+            "person_date": "brak danych",
+            "person_info": "księżna brunszwicka"
+        },
+        {
+            "person_name": "Anna Jagiellonka",
+            "person_date": "brak danych",
+            "person_info": "królowa Polski"
+        },
+        {
+            "person_name": "Barbara Radziwiłłówna",
+            "person_date": "brak danych",
+            "person_info": "królowa Polski"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Gustaw I Waza",
+            "person_date": "brak danych",
+            "person_info": "król Szwecji"
+        },
+        {
+            "person_name": "Albrecht Hohenzollern",
+            "person_date": "brak danych",
+            "person_info": "książę Prus"
+        },
+        {
+            "person_name": "Ferdynand Habsburg",
+            "person_date": "brak danych",
+            "person_info": "arcyksiążę"
+        },
+        {
+            "person_name": "Iwan Groźny",
+            "person_date": "1560",
+            "person_info": "car Rosji"
+        },
+        {
+            "person_name": "Sukin",
+            "person_date": "1560",
+            "person_info": "poseł cara Rosji"
+        },
+        {
+            "person_name": "Jan III Waza",
+            "person_date": "1561",
+            "person_info": "król Szwecji"
+        },
+        {
+            "person_name": "Eryk XIV Waza",
+            "person_date": "brak danych",
+            "person_info": "król Szwecji"
+        },
+        {
+            "person_name": "Dośka",
+            "person_date": "brak danych",
+            "person_info": "karliczka na dworze Katarzyny"
+        },
+        {
+            "person_name": "Baśka",
+            "person_date": "brak danych",
+            "person_info": "karliczka na dworze Katarzyny"
+        },
+        {
+            "person_name": "Jöran Persson",
+            "person_date": "brak danych",
+            "person_info": "prokurator i prawa ręka króla Eryka XIV"
+        },
+        {
+            "person_name": "Zygmunt III Waza",
+            "person_date": "1566",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "brak danych",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "D. Alaman",
+            "person_date": "brak danych",
+            "person_info": "poseł polski"
+        },
+        {
+            "person_name": "K. Warszewicki",
+            "person_date": "brak danych",
+            "person_info": "poseł polski"
+        },
+        {
+            "person_name": "Antoni Possevino",
+            "person_date": "brak danych",
+            "person_info": "poseł papieski"
+        },
+        {
+            "person_name": "S. Hozjusz",
+            "person_date": "brak danych",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "M. Kromer",
+            "person_date": "brak danych",
+            "person_info": "arcybiskup gnieźnieński i prymas Polski"
+        },
+        {
+            "person_name": "A. Hahr",
+            "person_date": "brak danych",
+            "person_info": "historyk sztuki"
+        },
+        {
+            "person_name": "Szarffenberg",
+            "person_date": "1570",
+            "person_info": "wydawca"
+        },
+        {
+            "person_name": "M. Kromer",
+            "person_date": "1570",
+            "person_info": "autor 'Historii prawdziwej o przygodzie żałosnej książęcia Finlandzkiego Jana i królewny Katarzyny'"
+        },
+        {
+            "person_name": "Willem Boy",
+            "person_date": "brak danych",
+            "person_info": "nadworny rzeźbiarz króla"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1526-11-01"
+        },
+        {
+            "place": "Mazowsze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1562"
+        },
+        {
+            "place": "Wilno",
+            "date": "1562-10-04"
+        },
+        {
+            "place": "Ryga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rewel",
+            "date": "brak danych"
+        },
+        {
+            "place": "Abo (Turku)",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gripsholm",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwecja",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "name": "Dymitr Olgierdowicz starszy",
+    "psb_id": "PSB-06-0080",
+    "biogram_file": "Dymitr_Olgierdowicz_Starszy.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1399"
+    },
+    "place_of_death": {
+        "place": "Worsklą",
+        "note": "nad"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "książę Drucki",
+        "książę Briański",
+        "książę Nowogrodzki",
+        "książę Siewierski",
+        "książę Trubczewski",
+        "książę Czernihowski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "brat",
+            "person": "Jagiełło"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Olgierd"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Maria ks. Witebska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Dymitr-Korybut"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Andrzej Połocki"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna ks. Riazańska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Iwan"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Semen"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Roman"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Hleb"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dymitr"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Lew"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Olechno"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Andrzej"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna Eupraksja"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Agrypina"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Julianna"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Aleksandra"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Dymitr-Korybut",
+            "person_date": "brak danych",
+            "person_info": "książę Nowogrodzki i Siewierski"
+        },
+        {
+            "person_name": "Dymitr Doński",
+            "person_date": "1380",
+            "person_info": "wielki książę moskiewski"
+        },
+        {
+            "person_name": "Dymitr Koriatowicz Wołyński",
+            "person_date": "1380",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jagiełło",
+            "person_date": "brak danych",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Szymon-Lingwen Olgierdowicz",
+            "person_date": "1388",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Skirgiełło",
+            "person_date": "1389",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Witold",
+            "person_date": "1389",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej",
+            "person_date": "1399",
+            "person_info": "pasierb Dymitra Starszego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Druck",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mamaj",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zadnieprze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Perejasław Zaleski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mołodeczno",
+            "date": "1388"
+        },
+        {
+            "place": "Psków",
+            "date": "1389"
+        },
+        {
+            "place": "Nowogród Wielki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Litwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Briańsk",
+            "date": "1399"
+        },
+        {
+            "place": "Worsklą",
+            "date": "1399"
+        },
+        {
+            "place": "Połock",
+            "date": "brak danych"
+        }
+    ]
+}

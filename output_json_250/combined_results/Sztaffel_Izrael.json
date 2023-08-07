@@ -1,0 +1,165 @@
+{
+    "name": "Izrael Abraham Sztaffel",
+    "psb_id": "PSB-49-0043",
+    "biogram_file": "Sztaffel_Izrael.txt",
+    "date_of_birth": {
+        "date": "1814"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1884-12-09"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "zegarmistrz",
+        "mechanik",
+        "wynalazca",
+        "konstruktor maszyn",
+        "członek korespondent paryskiego Tow. Przemysłu, Sztuk i Nauk Wyzwolonych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zakład zegarmistrzowski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Ratusz Główny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Giełda w Banku Polskim",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Cesarska Akademia Nauk",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Instytut Szlachecki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szpital Świętego Ducha",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zamek Królewski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Przemysłu, Sztuk i Nauk Wyzwolonych",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Bank Polski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muzeum Cesarskiej Akademii Nauk",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Biblioteka Akademii Nauk",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Archiwum Historyczne",
+            "institution_place": "Petersburg"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Julian Bayer",
+            "person_date": "1845",
+            "person_info": "matematyk"
+        },
+        {
+            "person_name": "Adrian Krzyżanowski",
+            "person_date": "1845",
+            "person_info": "matematyk"
+        },
+        {
+            "person_name": "August Bernhardt",
+            "person_date": "1845",
+            "person_info": "technolog"
+        },
+        {
+            "person_name": "W. J. Buniakowski",
+            "person_date": "1845",
+            "person_info": "konstruktor maszyn liczących"
+        },
+        {
+            "person_name": "B. S. Jacobi",
+            "person_date": "1845",
+            "person_info": "fizyk"
+        },
+        {
+            "person_name": "Jakub Pikiel",
+            "person_date": "1853",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Gottlieb Haase",
+            "person_date": "1860",
+            "person_info": "projektant znaczków pocztowych"
+        },
+        {
+            "person_name": "Henryk Majer",
+            "person_date": "1860",
+            "person_info": "rytownik Banku Polskiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1814"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1833"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1845"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1845"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1846"
+        },
+        {
+            "place": "Londyn",
+            "date": "1851"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1858"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1864"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        }
+    ]
+}

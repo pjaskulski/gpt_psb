@@ -1,0 +1,178 @@
+{
+    "name": "Mieczysław Rudziński",
+    "psb_id": "PSB-33-0019",
+    "biogram_file": "Rudzinski_Mieczyslaw.txt",
+    "date_of_birth": {
+        "date": "1887-04-16"
+    },
+    "place_of_birth": {
+        "place": "Werki",
+        "note": "koło Wilna"
+    },
+    "date_of_death": {
+        "date": "1940-11-14"
+    },
+    "place_of_death": {
+        "place": "Dachau"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "adwokat",
+        "obrońca w sprawach politycznych",
+        "współorganizator Zjazdu Polskiej Młodzieży Akademickiej w Moskwie",
+        "członek Komitetu Pomocy Ofiarom Wojny",
+        "pracownik kancelarii Aleksandra Lednickiego",
+        "pracownik polskiego przedstawicielstwa w Gruzji, Armenii i Azerbejdżanie",
+        "członek władz samorządu adwokackiego",
+        "członek Okręgowej Rady Adwokackiej",
+        "rzecznik dyscyplinarny",
+        "członek Polskiej Partii Socjalistycznej (PPS)",
+        "członek Centralnego Sądu Partyjnego",
+        "członek Zrzeszenia Prawników Socjalistów w Warszawie",
+        "członek Sądu Koleżeńskiego",
+        "członek Ligi Praw Człowieka i Obywatela",
+        "zastępca rzecznika dyscyplinarnego w Prezydium Okręgowej Rady Adwokackiej w Warszawie",
+        "członek Rady Konsultacyjnej (Beirat)",
+        "członek Rady Konsultacyjnej powołanej przez niemieckiego komisarza dla reorganizacji adwokatury E. Wendorffa"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet w Moskwie",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Związek Polskiej Młodzieży Socjalistycznej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Pomocy Ofiarom Wojny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kancelaria Aleksandra Lednickiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie przedstawicielstwo w Gruzji, Armenii i Azerbejdżanie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Adwokatura z siedzibą w Warszawie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Okręgowa Rada Adwokacka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Socjalistyczna (PPS)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralny Sąd Partyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zrzeszenie Prawników Socjalistów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sąd Koleżeński",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Liga Praw Człowieka i Obywatela",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Prezydium Okręgowej Rady Adwokackiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Konsultacyjna (Beirat)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gestapo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Pawiak",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Obóz koncentracyjny w Sachsenhausen",
+            "institution_place": "Sachsenhausen"
+        },
+        {
+            "institution_name": "Obóz w Dachau",
+            "institution_place": "Dachau"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Aleksander Lednicki",
+            "person_date": "brak danych",
+            "person_info": "pracownik kancelarii"
+        },
+        {
+            "person_name": "Wacław Barcikowski",
+            "person_date": "26 X 1931 – 13 I 1932",
+            "person_info": "adwokat, współpracownik"
+        },
+        {
+            "person_name": "Mieczysław Mastek",
+            "person_date": "26 X 1931 – 13 I 1932",
+            "person_info": "działacz Polskiej Partii Socjalistycznej"
+        },
+        {
+            "person_name": "E. Wendorff",
+            "person_date": "1940",
+            "person_info": "niemiecki komisarz dla reorganizacji adwokatury"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Werki",
+            "date": "1887-04-16"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "gub. archangielska",
+            "date": "1911"
+        },
+        {
+            "place": "Kaukaz",
+            "date": "1916"
+        },
+        {
+            "place": "Gruzja",
+            "date": "po listopadzie 1917"
+        },
+        {
+            "place": "Armenia",
+            "date": "po listopadzie 1917"
+        },
+        {
+            "place": "Azerbejdżan",
+            "date": "po listopadzie 1917"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1931-05-23/1931-05-25"
+        }
+    ]
+}

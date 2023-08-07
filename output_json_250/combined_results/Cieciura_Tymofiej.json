@@ -1,0 +1,141 @@
+{
+    "name": "Tymofiej Cieciura",
+    "psb_id": "PSB-04-0075",
+    "biogram_file": "Cieciura_Tymofiej.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pułkownik perejasławski",
+        "hetman nakaźny lewobrzeżnej Ukrainy",
+        "członek rady kozackiej",
+        "osobisty doradca Bohdana Chmielnickiego",
+        "inicjator poczynań przeciwko hetmanowi",
+        "nakaźny hetman lewobrzeżnej Ukrainy",
+        "doradca Szeremetiewa",
+        "członek wojennej Rady moskiewskiej",
+        "dowódca jednej z czterech dywizji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Rada Kozacka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Rzeczypospolitej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Wojenna Moskiewska",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Armia Moskiewska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Bohdan Chmielnicki",
+            "person_date": "brak danych",
+            "person_info": "osobisty doradca"
+        },
+        {
+            "person_name": "B. Kikin",
+            "person_date": "1658",
+            "person_info": "posł moskiewski"
+        },
+        {
+            "person_name": "Romodanowski",
+            "person_date": "1659",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Trubecki",
+            "person_date": "1659",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Niemirycz",
+            "person_date": "1659",
+            "person_info": "ofiara rzezi"
+        },
+        {
+            "person_name": "Jerzy Chmielnicki",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Szeremetiew",
+            "person_date": "brak danych",
+            "person_info": "doradca"
+        },
+        {
+            "person_name": "Romodanowski",
+            "person_date": "1661",
+            "person_info": "żołnierz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dikańka",
+            "date": "1658-03"
+        },
+        {
+            "place": "Połtawa",
+            "date": "1658-05"
+        },
+        {
+            "place": "Mirhorod",
+            "date": "1659"
+        },
+        {
+            "place": "Łochwica",
+            "date": "1659"
+        },
+        {
+            "place": "Konotop",
+            "date": "1659"
+        },
+        {
+            "place": "Perejasław",
+            "date": "1659"
+        },
+        {
+            "place": "Niżyn",
+            "date": "1659"
+        },
+        {
+            "place": "Wasilków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lubar",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cudnów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

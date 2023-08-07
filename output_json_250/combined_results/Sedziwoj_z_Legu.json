@@ -1,0 +1,216 @@
+{
+    "name": "Sędziwój z Łęgu Kościelnego",
+    "psb_id": "PSB-36-0274",
+    "biogram_file": "Sedziwoj_z_Legu.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1442-11-15"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kustosz krakowski",
+        "kanonik poznański",
+        "kleryk w diec. płockiej",
+        "kanonik katedralny",
+        "scholaster krakowski",
+        "świadek na dokumentach biskupa",
+        "koncyliarysta",
+        "świadek w sądzie konsystorskim",
+        "dłużnik",
+        "egzekutor testamentu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kapituła Katedralna Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kuria Rzymska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Stolica Apostolska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sąd Konsystorski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Synod Prowincjonalny",
+            "institution_place": "Łęczyca"
+        },
+        {
+            "institution_name": "Kapituła Katedralna Poznańska",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Michał z Łęgu Kościelnego"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Świętosław, zw. Bernardem"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Świętosław, kanonik płocki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Paweł Włodkowic",
+            "person_date": "1423",
+            "person_info": "wpływowy przedstawiciel rodu Dołęgów"
+        },
+        {
+            "person_name": "Marcin V",
+            "person_date": "1423",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "1427",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jan Strasz z Kościelnik",
+            "person_date": "1433-1434",
+            "person_info": "sąsiad"
+        },
+        {
+            "person_name": "Eugeniusz IV",
+            "person_date": "1435",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Jan Rej z Szumska",
+            "person_date": "1437",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Spiczmer",
+            "person_date": "1440",
+            "person_info": "kantor"
+        },
+        {
+            "person_name": "Klemens Nawojowski",
+            "person_date": "1440",
+            "person_info": "kanonik"
+        },
+        {
+            "person_name": "Jan Elgot",
+            "person_date": "1440",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Chebda z Niewiesza",
+            "person_date": "1440",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Oleśnicki",
+            "person_date": "brak danych",
+            "person_info": "kasztelan sandomierski"
+        },
+        {
+            "person_name": "Andrzej z Łowini",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bartłomiej z Opatkowic",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj",
+            "person_date": "brak danych",
+            "person_info": "mieszczanin kazimierski"
+        },
+        {
+            "person_name": "Jan Dziekanowski",
+            "person_date": "1442",
+            "person_info": "kanonik krakowski"
+        },
+        {
+            "person_name": "Andrzej z Kokorzyna",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Krak."
+        },
+        {
+            "person_name": "Jakub z Zaborowa",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Krak."
+        },
+        {
+            "person_name": "Paweł z Zatora",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Krak."
+        },
+        {
+            "person_name": "Jan",
+            "person_date": "1436-1437",
+            "person_info": "osoba zajmująca się ogrzewaniem szkoły paraf. Wszystkich Świętych"
+        },
+        {
+            "person_name": "Jan Długosz",
+            "person_date": "1442",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan zw. Niger",
+            "person_date": "1442",
+            "person_info": "wikariusz katedralny"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Łęg Kościelny",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1412"
+        },
+        {
+            "place": "Rzym",
+            "date": "1423"
+        },
+        {
+            "place": "Wyciąże",
+            "date": "1431"
+        },
+        {
+            "place": "Poznań",
+            "date": "1437"
+        },
+        {
+            "place": "Iłża",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bazylea",
+            "date": "1441"
+        }
+    ]
+}

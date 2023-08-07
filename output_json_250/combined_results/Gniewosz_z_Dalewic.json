@@ -1,0 +1,181 @@
+{
+    "name": "Gniewosz z Dalewic",
+    "psb_id": "PSB-08-0212",
+    "biogram_file": "Gniewosz_z_Dalewic.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1406"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "podkomorzy krakowski",
+        "starosta lwowski",
+        "starosta trembowelski",
+        "ochmistrz dworu drugiej żony Jagiełły, królowej Anny",
+        "kasztelan sandomierski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Księstwo Opolskie",
+            "institution_place": "Opole"
+        },
+        {
+            "institution_name": "Zamek Wawelski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dwór królewski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Starostwo Lwowskie",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Starostwo Trembowelskie",
+            "institution_place": "Trembowla"
+        },
+        {
+            "institution_name": "Podkomorzy Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dwór drugiej żony Jagiełły, królowej Anny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Królewska",
+            "institution_place": "Raciąż"
+        },
+        {
+            "institution_name": "Kasztelania Sandomierska",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Uniwersytet w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Klasztor w Koprzywnicy",
+            "institution_place": "Koprzywnica"
+        },
+        {
+            "institution_name": "Klasztor augustianów przy kościele Bożego Ciała",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Anna (Joanna)"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Gniewosz"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Elżbieta Warszówna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Władysław Opolski",
+            "person_date": "1378",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Wilhelm",
+            "person_date": "1385",
+            "person_info": "arcyksiążę austriacki"
+        },
+        {
+            "person_name": "Jadwiga",
+            "person_date": "1385",
+            "person_info": "królowa polska"
+        },
+        {
+            "person_name": "Jagiełło",
+            "person_date": "1387",
+            "person_info": "wielki książę litewski"
+        },
+        {
+            "person_name": "Mieczysław",
+            "person_date": "1398",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Przechna z Dalowic",
+            "person_date": "1398",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Elżbieta Warszówna z Michowa",
+            "person_date": "brak danych",
+            "person_info": "bogata dziedziczka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dalewice",
+            "date": "ok. połowy XIV w."
+        },
+        {
+            "place": "Kraków",
+            "date": "1378"
+        },
+        {
+            "place": "Kraków",
+            "date": "1385"
+        },
+        {
+            "place": "Gródek",
+            "date": "1387-03-01"
+        },
+        {
+            "place": "Kraków",
+            "date": "1389"
+        },
+        {
+            "place": "Lwów",
+            "date": "1393"
+        },
+        {
+            "place": "Trembowla",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1397"
+        },
+        {
+            "place": "Raciąż",
+            "date": "1404"
+        },
+        {
+            "place": "Aragonia",
+            "date": "1404"
+        },
+        {
+            "place": "Portugalia",
+            "date": "1404"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1406"
+        }
+    ]
+}

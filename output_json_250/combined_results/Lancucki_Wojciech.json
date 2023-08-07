@@ -1,0 +1,225 @@
+{
+    "name": "Wojciech Łańcucki",
+    "psb_id": "PSB-18-0143",
+    "biogram_file": "Lancucki_Wojciech.txt",
+    "date_of_birth": {
+        "date": "1610",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Skawina"
+    },
+    "date_of_death": {
+        "date": "1686-07-25"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "prawnik",
+        "profesor Akad. Krak.",
+        "rektor Akad. Krak.",
+        "prefekt Seminarium Duchownego w Gnieźnie",
+        "nauczyciel prywatny",
+        "professor regius",
+        "dziekan Wydziału Filozoficznym",
+        "rektor Akademii Lubrańskiego",
+        "kanonik Św. Anny i Św. Mikołaja za Zamku",
+        "kanonik w kolegiacie Wszystkich Świętych",
+        "proboszcz w Luborzycy",
+        "archidiakon pilecki",
+        "dziekan Wydziału Prawa",
+        "senior pater",
+        "sekretarz królewski",
+        "podkanclerz Akademii"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Lubrańskiego",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Seminarium Duchowne",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Kolegium Mniejsze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegium Większe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegium Jurystów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Akademia Lubrańskiego",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegiata Wszystkich Świętych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Trybunał Roty Rzymskiej",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Kapituła Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Prawnicze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegiata Św. Anny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szkoła parafialna",
+            "institution_place": "Skawina"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "M. Łubieński",
+            "person_date": "1641",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "W. Szołdrski",
+            "person_date": "brak danych",
+            "person_info": "uczeń"
+        },
+        {
+            "person_name": "W. Kotulecki",
+            "person_date": "1658",
+            "person_info": "panegirysta"
+        },
+        {
+            "person_name": "J. Rudzki",
+            "person_date": "1658",
+            "person_info": "panegirysta"
+        },
+        {
+            "person_name": "S. Makowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Kucharski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Jurkowski",
+            "person_date": "1659",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Trzebicki",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "J. Sobieski",
+            "person_date": "1671",
+            "person_info": "król"
+        },
+        {
+            "person_name": "P. Gembicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Oborski",
+            "person_date": "brak danych",
+            "person_info": "sufragan"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Skawina",
+            "date": "1610"
+        },
+        {
+            "place": "Kraków",
+            "date": "1626"
+        },
+        {
+            "place": "Poznań",
+            "date": "1638"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1641"
+        },
+        {
+            "place": "Kraków",
+            "date": "1646"
+        },
+        {
+            "place": "Poznań",
+            "date": "1651"
+        },
+        {
+            "place": "Kraków",
+            "date": "1652"
+        },
+        {
+            "place": "Luborzyca",
+            "date": "1654"
+        },
+        {
+            "place": "Kraków",
+            "date": "1654"
+        },
+        {
+            "place": "Kraków",
+            "date": "1661"
+        },
+        {
+            "place": "Kraków",
+            "date": "1670"
+        },
+        {
+            "place": "Kraków",
+            "date": "1671"
+        },
+        {
+            "place": "Kraków",
+            "date": "1672"
+        },
+        {
+            "place": "Kraków",
+            "date": "1676"
+        },
+        {
+            "place": "Kraków",
+            "date": "1680"
+        }
+    ]
+}

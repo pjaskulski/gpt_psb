@@ -1,0 +1,831 @@
+{
+    "name": "Jan Fryderyk Sapieha",
+    "psb_id": "PSB-35-0001",
+    "biogram_file": "Sapieha_Jan_Fryderyk.txt",
+    "date_of_birth": {
+        "date": "1618"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1664-06-03"
+    },
+    "place_of_death": {
+        "place": "Żurawno"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Lwów",
+        "note": "kościół Bernardynów"
+    },
+    "functions": [
+        "pisarz polny kor.",
+        "wojownik w armii francuskiej",
+        "wojownik w armii hiszpańskiej",
+        "rotmistrz kwarcianej chorągwi kozackiej",
+        "dowódca nad resztkami sił polskich",
+        "rotmistrz chorągwi kozackiej w wojsku kor.",
+        "dowódca pułku jazdy",
+        "oberszter regimentu piechoty w wojsku kor.",
+        "wojownik w armii szwedzkiej",
+        "naczelny dowódca jazdy polskiej w głównej armii Karola Gustawa",
+        "oberszter regimentu dragonów",
+        "jeden z komisarzy do pertraktacji z Moskwą",
+        "nadzorca prac fortyfikacyjnych we Lwowie",
+        "dowódca autoramentu cudzoziemskiego",
+        "zarządca dóbr Marii Kazimierzy Zamoyskiej",
+        "mediator między Marią Kazimierą a jej mężem Janem Zamoyskim",
+        "zarządca spraw starosty kałuskiego",
+        "dowódca wojskowy podczas oblężenia Torunia",
+        "dowódca wojskowy podczas wyprawy cudnowskiej",
+        "dowódca wojskowy podczas wyprawy na Mohylew",
+        "dowódca wojskowy podczas walk pod Lubarem",
+        "dowódca wojskowy podczas walk pod Cudnowem",
+        "dowódca wojskowy podczas działań przeciw siłom gen. P. Wirtza",
+        "dowódca wojskowy podczas działań przeciw Jerzemu II Rakoczemu",
+        "dowódca wojskowy podczas bitwy pod Warszawą",
+        "dowódca wojskowy podczas bitwy pod Kłeckiem",
+        "hetman polny litewski",
+        "rotmistrz drugiej chorągwi kozackiej w wojsku kor.",
+        "dowódca straży tylnej",
+        "dowódca grupy obserwacyjno-osłonowej",
+        "starosta kamieniecki w woj. brzeskim lit.",
+        "starosta czeczerski",
+        "starosta słonimski",
+        "starosta owrucki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kolegium Jezuickie",
+            "institution_place": "Łuck"
+        },
+        {
+            "institution_name": "Kolegium Jezuickie",
+            "institution_place": "Ostróg"
+        },
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Nowodworskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet Padewski",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Uniwersytet Boloński",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Armia Francuska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Armia Hiszpańska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Chorągiew Kozacka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojsko Koronne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Armia Szwedzka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Regiment Dragonów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Święcony",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Braterski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "wojsko koronne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "armia główna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kościół św. Anny",
+            "institution_place": "Kodzień"
+        },
+        {
+            "institution_name": "kościół Bernardynów",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "starostwo kamienieckie",
+            "institution_place": "województwo brzeskie litewskie"
+        },
+        {
+            "institution_name": "starostwo czeczerskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "starostwo słonimskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "starostwo owruckie",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "Mikołaj Sapieha"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Fryderyk Sapieha"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Ewa ze Skaszewskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Tomasz Kazimierz Sapieha"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Aleksander Kazimierz Sapieha"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Krzysztof Franciszek Sapieha"
+        },
+        {
+            "family_relation": "kuzyn",
+            "person": "Kazimierz Leon Sapieha"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Konstancja Herburta"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Mikołaj Herbut"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Anna Żółkiewska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Ludwika Konstancja Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj Leon Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kazimierz Władysław Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Paweł Franciszek Sapieha"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Mikołaj Sapieha",
+            "person_date": "brak danych",
+            "person_info": "wojewoda witebski"
+        },
+        {
+            "person_name": "Fryderyk Sapieha",
+            "person_date": "brak danych",
+            "person_info": "podkomorzy włodzimierski"
+        },
+        {
+            "person_name": "Ewa ze Skaszewskich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tomasz Kazimierz Sapieha",
+            "person_date": "brak danych",
+            "person_info": "obózny litewski"
+        },
+        {
+            "person_name": "Aleksander Kazimierz Sapieha",
+            "person_date": "brak danych",
+            "person_info": "biskup wileński"
+        },
+        {
+            "person_name": "Krzysztof Franciszek Sapieha",
+            "person_date": "brak danych",
+            "person_info": "krajczy litewski"
+        },
+        {
+            "person_name": "Bernard Weimarski",
+            "person_date": "1638-1639",
+            "person_info": "dowódca armii"
+        },
+        {
+            "person_name": "Kondeusz",
+            "person_date": "1638-1639",
+            "person_info": "dowódca armii"
+        },
+        {
+            "person_name": "Paweł Potocki",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Krzysztof Gosiewski",
+            "person_date": "1640",
+            "person_info": "wojewoda smoleński"
+        },
+        {
+            "person_name": "Stefan Potocki",
+            "person_date": "1648",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bohdan Chmielnicki",
+            "person_date": "1648",
+            "person_info": "przywódca powstania"
+        },
+        {
+            "person_name": "Karasz-murza",
+            "person_date": "1648",
+            "person_info": "Tatar, który więził Sapiehę"
+        },
+        {
+            "person_name": "Marcin Kalinowski",
+            "person_date": "1651",
+            "person_info": "hetman polny koronny"
+        },
+        {
+            "person_name": "Zygmunt Przyjemski",
+            "person_date": "1652",
+            "person_info": "pisarz polny koronny"
+        },
+        {
+            "person_name": "Stefan Czarniecki",
+            "person_date": "1653",
+            "person_info": "wojskowy, dowódca"
+        },
+        {
+            "person_name": "B. Repnin",
+            "person_date": "1653",
+            "person_info": "członek poselstwa moskiewskiego"
+        },
+        {
+            "person_name": "Kelembet-murza",
+            "person_date": "1654",
+            "person_info": "Tatar, który więził Sapiehę"
+        },
+        {
+            "person_name": "Mariusz Jaskólski",
+            "person_date": "1654",
+            "person_info": "posłany na Krym, aby uwolnić Sapiehę"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "1655",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Stanisław 'Rewera' Potocki",
+            "person_date": "1655",
+            "person_info": "hetman wielki koronny"
+        },
+        {
+            "person_name": "Stanisław Lanckoroński",
+            "person_date": "1655",
+            "person_info": "hetman polny koronny"
+        },
+        {
+            "person_name": "Jan Sobieski",
+            "person_date": "1655",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Karol Gustaw",
+            "person_date": "1655",
+            "person_info": "król Szwecji"
+        },
+        {
+            "person_name": "Aleksander Koniecpolski",
+            "person_date": "1655",
+            "person_info": "przywódca ugrupowania dążącego do poddania się Karolowi Gustawowi"
+        },
+        {
+            "person_name": "Daniel Żytkiewicz",
+            "person_date": "1655",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Hieronim Radziejowski",
+            "person_date": "1655",
+            "person_info": "stronnik Szwedów"
+        },
+        {
+            "person_name": "Jerzy Niemirycz",
+            "person_date": "1655",
+            "person_info": "stronnik Szwedów"
+        },
+        {
+            "person_name": "Paweł Jan Sapieha",
+            "person_date": "1655",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Potocki",
+            "person_date": "1655",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bretlach",
+            "person_date": "1656",
+            "person_info": "oberszter szwedzki"
+        },
+        {
+            "person_name": "Jerzy II Rakoczy",
+            "person_date": "1657",
+            "person_info": "książę Siedmiogrodu"
+        },
+        {
+            "person_name": "Stanisław Witowski",
+            "person_date": "1657",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Rhedey",
+            "person_date": "1657",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Krzysztof Grodzicki",
+            "person_date": "1 VIII",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Jerzy Lubomirski",
+            "person_date": "26 IX",
+            "person_info": "hetman polny"
+        },
+        {
+            "person_name": "Moryc Wachowski",
+            "person_date": "1590",
+            "person_info": "kupiec zbożowy"
+        },
+        {
+            "person_name": "Iwan Wyhowski",
+            "person_date": "ok. 29 IX",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Potocki",
+            "person_date": "ok. 29 IX",
+            "person_info": "obóźny koronny"
+        },
+        {
+            "person_name": "Władysław Wilczkowski",
+            "person_date": "na początku lutego 1661",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maria Kazimiera Zamoyska",
+            "person_date": "od r. 1660",
+            "person_info": "późniejsza Sobieska"
+        },
+        {
+            "person_name": "J. Caillet",
+            "person_date": "czerwiec 1661",
+            "person_info": "pełnomocnik ks. Ludwika Kondeusza"
+        },
+        {
+            "person_name": "Wincenty Gosiewski",
+            "person_date": "lipiec 1662",
+            "person_info": "hetman polny litewski"
+        },
+        {
+            "person_name": "Dymitr Wiśniowiecki",
+            "person_date": "grudzień 1660",
+            "person_info": "wojewoda bełski"
+        },
+        {
+            "person_name": "Michał Kazimierz Pac",
+            "person_date": "grudzień 1663",
+            "person_info": "kasztelan wileński"
+        },
+        {
+            "person_name": "Jan Andrzej Morsztyn",
+            "person_date": "28 IV 1663",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "P. J. Sapieha",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Aleksander Hilary Połubiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał K. Radziwiłł",
+            "person_date": "9 IV 1663",
+            "person_info": "kasztelan wileński"
+        },
+        {
+            "person_name": "Bogusław Radziwiłł",
+            "person_date": "przed połową maja 1663",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "13 VI 1664",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Ludwika Maria",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "A. de Lumbres",
+            "person_date": "9 IV",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Prażmowski",
+            "person_date": "11 I 1664",
+            "person_info": "kanclerz koronny"
+        },
+        {
+            "person_name": "G. Romodanowski",
+            "person_date": "1664",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Skidan",
+            "person_date": "1664",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "J. Sobieski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz Leon Sapieha",
+            "person_date": "1655",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander H. Połubiński",
+            "person_date": "1664",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. H. Połubiński",
+            "person_date": "1658",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Sienkiewicz",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Wojciech Gerson",
+            "person_date": "brak danych",
+            "person_info": "artysta"
+        },
+        {
+            "person_name": "Julian Bartoszewicz",
+            "person_date": "brak danych",
+            "person_info": "autor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wołyń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łuck",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostróg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1632-1634"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niemcy",
+            "date": "1638-1639"
+        },
+        {
+            "place": "Hiszpania",
+            "date": "1638-1639"
+        },
+        {
+            "place": "Francja",
+            "date": "1644-1645"
+        },
+        {
+            "place": "Lwów",
+            "date": "1642-10-05"
+        },
+        {
+            "place": "Paryż",
+            "date": "1640-02-02"
+        },
+        {
+            "place": "Zaporoże",
+            "date": "1648"
+        },
+        {
+            "place": "Żółte Wody",
+            "date": "1648-04-29 - 1648-05-16"
+        },
+        {
+            "place": "Kniażymi Bajraki",
+            "date": "1648-05-16"
+        },
+        {
+            "place": "Daira",
+            "date": "1648-09-30"
+        },
+        {
+            "place": "Perekop",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ochmatów",
+            "date": "1652"
+        },
+        {
+            "place": "Lwów",
+            "date": "1652"
+        },
+        {
+            "place": "Żurawno",
+            "date": "1653-02"
+        },
+        {
+            "place": "Gliniany",
+            "date": "1653-05-23"
+        },
+        {
+            "place": "Żurawno",
+            "date": "1653-06-10"
+        },
+        {
+            "place": "Lwów",
+            "date": "1653-07-24"
+        },
+        {
+            "place": "Tajkury",
+            "date": "1654-01-01"
+        },
+        {
+            "place": "Krym",
+            "date": "1654-02"
+        },
+        {
+            "place": "Gródek Jagielloński",
+            "date": "1655-09-29"
+        },
+        {
+            "place": "Kolbuszowa",
+            "date": "1655-10-09"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "1655-11"
+        },
+        {
+            "place": "Prusy",
+            "date": "1655-12"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "1660-04-21"
+        },
+        {
+            "place": "Kłecko",
+            "date": "1660-05-07"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1660-07-30"
+        },
+        {
+            "place": "Baranów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zamość",
+            "date": "1656-02-26"
+        },
+        {
+            "place": "Jarosław",
+            "date": "1656-03-15"
+        },
+        {
+            "place": "Nisko",
+            "date": "1656-03-28"
+        },
+        {
+            "place": "Skole",
+            "date": "1657-07-25 - 1657-07-31"
+        },
+        {
+            "place": "Toruń",
+            "date": "1657-11 - 1658-12-30"
+        },
+        {
+            "place": "Golub",
+            "date": "1658-07"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1658-07"
+        },
+        {
+            "place": "Lwów",
+            "date": "1658"
+        },
+        {
+            "place": "Kotelnia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chmielnik",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dubno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mohylew",
+            "date": "1660-02-19"
+        },
+        {
+            "place": "Lachowce",
+            "date": "1660-09-03"
+        },
+        {
+            "place": "Stary Konstantynów",
+            "date": "1660-09-07"
+        },
+        {
+            "place": "Lubar",
+            "date": "1660-09-14"
+        },
+        {
+            "place": "Cudnów",
+            "date": "1660-09-27"
+        },
+        {
+            "place": "Zamość",
+            "date": "1660-07-22"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jędrzejów",
+            "date": "1662-07"
+        },
+        {
+            "place": "Toruń",
+            "date": "1658"
+        },
+        {
+            "place": "Woronków",
+            "date": "1663-11-22"
+        },
+        {
+            "place": "Baryszpol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostrz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Woroneż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sośnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nowe Młyny",
+            "date": "1663-03-14"
+        },
+        {
+            "place": "Kijów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Biała Cerkiew",
+            "date": "brak danych"
+        },
+        {
+            "place": "Korsuń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Koblin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dorohostaje Małe",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kodeń",
+            "date": "1659"
+        },
+        {
+            "place": "Żuława",
+            "date": "1659"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ciecierzyn",
+            "date": "1655"
+        },
+        {
+            "place": "Czarnobyl",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kamieniec",
+            "date": "1658-03-03"
+        },
+        {
+            "place": "Czeczersk",
+            "date": "1662-12-05"
+        },
+        {
+            "place": "Owrucz",
+            "date": "1659-10-17"
+        },
+        {
+            "place": "Dołhe Hołoszko",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żabczyce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żurawno",
+            "date": "1664-06-03"
+        },
+        {
+            "place": "Lwów",
+            "date": "1664-06-03"
+        }
+    ]
+}

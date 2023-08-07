@@ -1,0 +1,344 @@
+{
+    "name": "Maurice Pion",
+    "psb_id": "PSB-26-0282",
+    "biogram_file": "Pion_Maurice.txt",
+    "date_of_birth": {
+        "date": "1801-09-11"
+    },
+    "place_of_birth": {
+        "place": "Paryż"
+    },
+    "date_of_death": {
+        "date": "1869-02-14"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "tancerz",
+        "choreograf",
+        "dyrektor teatru i baletu",
+        "pierwszy tancerz Teatru Narodowego",
+        "dyrektor baletu i kierownik szkoły baletowej Teatru Narodowego",
+        "nauczyciel tańca w Aleksandryjskim Instytucie Wychowania Panien",
+        "kierownik własnego zespołu baletowego",
+        "antreprener teatru",
+        "kierownik szkoły baletowej",
+        "nauczyciel szkoły baletowej Warszawskich Teatrów Rządowych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Teatr Ambigu",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Teatr Narodowy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Wielki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Aleksandryjski Instytut Wychowania Panien",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Warszawskie Teatry Rządowe",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Antoine Claude Pion"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anne Pauli"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Aleksandra Antonina Budzyńska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Adolf Stanisław Pion"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Władysław Stanisław Pion"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Adela Pion"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Kornelia Quattrini"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Eugenia Koss"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ludwik Osiński",
+            "person_date": "1818",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Julia Mierzyńska",
+            "person_date": "1823",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antonina Palczewska",
+            "person_date": "1825",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Grekowski",
+            "person_date": "1825",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Orłowski",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Józef Stefani",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Roman Turczynowicz",
+            "person_date": "1834",
+            "person_info": "pedagog"
+        },
+        {
+            "person_name": "E. Koss",
+            "person_date": "1837",
+            "person_info": "tancerz"
+        },
+        {
+            "person_name": "K. Turczynowiczowa",
+            "person_date": "1837",
+            "person_info": "tancerzka"
+        },
+        {
+            "person_name": "T. Gwozdecka",
+            "person_date": "1837",
+            "person_info": "tancerzka"
+        },
+        {
+            "person_name": "J. Trawna",
+            "person_date": "1837",
+            "person_info": "tancerz"
+        },
+        {
+            "person_name": "K. Wendt",
+            "person_date": "1837",
+            "person_info": "tancerz"
+        },
+        {
+            "person_name": "bracia Tarnowscy",
+            "person_date": "1837",
+            "person_info": "tancerze"
+        },
+        {
+            "person_name": "F. Krzesiński",
+            "person_date": "1837",
+            "person_info": "tancerz"
+        },
+        {
+            "person_name": "J. Popiel",
+            "person_date": "1837",
+            "person_info": "tancerz"
+        },
+        {
+            "person_name": "V. Jirovec",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "G. Rossini",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "C. Pacini",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Romagnini",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "M. Carafa",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "J. Schneitzhoffer",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Reubig",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "J. Keller",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Kajetan Nowiński",
+            "person_date": "1847",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adolf Stanisław",
+            "person_date": "brak danych",
+            "person_info": "tancerz, syn Maurice'a Pion"
+        },
+        {
+            "person_name": "Władysław Stanisław",
+            "person_date": "brak danych",
+            "person_info": "tancerz, syn Maurice'a Pion"
+        },
+        {
+            "person_name": "Kornelia Quattrini",
+            "person_date": "brak danych",
+            "person_info": "solistka opery, córka Maurice'a Pion"
+        },
+        {
+            "person_name": "Eugenia Koss",
+            "person_date": "1830",
+            "person_info": "solistka baletu, siostra Maurice'a Pion"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Paryż",
+            "date": "1801-09-11"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1818-06-01"
+        },
+        {
+            "place": "Paryż",
+            "date": "1825"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nancy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kalisz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1826-10-19"
+        },
+        {
+            "place": "Paryż",
+            "date": "1833"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1834-02"
+        },
+        {
+            "place": "Wilno",
+            "date": "1843"
+        },
+        {
+            "place": "Mińsk Litewski",
+            "date": "1844-11"
+        },
+        {
+            "place": "Mińsk Litewski",
+            "date": "1845-06"
+        },
+        {
+            "place": "Wilno",
+            "date": "1845"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1847"
+        },
+        {
+            "place": "Mohylew",
+            "date": "1848"
+        },
+        {
+            "place": "Kijów",
+            "date": "1848"
+        },
+        {
+            "place": "Kiszyniów",
+            "date": "1849"
+        },
+        {
+            "place": "Odesa",
+            "date": "1849"
+        },
+        {
+            "place": "Żytomierz",
+            "date": "1850"
+        },
+        {
+            "place": "Charków",
+            "date": "1850"
+        },
+        {
+            "place": "Kijów",
+            "date": "1851"
+        },
+        {
+            "place": "Kijów",
+            "date": "1852"
+        },
+        {
+            "place": "Kijów",
+            "date": "1856"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "1858"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        }
+    ]
+}

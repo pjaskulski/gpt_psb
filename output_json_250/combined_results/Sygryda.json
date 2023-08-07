@@ -1,0 +1,237 @@
+{
+    "name": "Sygryda",
+    "psb_id": "PSB-46-0114",
+    "biogram_file": "Sygryda.txt",
+    "date_of_birth": {
+        "date": "między 968 a 972"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "po 1016/17"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "żona króla Szwecji Eryka (VIII) Zwycięskiego (Segersäll)",
+        "żona króla Danii Swena Widłobrodego",
+        "matka króla Szwecji Olafa Skötkonunga",
+        "matka króla Danii Haralda II",
+        "matka króla Anglii, Danii i Norwegii Kanuta Wielkiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Opactwo New Minster i Hyde",
+            "institution_place": "Winchester"
+        },
+        {
+            "institution_name": "Klub Storrady – Stow. na Rzecz Wzbogacenia i Rozwoju Życia Kulturalno-Społecznego Szczecina",
+            "institution_place": "Szczecin"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mieszko I"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Dobrawa"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Eryk (VIII) Zwycięski (Segersäll)"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Olaf Skötkonung"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Swen Widłobrody"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Bolesław Chrobry"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Harald II"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kanut Wielki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Świętosława"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Estryda"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Thietmar z Merseburga",
+            "person_date": "brak danych",
+            "person_info": "kronikarz"
+        },
+        {
+            "person_name": "Adam Bremeński",
+            "person_date": "2. poł. XI w.",
+            "person_info": "kronikarz"
+        },
+        {
+            "person_name": "Swen Estridsson",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Eryk (VIII) Zwycięski (Segersäll)",
+            "person_date": "między 980 a 985",
+            "person_info": "król Szwecji i Danii"
+        },
+        {
+            "person_name": "Swen Widłobrody",
+            "person_date": "995 lub 996",
+            "person_info": "król Danii"
+        },
+        {
+            "person_name": "Saxo Gramatyk",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Oswald Balzer",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "I. Steenstrup",
+            "person_date": "brak danych",
+            "person_info": "badacz duński"
+        },
+        {
+            "person_name": "Olaf Tryggvason",
+            "person_date": "997/8",
+            "person_info": "król norweski"
+        },
+        {
+            "person_name": "Snorri Sturlason",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Harald II",
+            "person_date": "brak danych",
+            "person_info": "król Danii i Anglii"
+        },
+        {
+            "person_name": "Kanut Wielki",
+            "person_date": "brak danych",
+            "person_info": "król Anglii, Danii i Norwegii"
+        },
+        {
+            "person_name": "Swen Estrydsen",
+            "person_date": "brak danych",
+            "person_info": "król Danii"
+        },
+        {
+            "person_name": "Selma Lagerlöf",
+            "person_date": "brak danych",
+            "person_info": "pisarka"
+        },
+        {
+            "person_name": "Carl Grimberg",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Frans G. Bengtsson",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Verner von Heidenstam",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Jöran Mjöberg",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Józef Ignacy Kraszewski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Antoni Gołubiew",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Karol Bunsch",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Jadwiga Żylińska",
+            "person_date": "brak danych",
+            "person_info": "pisarka"
+        },
+        {
+            "person_name": "Maria Rawska-Mrożkiewicz",
+            "person_date": "brak danych",
+            "person_info": "pisarka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Merseburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bremy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwecja",
+            "date": "między 980 a 985"
+        },
+        {
+            "place": "Dania",
+            "date": "995 lub 996"
+        },
+        {
+            "place": "Winchester",
+            "date": "1031"
+        },
+        {
+            "place": "Oresund",
+            "date": "1000"
+        },
+        {
+            "place": "Polska",
+            "date": "po 1002"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Norwegia",
+            "date": "brak danych"
+        }
+    ]
+}

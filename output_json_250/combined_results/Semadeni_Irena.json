@@ -1,0 +1,190 @@
+{
+    "name": "Irena Semadeni",
+    "psb_id": "PSB-36-0147",
+    "biogram_file": "Semadeni_Irena.txt",
+    "date_of_birth": {
+        "date": "1901-05-05"
+    },
+    "place_of_birth": {
+        "place": "Hołuzja",
+        "note": "na Wołyniu (pow. sarneński)"
+    },
+    "date_of_death": {
+        "date": "1984-04-08"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Ewangelicko-Reformowany przy ul. Żytniej (kwatera L, rząd 1, m 3)"
+    },
+    "functions": [
+        "stomatolog",
+        "profesor Pomorskiej Akademii Medycznej w Szczecinie",
+        "asystentka prof. Alfreda Meissnera",
+        "konsultantka stomatologiczna w Banku Polskim",
+        "lekarz wolontariusz w Klinice Położnictwa i Chorób Kobiecych Uniw. Warsz.",
+        "lekarz w Klinice Położniczej i na Oddziale Wewnętrznym Szpitala Wolskiego",
+        "adiunkt i kierownik Kliniki Chirurgii Stomatologicznej Akad. Lekarskiej",
+        "lekarz medycyny",
+        "zastępca profesora i kierownik Kliniki Chirurgii Stomatologicznej Pomorskiej Akad. Med. (PAM) w Szczecinie",
+        "kierownik Przychodni Chirurgii Stomatologicznej",
+        "konsultant wojewódzki",
+        "członek Okręgowej Komisji Kontroli Zawodowej przy Prezydium Wojewódzkiej Rady Narodowej w Szczecinie",
+        "docent",
+        "profesor nadzwyczajny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "gimnazjum dla panien wyznania rzymskokatolickiego",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "prywatne gimnazjum Haliny Gepnerówny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Politechnika Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państwowy Instytut Dentystyczny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klinika Chirurgii Stomatologicznej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Bank Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klinika Położnictwa i Chorób Kobiecych Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Klinika Położnicza Szpitala Wolskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Oddział Wewnętrzny Szpitala Wolskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zakład Ubezpieczeń Społecznych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Klinika Chirurgii Stomatologicznej Akademii Lekarskiej",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "szpital przy ul. Świerczewskiego",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Klinika Chirurgii Stomatologicznej Pomorskiej Akademii Medycznej",
+            "institution_place": "Szczecin"
+        },
+        {
+            "institution_name": "Przychodnia Chirurgii Stomatologicznej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Okręgowa Komisja Kontroli Zawodowej przy Prezydium Wojewódzkiej Rady Narodowej",
+            "institution_place": "Szczecin"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Stomatologiczne",
+            "institution_place": "Szczecin"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wojciech Konopacki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Konstancja Zaleska"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Tadeusz Semadeni"
+        },
+        {
+            "family_relation": "syn",
+            "person": "nieznane imię Semadeni"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Halina Gepnerówna",
+            "person_date": "1919",
+            "person_info": "dyrektorka prywatnego gimnazjum w Warszawie"
+        },
+        {
+            "person_name": "Alfred Meissner",
+            "person_date": "1925",
+            "person_info": "profesor, pracował z Ireną w jego prywatnym gabinecie oraz w Klinice Chirurgii Stomatologicznej"
+        },
+        {
+            "person_name": "Henryk Gromadzki",
+            "person_date": "1950",
+            "person_info": "promotor pracy doktorskiej Ireny Semadeni"
+        },
+        {
+            "person_name": "Jerzy Malinowski",
+            "person_date": "brak danych",
+            "person_info": "uczeń Ireny Semadeni, profesor"
+        },
+        {
+            "person_name": "Sylwester Kowalik",
+            "person_date": "brak danych",
+            "person_info": "uczeń Ireny Semadeni, profesor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Hołuzja",
+            "date": "1901-05-05"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1909"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1919"
+        },
+        {
+            "place": "Wołyń",
+            "date": "1939"
+        },
+        {
+            "place": "Otrębusy",
+            "date": "1944"
+        },
+        {
+            "place": "Brzuchnia",
+            "date": "1944"
+        },
+        {
+            "place": "Podkowa Leśna",
+            "date": "1944"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1945"
+        },
+        {
+            "place": "Szczecin",
+            "date": "brak danych"
+        }
+    ]
+}

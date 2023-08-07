@@ -1,0 +1,187 @@
+{
+    "name": "Iwan Gliński",
+    "psb_id": "PSB-08-0089",
+    "biogram_file": "Glinski_Iwan.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1522",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "wojewoda kijowski",
+        "wojewoda nowogrodzki",
+        "dworzanin królewski",
+        "namiestnik przełomski i ożski",
+        "chorąży ziemski",
+        "marszałek hospodarski",
+        "marszałek nadworny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "dwór królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "namiestnictwo smoleńskie",
+            "institution_place": "Smoleńsk"
+        },
+        {
+            "institution_name": "namiestnictwo przełomskie i ożskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "marszałkostwo hospodarskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "województwo kijowskie",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Rada",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm grodzieński",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "województwo nowogródzkie",
+            "institution_place": "Nowogródek"
+        },
+        {
+            "institution_name": "wielkie księstwo Moskiewskie",
+            "institution_place": "Moskwa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Lew Borysowicz"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Michał"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Wasyl"
+        },
+        {
+            "family_relation": "bratanica",
+            "person": "Helena"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Aleksander Jagiellończyk",
+            "person_date": "1492",
+            "person_info": "wielki książę litewski"
+        },
+        {
+            "person_name": "J. Hlebowicz",
+            "person_date": "1492",
+            "person_info": "namiestnik smoleński"
+        },
+        {
+            "person_name": "Dymitr Putiatycz",
+            "person_date": "1505",
+            "person_info": "knyaz"
+        },
+        {
+            "person_name": "Szach Achmat",
+            "person_date": "1501",
+            "person_info": "chan zawołżański"
+        },
+        {
+            "person_name": "Fryderyk saski",
+            "person_date": "1503",
+            "person_info": "wielki mistrz"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1506",
+            "person_info": "król"
+        },
+        {
+            "person_name": "O. Gasztołd",
+            "person_date": "1508",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wasyl",
+            "person_date": "1508",
+            "person_info": "wielki książę Moskiewski"
+        },
+        {
+            "person_name": "Mikita Guba Mokłokow",
+            "person_date": "1508",
+            "person_info": "poseł"
+        },
+        {
+            "person_name": "K. Ostrogski",
+            "person_date": "brak danych",
+            "person_info": "kniaź"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Smoleńsk",
+            "date": "1492"
+        },
+        {
+            "place": "Markowo",
+            "date": "1495"
+        },
+        {
+            "place": "Przełom",
+            "date": "1495"
+        },
+        {
+            "place": "Ożsk",
+            "date": "1495"
+        },
+        {
+            "place": "Lublin",
+            "date": "1503"
+        },
+        {
+            "place": "Kijów",
+            "date": "1505"
+        },
+        {
+            "place": "Grodno",
+            "date": "1506"
+        },
+        {
+            "place": "Mielnik",
+            "date": "1507"
+        },
+        {
+            "place": "Nowogród",
+            "date": "1507"
+        },
+        {
+            "place": "Turow",
+            "date": "1508"
+        },
+        {
+            "place": "Mozyrz",
+            "date": "1508"
+        }
+    ]
+}

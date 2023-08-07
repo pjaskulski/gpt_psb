@@ -1,0 +1,209 @@
+{
+    "name": "Herman Han",
+    "psb_id": "PSB-09-0381",
+    "biogram_file": "Han_Herman.txt",
+    "date_of_birth": {
+        "date": "1574-07-20"
+    },
+    "place_of_birth": {
+        "place": "Nysa",
+        "note": "na Śląsku"
+    },
+    "date_of_death": {
+        "date": "1627-12-20",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "Chojnice"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "malarz",
+        "obywatel gdański",
+        "właściciel posiadłości ziemskiej",
+        "malarz królewski",
+        "restaurator obrazów",
+        "mistrz w gdańskim cechu malarskim"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Ratusz w Brzegu",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "Cech malarski",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Konwent oliwski",
+            "institution_place": "Oliwa"
+        },
+        {
+            "institution_name": "Kościół w Pelplinie",
+            "institution_place": "Pelplin"
+        },
+        {
+            "institution_name": "Kościół Św. Marii Magdaleny w Pelplinie",
+            "institution_place": "Pelplin"
+        },
+        {
+            "institution_name": "Kościół Najśw. Panny Marii w Gdańsku",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Kościół Mariacki w Gdańsku",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Katedra w Pelplinie",
+            "institution_place": "Pelplin"
+        },
+        {
+            "institution_name": "Katedra w Oliwie",
+            "institution_place": "Oliwa"
+        },
+        {
+            "institution_name": "Kościół w Prągowie",
+            "institution_place": "Prągowo"
+        },
+        {
+            "institution_name": "Cech malarski w Gdańsku",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Opactwo pelplińskie",
+            "institution_place": "Pelplin"
+        },
+        {
+            "institution_name": "Konwent Norbertanek w Żukowie",
+            "institution_place": "Żukowo"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Herman"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elza"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Barbara Sparrgutt"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Gerard"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zygmunt III",
+            "person_date": "brak danych",
+            "person_info": "król, który obdarzył głównego bohatera tytułem malarza królewskiego"
+        },
+        {
+            "person_name": "Leonard Rembowski",
+            "person_date": "1623",
+            "person_info": "opat pelpliński, z którym główny bohater zawarł umowę na wykonanie obrazu"
+        },
+        {
+            "person_name": "Władysław",
+            "person_date": "1623",
+            "person_info": "królewicz"
+        },
+        {
+            "person_name": "Ernest Wejher",
+            "person_date": "brak danych",
+            "person_info": "osoba, której portret prawdopodobnie namalował główny bohater"
+        },
+        {
+            "person_name": "Dawid Konarski",
+            "person_date": "1616",
+            "person_info": "opat oliwski, którego portret epitafijny prawdopodobnie namalował główny bohater"
+        },
+        {
+            "person_name": "Rajnold Heidenstein",
+            "person_date": "1620",
+            "person_info": "sekretarz królewski, kronikarz, którego portret epitafijny prawdopodobnie namalował główny bohater"
+        },
+        {
+            "person_name": "Boguszewski",
+            "person_date": "brak danych",
+            "person_info": "artysta, na którego twórczość wpłynął główny bohater"
+        },
+        {
+            "person_name": "Strobel",
+            "person_date": "brak danych",
+            "person_info": "artysta, na którego twórczość wpłynął główny bohater"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Nysa",
+            "date": "1574-07-20"
+        },
+        {
+            "place": "Brzeg",
+            "date": "1572, 1582"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1597, 1612, 1614"
+        },
+        {
+            "place": "Strzyża Górna",
+            "date": "1622"
+        },
+        {
+            "place": "Chojnice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oliwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pelplin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czersk",
+            "date": "1610"
+        },
+        {
+            "place": "Braniewo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Klackenberg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Trebnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jar",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bobrowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brodnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Prągowo",
+            "date": "brak danych"
+        }
+    ]
+}

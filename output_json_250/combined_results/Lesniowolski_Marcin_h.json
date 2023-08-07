@@ -1,0 +1,470 @@
+{
+    "name": "Marcin Leśniowolski",
+    "psb_id": "PSB-17-0158",
+    "biogram_file": "Lesniowolski_Marcin_h.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1593-01-16",
+        "note": "lub 17 I 1593"
+    },
+    "place_of_death": {
+        "place": "Piotrków"
+    },
+    "date_of_burial": {
+        "date": "1593-03-09"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "kościół Mariacki, kaplica św. Michała"
+    },
+    "functions": [
+        "kaszelan podlaski",
+        "kasztelan podlaski",
+        "senator",
+        "marszałek w. kor.",
+        "sekretarz w. kor.",
+        "kanclerz",
+        "mediator",
+        "doradca króla",
+        "prefekt Bractwa Miłosierdzia Św. Łukasza w Warszawie",
+        "starosta łosicki",
+        "starosta zatorski",
+        "marszałek na trybunale",
+        "starosta drohicki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet w Bolonii",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Dwór Mikołaja Maciejowskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór francuski",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Sejm warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sejm konwokacyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm elekcyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm koronacyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm pacyfikacyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada senatorów",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Zjazd senatorów",
+            "institution_place": "Brześć Litewski"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada wojenna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Bractwo Miłosierdzia Św. Łukasza",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Trybunał",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Kościół Mariacki",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Starostwo łosickie",
+            "institution_place": "Łosice"
+        },
+        {
+            "institution_name": "Starostwo zatorskie",
+            "institution_place": "Zator"
+        },
+        {
+            "institution_name": "Starostwo oświęcimskie",
+            "institution_place": "Oświęcim"
+        },
+        {
+            "institution_name": "Starostwo drohickie",
+            "institution_place": "Drohiczyn"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jakub Leśniowolski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Dorota Skulska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Leśniowolski"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Oborska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Paweł Leśniowolski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Marcin Leśniowolski"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna Gostomska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Sokołowski",
+            "person_date": "brak danych",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Marcin Fox",
+            "person_date": "brak danych",
+            "person_info": "preceptor"
+        },
+        {
+            "person_name": "Mikołaj Firlej",
+            "person_date": "brak danych",
+            "person_info": "przyszły wojewoda krakowski"
+        },
+        {
+            "person_name": "Mikołaj Maciejowski",
+            "person_date": "brak danych",
+            "person_info": "wojewoda lubelski"
+        },
+        {
+            "person_name": "Piotr Zborowski",
+            "person_date": "1573",
+            "person_info": "wojewoda sandomierski"
+        },
+        {
+            "person_name": "Henryk Walezy",
+            "person_date": "1573",
+            "person_info": "kandydat na tron polski"
+        },
+        {
+            "person_name": "Jan Monluc",
+            "person_date": "1573",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek de La Noue",
+            "person_date": "1573",
+            "person_info": "gubernator Roszelli"
+        },
+        {
+            "person_name": "Karol IX",
+            "person_date": "1573",
+            "person_info": "król Francji"
+        },
+        {
+            "person_name": "Maksymilian",
+            "person_date": "brak danych",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Jan Zamoyski",
+            "person_date": "1577",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Krzysztof Zborowski",
+            "person_date": "1585",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "brak danych",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Stanisław Karnkowski",
+            "person_date": "1587",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Wojciech Baranowski",
+            "person_date": "brak danych",
+            "person_info": "biskup przemyski"
+        },
+        {
+            "person_name": "Anna Jagiellonka",
+            "person_date": "1587",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan III",
+            "person_date": "1587",
+            "person_info": "król Szwecji"
+        },
+        {
+            "person_name": "Zygmunt",
+            "person_date": "1587",
+            "person_info": "królewicz szwedzki"
+        },
+        {
+            "person_name": "Fiedor",
+            "person_date": "1587",
+            "person_info": "car"
+        },
+        {
+            "person_name": "Joachim Bielski",
+            "person_date": "1588",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Opaliński",
+            "person_date": "1588",
+            "person_info": "marszałek wielki koronny"
+        },
+        {
+            "person_name": "Wawrzyniec Goślicki",
+            "person_date": "1588",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Piotr Tylicki",
+            "person_date": "1588",
+            "person_info": "sekretarz wielki koronny"
+        },
+        {
+            "person_name": "Aldobrandini",
+            "person_date": "1588",
+            "person_info": "kardynał, legat papieski"
+        },
+        {
+            "person_name": "K. Warszewicki",
+            "person_date": "1588",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Reszka",
+            "person_date": "1588",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Anna ks. holszańska",
+            "person_date": "1589",
+            "person_info": "protestantka"
+        },
+        {
+            "person_name": "Firlej",
+            "person_date": "brak danych",
+            "person_info": "wojewoda krakowski"
+        },
+        {
+            "person_name": "Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt III",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Ernest",
+            "person_date": "1591",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Reszka",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "B. Paprocki",
+            "person_date": "brak danych",
+            "person_info": "przeciwnik z obozu maksymilianistów"
+        },
+        {
+            "person_name": "Barwiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Lepszy",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Skarga",
+            "person_date": "1592",
+            "person_info": "założyciel Bractwa Miłosierdzia Św. Łukasza w Warszawie"
+        },
+        {
+            "person_name": "J. Wielewicki",
+            "person_date": "brak danych",
+            "person_info": "kronikarz"
+        },
+        {
+            "person_name": "S. Górka",
+            "person_date": "1589",
+            "person_info": "wojewoda poznański"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1562"
+        },
+        {
+            "place": "Bolonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "1566"
+        },
+        {
+            "place": "Neapol",
+            "date": "1566"
+        },
+        {
+            "place": "Padwa",
+            "date": "1567"
+        },
+        {
+            "place": "Francja",
+            "date": "1573"
+        },
+        {
+            "place": "Roszella",
+            "date": "1573"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwecja",
+            "date": "1583"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1582"
+        },
+        {
+            "place": "Kraków",
+            "date": "1582"
+        },
+        {
+            "place": "Kalmar",
+            "date": "1587"
+        },
+        {
+            "place": "Kraków",
+            "date": "1588"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1588"
+        },
+        {
+            "place": "Zamość",
+            "date": "1589"
+        },
+        {
+            "place": "Kraków",
+            "date": "1589"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1589"
+        },
+        {
+            "place": "Wilno",
+            "date": "1589"
+        },
+        {
+            "place": "Rewel",
+            "date": "1589"
+        },
+        {
+            "place": "Inflanty",
+            "date": "1589"
+        },
+        {
+            "place": "Jędrzejów",
+            "date": "1590"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1590"
+        },
+        {
+            "place": "Zamość",
+            "date": "1590"
+        },
+        {
+            "place": "Kraków",
+            "date": "1590"
+        },
+        {
+            "place": "Łosice",
+            "date": "1557"
+        },
+        {
+            "place": "Mazowsze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Obory",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1589"
+        },
+        {
+            "place": "Szczebrzeszyn",
+            "date": "1589"
+        }
+    ]
+}

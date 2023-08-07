@@ -1,0 +1,218 @@
+{
+    "name": "Irena Barbara Stawowy-Wojnarowska",
+    "psb_id": "PSB-43-0012",
+    "biogram_file": "Stawowy-Wojnarowska_Irena_Barbara.txt",
+    "date_of_birth": {
+        "date": "1926-03-26"
+    },
+    "place_of_birth": {
+        "place": "Wołożyn",
+        "note": "na Nowogródczyźnie"
+    },
+    "date_of_death": {
+        "date": "1993-11-27"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa"
+    },
+    "functions": [
+        "surdopedagog",
+        "nauczycielka w Szkole Podstawowej Specjalnej dla Dzieci Głuchych nr 45 im. Jana Siestrzyńskiego",
+        "studentka w Państw. Inst. Pedagogiki Specjalnej w Warszawie",
+        "pracownica w Państw. Zakładzie Wychowawczym dla Dzieci Głuchych w Krakowie",
+        "kierownik internatu w Państw. Zakładzie Wychowawczym dla Dzieci Głuchych w Gołotczyźnie koło Ciechanowa",
+        "organizatorka i kierowniczka pierwszego w Polsce przedszkola z internatem dla dzieci głuchych w Michalinie koło Warszawy",
+        "adiunkt w Państw. Inst. Pedagogiki Specjalnej w Warszawie",
+        "starsza wizytatorka w Kuratorium Okręgu Szkolnego Warszawskiego",
+        "kierowniczka ośrodka w Michalinie",
+        "instruktorka Okręgowego Ośrodka Metodycznego w Warszawie",
+        "wykładowczyni w Państw. Inst. Pedagogiki Specjalnej w Warszawie",
+        "adiunkt, a potem kierownik Zakł. Szkolnictwa Specjalnego w Inst. Programów Szkolnych w Warszawie przy Min. Oświaty i Wychowania",
+        "członek Zespołu Naukowo-Dydaktycznego Nauk Pedagogicznych przy Min. Oświaty i Wychowania",
+        "główny specjalista badawczo-techniczny ds. dydaktycznych w Zakł. Szkolnictwa Specjalnego Ośrodka Badawczo-Rozwojowego Pomocy Naukowych i Sprzętu Szkolnego Min. Edukacji Narodowej w Warszawie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Liceum Pedagogiczne",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szkoła Podstawowa Specjalna dla Dzieci Głuchych nr 45 im. Jana Siestrzyńskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Państwowy Instytut Pedagogiki Specjalnej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państwowy Zakład Wychowawczy dla Dzieci Głuchych",
+            "institution_place": "Lubliniec"
+        },
+        {
+            "institution_name": "Państwowy Zakład Wychowawczy dla Dzieci Głuchych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Państwowy Zakład Wychowawczy dla Dzieci Głuchych",
+            "institution_place": "Gołotczyzna"
+        },
+        {
+            "institution_name": "Katedra Pedagogiki Specjalnej Wydziału Pedagogicznego Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państwowy Zakład Wychowawczy dla Dzieci Głuchych",
+            "institution_place": "Michalin"
+        },
+        {
+            "institution_name": "Kuratorium Okręgu Szkolnego Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Okręgowy Ośrodek Metodyczny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Pedagogiki Specjalnej im. Marii Grzegorzewskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zakład Szkolnictwa Specjalnego w Instytucie Programów Szkolnych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Ministerstwo Oświaty i Wychowania",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Ministerstwo Edukacji Narodowej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zespół Naukowo-Dydaktyczny Nauk Pedagogicznych przy Ministerstwie Oświaty i Wychowania",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wydział Humanistyczny Uniwersytetu Marii Curie-Skłodowskiej",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Instytut Badań Edukacyjnych Ministerstwa Edukacji Narodowej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zakład Szkolnictwa Specjalnego Ośrodka Badawczo-Rozwojowego Pomocy Naukowych i Sprzętu Szkolnego Ministerstwa Edukacji Narodowej",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Baltazar Stawowy"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Amalia Nowotna"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Janina Pasteruk"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Zygmunt Wojnarowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Janina Doroszewska",
+            "person_date": "1967",
+            "person_info": "promotorka doktoratu"
+        },
+        {
+            "person_name": "Bogdan Hoffman",
+            "person_date": "1967",
+            "person_info": "współautor sprawozdania"
+        },
+        {
+            "person_name": "Hanna Siedlanowska-Brzosko",
+            "person_date": "1975",
+            "person_info": "współautorka pracy"
+        },
+        {
+            "person_name": "Jan Baran",
+            "person_date": "1983",
+            "person_info": "współautor opracowania"
+        },
+        {
+            "person_name": "L. Ritzke",
+            "person_date": "1983",
+            "person_info": "współautor opracowania"
+        },
+        {
+            "person_name": "Tadeusz Gałkowski",
+            "person_date": "1990",
+            "person_info": "współautor materiałów metodycznych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wołożyn",
+            "date": "1926-03-26"
+        },
+        {
+            "place": "Wołowice",
+            "date": "1960-1970"
+        },
+        {
+            "place": "Lubień",
+            "date": "1939-1945"
+        },
+        {
+            "place": "Kraków",
+            "date": "1945"
+        },
+        {
+            "place": "Kraków",
+            "date": "1948"
+        },
+        {
+            "place": "Lubliniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gołotczyzna",
+            "date": "1954"
+        },
+        {
+            "place": "Michalin",
+            "date": "1957-1960"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1960"
+        },
+        {
+            "place": "Michalin",
+            "date": "1961-1971"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        }
+    ]
+}

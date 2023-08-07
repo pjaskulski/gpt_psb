@@ -1,0 +1,165 @@
+{
+    "name": "Jakub z Zalesia",
+    "psb_id": "PSB-10-0448",
+    "biogram_file": "Jakub_z_Zalesia.txt",
+    "date_of_birth": {
+        "date": "około 1440",
+        "note": "prawdopodobnie na krótko przed"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1495 lub 1496"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "profesor astronomii",
+        "profesor astrologii",
+        "doktor medycyny",
+        "nadworny lekarz Kazimierza Jagiellończyka",
+        "nadworny lekarz dwóch synów Kazimierza Jagiellończyka",
+        "wykładowca astronomii na Uniwersytecie Bolońskim",
+        "lekarz przyboczny biskupa Jana Rzeszowskiego",
+        "nadworny lekarz króla Władysława Jagiellończyka",
+        "nadworny lekarz króla Kazimierza Jagiellończyka",
+        "proboszcz kolegiaty wiślickiej",
+        "kanonik krakowski",
+        "kanonik gnieźnieński",
+        "kanonik włocławski",
+        "prepozyt kolegiaty tarnowskiej",
+        "kanonik płocki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Jagielloński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniw. Boloński",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Dwór króla Kazimierza Jagiellończyka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegiata Wiślicka",
+            "institution_place": "Wiślica"
+        },
+        {
+            "institution_name": "Kapituła Katedralna w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kapituła Metropolitalna w Gnieźnie",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Kapituła Katedralna we Włocławku",
+            "institution_place": "Włocławek"
+        },
+        {
+            "institution_name": "Kolegiata Tarnowska",
+            "institution_place": "Tarnów"
+        },
+        {
+            "institution_name": "Kapituła Katedralna w Płocku",
+            "institution_place": "Płock"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Gawel"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Paweł z Zalesia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Marcin Król z Żurawicy",
+            "person_date": "1454",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Piotr Gaszowiec",
+            "person_date": "1465",
+            "person_info": "rektor"
+        },
+        {
+            "person_name": "Szymon ze Śremu",
+            "person_date": "1465",
+            "person_info": "profesor astrologii"
+        },
+        {
+            "person_name": "Bartłomiej Berp z Walencji",
+            "person_date": "1471",
+            "person_info": "oponent w dyspucie"
+        },
+        {
+            "person_name": "Jan Rzeszowski",
+            "person_date": "1472",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Władysław Jagiellończyk",
+            "person_date": "1473",
+            "person_info": "król czeski"
+        },
+        {
+            "person_name": "Fryderyk Jagiellończyk",
+            "person_date": "1493",
+            "person_info": "kardynał"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zalesie",
+            "date": "prawdopodobnie przed 1440"
+        },
+        {
+            "place": "Kraków",
+            "date": "1454"
+        },
+        {
+            "place": "Bolonia",
+            "date": "1465-1471"
+        },
+        {
+            "place": "Kraków",
+            "date": "1472"
+        },
+        {
+            "place": "Praga",
+            "date": "1473"
+        },
+        {
+            "place": "Grodno",
+            "date": "1492"
+        },
+        {
+            "place": "Wiślica",
+            "date": "1490-1494"
+        },
+        {
+            "place": "Kraków",
+            "date": "1485-1487"
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "name": "Irena Rejment-Grochowska",
+    "psb_id": "PSB-31-0043",
+    "biogram_file": "Rejment-Grochowska_Irena.txt",
+    "date_of_birth": {
+        "date": "1911-02-22"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1979-05-06"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "botanik-briolog",
+        "profesor Uniw. Warsz.",
+        "słuchaczka Studium Pedagogicznego na Uniw. Warsz.",
+        "praktykantka pedagogiczna w prywatnym Gimnazjum i Liceum Żeńskim J. Popielewskiej i J. Roszkowskiej",
+        "referent do spraw botanicznych w Biurze Planowania Krajowego przy gabinecie wicepremiera Eugeniusza Kwiatkowskiego",
+        "stypendystka Funduszu Kultury Narodowej na Uniw. Warsz.",
+        "pracownica Stacji Ochrony Roślin w Warszawie",
+        "pracownica Ogrodu Botanicznego Uniw. Warsz.",
+        "pracownica firmy ogrodniczej Janusza Hosera",
+        "członek Armii Krajowej",
+        "nauczycielka biologii i chemii w tajnym Gimnazjum i Liceum J. Popielewskiej i J. Roszkowskiej",
+        "nauczycielka w tajnych kompletach licealnych przy szkole podstawowej w Pławnie koło Radomska",
+        "referent do spraw fizjografii w wydziale urbanistyki Biura Odbudowy Stolicy",
+        "pracownica Regionalnej Dyrekcji Planowania Przestrzennego w Warszawie",
+        "starszy asystent w Zakładzie Botaniki Szkoły Głównej Gospodarstwa Wiejskiego (SGGW)",
+        "starszy asystent w Zakładzie Systematyki i Geografii Roślin na Uniw. Warsz.",
+        "adiunkt w Zakładzie Systematyki i Geografii Roślin na Uniw. Warsz.",
+        "wykładowca geografii roślin w Państwowej Wyższej Szkole Pedagogicznej w Warszawie",
+        "docent",
+        "profesor nadzwyczajny i kierownik naukowy Zespołu Badawczego Briologii i Pteridologii Instytutu Botaniki Uniw. Warsz.",
+        "przewodnicząca Rady Naukowej Instytutu Botaniki",
+        "profesor zwyczajny",
+        "dyrektor Instytutu Botaniki",
+        "dziekan Wydziału Biologii",
+        "członek Komitetu Redakcyjnego serii „Flora Polska–Rośliny Zarodnikowe Polski i Ziem Ościennych”",
+        "członek Komitetu Botaniki PAN",
+        "członek Rady Naukowej Ogrodu Botanicznego",
+        "przewodnicząca Zarządu Oddziału Warszawskiego Pol. Tow. Botanicznego (PTB)",
+        "pierwsza przewodnicząca Sekcji Briologicznej PTB"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Państwowe Gimnazjum im. Królowej Jadwigi",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Gimnazjum i Liceum Żeńskie J. Popielewskiej i J. Roszkowskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biuro Planowania Krajowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stacja Ochrony Roślin",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Ogród Botaniczny Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Firma ogrodnicza Janusza Hosera",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkoła podstawowa w Pławnie",
+            "institution_place": "Pławnie"
+        },
+        {
+            "institution_name": "Biuro Odbudowy Stolicy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Regionalna Dyrekcja Planowania Przestrzennego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szkoła Główna Gospodarstwa Wiejskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państwowa Wyższa Szkoła Pedagogiczna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Instytut Botaniki Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Instytut Języka Polskiego PAN",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zakład Fizjologii Roślin Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Henryk Rejment"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Czesława Maliszewska"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jerzy Grochowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Maciej Grochowski"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Agnieszka Mostowska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bolesław Hryniewiecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Wiśniewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Eugeniusz Kwiatkowski",
+            "person_date": "1938-1939",
+            "person_info": "wicepremier"
+        },
+        {
+            "person_name": "Janusz Hoser",
+            "person_date": "1942-1944",
+            "person_info": "właściciel firmy ogrodniczej"
+        },
+        {
+            "person_name": "Jerzy Grochowski",
+            "person_date": "1947",
+            "person_info": "leśnik, profesor dendrometrii SGGW, członek rzeczywisty PAN"
+        },
+        {
+            "person_name": "Jadwiga Mickiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dygna Sobotka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marian Kuc",
+            "person_date": "1958",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zbigniew Podbielkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Alina Skirgiełło",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jacek Jan Łobarzewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Roman Kobendza",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maciej Grochowski",
+            "person_date": "brak danych",
+            "person_info": "językoznawca, specjalista w zakresie semantyki, pracownik Instytutu Języka Polskiego PAN"
+        },
+        {
+            "person_name": "Agnieszka Mostowska",
+            "person_date": "brak danych",
+            "person_info": "biolog, pracownik Zakładu Fizjologii Roślin Uniw. Warsz."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1911-02-22"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1920-1930"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1930-1936"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1936"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1940-1942"
+        },
+        {
+            "place": "Pławnie",
+            "date": "1944"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1945-1946"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1948"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1979-05-06"
+        }
+    ]
+}

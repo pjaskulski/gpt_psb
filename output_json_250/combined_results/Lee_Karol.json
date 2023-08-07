@@ -1,0 +1,212 @@
+{
+    "name": "Karol Lee",
+    "psb_id": "PSB-16-0637",
+    "biogram_file": "Lee_Karol.txt",
+    "date_of_birth": {
+        "date": "1731",
+        "note": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Dernhall",
+        "note": "Cheshire, Anglia"
+    },
+    "date_of_death": {
+        "date": "1782-10-02",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Filadelfia",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "adiutant Stanisława Augusta",
+        "generał rewolucji amerykańskiej",
+        "podpułkownik wojska brytyjskiego",
+        "członek poselstwa T. Aleksandrowicza do Stambułu",
+        "agent królewski",
+        "generał-major w armii Stanisława Augusta",
+        "generał-major w armii kontynentalnej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wojsko brytyjskie",
+            "institution_place": "Anglia"
+        },
+        {
+            "institution_name": "Pułk brytyjski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Armia Stanisława Augusta",
+            "institution_place": "Polska"
+        },
+        {
+            "institution_name": "Poselstwo T. Aleksandrowicza do Stambułu",
+            "institution_place": "Stambuł"
+        },
+        {
+            "institution_name": "Ambasada angielska",
+            "institution_place": "Polska"
+        },
+        {
+            "institution_name": "Armia rosyjska",
+            "institution_place": "Rosja"
+        },
+        {
+            "institution_name": "Armia kontynentalna",
+            "institution_place": "Ameryka"
+        },
+        {
+            "institution_name": "Armia w Valley Forge",
+            "institution_place": "Ameryka"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Stanisław August",
+            "person_date": "1765",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "T. Aleksandrowicz",
+            "person_date": "brak danych",
+            "person_info": "posłaniec do Stambułu"
+        },
+        {
+            "person_name": "Z. B. Everhardt",
+            "person_date": "brak danych",
+            "person_info": "sekretarz poselstwa"
+        },
+        {
+            "person_name": "John Lind",
+            "person_date": "brak danych",
+            "person_info": "sekretarz ambasady angielskiej"
+        },
+        {
+            "person_name": "Jerzy III",
+            "person_date": "1766",
+            "person_info": "król Anglii"
+        },
+        {
+            "person_name": "Adam Czartoryski",
+            "person_date": "1768",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "J. Ogrodzki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "William Howe",
+            "person_date": "1776",
+            "person_info": "angielski głównodowodzący"
+        },
+        {
+            "person_name": "Tadeusz Kościuszko",
+            "person_date": "brak danych",
+            "person_info": "żołnierz, bohater narodowy"
+        },
+        {
+            "person_name": "John Laurens",
+            "person_date": "brak danych",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Kazimierz Pułaski",
+            "person_date": "brak danych",
+            "person_info": "żołnierz, bohater narodowy"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dernhall",
+            "date": "1731"
+        },
+        {
+            "place": "Ameryka",
+            "date": "1755-1761"
+        },
+        {
+            "place": "Portugalia",
+            "date": "1762/3"
+        },
+        {
+            "place": "Illinois",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polska",
+            "date": "1765"
+        },
+        {
+            "place": "Stambuł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Anglia",
+            "date": "1766"
+        },
+        {
+            "place": "Floryda",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rosja",
+            "date": "1768"
+        },
+        {
+            "place": "Paryż",
+            "date": "1768"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chocim",
+            "date": "1769"
+        },
+        {
+            "place": "Węgry",
+            "date": "1769"
+        },
+        {
+            "place": "Boston",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "brak danych"
+        },
+        {
+            "place": "New Jersey",
+            "date": "1776"
+        },
+        {
+            "place": "New York",
+            "date": "1776"
+        },
+        {
+            "place": "Valley Forge",
+            "date": "1778"
+        },
+        {
+            "place": "Filadelfia",
+            "date": "1782"
+        }
+    ]
+}

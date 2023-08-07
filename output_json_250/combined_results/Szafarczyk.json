@@ -1,0 +1,198 @@
+{
+    "name": "Emanuel Szafarczyk",
+    "psb_id": "PSB-46-0221",
+    "biogram_file": "Szafarczyk.txt",
+    "date_of_birth": {
+        "date": "1840"
+    },
+    "place_of_birth": {
+        "place": "Racibórz"
+    },
+    "date_of_death": {
+        "date": "1865-02-17"
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "note": "Cytadela Warszawska"
+    },
+    "date_of_burial": {
+        "date": "1865-02-17"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "Cytadela Warszawska"
+    },
+    "functions": [
+        "członek warszawskiej policji narodowej w powstaniu styczniowym",
+        "dowódca żandarmów – sztyletników",
+        "korepetytor",
+        "członek Ligi lesznowskiej",
+        "członek tajnego komitetu dla werbowania poborców i zbierania funduszów na prowadzenie walki powstańczej",
+        "komisarz VIII komisariatu policji",
+        "inspektor policji w V okręgu warszawskim",
+        "dowódca (naczelnik) 32-osobowego oddziału warszawskich żandarmów – sztyletników"
+    ],
+    "institutions": [
+        {
+            "institution_name": "warszawska policja narodowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komitet Miejski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Centralny Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Straż Przyboczna Wykonawcza",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "V Oddział Żandarmerii",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Droga Żelazna Warszawsko-Wiedeńska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rząd Narodowy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Policji Rządu Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Pałac Namiestnikowski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Cytadela",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "matka",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "ojczym",
+            "person": "Wilhelm Eschrich"
+        },
+        {
+            "family_relation": "narzeczona",
+            "person": "Rozalia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Wilhelm Eschrich",
+            "person_date": "brak danych",
+            "person_info": "stolarz, pracujący w warsztatach Drogi Żelaznej Warszawsko-Wiedeńskiej"
+        },
+        {
+            "person_name": "Tomasz Kozubski",
+            "person_date": "1860",
+            "person_info": "kolega szkolny"
+        },
+        {
+            "person_name": "Aleksander Kotkowski",
+            "person_date": "1862",
+            "person_info": "członek tajnego komitetu"
+        },
+        {
+            "person_name": "Feliks Kowalski",
+            "person_date": "1862",
+            "person_info": "naczelnik warszawskiej policji narodowej"
+        },
+        {
+            "person_name": "Jan Karłowicz",
+            "person_date": "1863",
+            "person_info": "naczelnik warszawskiej policji narodowej (Straży Przybocznej Wykonawczej)"
+        },
+        {
+            "person_name": "Aleksander Baranowski",
+            "person_date": "1863",
+            "person_info": "naczelnik wydziału w biurze oberpolicmajstra w Warszawie"
+        },
+        {
+            "person_name": "Berthold Hermani",
+            "person_date": "1863",
+            "person_info": "szpieg"
+        },
+        {
+            "person_name": "Rafałowicz",
+            "person_date": "1863",
+            "person_info": "oficer powstańczy podejrzany o szpiegostwo"
+        },
+        {
+            "person_name": "major von Rotkirch",
+            "person_date": "1863",
+            "person_info": "major rosyjski"
+        },
+        {
+            "person_name": "Dąbrowski",
+            "person_date": "1863",
+            "person_info": "urzędnik rosyjski"
+        },
+        {
+            "person_name": "Żukowski",
+            "person_date": "1863",
+            "person_info": "urzędnik rosyjski"
+        },
+        {
+            "person_name": "Zygmunt Wielopolski",
+            "person_date": "1863",
+            "person_info": "prezydent Warszawy"
+        },
+        {
+            "person_name": "gen.-policmajstr Fiodor Trepow",
+            "person_date": "1863",
+            "person_info": "gen.-policmajstr Król. Pol."
+        },
+        {
+            "person_name": "F. Berg",
+            "person_date": "1864",
+            "person_info": "namiestnik"
+        },
+        {
+            "person_name": "Emil Lauber",
+            "person_date": "1864",
+            "person_info": "sekretarz naczelnika Wydz. Policji Rządu Narodowego"
+        },
+        {
+            "person_name": "Adolf Pieńkowski",
+            "person_date": "1864",
+            "person_info": "naczelnik Wydz. Policji Rządu Narodowego"
+        },
+        {
+            "person_name": "Feliks Wiśniewski",
+            "person_date": "1864",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Rozalia",
+            "person_date": "1864",
+            "person_info": "narzeczona"
+        },
+        {
+            "person_name": "Aleksander Waszkowski",
+            "person_date": "1865",
+            "person_info": "naczelnik m. Warszawy"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Racibórz",
+            "date": "1840"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "name": "Jan Zygmunt Robel",
+    "psb_id": "PSB-31-0230",
+    "biogram_file": "Robel_Jan_Zygmunt.txt",
+    "date_of_birth": {
+        "date": "1886-08-28"
+    },
+    "place_of_birth": {
+        "place": "Kraków"
+    },
+    "date_of_death": {
+        "date": "1962-05-24"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Rakowicki"
+    },
+    "functions": [
+        "biochemik",
+        "toksykolog sądowy",
+        "wykładowca na UJ",
+        "kierownik Instytutu Ekspertyz Sądowych w Krakowie",
+        "pracownik Zakładu Chemii Lekarskiej UJ",
+        "wykładowca chemii organicznej i nieorganiczną na UJ",
+        "adiunkt",
+        "biegły sądowy",
+        "przewodniczący Związku Stowarzyszeń Asystentów Szkół Wyższych",
+        "współzałożyciel Polskiego Tow. Chemicznego",
+        "działacz Stowarzyszenia Przeciwalkoholowego «Błękitny Krzyż»",
+        "kierownik Oddziału Chemicznego Instytutu Medycyny Sądowej i Kryminalistyki",
+        "wykładowca tajnego Wydziału Lekarskiego UJ",
+        "oficer Armii Krajowej",
+        "kierownik Instytutu Ekspertyz Sądowych",
+        "kierownik Zakładu Chemii Lekarskiej",
+        "członek Zespołu Redakcyjnego „Biuletynu Konserwatorskiego”",
+        "członek Kapituły Orderu Białego Kruka",
+        "członek Państwowej Rady Ochrony Przyrody",
+        "członek Związku Kynologicznego",
+        "sędzia kynologiczny",
+        "członek Głównej Komisji Badania Zbrodni Hitlerowskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "III Gimnazjum im. Sobieskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Filozoficzny UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zakład Chemii Lekarskiej UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Instytut Ekspertyz Sądowych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Oddział Chemiczny Instytutu Medycyny Sądowej i Kryminalistyki",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zakład Chemii Lekarskiej",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Akademia Medyczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Asystentów UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Związek Stowarzyszeń Asystentów Szkół Wyższych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralna Komisja Porozumiewawczej Związków Zawodowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Chemiczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Przeciwalkoholowe «Błękitny Krzyż»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "obóz koncentracyjny w Oranienburgu-Sachsenhausen",
+            "institution_place": "Oranienburg-Sachsenhausen"
+        },
+        {
+            "institution_name": "tajny uniwersytet",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Lekarski UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Rolniczy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Armia Krajowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Grupa Oświęcim",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zespół Redakcyjny „Biuletynu Konserwatorskiego”",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kapituła Orderu Białego Kruka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Państwowa Rada Ochrony Przyrody",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Kynologiczny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Główna Komisja Badania Zbrodni Hitlerowskich",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bronisław Robel"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Franciszka Serafińska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Maria Stanisława Telesznicka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Tadeusz Robel"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Maria Robel"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jadwiga"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Leon Marchlewski",
+            "person_date": "brak danych",
+            "person_info": "kierownik Zakładu Chemii Lekarskiej UJ, bliski współpracownik"
+        },
+        {
+            "person_name": "Jan Olbrycht",
+            "person_date": "1940",
+            "person_info": "osoba, która zaproponowała Robelowi objęcie funkcji kierownika Oddziału Chemicznego Instytutu Medycyny Sądowej i Kryminalistyki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1886-08-28"
+        },
+        {
+            "place": "Kraków",
+            "date": "1904"
+        },
+        {
+            "place": "Kraków",
+            "date": "1909"
+        },
+        {
+            "place": "Kraków",
+            "date": "1917-1918"
+        },
+        {
+            "place": "Oranienburg-Sachsenhausen",
+            "date": "1939-11-06"
+        },
+        {
+            "place": "Kraków",
+            "date": "1940"
+        },
+        {
+            "place": "Kraków",
+            "date": "1941-1942"
+        },
+        {
+            "place": "Kraków",
+            "date": "1945-01-22"
+        }
+    ]
+}

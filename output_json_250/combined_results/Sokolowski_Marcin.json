@@ -1,0 +1,133 @@
+{
+    "name": "Marcin Sokołowski",
+    "psb_id": "PSB-40-0090",
+    "biogram_file": "Sokolowski_Marcin.txt",
+    "date_of_birth": {
+        "date": "1670",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Litwa",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1736"
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "złotnik",
+        "starszy cechu",
+        "taksator srebra i złota",
+        "wykonawca epitafium arcybpa gnieźnieńskiego Stanisława Szembeka",
+        "wykonawca epitafium arcybpa Michała Radziejowskiego",
+        "fundator i wykonawca aplikacji na obraz św. Michała Archanioła w kościele św. Krzyża",
+        "fundator i wykonawca krzyża ozdobionego srebrnymi plakietami w kościele św. Krzyża"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Księga prawa miejskiego Starej Warszawy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Starej Warszawy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kapituła gnieźnieńska",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Kościół św. Krzyża",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Marianna Prymkiewiczówna"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Hiacynt (Jacek) Prymkiewicz"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Krystyna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Aleksander Czamer",
+            "person_date": "21 VII 1690",
+            "person_info": "burmistrz i kupiec"
+        },
+        {
+            "person_name": "Hiacynt (Jacek) Prymkiewicz",
+            "person_date": "brak danych",
+            "person_info": "złotnik warszawski"
+        },
+        {
+            "person_name": "Kazimierz Stobiński",
+            "person_date": "5 III 1698",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Minasowicz",
+            "person_date": "brak danych",
+            "person_info": "doktor"
+        },
+        {
+            "person_name": "Gaspar Chorkiewicz",
+            "person_date": "1705",
+            "person_info": "złotnik"
+        },
+        {
+            "person_name": "Stanisław Szembek",
+            "person_date": "1721",
+            "person_info": "arcybiskup gnieźnieński"
+        },
+        {
+            "person_name": "Michał Radziejowski",
+            "person_date": "1722",
+            "person_info": "arcybiskup"
+        },
+        {
+            "person_name": "Leonard Lepszy",
+            "person_date": "1725",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Litwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rosienie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1690"
+        },
+        {
+            "place": "Stara Warszawa",
+            "date": "1690-07-21"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1721"
+        }
+    ]
+}

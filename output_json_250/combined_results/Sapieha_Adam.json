@@ -1,0 +1,566 @@
+{
+    "name": "Adam Sapieha",
+    "psb_id": "PSB-34-0330",
+    "biogram_file": "Sapieha_Adam.txt",
+    "date_of_birth": {
+        "date": "1828-12-04"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1903-07-21"
+    },
+    "place_of_death": {
+        "place": "Reichenhall",
+        "note": "Bawaria"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Krasiczyn",
+        "note": "grobowiec rodzinny w kaplicy zamkowej"
+    },
+    "functions": [
+        "latyfundysta",
+        "polityk galicyjski",
+        "zarządca ojcowskich majątków w Galicji",
+        "delegat Galicyjskiego Tow. Gospodarczego",
+        "członek władz Galicyjskiego Tow. Gospodarczego",
+        "poseł do Sejmu Krajowego z kurii wielkiej własności w Przemyślu",
+        "członek Komitetu Galicji Wschodniej",
+        "komisarz pełnomocny Rządu Narodowego na Francję i Anglię",
+        "marszałek powiatowy w Przemyślu",
+        "członek Sejmu",
+        "członek Rady Państwa",
+        "prezes GTG",
+        "członek Radzie Powiatowej",
+        "członek tajnego Rządu Narodowego",
+        "właściciel Dziennik Polski",
+        "członek Izby Panów",
+        "przewodniczący Centralnego Komitetu Wyborczego",
+        "rzeczywisty tajny radca",
+        "członek sejmowej komisji kultury krajowej",
+        "prezes Wystawy Krajowej we Lwowie",
+        "prezes rady nadzorczej Banku Kredytowego",
+        "główny akcjonariusz Banku Kredytowego",
+        "posł do Sejmu Krajowego",
+        "członek Komitetu GTG",
+        "członek Wydziału Rady Powiatowej w Borszczowie",
+        "posł do Rady Państwa w Wiedniu",
+        "pierwszy prezes Polskiego Czerwonego Krzyża"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Galicjskie Towarzystwo Gospodarcze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Krajowy",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Komitet Galicji Wschodniej",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Rząd Narodowy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "«kółko» emigracyjnych działaczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "GTG",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Powiatowa w Przemyślu",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "«Rząd Narodowy»",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Bank Ziemski",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Centralny Komitet Wyborczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Izba Panów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "spółka akcyjna kolei żelaznej Karola Ludwika",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejmowa komisja kultury krajowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wystawa Krajowa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Galicyjska Kasa Oszczędności",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Bank Kredytowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Bank dla Handlu i Przemysłu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Union-Bank",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Sejm Krajowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet GTG",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Rady Powiatowej",
+            "institution_place": "Borszczów"
+        },
+        {
+            "institution_name": "Rada Państwa",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Polski Czerwony Krzyż",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Leon Sapieha"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Jadwiga Sapieżyna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Jadwiga Sanguszkówna"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Władysław Sanguszko"
+        },
+        {
+            "family_relation": "kuzyn",
+            "person": "Jan Działyński"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Jadwiga Sapieha"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Helena Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Władysław Leon Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Leon Paweł Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Paweł Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Adam Stefan Sapieha"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Władysław Czartoryski",
+            "person_date": "1857",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Smolka",
+            "person_date": "1860",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Dzieduszycki",
+            "person_date": "1861",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Schmerling",
+            "person_date": "1861",
+            "person_info": "minister stanu"
+        },
+        {
+            "person_name": "Edward Jurgens",
+            "person_date": "1862",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Florian Ziemiałkowski",
+            "person_date": "1863",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marian Langiewicz",
+            "person_date": "1863",
+            "person_info": "dyktator"
+        },
+        {
+            "person_name": "Józef Wysocki",
+            "person_date": "1863",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Franciszek Horodyński",
+            "person_date": "1863",
+            "person_info": "dowódca"
+        },
+        {
+            "person_name": "A. Mensdorff-Pouilly",
+            "person_date": "1863",
+            "person_info": "namiestnik Galicji"
+        },
+        {
+            "person_name": "Aleksander Jan Kuza",
+            "person_date": "1864",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Władysław Czartoryski",
+            "person_date": "1864",
+            "person_info": "agent dyplomatyczny RN"
+        },
+        {
+            "person_name": "Karol Ruprecht",
+            "person_date": "1864",
+            "person_info": "komisarz pełnomocny"
+        },
+        {
+            "person_name": "Wacław Przybylski",
+            "person_date": "1864",
+            "person_info": "komisarz RN"
+        },
+        {
+            "person_name": "Jan Kurzyna",
+            "person_date": "1864",
+            "person_info": "działacz lewicy"
+        },
+        {
+            "person_name": "Józef Hauke-Bosak",
+            "person_date": "1864",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Bronisław Brzeziński",
+            "person_date": "1864",
+            "person_info": "piastujący pieczęć RN"
+        },
+        {
+            "person_name": "Aleksander Guttre",
+            "person_date": "1864",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Ruprecht",
+            "person_date": "brak danych",
+            "person_info": "emigracyjny działacz"
+        },
+        {
+            "person_name": "Agaton Giller",
+            "person_date": "brak danych",
+            "person_info": "emigracyjny działacz"
+        },
+        {
+            "person_name": "Tadeusz Orzechowski",
+            "person_date": "brak danych",
+            "person_info": "emigracyjny działacz"
+        },
+        {
+            "person_name": "Napoleon III",
+            "person_date": "brak danych",
+            "person_info": "cesarz Francji"
+        },
+        {
+            "person_name": "G. Mazzini",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Bulewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Agenor Gołuchowski",
+            "person_date": "brak danych",
+            "person_info": "namiestnik"
+        },
+        {
+            "person_name": "Julian Ławronowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "P. Kulisz",
+            "person_date": "1882",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Barwiński",
+            "person_date": "1889",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mieczysław Ledóchowski",
+            "person_date": "brak danych",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Leon XIII",
+            "person_date": "brak danych",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Karol Benni",
+            "person_date": "1888",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Rudolf",
+            "person_date": "1886",
+            "person_info": "arcyksiążę"
+        },
+        {
+            "person_name": "Filip Zaleski",
+            "person_date": "1886",
+            "person_info": "namiestnik"
+        },
+        {
+            "person_name": "Florian Ziemiałkowski",
+            "person_date": "1886",
+            "person_info": "minister 'dla Galicji'"
+        },
+        {
+            "person_name": "Jan Tarnowski",
+            "person_date": "1886",
+            "person_info": "marszałek krajowy"
+        },
+        {
+            "person_name": "Stanisław Stojałowski",
+            "person_date": "1898",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Karol Ludwik",
+            "person_date": "1874",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "bracia Badeniowie",
+            "person_date": "1892",
+            "person_info": "rządzący Galicją"
+        },
+        {
+            "person_name": "Franciszek Józef",
+            "person_date": "1896",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Stanisław Koźmian",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zdzisław Marchwicki",
+            "person_date": "1899",
+            "person_info": "dyrektor Banku"
+        },
+        {
+            "person_name": "Jan Lama",
+            "person_date": "1880",
+            "person_info": "autor powieści 'Dziwne kariery'"
+        },
+        {
+            "person_name": "Herminia Naglerowa",
+            "person_date": "1936",
+            "person_info": "autorka powieści 'Krauzowie i inni'"
+        },
+        {
+            "person_name": "Jan Matejko",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1828-12-04"
+        },
+        {
+            "place": "Paryż",
+            "date": "1830-1831"
+        },
+        {
+            "place": "Piskorowice",
+            "date": "1832"
+        },
+        {
+            "place": "Krasiczyn",
+            "date": "1836"
+        },
+        {
+            "place": "Freiwaldau",
+            "date": "1839-1841"
+        },
+        {
+            "place": "Opawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Riwiera",
+            "date": "1841-1842"
+        },
+        {
+            "place": "Lwów",
+            "date": "1844"
+        },
+        {
+            "place": "Londyn",
+            "date": "1847"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1848"
+        },
+        {
+            "place": "Praga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szkocja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bilcze",
+            "date": "1859"
+        },
+        {
+            "place": "Teofilpol",
+            "date": "1856, 1860"
+        },
+        {
+            "place": "Peszt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1861"
+        },
+        {
+            "place": "Bukareszt",
+            "date": "1864-03-05"
+        },
+        {
+            "place": "Marsylia",
+            "date": "1864-03-25"
+        },
+        {
+            "place": "Drezno",
+            "date": "1864-05"
+        },
+        {
+            "place": "Heidelberg",
+            "date": "1865-04"
+        },
+        {
+            "place": "Przemyśl",
+            "date": "1867"
+        },
+        {
+            "place": "Złoczów",
+            "date": "1868"
+        },
+        {
+            "place": "Brody",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wogezach",
+            "date": "1870"
+        },
+        {
+            "place": "Włochy",
+            "date": "1877-05"
+        },
+        {
+            "place": "Poznań",
+            "date": "1877-06"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1877-07"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wenecja",
+            "date": "1878-04"
+        },
+        {
+            "place": "Przemyśl",
+            "date": "1883"
+        },
+        {
+            "place": "Rzym",
+            "date": "1881, 1888"
+        },
+        {
+            "place": "Krasiczyn",
+            "date": "1886, 1888"
+        },
+        {
+            "place": "Hnilice",
+            "date": "1883"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

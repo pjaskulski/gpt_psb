@@ -1,0 +1,173 @@
+{
+    "name": "Ludwik Erlichshausen",
+    "psb_id": "PSB-06-0422",
+    "biogram_file": "Erlichshausen_v_Ludwik.txt",
+    "date_of_birth": {
+        "date": "1410",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1467-04-04"
+    },
+    "place_of_death": {
+        "place": "Królewiec"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Królewiec",
+        "note": "pochowany w tumie"
+    },
+    "functions": [
+        "w. mistrz krzyżacki",
+        "kompan w. mistrza Pawła Russdorfa",
+        "starszy kompan (adiutant, szambelan)",
+        "wójt Leszków na Żuławach",
+        "wójt Grabin na Żuławach",
+        "wójt w Lipienku w ziemi chełmińskiej",
+        "komtur Gniewu",
+        "doradca",
+        "wódz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zakon Krzyżacki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wójtostwo Leszków",
+            "institution_place": "Żuławy"
+        },
+        {
+            "institution_name": "Wójtostwo Grabin",
+            "institution_place": "Żuławy"
+        },
+        {
+            "institution_name": "Wójtostwo Lipienek",
+            "institution_place": "ziemia chełmińska"
+        },
+        {
+            "institution_name": "Komturia Gniew",
+            "institution_place": "Gniew"
+        },
+        {
+            "institution_name": "Zamek Malbork",
+            "institution_place": "Malbork"
+        },
+        {
+            "institution_name": "Kartuzja w Świbowinach",
+            "institution_place": "Świbowiny"
+        },
+        {
+            "institution_name": "Królewiec",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Chełmno",
+            "institution_place": "Chełmno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "bratanek",
+            "person": "Konrad v. E."
+        },
+        {
+            "family_relation": "brat cioteczny",
+            "person": "Henryk Reuss v. Plauen"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Paweł Russdorf",
+            "person_date": "1436–9",
+            "person_info": "wielki mistrz krzyżacki"
+        },
+        {
+            "person_name": "Kasper Nostyc",
+            "person_date": "brak danych",
+            "person_info": "zaciężny żołnierz"
+        },
+        {
+            "person_name": "Burchard Nachwall",
+            "person_date": "1457",
+            "person_info": "Czech, zaciężny żołnierz"
+        },
+        {
+            "person_name": "Paweł Legendorf (Mgowski)",
+            "person_date": "1464",
+            "person_info": "biskup warmiński"
+        },
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1466",
+            "person_info": "król Polski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Szwabia",
+            "date": "ok. 1410"
+        },
+        {
+            "place": "Leszki",
+            "date": "1440"
+        },
+        {
+            "place": "Grabin",
+            "date": "1441-10-14"
+        },
+        {
+            "place": "Lipienek",
+            "date": "1442-1446"
+        },
+        {
+            "place": "Gniew",
+            "date": "1446-1450"
+        },
+        {
+            "place": "Malbork",
+            "date": "1454-1457"
+        },
+        {
+            "place": "Chojnice",
+            "date": "1454"
+        },
+        {
+            "place": "Szczecinek",
+            "date": "1457"
+        },
+        {
+            "place": "Świbowiny",
+            "date": "1457"
+        },
+        {
+            "place": "Gniew",
+            "date": "1457"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1457"
+        },
+        {
+            "place": "Frombork",
+            "date": "1462"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1463"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1463"
+        },
+        {
+            "place": "Chełmno",
+            "date": "1466-09-09"
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "name": "Stanisław",
+    "psb_id": "PSB-42-0001",
+    "biogram_file": "Stanislaw.txt",
+    "date_of_birth": {
+        "date": "1501-05-17"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1524-08-08"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "kolegiata św. Jana Chrzciciela"
+    },
+    "functions": [
+        "książę mazowiecki",
+        "wojewoda Mazowsza",
+        "kanclerz",
+        "wojewoda płocki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Sejm Mazowiecki",
+            "institution_place": "Zakroczym"
+        },
+        {
+            "institution_name": "Dwór króla",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Dwór książęcy",
+            "institution_place": "Maków"
+        },
+        {
+            "institution_name": "Zakon Krzyżacki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kościół p. wezw. św. Anny u warszawskich bernardynów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kościół parafialny",
+            "institution_place": "Stanisławów"
+        },
+        {
+            "institution_name": "Kościół parafialny",
+            "institution_place": "Ciechanów"
+        },
+        {
+            "institution_name": "Kościół parafialny",
+            "institution_place": "Łomża"
+        },
+        {
+            "institution_name": "Kościół Augustianów",
+            "institution_place": "Ciechanów"
+        },
+        {
+            "institution_name": "Dom mansjonarzy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kolegiata warszawska",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Konrad III Rudy"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna z Radziwiłłów"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Janusz III"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna Odrowążowa"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Anna Radziwiłł",
+            "person_date": "1503",
+            "person_info": "księżna, regentka Mazowsza czersko-warszawskiego"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1516",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Feliks Brzeski",
+            "person_date": "1517",
+            "person_info": "wojewoda Mazowsza, kasztelan wyszogrodzki, starosta ciechanowski"
+        },
+        {
+            "person_name": "Mikołaj Żukowski",
+            "person_date": "1517",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Albrecht Hohenzollern",
+            "person_date": "1517",
+            "person_info": "wielki mistrz zakonu krzyżackiego"
+        },
+        {
+            "person_name": "Andrzej Niszczycki",
+            "person_date": "1518",
+            "person_info": "wojewoda płocki"
+        },
+        {
+            "person_name": "Bona",
+            "person_date": "1518",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "1523",
+            "person_info": "palatyn węgierski"
+        },
+        {
+            "person_name": "Katarzyna Radziejowska",
+            "person_date": "brak danych",
+            "person_info": "wojewodzianka płocka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mazowsze",
+            "date": "1501-1524"
+        },
+        {
+            "place": "Zakroczym",
+            "date": "1516-07-26"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1516-11-25"
+        },
+        {
+            "place": "Maków",
+            "date": "1516"
+        },
+        {
+            "place": "Wilno",
+            "date": "1517"
+        },
+        {
+            "place": "Połock",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brasław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1518-04"
+        },
+        {
+            "place": "Zakroczym",
+            "date": "1518"
+        },
+        {
+            "place": "Puszcza Zagajnica",
+            "date": "1518-07"
+        },
+        {
+            "place": "Toruń",
+            "date": "1519-12-21"
+        },
+        {
+            "place": "Pisz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ełk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Liw",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cisek",
+            "date": "1523-04-18"
+        },
+        {
+            "place": "Stanisławów",
+            "date": "1523"
+        },
+        {
+            "place": "Zambrów",
+            "date": "1523-06-30"
+        },
+        {
+            "place": "Grabowo",
+            "date": "1523-06-24"
+        },
+        {
+            "place": "Ciechanów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łomża",
+            "date": "brak danych"
+        },
+        {
+            "place": "Serock",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zakroczym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Buda",
+            "date": "1523-02-28"
+        },
+        {
+            "place": "Podole",
+            "date": "1524-06"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1524-08-08"
+        }
+    ]
+}

@@ -1,0 +1,318 @@
+{
+    "name": "Ludwik Mortęski",
+    "psb_id": "PSB-22-0005",
+    "biogram_file": "Morteski_Ludwik_z.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1539",
+        "note": "przed 20 VI"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan gdański",
+        "kasztelan elbląski",
+        "przedstawiciel szlachty",
+        "podkomorzy chełmiński",
+        "delegat stanów pruskich",
+        "poseł do króla",
+        "obrońca swobód szlacheckich",
+        "komisarz królewski",
+        "członek komisji królewskich",
+        "starosta pokrzywnicki",
+        "miecznik ziem pruskich",
+        "podkomorzy pomorski",
+        "podkomorzy malborski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "stanów Prus Królewskich",
+            "institution_place": "Prusy Królewskie"
+        },
+        {
+            "institution_name": "zjazd stanów Prus Królewskich",
+            "institution_place": "Dzierzgoń"
+        },
+        {
+            "institution_name": "zjazd stanów Prus Królewskich z przedstawicielami króla Aleksandra Jagiellończyka",
+            "institution_place": "Malbork"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kapituła warmińska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "komisje królewskie",
+            "institution_place": "Prusy Królewskie"
+        },
+        {
+            "institution_name": "komisja w celu zażegnania sporów między poddanymi królewskimi i poddanymi w. mistrza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "komisja królewska w sprawie Eberharda Ferbera",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "komisja, która miała zająć się restytucją katolicyzmu w Elblągu i Braniewie oraz zwalczaniem luteranizmu w Toruniu",
+            "institution_place": "Elbląg, Braniewo, Toruń"
+        },
+        {
+            "institution_name": "sejmiki",
+            "institution_place": "Prusy Królewskie"
+        },
+        {
+            "institution_name": "rada pruska",
+            "institution_place": "Prusy Królewskie"
+        },
+        {
+            "institution_name": "królewski zamek Radzyń",
+            "institution_place": "ziemia chełmińska"
+        },
+        {
+            "institution_name": "królewszczyzna Miruchów",
+            "institution_place": "województwo pomorskie"
+        },
+        {
+            "institution_name": "starostwo pokrzywnickie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zamek Pokrzywno",
+            "institution_place": "Pokrzywno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Ludwik"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta z Dąbrówki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Katarzyna"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Dorota"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Gertruda"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Małgorzata"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ludwik"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Melchior"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Elżbieta Kostczanka"
+        },
+        {
+            "family_relation": "wnuczka",
+            "person": "Magdalena Mortęska"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Ludwik"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1492",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Łukasz Watzenrode",
+            "person_date": "1492",
+            "person_info": "bp warmiński"
+        },
+        {
+            "person_name": "Aleksander Jagiellończyk",
+            "person_date": "1503",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Hiob von Dobeneck",
+            "person_date": "1507",
+            "person_info": "bp pomezański"
+        },
+        {
+            "person_name": "Jerzy Bażyński",
+            "person_date": "1507",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1508",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Dąbrowski",
+            "person_date": "1509",
+            "person_info": "wojewoda chełmiński"
+        },
+        {
+            "person_name": "Mikołaj Wulkowski",
+            "person_date": "1509",
+            "person_info": "wojewoda pomorski"
+        },
+        {
+            "person_name": "Mikołaj Szpota z Krajewa",
+            "person_date": "1512",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Filip Holkener",
+            "person_date": "1512",
+            "person_info": "licencjat, kanclerz bpa chełmińskiego Jana Konopackiego"
+        },
+        {
+            "person_name": "Jan Konopacki",
+            "person_date": "1512",
+            "person_info": "bp chełmiński"
+        },
+        {
+            "person_name": "Jan Wulkowski",
+            "person_date": "1516",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Eberhard Ferber",
+            "person_date": "1523-1524",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy I",
+            "person_date": "1526",
+            "person_info": "książę pomorski"
+        },
+        {
+            "person_name": "Barnim IX",
+            "person_date": "1526",
+            "person_info": "książę pomorski"
+        },
+        {
+            "person_name": "Stanisław Kostka",
+            "person_date": "1533-1536",
+            "person_info": "podskarbi pruski"
+        },
+        {
+            "person_name": "Hektor Machwic",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Potwinor",
+            "person_date": "1512",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Sokołowski",
+            "person_date": "1539",
+            "person_info": "kasztelan elbląski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wilno",
+            "date": "1492-02-10 - 1492-02-18"
+        },
+        {
+            "place": "Dzierzgoń",
+            "date": "1493-04-21 - 1493-04-24"
+        },
+        {
+            "place": "Malbork",
+            "date": "1503-07-04 - 1503-07-19"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1507-09-10 - 1507-09-16"
+        },
+        {
+            "place": "Malbork",
+            "date": "1507-10-30 - 1508-01-04"
+        },
+        {
+            "place": "Kraków",
+            "date": "1508-01-18"
+        },
+        {
+            "place": "Malbork",
+            "date": "1508-05-28 - 1508-06-08"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1511-06-02"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1511-12-04 - 1511-12-07"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1512-04-01"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1516-03-04"
+        },
+        {
+            "place": "Toruń",
+            "date": "1520-01-13"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1526-05-03"
+        },
+        {
+            "place": "Malbork",
+            "date": "1530-11"
+        },
+        {
+            "place": "Czaple",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mortęgi",
+            "date": "brak danych"
+        }
+    ]
+}

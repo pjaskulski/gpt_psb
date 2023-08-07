@@ -1,0 +1,958 @@
+{
+    "name": "Antoni Michał Potocki",
+    "psb_id": "PSB-27-0509",
+    "biogram_file": "Potocki_Antoni_Michal.txt",
+    "date_of_birth": {
+        "date": "1702-01",
+        "note": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1766-04-11",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "wojewoda bełski",
+        "starosta guzowski",
+        "podstoli litewski",
+        "poseł nadzwyczajny do Moskwy",
+        "poseł od Augusta II",
+        "marszałek konfederacji dzikowskiej",
+        "rezydent u boku króla w Dreźnie",
+        "marszałek dworu królowej",
+        "deputat",
+        "marszałek Trybunału Kor.",
+        "kasztelan kamieniecki",
+        "wojewoda smoleński",
+        "kasztelan zawichojski",
+        "prymas",
+        "kasztelan lwowski",
+        "pułkownik",
+        "poseł na sejmy",
+        "marszałek nadworny koronny",
+        "krajczy koronny",
+        "hetman wielki litewski",
+        "marszałek wielki litewski",
+        "starosta kamieniecki",
+        "general ziem podolskich",
+        "kanclerz koronny",
+        "deputat z województwa sieradzkiego",
+        "marszałek",
+        "generał-lejtnant armii saskiej",
+        "marszałek dworu zmarłej królowej",
+        "posł królewski",
+        "komendant fortec pogranicznych",
+        "generał-lejtnant wojsk kor."
+    ],
+    "institutions": [
+        {
+            "institution_name": "senatus consilium",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm grodzieński",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Generalność",
+            "institution_place": "Dzików"
+        },
+        {
+            "institution_name": "Rada",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm pacyfikacyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "radzie senatu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "województwo bełskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "konfederacja sulejowska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Trybunał Kor.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejmik w Bełzie",
+            "institution_place": "Bełz"
+        },
+        {
+            "institution_name": "sejmik gen. mazowiecki",
+            "institution_place": "Mazowsze"
+        },
+        {
+            "institution_name": "sejmik podlaski",
+            "institution_place": "Podlasie"
+        },
+        {
+            "institution_name": "sejmik płocki",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "sejmik wiski",
+            "institution_place": "Wizna"
+        },
+        {
+            "institution_name": "Ministerstwo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Izba Senatorska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja ekonomiczna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Trybunał radomski",
+            "institution_place": "Radom"
+        },
+        {
+            "institution_name": "Trybunał piotrkowski",
+            "institution_place": "Piotrków Trybunalski"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Trybunał lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "rada senatu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "dwór saski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "archiwum łańcuckie",
+            "institution_place": "Łańcut"
+        },
+        {
+            "institution_name": "Akademia",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "wnuk",
+            "person": "Paweł"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Jan Potocki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Teresa Tarła"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Teodor Potocki"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Józef Potocki"
+        },
+        {
+            "family_relation": "stryj",
+            "person": "Teodor Potocki"
+        },
+        {
+            "family_relation": "krewne",
+            "person": "Anna Iwanowna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Maria Ludwika Sapieha"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Aleksander Tarło"
+        },
+        {
+            "family_relation": "wuj",
+            "person": "Jan Tarło"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Prosper Potocki"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Piotr Potocki"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Prot Potocki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Paweł Potocki",
+            "person_date": "brak danych",
+            "person_info": "kasztelan kamieniecki"
+        },
+        {
+            "person_name": "Aleksander Jan Potocki",
+            "person_date": "brak danych",
+            "person_info": "wojewoda smoleński"
+        },
+        {
+            "person_name": "Teodor Potocki",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Józef Potocki",
+            "person_date": "brak danych",
+            "person_info": "kasztelan lwowski"
+        },
+        {
+            "person_name": "A. F. Monti",
+            "person_date": "1729",
+            "person_info": "ambasador Francji"
+        },
+        {
+            "person_name": "Anna Iwanowna",
+            "person_date": "1730",
+            "person_info": "caryca"
+        },
+        {
+            "person_name": "A. Mienszykow",
+            "person_date": "1730",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "P. J. Jagużyński",
+            "person_date": "1730",
+            "person_info": "przywódca partii staroruskiej"
+        },
+        {
+            "person_name": "Magnan",
+            "person_date": "1730",
+            "person_info": "francuski chargé d’affaires"
+        },
+        {
+            "person_name": "A. J. Ostermann",
+            "person_date": "1730",
+            "person_info": "filoaustriacki wicekanclerz"
+        },
+        {
+            "person_name": "F. K. Loewenwold",
+            "person_date": "1731",
+            "person_info": "rezydent rosyjski w Polsce"
+        },
+        {
+            "person_name": "A. D. Mienszykow",
+            "person_date": "1731",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Eperyaszy",
+            "person_date": "1733",
+            "person_info": "starosta skirstymoński"
+        },
+        {
+            "person_name": "Józef Sapieha",
+            "person_date": "1733",
+            "person_info": "podskarbi litewski"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1733",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Michał Radziwiłł",
+            "person_date": "1733",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Rudomina",
+            "person_date": "1733",
+            "person_info": "posłujący do Petersburga od sejmu konwokacyjnego"
+        },
+        {
+            "person_name": "E. Biron",
+            "person_date": "1733",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Salezy Potocki",
+            "person_date": "1733",
+            "person_info": "marszałek konfederacji bełskiej"
+        },
+        {
+            "person_name": "Michał Potocki",
+            "person_date": "1733",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Potocki",
+            "person_date": "1734",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Poniatowski",
+            "person_date": "1734",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. W. Wilczek",
+            "person_date": "1734",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. K. Wratislaw",
+            "person_date": "1732",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. O. Loewenwold",
+            "person_date": "1732",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. R. Loewenwold",
+            "person_date": "1732",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Emanuel Portugalski",
+            "person_date": "1732",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Tarła",
+            "person_date": "1734",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ch. L. de Belle-Isle",
+            "person_date": "1735",
+            "person_info": "marszałek Francji"
+        },
+        {
+            "person_name": "Fryderyk August",
+            "person_date": "1735",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. G. Loewenwold",
+            "person_date": "1735",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "B. K. Münnich",
+            "person_date": "1739",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. Keyserling",
+            "person_date": "brak danych",
+            "person_info": "poseł rosyjski"
+        },
+        {
+            "person_name": "J. Potocki",
+            "person_date": "jesień 1741",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Stanisław Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Grzegorz Orlik",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Sapieha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Stanisław Załuski",
+            "person_date": "styczeń 1742",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Fryderyk II",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Maria Teresa",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Antoni Sebastian Dembowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam Tarło",
+            "person_date": "1743",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Brühl",
+            "person_date": "1746",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Tarło",
+            "person_date": "marzec 1746",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Bieliński",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "L. A. Duperron de Castéra",
+            "person_date": "marzec 1745",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Franciszek",
+            "person_date": "marzec 1745",
+            "person_info": "książę de Conti"
+        },
+        {
+            "person_name": "August III",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Andrzej Mokronowski",
+            "person_date": "1746",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Spinek",
+            "person_date": "1746",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wojciech Jakubowski",
+            "person_date": "1746",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Wołkoński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Lieven",
+            "person_date": "brak danych",
+            "person_info": "brygadier"
+        },
+        {
+            "person_name": "J. A. Mikucki",
+            "person_date": "brak danych",
+            "person_info": "poseł wiski"
+        },
+        {
+            "person_name": "Ch. H. Des Issarts",
+            "person_date": "brak danych",
+            "person_info": "poseł francuski"
+        },
+        {
+            "person_name": "Jakub Błędowski",
+            "person_date": "jesień 1746",
+            "person_info": "płk"
+        },
+        {
+            "person_name": "Conti",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Karol Edward Stuart",
+            "person_date": "brak danych",
+            "person_info": "pretendent do tronu"
+        },
+        {
+            "person_name": "Jan Klemens Branicki",
+            "person_date": "1747",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bieliński",
+            "person_date": "1747",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mokronowski",
+            "person_date": "1747",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Spinek",
+            "person_date": "1747",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "G. Orlik",
+            "person_date": "1748",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Potocki",
+            "person_date": "1748",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "P. Sapieha",
+            "person_date": "1748",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Duperron de Castéra",
+            "person_date": "1748",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fryderyk II",
+            "person_date": "1748",
+            "person_info": "król Prus"
+        },
+        {
+            "person_name": "Michał Radziwiłł",
+            "person_date": "1749",
+            "person_info": "hetman wielki litewski"
+        },
+        {
+            "person_name": "Paweł Sanguszko",
+            "person_date": "1749",
+            "person_info": "marszałek wielki litewski"
+        },
+        {
+            "person_name": "F. S. Potocki",
+            "person_date": "1749",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "G. Orlik",
+            "person_date": "1749",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. P. Puyzieulx",
+            "person_date": "1749",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Duperron de Castéra",
+            "person_date": "1749",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stefan Garczyński",
+            "person_date": "1750",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Mniszech",
+            "person_date": "1750",
+            "person_info": "marszałek nadworny koronny"
+        },
+        {
+            "person_name": "Des Issarts",
+            "person_date": "1750",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. J. Voss",
+            "person_date": "1750",
+            "person_info": "rezydent pruski"
+        },
+        {
+            "person_name": "Ch. F. du Broglie",
+            "person_date": "1752",
+            "person_info": "ambasador francuski"
+        },
+        {
+            "person_name": "Malzahn",
+            "person_date": "1752",
+            "person_info": "rezydent pruski"
+        },
+        {
+            "person_name": "Mokronowski",
+            "person_date": "1752",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakubowski",
+            "person_date": "1752",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Małachowski",
+            "person_date": "1752",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Karol Radziwiłł",
+            "person_date": "1753",
+            "person_info": "miecznik litewski"
+        },
+        {
+            "person_name": "Maria Lubomirska",
+            "person_date": "1753",
+            "person_info": "starościanka bolimowska"
+        },
+        {
+            "person_name": "P. Sapieha",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "hetman Branicki",
+            "person_date": "1753",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Eustachy Potocki",
+            "person_date": "1754",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Mokronowski",
+            "person_date": "1754",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał Czartoryski",
+            "person_date": "1754",
+            "person_info": "kanclerz litewski"
+        },
+        {
+            "person_name": "Broglie",
+            "person_date": "1754",
+            "person_info": "ambasador francuski"
+        },
+        {
+            "person_name": "J. Mniszch",
+            "person_date": "1754",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "hospodar wołoski",
+            "person_date": "1754",
+            "person_info": "hospodar Wołoszczyzny"
+        },
+        {
+            "person_name": "Karol Malczewski",
+            "person_date": "1754",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Albrecht Radziwiłł",
+            "person_date": "1757",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. B. Durand",
+            "person_date": "1757",
+            "person_info": "rezydent francuski"
+        },
+        {
+            "person_name": "A. P. Bestużew",
+            "person_date": "1757",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Woroncow",
+            "person_date": "1758",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Stanisław Konarski",
+            "person_date": "1761",
+            "person_info": "pisarz, pedagog"
+        },
+        {
+            "person_name": "Stanisław Karwicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Podoski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August III",
+            "person_date": "1746",
+            "person_info": "król Polski i elektor Saksonii"
+        },
+        {
+            "person_name": "Karol Sapieha",
+            "person_date": "1759",
+            "person_info": "wojewoda brzeski litewski"
+        },
+        {
+            "person_name": "Ignacy Cetner",
+            "person_date": "1763",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr",
+            "person_date": "brak danych",
+            "person_info": "starosta szczerzecki"
+        },
+        {
+            "person_name": "Zygmunt Gloger",
+            "person_date": "brak danych",
+            "person_info": "tłumacz, historyk"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1764",
+            "person_info": "król Polski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Podole",
+            "date": "1726"
+        },
+        {
+            "place": "Wołyń",
+            "date": "1726"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1729"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1729"
+        },
+        {
+            "place": "Mitawa",
+            "date": "1729"
+        },
+        {
+            "place": "Kurlandia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Litwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grodno",
+            "date": "1730"
+        },
+        {
+            "place": "Lwów",
+            "date": "1734"
+        },
+        {
+            "place": "Jaworów",
+            "date": "1734"
+        },
+        {
+            "place": "Jarosław",
+            "date": "1734"
+        },
+        {
+            "place": "Kraków",
+            "date": "1734"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1734"
+        },
+        {
+            "place": "Bukaczowce",
+            "date": "1734"
+        },
+        {
+            "place": "Dzików",
+            "date": "1734"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1735"
+        },
+        {
+            "place": "Drezno",
+            "date": "1740"
+        },
+        {
+            "place": "Berlin",
+            "date": "1740"
+        },
+        {
+            "place": "Lunéville",
+            "date": "1739"
+        },
+        {
+            "place": "Sulejów",
+            "date": "1741"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "1742"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "1745"
+        },
+        {
+            "place": "Drezno",
+            "date": "1746"
+        },
+        {
+            "place": "Wschowa",
+            "date": "1746"
+        },
+        {
+            "place": "Bełz",
+            "date": "1746"
+        },
+        {
+            "place": "Guzów",
+            "date": "1744"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Akwizgran",
+            "date": "1748"
+        },
+        {
+            "place": "Lwów",
+            "date": "1749"
+        },
+        {
+            "place": "Polska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lotaryngia",
+            "date": "1749"
+        },
+        {
+            "place": "Paryż",
+            "date": "1749"
+        },
+        {
+            "place": "Francja",
+            "date": "1749"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "1750"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1750"
+        },
+        {
+            "place": "Uście",
+            "date": "1751"
+        },
+        {
+            "place": "Guzów",
+            "date": "1751"
+        },
+        {
+            "place": "Lwów",
+            "date": "1751-1752"
+        },
+        {
+            "place": "Nysa",
+            "date": "1750"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1752"
+        },
+        {
+            "place": "Białystok",
+            "date": "1754"
+        },
+        {
+            "place": "Machnówka",
+            "date": "1757"
+        },
+        {
+            "place": "Lublin",
+            "date": "1758"
+        },
+        {
+            "place": "Załośce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Husiatyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1764"
+        }
+    ]
+}

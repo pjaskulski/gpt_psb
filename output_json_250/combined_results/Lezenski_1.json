@@ -1,0 +1,183 @@
+{
+    "name": "Tomasz Leżeński",
+    "psb_id": "PSB-17-0239",
+    "biogram_file": "Lezenski_1.txt",
+    "date_of_birth": {
+        "date": "1603",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1675"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Wąchock"
+    },
+    "functions": [
+        "biskup łucki",
+        "archidiakon sandomierski",
+        "sekretarz królewski",
+        "pisarz najwyższy skarbu kor.",
+        "prepozytura łęczycka",
+        "kanonik warszawski",
+        "kanonik krakowski",
+        "opat wąchocki",
+        "pisarz w. kor.",
+        "biskup chełmski",
+        "kanclerz Akademii Zamojskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sekretariat Królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Skarb Koronny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Prepozytura Łęczycka",
+            "institution_place": "Łęczyca"
+        },
+        {
+            "institution_name": "Kanonia Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kanonia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Opactwo Wąchockie",
+            "institution_place": "Wąchock"
+        },
+        {
+            "institution_name": "Biskupstwo Chełmskie",
+            "institution_place": "Chełm"
+        },
+        {
+            "institution_name": "Akademia Zamojska",
+            "institution_place": "Zamość"
+        },
+        {
+            "institution_name": "Biskupstwo Łuckie",
+            "institution_place": "Łuck"
+        },
+        {
+            "institution_name": "Szpital Św. Marcina",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Grzegorz Leżeński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Drohojowska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jerzy Lubomirski",
+            "person_date": "1664",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Andrzej Trzebicki",
+            "person_date": "1665",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "1665",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Michał Korybut Wiśniowiecki",
+            "person_date": "1672",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan III Sobieski",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Kazimierz Florian Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Leżenice",
+            "date": "1603"
+        },
+        {
+            "place": "Graz",
+            "date": "1616-1619"
+        },
+        {
+            "place": "Ingolstadt",
+            "date": "1616-1619"
+        },
+        {
+            "place": "Kraków",
+            "date": "1633"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1633"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "1640"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1640"
+        },
+        {
+            "place": "Wąchock",
+            "date": "1648"
+        },
+        {
+            "place": "Chełm",
+            "date": "1657"
+        },
+        {
+            "place": "Zamość",
+            "date": "1663"
+        },
+        {
+            "place": "Łuck",
+            "date": "1667"
+        },
+        {
+            "place": "Rawa",
+            "date": "1665"
+        },
+        {
+            "place": "Palczyn",
+            "date": "1665"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1673"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "name": "Stanisława Sarnowska",
+    "psb_id": "PSB-35-0081",
+    "biogram_file": "Sarnowska.txt",
+    "date_of_birth": {
+        "date": "1891-10-13"
+    },
+    "place_of_birth": {
+        "place": "Lublin"
+    },
+    "date_of_death": {
+        "date": "1958-04-04"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "aktorka",
+        "dyrektor teatrów",
+        "aktor w zespole Józefa Puchniewskiego",
+        "aktor w zespołach objazdowych",
+        "aktor w zespole Felicjana Felińskiego",
+        "aktor w zespole Stanisława Orlika",
+        "aktor w zespole Tadeusza Pola",
+        "aktor w zespole Kazimierza Kamińskiego",
+        "aktor w zespole dramatu Warszawskich Teatrów Rządowych",
+        "aktor w Teatrach Miejskich w Warszawie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Teatr Józefa Puchniewskiego",
+            "institution_place": "Białystok"
+        },
+        {
+            "institution_name": "Teatr Felicjana Felińskiego",
+            "institution_place": "Ciechocinek"
+        },
+        {
+            "institution_name": "Teatr Stanisława Orlika",
+            "institution_place": "Kalisz"
+        },
+        {
+            "institution_name": "Teatr Tadeusza Pola",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Teatr Kazimierza Kamińskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Warszawskie Teatry Rządowe",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatry Miejskie",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Sarnowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna Lewkowicz"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Kazimierz"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Wiktor Mühsam"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Tadeusz Mühsam"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Józef Puchniewski",
+            "person_date": "1906",
+            "person_info": "aktor, członek zespołu teatralnego"
+        },
+        {
+            "person_name": "Felicjan Feliński",
+            "person_date": "brak danych",
+            "person_info": "antreprener teatralny"
+        },
+        {
+            "person_name": "Stanisław Orlik",
+            "person_date": "brak danych",
+            "person_info": "antreprener teatralny"
+        },
+        {
+            "person_name": "Tadeusz Pol",
+            "person_date": "brak danych",
+            "person_info": "antreprener teatralny"
+        },
+        {
+            "person_name": "Kazimierz Kamiński",
+            "person_date": "1908",
+            "person_info": "aktor, dyrektor teatru"
+        },
+        {
+            "person_name": "Wiktor Mühsam",
+            "person_date": "1919",
+            "person_info": "przemysłowiec"
+        },
+        {
+            "person_name": "Paweł Owerłło",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Lorentowicz",
+            "person_date": "1917",
+            "person_info": "krytyk teatralny"
+        },
+        {
+            "person_name": "Adam Grzymała-Siedlecki",
+            "person_date": "brak danych",
+            "person_info": "krytyk teatralny"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lublin",
+            "date": "1891-10-13"
+        },
+        {
+            "place": "Białystok",
+            "date": "1906"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kijów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ciechocinek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kalisz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piotrków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mińsk Litewski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Radom",
+            "date": "1916-1917"
+        },
+        {
+            "place": "Płock",
+            "date": "1916-1917"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1916-1917"
+        }
+    ]
+}

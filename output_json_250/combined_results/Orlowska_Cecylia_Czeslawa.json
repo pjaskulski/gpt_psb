@@ -1,0 +1,129 @@
+{
+    "name": "Cecylia Czesława Orłowska",
+    "psb_id": "PSB-24-0156",
+    "biogram_file": "Orlowska_Cecylia_Czeslawa.txt",
+    "date_of_birth": {
+        "date": "1906-02-26"
+    },
+    "place_of_birth": {
+        "place": "Łódź"
+    },
+    "date_of_death": {
+        "date": "1937"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "działaczka komunistyczna",
+        "członek Związku Młodzieży Komunistycznej",
+        "członek Komunistycznej Partii Robotniczej Polski",
+        "członek Komitetu Dzielnicowego «Powązki»",
+        "studentka komunistycznego uniwersytetu im. J. M. Swierdłowa",
+        "pracownica aparatu Międzynarodówki Komunistycznej",
+        "pracownica sekretariatu do spraw Polski i krajów nadbałtyckich",
+        "pracownica moskiewskiej fabryki firanek",
+        "kierowniczka pracy propagandowej i kulturalnej w moskiewskiej fabryce firanek"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum im. E. Orzeszkowej",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Związek Młodzieży Komunistycznej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komunistyczna Partia Robotnicza Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Dzielnicowy",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Komitet Dzielnicowy «Powązki»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komunistyczny uniwersytet im. J. M. Swierdłowa",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Międzynarodówka Komunistyczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Fabryka firanek",
+            "institution_place": "Moskwa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Eliasz Grynberg"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Barbara Grynberg"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Antoni Markowski/Franciszek Szczepowski"
+        }
+    ],
+    "significant_people": [],
+    "places_related_to": [
+        {
+            "place": "Łódź",
+            "date": "1906-02-26"
+        },
+        {
+            "place": "Łódź",
+            "date": "1921"
+        },
+        {
+            "place": "Łódź",
+            "date": "1922-05-01"
+        },
+        {
+            "place": "Łódź",
+            "date": "1923-12-21"
+        },
+        {
+            "place": "Sieradz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łódź",
+            "date": "1923"
+        },
+        {
+            "place": "Wronek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1928-01"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        }
+    ]
+}

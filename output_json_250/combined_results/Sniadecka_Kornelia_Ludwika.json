@@ -1,0 +1,273 @@
+{
+    "name": "Kornelia Ludwika Śniadecka",
+    "psb_id": "PSB-51-0065",
+    "biogram_file": "Sniadecka_Kornelia_Ludwika.txt",
+    "date_of_birth": {
+        "date": "1802-08-04"
+    },
+    "place_of_birth": {
+        "place": "Wilno"
+    },
+    "date_of_death": {
+        "date": "1866-02-22"
+    },
+    "place_of_death": {
+        "place": "Stambuł",
+        "note": "dzielnica Dżihangir"
+    },
+    "date_of_burial": {
+        "date": "1866-02-24"
+    },
+    "place_of_burial": {
+        "place": "Adampol",
+        "note": "marmurowy grobowiec ze złamaną kolumną"
+    },
+    "functions": [
+        "działaczka polityczna",
+        "kierowniczka biura Agencji Wschodniej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Tow. Promienistych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniw. Wil.",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Agencja Wschodnia Hotelu Lambert",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dep. Górniczego w Petersburgu",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Hotel Lambert",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biblioteka Narodowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muz. A. Mickiewicza",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Biblioteka Jagiellońska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Czartoryskich",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jędrzej Śniadecki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Konstancja z Mikułowskich"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jan Śniadecki"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia Balińska"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Michał Baliński"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Józef Konstanty Śniadecki"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Antonina Śniadecka"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Kazimierz Sulistrowski"
+        },
+        {
+            "family_relation": "siostrzenica",
+            "person": "Ignacy Abramowicz"
+        },
+        {
+            "family_relation": "siostrzenica",
+            "person": "Mikołaj Abramowicz"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Konstancja Skirmunt"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Aleksander Skirmunt"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Michał Czajkowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Kossakowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Domeyko",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Łobojko",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Wil."
+        },
+        {
+            "person_name": "Piotr Sławiński",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Wil."
+        },
+        {
+            "person_name": "Adam Mickiewicz",
+            "person_date": "brak danych",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Franciszek Malewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Chodźko",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Edward Odyniec",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Juliusz Słowacki",
+            "person_date": "1826-1827",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Michaił Woroncow",
+            "person_date": "1833",
+            "person_info": "gubernator Odessy"
+        },
+        {
+            "person_name": "Benedykt Niepokojczycki",
+            "person_date": "brak danych",
+            "person_info": "kpt. wojsk rosyjskich"
+        },
+        {
+            "person_name": "Piotr Gorbanow",
+            "person_date": "1841",
+            "person_info": "zaprzyjaźniony tłumacz z Dep. Górniczego w Petersburgu"
+        },
+        {
+            "person_name": "A. P. Butieniew",
+            "person_date": "1842",
+            "person_info": "rosyjski poseł w Stambule"
+        },
+        {
+            "person_name": "Michał Czajkowski",
+            "person_date": "1842",
+            "person_info": "agent polityczny"
+        },
+        {
+            "person_name": "Namik Kemal Zia Pasza",
+            "person_date": "1863",
+            "person_info": "teoretyk przebudowy państwa otomańskiego w duchu liberalnym"
+        },
+        {
+            "person_name": "Franciszek Sokulski",
+            "person_date": "1863",
+            "person_info": "agent Rządu Narodowego"
+        },
+        {
+            "person_name": "Władysław Jordan",
+            "person_date": "1863",
+            "person_info": "agent Rządu Narodowego"
+        },
+        {
+            "person_name": "Zygmunt Miłkowski",
+            "person_date": "1863",
+            "person_info": "płk."
+        },
+        {
+            "person_name": "Juliusz Kleiner",
+            "person_date": "brak danych",
+            "person_info": "badacz"
+        },
+        {
+            "person_name": "Czesław Miłosz",
+            "person_date": "1997",
+            "person_info": "poeta"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wilno",
+            "date": "1802-08-04"
+        },
+        {
+            "place": "Jaszuny",
+            "date": "1826-12-21 do początków stycznia 1827"
+        },
+        {
+            "place": "Szumla",
+            "date": "1829"
+        },
+        {
+            "place": "Ryga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Odesa",
+            "date": "1833"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stambuł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Adampol",
+            "date": "1843"
+        },
+        {
+            "place": "Ortaköy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Beszyktasz",
+            "date": "1853"
+        },
+        {
+            "place": "Dżihangir",
+            "date": "1866-02-22"
+        }
+    ]
+}

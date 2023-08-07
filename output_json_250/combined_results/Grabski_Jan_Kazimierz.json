@@ -1,0 +1,204 @@
+{
+    "name": "Jan Kazimierz Grabski",
+    "psb_id": "PSB-08-0713",
+    "biogram_file": "Grabski_Jan_Kazimierz.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1723"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan nakielski",
+        "sędzia grodzki bydgoski",
+        "starosta kłecki",
+        "komisarz do sprawdzania rachunków poborowych",
+        "deputat na trybunał koronny",
+        "sędzia grodzki nakielski",
+        "poseł na sejm",
+        "konsyliarz konfederacji",
+        "sędzia surogator grodzki wałecki",
+        "tłumacz",
+        "dziedzic Żelic i Michałkowic, miasta Miasteczka i wsi Brzostowa oraz części dóbr nowomiejskich",
+        "skarbnik poznański",
+        "podczaszy wschowski",
+        "dziekan fary gnieźnieńskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "sejmik średzki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "trybunał koronny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "konfederacja",
+            "institution_place": "Środa"
+        },
+        {
+            "institution_name": "król Leszczyński",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "August II",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sąd grodzki",
+            "institution_place": "Wałcz"
+        },
+        {
+            "institution_name": "Palestra pietatis christianae",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "dobra nowomiejskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Anna Konradzka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Marianna Łakińska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Maciej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Franciszek",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stanisław",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Józef",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Maciej Grabski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Marianna Mańkowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Konradzka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Marianna Łakińska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Maciej Grabski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Franciszek Grabski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Grabski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Józef Grabski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Piotr Bronisz",
+            "person_date": "1703",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Leszczyński",
+            "person_date": "1708",
+            "person_info": "król"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "1714",
+            "person_info": "król"
+        },
+        {
+            "person_name": "J. Morawski",
+            "person_date": "brak danych",
+            "person_info": "autor"
+        },
+        {
+            "person_name": "Marianna Łakińska",
+            "person_date": "1709",
+            "person_info": "wdowa po Zdzychowskim, podczaszym wschowskim"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Bydgoszcz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kłecko",
+            "date": "brak danych"
+        },
+        {
+            "place": "Środa Wielkopolska",
+            "date": "1688-05-17"
+        },
+        {
+            "place": "Poznań",
+            "date": "1694-1695"
+        },
+        {
+            "place": "Nakło nad Notecią",
+            "date": "1695"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1699"
+        },
+        {
+            "place": "Lublin",
+            "date": "1703"
+        },
+        {
+            "place": "Środa Wielkopolska",
+            "date": "1703-07-09"
+        },
+        {
+            "place": "Nakło nad Notecią",
+            "date": "1708-1714"
+        },
+        {
+            "place": "Wałcz",
+            "date": "brak danych"
+        }
+    ]
+}

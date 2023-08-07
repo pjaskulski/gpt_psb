@@ -1,0 +1,132 @@
+{
+    "name": "Anna Siemienowska",
+    "psb_id": "PSB-37-0007",
+    "biogram_file": "Siemienowska_Anna.txt",
+    "date_of_birth": {
+        "date": "1908-07-27"
+    },
+    "place_of_birth": {
+        "place": "Albertyna",
+        "note": "powiat słonimski"
+    },
+    "date_of_death": {
+        "date": "1989-10-31"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Komunalny Północny"
+    },
+    "functions": [
+        "urzędniczka",
+        "działaczka Armii Krajowej",
+        "sekretarka w Państwowym Zarządzie Wodnym w Łucku",
+        "registratorka w Państwowym Zarządzie Wodnym w Łucku",
+        "nauczycielka prywatna",
+        "buchalterka w Zentral Handelsgesellschaft Ost",
+        "maszynistka w Zentral Handelsgesellschaft Ost",
+        "członek sztabu Inspektoratu Rejonowego AK Łuck",
+        "szef łączności wewnętrznej Inspektoratu Rejonowego AK Łuck",
+        "szef kancelarii Inspektoratu Rejonowego AK Łuck",
+        "pracownik Centralnego Biura Studiów Budownictwa Wodnego «Hydroprojekt»",
+        "członek Komisji Historii Kobiet w Walce o Niepodległość Tow. Miłośników Historii w Warszawie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Państwowy Zarząd Wodny",
+            "institution_place": "Łuck"
+        },
+        {
+            "institution_name": "Zentral Handelsgesellschaft Ost",
+            "institution_place": "Łuck"
+        },
+        {
+            "institution_name": "Związek Walki Zbrojnej – Armia Krajowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Inspektorat Rejonowy AK Łuck",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "śledcze więzienie NKWD",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Trybunał Kijowskiego Okręgu Wojskowego",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Centralne Biuro Studiów Budownictwa Wodnego «Hydroprojekt»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Historii Kobiet w Walce o Niepodległość Tow. Miłośników Historii",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wiktor"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Pelagia Hołubicka"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Jadwiga Brojakowa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "brak danych",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Albertynie",
+            "date": "1908-07-27"
+        },
+        {
+            "place": "Łuck",
+            "date": "przed 1939"
+        },
+        {
+            "place": "Łuck",
+            "date": "1939"
+        },
+        {
+            "place": "Łuck",
+            "date": "1941-1942"
+        },
+        {
+            "place": "Łuck",
+            "date": "1942-01-01 do 1944-01-30"
+        },
+        {
+            "place": "Kowelskie",
+            "date": "1944-03-29"
+        },
+        {
+            "place": "Kijów",
+            "date": "1944-05"
+        },
+        {
+            "place": "Republika Autonomiczna Komi",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1955 lub 1956"
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "name": "Aleksander Mierzeński",
+    "psb_id": "PSB-21-0011",
+    "biogram_file": "Mierzenski_Aleksander_h.txt",
+    "date_of_birth": {
+        "date": "1627"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1671-09",
+        "note": "wrzesień"
+    },
+    "place_of_death": {
+        "place": "Zabłudów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Zabłudów",
+        "note": "kościół w Zabłudowie"
+    },
+    "functions": [
+        "porucznik wojsk W. Ks. Lit.",
+        "dowódca chorągwi pancernej hetmana Janusza Radziwiłła",
+        "adherent szwedzki",
+        "porucznik chorągwi pancernej",
+        "administrator lub arendarz dóbr radziwiłłowskich Owantę",
+        "porucznik chorągwi w dywizji lewego skrzydła wojska litewskiego",
+        "więzień w Moskwie",
+        "właściciel dwóch wsi królewskich, Połońce i Przystawańce",
+        "weryfikator szkód wyrządzonych przez wojsko w dobrach księcia Bogusława Radziwiłła",
+        "spadkobierca po zmarłym bracie Janie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wojsko litewskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Chorągiew pancerna hetmana Janusza Radziwiłła",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojsko szwedzkie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Leśnictwo Niemonojty",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dobra radziwiłłowskie Owantę",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Chorągiew pod dywizją lewego skrzydła wojska litewskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór w Moskwie",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Starostwo sejwejskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojsko litewskie na Białorusi",
+            "institution_place": "Białoruś"
+        },
+        {
+            "institution_name": "Kościół w Zabłudowie",
+            "institution_place": "Zabłudów"
+        },
+        {
+            "institution_name": "Dojlidy pod Białymstokiem",
+            "institution_place": "Białystok"
+        },
+        {
+            "institution_name": "Białystok Radziwiłłowski",
+            "institution_place": "Białystok"
+        },
+        {
+            "institution_name": "Chorągiew Janusza Radziwiłła",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Abraham Mierzeński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Elżbieta Morsztynówna"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Mierzeński"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Samuel Mierzeński"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Krzysztof Mierzeński"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Daniel Mierzeński"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Marianna z Kawcenich"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Hercylia Ciechanowiecka"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zbigniew Morsztyn",
+            "person_date": "1654",
+            "person_info": "podkomendny, poeta"
+        },
+        {
+            "person_name": "Janusz Radziwiłł",
+            "person_date": "1654",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Magnus de la Gardie",
+            "person_date": "1655",
+            "person_info": "szwedzki dowódca wojskowy"
+        },
+        {
+            "person_name": "Bogusław Radziwiłł",
+            "person_date": "1655",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Wincenty Gosiewski",
+            "person_date": "1657",
+            "person_info": "hetman polny koronny"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dojlidy",
+            "date": "1654"
+        },
+        {
+            "place": "Szepielewicze",
+            "date": "1654-08-24"
+        },
+        {
+            "place": "Podlasie",
+            "date": "1655"
+        },
+        {
+            "place": "Niemonojty",
+            "date": "1655-12"
+        },
+        {
+            "place": "Owance",
+            "date": "1657"
+        },
+        {
+            "place": "Werki",
+            "date": "1658-10-21"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1662-06-26"
+        },
+        {
+            "place": "Połońce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Przystawańce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Białoruś",
+            "date": "1663-1664"
+        },
+        {
+            "place": "Jurków",
+            "date": "1665"
+        },
+        {
+            "place": "Zabłudów",
+            "date": "1671-09"
+        }
+    ]
+}

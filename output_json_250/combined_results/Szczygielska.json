@@ -1,0 +1,152 @@
+{
+    "name": "Józefa Kazimiera Szczygielska",
+    "psb_id": "PSB-47-0254",
+    "biogram_file": "Szczygielska.txt",
+    "date_of_birth": {
+        "date": "1866-12-26"
+    },
+    "place_of_birth": {
+        "place": "Kraków"
+    },
+    "date_of_death": {
+        "date": "1913-12-27",
+        "note": "zapewne"
+    },
+    "place_of_death": {
+        "place": "Praga"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Praga"
+    },
+    "functions": [
+        "malarka",
+        "nauczycielka",
+        "profesor szkoły sztuk pięknych",
+        "właścicielka pracowni artystycznej",
+        "organizatorka kursów rysunków, malarstwa i modelowania w glinie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "szkoła sztuk pięknych",
+            "institution_place": "Rouen"
+        },
+        {
+            "institution_name": "szkoła sztuk pięknych",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Towarzystwo Zachęty Sztuk Pięknych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Przyjaciół Sztuk Pięknych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rada Szkolna Okręgowa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Związek Czeskich Kobiet (Ustředni Spolek Českych Žen)",
+            "institution_place": "Praga"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Julian Wiśniewski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Marianna Wiśniewska"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Jadwiga Wiśniewska"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Maryla Wiśniewska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Włodzimierz Wiśniewski"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Tadeusz Wiśniewski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Antoni Szczygielski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Tomasz Szczygielski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "É. Cuyer",
+            "person_date": "brak danych",
+            "person_info": "profesor szkoły sztuk pięknych w Paryżu"
+        },
+        {
+            "person_name": "Wojciech Brzega",
+            "person_date": "1908",
+            "person_info": "właściciel domu, w którym odbywały się wystawy sztuki podhalańskiej"
+        },
+        {
+            "person_name": "František Hovorka",
+            "person_date": "1913",
+            "person_info": "redaktor, który zaopiekował się chorą S."
+        },
+        {
+            "person_name": "Irma Raichova",
+            "person_date": "1913",
+            "person_info": "primadonna opery praskiej, która zaopiekowała się chorą S."
+        },
+        {
+            "person_name": "Maria Bogucka",
+            "person_date": "1913",
+            "person_info": "primadonna opery praskiej, która zaopiekowała się chorą S."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1866-12-26"
+        },
+        {
+            "place": "Rouen",
+            "date": "1893"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1895"
+        },
+        {
+            "place": "Łódź",
+            "date": "koniec lat dziewięćdziesiątych XIX wieku"
+        },
+        {
+            "place": "Zakopane",
+            "date": "1908"
+        },
+        {
+            "place": "Budapeszt",
+            "date": "koniec 1910 roku"
+        }
+    ]
+}

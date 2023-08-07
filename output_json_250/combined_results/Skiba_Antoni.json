@@ -1,0 +1,142 @@
+{
+    "name": "Antoni Skiba",
+    "psb_id": "PSB-38-0064",
+    "biogram_file": "Skiba_Antoni.txt",
+    "date_of_birth": {
+        "date": "1811-05-31"
+    },
+    "place_of_birth": {
+        "place": "Opole"
+    },
+    "date_of_death": {
+        "date": "1863-01-14"
+    },
+    "place_of_death": {
+        "place": "Rumia"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Rumia",
+        "note": "tamtejszy cmentarz przykościelny"
+    },
+    "functions": [
+        "ksiądz",
+        "poseł polski do pruskiego Zgromadzenia Narodowego w Berlinie",
+        "proboszcz w Rumi",
+        "inspektor lokalny sześciu szkół katolickich",
+        "poseł do sejmu pruskiego w Berlinie",
+        "współzałożyciel Ligi Polskiej Narodowej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "pruskie Zgromadzenie Narodowe",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Uniwersytet we Wrocławiu",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "seminarium duchowne",
+            "institution_place": "Pelplin"
+        },
+        {
+            "institution_name": "parafia kościoła św. Józefa",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "parafia w Rumi",
+            "institution_place": "Rumia"
+        },
+        {
+            "institution_name": "Bractwo Bożej Opatrzności",
+            "institution_place": "Rumia"
+        },
+        {
+            "institution_name": "Bractwo Różańca Świętego",
+            "institution_place": "Reda"
+        },
+        {
+            "institution_name": "Liga Polska Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm pruski",
+            "institution_place": "Berlin"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Augustyn Skiba"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Rozalia Skiba"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "A. Sedlag",
+            "person_date": "1836",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "F. Waldeck",
+            "person_date": "1848",
+            "person_info": "poseł"
+        },
+        {
+            "person_name": "Jan Klingenberg",
+            "person_date": "1848",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Andrzej Pomieczyński",
+            "person_date": "1848",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Karol Richter",
+            "person_date": "1848",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Maciej Mielżyński",
+            "person_date": "1849",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Opole",
+            "date": "1811-05-31"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1831"
+        },
+        {
+            "place": "Pelplin",
+            "date": "1836"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1839"
+        },
+        {
+            "place": "Rumia",
+            "date": "1842"
+        },
+        {
+            "place": "Reda",
+            "date": "1852"
+        },
+        {
+            "place": "Berlin",
+            "date": "1848"
+        }
+    ]
+}

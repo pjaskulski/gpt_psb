@@ -1,0 +1,172 @@
+{
+    "name": "Mroczko Nagórka z Kisielewa",
+    "psb_id": "PSB-22-0136",
+    "biogram_file": "Mroczko_Nagorka_z.txt",
+    "date_of_birth": {
+        "date": "około 1352",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1423"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kanonik płocki",
+        "rektor uniwersytetu w Pradze",
+        "oficjał",
+        "wikariusz «in spiritualibus»",
+        "zarządca diecezji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet w Pradze",
+            "institution_place": "Praga"
+        },
+        {
+            "institution_name": "Kolegiata Św. Piotra",
+            "institution_place": "Kruszwica"
+        },
+        {
+            "institution_name": "Katedra płocka",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Studium Prawa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kościół parafialny w Kisielewie",
+            "institution_place": "Kisielewo"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bogusław"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Piotr Nagórka"
+        },
+        {
+            "family_relation": "krewny",
+            "person": "Trojan"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz Wielki",
+            "person_date": "1360",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Innocenty VI",
+            "person_date": "1360",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Piotr Nagórka",
+            "person_date": "brak danych",
+            "person_info": "kanonik poznański"
+        },
+        {
+            "person_name": "Bernard",
+            "person_date": "brak danych",
+            "person_info": "dominikanin, nominat papieski na biskupstwo płockie"
+        },
+        {
+            "person_name": "Imisław Wroński",
+            "person_date": "brak danych",
+            "person_info": "bp-elekt"
+        },
+        {
+            "person_name": "Bernard ze Starzyna",
+            "person_date": "1399",
+            "person_info": "kanonik"
+        },
+        {
+            "person_name": "Jakub z Korzkwi",
+            "person_date": "1398",
+            "person_info": "audytor Roty papieskiej, dr dekretów"
+        },
+        {
+            "person_name": "Stanisław Jaszczołdowic z Miszewa",
+            "person_date": "1406/7",
+            "person_info": "dziekan kapituły płockiej"
+        },
+        {
+            "person_name": "Mikołaj Strzeszkowic z Łagiewnik",
+            "person_date": "1416",
+            "person_info": "kustosz i oficjał gnieźnieński, wikariusz 'in spiritualibus' arcbpa Mikołaja Trąby"
+        },
+        {
+            "person_name": "Mikołaj Trąba",
+            "person_date": "1416",
+            "person_info": "arcybiskup"
+        },
+        {
+            "person_name": "Stanisław Pawłowski",
+            "person_date": "1420",
+            "person_info": "archidiakon"
+        },
+        {
+            "person_name": "Wojciech Jastrzębiec",
+            "person_date": "1420",
+            "person_info": "bp krakowski i kanclerz"
+        },
+        {
+            "person_name": "Trojan",
+            "person_date": "1437",
+            "person_info": "krewny M-i, sprzedał wieś dziedziczną wraz z prawem patronatu nad kościołem"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kisielewo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grabiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "1360"
+        },
+        {
+            "place": "Poznań",
+            "date": "1361"
+        },
+        {
+            "place": "Rzym",
+            "date": "1361"
+        },
+        {
+            "place": "Płock",
+            "date": "1372"
+        },
+        {
+            "place": "Praga",
+            "date": "1398"
+        },
+        {
+            "place": "Konstancja",
+            "date": "1414"
+        },
+        {
+            "place": "Rypin",
+            "date": "brak danych"
+        }
+    ]
+}

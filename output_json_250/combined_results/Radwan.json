@@ -1,0 +1,139 @@
+{
+    "name": "Radwan",
+    "psb_id": "PSB-30-0001",
+    "biogram_file": "Radwan.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "biskup poznański",
+        "kanclerz",
+        "scholastyk poznański"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Klasztor cystersów",
+            "institution_place": "Łekno"
+        },
+        {
+            "institution_name": "Biskupstwo poznańskie",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Szpital Św. Michała",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Mieszko Stary",
+            "person_date": "1153",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Zbylut",
+            "person_date": "1153",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Wojciechowski",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Benedykt",
+            "person_date": "1187-1193",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Celestyn III",
+            "person_date": "1193",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Paweł",
+            "person_date": "1218",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Cherubin",
+            "person_date": "1172",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Jan Długosz",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Stefan",
+            "person_date": "1156",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Władysław Semkowicz",
+            "person_date": "1910",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Bernard",
+            "person_date": "1164",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "K. Maleczyński",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Z. Kozłowska-Budkowa",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "G. Sappok",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Jan Nowacki",
+            "person_date": "brak danych",
+            "person_info": "ksiądz, historyk"
+        },
+        {
+            "person_name": "Wincenty Kadłubek",
+            "person_date": "1180",
+            "person_info": "biskup krakowski, historyk"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Poznań",
+            "date": "XII w."
+        },
+        {
+            "place": "Łekno",
+            "date": "1153"
+        },
+        {
+            "place": "Kostrzyn",
+            "date": "brak danych"
+        }
+    ]
+}

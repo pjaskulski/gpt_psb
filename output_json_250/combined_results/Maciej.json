@@ -1,0 +1,73 @@
+{
+    "name": "Maciej",
+    "psb_id": "PSB-19-0007",
+    "biogram_file": "Maciej.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1268",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "notariusz kancelarii księcia wielkopolskiego Bolesława Pobożnego",
+        "mnich klasztoru benedyktynów w Lubiniu",
+        "kanonik kapituły poznańskiej",
+        "kapelan książęcy",
+        "prepozyt",
+        "pracownik kancelarii księcia wielkopolskiego Bolesława Pobożnego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kancelaria księcia wielkopolskiego Bolesława Pobożnego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klasztor Benedyktynów",
+            "institution_place": "Lubin"
+        },
+        {
+            "institution_name": "Kapituła Poznańska",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Bolesław Pobożny",
+            "person_date": "brak danych",
+            "person_info": "książę wielkopolski"
+        },
+        {
+            "person_name": "Przemysł II",
+            "person_date": "brak danych",
+            "person_info": "król Polski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lubin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "1260-1268"
+        }
+    ]
+}

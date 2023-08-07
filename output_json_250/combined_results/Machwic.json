@@ -1,0 +1,280 @@
+{
+    "name": "Otto Machwic",
+    "psb_id": "PSB-19-0003",
+    "biogram_file": "Machwic.txt",
+    "date_of_birth": {
+        "date": "ok. 1420"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1477",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "wojewoda pomorski",
+        "posłowiec Zakonu",
+        "rycerz pasowany",
+        "prokurator Zakonu",
+        "sługa królewski",
+        "poseł w. mistrza",
+        "członek Związku Pruskiego",
+        "dowódca oddziałów zaciężnych",
+        "dowódca powstańców",
+        "dowódca wojsk ziemi chełmińskiej",
+        "dowódca wojsk stanów w Dolnych Prusach",
+        "wojewoda elbląski",
+        "pośrednik w rokowaniach",
+        "starosta Kętrzyna",
+        "starosta pucki",
+        "starosta mirachowski",
+        "starosta generalny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zakon Krzyżacki",
+            "institution_place": "Prusy Krzyżackie"
+        },
+        {
+            "institution_name": "Związek Pruski",
+            "institution_place": "Prusy"
+        },
+        {
+            "institution_name": "Królestwo Polskie",
+            "institution_place": "Polska"
+        },
+        {
+            "institution_name": "Starostwo Puckie",
+            "institution_place": "Puck"
+        },
+        {
+            "institution_name": "Starostwo Mirachowskie",
+            "institution_place": "Mirachowo"
+        },
+        {
+            "institution_name": "Sejm w Piotrkowie",
+            "institution_place": "Piotrków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "brat",
+            "person": "Fryderyk"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Małgorzata"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Marta"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Hektor"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Otto"
+        },
+        {
+            "family_relation": "córka",
+            "person": "nieznana z imienia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1446",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Eryk pomorski",
+            "person_date": "1448",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Gabriel Bażyński",
+            "person_date": "1451",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub z Osieczka",
+            "person_date": "1451",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ścibor Bażyński",
+            "person_date": "1454",
+            "person_info": "naczelny wódz"
+        },
+        {
+            "person_name": "Paweł z Nowej Wsi",
+            "person_date": "1454",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Hieronim Lando",
+            "person_date": "1463",
+            "person_info": "legat papieski"
+        },
+        {
+            "person_name": "Paweł Legendorf",
+            "person_date": "1464",
+            "person_info": "biskup warmiński"
+        },
+        {
+            "person_name": "Mikołaj Tungen",
+            "person_date": "1473",
+            "person_info": "biskup warmiński"
+        },
+        {
+            "person_name": "Eryk II",
+            "person_date": "1474",
+            "person_info": "książę pomorski"
+        },
+        {
+            "person_name": "Jan Kurozwęcki",
+            "person_date": "1476",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ścibor Bażyński",
+            "person_date": "1476",
+            "person_info": "starosta generalny"
+        },
+        {
+            "person_name": "Fabian Legendorf",
+            "person_date": "1478",
+            "person_info": "opiekun dzieci M."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Prusy krzyżackie",
+            "date": "1299"
+        },
+        {
+            "place": "Rastembork (Kętrzyn)",
+            "date": "brak danych"
+        },
+        {
+            "place": "Litwa",
+            "date": "1446"
+        },
+        {
+            "place": "Gotlandia",
+            "date": "1448"
+        },
+        {
+            "place": "Rzym",
+            "date": "1450"
+        },
+        {
+            "place": "Prusy",
+            "date": "1451"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiener Neustadt",
+            "date": "1453"
+        },
+        {
+            "place": "Papowo Biskupie",
+            "date": "1454-02-04"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1454-02-04"
+        },
+        {
+            "place": "Rogoźno",
+            "date": "1454-02-04"
+        },
+        {
+            "place": "Sztum",
+            "date": "1454-02-04"
+        },
+        {
+            "place": "Malbork",
+            "date": "1454-02-04"
+        },
+        {
+            "place": "Prabuty",
+            "date": "1454"
+        },
+        {
+            "place": "Frydląd",
+            "date": "1455-05"
+        },
+        {
+            "place": "Welawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bartoszyce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sępopol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kętrzyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1457-07"
+        },
+        {
+            "place": "Świętomiejsce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brodnicą",
+            "date": "1461"
+        },
+        {
+            "place": "Stegna",
+            "date": "1465"
+        },
+        {
+            "place": "Toruń",
+            "date": "1466-10-19"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1472-03"
+        },
+        {
+            "place": "księstwo słupskie",
+            "date": "1472"
+        },
+        {
+            "place": "Lębork",
+            "date": "1474"
+        },
+        {
+            "place": "Bytów",
+            "date": "1474"
+        }
+    ]
+}

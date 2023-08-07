@@ -1,0 +1,164 @@
+{
+    "name": "Jerzy Andrzej von Rehbinder",
+    "psb_id": "PSB-31-0001",
+    "biogram_file": "Rehbinder.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Inflanty",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "oficer w służbie szwedzkiej",
+        "oficer w służbie polskiej",
+        "oficer w służbie rosyjskiej",
+        "komendant Puszczy Zielonej",
+        "marszałek łomżyński",
+        "oficer armii rosyjskiej",
+        "generał major wojsk rosyjskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wojsko szwedzkie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojsko konfederacji tarnogrodzkiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Służba u Stanisława Leszczyńskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojska Stanisława",
+            "institution_place": "Ostrołęka"
+        },
+        {
+            "institution_name": "Armia rosyjska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1704–9",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Jan Stenflycht",
+            "person_date": "1704–9",
+            "person_info": "oficer w służbie szwedzkiej"
+        },
+        {
+            "person_name": "Kazimierz Rudzieński",
+            "person_date": "1733",
+            "person_info": "kasztelan czerski"
+        },
+        {
+            "person_name": "Jan Zieliński",
+            "person_date": "1733",
+            "person_info": "szlachcic, dowódca podczas ataku na dragonów rosyjskich"
+        },
+        {
+            "person_name": "Stanisław Brzeziński",
+            "person_date": "1734",
+            "person_info": "marszałek łomżyński"
+        },
+        {
+            "person_name": "Stach Konwa",
+            "person_date": "1734–35",
+            "person_info": "bohater walk w Puszczy Zielonej"
+        },
+        {
+            "person_name": "Marian Paszkowski-Lanckoroński",
+            "person_date": "1735",
+            "person_info": "szlachcic, dowódca oddziałów"
+        },
+        {
+            "person_name": "L. von Bismarck",
+            "person_date": "1735",
+            "person_info": "generał rosyjski"
+        },
+        {
+            "person_name": "Franciszek M. Ossoliński",
+            "person_date": "1735",
+            "person_info": "szlachcic, pisarz"
+        },
+        {
+            "person_name": "August III",
+            "person_date": "1735",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "gen. lejtnant Urusow",
+            "person_date": "1735",
+            "person_info": "oficer armii rosyjskiej"
+        },
+        {
+            "person_name": "H. K. Kayserling",
+            "person_date": "1736",
+            "person_info": "ambasador rosyjski"
+        },
+        {
+            "person_name": "Michał Suski",
+            "person_date": "1736",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Adam Zakrzewski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Inflanty",
+            "date": "brak danych"
+        },
+        {
+            "place": "Puszcza Zielona",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zaręby",
+            "date": "1733-12-13"
+        },
+        {
+            "place": "Przasnysz",
+            "date": "1733-12-21"
+        },
+        {
+            "place": "Chorzele",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łomża",
+            "date": "1734-07-19"
+        },
+        {
+            "place": "Kolno",
+            "date": "1735-05-27"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        }
+    ]
+}

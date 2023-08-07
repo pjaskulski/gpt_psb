@@ -1,0 +1,99 @@
+{
+    "name": "Piotr Nagórka",
+    "psb_id": "PSB-26-0335",
+    "biogram_file": "Piotr_Nagorka_z.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1361",
+        "note": "przed 31 XII"
+    },
+    "place_of_death": {
+        "place": "Awinion",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kanonik poznański",
+        "kanonik płocki",
+        "poseł Kazimierza Wielkiego do Awinionu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kuria awiniońska",
+            "institution_place": "Awinion"
+        },
+        {
+            "institution_name": "Kolegiata Św. Piotra",
+            "institution_place": "Kruszwica"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bogusław"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mroczka z Kisielewa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz Wielki",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Imisław Wroński",
+            "person_date": "1359",
+            "person_info": "elekt płocki"
+        },
+        {
+            "person_name": "Innocenty VI",
+            "person_date": "1359",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Jan Jura",
+            "person_date": "1360",
+            "person_info": "posłaniec"
+        },
+        {
+            "person_name": "Jan z Buska",
+            "person_date": "1360",
+            "person_info": "posłaniec"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Grąbc",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kisielewo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Awinion",
+            "date": "1359"
+        },
+        {
+            "place": "Awinion",
+            "date": "1360"
+        },
+        {
+            "place": "Awinion",
+            "date": "1361"
+        }
+    ]
+}

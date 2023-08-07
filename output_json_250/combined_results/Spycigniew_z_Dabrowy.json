@@ -1,0 +1,152 @@
+{
+    "name": "Spycigniew z Dąbrowy Zielonej",
+    "psb_id": "PSB-41-0117",
+    "biogram_file": "Spycigniew_z_Dabrowy.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1257",
+        "note": "między 1255 a 1257"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "wojewoda łęczycki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Księstwo łęczyckie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kasztelania wiślicka",
+            "institution_place": "Małopolska"
+        },
+        {
+            "institution_name": "Kasztelania dobrzyńska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Katedra włocławska",
+            "institution_place": "Włocławek"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "syn",
+            "person": "Kazimierz I"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Zdzisław"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Zawisza"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Spycigniew"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Konrad I",
+            "person_date": "przed 1247",
+            "person_info": "książę mazowiecki"
+        },
+        {
+            "person_name": "Mściwoj",
+            "person_date": "1245–7",
+            "person_info": "bliski współpracownik ks. Konrada"
+        },
+        {
+            "person_name": "Bogusza z Lubania",
+            "person_date": "24 VI 1247",
+            "person_info": "bliski współpracownik ks. Konrada"
+        },
+        {
+            "person_name": "Bolesław Wstydliwy",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Zdzisław",
+            "person_date": "19 VIII 1254",
+            "person_info": "kasztelan włocławski"
+        },
+        {
+            "person_name": "Bogusza z Lubania",
+            "person_date": "16 IX 1257",
+            "person_info": "wojewoda łęczycki"
+        },
+        {
+            "person_name": "Przemysł II",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Leszek Czarny",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Władysław Łokietek",
+            "person_date": "brak danych",
+            "person_info": "król"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dąbrowa Zielona",
+            "date": "przed 1247"
+        },
+        {
+            "place": "Rogaczew",
+            "date": "przed 1247"
+        },
+        {
+            "place": "Maluszyce",
+            "date": "przed 1247"
+        },
+        {
+            "place": "Tarlino",
+            "date": "przed 1247"
+        },
+        {
+            "place": "Krzepczów",
+            "date": "1248"
+        },
+        {
+            "place": "Inowłodz",
+            "date": "1249-12"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "1254-08-19"
+        },
+        {
+            "place": "Sławsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dziarnowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Trzemiętowo",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "name": "Christian Pichgiel starszy",
+    "psb_id": "PSB-26-0026",
+    "biogram_file": "Pichgiel.txt",
+    "date_of_birth": {
+        "date": "1652"
+    },
+    "place_of_birth": {
+        "place": "Lublin"
+    },
+    "date_of_death": {
+        "date": "1700-09-29"
+    },
+    "place_of_death": {
+        "place": "Gdańsk"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Gdańsk",
+        "note": "kaplica cechu złotników w kościele Najśw. Maryi Panny"
+    },
+    "functions": [
+        "złotnik gdański",
+        "starszy cechu",
+        "zastępca starszego cechu",
+        "kierownik warsztatu złotniczego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Warsztaty gdańskich złotników",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Cech złotników",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Muzeum im. Czartoryskich",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Muzeum Narodowe",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Kościół w Starogardzie",
+            "institution_place": "Starogard"
+        },
+        {
+            "institution_name": "Kościół parafialny w Subkowych",
+            "institution_place": "Subkowy"
+        },
+        {
+            "institution_name": "Kościół Św. Brygidy",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Prywatne kolekcje",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Muzeum «Oružejnaja Palata»",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Zbiory barona K. Frankensteina",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Kościół Najśw. Maryi Panny",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Warsztat Pichgiela",
+            "institution_place": "Gdańsk"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "stryj",
+            "person": "Matthias Pichel"
+        },
+        {
+            "family_relation": "kuzyn",
+            "person": "Matthias Pichgiel młodszy"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Christian Pichgiel młodszy"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Barbara Biettin"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Christian Pichgiel"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Johan Pichgiel"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Daniel Pichgiel"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Emanuel Pichgiel"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Matthias Pichel",
+            "person_date": "1665-1671",
+            "person_info": "złotnik"
+        },
+        {
+            "person_name": "Hieronim Edel",
+            "person_date": "1672-1681",
+            "person_info": "złotnik"
+        },
+        {
+            "person_name": "Ephraim Pewes",
+            "person_date": "brak danych",
+            "person_info": "uczeń, późniejszy złotnik"
+        },
+        {
+            "person_name": "Gotfried Baur",
+            "person_date": "brak danych",
+            "person_info": "uczeń, późniejszy złotnik"
+        },
+        {
+            "person_name": "Georg Jantzen",
+            "person_date": "brak danych",
+            "person_info": "uczeń, późniejszy złotnik"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lublin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1665-1681"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Starogard",
+            "date": "brak danych"
+        },
+        {
+            "place": "Subkowy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        }
+    ]
+}

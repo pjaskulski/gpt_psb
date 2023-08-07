@@ -1,0 +1,415 @@
+{
+    "name": "Augustyn Mieleski Rotundus",
+    "psb_id": "PSB-32-0219",
+    "biogram_file": "Rotundus_Mieleski_Augustyn.txt",
+    "date_of_birth": {
+        "date": "1520",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Wieluń"
+    },
+    "date_of_death": {
+        "date": "1582-03-20"
+    },
+    "place_of_death": {
+        "place": "Wilno"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "katedra Św. Jana"
+    },
+    "functions": [
+        "wójt wileński",
+        "prawnik",
+        "pisarz polityczny",
+        "apologeta katolicyzmu",
+        "pisarz w kancelarii kor.",
+        "kleryk z niższymi święceniami",
+        "pomocnik pedagogiczny",
+        "sekretarz królewski",
+        "kanonik w kolegiacie kieleckiej",
+        "starosta Stokliszki",
+        "burmistrz wileński",
+        "tłumacz",
+        "autor kroniki książąt litewskich",
+        "członek Towarzystwa Jezusowego",
+        "członek bractwa św. Anny",
+        "działacz kontrreformacji",
+        "autor broszury De dignitate ordinis ecclesiastici Regni Poloniae"
+    ],
+    "institutions": [
+        {
+            "institution_name": "szkoła kolegiacka",
+            "institution_place": "Wieluń"
+        },
+        {
+            "institution_name": "Akademia Lubrańskiego",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "uniwersytet wittenberski",
+            "institution_place": "Wittenberga"
+        },
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kancelaria królewska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kolegiata kielecka",
+            "institution_place": "Kielce"
+        },
+        {
+            "institution_name": "kancelaria królewska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "sąd wójtowski",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "sejm kor.",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm parczewski",
+            "institution_place": "Parczew"
+        },
+        {
+            "institution_name": "sejm wileński",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "sejm grodzieński",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "sejm lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "kolegium wileńskie",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Towarzystwo Jezusowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Bractwo św. Anny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biblioteka Radziwiłłów",
+            "institution_place": "Nieśwież"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Katedra Św. Jana",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Zofia Montanus"
+        },
+        {
+            "family_relation": "żona",
+            "person": "siostra Waleriana Protasewicza"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Giacomo Montanus"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Walerian Protasewicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Klemens Janicius",
+            "person_date": "1534",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Mączyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Krzycki",
+            "person_date": "1536",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Mikołaj Mieleski",
+            "person_date": "1539",
+            "person_info": "zapewne krewniak"
+        },
+        {
+            "person_name": "Andrzej Bartska",
+            "person_date": "1539",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Benedykt z Koźmina",
+            "person_date": "1540",
+            "person_info": "profesor Uniwersytetu Krakowskiego"
+        },
+        {
+            "person_name": "Szymon Maricjusz z Pilzna",
+            "person_date": "1540",
+            "person_info": "profesor Uniwersytetu Krakowskiego"
+        },
+        {
+            "person_name": "Piotr Roizjusz",
+            "person_date": "1540",
+            "person_info": "profesor Uniwersytetu Krakowskiego"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "1540",
+            "person_info": "pracownik kancelarii królewskiej"
+        },
+        {
+            "person_name": "Marcin Kromer",
+            "person_date": "1540",
+            "person_info": "pracownik kancelarii królewskiej"
+        },
+        {
+            "person_name": "Jan Antonin",
+            "person_date": "1540",
+            "person_info": "lekarz"
+        },
+        {
+            "person_name": "Samuel Maciejowski",
+            "person_date": "1540",
+            "person_info": "podkanclerzy"
+        },
+        {
+            "person_name": "L. Bonamik",
+            "person_date": "1544-1546",
+            "person_info": "wykładowca w Padwie"
+        },
+        {
+            "person_name": "R. Amaseus",
+            "person_date": "1544-1546",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Łukasz Górnicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Zebrzydowski",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jan Hozjusz",
+            "person_date": "1551",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Radziwiłł «Czarny»",
+            "person_date": "1552",
+            "person_info": "wojewoda wileński"
+        },
+        {
+            "person_name": "Łukasz Mundius",
+            "person_date": "1563",
+            "person_info": "burmistrz wileński"
+        },
+        {
+            "person_name": "Ferdynand I",
+            "person_date": "1563",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "G. F. Commendo",
+            "person_date": "1563/4",
+            "person_info": "nuncjusz papieski"
+        },
+        {
+            "person_name": "Stanisław Orzechowski",
+            "person_date": "1565",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Wolan",
+            "person_date": "1565",
+            "person_info": "kalwinista"
+        },
+        {
+            "person_name": "Piotr Kmita z Wiśnicza",
+            "person_date": "brak danych",
+            "person_info": "opiekun Herburtów z linii dobromilskiej"
+        },
+        {
+            "person_name": "Walerian Protasewicz",
+            "person_date": "1567",
+            "person_info": "biskup wileński"
+        },
+        {
+            "person_name": "Jan Chodkiewicz",
+            "person_date": "1567",
+            "person_info": "starosta żmudzki"
+        },
+        {
+            "person_name": "F. Sunyer",
+            "person_date": "1569",
+            "person_info": "wiceprowincjał jezuitów"
+        },
+        {
+            "person_name": "Baltazar Hostounsky",
+            "person_date": "1569",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1571",
+            "person_info": "król"
+        },
+        {
+            "person_name": "A. Wolan",
+            "person_date": "1571",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Walezy",
+            "person_date": "1574",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Melchior Pudłowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Skarga",
+            "person_date": "1573",
+            "person_info": "członek Tow. Jezusowego"
+        },
+        {
+            "person_name": "Hozjusz",
+            "person_date": "1578",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "A. Caligari",
+            "person_date": "1578",
+            "person_info": "nuncjusz papieski"
+        },
+        {
+            "person_name": "Stanisław Karnkowski",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Radziwiłł 'Czarny'",
+            "person_date": "1560",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maciej Stryjkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. F. Rivius",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paweł Kurnicki",
+            "person_date": "brak danych",
+            "person_info": "rajca"
+        },
+        {
+            "person_name": "Giacomo Montanus",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walerian Protasewicz",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wieluń",
+            "date": "ok. 1520"
+        },
+        {
+            "place": "Poznań",
+            "date": "ok. 1534"
+        },
+        {
+            "place": "Wittenberga",
+            "date": "1540"
+        },
+        {
+            "place": "Kraków",
+            "date": "1540"
+        },
+        {
+            "place": "Warta",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "1544-1546"
+        },
+        {
+            "place": "Padwa",
+            "date": "1544-1546"
+        },
+        {
+            "place": "Bolonia",
+            "date": "1544-1546"
+        },
+        {
+            "place": "Ferrara",
+            "date": "1544-1546"
+        },
+        {
+            "place": "Wilno",
+            "date": "1551"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1571"
+        },
+        {
+            "place": "Kraków",
+            "date": "1572"
+        },
+        {
+            "place": "Kraków",
+            "date": "1574"
+        }
+    ]
+}

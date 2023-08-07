@@ -1,0 +1,213 @@
+{
+    "name": "Tomasz Szulc",
+    "psb_id": "PSB-49-0148",
+    "biogram_file": "Szulc_w_zak._Tomasz.txt",
+    "date_of_birth": {
+        "date": "1642",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Lubawa",
+        "note": "ziemia chełmińska"
+    },
+    "date_of_death": {
+        "date": "1705"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dominikanin",
+        "przeor",
+        "pisarz religijny",
+        "lektor teologii",
+        "prezentat teologii",
+        "bakałarz",
+        "magister teologii",
+        "bakałarz studium generalnego",
+        "pierwszy definitor",
+        "wykładowca w szkołach dominikańskich",
+        "kandydat na stanowisko regensa krakowskiego studium generale",
+        "wikariusz kontraty pruskiej",
+        "misjonarz apostolski",
+        "przeor klasztoru w Toruniu",
+        "przeor klasztoru w Gdańsku",
+        "przeor klasztoru w Chełmnie",
+        "przeor klasztoru w Płocku"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zakon Dominikanów",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Konwent św. Mikołaja",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Klasztor w Toruniu",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Klasztor w Opatowcu",
+            "institution_place": "Opatowiec"
+        },
+        {
+            "institution_name": "Kapituła w Płocku",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Kapituła w Lublinie",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Szkoły dominikańskie",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Szkoły dominikańskie",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Szkoły dominikańskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Kościół św. Wojciecha",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Rada prowincji",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Klasztor w Chełmnie",
+            "institution_place": "Chełmno"
+        },
+        {
+            "institution_name": "Kapituła prowincji",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Klasztor w Płocku",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Kontrata pruska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kapituła w Janowie",
+            "institution_place": "Janów"
+        },
+        {
+            "institution_name": "Bractwo różańcowe",
+            "institution_place": "Gdańsk"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "krewny",
+            "person": "Tomasz Jan Szulc-Prątnicki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Tomasz Jan Szulc-Prątnicki",
+            "person_date": "brak danych",
+            "person_info": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski oraz oficjał i wizytator diec. chełmińskiej"
+        },
+        {
+            "person_name": "Kazimierz Jurgiewicz",
+            "person_date": "brak danych",
+            "person_info": "student"
+        },
+        {
+            "person_name": "Tomasz Mdzewski",
+            "person_date": "1690",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Rajmund Kawecki",
+            "person_date": "brak danych",
+            "person_info": "przeor-elekt klasztoru w Chełmnie"
+        },
+        {
+            "person_name": "Piotr Rostkowski",
+            "person_date": "brak danych",
+            "person_info": "opat mogilski i kanonik warmiński"
+        },
+        {
+            "person_name": "Jan Jerzy Kunigk",
+            "person_date": "brak danych",
+            "person_info": "kanonik pułtuski i kustosz kapit. warmińskiej"
+        },
+        {
+            "person_name": "Tomasz Szulc-Prątnicki",
+            "person_date": "brak danych",
+            "person_info": "proboszcz chełmiński i lubawski"
+        },
+        {
+            "person_name": "Wawrzyniec Teleżyński",
+            "person_date": "brak danych",
+            "person_info": "historyk zakonny"
+        },
+        {
+            "person_name": "Franciszek Nowowiejski",
+            "person_date": "brak danych",
+            "person_info": "dominikanin"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lubawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1660, 1676, 1685, 1690"
+        },
+        {
+            "place": "Kraków",
+            "date": "1678, 1683-1685, 1691"
+        },
+        {
+            "place": "Toruń",
+            "date": "1682, 1698"
+        },
+        {
+            "place": "Opatowiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Płock",
+            "date": "1687, 1692"
+        },
+        {
+            "place": "Lublin",
+            "date": "1688"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1690"
+        },
+        {
+            "place": "Chełmno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Janów",
+            "date": "1700"
+        }
+    ]
+}

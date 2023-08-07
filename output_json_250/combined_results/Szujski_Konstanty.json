@@ -1,0 +1,478 @@
+{
+    "name": "Konstanty Jan Szujski",
+    "psb_id": "PSB-49-0109",
+    "biogram_file": "Szujski_Konstanty.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1695",
+        "note": "między 22 a 31 I"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Brześć Litewski",
+        "note": "kościół Bernardynów"
+    },
+    "functions": [
+        "kniążę",
+        "pisarz wielki litewski",
+        "deputat do Trybunału Głównego Litewskiego",
+        "posłowie na sejm",
+        "pisarz ziemski brzeski litewski",
+        "marszałek sejmiku przedsejmowego",
+        "komisarz z Litwy",
+        "pisarz trybunału skarbowego",
+        "posłowie na elekcję",
+        "posłowie na sejm koronacyjny",
+        "marszałek sejmiku",
+        "deputat na sejm",
+        "komisarz do trybunału skarbowego litewskiego",
+        "komisarz Rzeczypospolitej do traktatów z Kozakami",
+        "komisarz do komisji skarbowej",
+        "komisarz do zapłaty wojsku żołdu",
+        "komisarz do rozsądzenia pretensji województwa wołyńskiego i kijowskiego",
+        "pisarz komisji do zapłaty wojsku",
+        "chorąży brzeski litewski",
+        "deputat do ułożenia konstytucji",
+        "deputat do boku króla",
+        "deputat z prowincji litewskiej do sądów sejmowych",
+        "kniaź"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Trybunał Główny Litewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Trybunał Skarbowy",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Mennica Litewska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja do zapłaty wojsku",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Trybunał Skarbowy Litewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja do rozsądzenia pretensji",
+            "institution_place": "Łuck"
+        },
+        {
+            "institution_name": "Komisja do ułożenia konstytucji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja do ułożenia paktów konwentów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja do rozdziału sumy moskiewskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sądy Sejmowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Szujski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Jadwiga z Krzywczyckich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Władysław Aleksander Szujski"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna Szujska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Brzozowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Cecylia z Konopackich"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Ludwika Sapieha"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna z Kopciów"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dominik Szujski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Szujski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dominik Kazimierz Jan Szujski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Apoloniusz Aleksander Szujski"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Ludwika Teresa Szujska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Paula Szujska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Benedykta Szujska"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Maksymilian Brzozowski"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jerzy Konopacki"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jan Fryderyk Sapieha"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jan Karol Kopciński"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Kazimierz Pac"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Aleksander Ogiński"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Aleksander Niemira"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Stefan Ossoliński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stefan Rusiecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Cieciszowski",
+            "person_date": "brak danych",
+            "person_info": "kasztelan liwski"
+        },
+        {
+            "person_name": "Michał Kazimierz Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "wojewoda wileński"
+        },
+        {
+            "person_name": "Andrzej Kotowicz",
+            "person_date": "brak danych",
+            "person_info": "pisarz wielki litewski"
+        },
+        {
+            "person_name": "Piotr Doroszenko",
+            "person_date": "brak danych",
+            "person_info": "Kozak"
+        },
+        {
+            "person_name": "Michał Chanenka",
+            "person_date": "brak danych",
+            "person_info": "hetman kozacki"
+        },
+        {
+            "person_name": "Jerzy Grabiński",
+            "person_date": "brak danych",
+            "person_info": "podkomorzy wendeński"
+        },
+        {
+            "person_name": "Michał Korybut Wiśniowiecki",
+            "person_date": "1669",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Dawid Żębocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Benedykt Paweł Sapieha",
+            "person_date": "brak danych",
+            "person_info": "podskarbi litewski"
+        },
+        {
+            "person_name": "Michał Hoderman",
+            "person_date": "18 VI 1676",
+            "person_info": "nadzorca mennicy bydgoskiej"
+        },
+        {
+            "person_name": "Eliasz Michał Rymwid",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Bogusław Słuszka",
+            "person_date": "brak danych",
+            "person_info": "kasztelan wileński i hetman polny litewski"
+        },
+        {
+            "person_name": "Jan III Sobieski",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Wojciech Szujski",
+            "person_date": "1674",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stefan Szujski",
+            "person_date": "1678",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz Jan Sapieha",
+            "person_date": "1676",
+            "person_info": "wojewoda połocki"
+        },
+        {
+            "person_name": "Jan Fryderyk Sapieha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Karol Kopci",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Karol Stanisław Łużecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Brześć Litewski",
+            "date": "1661-02-02"
+        },
+        {
+            "place": "Merecz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1667"
+        },
+        {
+            "place": "Wilno",
+            "date": "1667-08-25/1667-12-07"
+        },
+        {
+            "place": "Ostróg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kobryń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1676"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "1676"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1677-06-18"
+        },
+        {
+            "place": "Wilno",
+            "date": "1677-07-14"
+        },
+        {
+            "place": "Grodno",
+            "date": "1679-06-25"
+        },
+        {
+            "place": "Łuck",
+            "date": "1685-06-18"
+        },
+        {
+            "place": "Wilno",
+            "date": "1686-02-04/1686-04-03"
+        },
+        {
+            "place": "Grodno",
+            "date": "1689-06-10"
+        },
+        {
+            "place": "Żółkiew",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1691-05-02"
+        },
+        {
+            "place": "Grodno",
+            "date": "1692/1693"
+        },
+        {
+            "place": "Terebuń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Popina",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wólka Popińska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "1668-06-28"
+        },
+        {
+            "place": "Koroszczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łubki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pieszczy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chorostyczy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rakowice",
+            "date": "1691"
+        },
+        {
+            "place": "Łyszczycy",
+            "date": "1691"
+        },
+        {
+            "place": "Siehniewicz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dobrynia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nepel",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hrudkowicz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Radowicze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niedzina",
+            "date": "brak danych"
+        },
+        {
+            "place": "Strzeliczewa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rudna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nowosiółek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jałowskie",
+            "date": "1676-05-10"
+        },
+        {
+            "place": "Zahalskie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jasnohorodkę",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wahanowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Światycze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mohylna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Janów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pińsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "1695-01-22/1695-01-31"
+        }
+    ]
+}

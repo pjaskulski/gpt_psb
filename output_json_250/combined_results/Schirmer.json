@@ -1,0 +1,137 @@
+{
+    "name": "Wawrzyniec Schirmer",
+    "psb_id": "PSB-35-0292",
+    "biogram_file": "Schirmer.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1413",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "wójt lubelski",
+        "handlarz suknem",
+        "wójt sądowy",
+        "właściciel kaplicy św. Zofii na zamku lubelskim",
+        "właściciel sołectwa w Konopnicy",
+        "właściciel folwarku w Brunowicach",
+        "wójt w Gródku",
+        "właściciel domów we Lwowie i Sandomierzu",
+        "pełnomocnik Katarzyny Wierzynkowej",
+        "wójt lubelski (syn Mikołaj)"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wójtostwo Lubelskie",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Sołectwo w Konopnicy",
+            "institution_place": "Konopnica"
+        },
+        {
+            "institution_name": "Folwark w Brunowicach",
+            "institution_place": "Brunowice"
+        },
+        {
+            "institution_name": "Wójtostwo w Gródku",
+            "institution_place": "Gródek"
+        },
+        {
+            "institution_name": "Rada Miejska",
+            "institution_place": "Lublin"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "siostra",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Małgorzata"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Piotr Czech zw. Bogaczem",
+            "person_date": "brak danych",
+            "person_info": "wójt lubelski"
+        },
+        {
+            "person_name": "Piotr Polosmachleb",
+            "person_date": "brak danych",
+            "person_info": "wójt sądowy"
+        },
+        {
+            "person_name": "Jan Falkenberg",
+            "person_date": "1409",
+            "person_info": "mieszczanin krakowski, pełnomocnik Katarzyny Wierzynkowej"
+        },
+        {
+            "person_name": "Jan, syn Leona z Pragi",
+            "person_date": "brak danych",
+            "person_info": "krewny Piotra Czecha zw. Bogaczem"
+        },
+        {
+            "person_name": "Mikołaj Kraft z Pragi",
+            "person_date": "brak danych",
+            "person_info": "krewny Piotra Czecha zw. Bogaczem"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Świdnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "1403"
+        },
+        {
+            "place": "Lwów",
+            "date": "1404, 1406"
+        },
+        {
+            "place": "Konopnica",
+            "date": "1407"
+        },
+        {
+            "place": "Brunowice",
+            "date": "1407"
+        },
+        {
+            "place": "Gródek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1409, 1411"
+        }
+    ]
+}

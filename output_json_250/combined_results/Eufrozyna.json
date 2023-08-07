@@ -1,0 +1,85 @@
+{
+    "name": "Eufrozyna",
+    "psb_id": "PSB-06-0467",
+    "biogram_file": "Eufrozyna.txt",
+    "date_of_birth": {
+        "date": "brak danych",
+        "note": "przed 1229"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1292",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "ks. kujawska",
+        "ks. pomorska",
+        "opiekunka"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Kazimierz, ks. opolski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Kazimierz, ks. kujawski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Władysław Łokietek"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kazimierz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ziemowit"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Mszczuj II, ks. pomorski"
+        }
+    ],
+    "significant_people": [],
+    "places_related_to": [
+        {
+            "place": "Opole",
+            "date": "przed 1229"
+        },
+        {
+            "place": "Kujawy",
+            "date": "1257"
+        },
+        {
+            "place": "Pomorze",
+            "date": "1275"
+        },
+        {
+            "place": "Kępno",
+            "date": "1282"
+        },
+        {
+            "place": "Kujawy",
+            "date": "1288"
+        }
+    ]
+}

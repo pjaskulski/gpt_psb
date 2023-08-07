@@ -1,0 +1,214 @@
+{
+    "name": "Maksymilian Dalbor",
+    "psb_id": "PSB-04-0548",
+    "biogram_file": "Dalbor_Maksymilian.txt",
+    "date_of_birth": {
+        "date": "1839-10-15"
+    },
+    "place_of_birth": {
+        "place": "Poznań"
+    },
+    "date_of_death": {
+        "date": "1923-07-13"
+    },
+    "place_of_death": {
+        "place": "Krotoszyn"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Krotoszyn",
+        "note": "pochowany z honorami wojskowymi"
+    },
+    "functions": [
+        "powstaniec styczniowy",
+        "sybirak",
+        "pracownik kancelaryjny u adwokata",
+        "elew rolniczy",
+        "sierżant strzelców w wojsku pruskim",
+        "partyjant",
+        "więzień Cytadeli warszawskiej",
+        "skazany na ciężkie roboty na Syberii",
+        "przywódca buntu w Akatui",
+        "szeregowiec w korpusie okupacyjnym",
+        "administrator dóbr i lasów prywatnych",
+        "pracownik magistratu lwowskiego",
+        "odznaczony orderem virtuti militari"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Adwokatura",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Wojsko pruskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Cytadela warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Podziemne kopalnie rudy srebra",
+            "institution_place": "Nerczyńsk"
+        },
+        {
+            "institution_name": "Sąd wojenny",
+            "institution_place": "Aleksandrowsk"
+        },
+        {
+            "institution_name": "Twierdza",
+            "institution_place": "Głogów"
+        },
+        {
+            "institution_name": "Korpus okupacyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Leśnicza",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Administracja dóbr i lasów prywatnych",
+            "institution_place": "Podole, Ukraina, powiat zamojski, Galicja"
+        },
+        {
+            "institution_name": "Magistrat",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Emilia z Nowaków z Wieliczki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "hr. Mielżyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "hr. Szembek",
+            "person_date": "brak danych",
+            "person_info": "hrabia"
+        },
+        {
+            "person_name": "Wężyk",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "gen. Edm. Taczanowski",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Paweł Landowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Żychliński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "hr. Włodz. Dzieduszycki",
+            "person_date": "brak danych",
+            "person_info": "hrabia"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Poznań",
+            "date": "1839-10-15"
+        },
+        {
+            "place": "Mirosław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sędziejowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nieznanice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kruszyna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Maciejowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cytadela Warszawska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nerczyńsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Akatui",
+            "date": "brak danych"
+        },
+        {
+            "place": "Aleksandrowsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Toruń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Głogów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Galicja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wola Justowska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Podole",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ukraina",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zamość",
+            "date": "brak danych"
+        }
+    ]
+}

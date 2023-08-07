@@ -1,0 +1,182 @@
+{
+    "name": "Szymon ze Stobnicy",
+    "psb_id": "PSB-50-0150",
+    "biogram_file": "Szymon_ze_Stobnicy.txt",
+    "date_of_birth": {
+        "date": "1372",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Stobnica",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1419",
+        "note": "między 1418 a 1419"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "kanonik poznański",
+        "kanonik krakowski",
+        "kustosz poznański",
+        "dziekan kurzelowski",
+        "rektor kościoła św. Wawrzyńca w Kazimierzu",
+        "kanonik kruszwicki",
+        "oficjał poznański"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kościół św. Wawrzyńca",
+            "institution_place": "Kazimierz koło Krakowa"
+        },
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kapituła poznańska",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Kapituła krakowska",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Piotr z Kurdwanowa"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jakub z Korzkwi"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Florian z Kurdwanowa"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Andrzej"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jakub z Kurdwanowa",
+            "person_date": "między 22 VI 1390 a 18 VI 1393",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bodzęta, syn Jana z Jankowa",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Wysza",
+            "person_date": "3 II 1397",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Andrzej Drozd",
+            "person_date": "4 X t.r.",
+            "person_info": "dziedzic Janowic"
+        },
+        {
+            "person_name": "Jan z Mojczy",
+            "person_date": "6 II 1400",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Strzeszkowica",
+            "person_date": "3 VII 1404",
+            "person_info": "kanonik i oficjał poznański"
+        },
+        {
+            "person_name": "Arnold",
+            "person_date": "brak danych",
+            "person_info": "kanonik poznański"
+        },
+        {
+            "person_name": "Andrzej Łaskarzyca",
+            "person_date": "28 VI 1418",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Marcin z Młodujewa",
+            "person_date": "28 VI 1418",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wojciech Jastrzębiec",
+            "person_date": "brak danych",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Paweł z Czechowa",
+            "person_date": "21 VII 1419",
+            "person_info": "kanonik gnieźnieński i włocławski"
+        },
+        {
+            "person_name": "Tomasz Diako",
+            "person_date": "21 VII 1419",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Stopnica",
+            "date": "1372"
+        },
+        {
+            "place": "Kurzelów",
+            "date": "między 22 VI 1390 a 18 VI 1393"
+        },
+        {
+            "place": "Kazimierz",
+            "date": "między 22 VI 1390 a 18 VI 1393"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "1393"
+        },
+        {
+            "place": "Poznań",
+            "date": "1395"
+        },
+        {
+            "place": "Kraków",
+            "date": "1397"
+        },
+        {
+            "place": "Łuczyce",
+            "date": "1397"
+        },
+        {
+            "place": "Żyrków",
+            "date": "1397"
+        },
+        {
+            "place": "Radolin",
+            "date": "1400"
+        },
+        {
+            "place": "Starczanowo",
+            "date": "1404"
+        },
+        {
+            "place": "Gołuszyce",
+            "date": "1406"
+        }
+    ]
+}

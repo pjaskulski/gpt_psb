@@ -1,0 +1,321 @@
+{
+    "name": "Jan Gładysz",
+    "psb_id": "PSB-08-0141",
+    "biogram_file": "Gladysz_Jan.txt",
+    "date_of_birth": {
+        "date": "1762",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Babimost",
+        "note": "lub Poznań"
+    },
+    "date_of_death": {
+        "date": "1830"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "malarz",
+        "kowal",
+        "portrecista"
+    ],
+    "institutions": [
+        {
+            "institution_name": "kościół NMP na Zdzieżu",
+            "institution_place": "Borek"
+        },
+        {
+            "institution_name": "Muzeum Narodowe",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "galeria Pechwella",
+            "institution_place": "Drezno"
+        },
+        {
+            "institution_name": "muzealne zbiory paryskie",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "gimnazjum",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "zamek",
+            "institution_place": "Kórnik"
+        },
+        {
+            "institution_name": "Muzeum Narodowe",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "kościoły",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "kościół",
+            "institution_place": "Nowe Miasto nad Pilicą"
+        },
+        {
+            "institution_name": "kościół parafialny",
+            "institution_place": "Winna Góra"
+        },
+        {
+            "institution_name": "kościół Bernardynów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "kościół parafialny",
+            "institution_place": "Karnków"
+        },
+        {
+            "institution_name": "Instytut Dobroczynności",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Muzeum Śląskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "katedra Św. Jana",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Państwowa Galeria Obrazów",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Edward Raczyński",
+            "person_date": "1797",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Atanazy Raczyński",
+            "person_date": "1797",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pechwell",
+            "person_date": "1800",
+            "person_info": "inspektor galerii"
+        },
+        {
+            "person_name": "Claude Joseph Vernet",
+            "person_date": "1803",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Antoni Lesznowski",
+            "person_date": "1811",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adelajda Lesznowska",
+            "person_date": "1811",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Edward Raczyński",
+            "person_date": "1809",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Blank",
+            "person_date": "1833",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Albina Gładysz",
+            "person_date": "1836",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "A. Oleszczyński",
+            "person_date": "brak danych",
+            "person_info": "staloryt"
+        },
+        {
+            "person_name": "L. Letronne",
+            "person_date": "1822",
+            "person_info": "litograf"
+        },
+        {
+            "person_name": "Stanisław Staszic",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ester Raczyńska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin Szymanowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Konstancja Dmuszewska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Rozalia Osińska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Teofila Sołtykowa",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Feliks Łubieński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Nakwaski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Wilczewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Karol Woyda",
+            "person_date": "1819",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Elsner",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kasztelan Tymowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna Raczyńska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Oficer rosyjski",
+            "person_date": "1813",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marceli Bacciarelli",
+            "person_date": "1821",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fryderyka Bacciarelli",
+            "person_date": "1821",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fryderyka Bacciarelli",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Napoleon",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz",
+            "person_date": "brak danych",
+            "person_info": "święty"
+        },
+        {
+            "person_name": "Kunegunda",
+            "person_date": "brak danych",
+            "person_info": "święta"
+        },
+        {
+            "person_name": "Stanisław",
+            "person_date": "brak danych",
+            "person_info": "święty"
+        },
+        {
+            "person_name": "Cecylia",
+            "person_date": "brak danych",
+            "person_info": "święta"
+        },
+        {
+            "person_name": "Jadwiga",
+            "person_date": "1824",
+            "person_info": "święta"
+        },
+        {
+            "person_name": "P. Michałowski",
+            "person_date": "1829",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Babimost",
+            "date": "1762"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Borek",
+            "date": "1799"
+        },
+        {
+            "place": "Chobienice",
+            "date": "1797"
+        },
+        {
+            "place": "Drezno",
+            "date": "1800"
+        },
+        {
+            "place": "Francja",
+            "date": "1803"
+        },
+        {
+            "place": "Płock",
+            "date": "1810"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1809-1830"
+        },
+        {
+            "place": "Osiek",
+            "date": "1824"
+        },
+        {
+            "place": "Nowe Miasto nad Pilicą",
+            "date": "1829"
+        }
+    ]
+}

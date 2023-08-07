@@ -1,0 +1,232 @@
+{
+    "name": "Mikołaj Pahl",
+    "psb_id": "PSB-25-0011",
+    "biogram_file": "Pahl_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "1595-04-12"
+    },
+    "place_of_birth": {
+        "place": "Gdańsk"
+    },
+    "date_of_death": {
+        "date": "1649-08-21"
+    },
+    "place_of_death": {
+        "place": "Gdańsk"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "burmistrz Gdańska",
+        "burgrabia królewski w Gdańsku",
+        "ławnik",
+        "rajca",
+        "sędzia",
+        "prezydent",
+        "wiceprezydent",
+        "administrator majątków miejskich",
+        "burgrabia królewski",
+        "inspektor kancelarii i archiwum",
+        "reprezentant miasta na sejmikach pruskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Wittenberga"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Giessen"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Lejda"
+        },
+        {
+            "institution_name": "Rada Miasta",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Urzędy majątków miejskich: Helem, Wyżyny, Mierzeja, Szkarpawa",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Kancelaria i archiwum",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Sejmiki pruskie",
+            "institution_place": "Malbork"
+        },
+        {
+            "institution_name": "Sejmiki pruskie",
+            "institution_place": "Grudziądz"
+        },
+        {
+            "institution_name": "Sejmiki pruskie",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Cesarstwo",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna von Domfsdorff"
+        },
+        {
+            "family_relation": "ojczym",
+            "person": "Konstanty Ferber"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna von Thielen"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Konstanty Pahl"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Konstanty Ferber",
+            "person_date": "brak danych",
+            "person_info": "burmistrz"
+        },
+        {
+            "person_name": "Jan Czirenberg",
+            "person_date": "1637",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ferdynand II",
+            "person_date": "1631",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Anna von Thielen",
+            "person_date": "1625",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gdańsk",
+            "date": "1595-04-12"
+        },
+        {
+            "place": "Toruń",
+            "date": "1611-1615"
+        },
+        {
+            "place": "Lipsk",
+            "date": "1615"
+        },
+        {
+            "place": "Wittenberga",
+            "date": "1615"
+        },
+        {
+            "place": "Giessen",
+            "date": "1616-1618"
+        },
+        {
+            "place": "Lejda",
+            "date": "1618-1620"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niderlandy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1621"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1638"
+        },
+        {
+            "place": "Wilno",
+            "date": "1639"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1640"
+        },
+        {
+            "place": "Helem",
+            "date": "1640-1642"
+        },
+        {
+            "place": "Wyżyny",
+            "date": "1643-1644"
+        },
+        {
+            "place": "Mierzeja",
+            "date": "1645"
+        },
+        {
+            "place": "Szkarpawa",
+            "date": "1645"
+        },
+        {
+            "place": "Malbork",
+            "date": "1637"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1638"
+        },
+        {
+            "place": "Malbork",
+            "date": "1638"
+        },
+        {
+            "place": "Toruń",
+            "date": "1640"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1640"
+        },
+        {
+            "place": "Toruń",
+            "date": "1647"
+        }
+    ]
+}

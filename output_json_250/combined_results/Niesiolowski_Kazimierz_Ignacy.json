@@ -1,0 +1,226 @@
+{
+    "name": "Kazimierz Ignacy Niesiołowski",
+    "psb_id": "PSB-23-0033",
+    "biogram_file": "Niesiolowski_Kazimierz_Ignacy.txt",
+    "date_of_birth": {
+        "date": "ok. 1676",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "po 1752",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan smoleński",
+        "wierszopis",
+        "chorąży petyhorski buławy hetmana Pocieja",
+        "pisarz wojsk skonfederowanych W. Ks. Lit.",
+        "posłowie na sejm z pow. mozyrskiego",
+        "deputat pow. mozyrskiego na Trybunał w Mińsku",
+        "pierwszy komisarz wojskowy",
+        "marszałek konfederacji woj. nowogródzkiego",
+        "konsyliarz prowincji litewskiej",
+        "posłowie starodubowskim na sejm pacyfikacyjny",
+        "deputat do konstytucji",
+        "komisarz w Grodnie",
+        "posłowie z Inflant królewskich na sejm warszawski",
+        "starosta cyryński",
+        "pułkownik husarski znaku królewicza Fryderyka Chrystiana",
+        "senator",
+        "deputat do kalkulacji Skarbu W. Ks. Lit."
+    ],
+    "institutions": [
+        {
+            "institution_name": "Trybunał w Mińsku",
+            "institution_place": "Mińsk"
+        },
+        {
+            "institution_name": "Trybunał Skarbowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "konfederacja Antoniego Ponińskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm pacyfikacyjny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Skarb W. Ks. Lit.",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Samuel Niesiołowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Zofia Mokrska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Teofila de Raess"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Adam Niesiołowski"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Henryk de Raess"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Fryderyk August",
+            "person_date": "1697",
+            "person_info": "elektor saski"
+        },
+        {
+            "person_name": "Adam Sieniawski",
+            "person_date": "brak danych",
+            "person_info": "chorąży"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Poniński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August III",
+            "person_date": "1734",
+            "person_info": "król"
+        },
+        {
+            "person_name": "A. H. de Fleury",
+            "person_date": "brak danych",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Michał Radziwiłł",
+            "person_date": "1737",
+            "person_info": "hetman polny litewski"
+        },
+        {
+            "person_name": "Fryderyk Chrystian",
+            "person_date": "ok. 1736",
+            "person_info": "królewicz"
+        },
+        {
+            "person_name": "L. A. Duperon de Castera",
+            "person_date": "1750",
+            "person_info": "agent francuski"
+        },
+        {
+            "person_name": "Jan Woyno",
+            "person_date": "brak danych",
+            "person_info": "podczaszy nowogrodzki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Pomorze",
+            "date": "brak danych"
+        },
+        {
+            "place": "ziemia przemyska",
+            "date": "1697"
+        },
+        {
+            "place": "Podole",
+            "date": "1698"
+        },
+        {
+            "place": "Brzeżany",
+            "date": "1698"
+        },
+        {
+            "place": "Tarnogród",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brześć",
+            "date": "1716"
+        },
+        {
+            "place": "Krasnystaw",
+            "date": "1716"
+        },
+        {
+            "place": "Mozyrz",
+            "date": "1722"
+        },
+        {
+            "place": "Mińsk",
+            "date": "1724"
+        },
+        {
+            "place": "województwo nowogródzkie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1734"
+        },
+        {
+            "place": "województwo mścisławskie",
+            "date": "1734"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1737"
+        },
+        {
+            "place": "Grodno",
+            "date": "1738"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1738"
+        },
+        {
+            "place": "Smoleńsk",
+            "date": "1738"
+        },
+        {
+            "place": "Pińsk",
+            "date": "1743"
+        },
+        {
+            "place": "Nieśwież",
+            "date": "brak danych"
+        },
+        {
+            "place": "województwo wileńskie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Supraśl",
+            "date": "1783"
+        }
+    ]
+}

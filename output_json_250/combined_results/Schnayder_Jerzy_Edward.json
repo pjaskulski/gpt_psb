@@ -1,0 +1,207 @@
+{
+    "name": "Jerzy Edward Schnayder",
+    "psb_id": "PSB-35-0337",
+    "biogram_file": "Schnayder_Jerzy_Edward.txt",
+    "date_of_birth": {
+        "date": "1891-08-06"
+    },
+    "place_of_birth": {
+        "place": "Krzeszowice",
+        "note": "koło Krakowa"
+    },
+    "date_of_death": {
+        "date": "1974-07-27"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Salwatorski"
+    },
+    "functions": [
+        "filolog klasyczny",
+        "profesor Uniwersytetu Łódzkiego",
+        "profesor Uniwersytetu Wrocławskiego",
+        "prezes Kółka Filologicznego",
+        "nauczyciel w gimnazjum w Jarosławiu",
+        "nauczyciel w I Państwowym Gimnazjum Żeńskim im. Królowej Wandy w Krakowie",
+        "nauczyciel w Gimnazjum im. Bartłomieja Nowodworskiego",
+        "nauczyciel w Prywatnym Gimnazjum Żeńskim im. Heleny Kaplińskiej",
+        "lektor języka greckiego na Uniwersytecie Jagiellońskim",
+        "współpracownik Komisji Filologicznej Polskiej Akademii Umiejętności",
+        "członek ministerialnej komisji oceny podręczników filologii klasycznej",
+        "nauczyciel tajnego nauczania łaciny i greki",
+        "pracownik Polskiego Czerwonego Krzyża w Krakowie",
+        "nauczyciel w polskiej szkole handlowej męskiej",
+        "wykładowca na tajnym uniwersytecie",
+        "kierownik Katedry Filologii Klasycznej Uniwersytetu Łódzkiego",
+        "pracownik naukowy przy Katedrze Latynistyki na Uniwersytecie Wrocławskim",
+        "kierownik studiów eksternistycznych na Wydziale Filologicznym Uniwersytetu Wrocławskiego",
+        "profesor zwyczajny Uniwersytetu Wrocławskiego",
+        "członek Polskiego Towarzystwa Filologicznego",
+        "członek Łódzkiego Towarzystwa Naukowego",
+        "członek Komitetu Nauk o Kulturze Antycznej Polskiej Akademii Nauk"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum św. Jacka",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Filozoficzny Uniwersytetu Jagiellońskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Gimnazjum w Jarosławiu",
+            "institution_place": "Jarosław"
+        },
+        {
+            "institution_name": "I Państwowe Gimnazjum Żeńskie im. Królowej Wandy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Gimnazjum im. Bartłomieja Nowodworskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Prywatne Gimnazjum Żeńskie im. Heleny Kaplińskiej",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet Jagielloński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Komisja Filologiczna Polskiej Akademii Umiejętności",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Polski Czerwony Krzyż",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Polska szkoła handlowa męska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Tajny Uniwersytet",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "I Gimnazjum im. B. Nowodworskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet Łódzki",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Katedra Filologii Klasycznej Uniwersytetu Łódzkiego",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Uniwersytet Wrocławski",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Katedra Latynistyki Uniwersytetu Wrocławskiego",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Filologiczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Łódzkie Towarzystwo Naukowe",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Komitet Nauk o Kulturze Antycznej Polskiej Akademii Nauk",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Edward Schnayder"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Felicja Krzyszkowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Felicja Teresa Kęszycka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Edward Schnayder"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Janina Smorawińska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Leon Sternbach",
+            "person_date": "1918",
+            "person_info": "promotor pracy doktorskiej"
+        },
+        {
+            "person_name": "Gustaw Przychocki",
+            "person_date": "1936/37",
+            "person_info": "profesor, którego zastępował na UJ"
+        },
+        {
+            "person_name": "Daniela Gromska",
+            "person_date": "brak danych",
+            "person_info": "współpracownik przy tłumaczeniu dzieł Teofrasta"
+        },
+        {
+            "person_name": "Felicja Teresa z Kęszyckich",
+            "person_date": "1925",
+            "person_info": "żona, historyczka i pedagog"
+        },
+        {
+            "person_name": "Edward Schnayder",
+            "person_date": "brak danych",
+            "person_info": "syn, geograf, pracownik B. Jag."
+        },
+        {
+            "person_name": "Janina Smorawińska",
+            "person_date": "brak danych",
+            "person_info": "córka, farmaceutka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Krzeszowice",
+            "date": "1891-08-06"
+        },
+        {
+            "place": "Kraków",
+            "date": "1910"
+        },
+        {
+            "place": "Jarosław",
+            "date": "1916-1921"
+        },
+        {
+            "place": "Kraków",
+            "date": "1939-1945"
+        },
+        {
+            "place": "Łódź",
+            "date": "1946-1953"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1953"
+        }
+    ]
+}

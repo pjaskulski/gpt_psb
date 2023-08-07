@@ -1,0 +1,349 @@
+{
+    "name": "Mikołaj Radziejowski",
+    "psb_id": "PSB-30-0041",
+    "biogram_file": "Radziejowski_Mikolaj_h.txt",
+    "date_of_birth": {
+        "date": "1503",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1567"
+    },
+    "place_of_death": {
+        "place": "Radziejowice"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Mszczonów",
+        "note": "kościół w Mszczonowie w kaplicy grobowej przodków"
+    },
+    "functions": [
+        "kasztelan gostyniński",
+        "dworzanin królewski",
+        "ochmistrz dworu królewien Anny i Katarzyny",
+        "poborca cła włocławskiego",
+        "starosta sochaczewski",
+        "dzierżawca królewszczyzn"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dom Wielki na Zamku",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "dwór ks. Albrechta",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "sejmik przedsejmowy sochaczewski",
+            "institution_place": "Sochaczew"
+        },
+        {
+            "institution_name": "sejmik przedsejmowy w Rawie",
+            "institution_place": "Rawa"
+        },
+        {
+            "institution_name": "sejm krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "sejm warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Sejm Piotrkowski",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Kaplica Św. Krzyża",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Karczma",
+            "institution_place": "Mszczonów"
+        },
+        {
+            "institution_name": "Przytułek dla ubogich",
+            "institution_place": "Mszczonów"
+        },
+        {
+            "institution_name": "Kościół",
+            "institution_place": "Mszczonów"
+        },
+        {
+            "institution_name": "Konsystorz Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Grod Warszawski",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Andrzej Radziejowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Małgorzata Kryska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Radziejowski"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Stanisław Radziejowski"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Eufrozyna Działyńska"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Mikołaj Działyński"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Radziejowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał Radziejowski"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Jan Działyński"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Mikołaj Działyński"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Andrzej Radziejowski"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Stanisław Radziejowski"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Mikołaj Maciejowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Lasocki",
+            "person_date": "1525",
+            "person_info": "podkomorzy poznański"
+        },
+        {
+            "person_name": "Albrecht",
+            "person_date": "1531",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Bona",
+            "person_date": "1531",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Krzysztof Szydłowiecki",
+            "person_date": "1531",
+            "person_info": "pan koronny"
+        },
+        {
+            "person_name": "Mikołaj Szydłowiecki",
+            "person_date": "1531",
+            "person_info": "pan koronny"
+        },
+        {
+            "person_name": "Andrzej Tęczyński",
+            "person_date": "1531",
+            "person_info": "pan koronny"
+        },
+        {
+            "person_name": "Jan Tęczyński",
+            "person_date": "1531",
+            "person_info": "pan koronny"
+        },
+        {
+            "person_name": "Piotr Opaliński",
+            "person_date": "1532",
+            "person_info": "poseł do Turcji"
+        },
+        {
+            "person_name": "Jakub Uchański",
+            "person_date": "1547",
+            "person_info": "dziekan płocki, referendarz koronny"
+        },
+        {
+            "person_name": "Kaspar Piotrowski",
+            "person_date": "1562",
+            "person_info": "kanonik warszawski, późniejszy lustrator mazowiecki"
+        },
+        {
+            "person_name": "Krzysztof Stradomski",
+            "person_date": "1562",
+            "person_info": "pisarz grodzki sochaczewski"
+        },
+        {
+            "person_name": "Brykcy Choromański",
+            "person_date": "1564",
+            "person_info": "podstarości"
+        },
+        {
+            "person_name": "Jan Działyński",
+            "person_date": "1564",
+            "person_info": "dworzanin królewski"
+        },
+        {
+            "person_name": "Stanisław Borek",
+            "person_date": "1561",
+            "person_info": "wojski sochaczewski"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Katarzyna Rakuszanka",
+            "person_date": "1553",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Jerzy Jeżewski",
+            "person_date": "1558",
+            "person_info": "kasztelan warszawski"
+        },
+        {
+            "person_name": "Adam Jarzębski",
+            "person_date": "brak danych",
+            "person_info": "autor 'Gościńca'"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1573",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "1575",
+            "person_info": "król"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mszczonów",
+            "date": "1517"
+        },
+        {
+            "place": "Kampinos",
+            "date": "1517"
+        },
+        {
+            "place": "Płońsk",
+            "date": "1517"
+        },
+        {
+            "place": "Kraków",
+            "date": "1517"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1529"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1531"
+        },
+        {
+            "place": "Turcja",
+            "date": "1532"
+        },
+        {
+            "place": "Sochaczew",
+            "date": "1533"
+        },
+        {
+            "place": "Rawie",
+            "date": "1539"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "1550"
+        },
+        {
+            "place": "Włocławek",
+            "date": "1553"
+        },
+        {
+            "place": "Mszczonów",
+            "date": "1554"
+        },
+        {
+            "place": "Guzów",
+            "date": "1565"
+        },
+        {
+            "place": "Ingolstadt",
+            "date": "1561"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kapinos",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "1566"
+        },
+        {
+            "place": "Radziejowice",
+            "date": "1548"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1548"
+        },
+        {
+            "place": "Sochaczew",
+            "date": "1563"
+        },
+        {
+            "place": "Mszczonów",
+            "date": "1563"
+        },
+        {
+            "place": "Nieporęt",
+            "date": "1565"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "name": "Nieustęp",
+    "psb_id": "PSB-23-0045",
+    "biogram_file": "Nieustep.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1278",
+        "note": "prawdopodobnie"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "wojewoda krakowski",
+        "kasztelan sandomierski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kasztelania Sandomierska",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Palacja Krakowska",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Piotr",
+            "person_date": "1270",
+            "person_info": "poprzednik Nieustępa na stanowisku kasztelana sandomierskiego"
+        },
+        {
+            "person_name": "Bolesław Wstydliwy",
+            "person_date": "1273",
+            "person_info": "książę, z którym Nieustęp prawdopodobnie współpracował"
+        },
+        {
+            "person_name": "Paweł z Przemankowa",
+            "person_date": "1273",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Władysław opolski",
+            "person_date": "1273",
+            "person_info": "książę, którego próbowano wprowadzić na tron krakowski"
+        },
+        {
+            "person_name": "Sasin",
+            "person_date": "1278",
+            "person_info": "osoba, która przejęła palację po Nieustępie"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Sandomierz",
+            "date": "1271-05-08"
+        },
+        {
+            "place": "Kraków",
+            "date": "1274-05-08"
+        }
+    ]
+}

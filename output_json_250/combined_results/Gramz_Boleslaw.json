@@ -1,0 +1,141 @@
+{
+    "name": "Bolesław Gramz",
+    "psb_id": "PSB-08-0748",
+    "biogram_file": "Gramz_Boleslaw.txt",
+    "date_of_birth": {
+        "date": "1904-04-04"
+    },
+    "place_of_birth": {
+        "place": "Kubliczew",
+        "note": "gubernia witebska"
+    },
+    "date_of_death": {
+        "date": "1943-06-07"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kapelan W.P.",
+        "proboszcz w Idołcie k. Drui",
+        "wikariusz w Grodnie, Oszmianie i Wilnie",
+        "stypendysta Funduszu Kultury Narodowej",
+        "prefekt w Święcianach",
+        "wikariusz w Białymstoku i w Wilnie",
+        "kapelan 6. pułku piechoty I. Dywizji",
+        "kapelan i sanitariusz w obozie niemieckim",
+        "tajny kapelan wojskowy",
+        "pracownik tajnej prasy polskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum Św. Katarzyny",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Seminarium Duchowne",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Wydział Teologiczny Uniwersytetu Stefana Batorego",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Fundusz Kultury Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "6. pułk piechoty I. Dywizji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "tajna prasa polska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "kościół w Idołcie",
+            "institution_place": "Idołta"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bolesław"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Adela Erdman"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "1925–31",
+            "person_info": "Uniw. Stefana Batorego"
+        },
+        {
+            "person_name": "brak danych",
+            "person_date": "1934–6",
+            "person_info": "Fundusz Kultury Narodowej"
+        },
+        {
+            "person_name": "brak danych",
+            "person_date": "1939",
+            "person_info": "6. pułk piechoty I. Dywizji"
+        },
+        {
+            "person_name": "brak danych",
+            "person_date": "brak danych",
+            "person_info": "gestapo"
+        },
+        {
+            "person_name": "brak danych",
+            "person_date": "1943",
+            "person_info": "«własowców»"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kubliczew",
+            "date": "1904-04-04"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grodno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oszmiana",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "1934-1936"
+        },
+        {
+            "place": "Święciany",
+            "date": "brak danych"
+        },
+        {
+            "place": "Białystok",
+            "date": "brak danych"
+        },
+        {
+            "place": "Idołta",
+            "date": "brak danych"
+        }
+    ]
+}

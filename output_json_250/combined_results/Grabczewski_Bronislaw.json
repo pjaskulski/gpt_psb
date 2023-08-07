@@ -1,0 +1,362 @@
+{
+    "name": "Bronisław Grąbczewski",
+    "psb_id": "PSB-08-0774",
+    "biogram_file": "Grabczewski_Bronislaw.txt",
+    "date_of_birth": {
+        "date": "1855-01-15"
+    },
+    "place_of_birth": {
+        "place": "Kownatowo",
+        "note": "powiat telszewski, Litwa"
+    },
+    "date_of_death": {
+        "date": "1926-02-27"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "podróżnik",
+        "generał lejtnant wojsk rosyjskich",
+        "adiutant gen. Skobelewa",
+        "adiutant gen. Witgensteina",
+        "pomocnik naczelnika powiatu margelańskiego",
+        "urzędnik do szczególnych poruczeń przy gubernatorze Fergany",
+        "naczelnik powiatu w Oszu",
+        "generalny konsul rosyjski w Kaszgarze",
+        "komisarz pogranicznego nadamurski",
+        "generalny komisarz Kuantungu",
+        "gubernator astrachański",
+        "hetman wojsk kozackich",
+        "naczelnik zarządu cywilnego kolei wschodnio-chińskiej w Charbinie",
+        "przedstawiciel Rosyjskiego Czerwonego Krzyża w Hiszpanii",
+        "emerytowany generał",
+        "naczelnik Państw. Instytutu Meteorologicznego",
+        "członek Pol. Tow. Geograficznego",
+        "skarbnik Pol. Tow. Geograficznego",
+        "członek korespondent Pol. Tow. Geograficznego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "IV Gimnazjum",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Instytut Górniczy",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "14. turkiestański batalion liniowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rosyjskie Towarzystwo Geograficzne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Państwowy Instytut Meteorologiczny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Geograficzne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojsko Rosyjskie",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Ludwik Grąbczewski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Aleksander Jonin",
+            "person_date": "brak danych",
+            "person_info": "dyplomata rosyjski"
+        },
+        {
+            "person_name": "gen. Skobelew",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "gen. Witgenstein",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Jakub bek",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander III",
+            "person_date": "1888",
+            "person_info": "Cesarz Rosji"
+        },
+        {
+            "person_name": "Abdurrachman",
+            "person_date": "1888",
+            "person_info": "emir Afganistanu"
+        },
+        {
+            "person_name": "Ischak chan",
+            "person_date": "1888",
+            "person_info": "pretendent do tronu Afganistanu"
+        },
+        {
+            "person_name": "Younghusband",
+            "person_date": "brak danych",
+            "person_info": "kapitan, późniejszy generał"
+        },
+        {
+            "person_name": "Karol Bohdanowicz",
+            "person_date": "brak danych",
+            "person_info": "podróżnik, geolog"
+        },
+        {
+            "person_name": "M. Przewalski",
+            "person_date": "brak danych",
+            "person_info": "podróżnik"
+        },
+        {
+            "person_name": "Aleksiejew",
+            "person_date": "1903",
+            "person_info": "admirał, namiestnik Dalekiego Wschodu"
+        },
+        {
+            "person_name": "Stołypin",
+            "person_date": "1906",
+            "person_info": "prezes ministrów"
+        },
+        {
+            "person_name": "gen. Denikin",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "admiral Kołczak",
+            "person_date": "brak danych",
+            "person_info": "admiral"
+        },
+        {
+            "person_name": "Włodzimierz Spasowicz",
+            "person_date": "1891",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Chłapowski",
+            "person_date": "1891",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kownatowo",
+            "date": "1855-01-15"
+        },
+        {
+            "place": "Krepsztach",
+            "date": "brak danych"
+        },
+        {
+            "place": "Syberia",
+            "date": "1863"
+        },
+        {
+            "place": "Kongresówka",
+            "date": "1868"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ameryka Południowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Azja Środkowa",
+            "date": "1875"
+        },
+        {
+            "place": "Ałajskie",
+            "date": "1877"
+        },
+        {
+            "place": "Samarkand",
+            "date": "1878"
+        },
+        {
+            "place": "Margelan",
+            "date": "1880"
+        },
+        {
+            "place": "Fergana",
+            "date": "1885"
+        },
+        {
+            "place": "Tian-szan",
+            "date": "1885"
+        },
+        {
+            "place": "Kaszgaria",
+            "date": "1885"
+        },
+        {
+            "place": "Jangihisar",
+            "date": "1885"
+        },
+        {
+            "place": "Jarkend",
+            "date": "1885"
+        },
+        {
+            "place": "Guma",
+            "date": "1885"
+        },
+        {
+            "place": "Chotan",
+            "date": "1885"
+        },
+        {
+            "place": "Takla Makan",
+            "date": "1885"
+        },
+        {
+            "place": "Afganistan",
+            "date": "1888"
+        },
+        {
+            "place": "Baltit",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hindukusz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Indus",
+            "date": "brak danych"
+        },
+        {
+            "place": "Raskem Daria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pamir",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czarkum",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kafiristan",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tybet",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ladak",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kilian",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polu",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tiznaf",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jarkend-Daria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Osz",
+            "date": "1890"
+        },
+        {
+            "place": "Gulcza",
+            "date": "1893"
+        },
+        {
+            "place": "Kaszgar",
+            "date": "1893"
+        },
+        {
+            "place": "Tałdik",
+            "date": "1893"
+        },
+        {
+            "place": "Kuantung",
+            "date": "1900"
+        },
+        {
+            "place": "Port Artur",
+            "date": "1903"
+        },
+        {
+            "place": "Astrachań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hiszpania",
+            "date": "brak danych"
+        },
+        {
+            "place": "Charbin",
+            "date": "1907"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1910"
+        },
+        {
+            "place": "Anapa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Suez",
+            "date": "brak danych"
+        },
+        {
+            "place": "Colombo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Japonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "1920"
+        },
+        {
+            "place": "Polska",
+            "date": "1920"
+        }
+    ]
+}

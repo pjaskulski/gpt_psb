@@ -1,0 +1,172 @@
+{
+    "name": "Stanisław Lesikowski",
+    "psb_id": "PSB-17-0089",
+    "biogram_file": "Lesikowski_Stanislaw.txt",
+    "date_of_birth": {
+        "date": "1906-01-21"
+    },
+    "place_of_birth": {
+        "place": "Tuchola"
+    },
+    "date_of_death": {
+        "date": "1944-07-15"
+    },
+    "place_of_death": {
+        "place": "Stutthof"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kapitan",
+        "działacz Armii Krajowej",
+        "więzień Stutthofu",
+        "student Seminarium Nauczycielskiego w Tucholi",
+        "student kursów artystyczno-malarskich w Bydgoszczy",
+        "podporucznik w 66 p. piechoty w Grudziądzu",
+        "pracownik poczty",
+        "konwojent optyczny w Kościerzynie",
+        "właściciel gabinetu optycznego w Gdyni",
+        "malarz",
+        "pracownik warsztatów kolejowych",
+        "szef Inspektoratu AK «Hurtownia»",
+        "organizator komórki konspiracyjnej dla celów wywiadu i dywersji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Seminarium Nauczycielskie",
+            "institution_place": "Tuchola"
+        },
+        {
+            "institution_name": "66 p. piechoty",
+            "institution_place": "Grudziądz"
+        },
+        {
+            "institution_name": "Poczta",
+            "institution_place": "Kościerzyna"
+        },
+        {
+            "institution_name": "Kursy artystyczno-malarskie",
+            "institution_place": "Bydgoszcz"
+        },
+        {
+            "institution_name": "Kurs optyczny",
+            "institution_place": "Radogoszcz"
+        },
+        {
+            "institution_name": "Gabinet optyczny",
+            "institution_place": "Gdynia"
+        },
+        {
+            "institution_name": "Armia Krajowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Warsztaty kolejowe",
+            "institution_place": "Kościerzyna"
+        },
+        {
+            "institution_name": "Inspektorat AK «Hurtownia»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Grupa «Szyszek»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "«Wojskowa Służba Kobiet»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Więzienie gdańskie",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Obóz koncentracyjny Stutthof",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Franciszek Lesikowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Władysława Głomska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Stefania Szefler"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Teresa Lesikowska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Bernadetta Lesikowska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Szalewski",
+            "person_date": "brak danych",
+            "person_info": "kapitan, lider grupy 'Szyszek'"
+        },
+        {
+            "person_name": "Adolf Hitler",
+            "person_date": "1942",
+            "person_info": "dyktator Niemiec, cel nieudanego zamachu"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Tuchola",
+            "date": "1906-01-21"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kościerzyna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Radogoszcz",
+            "date": "1932"
+        },
+        {
+            "place": "Gdynia",
+            "date": "1938"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1940"
+        },
+        {
+            "place": "Chojnice",
+            "date": "1942"
+        },
+        {
+            "place": "Tczew",
+            "date": "1942"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1944-04-18"
+        },
+        {
+            "place": "Stutthof",
+            "date": "1944"
+        }
+    ]
+}

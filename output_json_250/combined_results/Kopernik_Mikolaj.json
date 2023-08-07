@@ -1,0 +1,1196 @@
+{
+    "name": "Mikołaj Kopernik",
+    "psb_id": "PSB-14-0003",
+    "biogram_file": "Kopernik_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "1473-02-19"
+    },
+    "place_of_birth": {
+        "place": "Toruń"
+    },
+    "date_of_death": {
+        "date": "1543"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "astronom",
+        "ekonomista",
+        "lekarz",
+        "humanista",
+        "kanonik warmiński",
+        "kanonik włocławski",
+        "scholaster św. Krzyża we Wrocławiu",
+        "doktor prawa kanonicznego",
+        "Professor Mathematum",
+        "sekretarz",
+        "powiernik",
+        "lekarz przyboczny",
+        "magister pistoriae",
+        "kanclerz",
+        "wizytator dóbr kapitulnych",
+        "administrator dóbr wspólnych kapituły warmińskiej",
+        "komisarz Warmii",
+        "generalny administrator diecezji warmińskiej",
+        "delegat kapituły",
+        "kartograf",
+        "lekarz biskupów warmińskich",
+        "lekarz konfratrów w kapitule",
+        "lekarz w Elblągu",
+        "lekarz w Gdańsku",
+        "lekarz w Lubawie",
+        "lekarz w Królewcu",
+        "lekarz dla ludności Warmii",
+        "lekarz dla ubogich chorych we wsiach kapitulnych",
+        "collector aniversariorum, mortuarius",
+        "assistentia munitionis",
+        "przełożony kasy budowlanej (fabrica ecclesiae)",
+        "pełnomocnik kapituły",
+        "scholasteria św. Krzyża we Wrocławiu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Muzeum M. Kopernika",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "biskupstwo wrocławskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Zakon św. Dominika",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "klasztor benedyktynek",
+            "institution_place": "Chełmno"
+        },
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kapituła warmińska",
+            "institution_place": "Frombork"
+        },
+        {
+            "institution_name": "Uniwersytet Jurystów",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Uniwersytet Boloński",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Kuria Papieska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Uniwersytet Padewski",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Uniwersytet w Ferrarze",
+            "institution_place": "Ferrara"
+        },
+        {
+            "institution_name": "Kapituła Warmińska",
+            "institution_place": "Warmia"
+        },
+        {
+            "institution_name": "Rada Prus Królewskich",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Zamek Lidzbarski",
+            "institution_place": "Lidzbark Warmiński"
+        },
+        {
+            "institution_name": "Oficyna J. Hallera",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kapituła warmińska",
+            "institution_place": "Frombork"
+        },
+        {
+            "institution_name": "Zamek w Olsztynie",
+            "institution_place": "Olsztyn"
+        },
+        {
+            "institution_name": "Stanów Prus Królewskich",
+            "institution_place": "Grudziądz"
+        },
+        {
+            "institution_name": "Mennica krzyżacka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zakon",
+            "institution_place": "Elbląg"
+        },
+        {
+            "institution_name": "Kapituła",
+            "institution_place": "Grudziądz"
+        },
+        {
+            "institution_name": "Rada Stanów Pruskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Mennica",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór bpa Maurycego Ferbera",
+            "institution_place": "Lidzbark"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Dwór ks. Albrechta Pruskiego",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Kapituła Warmińska",
+            "institution_place": "Frombork"
+        },
+        {
+            "institution_name": "Gimnazjum Elbląskie",
+            "institution_place": "Elbląg"
+        },
+        {
+            "institution_name": "Dwór Książęcy",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Uniwersytet w Wittenberdze",
+            "institution_place": "Wittenberga"
+        },
+        {
+            "institution_name": "Oficyna F. Rhodego",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Uniwersytet w Bazylei",
+            "institution_place": "Bazylea"
+        },
+        {
+            "institution_name": "Drukarnia J. Luffta",
+            "institution_place": "Wittenberga"
+        },
+        {
+            "institution_name": "Drukarnia Jana Petreiusa",
+            "institution_place": "Norymberga"
+        },
+        {
+            "institution_name": "Oficyna J. Petreiusa",
+            "institution_place": "Norymberga"
+        },
+        {
+            "institution_name": "Biblioteka Biskupia",
+            "institution_place": "Lidzbark"
+        },
+        {
+            "institution_name": "Katedra Fromborska",
+            "institution_place": "Frombork"
+        },
+        {
+            "institution_name": "Św. Inkwizycja",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet w Groningen",
+            "institution_place": "Groningen"
+        },
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Nostitzów",
+            "institution_place": "Praga"
+        },
+        {
+            "institution_name": "Biblioteka Jagiellońska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Czartoryskich",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Uniwersytecka",
+            "institution_place": "Upsala"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mikołaj Kopernik (starszy)"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Barbara z Watzenrodów"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Andrzej Kopernik"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Barbara Kopernik"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Katarzyna Kopernik"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Tiedeman von Allen"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jan Loitsch"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Jan Loitsch"
+        },
+        {
+            "family_relation": "siostrzenica",
+            "person": "Krystyna Gertnerówna"
+        },
+        {
+            "family_relation": "siostrzenica",
+            "person": "Regina Mollerowa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "1454",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Jakub Godziemba",
+            "person_date": "1469",
+            "person_info": "prowincjał polskiej prowincji dominikanów i uczestnik przygotowań Związku Pruskiego"
+        },
+        {
+            "person_name": "Łukasz Watzenrode",
+            "person_date": "brak danych",
+            "person_info": "bogaty patrycjusz i ławnik m. Torunia"
+        },
+        {
+            "person_name": "Wojciech z Brudzewa",
+            "person_date": "1491",
+            "person_info": "profesor filozofii arystotelesowskiej"
+        },
+        {
+            "person_name": "Bernard z Biskupiego",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Wojciech Krypa",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Jan z Głogowa",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Michał z Wrocławia",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Wojciech z Pniew",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Marcin z Olkusza",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Łukasz Watzenrode",
+            "person_date": "1495",
+            "person_info": "biskup warmiński"
+        },
+        {
+            "person_name": "Jan Czanow",
+            "person_date": "1495",
+            "person_info": "kanonik warmiński"
+        },
+        {
+            "person_name": "Jerzy Pranghe",
+            "person_date": "1496",
+            "person_info": "kanclerz kapituły"
+        },
+        {
+            "person_name": "Dominik Maria Novara",
+            "person_date": "1496-1501",
+            "person_info": "astronom i astrolog boloński"
+        },
+        {
+            "person_name": "Filip Beroald",
+            "person_date": "1496-1501",
+            "person_info": "uczony"
+        },
+        {
+            "person_name": "Antoni Urceo Codro",
+            "person_date": "1496-1501",
+            "person_info": "uczony"
+        },
+        {
+            "person_name": "Giovanni Garzoni",
+            "person_date": "1496-1501",
+            "person_info": "uczony"
+        },
+        {
+            "person_name": "Aleksander Achillini",
+            "person_date": "1496-1501",
+            "person_info": "uczony"
+        },
+        {
+            "person_name": "Jan Benedykt Solfa",
+            "person_date": "1538",
+            "person_info": "kandydat na scholasterię wrocławską"
+        },
+        {
+            "person_name": "Jan Tressler",
+            "person_date": "1538",
+            "person_info": "doktor, kandydat na scholasterię wrocławską"
+        },
+        {
+            "person_name": "B. Montagnana",
+            "person_date": "1501-1503",
+            "person_info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim"
+        },
+        {
+            "person_name": "H. Fracastoro",
+            "person_date": "1501-1503",
+            "person_info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim"
+        },
+        {
+            "person_name": "G. Zerbi",
+            "person_date": "1501-1503",
+            "person_info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim"
+        },
+        {
+            "person_name": "A. Benedetti",
+            "person_date": "1501-1503",
+            "person_info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim"
+        },
+        {
+            "person_name": "B. Sculteti",
+            "person_date": "1501",
+            "person_info": "kanonik"
+        },
+        {
+            "person_name": "Aleksander Jagiellończyk",
+            "person_date": "1504",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wawrzyniec Korwin",
+            "person_date": "1509",
+            "person_info": "śląski humanista i pisarz miejski Torunia"
+        },
+        {
+            "person_name": "Jan Dantyszka",
+            "person_date": "1512",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tycho Brahe",
+            "person_date": "brak danych",
+            "person_info": "astronom"
+        },
+        {
+            "person_name": "Łukasz Watzenrode",
+            "person_date": "1512",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Fabian Luzjański",
+            "person_date": "1512",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Paweł z Middelburga",
+            "person_date": "1513",
+            "person_info": "biskup Fossombrone"
+        },
+        {
+            "person_name": "Albrecht",
+            "person_date": "1519/20",
+            "person_info": "wielki mistrz Zakonu Krzyżackiego"
+        },
+        {
+            "person_name": "Jan Sculteti",
+            "person_date": "1519/20",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Johannes Werner",
+            "person_date": "brak danych",
+            "person_info": "matematyk, astronom, geograf, kartograf, duchowny katolicki"
+        },
+        {
+            "person_name": "Fabian Luzjański",
+            "person_date": "1523",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Maurycy Ferber",
+            "person_date": "1523",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Bernard Wapowski",
+            "person_date": "1524",
+            "person_info": "kanonik krakowski i sekretarz królewski"
+        },
+        {
+            "person_name": "Jan Werner",
+            "person_date": "1524",
+            "person_info": "astronom z Norymbergi"
+        },
+        {
+            "person_name": "Zygmunt Herberstein",
+            "person_date": "1535",
+            "person_info": "dyplomata i poseł cesarski"
+        },
+        {
+            "person_name": "Achacy Freundt",
+            "person_date": "1532",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Albrecht Pruski",
+            "person_date": "1541",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Jerzy von Kunheim",
+            "person_date": "1541",
+            "person_info": "doradca książęcy"
+        },
+        {
+            "person_name": "Łukasz Watzenrode",
+            "person_date": "brak danych",
+            "person_info": "biskup warmiński"
+        },
+        {
+            "person_name": "Jan Dantyszka",
+            "person_date": "brak danych",
+            "person_info": "biskup warmiński"
+        },
+        {
+            "person_name": "F. Reich",
+            "person_date": "brak danych",
+            "person_info": "konfrater w kapitule"
+        },
+        {
+            "person_name": "T. Giese",
+            "person_date": "brak danych",
+            "person_info": "konfrater w kapitule"
+        },
+        {
+            "person_name": "A. Sculteti",
+            "person_date": "brak danych",
+            "person_info": "konfrater w kapitule"
+        },
+        {
+            "person_name": "J. Zimmerman",
+            "person_date": "brak danych",
+            "person_info": "konfrater w kapitule"
+        },
+        {
+            "person_name": "Jan Benedykt Solfa",
+            "person_date": "brak danych",
+            "person_info": "lekarz nadworny Zygmunta I"
+        },
+        {
+            "person_name": "Wawrzyniec Wille",
+            "person_date": "brak danych",
+            "person_info": "nadworny medyk ks. Albrechta Pruskiego"
+        },
+        {
+            "person_name": "Jan Tressler",
+            "person_date": "brak danych",
+            "person_info": "kanonik wrocławski"
+        },
+        {
+            "person_name": "Bernard Wapowski",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Tiedeman Giese",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Aleksander Sculteti",
+            "person_date": "1527",
+            "person_info": "kanonik"
+        },
+        {
+            "person_name": "Jan Albert Widmanstadt",
+            "person_date": "brak danych",
+            "person_info": "znany orientalista"
+        },
+        {
+            "person_name": "Klemens VII",
+            "person_date": "brak danych",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Mikołaj Schonberg",
+            "person_date": "1536",
+            "person_info": "kardynał Capui"
+        },
+        {
+            "person_name": "Dietrich von Reden",
+            "person_date": "brak danych",
+            "person_info": "kanonik kapituły warmińskiej"
+        },
+        {
+            "person_name": "Wilhelm Gnapheus",
+            "person_date": "1536",
+            "person_info": "holenderski humanista, późniejszy rektor gimnazjum elbląskiego"
+        },
+        {
+            "person_name": "Jan Dantyszek",
+            "person_date": "1537",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Anna Schilling",
+            "person_date": "1539",
+            "person_info": "gospodyni domu K-a"
+        },
+        {
+            "person_name": "Paweł Płotowski",
+            "person_date": "brak danych",
+            "person_info": "proboszcz kapituły"
+        },
+        {
+            "person_name": "Jerzy Joachim von Lauchen de Porris",
+            "person_date": "1539",
+            "person_info": "profesor astronomii Uniwersytetu w Wittenberdze"
+        },
+        {
+            "person_name": "Jan Schoner",
+            "person_date": "1540",
+            "person_info": "astronom i matematyk norymberski"
+        },
+        {
+            "person_name": "A. Aurifaber",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Gassarus",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Albrecht Pruski",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "F. Melanchton",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Osiander",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Petreius",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "C. D. Scepperus",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "R. G. Frisięs",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. Reinhold",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. J. Retyk",
+            "person_date": "1540",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Giese",
+            "person_date": "1540",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Loitsch",
+            "person_date": "1542",
+            "person_info": "kleryk diecezji chełmińskiej"
+        },
+        {
+            "person_name": "J. Donner",
+            "person_date": "1543",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. Emerich",
+            "person_date": "1543",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Trenk",
+            "person_date": "1543",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Niederhoff",
+            "person_date": "1543",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Giese",
+            "person_date": "1543",
+            "person_info": "bp chełmiński"
+        },
+        {
+            "person_name": "Galileusz",
+            "person_date": "XVI/XVII w.",
+            "person_info": "badacz"
+        },
+        {
+            "person_name": "Kepler",
+            "person_date": "XVI/XVII w.",
+            "person_info": "badacz"
+        },
+        {
+            "person_name": "M. Luter",
+            "person_date": "1539",
+            "person_info": "protestancki reformator"
+        },
+        {
+            "person_name": "F. Melanchton",
+            "person_date": "brak danych",
+            "person_info": "reformator religijny"
+        },
+        {
+            "person_name": "B. Baldi",
+            "person_date": "1580-1600",
+            "person_info": "włoski astronom i matematyk"
+        },
+        {
+            "person_name": "M. Adam",
+            "person_date": "1615",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Müller",
+            "person_date": "1617",
+            "person_info": "profesor uniwersytetu w Groningen"
+        },
+        {
+            "person_name": "P. Gassendi",
+            "person_date": "1654",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Sz. Starowolski",
+            "person_date": "1627",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Brożek",
+            "person_date": "1613",
+            "person_info": "profesor Uniwersytetu Krakowskiego"
+        },
+        {
+            "person_name": "M. Radymiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. K. Lichtenberg",
+            "person_date": "1800",
+            "person_info": "profesor uniwersytetu w Getyndze"
+        },
+        {
+            "person_name": "Jan Śniadecki",
+            "person_date": "1802",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Warschauer",
+            "person_date": "1917",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. Barycz",
+            "person_date": "1953",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Baranowski",
+            "person_date": "1854",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Curtze",
+            "person_date": "1873",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Prowe",
+            "person_date": "1873",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Dmochowski",
+            "person_date": "1924",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. Rauschning",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Zeller",
+            "person_date": "1943",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. A. Birkenmajer",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Wasiętyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. Schmauch",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. H. Burmeister",
+            "person_date": "1967",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Stimmer",
+            "person_date": "1574",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Z. Batowski",
+            "person_date": "1933",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. Schwarz",
+            "person_date": "1934",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. Zinner",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Wallis",
+            "person_date": "1966",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Thorwaldsen",
+            "person_date": "1830",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Gadomski",
+            "person_date": "1872",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Godebski",
+            "person_date": "1899",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "J. Matejko",
+            "person_date": "1873",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "W. Szymanowski",
+            "person_date": "1855",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Szujski",
+            "person_date": "1873",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "W. Rapacki",
+            "person_date": "1876",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Nowaczyński",
+            "person_date": "1937",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Broszkiewicz",
+            "person_date": "1962",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. H. Morstin",
+            "person_date": "1929",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Smolarski",
+            "person_date": "1954",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. Brachvogel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Cichowicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Pagaczewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Przypkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. Rybka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Witkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. Baranowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Toruń",
+            "date": "1473-02-19"
+        },
+        {
+            "place": "Nysa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Otmuchów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ząbkowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zgorzelec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1367"
+        },
+        {
+            "place": "Lwów",
+            "date": "1439"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1448"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "1469"
+        },
+        {
+            "place": "Sławkowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1453"
+        },
+        {
+            "place": "Łasin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Malbork",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chełmno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włocławek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Frombork",
+            "date": "1507"
+        },
+        {
+            "place": "Rzym",
+            "date": "1501-1519"
+        },
+        {
+            "place": "Bolonia",
+            "date": "1498-1501"
+        },
+        {
+            "place": "Padwa",
+            "date": "1503-01-10"
+        },
+        {
+            "place": "Bolonia",
+            "date": "1496-1501"
+        },
+        {
+            "place": "Rzym",
+            "date": "1500"
+        },
+        {
+            "place": "Warmia",
+            "date": "1501"
+        },
+        {
+            "place": "Padwa",
+            "date": "1501-1503"
+        },
+        {
+            "place": "Ferrara",
+            "date": "1503-05-31"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Toruń",
+            "date": "1504"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1504"
+        },
+        {
+            "place": "Malbork",
+            "date": "1506"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1507"
+        },
+        {
+            "place": "Sztum",
+            "date": "1512"
+        },
+        {
+            "place": "Poznań",
+            "date": "1510"
+        },
+        {
+            "place": "Kraków",
+            "date": "1507"
+        },
+        {
+            "place": "Lidzbark",
+            "date": "brak danych"
+        },
+        {
+            "place": "Frombork",
+            "date": "1512"
+        },
+        {
+            "place": "Olsztyn",
+            "date": "1516-1541"
+        },
+        {
+            "place": "Pieniężno",
+            "date": "1516-1541"
+        },
+        {
+            "place": "Frombork",
+            "date": "1521-08"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1521-07-25"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1529-02-14"
+        },
+        {
+            "place": "Malbork",
+            "date": "1528-05-09"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bolonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Frombork",
+            "date": "1510"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1519"
+        },
+        {
+            "place": "Lidzbark",
+            "date": "1529"
+        },
+        {
+            "place": "Padwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1532"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1526"
+        },
+        {
+            "place": "Lubawa",
+            "date": "1539"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1541"
+        },
+        {
+            "place": "Olsztyn",
+            "date": "1531"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1538"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1540"
+        },
+        {
+            "place": "Bazylea",
+            "date": "1541"
+        },
+        {
+            "place": "Frombork",
+            "date": "1540-1543"
+        },
+        {
+            "place": "Wittenberg",
+            "date": "1541"
+        },
+        {
+            "place": "Norymberga",
+            "date": "1543"
+        },
+        {
+            "place": "Praga",
+            "date": "1953"
+        },
+        {
+            "place": "Upsala",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Getynga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1873-1875"
+        },
+        {
+            "place": "Braniewo",
+            "date": "1873"
+        },
+        {
+            "place": "Strasburg",
+            "date": "1574"
+        }
+    ]
+}

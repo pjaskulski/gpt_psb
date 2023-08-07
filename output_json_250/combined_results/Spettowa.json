@@ -1,0 +1,218 @@
+{
+    "name": "Stanisława Maria Spettowa",
+    "psb_id": "PSB-41-0047",
+    "biogram_file": "Spettowa.txt",
+    "date_of_birth": {
+        "date": "1902-02-12"
+    },
+    "place_of_birth": {
+        "place": "Lwów"
+    },
+    "date_of_death": {
+        "date": "1994-07-03"
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "note": "Dom Pomocy Społecznej im. Brata Alberta przy ul. Zielnej"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Rakowicki"
+    },
+    "functions": [
+        "lekarz",
+        "neuroradiolog",
+        "profesor Akademii Medycznej w Krakowie",
+        "lekarz kontraktowy",
+        "sekundariusz",
+        "asystent",
+        "starszy asystent",
+        "kierownik pracowni radiologii ogólnej",
+        "kierownik pracowni radiologicznej",
+        "asystentka",
+        "kierownik pracowni radiologicznej w Klinice Neurologiczno-Psychiatrycznej UJ",
+        "kierownik pracowni neuroradiologicznej przy Klinice Neurochirurgii",
+        "docent neuroradiologii",
+        "specjalista wojewódzki ds. radiologii",
+        "profesor nadzwyczajny",
+        "kierownik Zakładu Neuroradiologii przy Klinice Neurochirurgicznej",
+        "opiekun habilitacji",
+        "promotor doktoratów"
+    ],
+    "institutions": [
+        {
+            "institution_name": "gimnazjum realne Zofii Strzałkowskiej",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Wydział Lekarski UJK",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Państwowy Szpital Powszechny",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "centralna pracownia rentgenologiczna",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Klinika Chorób Nerwowych i Umysłowych UJK",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Lwowski Medyczny Instytut",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szpital Powszechny",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Instytut Rentgenologii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Państwowe Medyczno-Przyrodnicze Kursy Zawodowe",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Klinika Neurologiczno-Psychiatryczna UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Akademia Medyczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klinika Neurochirurgii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Lekarski AM",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zakład Neuroradiologii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Neurologii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Studium Doskonalenia Lekarzy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dom Pomocy Społecznej im. Brata Alberta",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Julian Janczyszyn"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Julia Amałowicz"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Karol Spett"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zofia Strzałkowska",
+            "person_date": "1921",
+            "person_info": "dyrektorka gimnazjum"
+        },
+        {
+            "person_name": "Jakub Rothfeld",
+            "person_date": "1935",
+            "person_info": "lekarz, kierownik Kliniki Chorób Nerwowych i Umysłowych UJK"
+        },
+        {
+            "person_name": "Eugeniusz Artwiński",
+            "person_date": "brak danych",
+            "person_info": "lekarz, kierownik Kliniki Chorób Nerwowych i Umysłowych UJK"
+        },
+        {
+            "person_name": "Aleksander Domaszewicz",
+            "person_date": "brak danych",
+            "person_info": "neurochirurg"
+        },
+        {
+            "person_name": "Witold Grabowski",
+            "person_date": "1942-1945",
+            "person_info": "lekarz, kierownik Instytutu Rentgenologii"
+        },
+        {
+            "person_name": "Eugeniusz Brzezicki",
+            "person_date": "1945",
+            "person_info": "lekarz, kierownik Kliniki Neurologiczno-Psychiatrycznej UJ"
+        },
+        {
+            "person_name": "Adam Kunicki",
+            "person_date": "1950",
+            "person_info": "lekarz, kierownik Kliniki Neurochirurgii"
+        },
+        {
+            "person_name": "Maria Jedlińska",
+            "person_date": "brak danych",
+            "person_info": "neurochirurg"
+        },
+        {
+            "person_name": "Krzysztof Kaczanowski",
+            "person_date": "brak danych",
+            "person_info": "antropolog"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1902-02-12"
+        },
+        {
+            "place": "Lwów",
+            "date": "1921-06-10"
+        },
+        {
+            "place": "Lwów",
+            "date": "1927-12-21"
+        },
+        {
+            "place": "Lwów",
+            "date": "1939-1941"
+        },
+        {
+            "place": "Lwów",
+            "date": "1942-04-01 do 1945-03-15"
+        },
+        {
+            "place": "Kraków",
+            "date": "1945-04"
+        },
+        {
+            "place": "Kraków",
+            "date": "1945-08-01"
+        },
+        {
+            "place": "Szwecja",
+            "date": "1956"
+        },
+        {
+            "place": "Bruksela",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

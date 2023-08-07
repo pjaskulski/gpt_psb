@@ -1,0 +1,159 @@
+{
+    "name": "Jan Krystyniacki",
+    "psb_id": "PSB-15-0501",
+    "biogram_file": "Krystyniacki_Jan.txt",
+    "date_of_birth": {
+        "date": "1828-12-22"
+    },
+    "place_of_birth": {
+        "place": "Leżajsk"
+    },
+    "date_of_death": {
+        "date": "1893-03-23"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Lwów",
+        "note": "cmentarz Łyczakowski"
+    },
+    "functions": [
+        "pedagog",
+        "tłumacz",
+        "wydawca literatury greckiej i łacińskiej",
+        "zastępca nauczyciela w gimnazjum II",
+        "nauczyciel",
+        "dyrektor miejskiego gimnazjum w Drohobyczu",
+        "profesor greki i łaciny w gimnazjum I i IV",
+        "członek Tow. Nauczycieli Szkół Wyższych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Rzeszów"
+        },
+        {
+            "institution_name": "Szkoła Filozoficzna",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Gwardia Akademicka",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Seminarium",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Wydział Filozoficzny",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Gimnazjum II",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Miejskie Gimnazjum",
+            "institution_place": "Drohobycz"
+        },
+        {
+            "institution_name": "Gimnazjum I",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Gimnazjum IV",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Instytut Stauropigiański",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Towarzystwo Nauczycieli Szkół Wyższych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mateusz Krystyniacki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna Romańska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Teofila Felsztyńska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Mathiae Sarbievii",
+            "person_date": "1876",
+            "person_info": "autor manuskryptu"
+        },
+        {
+            "person_name": "M. Tulliusz Cicero",
+            "person_date": "1883",
+            "person_info": "autor tekstu tłumaczonego przez Jana Kochanowskiego"
+        },
+        {
+            "person_name": "Jan Kochanowski",
+            "person_date": "1883",
+            "person_info": "tłumacz tekstu M. Tulliusza Cicerona"
+        },
+        {
+            "person_name": "Maciej Kazimierz Sarbiewski",
+            "person_date": "1886",
+            "person_info": "autor pieśni"
+        },
+        {
+            "person_name": "św. Jan Chryzostom",
+            "person_date": "1886",
+            "person_info": "autor tekstu tłumaczonego na język polski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Leżajsk",
+            "date": "1828-12-22"
+        },
+        {
+            "place": "Rzeszów",
+            "date": "1841-1846"
+        },
+        {
+            "place": "Przemyśl",
+            "date": "1847-1848, 1849-1851"
+        },
+        {
+            "place": "Lwów",
+            "date": "1851-1855, 1968"
+        },
+        {
+            "place": "Drohobycz",
+            "date": "1863"
+        },
+        {
+            "place": "Bułgaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Turcja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Palestyna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grecja",
+            "date": "brak danych"
+        }
+    ]
+}

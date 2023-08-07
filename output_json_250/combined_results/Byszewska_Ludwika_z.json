@@ -1,0 +1,163 @@
+{
+    "name": "Ludwika Byszewska",
+    "psb_id": "PSB-03-0295",
+    "biogram_file": "Byszewska_Ludwika_z.txt",
+    "date_of_birth": {
+        "date": "1758",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Lisa",
+        "note": "pod Brańskiem w woj. brzeskim"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "miecznik bełski",
+        "szambelan dworu",
+        "pułkownik",
+        "generał-major wojsk koronnych",
+        "sekretarz Komisji Ed. Nar.",
+        "wojewoda podlaski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Dwór królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Edukacji Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkoła Główna Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Opactwo Miechowskie",
+            "institution_place": "Wrocieryż"
+        },
+        {
+            "institution_name": "Rząd austriacki",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Antoni Gintowt"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Józef Byszewski"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Joachim Gintowt"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Józef Byszewski",
+            "person_date": "1774",
+            "person_info": "szambelan dworu i pułkownik, później generał-major wojsk koronnych"
+        },
+        {
+            "person_name": "Stanisław August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "kanclerz Sapieha",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "biskup Massalski",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Joachim Gintowt",
+            "person_date": "brak danych",
+            "person_info": "sekretarz Komisji Ed. Nar."
+        },
+        {
+            "person_name": "Sievers",
+            "person_date": "1793",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Repnin",
+            "person_date": "1796",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tomasz Aleksandrowicz",
+            "person_date": "brak danych",
+            "person_info": "wojewoda podlaski"
+        },
+        {
+            "person_name": "Jan Śniadecki",
+            "person_date": "1793",
+            "person_info": "wysłannik Szkoły Gł."
+        },
+        {
+            "person_name": "Franciszek Karpiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1773"
+        },
+        {
+            "place": "Rudka",
+            "date": "1774"
+        },
+        {
+            "place": "Mierzwica",
+            "date": "1774"
+        },
+        {
+            "place": "Fajsławice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lachowicze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grodno",
+            "date": "1793"
+        },
+        {
+            "place": "Lisa",
+            "date": "1792"
+        },
+        {
+            "place": "Brańsk",
+            "date": "1792"
+        },
+        {
+            "place": "Kraków",
+            "date": "1799"
+        }
+    ]
+}

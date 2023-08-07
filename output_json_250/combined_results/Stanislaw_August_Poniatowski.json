@@ -1,0 +1,2488 @@
+{
+    "name": "Stanisław August Poniatowski",
+    "psb_id": "PSB-41-0335",
+    "biogram_file": "Stanislaw_August_Poniatowski.txt",
+    "date_of_birth": {
+        "date": "1732-01-17"
+    },
+    "place_of_birth": {
+        "place": "Wołczyn"
+    },
+    "date_of_death": {
+        "date": "1798-02-12"
+    },
+    "place_of_death": {
+        "place": "Petersburg"
+    },
+    "date_of_burial": {
+        "date": "1995-02-14"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "katedra św. Jana"
+    },
+    "functions": [
+        "król polski",
+        "poseł z ziemi zakroczymskiej",
+        "pułkownik regimentu łanowego",
+        "komisarz z ziemi łomżyńskiej na Trybunał Skarbowy w Radomiu",
+        "starosta grodowy przemyski",
+        "posłowie z ziemi łomżyńskiej na sejm 1752 r.",
+        "stolnik litewski",
+        "sekretarz posła angielskiego w Petersburgu",
+        "posłowie inflancki na sejm",
+        "poseł saski",
+        "sekretarz poselstwa",
+        "poseł z województwa ruskiego na sejm",
+        "poseł z ziemi bielskiej na sejm",
+        "poseł mielnicki na sejm",
+        "sekretarz stanu do spraw zagranicznych",
+        "sekretarz stanu do spraw wewnętrznych",
+        "urzędnik państwowy",
+        "marszałek konfederacji generalnej",
+        "poseł ziemi warszawskiej na sejm konwokacyjny",
+        "książę Czartoryski, kanclerz litewski",
+        "general artylerii",
+        "wojewoda wileński",
+        "pracownik kancelarii królewskiej",
+        "pracownik instytucji państwowych",
+        "pracownik placówek dyplomatycznych",
+        "kanclerz",
+        "minister",
+        "hetman",
+        "podskarbi",
+        "marszałek konfederacji kor.",
+        "bp. płocki",
+        "prymas",
+        "podkanclerzy lit.",
+        "senator",
+        "urzędnik ziemski",
+        "członek rosyjskiego Kolegium Spraw Zagranicznych",
+        "marszałek konfederacji lit.",
+        "posł",
+        "podkanclerzy kor.",
+        "założyciel Kompanii Manufaktur Wełnianych",
+        "właściciel manufaktury sukienniczej w Zaleszczykach",
+        "właściciel manufaktury wyrobów fajansowych w Belwederze",
+        "założyciel ludwisarni w Warszawie",
+        "założyciel wytwórni w Kamieńcu Podolskim",
+        "założyciel fabryki ręcznej broni palnej w ekonomii kozienickiej",
+        "założyciel Komisji Górniczej (Kruszcowej)",
+        "właściciel kopalni marmurów w Dębniku",
+        "właściciel kopalni węgla kamiennego w Szczakowej",
+        "założyciel obserwatorium astronomicznego na Zamku Warszawskim",
+        "patron czasopisma moralnego „Monitor”",
+        "inicjator królewskich «obiadów czwartkowych»",
+        "redaktor periodyku „Zabawy Przyjemne i Pożyteczne”",
+        "mecenas Stanisława Trembeckiego",
+        "mecenas Franciszka Salezego Jezierskiego",
+        "mecenas Franciszka Bohomolca",
+        "mecenas Franciszka Zabłockiego",
+        "mecenas Adama Naruszewicza",
+        "mecenas Piotra Dufoura",
+        "mecenas Michała Grölla",
+        "mecenas Piotra Świtkowskiego",
+        "mecenas Józefa Lexa",
+        "inicjator teatru francuskiego, opery włoskiej i baletu w Warszawie",
+        "założyciel polskiej sceny narodowej",
+        "założyciel szkoły baletowej",
+        "założyciel prywatnego teatru królewskiego",
+        "założyciel orkiestry dworskiej i teatralnej",
+        "mecenas sztuk plastycznych",
+        "architekt",
+        "główny architekt króla i Rzpltej",
+        "drugi architekt królewski",
+        "rzeźbiarz",
+        "rytownik stempli i medalier",
+        "marszałek nadworny koronny",
+        "marszałek nadworny litewski",
+        "kasztelan czerski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Królewiecki",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Tryb. Piotrkowski",
+            "institution_place": "Piotrków Trybunalski"
+        },
+        {
+            "institution_name": "Tryb. Skarbowy",
+            "institution_place": "Radom"
+        },
+        {
+            "institution_name": "sejm nadzwycz.",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Trybunał",
+            "institution_place": "Wschowa"
+        },
+        {
+            "institution_name": "Trybunał Litewski",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Rada Senatu",
+            "institution_place": "Wschowa"
+        },
+        {
+            "institution_name": "Poselstwo angielskie",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Dwór rosyjski",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Poselstwo inflanckie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Poselstwo saskie",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Dwór saski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Prywatna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkoła Rycerska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kancelaria Królewska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konferencja Króla z Ministrami",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Edukacyjna Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Nieustająca",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisje Wojskowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dep. Wojskowy RN",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "KEN",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisje Skarbowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "RN",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dep. Interesów Cudzoziemskich RN",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sąd Marszałkowski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gabinet Maurycego Glayre’a",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "kancelaria wojskowa króla",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gabinet króla",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "placówka dyplomatyczna",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Komisja Edukacji Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Departament",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Deputacja Interesów Zagranicznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gabinet",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kancelaria wojskowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Deputacja «do formy rządu»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tryb. Lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Bank Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Gabinetowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Czteroletni",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Straż",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Wojenna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konfederacja Targowicka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Generalność",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Sejm Czteroletni",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Generalność targowicka",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Banki warszawskie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Zastępcza Tymczasowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Najwyższa Narodowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szkoła Rycerska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pałac Marmurowy",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Petersburska Akademia Nauk",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Akademia Nauk",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Zamek Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kompania Manufaktur Wełnianych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "manufaktura sukienna",
+            "institution_place": "Zaleszczyki"
+        },
+        {
+            "institution_name": "manufaktura wyrobów fajansowych",
+            "institution_place": "Belweder"
+        },
+        {
+            "institution_name": "ludwisarnia",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "wytwórnia",
+            "institution_place": "Kamieniec Podolski"
+        },
+        {
+            "institution_name": "fabryka ręcznej broni palnej",
+            "institution_place": "Kozienice"
+        },
+        {
+            "institution_name": "Komisja Górnicza (Kruszcową)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kopalnia marmurów",
+            "institution_place": "Dębnik"
+        },
+        {
+            "institution_name": "kopalnia węgla kamiennego",
+            "institution_place": "Szczakowa"
+        },
+        {
+            "institution_name": "obserwatorium astronomiczne",
+            "institution_place": "Zamek Warszawski"
+        },
+        {
+            "institution_name": "teatr francuski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "opera włoska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "balet",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "scena narodowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "szkoła baletowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "teatr",
+            "institution_place": "Zamek Warszawski"
+        },
+        {
+            "institution_name": "teatr 'mały'",
+            "institution_place": "Łazienki"
+        },
+        {
+            "institution_name": "teatr 'na wyspie'",
+            "institution_place": "Łazienki"
+        },
+        {
+            "institution_name": "teatr w Pomarańczarni",
+            "institution_place": "Łazienki"
+        },
+        {
+            "institution_name": "orkiestra dworska i teatralna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zamek Ujazdowski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zamek w Warszawie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Łazienki Królewskie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biały Dom",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pałac Myślewicki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pomarańczarnia",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Amfiteatr",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biblioteka",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Mennica Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pałac Kazimierzowski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pałac Pod Blachą",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Skarbu Jego Królewskiej Mości",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Ekonomiczna Skarbu Jego Królewskiej Mości",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kasa Litewska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Manufaktura sukienna",
+            "institution_place": "Zaleszczyki"
+        },
+        {
+            "institution_name": "Jurydyka Skaryszew",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Jurydyka Mariensztat",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Ekonomiczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Bankierzy genueńscy",
+            "institution_place": "Genua"
+        },
+        {
+            "institution_name": "Bankierzy holenderscy",
+            "institution_place": "Holandia"
+        },
+        {
+            "institution_name": "Masoneria",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kościół św. Katarzyny",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Kościół parafialny w Wołczynie",
+            "institution_place": "Wołczyn"
+        },
+        {
+            "institution_name": "Katedra św. Jana",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Stara Pomarańczarnia",
+            "institution_place": "Łazienki"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Poniatowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Konstancja z Czartoryskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Kazimierz Poniatowski"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Izabela Branicka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Andrzej Poniatowski"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Michał Poniatowski"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Józef Poniatowski"
+        },
+        {
+            "family_relation": "bratanica",
+            "person": "Maria Teresa Poniatowska"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Kazimierz Nestor Sapieha"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Konstancja Poniatowska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał Cichocki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Izabela Poniatowska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał Grabowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kazimierz Grabowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Grabowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Antonio Portalupi",
+            "person_date": "brak danych",
+            "person_info": "teatyn, nauczyciel"
+        },
+        {
+            "person_name": "H. Keyserlingk",
+            "person_date": "1744",
+            "person_info": "poseł rosyjski, dawny profesor Uniw. Królewieckiego, nauczyciel"
+        },
+        {
+            "person_name": "Jan Łukasz Toux de Salverte",
+            "person_date": "brak danych",
+            "person_info": "były oficer austriacki, nauczyciel architektury i inżynierii"
+        },
+        {
+            "person_name": "Piotr Śliwicki",
+            "person_date": "brak danych",
+            "person_info": "misjonarz, spowiednik"
+        },
+        {
+            "person_name": "J. H. Kauderbach",
+            "person_date": "1748",
+            "person_info": "poseł saski"
+        },
+        {
+            "person_name": "Mauryce Saski",
+            "person_date": "1748",
+            "person_info": "wojskowy, dyplomata"
+        },
+        {
+            "person_name": "W. Kaunitz",
+            "person_date": "1748",
+            "person_info": "przyszły kanclerz"
+        },
+        {
+            "person_name": "J. Lieberkühn",
+            "person_date": "1750",
+            "person_info": "sławny lekarz"
+        },
+        {
+            "person_name": "C. Williams",
+            "person_date": "1750",
+            "person_info": "poseł angielski"
+        },
+        {
+            "person_name": "R. Keith",
+            "person_date": "1752",
+            "person_info": "poseł angielski"
+        },
+        {
+            "person_name": "L. Canal",
+            "person_date": "1752",
+            "person_info": "poseł sardyński"
+        },
+        {
+            "person_name": "August Czartoryski",
+            "person_date": "1752",
+            "person_info": "wojewoda ruski"
+        },
+        {
+            "person_name": "J. Yorke",
+            "person_date": "1753",
+            "person_info": "poseł angielski"
+        },
+        {
+            "person_name": "W. Bentinck",
+            "person_date": "1753",
+            "person_info": "przywódca partii oranżystowskiej"
+        },
+        {
+            "person_name": "M. T. Geoffrin",
+            "person_date": "1753",
+            "person_info": "twórczyni słynnego paryskiego salonu"
+        },
+        {
+            "person_name": "A. de Brancas",
+            "person_date": "1753",
+            "person_info": "księżna"
+        },
+        {
+            "person_name": "W. Albemarle",
+            "person_date": "1753",
+            "person_info": "lord, ambasador brytyjski"
+        },
+        {
+            "person_name": "L. Schaube",
+            "person_date": "1754",
+            "person_info": "były dyplomata"
+        },
+        {
+            "person_name": "P. Hardwicke",
+            "person_date": "1754",
+            "person_info": "lord kanclerz"
+        },
+        {
+            "person_name": "Jan Klemens Branicki",
+            "person_date": "brak danych",
+            "person_info": "hetman w. kor., przeciwnik Czartoryskich"
+        },
+        {
+            "person_name": "Williams",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel S. Poniatowskiego, poseł angielski w Petersburgu"
+        },
+        {
+            "person_name": "Katarzyna",
+            "person_date": "brak danych",
+            "person_info": "wielka księżna, późniejsza cesarzowa Rosji, romansowała ze S. Poniatowskim"
+        },
+        {
+            "person_name": "A. Bestużew",
+            "person_date": "brak danych",
+            "person_info": "kanclerz, związany z Katarzyną"
+        },
+        {
+            "person_name": "Jan Borch",
+            "person_date": "brak danych",
+            "person_info": "podkomorzy inflancki, pomagał S. Poniatowskiemu"
+        },
+        {
+            "person_name": "Jacek Ogrodzki",
+            "person_date": "brak danych",
+            "person_info": "sekretarz poselstwa, od dawna związany z rodziną Poniatowskich"
+        },
+        {
+            "person_name": "Fryderyk Wielki",
+            "person_date": "brak danych",
+            "person_info": "król Prus, porównany do mitologicznej hydry przez S. Poniatowskiego"
+        },
+        {
+            "person_name": "H. Brühl",
+            "person_date": "brak danych",
+            "person_info": "dyplomata, przeciwnik S. Poniatowskiego"
+        },
+        {
+            "person_name": "M. von Esterházy",
+            "person_date": "brak danych",
+            "person_info": "poseł austriacki w Petersburgu"
+        },
+        {
+            "person_name": "Ch. de Broglie",
+            "person_date": "brak danych",
+            "person_info": "ambasador francuski w Warszawie, niechętny S. Poniatowskiemu"
+        },
+        {
+            "person_name": "G. Orłow",
+            "person_date": "brak danych",
+            "person_info": "nowy faworyt Katarzyny"
+        },
+        {
+            "person_name": "Brühl",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "1763",
+            "person_info": "Cesarzowa Rosji"
+        },
+        {
+            "person_name": "Fryderyk Wielki",
+            "person_date": "brak danych",
+            "person_info": "Król Prus"
+        },
+        {
+            "person_name": "J. K. Branicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August Czartoryski",
+            "person_date": "1764",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Władysław Łubieński",
+            "person_date": "1764",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "N. Repnin",
+            "person_date": "1763",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. A. Brühl",
+            "person_date": "1764",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Salezy Potocki",
+            "person_date": "1764",
+            "person_info": "wojewoda kijowski"
+        },
+        {
+            "person_name": "Karol Radziwiłł",
+            "person_date": "1764",
+            "person_info": "były wojewoda wileński"
+        },
+        {
+            "person_name": "Marcin Matuszewicz",
+            "person_date": "1764",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kajetan Sołtyk",
+            "person_date": "1764",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "A. E. Visconti",
+            "person_date": "brak danych",
+            "person_info": "nuncjusz"
+        },
+        {
+            "person_name": "Ogrodzki",
+            "person_date": "1764",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "S. Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Ogrodzki",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Repnin",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "brak danych",
+            "person_info": "caryca Rosji"
+        },
+        {
+            "person_name": "Andrzej Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Michał Wielhorski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "N. Panin",
+            "person_date": "brak danych",
+            "person_info": "kierownik rosyjskiej polityki"
+        },
+        {
+            "person_name": "kanclerz Kaunitz",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Andrzej Mokronowski",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Franciszek Ksawery Branicki",
+            "person_date": "brak danych",
+            "person_info": "łowczy w. kor."
+        },
+        {
+            "person_name": "M. Wołkoński",
+            "person_date": "brak danych",
+            "person_info": "następca Repnina"
+        },
+        {
+            "person_name": "Józef Pułaski",
+            "person_date": "brak danych",
+            "person_info": "starosta warecki"
+        },
+        {
+            "person_name": "Michał Krasiński",
+            "person_date": "1770",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "F. K. Branicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Saldern",
+            "person_date": "brak danych",
+            "person_info": "najbliższy współpracownik Panina"
+        },
+        {
+            "person_name": "I. Weymarn",
+            "person_date": "brak danych",
+            "person_info": "generał, dowódca wojsk rosyjskich w Polsce"
+        },
+        {
+            "person_name": "Michał Pac",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Kazimierz Pułaski",
+            "person_date": "brak danych",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Stanisław Strawiński",
+            "person_date": "brak danych",
+            "person_info": "litewski konfederat"
+        },
+        {
+            "person_name": "Jan Kuźma",
+            "person_date": "brak danych",
+            "person_info": "jeden ze dowódców konfederatów"
+        },
+        {
+            "person_name": "Karol Coccei",
+            "person_date": "brak danych",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Stanisław Konarski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam Naruszewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik XV",
+            "person_date": "brak danych",
+            "person_info": "król Francji"
+        },
+        {
+            "person_name": "O. Stackelberg",
+            "person_date": "1772",
+            "person_info": "przedstawiciel dworu petersburskiego w Warszawie"
+        },
+        {
+            "person_name": "Adam Poniński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Rejtan",
+            "person_date": "brak danych",
+            "person_info": "poseł nowogrodzki"
+        },
+        {
+            "person_name": "Branicki",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Seweryn Rzewuski",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Michał Ogiński",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Antoni Tyzenhauz",
+            "person_date": "brak danych",
+            "person_info": "podskarbi nadw. lit."
+        },
+        {
+            "person_name": "Mokronowski",
+            "person_date": "23 VIII 1776",
+            "person_info": "marszałek konfederacji kor. i sejmu"
+        },
+        {
+            "person_name": "S. Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "S. Rzewuski",
+            "person_date": "brak danych",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Andrzej Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "ekskanclerz"
+        },
+        {
+            "person_name": "Andrzej Młodziejowski",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Karol Boscamp-Lasopolski",
+            "person_date": "po sejmie 1776 r.",
+            "person_info": "posłanek do Turcji"
+        },
+        {
+            "person_name": "Maurycy Glayre",
+            "person_date": "brak danych",
+            "person_info": "zaufany pracownik Gabinetu"
+        },
+        {
+            "person_name": "Kazimierz Wolmer",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Tyzenhauza"
+        },
+        {
+            "person_name": "Ignacy Potocki",
+            "person_date": "brak danych",
+            "person_info": "marszałek RN"
+        },
+        {
+            "person_name": "G. A. Archetti",
+            "person_date": "brak danych",
+            "person_info": "nuncjusz papieski"
+        },
+        {
+            "person_name": "Maria Dogrumowa",
+            "person_date": "1784",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. K. Czartoryski",
+            "person_date": "1784",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Komarzewski",
+            "person_date": "brak danych",
+            "person_info": "zaufany królewski"
+        },
+        {
+            "person_name": "Franciszek Ryx",
+            "person_date": "brak danych",
+            "person_info": "zaufany królewski"
+        },
+        {
+            "person_name": "Izabela Lubomirska",
+            "person_date": "brak danych",
+            "person_info": "zaangażowana w antykrólewską propagandę"
+        },
+        {
+            "person_name": "F. K. Branicki",
+            "person_date": "brak danych",
+            "person_info": "hetman, wspomniany incydentalnie"
+        },
+        {
+            "person_name": "gen. Komarzewski",
+            "person_date": "brak danych",
+            "person_info": "szef kancelarii wojskowej króla"
+        },
+        {
+            "person_name": "Augustyn Deboli",
+            "person_date": "1774",
+            "person_info": "kierownik placówki petersburskiej"
+        },
+        {
+            "person_name": "Ogrodzki",
+            "person_date": "brak danych",
+            "person_info": "szef Gabinetu"
+        },
+        {
+            "person_name": "Anna Tyszkiewiczowa",
+            "person_date": "brak danych",
+            "person_info": "konkurentka Tyzenhauza w W. Ks. Lit."
+        },
+        {
+            "person_name": "Tyzenhauz",
+            "person_date": "brak danych",
+            "person_info": "monopolista polityki królewskiej w W. Ks. Lit. do 1780 roku"
+        },
+        {
+            "person_name": "Joachim Chreptowicz",
+            "person_date": "brak danych",
+            "person_info": "podkanclerzy litewski, prowadził politykę królewską w W. Ks. Lit. po Tyzenhauzie"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "1786",
+            "person_info": "imperatorowa Rosji"
+        },
+        {
+            "person_name": "G. Patiomkin",
+            "person_date": "1787",
+            "person_info": "były faworyt Katarzyny II"
+        },
+        {
+            "person_name": "A. Bezborodko",
+            "person_date": "1787",
+            "person_info": "członek rosyjskiego Kolegium Spraw Zagranicznych"
+        },
+        {
+            "person_name": "Józef II",
+            "person_date": "1787",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Stackelberg",
+            "person_date": "1787",
+            "person_info": "rosyjski dyplomata"
+        },
+        {
+            "person_name": "Szczęsny Potocki",
+            "person_date": "brak danych",
+            "person_info": "wojewoda ruski"
+        },
+        {
+            "person_name": "I. Potocki",
+            "person_date": "brak danych",
+            "person_info": "przywódca antykrólewskiej opozycji"
+        },
+        {
+            "person_name": "A. K. Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "przywódca antykrólewskiej opozycji"
+        },
+        {
+            "person_name": "S. Rzewuski",
+            "person_date": "brak danych",
+            "person_info": "przywódca antykrólewskiej opozycji"
+        },
+        {
+            "person_name": "ks. Stanisław",
+            "person_date": "brak danych",
+            "person_info": "dowódca brygady kawalerii narodowej"
+        },
+        {
+            "person_name": "Sz. Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stackelberg",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "brak danych",
+            "person_info": "imperatorowa"
+        },
+        {
+            "person_name": "G. Lucchesini",
+            "person_date": "brak danych",
+            "person_info": "nowy poseł Prus"
+        },
+        {
+            "person_name": "F. K. Branicki",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "I. Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Julian Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Deboli",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Kossakowski",
+            "person_date": "brak danych",
+            "person_info": "zausznik ambasadora"
+        },
+        {
+            "person_name": "Piotr Ożarowski",
+            "person_date": "brak danych",
+            "person_info": "zausznik ambasadora"
+        },
+        {
+            "person_name": "Lucchesini",
+            "person_date": "brak danych",
+            "person_info": "poseł pruski"
+        },
+        {
+            "person_name": "S. Małachowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kaunitz",
+            "person_date": "brak danych",
+            "person_info": "kanclerz austriacki"
+        },
+        {
+            "person_name": "Franciszek Woyna",
+            "person_date": "brak danych",
+            "person_info": "poseł polski w Wiedniu"
+        },
+        {
+            "person_name": "Małachowski",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Lucchesini",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "D. Hailes",
+            "person_date": "brak danych",
+            "person_info": "poseł angielski"
+        },
+        {
+            "person_name": "Piotr Potocki",
+            "person_date": "brak danych",
+            "person_info": "poseł polski w Stambule"
+        },
+        {
+            "person_name": "Hugo Kołłątaj",
+            "person_date": "brak danych",
+            "person_info": "doradca Małachowskiego, inspirator i orędownik ruchu mieszczańskiego"
+        },
+        {
+            "person_name": "Stanisław Kostka Potocki",
+            "person_date": "24 IX 1789",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Scipione Piattoli",
+            "person_date": "brak danych",
+            "person_info": "Włoch, cieszący się zaufaniem I. Potockiego, który wszedł w służbę S-a"
+        },
+        {
+            "person_name": "Julian Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "obserwator"
+        },
+        {
+            "person_name": "Fryderyk August",
+            "person_date": "brak danych",
+            "person_info": "elektor saski"
+        },
+        {
+            "person_name": "Fryderyka",
+            "person_date": "brak danych",
+            "person_info": "królewna pruska"
+        },
+        {
+            "person_name": "Debolego",
+            "person_date": "22 I 1791",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kołłątaj",
+            "person_date": "17 V 1791",
+            "person_info": "podkanclerzy koronny"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "brak danych",
+            "person_info": "imperatorka Rosji"
+        },
+        {
+            "person_name": "J. Bułhakow",
+            "person_date": "18 V 1792",
+            "person_info": "poseł rosyjski"
+        },
+        {
+            "person_name": "S. Rzewuski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "ks. Józef Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "dowódca armii polskiej"
+        },
+        {
+            "person_name": "A. K. Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Staszic",
+            "person_date": "1787",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Lucchesini",
+            "person_date": "kwiecień 1792",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Małachowski",
+            "person_date": "23 VII 1792",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Kościuszko",
+            "person_date": "brak danych",
+            "person_info": "wyższy oficer armii polskiej"
+        },
+        {
+            "person_name": "Piattolego",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Kostka Potocki",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Konstanty",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fryderyk Henning",
+            "person_date": "1793",
+            "person_info": "Komisarz w Gdańsku"
+        },
+        {
+            "person_name": "Jan Regulski",
+            "person_date": "brak danych",
+            "person_info": "inspektor mennicy"
+        },
+        {
+            "person_name": "Józef",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "J. Sievers",
+            "person_date": "brak danych",
+            "person_info": "ambasador rosyjski"
+        },
+        {
+            "person_name": "Fryderyk Moszyński",
+            "person_date": "brak danych",
+            "person_info": "marszałek wielki koronny"
+        },
+        {
+            "person_name": "Kazimierz Raczyński",
+            "person_date": "brak danych",
+            "person_info": "były marszałek nadworny koronny"
+        },
+        {
+            "person_name": "Antoni Karski",
+            "person_date": "brak danych",
+            "person_info": "posł"
+        },
+        {
+            "person_name": "Antoni Dzieduszycki",
+            "person_date": "brak danych",
+            "person_info": "generalny dyrektor poczty"
+        },
+        {
+            "person_name": "Michał",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef",
+            "person_date": "brak danych",
+            "person_info": "biskup inflancki"
+        },
+        {
+            "person_name": "Szymon Kossakowski",
+            "person_date": "brak danych",
+            "person_info": "hetman wielki litewski"
+        },
+        {
+            "person_name": "Michał Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Ludwik Tyszkiewicz",
+            "person_date": "brak danych",
+            "person_info": "marszałek wielki litewski"
+        },
+        {
+            "person_name": "Sievers",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "O. Igelström",
+            "person_date": "1793",
+            "person_info": "dowódca rosyjskich wojsk okupacyjnych"
+        },
+        {
+            "person_name": "Antoni Madaliński",
+            "person_date": "1794",
+            "person_info": "brygadier kawalerii narodowej"
+        },
+        {
+            "person_name": "Ks. Józef",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Zakrzewski",
+            "person_date": "1794",
+            "person_info": "członek Rady Zastępczej Tymczasowej"
+        },
+        {
+            "person_name": "Michał Lubomirski",
+            "person_date": "1794",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "I. Potocki",
+            "person_date": "1794",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tomasz Wawrzecki",
+            "person_date": "brak danych",
+            "person_info": "naczelnik powstania"
+        },
+        {
+            "person_name": "A. W. Suworow",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "I. Asch",
+            "person_date": "brak danych",
+            "person_info": "radca ambasady rosyjskiej w Warszawie"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "1794",
+            "person_info": "imperatorowa"
+        },
+        {
+            "person_name": "Repnin",
+            "person_date": "brak danych",
+            "person_info": "gen.-gubernator lit."
+        },
+        {
+            "person_name": "E. Bezborodko",
+            "person_date": "brak danych",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Paweł I",
+            "person_date": "1796",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Onufry Kicki",
+            "person_date": "1796",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Hoym",
+            "person_date": "1796",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Fryderyk Wilhelm II",
+            "person_date": "1796",
+            "person_info": "król pruski"
+        },
+        {
+            "person_name": "Jan Chrzciciel Albertrand",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "ks. Józef",
+            "person_date": "1796",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dąbrowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Wolski",
+            "person_date": "1795",
+            "person_info": "szambelan królewski"
+        },
+        {
+            "person_name": "Paweł I",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bezborodko",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Voltaire",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "D. Diderot",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. J. Rousseau",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "G. Mably",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał Wielhorski",
+            "person_date": "brak danych",
+            "person_info": "przedstawiciel konfederacji barskiej"
+        },
+        {
+            "person_name": "pani Geoffrin",
+            "person_date": "1766",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Grimm",
+            "person_date": "brak danych",
+            "person_info": "redaktor «Correspondance Littéraire»"
+        },
+        {
+            "person_name": "Wolf Henryk Wickedée",
+            "person_date": "brak danych",
+            "person_info": "polski rezydent w Hamburgu"
+        },
+        {
+            "person_name": "Alojzy Husarzewski",
+            "person_date": "brak danych",
+            "person_info": "komisarz królewski w Gdańsku"
+        },
+        {
+            "person_name": "Fryderyk Ernest Henning-Henniński",
+            "person_date": "brak danych",
+            "person_info": "komisarz królewski w Gdańsku"
+        },
+        {
+            "person_name": "J. Luzac",
+            "person_date": "brak danych",
+            "person_info": "wydawca „Gazette de Leyde”"
+        },
+        {
+            "person_name": "J. Mauzon",
+            "person_date": "brak danych",
+            "person_info": "wydawca „Courrier du Bas Rhin”"
+        },
+        {
+            "person_name": "Filippo Mazzei",
+            "person_date": "1789",
+            "person_info": "pół oficjalny przedstawiciel S-a we Francji"
+        },
+        {
+            "person_name": "Karol Perthées",
+            "person_date": "brak danych",
+            "person_info": "kartograf"
+        },
+        {
+            "person_name": "J. F. Carosiego",
+            "person_date": "brak danych",
+            "person_info": "badacz terenowy"
+        },
+        {
+            "person_name": "Stanisław Okraszewski",
+            "person_date": "brak danych",
+            "person_info": "badacz terenowy"
+        },
+        {
+            "person_name": "August Moszyński",
+            "person_date": "brak danych",
+            "person_info": "były stolnik w. kor."
+        },
+        {
+            "person_name": "Krzysztof Szembek",
+            "person_date": "10 IV 1782",
+            "person_info": "bp. płocki"
+        },
+        {
+            "person_name": "F. L. Harrscha",
+            "person_date": "brak danych",
+            "person_info": "oszust"
+        },
+        {
+            "person_name": "W. Herschel",
+            "person_date": "brak danych",
+            "person_info": "astronom"
+        },
+        {
+            "person_name": "Marcin Poczobut",
+            "person_date": "brak danych",
+            "person_info": "astronom"
+        },
+        {
+            "person_name": "Jan Śniadecki",
+            "person_date": "brak danych",
+            "person_info": "astronom"
+        },
+        {
+            "person_name": "Adam Naruszewicz",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Michał Mniszch",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Feliks Łoyko",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Maciej Dogiel",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Albertrandi",
+            "person_date": "brak danych",
+            "person_info": "badacz biblioteczno-archiwalny"
+        },
+        {
+            "person_name": "Stanisław Trembecki",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Franciszek Salezy Jezierski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Franciszek Bohomolec",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Franciszek Zabłocki",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Adam Naruszewicz",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Naruszewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Trembecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zabłocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Krasicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stefan Łuskin",
+            "person_date": "1773",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Piotr Dufour",
+            "person_date": "brak danych",
+            "person_info": "drukarz-wydawca"
+        },
+        {
+            "person_name": "Michał Gröll",
+            "person_date": "brak danych",
+            "person_info": "drukarz-wydawca"
+        },
+        {
+            "person_name": "Piotr Świtkowski",
+            "person_date": "brak danych",
+            "person_info": "eks-jezuita, wydawca miesięcznika"
+        },
+        {
+            "person_name": "Józef Lex",
+            "person_date": "brak danych",
+            "person_info": "księgarz i właściciel czytelni"
+        },
+        {
+            "person_name": "Franciszek Ryx",
+            "person_date": "brak danych",
+            "person_info": "kamerdyner"
+        },
+        {
+            "person_name": "August Sułkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tyzenhauz",
+            "person_date": "1785",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wojciech Bogusławski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Steffan",
+            "person_date": "1779",
+            "person_info": "muzyk"
+        },
+        {
+            "person_name": "G. Paisiello",
+            "person_date": "1784",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Luiza Todi",
+            "person_date": "1784",
+            "person_info": "śpiewaczka"
+        },
+        {
+            "person_name": "Jakub Fontana",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Szymon Bogumił Zug",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Efraim Schröger",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Jakub Kubicki",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Stanisław Zawadzki",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Jan Bogumił Plersch",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Łukasz Smuglewicz",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Marceli Bacciarelli",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Bernardo Canaletto",
+            "person_date": "1767",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Jean Pillement",
+            "person_date": "1765",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Louis Marteau",
+            "person_date": "1766",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Per Krafft",
+            "person_date": "1767",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Domenico Merlini",
+            "person_date": "1773",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Jan Kamsetzer",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Victor Louis",
+            "person_date": "1765",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "J. L. Prieure",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Andrzej Le Brun",
+            "person_date": "1768",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Giacomo Monaldi",
+            "person_date": "1768",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Franciszek Pinck",
+            "person_date": "brak danych",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Tomasso Righi",
+            "person_date": "brak danych",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Jan Filip Holzhaeusser",
+            "person_date": "1766",
+            "person_info": "rytownik stempli i medalier"
+        },
+        {
+            "person_name": "Jan Regulski",
+            "person_date": "brak danych",
+            "person_info": "medalier"
+        },
+        {
+            "person_name": "Aleksander Kucharski",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Franciszek Smuglewicz",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Anna Rajecka",
+            "person_date": "brak danych",
+            "person_info": "malarka"
+        },
+        {
+            "person_name": "Józef Wall",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Zygmunt Vogel",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Jan Chrzciciel Lampi",
+            "person_date": "brak danych",
+            "person_info": "portrecista"
+        },
+        {
+            "person_name": "J. M. Vien",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "F. G. Casanova",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "J. A. Houdon",
+            "person_date": "brak danych",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "A. Canova",
+            "person_date": "brak danych",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Franciszek Rzewuski",
+            "person_date": "1775-1781",
+            "person_info": "marszałek nadworny koronny"
+        },
+        {
+            "person_name": "Michał Mniszech",
+            "person_date": "1781",
+            "person_info": "marszałek nadworny litewski"
+        },
+        {
+            "person_name": "Tomasz Ostrowski",
+            "person_date": "1781",
+            "person_info": "kasztelan czerski"
+        },
+        {
+            "person_name": "Józef Potocki",
+            "person_date": "1777",
+            "person_info": "krajczy koronny"
+        },
+        {
+            "person_name": "Kacper Lubomirski",
+            "person_date": "1764",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Teodor Szydłowski",
+            "person_date": "1764",
+            "person_info": "chorąży warszawski"
+        },
+        {
+            "person_name": "August Sułkowski",
+            "person_date": "1765",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pius Kiciński",
+            "person_date": "brak danych",
+            "person_info": "członek Komisji Ekonomicznej"
+        },
+        {
+            "person_name": "Paweł I",
+            "person_date": "1798",
+            "person_info": "car Rosji"
+        },
+        {
+            "person_name": "Felicjan Sławoj Składkowski",
+            "person_date": "1938",
+            "person_info": "premier RP"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "brak danych",
+            "person_info": "cesarzowa Rosji"
+        },
+        {
+            "person_name": "Marcin Matuszewicz",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Jędrzej Kitowicz",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Antoni Jabłonowski",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Ludwik Cieszkowski",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Andrzej Moszczeński",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Józef Kossakowski",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "A. J. Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "autor pamiętników"
+        },
+        {
+            "person_name": "Joachim Lelewel",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Tadeusz Korzon",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Szymon Askenazy",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Walerian Kalinka",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Władysław Konopczyński",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Emanuel Rostworowski",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Stanisław Wasylewski",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Aleksander Świętochowski",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Jerzy Łojek",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Karol Zbyszewski",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Krystyna Zienkowska",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Stanisław Mackiewicz",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Paweł Jasienica",
+            "person_date": "brak danych",
+            "person_info": "publicysta"
+        },
+        {
+            "person_name": "Andrzej Zahorski",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Henryk Rzewuski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Lucjan Siemieński",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Józef Ignacy Kraszewski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Władysław Stanisław Reymont",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Tadeusz Łopalewski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Ignacy Grabowski",
+            "person_date": "brak danych",
+            "person_info": "dramaturg"
+        },
+        {
+            "person_name": "Tadeusz Miciński",
+            "person_date": "brak danych",
+            "person_info": "dramaturg"
+        },
+        {
+            "person_name": "Roman Brandstaetter",
+            "person_date": "brak danych",
+            "person_info": "dramaturg"
+        },
+        {
+            "person_name": "Jerzy Sito",
+            "person_date": "brak danych",
+            "person_info": "dramaturg"
+        },
+        {
+            "person_name": "Bogdan Śmigielski",
+            "person_date": "brak danych",
+            "person_info": "dramaturg"
+        },
+        {
+            "person_name": "Bacciarello",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Krafft",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Lampi",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "E. Vigée-Lebrun",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "J. Pitschmann",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Marteau",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "A. Albertrandi",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Jan Matejko",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "A. Le Brun",
+            "person_date": "brak danych",
+            "person_info": "rzeźbiarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wołczyn",
+            "date": "1732-01-17"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1733"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1739"
+        },
+        {
+            "place": "Akwizgran",
+            "date": "1744-06-10"
+        },
+        {
+            "place": "Kassel",
+            "date": "brak danych"
+        },
+        {
+            "place": "Drezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wołczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "1750"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1752"
+        },
+        {
+            "place": "Łubnice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wschowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Radom",
+            "date": "brak danych"
+        },
+        {
+            "place": "Przemysl",
+            "date": "1753-03"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1755-06"
+        },
+        {
+            "place": "Anhalt-Zerbst",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1755-04"
+        },
+        {
+            "place": "Wschowa",
+            "date": "1755-05"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1756-07"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1758"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1758"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1762"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1763-10"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1764-02-05"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1764-09-13"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1764-11-25"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Haga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stambuł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bar",
+            "date": "1768-02"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1771-11-03"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1772"
+        },
+        {
+            "place": "Radom",
+            "date": "1767-05"
+        },
+        {
+            "place": "Marymont",
+            "date": "brak danych"
+        },
+        {
+            "place": "Konieczna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Preszów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Austria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rosja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Prusy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kaniów",
+            "date": "1787-03-24"
+        },
+        {
+            "place": "Chwastów",
+            "date": "1787"
+        },
+        {
+            "place": "Korsuń",
+            "date": "1787-05-11"
+        },
+        {
+            "place": "Kijów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grodno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Białystok",
+            "date": "1793-05-15"
+        },
+        {
+            "place": "Londyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Utrecht",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostrołęka",
+            "date": "1794-03-12"
+        },
+        {
+            "place": "Grodno",
+            "date": "1795-01-12"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1797-03-10"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1797-04-02"
+        },
+        {
+            "place": "Karlsbad",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mołdawia",
+            "date": "1796-04-13"
+        },
+        {
+            "place": "Zaleszczyki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Belweder",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "1770-1772"
+        },
+        {
+            "place": "Kozienice",
+            "date": "1788"
+        },
+        {
+            "place": "Miedziana Góra",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dębnik",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szczakowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hamburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kliwia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zamek Ujazdowski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łazienki",
+            "date": "1782"
+        },
+        {
+            "place": "Pomarańczarnia",
+            "date": "1788"
+        },
+        {
+            "place": "Wyspa",
+            "date": "1785"
+        },
+        {
+            "place": "Austria",
+            "date": "1779"
+        },
+        {
+            "place": "Zamek Warszawski",
+            "date": "1784"
+        },
+        {
+            "place": "Ujazdów",
+            "date": "1766-1769"
+        },
+        {
+            "place": "Ujazdów",
+            "date": "1764"
+        },
+        {
+            "place": "Golędzinów",
+            "date": "1764"
+        },
+        {
+            "place": "Skaryszew",
+            "date": "1780"
+        },
+        {
+            "place": "Wołczyn",
+            "date": "1938-07-15"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1990"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "name": "Kazimierz Krzysztof Kłokocki",
+    "psb_id": "PSB-13-0071",
+    "biogram_file": "Klokocki_Kazimierz_Krzysztof.txt",
+    "date_of_birth": {
+        "date": "ok. 1625"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1684-10-24"
+    },
+    "place_of_death": {
+        "place": "Starzynki"
+    },
+    "date_of_burial": {
+        "date": "1685-02-20"
+    },
+    "place_of_burial": {
+        "place": "Słuck"
+    },
+    "functions": [
+        "gubernator księstwa słuckiego i kopylskiego",
+        "organizator drukarni słuckiej",
+        "bibliotekarz nacji germańskiej",
+        "dworzanin królewicza Karola Ferdynanda",
+        "porucznik",
+        "zarządca fortecy w Słucku",
+        "stolnik płocki",
+        "poseł na sejm",
+        "opiekun Ludwiki Karoliny",
+        "ekonom (zarządca) dóbr Ludwiki Karoliny na Litwie",
+        "pułkownik JKM",
+        "chorąży miński"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Biblioteka nacji germańskiej",
+            "institution_place": "Orlean"
+        },
+        {
+            "institution_name": "Dwór królewicza Karola Ferdynanda, bpa płockiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dobra radziwiłłowskie",
+            "institution_place": "Słuck"
+        },
+        {
+            "institution_name": "Forteca w Słucku",
+            "institution_place": "Słuck"
+        },
+        {
+            "institution_name": "Gubernatura księstwa kopylskiego i słuckiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stolnik płocki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Drukarnia w Słucku",
+            "institution_place": "Słuck"
+        },
+        {
+            "institution_name": "Biblioteka Kolegium Jezuickiego",
+            "institution_place": "Słuck"
+        },
+        {
+            "institution_name": "Biblioteka Bobolanum",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Dobra radziwiłłowskie",
+            "institution_place": "Brańczyce"
+        },
+        {
+            "institution_name": "Dobra radziwiłłowskie",
+            "institution_place": "Starzynki"
+        },
+        {
+            "institution_name": "Posiadłość Rumoka",
+            "institution_place": "Mława"
+        },
+        {
+            "institution_name": "Pułk JKM",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Chorągiew mińska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Kłokocki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Hieronim Kłokocki"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Regina Teofila Mirska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Karol Ferdynand",
+            "person_date": "brak danych",
+            "person_info": "królewicz, biskup płocki"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "1657",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Bogusław Radziwiłł",
+            "person_date": "1657",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Iwan Chowański",
+            "person_date": "1660",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paweł Ricaut",
+            "person_date": "1678",
+            "person_info": "autor 'Monarchii tureckiej'"
+        },
+        {
+            "person_name": "A. Sajkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał Bodier",
+            "person_date": "brak danych",
+            "person_info": "autor 'Żywota Mahometa' i 'Opisania Alkoranu'"
+        },
+        {
+            "person_name": "Zbigniew Morsztyn",
+            "person_date": "brak danych",
+            "person_info": "poeta ariański"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Orlean",
+            "date": "1645-1647"
+        },
+        {
+            "place": "Batoh",
+            "date": "1652"
+        },
+        {
+            "place": "Modlin",
+            "date": "1656"
+        },
+        {
+            "place": "Pomiechowo",
+            "date": "1656"
+        },
+        {
+            "place": "Słuck",
+            "date": "1658"
+        },
+        {
+            "place": "Księstwo kopylskie",
+            "date": "1663"
+        },
+        {
+            "place": "Księstwo słuckie",
+            "date": "1663"
+        },
+        {
+            "place": "Słuck",
+            "date": "1678"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sucha",
+            "date": "brak danych"
+        }
+    ]
+}

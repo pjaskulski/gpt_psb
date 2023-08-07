@@ -1,0 +1,166 @@
+{
+    "name": "Maria Jadwiga Migowa",
+    "psb_id": "PSB-21-0044",
+    "biogram_file": "Migowa_z_Gancwohlow.txt",
+    "date_of_birth": {
+        "date": "1890",
+        "note": "lub 1891"
+    },
+    "place_of_birth": {
+        "place": "Będzin"
+    },
+    "date_of_death": {
+        "date": "1942-07-22"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dziennikarka",
+        "powieściopisarka",
+        "członek Związku Filaretów",
+        "członek Związku Strzeleckiego",
+        "kierownik kuchni dla rannych legionistów i uchodźców",
+        "współpracownik „Ilustrowanego Kuriera Codziennego”",
+        "współpracownik „Gońca Krakowskiego”",
+        "współpracownik „Nowej Reformy”",
+        "współpracownik „Nowości Ilustrowanych”",
+        "współpracownik „Kuriera Czerwonego”",
+        "współpracownik „Kina”",
+        "współpracownik „Świata”",
+        "współpracownik „Kuriera Porannego”",
+        "współpracownik „Światowida”",
+        "współpracownik wydawnictwa Ibis",
+        "pisarka pod pseudonimem Kamil Norden",
+        "kierownik jadłodajni na Nowym Świecie w Warszawie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "I Prywatna Średnia Szkoła Żeńska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Filozoficzny UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Związek Filaretów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Strzelecki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ilustrowany Kurier Codzienny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Goniec Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Nowa Reforma",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Nowości Ilustrowane",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kurier Czerwony",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kino",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Świat",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kurier Poranny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Światowid",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Ibis",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Nowiny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Goniec Poniedziałkowy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Głos Narodu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Prawda",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Józef Kazimierz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Maria z Kempińskich"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jan Miga"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Miga",
+            "person_date": "1914",
+            "person_info": "dziennikarz"
+        },
+        {
+            "person_name": "Anatol Stern",
+            "person_date": "1938",
+            "person_info": "scenarzysta"
+        },
+        {
+            "person_name": "Jan Kiepura",
+            "person_date": "brak danych",
+            "person_info": "tenor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Będzin",
+            "date": "1890-05-19"
+        },
+        {
+            "place": "Kraków",
+            "date": "1908"
+        },
+        {
+            "place": "Praga",
+            "date": "1915"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1926"
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "name": "Wolimuntowicz Sudywoj",
+    "psb_id": "PSB-45-0203",
+    "biogram_file": "Sudywoj.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1459",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan wileński",
+        "namiestnik smoleński",
+        "kanclerz wielkiego księcia",
+        "starosta kowieński",
+        "starosta żmudzki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kasztelania wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Namiestnictwo smoleńskie",
+            "institution_place": "Smoleńsk"
+        },
+        {
+            "institution_name": "Kanclerstwo wielkiego księcia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Starostwo kowieńskie",
+            "institution_place": "Kowno"
+        },
+        {
+            "institution_name": "Rada wielkoksiążęca",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wolimunt"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Rumbold"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Michał Kieżgajło"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Szedybor"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław (Stanko)"
+        },
+        {
+            "family_relation": "córka",
+            "person": "nieznane imię"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Gasztołd"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Wiażewicz"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Michał Kieżgajło"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jan Kieżgajło"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Krystyn Ościk",
+            "person_date": "1431",
+            "person_info": "kasztelan wileński"
+        },
+        {
+            "person_name": "Paweł von Russdorf",
+            "person_date": "1431",
+            "person_info": "wielki mistrz krzyżacki"
+        },
+        {
+            "person_name": "Władysław Jagiełło",
+            "person_date": "1432",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jerzy Butrym",
+            "person_date": "1432",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt Kiejstutowicz",
+            "person_date": "1432",
+            "person_info": "wielki książę Litwy"
+        },
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1440",
+            "person_info": "król, wielki książę Litwy"
+        },
+        {
+            "person_name": "Michał Kieżgajłowicz",
+            "person_date": "1441",
+            "person_info": "kanclerz Wielkiego Księstwa Litewskiego"
+        },
+        {
+            "person_name": "Jan Gasztołd",
+            "person_date": "1441",
+            "person_info": "wojewoda wileński"
+        },
+        {
+            "person_name": "Heidenreich Vinke von Overberg",
+            "person_date": "1445",
+            "person_info": "mistrz inflancki"
+        },
+        {
+            "person_name": "Konrad von Erlichshausen",
+            "person_date": "brak danych",
+            "person_info": "wielki mistrz krzyżacki"
+        },
+        {
+            "person_name": "Ludwik von Erlichshausen",
+            "person_date": "1459",
+            "person_info": "wielki mistrz krzyżacki"
+        },
+        {
+            "person_name": "Michał Kieżgajłowicz",
+            "person_date": "1459",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wojciech Janowicz Moniwid",
+            "person_date": "1461",
+            "person_info": "kasztelan wileński"
+        },
+        {
+            "person_name": "Stanko Mordas",
+            "person_date": "1463",
+            "person_info": "starosta kowieński"
+        },
+        {
+            "person_name": "Jan Wiażewicz",
+            "person_date": "brak danych",
+            "person_info": "wojewoda trocki"
+        },
+        {
+            "person_name": "Michał Kieżgajło",
+            "person_date": "brak danych",
+            "person_info": "kanclerz litewski i wojewoda wileński"
+        },
+        {
+            "person_name": "Jan Kieżgajło",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maciej",
+            "person_date": "1459",
+            "person_info": "altarzysta Sudywoja Wolimuntowicza"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dziawołtowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kowno",
+            "date": "1431"
+        },
+        {
+            "place": "Wołyń",
+            "date": "1431"
+        },
+        {
+            "place": "Czartorysk",
+            "date": "1431-09-01"
+        },
+        {
+            "place": "Skirstymoniu",
+            "date": "1432-05-15"
+        },
+        {
+            "place": "Oszmiana",
+            "date": "1432"
+        },
+        {
+            "place": "Wilno",
+            "date": "1432"
+        },
+        {
+            "place": "Grodno",
+            "date": "1432-10-15"
+        },
+        {
+            "place": "Kozielsk",
+            "date": "1445"
+        },
+        {
+            "place": "Możajsk",
+            "date": "1445"
+        },
+        {
+            "place": "Wereja",
+            "date": "1445"
+        },
+        {
+            "place": "Smoleńsk",
+            "date": "1445"
+        },
+        {
+            "place": "Oniksztach",
+            "date": "brak danych"
+        }
+    ]
+}

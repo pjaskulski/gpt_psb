@@ -1,0 +1,253 @@
+{
+    "name": "Hincza z Rogowa",
+    "psb_id": "PSB-09-0740",
+    "biogram_file": "Hincza_z_Rogowa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1473-09-29",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "katedra na Wawelu"
+    },
+    "functions": [
+        "podskarbi królestwa",
+        "kasztelan sandomierski",
+        "starosta radomski",
+        "kasztelan rozpierski",
+        "podskarbi państwa",
+        "starosta nieszawski",
+        "kasztelan sieradzki",
+        "starosta inowrocławski",
+        "starosta gołubski",
+        "asesor w sądzie królewskim"
+    ],
+    "institutions": [
+        {
+            "institution_name": "dwór królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zamek chęciński",
+            "institution_place": "Chęciny"
+        },
+        {
+            "institution_name": "starostwo radomskie",
+            "institution_place": "Radom"
+        },
+        {
+            "institution_name": "starostwo nieszawskie",
+            "institution_place": "Nieszawa"
+        },
+        {
+            "institution_name": "starostwo inowrocławskie",
+            "institution_place": "Inowrocław"
+        },
+        {
+            "institution_name": "sąd królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "uniwersytet w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kapituła katedralna krakowska",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Hinczka z Rogowa"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Dorota z Koziegłowskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jakub"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Małgorzata"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Kuropatwa",
+            "person_date": "1431",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fedor ks. Korybutowicz",
+            "person_date": "1431",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Spytek z Melsztyna",
+            "person_date": "1439",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "1439",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Władysław Jagiellończyk",
+            "person_date": "1442",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1447",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jakub Dembiński",
+            "person_date": "1460",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Tęczyński",
+            "person_date": "1461",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Tęczyński",
+            "person_date": "1461",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fryderyk II",
+            "person_date": "1455",
+            "person_info": "margrabia brandenburski"
+        },
+        {
+            "person_name": "Jan Bażyński",
+            "person_date": "1453",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Rutger v. Birken",
+            "person_date": "1453",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Koniecpolski",
+            "person_date": "1454",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "J. Czyżowski",
+            "person_date": "1454",
+            "person_info": "kasztelan krakowski"
+        },
+        {
+            "person_name": "Bartłomiej Gruszczyński",
+            "person_date": "brak danych",
+            "person_info": "kasztelan kaliski"
+        },
+        {
+            "person_name": "Jan",
+            "person_date": "brak danych",
+            "person_info": "arcybiskup"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Rogowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chęciny",
+            "date": "1427"
+        },
+        {
+            "place": "Węgry",
+            "date": "1442"
+        },
+        {
+            "place": "Brzeźnica",
+            "date": "1419"
+        },
+        {
+            "place": "Radom",
+            "date": "1440"
+        },
+        {
+            "place": "Rozprza",
+            "date": "1443"
+        },
+        {
+            "place": "Nieszawa",
+            "date": "1452"
+        },
+        {
+            "place": "Sieradz",
+            "date": "1453"
+        },
+        {
+            "place": "Inowrocław",
+            "date": "1453"
+        },
+        {
+            "place": "Pyzdry",
+            "date": "1453"
+        },
+        {
+            "place": "Parczew",
+            "date": "1453"
+        },
+        {
+            "place": "Toruń",
+            "date": "1453"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1455"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1461"
+        },
+        {
+            "place": "Działoszyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Radoszyce",
+            "date": "1462"
+        },
+        {
+            "place": "Zwoleń",
+            "date": "1462"
+        },
+        {
+            "place": "Koło",
+            "date": "1463"
+        },
+        {
+            "place": "Gołub",
+            "date": "brak danych"
+        }
+    ]
+}

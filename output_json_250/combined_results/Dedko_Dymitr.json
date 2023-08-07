@@ -1,0 +1,95 @@
+{
+    "name": "Dymitr Dedko",
+    "psb_id": "PSB-05-0062",
+    "biogram_file": "Dedko_Dymitr.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "bojar Rusi halickiej",
+        "dygnitarz Bolesława Jerzego",
+        "starosta ziemi ruskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Bojarstwo Rusi Halickiej",
+            "institution_place": "Rus Halicka"
+        },
+        {
+            "institution_name": "Starostwo Ziemi Ruskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Królestwo Polskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Królestwo Węgierskie",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Bolesław Jerzy",
+            "person_date": "brak danych",
+            "person_info": "dygnitarz"
+        },
+        {
+            "person_name": "Janko z Czarnkowa",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz W.",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik andeg.",
+            "person_date": "1344",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Rus halicka",
+            "date": "brak danych"
+        },
+        {
+            "place": "gród przemyski",
+            "date": "brak danych"
+        },
+        {
+            "place": "ziemia ruskia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Węgry",
+            "date": "brak danych"
+        },
+        {
+            "place": "Koszyce",
+            "date": "1344"
+        }
+    ]
+}

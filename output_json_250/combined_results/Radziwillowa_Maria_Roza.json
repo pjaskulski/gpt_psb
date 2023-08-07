@@ -1,0 +1,202 @@
+{
+    "name": "Maria Róża Radziwiłłowa",
+    "psb_id": "PSB-30-0165",
+    "biogram_file": "Radziwillowa_Maria_Roza.txt",
+    "date_of_birth": {
+        "date": "1863-10-08"
+    },
+    "place_of_birth": {
+        "place": "Paryż"
+    },
+    "date_of_death": {
+        "date": "1941"
+    },
+    "place_of_death": {
+        "place": "Rzym"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Campo Verano"
+    },
+    "functions": [
+        "ordynatowa nieświeska",
+        "opiekunka interesów trzech radziwiłłowskich ordynacji (nieświeskiej, kleckiej i dawidgródeckiej)",
+        "dożywotniczka Nieświeża",
+        "spadkobierczyni dóbr",
+        "wykonawca testamentu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "zgromadzenie Wniebowzięcia Najśw. Maryi Panny",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Bazylika Św. Piotra",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biblioteka Watykańska",
+            "institution_place": "Watykan"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "wnuczka",
+            "person": "Władysław Grzegorz"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Władysław Branicki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Maria z Sapiehów"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Maria Antoniowa Radziwiłłowa"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jerzy Radziwiłł"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Albrecht Radziwiłł"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Karol Mikołaj Radziwiłł"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Leon Radziwiłł"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Teresa Radziwiłł"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Róża Radziwiłł"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta Radziwiłł"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Maria Antoniowa Radziwiłłowa",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Radziwiłł",
+            "person_date": "1883",
+            "person_info": "ordynat na Nieświeżu"
+        },
+        {
+            "person_name": "Walerian Meysztowicz",
+            "person_date": "brak danych",
+            "person_info": "kanonik bazyliki Św. Piotra"
+        },
+        {
+            "person_name": "Edward Woyniłłowicz",
+            "person_date": "brak danych",
+            "person_info": "opiekun fortuny małoletnich dziedziców"
+        },
+        {
+            "person_name": "Antoni Żwan",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "B. Mussolini",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Górski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Potocka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. Jussupow",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "królowa Helena",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "ks. Meysztowicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Paryż",
+            "date": "1863-10-08"
+        },
+        {
+            "place": "Kijowszczyzna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1903"
+        },
+        {
+            "place": "Nieśwież",
+            "date": "1904"
+        },
+        {
+            "place": "Olivetto",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lipki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Biała Cerkiew",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nieśwież",
+            "date": "1939"
+        }
+    ]
+}

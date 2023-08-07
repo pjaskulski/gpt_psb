@@ -1,0 +1,144 @@
+{
+    "name": "Wanda Aleksandra Landowska",
+    "psb_id": "PSB-16-0484",
+    "biogram_file": "Landowska_Wanda_Aleksandra.txt",
+    "date_of_birth": {
+        "date": "1879-07-05"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1959-08-16"
+    },
+    "place_of_death": {
+        "place": "Lakeville",
+        "note": "stan Connecticut"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "klawesynistka",
+        "pedagog",
+        "kompozytorka",
+        "publicystka",
+        "profesor gry klawesynowej w Królewskiej Wyższej Szkole Muzycznej w Berlinie",
+        "prowadząca mistrzowskie kursy gry klawesynowej w Bazylei",
+        "wykładowca na Sorbonie",
+        "założycielka szkoły muzyki dawnej – École de Musique Ancienne",
+        "nauczycielka gry klawesynowej w konserwatorium paryskim",
+        "nauczycielka gry klawesynowej w Nowym Jorku",
+        "doktor muzyki honoris causa na Uniwersytecie w Hartford"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Konserwatorium Warszawskie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Schola Cantorum",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Królewska Wyższa Szkoła Muzyczna",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "École de Musique Ancienne",
+            "institution_place": "Saint-Leu la Forêt"
+        },
+        {
+            "institution_name": "Konserwatorium Paryskie",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Uniwersytet w Hartford",
+            "institution_place": "Hartford"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Marian Landowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Ewelina Lautenberg"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "A. Michałowski",
+            "person_date": "1895",
+            "person_info": "nauczyciel w Konserwatorium Warszawskim"
+        },
+        {
+            "person_name": "H. Urban",
+            "person_date": "1896",
+            "person_info": "nauczyciel kompozycji w Berlinie"
+        },
+        {
+            "person_name": "M. Karłowicz",
+            "person_date": "1896",
+            "person_info": "student kompozycji w Berlinie"
+        },
+        {
+            "person_name": "H. Lew",
+            "person_date": "brak danych",
+            "person_info": "pisarz i znawca folkloru hebrajskiego"
+        },
+        {
+            "person_name": "M. de Falla",
+            "person_date": "1926",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "F. Poulenc",
+            "person_date": "1927",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "E. Grieg",
+            "person_date": "brak danych",
+            "person_info": "kompozytor, wpływ na twórczość L."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1879-07-05"
+        },
+        {
+            "place": "Berlin",
+            "date": "1896"
+        },
+        {
+            "place": "Paryż",
+            "date": "1900"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1912"
+        },
+        {
+            "place": "Bazylea",
+            "date": "1919"
+        },
+        {
+            "place": "Saint-Leu la Forêt",
+            "date": "1925"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "1941"
+        },
+        {
+            "place": "Lakeville",
+            "date": "1959-08-16"
+        }
+    ]
+}

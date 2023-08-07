@@ -1,0 +1,294 @@
+{
+    "name": "Aleksander Suchten",
+    "psb_id": "PSB-45-0190",
+    "biogram_file": "Suchten.txt",
+    "date_of_birth": {
+        "date": "1520",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Gdańsk",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych",
+        "note": "między 1576 a 1590"
+    },
+    "place_of_death": {
+        "place": "Saksonia",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "kanonik warmiński",
+        "lekarz",
+        "alchemik",
+        "poeta",
+        "nadworny lekarz króla Zygmunta Augusta",
+        "nadworny medyk palatyna reńskiego Ottona Henryka",
+        "bibliotekarz palatyna reńskiego Ottona Henryka",
+        "lekarz nadworny księcia Albrechta Hohenzollerna",
+        "lekarz w Strasburgu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "gimnazjum",
+            "institution_place": "Elbląg"
+        },
+        {
+            "institution_name": "Kapituła Warmińska",
+            "institution_place": "Frombork"
+        },
+        {
+            "institution_name": "Uniwersytet w Lowanium",
+            "institution_place": "Lowanium"
+        },
+        {
+            "institution_name": "Uniwersytet w Rzymie",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Uniwersytet w Ferrarze",
+            "institution_place": "Ferrara"
+        },
+        {
+            "institution_name": "Uniwersytet w Bolonii",
+            "institution_place": "Bolonia"
+        },
+        {
+            "institution_name": "Uniwersytet w Padwie",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Uniwersytet w Królewcu",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Biblioteka księcia Albrechta",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Biblioteka palatyna reńskiego Ottona Henryka",
+            "institution_place": "Weinheim"
+        },
+        {
+            "institution_name": "Królewski dwór Zygmunta Augusta",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Sejm Rzeszy",
+            "institution_place": "Speyer"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "Heinrich"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Georg (Jurgen)"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Eufemia Schultz"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Christoph"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Aleksander Sculteti"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Bartłomiej (Bertold)"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jerzy (Georg)"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Wilhelm Gnapheus",
+            "person_date": "1535–9",
+            "person_info": "humanista, zwolennik reformacji"
+        },
+        {
+            "person_name": "Jan Dantyszka",
+            "person_date": "1539",
+            "person_info": "bp. warmiński"
+        },
+        {
+            "person_name": "Pietro Bembo",
+            "person_date": "1541",
+            "person_info": "włoski humanista"
+        },
+        {
+            "person_name": "Albrecht Hohenzollern",
+            "person_date": "1545",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Andrzej Górka",
+            "person_date": "1547",
+            "person_info": "kasztelan poznański"
+        },
+        {
+            "person_name": "Jerzy Sabinus",
+            "person_date": "1547",
+            "person_info": "rektor uniw. w Królewcu"
+        },
+        {
+            "person_name": "Fryderyk Staphylus",
+            "person_date": "1550",
+            "person_info": "rektor"
+        },
+        {
+            "person_name": "Felix Koning Polyphemus",
+            "person_date": "brak danych",
+            "person_info": "bibliotekarz ks. Albrechta"
+        },
+        {
+            "person_name": "Otto Henryk",
+            "person_date": "1549",
+            "person_info": "palatyn reński"
+        },
+        {
+            "person_name": "Michał Schütz Toxites",
+            "person_date": "1549",
+            "person_info": "uczeń"
+        },
+        {
+            "person_name": "Wilhelm Rascalon",
+            "person_date": "1549",
+            "person_info": "uczeń"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1557",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Marcin Knust",
+            "person_date": "1567",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Johann von Seebach",
+            "person_date": "brak danych",
+            "person_info": "właściciel majątku w Saksonii"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gdańsk",
+            "date": "1520"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1535-1539"
+        },
+        {
+            "place": "Frombork",
+            "date": "1539-09-01"
+        },
+        {
+            "place": "Lowanium",
+            "date": "1540"
+        },
+        {
+            "place": "Rzym",
+            "date": "1541"
+        },
+        {
+            "place": "Ferrara",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bolonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Padwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1545"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1546"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1547"
+        },
+        {
+            "place": "Weinheim",
+            "date": "1549"
+        },
+        {
+            "place": "Kraków",
+            "date": "1554"
+        },
+        {
+            "place": "Wilno",
+            "date": "1557"
+        },
+        {
+            "place": "Wilno",
+            "date": "1561"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1563"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1565"
+        },
+        {
+            "place": "Kolonia",
+            "date": "1567"
+        },
+        {
+            "place": "Strasburg",
+            "date": "1570"
+        },
+        {
+            "place": "Speyer",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kolonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Śląsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Saksonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nadrenia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Saksonia",
+            "date": "między 1576 a 1590"
+        }
+    ]
+}

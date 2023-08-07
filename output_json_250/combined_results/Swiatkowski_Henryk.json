@@ -1,0 +1,539 @@
+{
+    "name": "Henryk Świątkowski",
+    "psb_id": "PSB-51-0102",
+    "biogram_file": "Swiatkowski_Henryk.txt",
+    "date_of_birth": {
+        "date": "1896-04-02"
+    },
+    "place_of_birth": {
+        "place": "Dzierzążnia",
+        "note": "powiat płoński"
+    },
+    "date_of_death": {
+        "date": "1970-03-22"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "Aleja Zasłużonych cmentarza Wojskowego na Powązkach"
+    },
+    "functions": [
+        "prawnik",
+        "działacz socjalistyczny",
+        "działacz komunistyczny",
+        "poseł na sejmy",
+        "minister sprawiedliwości",
+        "profesor Uniwersytetu Warszawskiego",
+        "kancelista kompanii sztabowej Dowództwa Okręgu Generalnego",
+        "redaktor w Polskiej Agencji Telegraficznej",
+        "stenograf w Polskiej Agencji Telegraficznej",
+        "aplikant sądowy",
+        "kierownik Okręgowego Komitetu Robotniczego PPS",
+        "adwokat",
+        "wiceprezes Zrzeszenia Prawników Socjalistów",
+        "radny Rady Miejskiej w Zamościu",
+        "poseł na Sejm",
+        "członek Rady Naczelnej PPS",
+        "przewodniczący Związku Zawodowego Małorolnych",
+        "radca prawny Związku Pracowników Komunalnych i Instytucji Użyteczności Publicznej",
+        "radca prawny Związku Zawodowego Robotników Rolnych",
+        "radca prawny Związku Zawodowego Małorolnych",
+        "przewodniczący Stowarzyszenia Obrony Wolności Sumienia",
+        "członek komisji rewizyjnej w zarządzie Ligi Obrony Praw Człowieka i Obywatela",
+        "członek Zarządu Głównego Towarzystwa Uniwersytetu Robotniczego",
+        "redaktor \"Sumienia Społecznego\"",
+        "redaktor \"Przeglądu Prawa Pracy\"",
+        "radny w Warszawie",
+        "radca prawny Związku Spółdzielni Spożywców \"Społem\"",
+        "radca prawny Spółdzielni Mieszkaniowej \"Domy Spółdzielcze\"",
+        "członek konspiracyjnej PPS — Wolność, Równość, Niepodległość",
+        "wiceprzewodniczący Rady Naczelnej Robotniczej Partii Polskich Socjalistów",
+        "członek Krajowej Rady Narodowej",
+        "oficer oświatowy w dowództwie AL w Śródmieściu",
+        "pełnomocnik rządu",
+        "kierownik Wojewódzkiego Komitetu PPS",
+        "przewodniczący Tymczasowej Rady Naczelnej PPS",
+        "kierownik Centralnego Sądu Partyjnego",
+        "kierownik Komitetu Organizacyjnego Uniwersytetu w Toruniu",
+        "zastępca ministra sprawiedliwości",
+        "założyciel Zrzeszenia Prawników Demokratów",
+        "członek Związku Parlamentarnego Polskich Socjalistów",
+        "wiceprzewodniczący Centralnego Komitetu Wykonawczego (CKW)",
+        "przewodniczący Głównej Komisji Badania Zbrodni Niemieckich w Polsce",
+        "członek prezydium Komitetu Słowiańskiego",
+        "prezes Zarządu Głównego Tow. Przyjaźni PolskoRadzieckiej",
+        "kierownik komisji kodyfikacyjnej prawa cywilnego",
+        "profesor zwyczajny Uniwersytetu Warszawskiego",
+        "kierownik redakcji miesięcznika „Życie Słowiańskie”",
+        "prezes Naczelnej Rady Spółdzielczej",
+        "przewodniczący Centralnego Komitetu Wykonawczego",
+        "członek Biura Politycznego, Biura Organizacyjnego i Sekretariatu KC PZPR",
+        "kierownik Ministerstwa Sprawiedliwości",
+        "przewodniczący komisji redagującej projekt konstytucji",
+        "członek Komisji Konstytucyjnej",
+        "członek Sejmu PRL pierwszej kadencji",
+        "członek Centralnej Komisji Kwalifikacyjnej dla Pracowników Nauki",
+        "kierownik Katedry Prawa Rolnego na Uniwersytecie Warszawskim",
+        "członek Komitetu Nauk Prawnych PAN",
+        "członek Rady Naukowej Instytutu Nauk Prawnych PAN",
+        "członek Zakładu Historii Partii przy KC PZPR",
+        "członek Wyższej Szkoły Nauk Społecznych przy KC PZPR",
+        "członek Komisji Historii Ruchu Zawodowego Centralnej Rady Związków Zawodowych",
+        "członek Komisji Historycznej przy Zarządzie Głównym Związku Zawodowego Pracowników Rolnych",
+        "dziekan Wydziału Prawa Uniwersytetu Warszawskiego",
+        "kierownik Samodzielnego Zakładu Wyznaniowego Prawa Państwowego na Uniwersytecie Warszawskim",
+        "promotor prac magisterskich i doktorskich",
+        "członek Towarzystwa Krzewienia Kultury Świeckiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Tow. Kursów Naukowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dowództwo Okręgu Generalnego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Polska Agencja Telegraficzna (PAT)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Okręgowy Komitet Robotniczy PPS",
+            "institution_place": "Zamość"
+        },
+        {
+            "institution_name": "Tow. Uniw. Robotniczego (TUR)",
+            "institution_place": "Zamość"
+        },
+        {
+            "institution_name": "Zrzeszenie Prawników Socjalistów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Zawodowy Małorolnych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Robotnicza Partia Polskich Socjalistów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Spółdzielni Spożywców «Społem»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Spółdzielnia Mieszkaniowa «Domy Spółdzielcze»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Pracowników Komunalnych i Instytucji Użyteczności Publicznej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Zawodowy Robotników Rolnych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stow. Obrony Wolności Sumienia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Liga Obrony Praw Człowieka i Obywatela",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Krajowa Rada Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Tymczasowy",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Uniwersytet w Toruniu",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Ministerstwo Sprawiedliwości",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zrzeszenie Prawników Demokratów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Parlamentarny Polskich Socjalistów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tymczasowy Rząd Jedności Narodowej Osóbki-Morawskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Sprawiedliwości",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralny Komitet Wykonawczy (CKW)",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Główna Komisja Badania Zbrodni Niemieckich w Polsce",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Słowiański",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Przyjaźni PolskoRadzieckiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Słowiański",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Naczelna Rada Spółdzielcza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Robotnicza (PPR)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Zjednoczona Partia Robotnicza (PZPR)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Współpracy Prawniczej Polsko-Czechosłowackiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Przyjaźni Polsko-Radzieckiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralna Komisja Kwalifikacyjna dla Pracowników Nauki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Szkoły Świeckiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Ateistów i Wolnomyślicieli",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Religioznawcze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Główna Szkolnictwa Wyższego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Akademia Nauk (PAN)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zakład Historii Partii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Nauk Społecznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralna Rada Związków Zawodowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Zawodowy Pracowników Rolnych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Przegląd Ustawodawstwa Gospodarczego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Prawo i Życie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Nauk Prawnych PAN",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Samodzielny Zakład Wyznaniowego Prawa Państwowego Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Krzewienia Kultury Świeckiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Agencja Telegraficzna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Główny Urząd Kontroli Prasy, Publikacji i Widowisk",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "matka",
+            "person": "Leokadia Świątkowska"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Rochmiński"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Jadwiga Pyszkowska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Helena"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Jadwiga"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Leokadia Świątkowska",
+            "person_date": "brak danych",
+            "person_info": "krawcowa"
+        },
+        {
+            "person_name": "Jan Rochmiński",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel szkół elementarnych"
+        },
+        {
+            "person_name": "Zygmunt Piotrowski",
+            "person_date": "1924",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Teodor Duracz",
+            "person_date": "1926",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Zubowicz",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bolesław Bierut",
+            "person_date": "1944",
+            "person_info": "przewodniczący Krajowej Rady Narodowej"
+        },
+        {
+            "person_name": "Michał Orzęcki",
+            "person_date": "1934",
+            "person_info": "kierownik adwokackiego koła dyskusyjnego 'Tusculum'"
+        },
+        {
+            "person_name": "Marian Lubecki",
+            "person_date": "1936",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Gadomski",
+            "person_date": "1937",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Jóźwiak",
+            "person_date": "1937",
+            "person_info": "działacz komunistyczny"
+        },
+        {
+            "person_name": "Norbert Barlicki",
+            "person_date": "1940",
+            "person_info": "członek tajnej organizacji oporu w Auschwitz"
+        },
+        {
+            "person_name": "Stanisław Dubois",
+            "person_date": "1940",
+            "person_info": "członek tajnej organizacji oporu w Auschwitz"
+        },
+        {
+            "person_name": "Natalia Zarembina",
+            "person_date": "1941",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Edward Osóbka-Morawski",
+            "person_date": "1943",
+            "person_info": "członek Robotniczej Partii Polskich Socjalistów"
+        },
+        {
+            "person_name": "Bruno Skuteli",
+            "person_date": "1944",
+            "person_info": "dowódca oddziału AL"
+        },
+        {
+            "person_name": "Bolesław Drobner",
+            "person_date": "1945",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stefan Matuszewski",
+            "person_date": "1945",
+            "person_info": "sekretarz generalny Centralnego Komitetu Wykonawczego PPS"
+        },
+        {
+            "person_name": "Leon Chajn",
+            "person_date": "1945",
+            "person_info": "podsekretarz stanu"
+        },
+        {
+            "person_name": "Stanisław Szwalbe",
+            "person_date": "1945",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt Żuławski",
+            "person_date": "1945",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Julian Hochfeld",
+            "person_date": "1946",
+            "person_info": "redaktor miesięcznika 'Przegląd Socjalistyczny'"
+        },
+        {
+            "person_name": "Stanisław Skowroński",
+            "person_date": "brak danych",
+            "person_info": "zwolennik współpracy z PPR"
+        },
+        {
+            "person_name": "Matuszewski",
+            "person_date": "brak danych",
+            "person_info": "zwolennik współpracy z PPR"
+        },
+        {
+            "person_name": "Osóbka-Morawski",
+            "person_date": "brak danych",
+            "person_info": "przewodniczący CKW PPS"
+        },
+        {
+            "person_name": "Józef Cyrankiewicz",
+            "person_date": "brak danych",
+            "person_info": "sekretarz generalny CKW PPS"
+        },
+        {
+            "person_name": "Roman Zambrowski",
+            "person_date": "1948",
+            "person_info": "współautor koncepcji centralizmu demokratycznego nowej partii"
+        },
+        {
+            "person_name": "Leon Finkelsztejn",
+            "person_date": "1948",
+            "person_info": "faktyczny autor referatu o statucie i zadaniach organizacyjnych PZPR"
+        },
+        {
+            "person_name": "Bierut",
+            "person_date": "1950",
+            "person_info": "przewodniczący KC PZPR"
+        },
+        {
+            "person_name": "Stefan Rozmaryn",
+            "person_date": "1951",
+            "person_info": "główna rola w komisjach redagujących projekt konstytucji"
+        },
+        {
+            "person_name": "Kazimierz Rusinek",
+            "person_date": "1948",
+            "person_info": "zastąpiony przez Świątkowskiego na stanowisku przewodniczącego CKW"
+        },
+        {
+            "person_name": "W. Barcikowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Chajn",
+            "person_date": "1949",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zambrowski",
+            "person_date": "1949",
+            "person_info": "nadzorował Ministerstwo Sprawiedliwości z ramienia Sekretariatu KC PZPR"
+        },
+        {
+            "person_name": "Henryk Skiba",
+            "person_date": "1966",
+            "person_info": "współautor książki 'Podstawowe zagadnienia prawa spółdzielczego w Polsce'"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dzierzążnia",
+            "date": "1896-04-02"
+        },
+        {
+            "place": "Przewodowo",
+            "date": "1901"
+        },
+        {
+            "place": "Pułtusk",
+            "date": "1906"
+        },
+        {
+            "place": "Zamość",
+            "date": "1923"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1934"
+        },
+        {
+            "place": "Pruszków",
+            "date": "1944-10-02"
+        },
+        {
+            "place": "Turbacz",
+            "date": "1944-11"
+        },
+        {
+            "place": "Kraków",
+            "date": "1945-01-18"
+        },
+        {
+            "place": "Lublin",
+            "date": "1945-01-24"
+        },
+        {
+            "place": "Toruń",
+            "date": "1945-02-18"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "1945-03-15"
+        }
+    ]
+}

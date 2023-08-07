@@ -1,0 +1,201 @@
+{
+    "name": "Jan Rullus",
+    "psb_id": "PSB-33-0054",
+    "biogram_file": "Rullus_Jan.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Kraków"
+    },
+    "date_of_death": {
+        "date": "1532-06",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Wrocław"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "humanista",
+        "pedagog",
+        "bibliofil",
+        "student uniwersytetu wiedeńskiego",
+        "student uniwersytetu krakowskiego",
+        "pisarz",
+        "rektor gimnazjum przy kościele Św. Marii Magdaleny we Wrocławiu",
+        "kandydat na katedrę grecystyki w Akademii Lubrańskiego w Poznaniu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "universitas Viennensis",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Gimnazjum przy kościele Św. Marii Magdaleny",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Akademia Lubrańskiego",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Rada Miejska Wrocławia",
+            "institution_place": "Wrocław"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "matka",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "brat stryjeczny",
+            "person": "Sebastian Puschel"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Walentego Eck",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Leonard Cox",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Filip Melanchton",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Erazm z Rotterdamu",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Andrzej Trzecieski starszy",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Jan Antoninus",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Anzelm Ephorinus",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Jost Ludwik Decjusz",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Stanisław Zaborowski",
+            "person_date": "1526",
+            "person_info": "autor gramatyki polskiej"
+        },
+        {
+            "person_name": "Andrzej Winkler",
+            "person_date": "brak danych",
+            "person_info": "humanista"
+        },
+        {
+            "person_name": "Antoni Mela",
+            "person_date": "brak danych",
+            "person_info": "humanista"
+        },
+        {
+            "person_name": "Jan Metzler",
+            "person_date": "brak danych",
+            "person_info": "humanista"
+        },
+        {
+            "person_name": "Klemens Borek",
+            "person_date": "brak danych",
+            "person_info": "lekarz"
+        },
+        {
+            "person_name": "Maciej Przybyło",
+            "person_date": "brak danych",
+            "person_info": "lekarz"
+        },
+        {
+            "person_name": "Jan Lang",
+            "person_date": "brak danych",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Jerzy Werner",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel, pisarz miejski"
+        },
+        {
+            "person_name": "Andrzej Schroeter",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Wencki",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Wawrzyniec Just",
+            "person_date": "brak danych",
+            "person_info": "kanonik opolski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Legnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Głogów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1526"
+        },
+        {
+            "place": "Świdnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Koszyce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Przerów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Opole",
+            "date": "brak danych"
+        }
+    ]
+}

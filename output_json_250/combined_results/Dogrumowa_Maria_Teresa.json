@@ -1,0 +1,191 @@
+{
+    "name": "Maria Teresa Dogrumowa",
+    "psb_id": "PSB-05-0364",
+    "biogram_file": "Dogrumowa_Maria_Teresa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Wiedeń",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "major rosyjski",
+        "kamerdyner królewski",
+        "marszałkowa Lubomirska",
+        "marszałek nadworny litewski",
+        "marszałek wielki koronny",
+        "książę generał",
+        "hetman",
+        "posłowie austriacki",
+        "tłumacz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "matka",
+            "person": "nieznana"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Le Clerque"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Aleksander Stefanowicz Ugriumow"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "marszałkowa Lubomirska"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Ignacy Potocki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Franciszek Ryx",
+            "person_date": "1784",
+            "person_info": "kamerdyner królewski"
+        },
+        {
+            "person_name": "gen. Komarzewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "ks. Adam Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Branicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tyzenhauz",
+            "person_date": "brak danych",
+            "person_info": "bliski znajomy Marii Teresy Dogrumowej"
+        },
+        {
+            "person_name": "Wilhelm Taylor",
+            "person_date": "brak danych",
+            "person_info": "zbankrutowany kupiec angielski, zaprzyjaźniony z Marią Teresą Dogrumową"
+        },
+        {
+            "person_name": "hetman Branicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "St. Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "marsz. w. kor. Mniszch",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Potocki marsz. nadw. lit.",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "ks. Ludwik Wirtemberski",
+            "person_date": "brak danych",
+            "person_info": "spokrewniony z Czartoryskimi"
+        },
+        {
+            "person_name": "Józef II",
+            "person_date": "1788",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kaunitz",
+            "person_date": "1788",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "posł austriacki Caché",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Glayr",
+            "person_date": "brak danych",
+            "person_info": "zaufany króla"
+        },
+        {
+            "person_name": "Stanisław Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stackelberg",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "oficjalista ks. Czartoryskich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Holandia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Amsterdam",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1767"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polska",
+            "date": "1782"
+        },
+        {
+            "place": "Grodno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        }
+    ]
+}

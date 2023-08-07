@@ -1,0 +1,298 @@
+{
+    "name": "Jan Grzegorzewski",
+    "psb_id": "PSB-09-0138",
+    "biogram_file": "Grzegorzewski_Jan.txt",
+    "date_of_birth": {
+        "date": "1846",
+        "note": "ok. 1850"
+    },
+    "place_of_birth": {
+        "place": "Szulejki",
+        "note": "powiat zwiahelski na Wołyniu"
+    },
+    "date_of_death": {
+        "date": "1922-11-15"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "literat",
+        "slawista",
+        "orientalista",
+        "korespondent „Figara” paryskiego",
+        "korespondent lwowskiej „Gazety Narodowej”",
+        "korespondent wojenny",
+        "współpracownik „Słowa Polskiego”",
+        "współpracownik „Gazety Warszawskiej”",
+        "współpracownik „Słowa”",
+        "współpracownik „Gazety Lwowskiej”",
+        "współpracownik „Świata Słowiańskiego”",
+        "współpracownik Encyklopedii Orgelbranda",
+        "współorganizator drużyn Sokoła",
+        "współorganizator Tow. Wzajemnej Pomocy Przewodników Tatrzańskich",
+        "założyciel stacji naukowej polskiej na Wschodzie, Hyacinthaeum",
+        "publicysta",
+        "redaktor „Goniec Tatrzański”",
+        "redaktor „Almanach Tatrzański”"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Żytomierz"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Instytut Łazarewski",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Figaro",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Gazeta Narodowa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Słowo Polskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gazeta Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Słowo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gazeta Lwowska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Świat Słowiański",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Encyklopedia Orgelbranda",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkoła handlowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Goniec Tatrzański",
+            "institution_place": "Zakopane"
+        },
+        {
+            "institution_name": "Almanach Tatrzański",
+            "institution_place": "Zakopane"
+        },
+        {
+            "institution_name": "Towarzystwo Wzajemnej Pomocy Przewodników Tatrzańskich",
+            "institution_place": "Zakopane"
+        },
+        {
+            "institution_name": "Ossolineum",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Hyacinthaeum",
+            "institution_place": "Sofia"
+        },
+        {
+            "institution_name": "Kasa im. Mianowskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Akademia Umiejętności",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rocznik Orientalistyczny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rocznik Zakopiański",
+            "institution_place": "Zakopane"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jakub Grzegorzewski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Zaleska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Gregorowicz",
+            "person_date": "brak danych",
+            "person_info": "profesor slawistyki"
+        },
+        {
+            "person_name": "A. Giller",
+            "person_date": "1877/8",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "W. Plater",
+            "person_date": "1877/8",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Krasiński",
+            "person_date": "ok. 1890",
+            "person_info": "finansista"
+        },
+        {
+            "person_name": "I. Sziszmanow",
+            "person_date": "1904–5",
+            "person_info": "profesor uniwersytetu w Sofii, minister oświaty"
+        },
+        {
+            "person_name": "Stambołow",
+            "person_date": "brak danych",
+            "person_info": "polityk bułgarski"
+        },
+        {
+            "person_name": "Cankow",
+            "person_date": "brak danych",
+            "person_info": "polityk bułgarski"
+        },
+        {
+            "person_name": "Z. Stojanow",
+            "person_date": "brak danych",
+            "person_info": "polityk bułgarski"
+        },
+        {
+            "person_name": "P. Karawełow",
+            "person_date": "brak danych",
+            "person_info": "polityk bułgarski"
+        },
+        {
+            "person_name": "T. Miciński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. W. Pan Marszałek Krajowy",
+            "person_date": "1904",
+            "person_info": "marszałek krajowy"
+        },
+        {
+            "person_name": "Kasa im. Mianowskiego",
+            "person_date": "brak danych",
+            "person_info": "instytucja finansująca naukę"
+        },
+        {
+            "person_name": "Akademia Umiejętności",
+            "person_date": "brak danych",
+            "person_info": "instytucja naukowa"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Szulejki",
+            "date": "1846 lub 1849"
+        },
+        {
+            "place": "Żytomierz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Odesa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kazan",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Azja Środkowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Himalaje",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tien-Szan",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "po 1870"
+        },
+        {
+            "place": "Konstantynopol",
+            "date": "1877/8"
+        },
+        {
+            "place": "Warszawa",
+            "date": "ok. 1890"
+        },
+        {
+            "place": "Zakopane",
+            "date": "brak danych"
+        },
+        {
+            "place": "Spisz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Śląsk Cieszyński",
+            "date": "brak danych"
+        },
+        {
+            "place": "Słowacja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łużyce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bułgaria",
+            "date": "1904"
+        },
+        {
+            "place": "Sofia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1915"
+        },
+        {
+            "place": "Halicz",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,287 @@
+{
+    "name": "Henryk Sokolak",
+    "psb_id": "PSB-40-0015",
+    "biogram_file": "Sokolak_Henryk.txt",
+    "date_of_birth": {
+        "date": "1916-12-16",
+        "note": "w późniejszych życiorysach podawał, że urodził się 16 XII 1921 w Goraju, pow. czarnkowski"
+    },
+    "place_of_birth": {
+        "place": "Zgrobelice",
+        "note": "powiat tarnopolski"
+    },
+    "date_of_death": {
+        "date": "1984-12-09"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Komunalny na Powązkach"
+    },
+    "functions": [
+        "działacz komunistyczny",
+        "pracownik służb bezpieczeństwa i wywiadu",
+        "dyplomata",
+        "nauczyciel",
+        "członek Związku Nauczycielstwa Polskiego",
+        "członek Komunistycznej Partii Niemiec",
+        "członek Międzynarodowego Komitetu Obozowego",
+        "członek Polskiej Partii Robotniczej",
+        "dowódca grupy uderzeniowej",
+        "członek Rady Obozowej",
+        "instruktor w Wydz. Organizacyjnym Komitetu Wojewódzkiego PPR",
+        "II sekretarz Komitetu Miejskiego PPR w Poznaniu",
+        "starszy referent Sekcji 1. Wydz. V Woj. Urzędu Bezpieczeństwa Publicznego w Poznaniu",
+        "wykładowca Szkoły Polityczno-Wychowawczej Dep. VII Min. Bezpieczeństwa Publicznego",
+        "komendant Szkoły Oficerskiej Dep. VII MBP",
+        "naczelnik Wydz. IV Dep. VII MBP",
+        "II sekretarz Ambasady PRL w Paryżu",
+        "I sekretarz Ambasady PRL w Paryżu",
+        "korespondent Polskiej Agencji Prasowej w Berlinie",
+        "zastępca dyrektora Dep. I Min. Spraw Wewnętrznych",
+        "dyrektor Dep. I Min. Spraw Wewnętrznych",
+        "radca Ambasady PRL w Niemieckiej Republice Demokratycznej",
+        "dyrektor Dep. IV MSZ",
+        "ambasador PRL w Tunezji",
+        "konsultant w Dep. Studiów i Programowania MSZ",
+        "członek Zarządu Głównego Polskiego Związku Byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych",
+        "członek Rady Naczelnej ZBoWiD"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła Podchorążych Rezerwy Piechoty",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Związek Nauczycielstwa Polskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komunistyczna Partia Niemiec",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Międzynarodowy Komitet Obozowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Robotnicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Centralny PPR",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Państwowa Komisja Weryfikacyjna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wydział Propagandy KC PPR",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Organizacyjny Komitetu Wojewódzkiego PPR",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojewódzki Urząd Bezpieczeństwa Publicznego",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Szkoła Polityczno-Wychowawcza Dep. VII Min. Bezpieczeństwa Publicznego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szkoła Oficerska Dep. VII MBP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Spraw Zagranicznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ambasada PRL",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Polska Agencja Prasowa",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Ministerstwo Spraw Wewnętrznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Zjednoczona Partia Robotnicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ambasada PRL",
+            "institution_place": "Niemiecka Republika Demokratyczna"
+        },
+        {
+            "institution_name": "Komisja ds. Odszkodowań Niemieckich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ambasada PRL",
+            "institution_place": "Tunezja"
+        },
+        {
+            "institution_name": "Departament Kadr i Szkolenia MSZ",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Departament Studiów i Programowania MSZ",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Związek Byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Naczelna ZBoWiD",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Służba Bezpieczeństwa",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wincenty Mikołajczak"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Agnieszka Mikołajczak"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Józefa Garlińska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Danuta Iwaniuk"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Janusz Zarzycki",
+            "person_date": "1943",
+            "person_info": "działacz komunistyczny"
+        },
+        {
+            "person_name": "Tadeusz Głąbski",
+            "person_date": "1943",
+            "person_info": "działacz komunistyczny"
+        },
+        {
+            "person_name": "Jan Rutkowski",
+            "person_date": "1943",
+            "person_info": "działacz komunistyczny"
+        },
+        {
+            "person_name": "Witold Sienkiewicz",
+            "person_date": "1961",
+            "person_info": "były dyrektor Dep. I MSW"
+        },
+        {
+            "person_name": "J. Kennedy",
+            "person_date": "1962",
+            "person_info": "prezydent USA"
+        },
+        {
+            "person_name": "Władysław Gomułka",
+            "person_date": "1962",
+            "person_info": "I sekretarz KC PZPR"
+        },
+        {
+            "person_name": "N. Chruszczow",
+            "person_date": "1962",
+            "person_info": "przywódca Związku Radzieckiego"
+        },
+        {
+            "person_name": "Paweł VI",
+            "person_date": "1973",
+            "person_info": "papież"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zgrobelice",
+            "date": "1916-12-16"
+        },
+        {
+            "place": "Goraj",
+            "date": "1921-12-16"
+        },
+        {
+            "place": "Rogoźno Wielkopolskie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Międzychód",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rudna",
+            "date": "1938"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1939"
+        },
+        {
+            "place": "Błonie",
+            "date": "1939-09-21/1939-09-23"
+        },
+        {
+            "place": "Gąbin",
+            "date": "1939-09-25"
+        },
+        {
+            "place": "Poznań",
+            "date": "1939"
+        },
+        {
+            "place": "Rawicz",
+            "date": "1939-10-06"
+        },
+        {
+            "place": "Buchenwald",
+            "date": "1939-10-15"
+        },
+        {
+            "place": "Zakopane",
+            "date": "1948"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "1952-11-15/1954-02-28"
+        },
+        {
+            "place": "Watykan",
+            "date": "1973-11-12"
+        },
+        {
+            "place": "Tunezja",
+            "date": "1975-02-06/1980-06-19"
+        }
+    ]
+}

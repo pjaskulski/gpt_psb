@@ -1,0 +1,142 @@
+{
+    "name": "Helena Jamonttówna",
+    "psb_id": "PSB-10-0495",
+    "biogram_file": "Jamonttowna_Helena.txt",
+    "date_of_birth": {
+        "date": "1914-05-22"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1944-08-21"
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "note": "Starówka"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "studentka Wydziału Prawa Uniw. Warsz.",
+        "magister prawa",
+        "studentka Wydziału Humanistyczny, sekcja filozofii i psychologii",
+        "członek kole prawników, socjologów, Polskiej Macierzy Szkolnej",
+        "członek katolickiej organizacji Pomoc Bliźniemu («Pom-Bli»)",
+        "członek «Falangi»",
+        "członek Konfederacji Narodu",
+        "członek Armii Krajowej (AK)",
+        "organizatorka pomocy dla Uwięzionych na Pawiaku i na Szucha",
+        "inicjatorka, współorganizatorka i przewodnicząca Międzyorganizacyjnego Porozumienia Pomocy Więźniom",
+        "współpracowniczka Delegatury Rządu, z Patronatem Opieki nad Więźniami i różnymi placówkami opieki społecznej",
+        "uczestniczka akcji pomocy i ratowania dzieci żydowskich",
+        "uczestniczka akcji odbijania więźniów",
+        "łączniczka AK w zgrupowaniu płka «Radosława»"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Sąd Najwyższy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wolna Wszechnica Polska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet w Łodzi",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Gimnazjum Humanistyczne C. Plater",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Prawa Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wydział Humanistyczny Uniwersytetu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Polska Macierz Szkolna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Pomoc Bliźniemu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Falanga",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konfederacja Narodu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Armia Krajowa (AK)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Międzyorganizacyjne Porozumienie Pomocy Więźniom",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Delegatura Rządu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Patronat Opieki nad Więźniami",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zgrupowanie AK 'Radosława'",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Janusz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Róża de Latour"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "C. Plater",
+            "person_date": "1932",
+            "person_info": "dyrektor Gimnazjum Humanistyczne"
+        },
+        {
+            "person_name": "Radosław",
+            "person_date": "1944",
+            "person_info": "płk, dowódca zgrupowania AK"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1914-05-22"
+        },
+        {
+            "place": "Łódź",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pawiak",
+            "date": "1940"
+        },
+        {
+            "place": "Szucha",
+            "date": "1940"
+        }
+    ]
+}

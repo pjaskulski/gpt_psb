@@ -1,0 +1,170 @@
+{
+    "name": "Karol Gomoliński",
+    "psb_id": "PSB-08-0406",
+    "biogram_file": "Gomolinski_Karol_h.txt",
+    "date_of_birth": {
+        "date": "1696"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1784-11-22"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Łęczyca",
+        "note": "pochowany u bernardynów"
+    },
+    "functions": [
+        "podkomorzy łęczycki",
+        "deputat w trybunale koronnym",
+        "sędzia",
+        "miecznik łęczycki",
+        "podczaszy",
+        "chorąży",
+        "sędzia grodzki",
+        "deputowany od trybunału",
+        "elektor",
+        "członek partii Czartoryskich",
+        "syndyk bernardynów"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Trybunał Koronny",
+            "institution_place": "Piotrków/Lublin"
+        },
+        {
+            "institution_name": "Sejm Rzeczypospolitej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Deputacja od Trybunału",
+            "institution_place": "Drezno"
+        },
+        {
+            "institution_name": "Komisja do aukcji wojska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konfederacja Radomska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konfederacja Barska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Nieustająca",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klasztor Bernardynów",
+            "institution_place": "Łęczyca"
+        },
+        {
+            "institution_name": "Konfederacja Łęczycka",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Gomoliński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Bielicka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Helena Pokrzywnicka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ignacy Gomoliński"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Józefata Gomolińska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Marianna Gomolińska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "August II",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Łuszczewski",
+            "person_date": "1749",
+            "person_info": "starosta"
+        },
+        {
+            "person_name": "Adam Tarło",
+            "person_date": "1743",
+            "person_info": "marszałek generalny"
+        },
+        {
+            "person_name": "Karol Sedlnicki",
+            "person_date": "brak danych",
+            "person_info": "podskarbi"
+        },
+        {
+            "person_name": "Jerzy Flemming",
+            "person_date": "brak danych",
+            "person_info": "podskarbi"
+        },
+        {
+            "person_name": "Stanisław August",
+            "person_date": "1764",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Szczawiński",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Andrzej Cielecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Szymon Dzierzbicki",
+            "person_date": "brak danych",
+            "person_info": "senator"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Piotrków",
+            "date": "1727"
+        },
+        {
+            "place": "Lublin",
+            "date": "1727"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "1727"
+        },
+        {
+            "place": "Drezno",
+            "date": "1743"
+        },
+        {
+            "place": "Krośniewice",
+            "date": "1775"
+        }
+    ]
+}

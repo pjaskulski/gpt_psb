@@ -1,0 +1,532 @@
+{
+    "name": "Stanisław Myszkowski",
+    "psb_id": "PSB-22-0318",
+    "biogram_file": "Myszkowski_Stanislaw_z_1.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1570-04-16"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz ewangelicki"
+    },
+    "functions": [
+        "krajczy kor.",
+        "starosta malborski",
+        "kasztelan sandomierski",
+        "starosta generalny",
+        "wojewoda krakowski",
+        "dworzanin królewski",
+        "wojski krakowski",
+        "starosta generalny krakowski",
+        "zarządca mennicy w Tykocinie",
+        "zarządca mennicy wileńskiej",
+        "pośrednik między szlacheckimi przywódcami reformacji a królem",
+        "inicjator spotkań ze zwolennikami Jerzego Blandraty i Grzegorza Pawła z Brzezin",
+        "jeden z czterech sędziów dyskusji między kalwinistami a arianami",
+        "organizator synodu sandomierskiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "dwór Ferdynanda I",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "dwór Zygmunta Augusta",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "sejm piotrkowski",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "sejm warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm parczowski",
+            "institution_place": "Parczew"
+        },
+        {
+            "institution_name": "sejm lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "mennica w Tykocinie",
+            "institution_place": "Tykocin"
+        },
+        {
+            "institution_name": "mennica wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Krajczy kor.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Starostwo malborskie",
+            "institution_place": "Malbork"
+        },
+        {
+            "institution_name": "Kasztelania sandomierska",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Starostwo generalne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Województwo krakowskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Kościół małopolski",
+            "institution_place": "Małopolska"
+        },
+        {
+            "institution_name": "Starostwo oświęcimskie i zatorskie",
+            "institution_place": "Oświęcim i Zator"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Parczów"
+        },
+        {
+            "institution_name": "Synod generalny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Starostwo generalne krakowskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kościół kalwiński",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Synod sandomierski",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Zbór w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet w Heidelbergu",
+            "institution_place": "Heidelberg"
+        },
+        {
+            "institution_name": "Dwór palatyna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Cmentarz ewangelicki w Krakowie",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Marcin Myszkowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Zuzanna Łaska"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Jan Łaski"
+        },
+        {
+            "family_relation": "brat stryjeczny",
+            "person": "Mikołaj Myszkowski"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Jadwiga Tęczyńska"
+        },
+        {
+            "family_relation": "bracia",
+            "person": "Jakub Myszkowski, Hieronim Myszkowski"
+        },
+        {
+            "family_relation": "stryjeczni",
+            "person": "Mikołaj Myszkowski, Krzysztof Myszkowski, Andrzej Myszkowski"
+        },
+        {
+            "family_relation": "krewniak",
+            "person": "Zygmunt Myszkowski"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Piotr Zborowski"
+        },
+        {
+            "family_relation": "córka stryjecznego brata",
+            "person": "Barbara Myszkowska"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Piotr Myszkowski, Mikołaj Myszkowski, Stanisław Myszkowski, Jan Myszkowski, Mikołaj Myszkowski"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Myszkowski"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Andrzej Tęczyński"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Andrzej Zebrzydowski"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Mikołaj Zebrzydowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ferdynand I",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1546",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jadwiga Kościelecka",
+            "person_date": "1550",
+            "person_info": "wdowa po Sewerynie Bonerze"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "1554",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Lubodzieski",
+            "person_date": "1554",
+            "person_info": "bp chełmiński"
+        },
+        {
+            "person_name": "Albrecht",
+            "person_date": "1556",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Stanisław Pieniążek",
+            "person_date": "1557",
+            "person_info": "dworzanin królewski"
+        },
+        {
+            "person_name": "Walentym Dembińskim",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Piotr Myszkowski",
+            "person_date": "brak danych",
+            "person_info": "podkanclerzy"
+        },
+        {
+            "person_name": "Mikołaj Łaski",
+            "person_date": "1564",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walentym Herburtem",
+            "person_date": "1566",
+            "person_info": "bp przemyski"
+        },
+        {
+            "person_name": "Adam Drzewicki",
+            "person_date": "1566",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin Zborowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dobrogost Potworowski",
+            "person_date": "1569",
+            "person_info": "poseł kaliski"
+        },
+        {
+            "person_name": "S. Czarnkowski",
+            "person_date": "brak danych",
+            "person_info": "marszałek izby poselskiej"
+        },
+        {
+            "person_name": "Jan Łaski",
+            "person_date": "1555",
+            "person_info": "reformator"
+        },
+        {
+            "person_name": "Franciszek Stankar",
+            "person_date": "1560",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Krzysztof Trecy",
+            "person_date": "1560",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Boner",
+            "person_date": "1559",
+            "person_info": "kasztelan biecki"
+        },
+        {
+            "person_name": "Leliusz Socyn",
+            "person_date": "1559",
+            "person_info": "teolog zuryski"
+        },
+        {
+            "person_name": "Piotr Myszkowski",
+            "person_date": "1564",
+            "person_info": "podkanclerzy"
+        },
+        {
+            "person_name": "J. F. Commendone",
+            "person_date": "1564",
+            "person_info": "nuncjusz papieski"
+        },
+        {
+            "person_name": "kardynał Hozjusz",
+            "person_date": "1564",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Grzegorz Paweł z Brzezin",
+            "person_date": "1562-1563",
+            "person_info": "zwolennik Jerzego Blandraty"
+        },
+        {
+            "person_name": "Jakub Górski",
+            "person_date": "1563",
+            "person_info": "katolicki teolog"
+        },
+        {
+            "person_name": "Hieronim Filipowski",
+            "person_date": "brak danych",
+            "person_info": "arianin"
+        },
+        {
+            "person_name": "Piotr Zborowski",
+            "person_date": "1568",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "H. Bullinger",
+            "person_date": "1568",
+            "person_info": "teolog"
+        },
+        {
+            "person_name": "Szymon Teofil Turnowski",
+            "person_date": "1570",
+            "person_info": "przedstawiciel braci czeskich"
+        },
+        {
+            "person_name": "T. Beza",
+            "person_date": "brak danych",
+            "person_info": "teolog"
+        },
+        {
+            "person_name": "ks. Albrecht",
+            "person_date": "brak danych",
+            "person_info": "patron polskiego luteranizmu"
+        },
+        {
+            "person_name": "Stanisław Sarnicki",
+            "person_date": "brak danych",
+            "person_info": "kalwinista, sympatyk luteranizmu"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Mylius",
+            "person_date": "1563-1568",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Fryderyk III",
+            "person_date": "1568, 1570",
+            "person_info": "elektor Palatynatu"
+        },
+        {
+            "person_name": "Andrzej Dudycz",
+            "person_date": "brak danych",
+            "person_info": "agent cesarski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wilno",
+            "date": "1546-04-12"
+        },
+        {
+            "place": "Kraków",
+            "date": "1549-02-15"
+        },
+        {
+            "place": "Słomniki",
+            "date": "1550-02-06"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1562-01-12"
+        },
+        {
+            "place": "Nowe Miasto Korczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1563-04-10"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1563-04-14"
+        },
+        {
+            "place": "Wilno",
+            "date": "1563-07-20"
+        },
+        {
+            "place": "Kraków",
+            "date": "1565-08-09"
+        },
+        {
+            "place": "Tykocin",
+            "date": "1566"
+        },
+        {
+            "place": "Lublin",
+            "date": "1569-03-05"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piotrków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Inowłodz",
+            "date": "1564"
+        },
+        {
+            "place": "Lubochnia",
+            "date": "1564"
+        },
+        {
+            "place": "Rzeczyca",
+            "date": "1564"
+        },
+        {
+            "place": "Budziszowice",
+            "date": "1564"
+        },
+        {
+            "place": "Ryczywół",
+            "date": "1564"
+        },
+        {
+            "place": "Bestwina",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jawiszowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żebraczy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cisowska Nowa Wola",
+            "date": "1563"
+        },
+        {
+            "place": "Pstrągowa",
+            "date": "1563"
+        },
+        {
+            "place": "Komorowice",
+            "date": "1565"
+        },
+        {
+            "place": "Biertułtowice",
+            "date": "1565"
+        },
+        {
+            "place": "Kleszczowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żarnowiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Olsztyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wierzchowiska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Będzin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1563"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1570-04-09/1570-04-14"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1570-04-16"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "name": "Popiel",
+    "psb_id": "PSB-27-0358",
+    "biogram_file": "Popiel.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Kruszwica"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "książę polski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kronika Galla Anonima",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kronika polska, mistrza Wincentego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kronika śląsko-polska",
+            "institution_place": "Lubiąż"
+        },
+        {
+            "institution_name": "Kronika wielkopolska",
+            "institution_place": "Kruszwica"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "syn",
+            "person": "Siemowit"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Piast"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Gall Anonim",
+            "person_date": "XII w.",
+            "person_info": "kronikarz"
+        },
+        {
+            "person_name": "Siemowit",
+            "person_date": "IX w.",
+            "person_info": "syn rataja książęcego Piasta, przyszły książę"
+        },
+        {
+            "person_name": "Wincenty Kadłubek",
+            "person_date": "brak danych",
+            "person_info": "kronikarz"
+        },
+        {
+            "person_name": "Krak",
+            "person_date": "brak danych",
+            "person_info": "protoplasta linii książęcej małopolskiej"
+        },
+        {
+            "person_name": "Wanda",
+            "person_date": "brak danych",
+            "person_info": "córka Kraka"
+        },
+        {
+            "person_name": "Leszek I",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Leszek II",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Leszek III",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Pąpiel II",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Jaromir I",
+            "person_date": "1207",
+            "person_info": "książę rugijski"
+        },
+        {
+            "person_name": "Ignacy Krasicki",
+            "person_date": "brak danych",
+            "person_info": "autor utworu literackiego 'Myszeis'"
+        },
+        {
+            "person_name": "Juliusz Słowacki",
+            "person_date": "brak danych",
+            "person_info": "autor utworu literackiego 'Król Duch'"
+        },
+        {
+            "person_name": "Maurycy Romanowski",
+            "person_date": "brak danych",
+            "person_info": "autor dramatu 'Popiel i Piast'"
+        },
+        {
+            "person_name": "Józef Ignacy Kraszewski",
+            "person_date": "brak danych",
+            "person_info": "autor utworu literackiego 'Stara baśń'"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gniezno",
+            "date": "IX w."
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lubiąż",
+            "date": "1285"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostrów Lednicki",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "name": "Aleksander Pociej",
+    "psb_id": "PSB-27-0016",
+    "biogram_file": "Pociej_Aleksander_h.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1770-03",
+        "note": "marzec"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "kaplica grobowa Pociejów w kościele dominikańskim Św. Ducha"
+    },
+    "functions": [
+        "wojewoda trocki",
+        "wojewodzic witebski",
+        "podczaszy litewski",
+        "regimentarz wojsk litewskich",
+        "starosta kowieński",
+        "kasztelan witebski",
+        "kasztelan trocki",
+        "senatorski deputat do konstytucji",
+        "deputat na Trybunał z województwa trockiego",
+        "marszałek Trybunału Lit.",
+        "starosta rohaczewski",
+        "starosta olkienicki",
+        "starosta oteśnicki",
+        "starosta grodowy kowieński"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Trybunał Litewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm grodzieński",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Trybunał",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konfederacja dzikowska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Starostwo kowieńskie",
+            "institution_place": "Kowno"
+        },
+        {
+            "institution_name": "Starostwo wielońskie",
+            "institution_place": "Wieloń"
+        },
+        {
+            "institution_name": "Starostwo rohaczewskie",
+            "institution_place": "Rohaczew"
+        },
+        {
+            "institution_name": "Starostwo olkienickie",
+            "institution_place": "Olkieniki"
+        },
+        {
+            "institution_name": "Starostwo oteśnickie",
+            "institution_place": "Oteśniki"
+        },
+        {
+            "institution_name": "Starostwo grodowe kowieńskie",
+            "institution_place": "Kowno"
+        },
+        {
+            "institution_name": "Kościół dominikański Św. Ducha",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Kazimierz Aleksander Pociej"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Teresa z Lettowów"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Antoni Pociej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ludwik Pociej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Leonard Pociej"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Teresa z Woynów"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna Pociej"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Karolina Pociej"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Józef Tyszkiewicz"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Stanisław Radziwiłł"
+        },
+        {
+            "family_relation": "babcia",
+            "person": "Regina z Ogińskich Pociejowa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ludwik Pociej",
+            "person_date": "1716",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Michał Radziwiłł",
+            "person_date": "1736",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Szymon Sirucia",
+            "person_date": "1740",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Fryderyk Sapieha",
+            "person_date": "1740",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Jerzy Mniszech",
+            "person_date": "1752",
+            "person_info": "marszałek nadworny kor."
+        },
+        {
+            "person_name": "Jerzy Flemming",
+            "person_date": "1756",
+            "person_info": "prezydent Trybunału Lit."
+        },
+        {
+            "person_name": "Ignacy Bohusz",
+            "person_date": "1756",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Abramowicz",
+            "person_date": "1756",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Władysław Łubieński",
+            "person_date": "1762",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Karol Radziwiłł",
+            "person_date": "1767",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław August",
+            "person_date": "1768",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Kazimierz Pac",
+            "person_date": "1736",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Teresa Woyno",
+            "person_date": "brak danych",
+            "person_info": "starościanka bracławska"
+        },
+        {
+            "person_name": "Konstanty Benedykt Brzostowski",
+            "person_date": "brak danych",
+            "person_info": "kasztelan mścisławski"
+        },
+        {
+            "person_name": "Józef Tyszkiewicz",
+            "person_date": "brak danych",
+            "person_info": "kasztelan mścisławski"
+        },
+        {
+            "person_name": "Stanisław Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "podkomorzy lit."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lublin",
+            "date": "1716-07-26"
+        },
+        {
+            "place": "Prużany",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sielce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kowno",
+            "date": "1736-09"
+        },
+        {
+            "place": "Witebsk",
+            "date": "1739-03-31"
+        },
+        {
+            "place": "Troki",
+            "date": "1740-06-10"
+        },
+        {
+            "place": "Wschowa",
+            "date": "1742-06"
+        },
+        {
+            "place": "Grodno",
+            "date": "1744"
+        },
+        {
+            "place": "Wieloń",
+            "date": "1745-08"
+        },
+        {
+            "place": "Rohaczew",
+            "date": "1724"
+        },
+        {
+            "place": "Olkieniki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oteśnie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kazimierz Pac",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kadzina",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostrowno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bochoty",
+            "date": "1732"
+        }
+    ]
+}

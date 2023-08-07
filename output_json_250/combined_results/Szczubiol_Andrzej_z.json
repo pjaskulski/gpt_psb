@@ -1,0 +1,431 @@
+{
+    "name": "Andrzej Szczubioł",
+    "psb_id": "PSB-47-0224",
+    "biogram_file": "Szczubiol_Andrzej_z.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1457",
+        "note": "prawdopodobnie krótko przed 10 września"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan gostyniński",
+        "kasztelan płocki",
+        "wojewoda rawski",
+        "zarządca wójtostwa",
+        "poseł do Malborka",
+        "gwarant pokoju wieczystego",
+        "sędzia nadworny",
+        "asesor w sądzie książęcym",
+        "starosta gostyniński",
+        "sędzia polubowny",
+        "łowczy gostyniński"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Klasztor Norbertanek św. Marii Magdaleny",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Książęca rada",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Książęca domena",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Książęce Gostynin",
+            "institution_place": "Gostynin"
+        },
+        {
+            "institution_name": "Książęce Sochaczew",
+            "institution_place": "Sochaczew"
+        },
+        {
+            "institution_name": "Książęce Mazowsze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Książęce Wiskitki",
+            "institution_place": "Wiskitki"
+        },
+        {
+            "institution_name": "Książęce Brześć Kujawski",
+            "institution_place": "Brześć Kujawski"
+        },
+        {
+            "institution_name": "Książęce Płock",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Książęce Dębsk",
+            "institution_place": "Dębsk Stary"
+        },
+        {
+            "institution_name": "Książęce Kozłowo",
+            "institution_place": "Kozłowo"
+        },
+        {
+            "institution_name": "Książęce Złota",
+            "institution_place": "Złota"
+        },
+        {
+            "institution_name": "Książęce Nieborów",
+            "institution_place": "Nieborów"
+        },
+        {
+            "institution_name": "Książęce Sąchocin",
+            "institution_place": "Sąchocin"
+        },
+        {
+            "institution_name": "Książęce Komadzyn",
+            "institution_place": "Komadzyń"
+        },
+        {
+            "institution_name": "Książęce Sierochowo",
+            "institution_place": "Sierochowo"
+        },
+        {
+            "institution_name": "Książęce Wilków",
+            "institution_place": "Wilków"
+        },
+        {
+            "institution_name": "Książęce Oraczew",
+            "institution_place": "Oraczew"
+        },
+        {
+            "institution_name": "Książęce Jasieniec",
+            "institution_place": "Jasieniec"
+        },
+        {
+            "institution_name": "Książęce Ćmiszewo",
+            "institution_place": "Ćmiszewo"
+        },
+        {
+            "institution_name": "Książęce Kozłów Szlachecki",
+            "institution_place": "Kozłów Szlachecki"
+        },
+        {
+            "institution_name": "Książęce Ciechomice",
+            "institution_place": "Ciechomice"
+        },
+        {
+            "institution_name": "Książęce Zaździerz",
+            "institution_place": "Zaździerz"
+        },
+        {
+            "institution_name": "Książęce Sójki",
+            "institution_place": "Sójki"
+        },
+        {
+            "institution_name": "Książęce Dębsko",
+            "institution_place": "Dębsko"
+        },
+        {
+            "institution_name": "Książęce Koziebród",
+            "institution_place": "Koziebród"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stefan (Szczepan) z Jasieńca i Ciechomic"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Sędka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mikołaj z Ciechomic"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan z Dłotowa"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Maciej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Szymon zwany Gostyńskim z Ciechomic"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Andrzej"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Ścibor z Sąchocina"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Siemowit IV",
+            "person_date": "1416",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Władysław Jagiełło",
+            "person_date": "1416",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Jan z Ćwiklina",
+            "person_date": "1416",
+            "person_info": "podkomorzy płocki"
+        },
+        {
+            "person_name": "Abraham z Pliszczyna",
+            "person_date": "brak danych",
+            "person_info": "kasztelan gostyniński"
+        },
+        {
+            "person_name": "Michał Kuchmeister",
+            "person_date": "1421",
+            "person_info": "wielki mistrz zakonu krzyżackiego"
+        },
+        {
+            "person_name": "Siemowit V",
+            "person_date": "1422",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Goworek z Woli i Wałowic",
+            "person_date": "1424",
+            "person_info": "podskarbi książęcy"
+        },
+        {
+            "person_name": "Zofia Holszańska",
+            "person_date": "1424",
+            "person_info": "królowa Polski"
+        },
+        {
+            "person_name": "Jakub z Kurdwanowa",
+            "person_date": "1424",
+            "person_info": "biskup płocki"
+        },
+        {
+            "person_name": "Sieciech z Oraczewic",
+            "person_date": "1424",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksandra",
+            "person_date": "1426",
+            "person_info": "księżna-wdowa"
+        },
+        {
+            "person_name": "Marcin Światłydzień z Gośliny",
+            "person_date": "1428",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Sasin Gęba z Trębek",
+            "person_date": "1432",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam z Życka",
+            "person_date": "1432",
+            "person_info": "kasztelan gostyniński"
+        },
+        {
+            "person_name": "Władysław I",
+            "person_date": "1435",
+            "person_info": "książę mazowiecki"
+        },
+        {
+            "person_name": "Stanisław Pawłowski",
+            "person_date": "1438",
+            "person_info": "biskup płocki"
+        },
+        {
+            "person_name": "Bolesław IV",
+            "person_date": "1438",
+            "person_info": "książę czerski"
+        },
+        {
+            "person_name": "Paweł Giżycki",
+            "person_date": "1446",
+            "person_info": "biskup płocki"
+        },
+        {
+            "person_name": "Andrzej Bniński",
+            "person_date": "1446",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Krystyn z Roszków",
+            "person_date": "1438",
+            "person_info": "łowczy gostyniński"
+        },
+        {
+            "person_name": "Stefan",
+            "person_date": "1446",
+            "person_info": "mieszczanin płocki"
+        },
+        {
+            "person_name": "Siemowit VI",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Jan Kwaczała z Nieborowa",
+            "person_date": "1457",
+            "person_info": "wojewoda rawski"
+        },
+        {
+            "person_name": "Maciej",
+            "person_date": "1427",
+            "person_info": "duchowny"
+        },
+        {
+            "person_name": "Stanisław Pawłowski",
+            "person_date": "1427",
+            "person_info": "biskup płocki"
+        },
+        {
+            "person_name": "Szymon Gostyński z Ciechomic",
+            "person_date": "1437",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Ścibor z Sąchocina",
+            "person_date": "1437",
+            "person_info": "marszałek księcia mazowieckiego Janusza I"
+        },
+        {
+            "person_name": "Marcin V",
+            "person_date": "1428",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Jan z Koziebród",
+            "person_date": "1452",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Niemierza z Nieborowa",
+            "person_date": "1461",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Ciechomice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kozłów Szlachecki",
+            "date": "1407-06-30"
+        },
+        {
+            "place": "Jasieniec",
+            "date": "1407-06-30"
+        },
+        {
+            "place": "Złota",
+            "date": "1407-06-30"
+        },
+        {
+            "place": "Zaździerz",
+            "date": "1407-06-30"
+        },
+        {
+            "place": "Ćmiszewo",
+            "date": "1407-06-30"
+        },
+        {
+            "place": "Łącko",
+            "date": "1412-06-06"
+        },
+        {
+            "place": "Wola Łącka",
+            "date": "1412-06-06"
+        },
+        {
+            "place": "Bielsko",
+            "date": "1417-06-17"
+        },
+        {
+            "place": "Malbork",
+            "date": "1421-05-02"
+        },
+        {
+            "place": "Mełno",
+            "date": "1422-09"
+        },
+        {
+            "place": "Parczew",
+            "date": "1424-02-09"
+        },
+        {
+            "place": "Kraków",
+            "date": "1424-03-05"
+        },
+        {
+            "place": "Płock",
+            "date": "1424-09-27"
+        },
+        {
+            "place": "Sójki",
+            "date": "1424-11-30"
+        },
+        {
+            "place": "Goślina",
+            "date": "1429-06-13"
+        },
+        {
+            "place": "Wiskitki",
+            "date": "1434-12-15"
+        },
+        {
+            "place": "Sochaczew",
+            "date": "1434-12-15"
+        },
+        {
+            "place": "Brześć Kujawski",
+            "date": "1435-12-31"
+        },
+        {
+            "place": "Wilków",
+            "date": "1439-07-26"
+        },
+        {
+            "place": "Sierochowo",
+            "date": "ok. 1417"
+        },
+        {
+            "place": "Komadzyń",
+            "date": "ok. 1417"
+        },
+        {
+            "place": "Dębsk Stary",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nieborów",
+            "date": "1457-09-10"
+        }
+    ]
+}

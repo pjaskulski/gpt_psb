@@ -1,0 +1,367 @@
+{
+    "name": "Mikołaj Śmieszkowic",
+    "psb_id": "PSB-51-0047",
+    "biogram_file": "Smieszkowic_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "1520",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Lwów"
+    },
+    "date_of_death": {
+        "date": "1580"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "1637-09-08"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "kościół p. wezw. św. Anny"
+    },
+    "functions": [
+        "profesor Uniwersytetu Krakowskiego",
+        "kierownik gimnazjum w Elblągu",
+        "rajca lwowski",
+        "rektor szkoły katedralnej na Wawelu",
+        "kolega mniejszy w Collegium Minus",
+        "profesor królewski",
+        "konsyliarz nacji polskiej",
+        "doktor obojga praw",
+        "prepozytur w Jodłowej",
+        "rajca w Lwowie",
+        "ławnik"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Gimnazjum w Elblągu",
+            "institution_place": "Elbląg"
+        },
+        {
+            "institution_name": "Rada Miejska Elbląga",
+            "institution_place": "Elbląg"
+        },
+        {
+            "institution_name": "Kolegium Mniejsze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegium Większe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet w Padwie",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Sapienza",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Rada Miejska Lwowa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szkoły Nowodworskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mikołaj Śmieszko"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Katarzyna"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Barbara"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Stanisław"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Tomasz"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Zygmunt Gajsler"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Szymon z Brzezin"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Stanisław Berger"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Szymon Tomaszewicz"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Józef Markowic"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Urszula"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Marcin Hanel"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Szymon Szymonowic"
+        },
+        {
+            "family_relation": "siostrzenica",
+            "person": "Krystyna z Szymonowiców"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Kosma Saluago de Campis"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Anna Anserinówna"
+        },
+        {
+            "family_relation": "wnuczka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Kaspar"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Elżbieta Kisiołkówna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Szymon Maricjusz (Marycjusz) z Pilzna",
+            "person_date": "1538/9",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Jan Lubodzieski",
+            "person_date": "brak danych",
+            "person_info": "kanclerz bp. chełmiński"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "brak danych",
+            "person_info": "bp. warmiński"
+        },
+        {
+            "person_name": "Marcin Kromer",
+            "person_date": "1551",
+            "person_info": "pośrednik"
+        },
+        {
+            "person_name": "Jan Ocieski",
+            "person_date": "1552",
+            "person_info": "podkanclerzy kor."
+        },
+        {
+            "person_name": "Jan z Trzciany",
+            "person_date": "1554",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Sylwester Roguski",
+            "person_date": "1556",
+            "person_info": "lekarz"
+        },
+        {
+            "person_name": "Jan Kochanowski",
+            "person_date": "brak danych",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Andrzej Patrycy Nidecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Warszewicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Wysocki",
+            "person_date": "1558",
+            "person_info": "opat lądzki i internuncjusz królewski"
+        },
+        {
+            "person_name": "Maciej Drzewiecki",
+            "person_date": "1558",
+            "person_info": "kanonik krakowski"
+        },
+        {
+            "person_name": "Jan Zaborowski",
+            "person_date": "1558",
+            "person_info": "proboszcz sandomierski"
+        },
+        {
+            "person_name": "Stefan Tomża",
+            "person_date": "1564",
+            "person_info": "obalony hospodar mołdawski"
+        },
+        {
+            "person_name": "Iwan Moczuga",
+            "person_date": "1564",
+            "person_info": "urzędnik Stefana Tomży"
+        },
+        {
+            "person_name": "Petra Spanczuka",
+            "person_date": "1564",
+            "person_info": "urzędnik Stefana Tomży"
+        },
+        {
+            "person_name": "Jan Zaleski",
+            "person_date": "1566",
+            "person_info": "rajca"
+        },
+        {
+            "person_name": "G. F. Commendoni",
+            "person_date": "1564",
+            "person_info": "nuncjusz papieski"
+        },
+        {
+            "person_name": "Piotr Skarga",
+            "person_date": "1566",
+            "person_info": "kanonik"
+        },
+        {
+            "person_name": "Wojciech",
+            "person_date": "1567",
+            "person_info": "rajca, bakałarz"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "1577",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Batory",
+            "person_date": "brak danych",
+            "person_info": "władca"
+        },
+        {
+            "person_name": "Paweł Szczerbic",
+            "person_date": "brak danych",
+            "person_info": "autor 'Speculum Saxonum…'"
+        },
+        {
+            "person_name": "Piotr Roizjusz",
+            "person_date": "1557",
+            "person_info": "autor 'Chiliastichon'"
+        },
+        {
+            "person_name": "Jan Cynerski Rachtamowicz",
+            "person_date": "1637",
+            "person_info": "autor 'Professor academicus...'"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1520"
+        },
+        {
+            "place": "Kraków",
+            "date": "1538/9"
+        },
+        {
+            "place": "Wawel",
+            "date": "brak danych"
+        },
+        {
+            "place": "Elbląg",
+            "date": "1551-07-31"
+        },
+        {
+            "place": "Lidzbark",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1553"
+        },
+        {
+            "place": "Padwa",
+            "date": "1553"
+        },
+        {
+            "place": "Rzym",
+            "date": "1558-01-07"
+        },
+        {
+            "place": "Jodłowa",
+            "date": "1557"
+        },
+        {
+            "place": "Kraków",
+            "date": "1558"
+        },
+        {
+            "place": "Lwów",
+            "date": "1559 lub 1560"
+        },
+        {
+            "place": "Brzozów",
+            "date": "1564-04-21"
+        },
+        {
+            "place": "Lublin",
+            "date": "1566-07"
+        },
+        {
+            "place": "Malbork",
+            "date": "1577-05"
+        }
+    ]
+}

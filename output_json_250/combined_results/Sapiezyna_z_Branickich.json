@@ -1,0 +1,411 @@
+{
+    "name": "Elżbieta Sapieżyna",
+    "psb_id": "PSB-35-0048",
+    "biogram_file": "Sapiezyna_z_Branickich.txt",
+    "date_of_birth": {
+        "date": "1734",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1800-09-03"
+    },
+    "place_of_death": {
+        "place": "Kodeń"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kodeń"
+    },
+    "functions": [
+        "wojewodzicowa mścisławska",
+        "plenipotent",
+        "sędzia laski marszałkowskiej",
+        "strażnik polny kor.",
+        "general artylerii lit.",
+        "marszałek Rady Nieustającej",
+        "starosta brzeski litewski",
+        "komisarz cywilno-wojskowy"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Edukacji Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Trybunał Koronny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Nieustająca",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Czteroletni",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Konfederacja Targowicka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kościół parafialny",
+            "institution_place": "Kodzień"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Piotr Branicki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Waleria Szembek"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Franciszek Ksawery Branicki"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jan Sapieha"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Piotr Sapieha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kazimierz Nestor Sapieha"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jan Sapieha"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Ignacy Sapieha"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Stanisław"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Sapieha",
+            "person_date": "18 II 1753",
+            "person_info": "wojewodzic smoleński"
+        },
+        {
+            "person_name": "Józef Mierzejewski",
+            "person_date": "brak danych",
+            "person_info": "plenipotent"
+        },
+        {
+            "person_name": "Marcin Matuszewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Poniatowski",
+            "person_date": "ok. 1761",
+            "person_info": "stolnik litewski"
+        },
+        {
+            "person_name": "Magdalena Sapieżyna",
+            "person_date": "1764",
+            "person_info": "wojewodzina połocka"
+        },
+        {
+            "person_name": "S. Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. T. Geoffrin",
+            "person_date": "1766",
+            "person_info": "przyjaciółka króla"
+        },
+        {
+            "person_name": "N. Repnin",
+            "person_date": "1768",
+            "person_info": "poseł rosyjski"
+        },
+        {
+            "person_name": "Szczęsny Czacki",
+            "person_date": "październik 1768",
+            "person_info": "podczaszy koronny"
+        },
+        {
+            "person_name": "Adam Krasiński",
+            "person_date": "1768",
+            "person_info": "biskup kamieniecki"
+        },
+        {
+            "person_name": "K. Saldern",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Mierzejewski",
+            "person_date": "brak danych",
+            "person_info": "sędzia laski marszałkowskiej, strażnik polny kor."
+        },
+        {
+            "person_name": "Kajetan Kurdwanowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "O. Stackelberg",
+            "person_date": "1774",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Młodziejowski",
+            "person_date": "26 IX 1776",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Joanna Sapieżyna",
+            "person_date": "26 IX 1776",
+            "person_info": "wojewodzina smoleńska"
+        },
+        {
+            "person_name": "H. Vautrin",
+            "person_date": "1777",
+            "person_info": "francuski uczeń"
+        },
+        {
+            "person_name": "Antoni Tyzenhauz",
+            "person_date": "1778",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Moszczeńscy",
+            "person_date": "1778/9",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna Sapieżyna",
+            "person_date": "1778/9",
+            "person_info": "łowczyna litewska"
+        },
+        {
+            "person_name": "Zdenek Kovac",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Ignacy Krasicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kajetan Sołtyk",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "J. Bułhak",
+            "person_date": "1789",
+            "person_info": "poseł rosyjski"
+        },
+        {
+            "person_name": "G. Lucchesini",
+            "person_date": "1789",
+            "person_info": "przedstawiciel króla pruskiego"
+        },
+        {
+            "person_name": "Mierzejewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Rzewuski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Szczęsny Potocki",
+            "person_date": "1790",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dorota (Daria)",
+            "person_date": "1791",
+            "person_info": "księżna kurlandzka"
+        },
+        {
+            "person_name": "Eliza von der Recke",
+            "person_date": "1791",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. U. Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kurdwanowski",
+            "person_date": "1792",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna Kossakowska",
+            "person_date": "1792",
+            "person_info": "kasztelanowa kamieńska"
+        },
+        {
+            "person_name": "Stanisław August",
+            "person_date": "1795",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Repnin",
+            "person_date": "1795",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Nielepiec",
+            "person_date": "brak danych",
+            "person_info": "dworzanin"
+        },
+        {
+            "person_name": "Franciszek Karpiński",
+            "person_date": "1799",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Wojciech Jakubowski",
+            "person_date": "ok. 1772",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Tomasz K. Węgierski",
+            "person_date": "1776",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Rafał Gurowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Zabłocki",
+            "person_date": "brak danych",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "ks. Tempié (lub Tampié)",
+            "person_date": "1778",
+            "person_info": "eksjezuita, bibliotekarz, lektor"
+        },
+        {
+            "person_name": "K. Koźmian",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1753-02-18"
+        },
+        {
+            "place": "Krechów",
+            "date": "1755-06-13"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1766"
+        },
+        {
+            "place": "Kodnia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Biała",
+            "date": "1778"
+        },
+        {
+            "place": "Kock",
+            "date": "1778"
+        },
+        {
+            "place": "Lublin",
+            "date": "1777"
+        },
+        {
+            "place": "Koźmin",
+            "date": "1779"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1780"
+        },
+        {
+            "place": "Łazienki",
+            "date": "1788-06-16"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "1789"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "1789-12"
+        },
+        {
+            "place": "Zamość",
+            "date": "1793-05"
+        },
+        {
+            "place": "Lwów",
+            "date": "1793-12"
+        },
+        {
+            "place": "Grodno",
+            "date": "1795"
+        },
+        {
+            "place": "Bazalia",
+            "date": "1795"
+        },
+        {
+            "place": "Koźmin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Siedlce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kodnia",
+            "date": "1800"
+        }
+    ]
+}

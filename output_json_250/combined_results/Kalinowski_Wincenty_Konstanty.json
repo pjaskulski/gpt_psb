@@ -1,0 +1,224 @@
+{
+    "name": "Wincenty Konstanty Kalinowski",
+    "psb_id": "PSB-11-0562",
+    "biogram_file": "Kalinowski_Wincenty_Konstanty.txt",
+    "date_of_birth": {
+        "date": "1838-01-21"
+    },
+    "place_of_birth": {
+        "place": "Mostowlany",
+        "note": "powiat wołkowyski, gubernia grodzieńska"
+    },
+    "date_of_death": {
+        "date": "1864-03-22"
+    },
+    "place_of_death": {
+        "place": "Wilno"
+    },
+    "date_of_burial": {
+        "date": "1864-03-22"
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "plac Łukiski"
+    },
+    "functions": [
+        "działacz rewolucyjny",
+        "student Wydziału Prawa",
+        "przywódca studenckiego «Ogółu» polskiego",
+        "kandydat nauk prawnych",
+        "członek tajnej organizacji rewolucyjnej",
+        "redaktor tajnego czasopisma \"Mužyckaja Prauda\"",
+        "członek Komitetu Ruchu",
+        "członek Komitetu Prowincjonalnego Litwy",
+        "pomocnik naczelnika miasta Wilna",
+        "komisarz w woj. grodzieńskim",
+        "sekretarz Wydziału",
+        "kierownik wydziału spraw wewnętrznych",
+        "komisarz pełnomocny Rządu Narodowego na Litwę",
+        "naczelny powstania litewskiego",
+        "członek rewolucyjnego Komitetu Litewskiego",
+        "główny naczelnik powstania"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła w Świsłoczy",
+            "institution_place": "Świsłocz"
+        },
+        {
+            "institution_name": "Uniwersytet w Moskwie",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Wydział Prawa",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Komitet Ziemli i Woli",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Komitet Prowincjonalny Litwy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Tymczasowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Litewski",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Rząd Narodowy",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Szymon Kalinowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Weronika Rybińska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Wiktor Kalinowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Z. Sierakowski",
+            "person_date": "brak danych",
+            "person_info": "członek koła rewolucyjnego"
+        },
+        {
+            "person_name": "J. Dąbrowski",
+            "person_date": "brak danych",
+            "person_info": "członek koła rewolucyjnego"
+        },
+        {
+            "person_name": "W. Wróblewski",
+            "person_date": "brak danych",
+            "person_info": "współzałożyciel tajnej organizacji rewolucyjnej"
+        },
+        {
+            "person_name": "F. Różański",
+            "person_date": "brak danych",
+            "person_info": "towarzysz podróży po Grodzieńszczyźnie"
+        },
+        {
+            "person_name": "Z. Sierakowski",
+            "person_date": "1862",
+            "person_info": "ślub, obecny na nim główny bohater"
+        },
+        {
+            "person_name": "L. Zwierzdowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "N. du Laurans",
+            "person_date": "brak danych",
+            "person_info": "komisarz w Wilnie"
+        },
+        {
+            "person_name": "O. Awejde",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. Weryha",
+            "person_date": "1862-1863",
+            "person_info": "wysłannik K-ego do Warszawy"
+        },
+        {
+            "person_name": "B. Dłuski",
+            "person_date": "1862-1863",
+            "person_info": "wysłannik K-ego do Warszawy"
+        },
+        {
+            "person_name": "J. Gieysztor",
+            "person_date": "brak danych",
+            "person_info": "przewodniczący Wydziału"
+        },
+        {
+            "person_name": "A. Oskierko",
+            "person_date": "brak danych",
+            "person_info": "naczelnik miasta Wilna"
+        },
+        {
+            "person_name": "W. Parfianowicz",
+            "person_date": "1864",
+            "person_info": "zdradził głównego bohatera"
+        },
+        {
+            "person_name": "B. Wysłouch",
+            "person_date": "brak danych",
+            "person_info": "dowódca oddziału"
+        },
+        {
+            "person_name": "M. Murawiew",
+            "person_date": "brak danych",
+            "person_info": "antypowstańcza propaganda"
+        },
+        {
+            "person_name": "W. Małachowski",
+            "person_date": "brak danych",
+            "person_info": "bliski współpracownik głównego bohatera"
+        },
+        {
+            "person_name": "M. Wołonczewski",
+            "person_date": "brak danych",
+            "person_info": "biskup żmudzki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mostowlany",
+            "date": "1838-01-21"
+        },
+        {
+            "place": "Jakuszówka",
+            "date": "1850"
+        },
+        {
+            "place": "Świsłocz",
+            "date": "1850-1855"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1861"
+        },
+        {
+            "place": "Grodno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kiejdanach",
+            "date": "1862-07-30"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Królestwo",
+            "date": "1863-02-01"
+        }
+    ]
+}

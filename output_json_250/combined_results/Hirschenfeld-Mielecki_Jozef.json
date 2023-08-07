@@ -1,0 +1,149 @@
+{
+    "name": "Józef Hirschenfeld-Mielecki",
+    "psb_id": "PSB-09-0749",
+    "biogram_file": "Hirschenfeld-Mielecki_Jozef.txt",
+    "date_of_birth": {
+        "date": "1851"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1933-1939",
+        "note": "między"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "inżynier",
+        "podróżnik",
+        "łącznik w powstaniu",
+        "pracownik przy budowie kolei w Rumunii",
+        "zawiadowca warsztatów mechanicznych w Adrianopolu",
+        "członek emigracyjnego związku Białego Orła",
+        "członek towarzystw geograficznych w Paryżu, Londynie, Amsterdamie i Brukseli",
+        "uczestnik wyprawy Rogozińskiego do Kamerunu",
+        "pracownik różnych zakładów przemysłowych w Stanach Zjednoczonych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "II. Gimnazjum Miejskie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Politechnika",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Związek Białego Orła",
+            "institution_place": "Anglia"
+        },
+        {
+            "institution_name": "Towarzystwo Geograficzne",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Towarzystwo Geograficzne",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Towarzystwo Geograficzne",
+            "institution_place": "Amsterdam"
+        },
+        {
+            "institution_name": "Towarzystwo Geograficzne",
+            "institution_place": "Bruksela"
+        },
+        {
+            "institution_name": "Zakłady Przemysłowe",
+            "institution_place": "Stany Zjednoczone"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "T. Berg",
+            "person_date": "1863",
+            "person_info": "namiestnik"
+        },
+        {
+            "person_name": "Rogoziński",
+            "person_date": "1882",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Łucja-Małgorzata",
+            "person_date": "brak danych",
+            "person_info": "nazwa statku"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1851"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Belgia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rumunia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Turcja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Adrianopol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Amsterdam",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bruksela",
+            "date": "brak danych"
+        },
+        {
+            "place": "Liberia",
+            "date": "1879"
+        },
+        {
+            "place": "Kongo",
+            "date": "1879"
+        },
+        {
+            "place": "Kamerun",
+            "date": "1882"
+        }
+    ]
+}

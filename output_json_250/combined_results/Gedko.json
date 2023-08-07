@@ -1,0 +1,176 @@
+{
+    "name": "Gedko",
+    "psb_id": "PSB-07-0546",
+    "biogram_file": "Gedko.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "biskup krakowski",
+        "moralny przewódca opozycji",
+        "fundator kolegiaty w Kielcach",
+        "inicjator zabiegów o relikwie św. Floriana",
+        "fundator kolegiaty pod wezwaniem św. Floriana na Kleparzu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Biskupstwo Krakowskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegiata w Kielcach",
+            "institution_place": "Kielce"
+        },
+        {
+            "institution_name": "Klasztor w Jędrzejowie",
+            "institution_place": "Jędrzejów"
+        },
+        {
+            "institution_name": "Klasztor w Miechowie",
+            "institution_place": "Miechów"
+        },
+        {
+            "institution_name": "Klasztor w Sulejowie",
+            "institution_place": "Sulejów"
+        },
+        {
+            "institution_name": "Klasztor w Busku",
+            "institution_place": "Busko"
+        },
+        {
+            "institution_name": "Klasztor w Koprzywnicy",
+            "institution_place": "Koprzywnica"
+        },
+        {
+            "institution_name": "Katedra Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegiata pod wezwaniem św. Floriana",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Synod Polskiego Kościoła",
+            "institution_place": "Jeżów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "brat",
+            "person": "Wojsław"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Wojsław"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Janusz lub Trojan"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bolesław Kędzierzawy",
+            "person_date": "1166",
+            "person_info": "książę, pan Krakowa"
+        },
+        {
+            "person_name": "Jaksy",
+            "person_date": "brak danych",
+            "person_info": "spiskowiec przeciw rządom Bolesława Kędzierzawego"
+        },
+        {
+            "person_name": "Świętosław",
+            "person_date": "brak danych",
+            "person_info": "spiskowiec przeciw rządom Bolesława Kędzierzawego"
+        },
+        {
+            "person_name": "Mieszko Stary",
+            "person_date": "brak danych",
+            "person_info": "wielki książę w Krakowie"
+        },
+        {
+            "person_name": "Kazimierz Sprawiedliwy",
+            "person_date": "1177",
+            "person_info": "książę, powołany na tron krakowski"
+        },
+        {
+            "person_name": "Aleksander III",
+            "person_date": "1181",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Lucjusz III",
+            "person_date": "1184",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Idzi",
+            "person_date": "1184",
+            "person_info": "wysłannik papieża Lucjusza III, późniejszy biskup Modeny"
+        },
+        {
+            "person_name": "Pełka",
+            "person_date": "1186",
+            "person_info": "następca G-ki, biskup krakowski"
+        },
+        {
+            "person_name": "Rajnald",
+            "person_date": "brak danych",
+            "person_info": "legat papieski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1166-06-19"
+        },
+        {
+            "place": "Śląsk",
+            "date": "1146-1163"
+        },
+        {
+            "place": "Kielce",
+            "date": "1171"
+        },
+        {
+            "place": "Jędrzejów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Miechów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sulejów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Busko",
+            "date": "brak danych"
+        },
+        {
+            "place": "Koprzywnica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Modena",
+            "date": "1184-11"
+        }
+    ]
+}

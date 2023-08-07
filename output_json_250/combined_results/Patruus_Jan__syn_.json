@@ -1,0 +1,355 @@
+{
+    "name": "Jan Patruus syn",
+    "psb_id": "PSB-25-0277",
+    "biogram_file": "Patruus_Jan__syn_.txt",
+    "date_of_birth": {
+        "date": "ok. 1500",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1583-04-19"
+    },
+    "place_of_death": {
+        "place": "Poznań"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Poznań",
+        "note": "katedra poznańska"
+    },
+    "functions": [
+        "introligator",
+        "księgarz",
+        "nakładca poznański",
+        "bibliopola",
+        "starszy konfraterni kupieckiej",
+        "handlowiec owocami i jarzynami",
+        "handlowiec suknem",
+        "producent piwa",
+        "handlowiec winem",
+        "handlowiec skórą i piórami",
+        "właściciel nieruchomości"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet w Lipsku",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Uniwersytet w Wittenberdze",
+            "institution_place": "Wittenberga"
+        },
+        {
+            "institution_name": "Warsztat introligatorski",
+            "institution_place": "Chwaliszewo"
+        },
+        {
+            "institution_name": "Warsztat introligatorski",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Księgarnia",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Księgarnia",
+            "institution_place": "Łęczyca"
+        },
+        {
+            "institution_name": "Drukarnia F. Behema",
+            "institution_place": "Moguncja"
+        },
+        {
+            "institution_name": "Drukarnia C. Scharffenberga",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Drukarnia E. Vogelina",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Drukarnia Mayera",
+            "institution_place": "Dylindze"
+        },
+        {
+            "institution_name": "Drukarnia A. i S. Weyssenhornów",
+            "institution_place": "Ingolsztat"
+        },
+        {
+            "institution_name": "Drukarnia Melchiora Nehringa",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Cech kupców",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Katedra",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Katarzyna Bodenstein"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Barbara"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Katarzyna"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Krzysztof"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Konrad Bodenstein"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Konrad Krüger",
+            "person_date": "brak danych",
+            "person_info": "introligator"
+        },
+        {
+            "person_name": "Jan Rham",
+            "person_date": "brak danych",
+            "person_info": "introligator"
+        },
+        {
+            "person_name": "Wawrzyniec",
+            "person_date": "brak danych",
+            "person_info": "introligator"
+        },
+        {
+            "person_name": "Mikołaj Gencz",
+            "person_date": "brak danych",
+            "person_info": "introligator"
+        },
+        {
+            "person_name": "Adam Milbach",
+            "person_date": "brak danych",
+            "person_info": "introligator"
+        },
+        {
+            "person_name": "Maciej Santocki",
+            "person_date": "brak danych",
+            "person_info": "introligator"
+        },
+        {
+            "person_name": "Stanisław Lwowko",
+            "person_date": "1553",
+            "person_info": "plenipotent"
+        },
+        {
+            "person_name": "Jakub Depta",
+            "person_date": "1566",
+            "person_info": "plenipotent"
+        },
+        {
+            "person_name": "Maciej Schadowski",
+            "person_date": "1570",
+            "person_info": "plenipotent"
+        },
+        {
+            "person_name": "Szymon Zaremba",
+            "person_date": "1571",
+            "person_info": "plenipotent"
+        },
+        {
+            "person_name": "Klemens Finck",
+            "person_date": "1573",
+            "person_info": "plenipotent"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "brak danych",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Marcin Kromer",
+            "person_date": "1557",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walenty Reszka",
+            "person_date": "brak danych",
+            "person_info": "lekarz"
+        },
+        {
+            "person_name": "Stefan Mikan",
+            "person_date": "brak danych",
+            "person_info": "dr filozofii i medycyny"
+        },
+        {
+            "person_name": "Kasper Goski",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Krak."
+        },
+        {
+            "person_name": "Jakub Górski",
+            "person_date": "brak danych",
+            "person_info": "profesor Uniw. Krak."
+        },
+        {
+            "person_name": "Crispinus Scharffenberg",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Christoph Brotuff",
+            "person_date": "1564",
+            "person_info": "czeladnik"
+        },
+        {
+            "person_name": "Grzegorz z Wągrowca",
+            "person_date": "brak danych",
+            "person_info": "tłumacz"
+        },
+        {
+            "person_name": "Melchior Nehring",
+            "person_date": "1576",
+            "person_info": "drukarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Poznań",
+            "date": "ok. 1500-1583"
+        },
+        {
+            "place": "Lipsk",
+            "date": "1557, 1558"
+        },
+        {
+            "place": "Wittenberga",
+            "date": "1557, 1558"
+        },
+        {
+            "place": "Chwaliszewo",
+            "date": "1538-1539"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "od 1565"
+        },
+        {
+            "place": "Toruń",
+            "date": "1573"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gniezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1558-1567"
+        },
+        {
+            "place": "Kalisz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Drohiczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piotrków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kolonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Moguncja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Frankfurt nad Menem",
+            "date": "brak danych"
+        },
+        {
+            "place": "Metz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Norymberga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bazylea",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wenecja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Merseburg",
+            "date": "1564"
+        },
+        {
+            "place": "Moguncja",
+            "date": "1555"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1567"
+        },
+        {
+            "place": "Ingolsztat",
+            "date": "1560"
+        },
+        {
+            "place": "Dylindze",
+            "date": "1572, 1581"
+        },
+        {
+            "place": "Lipsk",
+            "date": "1563"
+        },
+        {
+            "place": "Kraków",
+            "date": "1580"
+        }
+    ]
+}

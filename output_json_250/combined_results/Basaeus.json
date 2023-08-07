@@ -1,0 +1,139 @@
+{
+    "name": "Wojciech Basaeus",
+    "psb_id": "PSB-01-0638",
+    "biogram_file": "Basaeus.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pisarz łacińsko-polski",
+        "student Uniwersytetu Krakowskiego",
+        "mistrz sztuk wyzwolonych",
+        "docent",
+        "kapłan",
+        "kanonik regularny szpitalnik Ducha św.",
+        "generalny administrator zakonu na Polskę",
+        "prepozyt klasztoru duchaków w Sandomierzu",
+        "prepozyt klasztoru duchaków w Krakowie",
+        "autor utworów wierszowanych i prozaicznych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "klasztor kanoników regularnych szpitalników Ducha św. pod wezwaniem św. Marka",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "klasztor duchaków",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "klasztor duchaków",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Albertus Andree de Sczebrzesin",
+            "person_date": "1554",
+            "person_info": "student Uniwersytetu Krakowskiego"
+        },
+        {
+            "person_name": "Jan de Sacrobusto",
+            "person_date": "1562",
+            "person_info": "autor 'Sfery'"
+        },
+        {
+            "person_name": "Grzegorz z Sambora",
+            "person_date": "1562/3",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Terencjusz",
+            "person_date": "1563",
+            "person_info": "autor komedii 'Adelphos'"
+        },
+        {
+            "person_name": "T. Linacre",
+            "person_date": "1563/4",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1569",
+            "person_info": "król, który zatwierdził postanowienia organizacyjne dla polskich klasztorów duchaków"
+        },
+        {
+            "person_name": "J. Despauterius",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "W. Valli",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "Jan Honter",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "B. Herbest",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "Jakób Górski",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "W. Novicampian",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        },
+        {
+            "person_name": "Grzegorz z Sambora",
+            "person_date": "1567",
+            "person_info": "autor gramatyki łacińskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Szczebrzeszyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1554"
+        },
+        {
+            "place": "Lublin",
+            "date": "1569-05-20"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "brak danych"
+        }
+    ]
+}

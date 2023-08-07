@@ -1,0 +1,251 @@
+{
+    "name": "Mikołaj Słop",
+    "psb_id": "PSB-39-0027",
+    "biogram_file": "Slop.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Dębowiec",
+        "note": "koło Cieszyna"
+    },
+    "date_of_death": {
+        "date": "1475-10-21",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "marszałek cieszyński",
+        "starosta oświęcimski",
+        "kasztelan oświęcimski",
+        "członek sądu polubownego",
+        "pośrednik w zawarciu rozejmu",
+        "dzierżawca ziemi oświęcimskiej",
+        "członek rady królewskiej",
+        "posłaniec królewski",
+        "właściciel wsi Dwie Kozy (Kozy)"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Marszałek cieszyński",
+            "institution_place": "Cieszyn"
+        },
+        {
+            "institution_name": "Starosta oświęcimski",
+            "institution_place": "Oświęcim"
+        },
+        {
+            "institution_name": "Kasztelan oświęcimski",
+            "institution_place": "Oświęcim"
+        },
+        {
+            "institution_name": "Sąd polubowny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór króla polskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sąd ziemski oświęcimski",
+            "institution_place": "Oświęcim"
+        },
+        {
+            "institution_name": "Rada królewska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Piotr"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kaspar"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Melchior"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Władysław",
+            "person_date": "1440",
+            "person_info": "książę cieszyński"
+        },
+        {
+            "person_name": "Przemek",
+            "person_date": "1440",
+            "person_info": "książę cieszyński"
+        },
+        {
+            "person_name": "Jakub z Blohotic",
+            "person_date": "1442",
+            "person_info": "młynarz"
+        },
+        {
+            "person_name": "Wacław",
+            "person_date": "1442",
+            "person_info": "książę cieszyński"
+        },
+        {
+            "person_name": "Włodek",
+            "person_date": "1442",
+            "person_info": "książę cieszyński"
+        },
+        {
+            "person_name": "Bolko",
+            "person_date": "1442",
+            "person_info": "książę cieszyński"
+        },
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Eufemia",
+            "person_date": "1447",
+            "person_info": "księżna"
+        },
+        {
+            "person_name": "Jan Czapka",
+            "person_date": "1447",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1447",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Bolesław",
+            "person_date": "1449",
+            "person_info": "książę cieszyński"
+        },
+        {
+            "person_name": "Mikołaj z Vladenina",
+            "person_date": "1449",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Przemek",
+            "person_date": "1452",
+            "person_info": "książę toszecki"
+        },
+        {
+            "person_name": "Jan",
+            "person_date": "1452",
+            "person_info": "książę oświęcimski"
+        },
+        {
+            "person_name": "Piotr Szafrańiec",
+            "person_date": "1452",
+            "person_info": "podkomorzy krakowski"
+        },
+        {
+            "person_name": "Jan Synowiec",
+            "person_date": "1457",
+            "person_info": "dworzanin królewski"
+        },
+        {
+            "person_name": "Jan z Czyżowa",
+            "person_date": "1456",
+            "person_info": "starosta krakowski"
+        },
+        {
+            "person_name": "Jakub Dembiński",
+            "person_date": "1468",
+            "person_info": "kasztelan krakowski"
+        },
+        {
+            "person_name": "Stanisław Ostroróg",
+            "person_date": "1468",
+            "person_info": "wojewoda kaliski"
+        },
+        {
+            "person_name": "Stanisław Wątróbka",
+            "person_date": "1469",
+            "person_info": "kasztelan sądecki"
+        },
+        {
+            "person_name": "Jerzy z Podiebradu",
+            "person_date": "1469",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Szaszowski",
+            "person_date": "1468",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Myszkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dębowiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cieszyn",
+            "date": "1440"
+        },
+        {
+            "place": "Boguszowice",
+            "date": "1442-04-09"
+        },
+        {
+            "place": "Siewierz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hradiszte",
+            "date": "1450"
+        },
+        {
+            "place": "Oświęcim",
+            "date": "1456"
+        },
+        {
+            "place": "Gliwice",
+            "date": "1457-02-21"
+        },
+        {
+            "place": "Bogumin",
+            "date": "ok. 1464"
+        },
+        {
+            "place": "Ołomuniec",
+            "date": "1468-07-05"
+        },
+        {
+            "place": "Osiek",
+            "date": "1468-06-02"
+        },
+        {
+            "place": "Brzeszcze",
+            "date": "1468-06-02"
+        },
+        {
+            "place": "Lipnik",
+            "date": "brak danych"
+        }
+    ]
+}

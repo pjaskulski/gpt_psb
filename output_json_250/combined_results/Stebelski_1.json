@@ -1,0 +1,590 @@
+{
+    "name": "Włodzimierz Stebelski",
+    "psb_id": "PSB-43-0026",
+    "biogram_file": "Stebelski_1.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "poeta",
+        "nowelista",
+        "dziennikarz",
+        "mandatariusz",
+        "askulant w Sądzie Obwodowym w Stanisławowie",
+        "adiunkt w Sądzie Powiatowym w Chrzanowie",
+        "radca Sądu Obwodowego w Nowym Sączu",
+        "radca Sądu Krajowego Wyższego w Krakowie",
+        "wiceprezydent Sądu Krajowego w Krakowie",
+        "prokurator",
+        "radca dworu",
+        "nauczyciel w Gimnazjum im. Franciszka Józefa",
+        "pracownik banku",
+        "główny współpracownik czasopisma satyryczno-politycznego „Strachopud”",
+        "współredaktor tygodnika literackiego „Bojan”",
+        "publicysta",
+        "redaktor",
+        "recenzent teatralny",
+        "tłumacz",
+        "autor felietonów społecznych i politycznych",
+        "autor artykułów i przeglądów",
+        "autor humoresek",
+        "autor opowiadań",
+        "autor wierszy",
+        "autor nowel",
+        "autor recenzji teatralnych",
+        "redaktor naczelny tygodnika 'Kolce'",
+        "współredaktor 'Muchy'",
+        "pisarz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Lwow.",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Sąd Obwodowy",
+            "institution_place": "Stanisławów"
+        },
+        {
+            "institution_name": "Sąd Powiatowy",
+            "institution_place": "Chrzanów"
+        },
+        {
+            "institution_name": "Sąd Obwodowy",
+            "institution_place": "Nowy Sącz"
+        },
+        {
+            "institution_name": "Sąd Krajowy Wyższy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Min. Sprawiedliwości",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sąd Krajowy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Stanisławów"
+        },
+        {
+            "institution_name": "Gimnazjum im. Franciszka Józefa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Tow. im. Kaczkowskiego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Ruska Rada",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Państwa",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Gazeta Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Przegląd Lwowski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Reforma",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Ziarno",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kraj",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Strachopud",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Novost'",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Różowe Domino",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dziennik Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ognisko Domowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kurier Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kurier Codzienny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Tygodnik Ilustrowany",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Echo Muzyczne, Teatralne i Artystyczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Nowa Reforma",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wędrowiec",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Przegląd Tygodniowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Muza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tygodnik Powszechny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kalendarz warszawski Józefa Ungra",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kolce",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Mucha",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zakład dla umysłowo chorych",
+            "institution_place": "Tworki"
+        },
+        {
+            "institution_name": "Literaturno-Naukovego Vistnyka",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kraj",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jakow Stebelski"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "W. Biłozerskyj"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jakow Stebelski",
+            "person_date": "brak danych",
+            "person_info": "absolwent kursu budownictwa przy Uniw. Lwow."
+        },
+        {
+            "person_name": "Amalia z Siemieńskich Aleksandrowa Stadnicka",
+            "person_date": "brak danych",
+            "person_info": "właścicielka posiadłości w Magierowie"
+        },
+        {
+            "person_name": "Jarosław Uhr-Stebelski",
+            "person_date": "brak danych",
+            "person_info": "askulant w Sądzie Obwodowym w Stanisławowie, adiunkt w Sądzie Powiatowym w Chrzanowie, radca Sądu Obwodowego w Nowym Sączu i Sądu Krajowego Wyższego w Krakowie"
+        },
+        {
+            "person_name": "Roman Stebelski",
+            "person_date": "brak danych",
+            "person_info": "członek komitetu wydawniczego stow. «Akademiczeskij krużok» (1874), potem prokurator i radca dworu"
+        },
+        {
+            "person_name": "Tomasz Barewicz",
+            "person_date": "1862",
+            "person_info": "ksiądz, nauczyciel"
+        },
+        {
+            "person_name": "Michaił Kaczkowski",
+            "person_date": "brak danych",
+            "person_info": "radca sądowy i działacz rusiński"
+        },
+        {
+            "person_name": "Bogdan Didycki",
+            "person_date": "1867",
+            "person_info": "redaktor \"Galičanina\""
+        },
+        {
+            "person_name": "P. Kulisz",
+            "person_date": "1867",
+            "person_info": "ukraiński działacz z Rosji"
+        },
+        {
+            "person_name": "M. Katkow",
+            "person_date": "brak danych",
+            "person_info": "redaktor \"Moskovskie vedomosti\""
+        },
+        {
+            "person_name": "I. Aksakow",
+            "person_date": "brak danych",
+            "person_info": "redaktor gazety \"Moskva\""
+        },
+        {
+            "person_name": "Ołeksandr Barwinśki",
+            "person_date": "brak danych",
+            "person_info": "rówieśnik Stebelskiego"
+        },
+        {
+            "person_name": "Iwan Franko",
+            "person_date": "brak danych",
+            "person_info": "ukraiński poeta, prozaik, dramaturg"
+        },
+        {
+            "person_name": "Modest Maciejewski",
+            "person_date": "1873",
+            "person_info": "protoihumen bazylianów"
+        },
+        {
+            "person_name": "Władysław Rapacki",
+            "person_date": "1874",
+            "person_info": "panslawista i szpieg rosyjski"
+        },
+        {
+            "person_name": "Władysław Bełza",
+            "person_date": "brak danych",
+            "person_info": "polski poeta, prozaik, dramaturg, publicysta"
+        },
+        {
+            "person_name": "Władysław Ordon",
+            "person_date": "brak danych",
+            "person_info": "polski poeta, prozaik, dramaturg, publicysta"
+        },
+        {
+            "person_name": "Władysław Sabowski",
+            "person_date": "brak danych",
+            "person_info": "polski poeta, prozaik, dramaturg, publicysta"
+        },
+        {
+            "person_name": "Marian Gawalewicz",
+            "person_date": "brak danych",
+            "person_info": "polski poeta, prozaik, dramaturg, publicysta"
+        },
+        {
+            "person_name": "Bolesław Czerwieński",
+            "person_date": "brak danych",
+            "person_info": "polski poeta, prozaik, dramaturg, publicysta"
+        },
+        {
+            "person_name": "Bolesław Spausta",
+            "person_date": "brak danych",
+            "person_info": "polski poeta, prozaik, dramaturg, publicysta"
+        },
+        {
+            "person_name": "Liberat Zajączkowski",
+            "person_date": "1877",
+            "person_info": "redaktor dwutygodnika satyryczno-humorystycznego 'Szczutek'"
+        },
+        {
+            "person_name": "Kazimierz Chłędowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Biernacki",
+            "person_date": "brak danych",
+            "person_info": "satyryk-humorysta"
+        },
+        {
+            "person_name": "Włodzimierz Zagórski",
+            "person_date": "brak danych",
+            "person_info": "satyryk-humorysta"
+        },
+        {
+            "person_name": "Henryk Biegeleisen",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Juliusz Słowacki",
+            "person_date": "brak danych",
+            "person_info": "dramaturg"
+        },
+        {
+            "person_name": "Gabriela Zapolska",
+            "person_date": "brak danych",
+            "person_info": "pisarka, debiutująca na scenie lwowskiej"
+        },
+        {
+            "person_name": "Ludwik Masłowski",
+            "person_date": "brak danych",
+            "person_info": "redaktor 'Kuriera Lwowskiego'"
+        },
+        {
+            "person_name": "Michał Bałucki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Rewakowicz",
+            "person_date": "brak danych",
+            "person_info": "redaktor 'Dziennika Polskiego'"
+        },
+        {
+            "person_name": "Jan Lama",
+            "person_date": "brak danych",
+            "person_info": "redaktor 'Dziennika Polskiego'"
+        },
+        {
+            "person_name": "Jan Gniewosz",
+            "person_date": "brak danych",
+            "person_info": "redaktor 'Strażnicy Polskiej'"
+        },
+        {
+            "person_name": "Kazimierz Okaz",
+            "person_date": "brak danych",
+            "person_info": "wydawca serii książeczek"
+        },
+        {
+            "person_name": "Wilhelm Feldman",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Czapelski",
+            "person_date": "brak danych",
+            "person_info": "sekretarz redakcji 'Kuriera Codziennego'"
+        },
+        {
+            "person_name": "Wanda Młodnicka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mieczysław Orgelbrand",
+            "person_date": "brak danych",
+            "person_info": "wydawca 'Kuriera Codziennego'"
+        },
+        {
+            "person_name": "Hipolit Orgelbrand",
+            "person_date": "brak danych",
+            "person_info": "wydawca 'Kuriera Codziennego'"
+        },
+        {
+            "person_name": "Julian Chodorowicz",
+            "person_date": "brak danych",
+            "person_info": "właściciel 'Kuriera Codziennego'"
+        },
+        {
+            "person_name": "Michał Wołowski",
+            "person_date": "brak danych",
+            "person_info": "właściciel 'Kuriera Codziennego'"
+        },
+        {
+            "person_name": "Bolesław Prus",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Stefan Żeromski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Artur Oppman",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Leonardo da Vinci",
+            "person_date": "1887",
+            "person_info": "artysta, naukowiec"
+        },
+        {
+            "person_name": "Heinrich Heine",
+            "person_date": "1890",
+            "person_info": "poeta, pisarz"
+        },
+        {
+            "person_name": "Czerwieński",
+            "person_date": "1888",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Sabowski",
+            "person_date": "1888",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Maria Konopnicka",
+            "person_date": "1887",
+            "person_info": "pisarka"
+        },
+        {
+            "person_name": "J. Vrchlický",
+            "person_date": "1887",
+            "person_info": "autor komedii"
+        },
+        {
+            "person_name": "J. Karpeles",
+            "person_date": "1889",
+            "person_info": "powiernik H. Heinego"
+        },
+        {
+            "person_name": "H. Heine",
+            "person_date": "1889",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Wiktor Gomulicki",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Feldman",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Żeromski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Oppman",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franki",
+            "person_date": "1905",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "C. Jankowski",
+            "person_date": "1898",
+            "person_info": "wydawca"
+        },
+        {
+            "person_name": "J. Kasprowicz",
+            "person_date": "1899",
+            "person_info": "wydawca"
+        },
+        {
+            "person_name": "J. Tuwim",
+            "person_date": "1954",
+            "person_info": "poeta, wydawca"
+        },
+        {
+            "person_name": "J. W. Gomulicki",
+            "person_date": "1954",
+            "person_info": "wydawca"
+        },
+        {
+            "person_name": "P. Hertz",
+            "person_date": "1962",
+            "person_info": "wydawca"
+        },
+        {
+            "person_name": "T. Chróścielewski",
+            "person_date": "1965",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "Wasyl Łewyćki",
+            "person_date": "1903",
+            "person_info": "zbierał materiały o S."
+        },
+        {
+            "person_name": "Juliusz W. Gomulicki",
+            "person_date": "1944",
+            "person_info": "pisarz, zgromadził materiały o S."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Magierów",
+            "date": "1848-08-31"
+        },
+        {
+            "place": "Stanisławów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sambor",
+            "date": "1862"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niemcy",
+            "date": "1882"
+        },
+        {
+            "place": "Baden",
+            "date": "1885"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "1887"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1887"
+        },
+        {
+            "place": "Tworki",
+            "date": "1891"
+        },
+        {
+            "place": "Bródno",
+            "date": "1891"
+        }
+    ]
+}

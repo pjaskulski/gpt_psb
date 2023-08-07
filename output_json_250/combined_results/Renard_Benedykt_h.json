@@ -1,0 +1,190 @@
+{
+    "name": "Benedykt Renard",
+    "psb_id": "PSB-31-0077",
+    "biogram_file": "Renard_Benedykt_h.txt",
+    "date_of_birth": {
+        "date": "1683",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1727",
+        "note": "między 1725 a 1727"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "architekt",
+        "grafik",
+        "dyplomata",
+        "inżynier papieski",
+        "oficer",
+        "wysłannik Augusta II",
+        "rotmistrz jazdy",
+        "szambelan",
+        "pułkownik"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Akademia Św. Łukasza",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Kongregacja Polska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Hospicjum Św. Stanisława",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Zamek Królewski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pałac Radziwiłłów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kościół Św. Stanisława",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Pałac przy Krakowskim Przedmieściu",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Andrzej Renard"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Baptysta Renard"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Orzelska"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna Katarzyna Renard"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Giuseppe Imperiali",
+            "person_date": "1704",
+            "person_info": "kardynał, protektor Renarda"
+        },
+        {
+            "person_name": "Francesco Pignatelli",
+            "person_date": "przed 1708",
+            "person_info": "kardynał, nuncjusz w Polsce"
+        },
+        {
+            "person_name": "Domenico Maria Muratori",
+            "person_date": "1708",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Filippo Barigioni",
+            "person_date": "1711",
+            "person_info": "rzymski architekt"
+        },
+        {
+            "person_name": "Francesco Ferrari",
+            "person_date": "1712",
+            "person_info": "rzymski architekt"
+        },
+        {
+            "person_name": "Jan Szembek",
+            "person_date": "1718",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Angelelli",
+            "person_date": "1718",
+            "person_info": "markiz"
+        },
+        {
+            "person_name": "Matthäus Daniel Pöppelmann",
+            "person_date": "1719",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Anna z Sanguszków Radziwiłłowa",
+            "person_date": "1721",
+            "person_info": "księżna"
+        },
+        {
+            "person_name": "J. D. Jauch",
+            "person_date": "1721",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "P. Lagnasco",
+            "person_date": "1725",
+            "person_info": "przedstawiciel Saksonii w Rzymie"
+        },
+        {
+            "person_name": "Maria Klementyna Sobieska-Stuart",
+            "person_date": "1725",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Domenico Cioli",
+            "person_date": "1725",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Jerzy Kowalczyk",
+            "person_date": "brak danych",
+            "person_info": "historyk sztuki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1683"
+        },
+        {
+            "place": "Rzym",
+            "date": "1704"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "1713"
+        },
+        {
+            "place": "Bolonia",
+            "date": "1718"
+        },
+        {
+            "place": "Drezno",
+            "date": "1719"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1721"
+        },
+        {
+            "place": "Rzym",
+            "date": "1725"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1725-1727"
+        }
+    ]
+}

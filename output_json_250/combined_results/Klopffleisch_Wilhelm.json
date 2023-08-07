@@ -1,0 +1,183 @@
+{
+    "name": "Wilhelm Klopffleisch",
+    "psb_id": "PSB-13-0009",
+    "biogram_file": "Klopffleisch_Wilhelm.txt",
+    "date_of_birth": {
+        "date": "1826",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Warszawa",
+        "note": null
+    },
+    "date_of_death": {
+        "date": "1856",
+        "note": null
+    },
+    "place_of_death": {
+        "place": "Nerczyński Zawód",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": null
+    },
+    "functions": [
+        "działacz rewolucyjny warszawski",
+        "sybirak",
+        "pracownik techniczny",
+        "delegat do Wrocławia",
+        "łącznik z załogą fabryki maszyn na Solcu",
+        "organizator przemytu",
+        "emisariusz Centralnego Komitetu Demokracji Europejskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Fabryka maszyn na Solcu",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Związek Demokratyczny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralizacja Tow. Demokr. Pol.",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Centralny Komitet Demokracji Europejskiej",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Browar na Nowym Świecie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Nerczyński Zawód",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Klopffleisch"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Narcyz Tchórzewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Karol Libelt",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Krajewski",
+            "person_date": "brak danych",
+            "person_info": "naczelnik organizacji warszawskiej"
+        },
+        {
+            "person_name": "Władysław Dzwonkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Romuald Świerzbiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antonina Lissowska",
+            "person_date": "brak danych",
+            "person_info": "modystka"
+        },
+        {
+            "person_name": "A. Skimborowiczowa",
+            "person_date": "1848",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Wysocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Natalis Sulerzyski",
+            "person_date": "1850",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Łyskowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Bulewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paweł Darasz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paskiewicz",
+            "person_date": "1855",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1826"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1846"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1848"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1848"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mysłowice",
+            "date": "1848"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piątkowo",
+            "date": "1850-1851"
+        },
+        {
+            "place": "Chełmno",
+            "date": "1850-1851"
+        },
+        {
+            "place": "Zbrachlin",
+            "date": "1852"
+        }
+    ]
+}

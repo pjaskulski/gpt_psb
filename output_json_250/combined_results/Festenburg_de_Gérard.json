@@ -1,0 +1,146 @@
+{
+    "name": "Edward Festerburg",
+    "psb_id": "PSB-06-0617",
+    "biogram_file": "Festenburg_de_Gérard.txt",
+    "date_of_birth": {
+        "date": "1843"
+    },
+    "place_of_birth": {
+        "place": "Lwów"
+    },
+    "date_of_death": {
+        "date": "1914-01-16"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "lekarz-akuszer",
+        "prezydent Izby Lekarskiej",
+        "sekundariusz Oddziału Ginekologicznego w Instytucie Medyko-chirurgicznym",
+        "asystent Zakładu Położniczego",
+        "zastępca kierownika katedry położnictwa",
+        "członek Wydziału Izby Wschodnio-galicyjskiej",
+        "prezydent Izby Wschodnio-galicyjskiej",
+        "skarbnik Towarzystwa Lekarzy Galicyjskich",
+        "przewodniczący Towarzystwa Opieki Szpitalnej nad Dziećmi",
+        "prezes Lwowskiego Towarzystwa Lekarskiego",
+        "członek honorowy Lwowskiego Towarzystwa Lekarskiego",
+        "członek Krajowej Rady Zdrowia",
+        "wiceprezes Krajowej Rady Zdrowia",
+        "prezes Krajowej Rady Zdrowia",
+        "członek Galicyjskiego Towarzystwa Muzycznego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wydział Lekarski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Instytut Medyko-chirurgiczny",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Zakład Położniczy",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Izba Lekarska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Izba Wschodnio-galicyjska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Towarzystwo Lekarzy Galicyjskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Opieki Szpitalnej nad Dziećmi",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szpital św. Zofii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Lwowskie Towarzystwo Lekarskie",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Towarzystwo Ginekologiczne",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Krajowa Rada Zdrowia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szpital Powszechny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Galicyjskie Towarzystwo Muzyczne",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "prof. Weber",
+            "person_date": "1871",
+            "person_info": "profesor, kierownik Oddziału Ginekologicznego"
+        },
+        {
+            "person_name": "Adam Czyżewicz",
+            "person_date": "1871/72",
+            "person_info": "kierownik katedry położnictwa"
+        },
+        {
+            "person_name": "Józef Rożański",
+            "person_date": "1893",
+            "person_info": "pierwszy prezydent Izby Wschodnio-galicyjskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1843"
+        },
+        {
+            "place": "Czerniowce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1867"
+        },
+        {
+            "place": "Lwów",
+            "date": "1867"
+        },
+        {
+            "place": "Praga",
+            "date": "1871"
+        },
+        {
+            "place": "Lwów",
+            "date": "1871/72"
+        },
+        {
+            "place": "Lwów",
+            "date": "1893"
+        },
+        {
+            "place": "Lwów",
+            "date": "1914"
+        }
+    ]
+}

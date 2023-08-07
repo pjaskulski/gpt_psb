@@ -1,0 +1,79 @@
+{
+    "name": "Jakub Gadebusch",
+    "psb_id": "PSB-07-0292",
+    "biogram_file": "Gadebusch_Jakub.txt",
+    "date_of_birth": {
+        "date": "brak danych",
+        "note": "prawdopodobnie z końcem XVI wieku"
+    },
+    "place_of_birth": {
+        "place": "Gryfia"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "student Gimnazjum Akademickiego",
+        "autor utworów panegirycznych",
+        "autor podręcznika gramatyki polskiej",
+        "autor opisu Polski",
+        "student uniwersytetu w Królewcu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum Akademickie",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Królewiec"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Adrian Pauli",
+            "person_date": "brak danych",
+            "person_info": "profesor fizyki i metafizyki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gryfia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1619-1620"
+        },
+        {
+            "place": "Magdeburg",
+            "date": "1623"
+        },
+        {
+            "place": "Polska",
+            "date": "1621"
+        },
+        {
+            "place": "Lubeka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wismar",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rostock",
+            "date": "brak danych"
+        }
+    ]
+}

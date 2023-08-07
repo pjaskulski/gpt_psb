@@ -1,0 +1,587 @@
+{
+    "name": "Wincenty Rzymowski",
+    "psb_id": "PSB-34-0101",
+    "biogram_file": "Rzymowski_Wincenty.txt",
+    "date_of_birth": {
+        "date": "1883-07-19"
+    },
+    "place_of_birth": {
+        "place": "Kuczbork",
+        "note": "powiat mławski"
+    },
+    "date_of_death": {
+        "date": "1950-04-30"
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "note": "Służewiec"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dziennikarz",
+        "publicysta",
+        "pisarz",
+        "działacz polityczny",
+        "minister",
+        "krytyk literacki",
+        "tłumacz",
+        "członek Zjazdu Wolnomyślicielskiego",
+        "członek Polskiego Związku Postępowego",
+        "redaktor \"Prawdy\"",
+        "członek Związku Patriotów",
+        "redaktor \"Widnokrąg\"",
+        "członek Klubu Państwowców Polskich",
+        "członek Stronnictwa Niezawisłości Narodowej",
+        "referent prasowy poselstwa RP przy Kwirynale",
+        "korespondent PPS-owskiego „Robotnika”",
+        "członek-założyciel Ligi Reformy Obyczajów",
+        "członek zespołu opracowującego wstępny rozdział ustawy zasadniczej",
+        "członek zespołu opracowującego zasady statutu Legionu Zasłużonych (Kadry Obywatelskiej)",
+        "członek Polskiej Akademii Literatury",
+        "redaktor „Kuriera Porannego”",
+        "członek Komitetu Organizacyjnego Klubu Demokratycznego",
+        "członek Zarządu Klubu Demokratycznego",
+        "członek Komisji Redakcyjnej Stronnictwa Demokratycznego",
+        "członek Rady Naczelnej Stronnictwa Demokratycznego",
+        "członek Komisji Politycznej Stronnictwa Demokratycznego",
+        "członek Polskiego Komitetu Wyzwolenia Narodowego",
+        "kierownik Resortu Kultury i Sztuki Polskiego Komitetu Wyzwolenia Narodowego",
+        "członek Krajowej Rady Narodowej",
+        "minister kultury i sztuki w Rządzie Tymczasowym",
+        "minister spraw zagranicznych w Rządzie Tymczasowym",
+        "minister spraw zagranicznych w Tymczasowym Rządzie Jedności Narodowej",
+        "przewodniczący Centralnego Komitetu Stronnictwa Demokratycznego",
+        "przewodniczący Komitetu Politycznego Centralnego Komitetu Stronnictwa Demokratycznego",
+        "poseł do Sejmu Ustawodawczego",
+        "minister bez teki w rządzie Józefa Cyrankiewicza",
+        "honorowy prezes Stronnictwa Demokratycznego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Noworosyjski",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Przegląd Społeczny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Społeczeństwo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Prawda",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Myśl Niepodległa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Związek Postępowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Patriotów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Socjalistyczna-Frakcja Rewolucyjna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klub Państwowców Polskich",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Stronnictwo Niezawisłości Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Poselstwo RP przy Kwirynale",
+            "institution_place": "Włochy"
+        },
+        {
+            "institution_name": "Robotnik",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Akademia Literatury",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kurier Poranny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Czerwona Pomoc w Polsce",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Nauczycielstwa Polskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ilustrowany Kurier Codzienny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Bezpartyjny Blok Współpracy z Rządem",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Prosto z mostu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Akademia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Spraw Wewnętrznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Klub Demokratyczny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komitet Organizacyjny Klubu Demokratycznego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zarząd Klubu Demokratycznego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Redakcyjna Stronnictwa Demokratycznego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Rada Naczelna Stronnictwa Demokratycznego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Polityczna Stronnictwa Demokratycznego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wielka Loża Narodowa Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Czarno na białem",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dziennik Ludowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Almanach Literacki",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Prawda Wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Armia Czerwona",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Krajowa Rada Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Komitet Wyzwolenia Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Resort Kultury i Sztuki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Zawodowy Literatów Polskich",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Polska Partia Robotnicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stronnictwo Polskiej Demokracji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Krakowski Okręg Stronnictwa Demokratycznego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Centralny Komitet Stronnictwa Demokratycznego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sejm Ustawodawczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Tymczasowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Kultury i Sztuki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Spraw Zagranicznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tymczasowy Rząd Jedności Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zgromadzenie Ogólne ONZ",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Epoka",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Rzymowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Józefa Cichowicz"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Grzegorz Rzymowski"
+        },
+        {
+            "family_relation": "szwagierka",
+            "person": "Maria Dąbrowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Irena Kopczyńska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Adam Rzymowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Brzozowski",
+            "person_date": "1906",
+            "person_info": "rekomendował Rzymowskiego do tygodnika 'Przegląd Społeczny'"
+        },
+        {
+            "person_name": "Andrzej Niemojewski",
+            "person_date": "brak danych",
+            "person_info": "redaktor 'Myśli Niepodległej'"
+        },
+        {
+            "person_name": "Tadeusz Hołówko",
+            "person_date": "1915",
+            "person_info": "dziennikarz, członek Polskiej Partii Socjalistycznej (PPS)-Frakcja Rewolucyjna"
+        },
+        {
+            "person_name": "Kazimierz Życki",
+            "person_date": "1915",
+            "person_info": "właściciel tygodnika 'Prawda'"
+        },
+        {
+            "person_name": "Wacław Łypacewicz",
+            "person_date": "1915",
+            "person_info": "właściciel tygodnika 'Prawda'"
+        },
+        {
+            "person_name": "Stefan Piekarski",
+            "person_date": "1915",
+            "person_info": "sekretarz redakcji 'Prawdy'"
+        },
+        {
+            "person_name": "Aleksander Świętochowski",
+            "person_date": "1915",
+            "person_info": "publicysta, towarzysz z Polskiego Związku Postępowego"
+        },
+        {
+            "person_name": "Bolesław Koskowski",
+            "person_date": "1915",
+            "person_info": "publicysta 'Kuriera Warszawskiego'"
+        },
+        {
+            "person_name": "Wilhelm Feldman",
+            "person_date": "1916",
+            "person_info": "delegat berlińskiego Biura Prasowego Naczelnego Komitetu Narodowego"
+        },
+        {
+            "person_name": "Józef Piłsudski",
+            "person_date": "1915",
+            "person_info": "lider Legionów Polskich"
+        },
+        {
+            "person_name": "Bogusław Miedziński",
+            "person_date": "1917",
+            "person_info": "członek kierownictwa Stronnictwa Niezawisłości Narodowej"
+        },
+        {
+            "person_name": "Jan Papini",
+            "person_date": "21 XII 1920",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "G. Papini",
+            "person_date": "1921–3",
+            "person_info": "autor książek przetłumaczonych przez Rzymowskiego"
+        },
+        {
+            "person_name": "B. Pascal",
+            "person_date": "1921–3",
+            "person_info": "autor książek przetłumaczonych przez Rzymowskiego"
+        },
+        {
+            "person_name": "G. Duhamel",
+            "person_date": "1926",
+            "person_info": "intelektualista, który protestował przeciwko aresztowaniu Rzymowskiego"
+        },
+        {
+            "person_name": "Juliusz Kaden-Bandrowski",
+            "person_date": "1930",
+            "person_info": "pisarz, o którym Rzymowski pisał"
+        },
+        {
+            "person_name": "Kazimierz Wierzyński",
+            "person_date": "1930",
+            "person_info": "pisarz, o którym Rzymowski pisał"
+        },
+        {
+            "person_name": "Roman Dmowski",
+            "person_date": "1932",
+            "person_info": "przywódca prawicy nacjonalistycznej, krytykowany przez Rzymowskiego"
+        },
+        {
+            "person_name": "J. Piłsudski",
+            "person_date": "1930 i 1931",
+            "person_info": "marszałek Polski, którego decyzje Rzymowski bronił"
+        },
+        {
+            "person_name": "Edward Rydz-Śmigły",
+            "person_date": "1935",
+            "person_info": "generalny inspektor sił zbrojnych, z którym Rzymowski wiązał nadzieje"
+        },
+        {
+            "person_name": "Zofia Nałkowska",
+            "person_date": "1936",
+            "person_info": "pisarka, uczestniczka akcji Czerwonej Pomocy w Polsce"
+        },
+        {
+            "person_name": "Jan Czarnocki",
+            "person_date": "1937",
+            "person_info": "autor artykułu w „Kurierze Porannym”, za który Rzymowski został usunięty z redakcji"
+        },
+        {
+            "person_name": "Bertrand Russell",
+            "person_date": "1936",
+            "person_info": "angielski myśliciel, którego fragmenty tekstu Rzymowski miał użyć w swojej książce"
+        },
+        {
+            "person_name": "Jan Mosdorf",
+            "person_date": "1936",
+            "person_info": "publicysta, który zarzucił Rzymowskiemu plagiat"
+        },
+        {
+            "person_name": "J. Prévost",
+            "person_date": "1936",
+            "person_info": "francuski publicysta, którego fragmenty tekstu Rzymowski miał użyć w swoim felietonie"
+        },
+        {
+            "person_name": "O. Missuna",
+            "person_date": "1937",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Min. Spraw Wewnętrznych",
+            "person_date": "1937",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walery Sławek",
+            "person_date": "1939",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wanda Wasilewska",
+            "person_date": "1944",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Leon Pasternak",
+            "person_date": "1941",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bolesław Bierut",
+            "person_date": "1944",
+            "person_info": "przewodniczący pięcioosobowej delegacji"
+        },
+        {
+            "person_name": "J. Stalin",
+            "person_date": "1944",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. K. Wende",
+            "person_date": "1944",
+            "person_info": "wiceminister kultury i sztuki"
+        },
+        {
+            "person_name": "Zygmunt Modzelewski",
+            "person_date": "1945",
+            "person_info": "wiceminister spraw zagranicznych"
+        },
+        {
+            "person_name": "L. Chajn",
+            "person_date": "1944",
+            "person_info": "sekretarz generalny SD"
+        },
+        {
+            "person_name": "Leon Chajn",
+            "person_date": "1944",
+            "person_info": "członek PPR"
+        },
+        {
+            "person_name": "Jan Karol Wende",
+            "person_date": "1944",
+            "person_info": "członek PPR"
+        },
+        {
+            "person_name": "Jan Rabanowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Cyrankiewicz",
+            "person_date": "1947",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kuczbork",
+            "date": "1883-07-19"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1901"
+        },
+        {
+            "place": "Genewa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lozanna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Odesa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Salzwedel",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stendhal",
+            "date": "brak danych"
+        },
+        {
+            "place": "Celle-Schloss",
+            "date": "1916-01-21"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1916"
+        },
+        {
+            "place": "Zamość",
+            "date": "1919"
+        },
+        {
+            "place": "Bytom",
+            "date": "1920"
+        },
+        {
+            "place": "Włochy",
+            "date": "1923-1926"
+        },
+        {
+            "place": "Lwów",
+            "date": "1936-05-16/1936-05-17"
+        },
+        {
+            "place": "Lwów",
+            "date": "1938-06-12"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1938-04-16"
+        },
+        {
+            "place": "Białystok",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krzemieniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kiwerc",
+            "date": "1944-05-30"
+        },
+        {
+            "place": "Moskwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "1944-08-14"
+        },
+        {
+            "place": "Poczdam",
+            "date": "1945-07-17 - 1945-08-02"
+        },
+        {
+            "place": "Waszyngton",
+            "date": "1945-10-16"
+        },
+        {
+            "place": "Paryż",
+            "date": "1946-07-29 - 1946-10-15"
+        },
+        {
+            "place": "Służewiec",
+            "date": "1950-04-30"
+        }
+    ]
+}

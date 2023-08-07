@@ -1,0 +1,225 @@
+{
+    "name": "Maria Bonawentura Stawska",
+    "psb_id": "PSB-43-0014",
+    "biogram_file": "Stawska_Paulina.txt",
+    "date_of_birth": {
+        "date": "1855-10-29"
+    },
+    "place_of_birth": {
+        "place": "Toruń"
+    },
+    "date_of_death": {
+        "date": "1934-11-04"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "kaplica Matki Boskiej Bolesnej przy kościele Niepokalanego Serca NMP przy ul. Smoleńsk 6"
+    },
+    "functions": [
+        "prywatna nauczycielka",
+        "nauczycielka w szkołach powszechnych",
+        "dyrektorka szkoły",
+        "przełożona domu zakonnego",
+        "mistrzyni nowicjatu",
+        "radna prowincjalna",
+        "mistrzyni sióstr czasowych",
+        "wikaria prowincjalna",
+        "radna generalna",
+        "wizytatorka prowincji amerykańskich",
+        "kierowniczka studiów",
+        "przełożona generalna",
+        "założycielka nowej prowincji",
+        "inicjatorka opracowania 'Historii Zgromadzenia Sióstr Felicjanek'",
+        "inicjatorka budowy Domu Katolickiego",
+        "inicjatorka otwarcia szkoły gospodarczej",
+        "inicjatorka budowy domu dla wychowania i przygotowania do zawodu dzieci i młodzieży",
+        "inicjatorka zjazdów naukowych felicjanek",
+        "inicjatorka wznowienia publikacji 'Roczników Zgromadzenia Sióstr Felicjanek'"
+    ],
+    "institutions": [
+        {
+            "institution_name": "czteroklasowa szkoła przy gminie ewangelickiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zgromadzenie Sióstr Felicjanek",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "szkoły powszechne prowadzone przez Zgromadzenie",
+            "institution_place": "Iwonicz"
+        },
+        {
+            "institution_name": "szkoły powszechne prowadzone przez Zgromadzenie",
+            "institution_place": "Morawica"
+        },
+        {
+            "institution_name": "szkoła oraz dom zakonny",
+            "institution_place": "Sokal"
+        },
+        {
+            "institution_name": "Nowicjat",
+            "institution_place": "Nowe Miasto nad Pilicą"
+        },
+        {
+            "institution_name": "Prowincja Ofiarowania NMP",
+            "institution_place": "Detroit"
+        },
+        {
+            "institution_name": "Catholic University of America",
+            "institution_place": "Waszyngton"
+        },
+        {
+            "institution_name": "Kapituła Generalna felicjanek",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Prowincja Niepokalanego Serca NMP",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Prowincja Matki Boskiej Częstochowskiej",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Prowincja Matki Serca Jezusowego",
+            "institution_place": "McKeesport"
+        },
+        {
+            "institution_name": "Prowincja Matki Boskiej Królowej Korony Polskiej",
+            "institution_place": "Warszawa-Wawer"
+        },
+        {
+            "institution_name": "Uniwersytet Jagielloński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kursy Kultury Polskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Dom Katolicki",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Filharmonia Krakowska im. Karola Szymanowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "szkoła gospodarcza",
+            "institution_place": "Tyniec"
+        },
+        {
+            "institution_name": "dom dla wychowania i przygotowania do zawodu dzieci i młodzieży",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kuria Rzymska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "kościół Niepokalanego Serca NMP",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Stawski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Paulina Becker"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Antoni Rogowski",
+            "person_date": "27 V 1874",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Brunona Pydynkowska",
+            "person_date": "1889",
+            "person_info": "kierownik nowicjatu"
+        },
+        {
+            "person_name": "Kajetana Jankiewicz",
+            "person_date": "30 VI 1894",
+            "person_info": "wizytatorka"
+        },
+        {
+            "person_name": "Adam Sapieha",
+            "person_date": "brak danych",
+            "person_info": "arcybiskup"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Toruń",
+            "date": "1855-10-29"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1883"
+        },
+        {
+            "place": "Iwonicz",
+            "date": "1884-10-04"
+        },
+        {
+            "place": "Morawica",
+            "date": "1885-10-04 - 1889"
+        },
+        {
+            "place": "Sokal",
+            "date": "1891-1893"
+        },
+        {
+            "place": "Nowe Miasto nad Pilicą",
+            "date": "1889"
+        },
+        {
+            "place": "Detroit",
+            "date": "1894-06-30 - 1908"
+        },
+        {
+            "place": "Waszyngton",
+            "date": "1917"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "McKeesport",
+            "date": "1921"
+        },
+        {
+            "place": "Warszawa-Wawer",
+            "date": "1922"
+        },
+        {
+            "place": "Coraopolis",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tyńiec",
+            "date": "brak danych"
+        }
+    ]
+}

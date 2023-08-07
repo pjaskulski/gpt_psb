@@ -1,0 +1,209 @@
+{
+    "name": "Wiesław Marian Strzelecki",
+    "psb_id": "PSB-45-0001",
+    "biogram_file": "Strzelecki_Wieslaw_Marian.txt",
+    "date_of_birth": {
+        "date": "1929-07-02"
+    },
+    "place_of_birth": {
+        "place": "Brudzewice",
+        "note": "powiat opoczyński"
+    },
+    "date_of_death": {
+        "date": "1986-11-02"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "1986-11-06"
+    },
+    "place_of_burial": {
+        "place": "Magdalenka",
+        "note": "cmentarz w Magdalence pod Warszawą"
+    },
+    "functions": [
+        "inżynier leśnik",
+        "docent Instytutu Badawczego Leśnictwa w Warszawie",
+        "pracownik leśny",
+        "zastępca asystenta w Katedrze Botaniki Leśnej i Dendrologii",
+        "pracownik Instytutu Badawczego Leśnictwa w Warszawie",
+        "asystent w Zakładzie Zalesiania",
+        "starszy asystent w Zakładzie Zalesiania",
+        "adiunkt w Zakładzie Zalesiania",
+        "kierownik Pracowni Uprawy Lasu",
+        "kierownik Zakładu Hodowli Lasu",
+        "koordynator badań grupy tematycznej „Doskonalenie sposobów zagospodarowania lasów w celu optymalizacji ich potencjału produkcyjnego”",
+        "zastępca dyrektora Instytutu Badawczego Leśnictwa ds. naukowo-badawczych",
+        "przewodniczący Rady Naukowo-Technicznej przy Warszawskim Zespole Leśnym",
+        "członek Rady Słowińskiego Parku Narodowego",
+        "członek zarządu głównego Polskiego Towarzystwa Leśnego",
+        "członek Stowarzyszenia Inżynierów i Techników Leśnictwa i Drzewnictwa",
+        "przewodniczący Europejskiej Komisji Leśnictwa FAO",
+        "członek polskiego zespołu ekspertów II programu UNESCO-MAB",
+        "członek Stałej Grupy Roboczej Polska–Finlandia ds. współpracy w zakresie leśnictwa",
+        "członek Rady Pełnomocników Ośrodka Koordynacyjnego RWPG w Puszkinie",
+        "członek międzynarodowego towarzystwa leśnego «Inter-Silva»",
+        "członek egzekutywy Podstawowej Organizacji Partyjnej PZPR w Instytucie Badawczym Leśnictwa",
+        "docent"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Instytut Badawczy Leśnictwa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Nadleśnictwo Brudzewice",
+            "institution_place": "Brudzewice"
+        },
+        {
+            "institution_name": "Liceum Ogólnokształcące Ziemi Gostyńskiej",
+            "institution_place": "Gostyń"
+        },
+        {
+            "institution_name": "Wydział Leśny SGGW",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Katedra Botaniki Leśnej i Dendrologii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zakład Zalesiania",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zakład Hodowli Lasu",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pracownia Uprawy Lasu",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Studium Podyplomowe Hodowli Lasu SGGW",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Naukowo-Techniczna przy Warszawskim Zespole Leśnym",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Słowińskiego Parku Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Leśne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Inżynierów i Techników Leśnictwa i Drzewnictwa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Europejska Komisja Leśnictwa FAO",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "UNESCO-MAB",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stała Grupa Robocza Polska–Finlandia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ośrodek Koordynacyjny RWPG",
+            "institution_place": "Puszkin"
+        },
+        {
+            "institution_name": "Inter-Silva",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "PZPR",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Felicjan Strzelecki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Stefania Łękawska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Barbara Krzemińska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Krzysztof Strzelecki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Roman Kobendza",
+            "person_date": "1950",
+            "person_info": "kierownik Katedry Botaniki Leśnej i Dendrologii"
+        },
+        {
+            "person_name": "Lucjan Królikowski",
+            "person_date": "1951",
+            "person_info": "kierownik Zakładu Zalesiania"
+        },
+        {
+            "person_name": "Sławomir Hejmanowski",
+            "person_date": "1964",
+            "person_info": "współautor broszury"
+        },
+        {
+            "person_name": "Jerzy Rudnicki",
+            "person_date": "1966",
+            "person_info": "kierownik Zakładu Hodowli Lasu"
+        },
+        {
+            "person_name": "Stefan Ostrowski",
+            "person_date": "1968",
+            "person_info": "współautor skryptu"
+        },
+        {
+            "person_name": "Ryszard Sobczak",
+            "person_date": "1972",
+            "person_info": "współautor podręcznika i następca na stanowisku kierownika Zakładu Hodowli Lasu"
+        },
+        {
+            "person_name": "V. Johannes",
+            "person_date": "1970",
+            "person_info": "autor pracy przetłumaczonej przez Wiesława Strzeleckiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Brudzewice",
+            "date": "1929-07-02"
+        },
+        {
+            "place": "Nadleśnictwo Brudzewice",
+            "date": "1942-1945"
+        },
+        {
+            "place": "Gostyń",
+            "date": "1946"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Buenos Aires",
+            "date": "1972"
+        },
+        {
+            "place": "Puszkin",
+            "date": "brak danych"
+        }
+    ]
+}

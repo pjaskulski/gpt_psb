@@ -1,0 +1,580 @@
+{
+    "name": "Ignacy Mościcki",
+    "psb_id": "PSB-22-0100",
+    "biogram_file": "Moscicki_Ignacy.txt",
+    "date_of_birth": {
+        "date": "1867-12-01"
+    },
+    "place_of_birth": {
+        "place": "Mierzanów"
+    },
+    "date_of_death": {
+        "date": "1946-10-02"
+    },
+    "place_of_death": {
+        "place": "Versoix",
+        "note": "pod Genewą"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "chemik",
+        "prezydent RP",
+        "robotnik w fabrykach",
+        "asystent na uniwersytecie we Fryburgu",
+        "kierownik techniczny firmy «Société dc l’Acide Nitrique»",
+        "profesor chemii fizycznej i elektrochemii technicznej Politechniki Lwowskiej",
+        "dziekan Wydziału Chemicznego",
+        "dyrektor fabryki azotniaku i karbidu w Chorzowie",
+        "rektor Politechniki Lwowskiej",
+        "profesor na katedrze elektrochemii technicznej Politechniki Warszawskiej",
+        "profesor honorowy Politechnik we Lwowie i Warszawie",
+        "członek zwyczajny PAU i Tow. Naukowego Warszawskiego",
+        "członek honorowy Akademii Nauk Technicznych oraz Polskiego Tow. Chemicznego",
+        "generalny inspektor sił zbrojnych",
+        "marszałek Polski",
+        "przewodniczący Komitetu Obrony Rzeczypospolitej",
+        "marszałek E. Rydza-Śmigłego",
+        "sekretarz Poselstwa RP w Bernie",
+        "sekretarz ambasady w Waszyngtonie",
+        "1 sekretarz Poselstwa i kierownik Wydziału Konsularnego w Bernie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Politechnika w Rydze",
+            "institution_place": "Ryga"
+        },
+        {
+            "institution_name": "Technical College Finsbury",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Uniwersytet we Fryburgu",
+            "institution_place": "Fryburg"
+        },
+        {
+            "institution_name": "Société dc l’Acide Nitrique",
+            "institution_place": "Fryburg"
+        },
+        {
+            "institution_name": "Société Générale des Condensateurs Electriques",
+            "institution_place": "Fryburg"
+        },
+        {
+            "institution_name": "Aluminium A. G. Neuhausen",
+            "institution_place": "Chippis"
+        },
+        {
+            "institution_name": "Politechnika Lwowska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Instytut Elektrochemiczny",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Instytut Badań Naukowych i Technicznych «Metan»",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Fabryka «Azot»",
+            "institution_place": "Jaworzno"
+        },
+        {
+            "institution_name": "Fabryka azotniaku i karbidu",
+            "institution_place": "Chorzów"
+        },
+        {
+            "institution_name": "Chemiczny Instytut Badawczy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Politechnika Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kombinat chemiczny Mościc",
+            "institution_place": "Tarnów"
+        },
+        {
+            "institution_name": "Polska Akademia Umiejętności",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Naukowe Warszawskie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Akademia Nauk Technicznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Chemiczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zgromadzenie Narodowe",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zamek Królewski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Obozu Zjednoczenia Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Obrony Rzeczypospolitej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralny Okręg Przemysłowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zamek książąt Radziwiłłów",
+            "institution_place": "Ołyka"
+        },
+        {
+            "institution_name": "Rząd Jedności Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Poselstwo RP",
+            "institution_place": "Bern"
+        },
+        {
+            "institution_name": "Ambasada RP",
+            "institution_place": "Waszyngton"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Faustyn Mościcki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Stefania Bojanowska"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Walenty"
+        },
+        {
+            "family_relation": "stryj",
+            "person": "Kazimierz"
+        },
+        {
+            "family_relation": "stryj",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Michalina Czyżewska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Maria Nagórna Dobrzańska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał Mościcki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Helena Mościcka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Józef Mościcki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Franciszek Mościcki"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Tadeusz Zwisłocki"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Aleksander Bobkowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "D. Bischoff",
+            "person_date": "1887–91",
+            "person_info": "kierownik pracy dyplomowej Mościckiego"
+        },
+        {
+            "person_name": "Józef Piłsudski",
+            "person_date": "1896",
+            "person_info": "polski polityk, przywódca obozu politycznego"
+        },
+        {
+            "person_name": "Józef Wierusz-Kowalski",
+            "person_date": "1897",
+            "person_info": "profesor fizyki uniwersytetu we Fryburgu"
+        },
+        {
+            "person_name": "W. Crooks",
+            "person_date": "brak danych",
+            "person_info": "ekspert"
+        },
+        {
+            "person_name": "A. Einstein",
+            "person_date": "brak danych",
+            "person_info": "rzeczoznawca w urzędzie patentowym"
+        },
+        {
+            "person_name": "Kazimierz Jabłczyński",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Jan Modzelewski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Karol Sulikowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "K. Kasperowicz",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "R. Wybranowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Bruno Zdanowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Kazimierz Kling",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Kazimierz Drewnowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Wacław Leśniański",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Lech Suchowiak",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Wojciech Świętosławski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Ludwik Wasilewski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Tadeusz Kuczyński",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Stefan Pawlikowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Eugeniusz Kwiatkowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Władysław Szaynok",
+            "person_date": "brak danych",
+            "person_info": "współpracownik Mościckiego"
+        },
+        {
+            "person_name": "Stanisław Wojciechowski",
+            "person_date": "1926",
+            "person_info": "prezydent RP"
+        },
+        {
+            "person_name": "Maciej Rataj",
+            "person_date": "1 VI 1926",
+            "person_info": "przewodniczący Zgromadzenia Narodowego"
+        },
+        {
+            "person_name": "Adolf Bniński",
+            "person_date": "1 VI 1926",
+            "person_info": "wojewoda poznański"
+        },
+        {
+            "person_name": "Józef Piłsudski",
+            "person_date": "brak danych",
+            "person_info": "marszałek Polski"
+        },
+        {
+            "person_name": "Walery Sławek",
+            "person_date": "brak danych",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Edward Rydz-Śmigły",
+            "person_date": "brak danych",
+            "person_info": "generał, inspektor sił zbrojnych"
+        },
+        {
+            "person_name": "Eugeniusz Kwiatkowski",
+            "person_date": "brak danych",
+            "person_info": "polityk, ekonomista"
+        },
+        {
+            "person_name": "Juliusz Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "polityk, minister"
+        },
+        {
+            "person_name": "Wojciech Świętosławski",
+            "person_date": "brak danych",
+            "person_info": "chemik, polityk"
+        },
+        {
+            "person_name": "Marian Zyndram-Kościałkowski",
+            "person_date": "13 X 1935",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Felicjan Sławoj Składkowski",
+            "person_date": "15 V 1936",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Rydz-Śmigły",
+            "person_date": "13 VI",
+            "person_info": "druga osoba w państwie, marszałek Polski"
+        },
+        {
+            "person_name": "Adam Koc",
+            "person_date": "21 II 1937",
+            "person_info": "deklaracja potrzeby silnej władzy"
+        },
+        {
+            "person_name": "E. Rydz-Śmigły",
+            "person_date": "październik 1937",
+            "person_info": "uczestnik narad politycznych rządu"
+        },
+        {
+            "person_name": "E. Kwiatkowski",
+            "person_date": "24 VII 1937",
+            "person_info": "działalność gospodarcza"
+        },
+        {
+            "person_name": "H. Goering",
+            "person_date": "1935–9",
+            "person_info": "wizyta dyplomatyczna"
+        },
+        {
+            "person_name": "J. Ribbentrop",
+            "person_date": "1935–9",
+            "person_info": "wizyta dyplomatyczna"
+        },
+        {
+            "person_name": "M. G. Gamelin",
+            "person_date": "1935–9",
+            "person_info": "szef sztabu generalnego Francji"
+        },
+        {
+            "person_name": "M. Horthy",
+            "person_date": "1935–9",
+            "person_info": "regent Węgier"
+        },
+        {
+            "person_name": "Karol",
+            "person_date": "1935–9",
+            "person_info": "król rumuński"
+        },
+        {
+            "person_name": "G. Ciano",
+            "person_date": "1935–9",
+            "person_info": "włoski minister spraw zagranicznych"
+        },
+        {
+            "person_name": "Józef Beck",
+            "person_date": "1935–9",
+            "person_info": "minister spraw zagranicznych"
+        },
+        {
+            "person_name": "F. S. Składkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bolesław Wieniawa-Długoszowski",
+            "person_date": "20-21 IX 1939",
+            "person_info": "powołany na prezydenta RP"
+        },
+        {
+            "person_name": "Władysław Raczkiewicz",
+            "person_date": "30 IX 1939",
+            "person_info": "powołany na prezydenta RP"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mierzanowo",
+            "date": "1867-12-01"
+        },
+        {
+            "place": "Drezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Skierbieszów",
+            "date": "1878"
+        },
+        {
+            "place": "Płock",
+            "date": "1892"
+        },
+        {
+            "place": "Ryga",
+            "date": "1887-1891"
+        },
+        {
+            "place": "Londyn",
+            "date": "1892"
+        },
+        {
+            "place": "Fryburg",
+            "date": "1897"
+        },
+        {
+            "place": "Vevey",
+            "date": "1903"
+        },
+        {
+            "place": "Chippis",
+            "date": "brak danych"
+        },
+        {
+            "place": "Neuhausen",
+            "date": "1912"
+        },
+        {
+            "place": "Miluza",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bory pod Jaworznem",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1915-1917"
+        },
+        {
+            "place": "Glinnik Mariampolski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jedlicz",
+            "date": "1921"
+        },
+        {
+            "place": "Borysław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jaworzno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chorzów",
+            "date": "1922"
+        },
+        {
+            "place": "Tarnów",
+            "date": "1930"
+        },
+        {
+            "place": "Gdynia",
+            "date": "1937-07-24"
+        },
+        {
+            "place": "Włochy",
+            "date": "1938-06-01 do 1938-08-31"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1938-1939"
+        },
+        {
+            "place": "Błota",
+            "date": "1939-09-02"
+        },
+        {
+            "place": "Ołyka",
+            "date": "1939-09-07 do 1939-09-13"
+        },
+        {
+            "place": "Załucze",
+            "date": "1939-09-14"
+        },
+        {
+            "place": "Kuty",
+            "date": "1939-09-17"
+        },
+        {
+            "place": "Rumunia",
+            "date": "1939-09-17 do 1939-12-25"
+        },
+        {
+            "place": "Czerniowce",
+            "date": "1939"
+        },
+        {
+            "place": "Bicaz",
+            "date": "1939"
+        },
+        {
+            "place": "Craiowa",
+            "date": "1939"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "1939-12-25 do 1946-10-02"
+        },
+        {
+            "place": "Versoix",
+            "date": "1946-10-02"
+        }
+    ]
+}

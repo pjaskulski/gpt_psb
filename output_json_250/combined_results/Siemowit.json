@@ -1,0 +1,114 @@
+{
+    "name": "Siemowit",
+    "psb_id": "PSB-37-0039",
+    "biogram_file": "Siemowit.txt",
+    "date_of_birth": {
+        "date": "IX w."
+    },
+    "place_of_birth": {
+        "place": "Gniezno",
+        "note": "na podgrodziu gnieźnieńskim"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "książę polański",
+        "książę Polski",
+        "dowódca wojsk",
+        "król",
+        "starosta opola ostrowskiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Piast"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Rzepicha"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Lestik"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Siemomysł"
+        },
+        {
+            "family_relation": "prawnuk",
+            "person": "Mieszko I"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Piast",
+            "person_date": "brak danych",
+            "person_info": "książęcy rataj"
+        },
+        {
+            "person_name": "Popiel",
+            "person_date": "brak danych",
+            "person_info": "miejscowy władca"
+        },
+        {
+            "person_name": "Jan Długosz",
+            "person_date": "brak danych",
+            "person_info": "kronikarz"
+        },
+        {
+            "person_name": "Juliusz Słowacki",
+            "person_date": "brak danych",
+            "person_info": "poeta, dramaturg"
+        },
+        {
+            "person_name": "Wincenty Budzyński",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Mieczysław Romanowski",
+            "person_date": "brak danych",
+            "person_info": "poeta, dramaturg"
+        },
+        {
+            "person_name": "Feliks Płażek",
+            "person_date": "brak danych",
+            "person_info": "pisarz, dramaturg"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gniezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostrowo Lednickie",
+            "date": "brak danych"
+        }
+    ]
+}

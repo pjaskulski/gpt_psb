@@ -1,0 +1,125 @@
+{
+    "name": "Galeazzo Guicciardini",
+    "psb_id": "PSB-09-0201",
+    "biogram_file": "Guicciardini_Galeazzo.txt",
+    "date_of_birth": {
+        "date": "1522",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1557-07-31"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "krużganki dominikanów"
+    },
+    "functions": [
+        "budowniczy",
+        "pracownik budowlany dla Sebastiana Montelupiego",
+        "pracownik budowlany dla Stanisława Pileckiego z Pilicy",
+        "pracownik budowlany dla Barbary Kmitowej",
+        "pracownik budowlany dla Spytka Jordana z Melsztyna",
+        "pracownik budowlany przy budowie zamku wawelskiego",
+        "pracownik budowlany przy budowie domu wikariuszy zamkowych",
+        "pracownik budowlany przy dworze Rabsztyn na Wawelu",
+        "pracownik budowlany przy naprawie dzwonnicy zygmuntowskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Dom Montelupich",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dom Gutteterów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zamek w Melsztynie",
+            "institution_place": "Melsztyn"
+        },
+        {
+            "institution_name": "Zamek Wawelski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dwór Rabsztyn",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dzwonnica Zygmuntowska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kamienica «książęca»",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Sebastian Montelupi",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tomasz Ferrovore",
+            "person_date": "brak danych",
+            "person_info": "budowniczy"
+        },
+        {
+            "person_name": "Stanisław Pilecki",
+            "person_date": "1557",
+            "person_info": "podkomorzy lubelski"
+        },
+        {
+            "person_name": "Barbara Kmitowa",
+            "person_date": "1563",
+            "person_info": "wdowa po Piotrze, wojewodzie krakowskim"
+        },
+        {
+            "person_name": "Spytek Jordan",
+            "person_date": "brak danych",
+            "person_info": "z Melsztyna"
+        },
+        {
+            "person_name": "Aleksander Gucci",
+            "person_date": "brak danych",
+            "person_info": "budowniczy"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Florencja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1550"
+        },
+        {
+            "place": "Pilica",
+            "date": "1557"
+        },
+        {
+            "place": "Melsztyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rabsztyn",
+            "date": "1560"
+        },
+        {
+            "place": "Wawel",
+            "date": "1560"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "name": "Anna Eufrozyna Sieniawska",
+    "psb_id": "PSB-37-0053",
+    "biogram_file": "Sieniawska_z_Chodkiewiczow.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1633-04",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Brzeżany"
+    },
+    "date_of_burial": {
+        "date": "1633-05-12",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Lwów",
+        "note": "kościół Dominikanów"
+    },
+    "functions": [
+        "chorążyna kor.",
+        "dziedziczka dóbr Gołogóry",
+        "zarządca dóbr litewskich",
+        "protektorka dominikanów lwowskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Chorągiew koronna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zakon Dominikanów",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Zakon Karmelitów Bosych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Klasztor Karmelitów",
+            "institution_place": "Hussaków"
+        },
+        {
+            "institution_name": "Sąd Nowogródzki",
+            "institution_place": "Nowogródek"
+        },
+        {
+            "institution_name": "Kościół Dominikanów",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Chodkiewicz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Eufemia Sienieńska"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Andrzej"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Prokop Sieniawski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Adam Hieronim"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Jan Stanisław Sapieha"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jakub Sobieski",
+            "person_date": "1618",
+            "person_info": "wojewodzic lubelski"
+        },
+        {
+            "person_name": "Prokop Sieniawski",
+            "person_date": "1623",
+            "person_info": "chorąży kor."
+        },
+        {
+            "person_name": "Krzysztof Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "hetman polny lit."
+        },
+        {
+            "person_name": "Jan Stanisław Sapieha",
+            "person_date": "brak danych",
+            "person_info": "marszałek w. lit."
+        },
+        {
+            "person_name": "Wiktoryn Kuropatnicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt Świrski",
+            "person_date": "brak danych",
+            "person_info": "podsędek ziemski halicki"
+        },
+        {
+            "person_name": "Jan Cedrowski",
+            "person_date": "brak danych",
+            "person_info": "urzędnik Radziwiłła"
+        },
+        {
+            "person_name": "Piotr Wierciński",
+            "person_date": "1628",
+            "person_info": "arendarz"
+        },
+        {
+            "person_name": "Krzysztof Franciszek Chwalibogowski",
+            "person_date": "1628",
+            "person_info": "autor poematu"
+        },
+        {
+            "person_name": "Kaspar Mikołaj Borkowski",
+            "person_date": "1632",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Sieniawski",
+            "person_date": "1633",
+            "person_info": "podczaszy kor."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Szkłów",
+            "date": "1623"
+        },
+        {
+            "place": "Nowa Mysz",
+            "date": "1627"
+        },
+        {
+            "place": "Gołogóry",
+            "date": "1627"
+        },
+        {
+            "place": "Brzeżany",
+            "date": "1627"
+        },
+        {
+            "place": "Koniuchy",
+            "date": "1627"
+        },
+        {
+            "place": "Lwów",
+            "date": "1628"
+        },
+        {
+            "place": "Hussaków",
+            "date": "1631"
+        },
+        {
+            "place": "Kraków",
+            "date": "1631"
+        },
+        {
+            "place": "Nowa Sieniawa",
+            "date": "1628"
+        }
+    ]
+}

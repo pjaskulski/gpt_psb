@@ -1,0 +1,349 @@
+{
+    "name": "Bazyli Barlaam Szeptycki",
+    "psb_id": "PSB-48-0105",
+    "biogram_file": "Szeptycki_Bazyli.txt",
+    "date_of_birth": {
+        "date": "1647-02-03"
+    },
+    "place_of_birth": {
+        "place": "Woszczańce"
+    },
+    "date_of_death": {
+        "date": "1715-04-05"
+    },
+    "place_of_death": {
+        "place": "Uniów"
+    },
+    "date_of_burial": {
+        "date": "1715-07-15"
+    },
+    "place_of_burial": {
+        "place": "Lwów",
+        "note": "krypta katedralna soboru św. Jura"
+    },
+    "functions": [
+        "archimandryta uniowski",
+        "unicki biskup lwowski",
+        "ihumen ławry uniowskiej",
+        "ihumen monasteru wicyńskiego",
+        "biskup lwowsko-halicko-kamieniecki",
+        "administrator diec. lwowskiej",
+        "archimandryta ławry kijowsko-peczerskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "szkoła katolicka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kolegium jezuickie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "skit w Maniawie",
+            "institution_place": "Maniawa"
+        },
+        {
+            "institution_name": "ławra uniowska",
+            "institution_place": "Uniów"
+        },
+        {
+            "institution_name": "monaster wicyński",
+            "institution_place": "Wicyń"
+        },
+        {
+            "institution_name": "drukarnia przy ławrze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zamek królewski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "katedra św. Jura",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "cerkiew Zbawiciela",
+            "institution_place": "Sambor"
+        },
+        {
+            "institution_name": "bractwo przy cerkwi Narodzenia Matki Boskiej",
+            "institution_place": "Szczyrk"
+        },
+        {
+            "institution_name": "bractwo przy cerkwi Wniebowstąpienia Pańskiego",
+            "institution_place": "Śniatyn"
+        },
+        {
+            "institution_name": "Kuria rzymska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "katedra Świętej Trójcy",
+            "institution_place": "Kamieniec Podolski"
+        },
+        {
+            "institution_name": "klasztor kołomyjski",
+            "institution_place": "Kołomyja"
+        },
+        {
+            "institution_name": "klasztor tłumacki",
+            "institution_place": "Tłumacz"
+        },
+        {
+            "institution_name": "klasztor ugornicki",
+            "institution_place": "Ugorniki"
+        },
+        {
+            "institution_name": "ławra poczajowska",
+            "institution_place": "Poczajów"
+        },
+        {
+            "institution_name": "sąd duchowny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kongregacja Propagandy Wiary",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "archimandria uniowska",
+            "institution_place": "Uniów"
+        },
+        {
+            "institution_name": "metropolia kijowska",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "diecezja przemyska",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "ławra kijowsko-peczerska",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "katedra lwowska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "klasztor wicyński",
+            "institution_place": "Wicyń"
+        },
+        {
+            "institution_name": "klasztor krechowski",
+            "institution_place": "Krechów"
+        },
+        {
+            "institution_name": "klasztor ławrowski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "klasztor szczepłocki",
+            "institution_place": "Szczepłocice"
+        },
+        {
+            "institution_name": "cerkiew parafialna",
+            "institution_place": "Woszczańce"
+        },
+        {
+            "institution_name": "klasztor św. Jura",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "mnisi w Uniowie",
+            "institution_place": "Uniów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Zachariasz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Ewa z Lityńskich"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Bazyli"
+        },
+        {
+            "family_relation": "babcia",
+            "person": "Zofia z Pokulińskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Michał"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Eustachy Stanisław"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Teodor"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Aleksy (Aleksander)"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Konstancja (Katarzyna)"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Antoni Winnicki"
+        },
+        {
+            "family_relation": "kuzyn",
+            "person": "Atanazy Antoni"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "1668",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Michał Korybut Wiśniowiecki",
+            "person_date": "1672",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Józef Szumlański",
+            "person_date": "1677",
+            "person_info": "prawosławny biskup lwowski"
+        },
+        {
+            "person_name": "Jan III Sobieski",
+            "person_date": "1680",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Cyprian Żochowski",
+            "person_date": "1680",
+            "person_info": "unicki metropolita kijowski"
+        },
+        {
+            "person_name": "Stefan Trombetti",
+            "person_date": "1707",
+            "person_info": "prefekt lwowskiego kolegium teatynów"
+        },
+        {
+            "person_name": "Cyryl Szumlański",
+            "person_date": "1708",
+            "person_info": "bazylianin, oficjał halicki"
+        },
+        {
+            "person_name": "Leon Kiszka",
+            "person_date": "1708",
+            "person_info": "protoarchimandryta zakonu bazylianów"
+        },
+        {
+            "person_name": "N. Spinolli",
+            "person_date": "1708",
+            "person_info": "nuncjusz apostolski"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "1709",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jerzy Winnicki",
+            "person_date": "1710",
+            "person_info": "unicki metropolita"
+        },
+        {
+            "person_name": "Jan Skarbek",
+            "person_date": "1712",
+            "person_info": "rzymskokatolicki arcybiskup lwowski"
+        },
+        {
+            "person_name": "Jan Szembek",
+            "person_date": "1713",
+            "person_info": "kanclerz koronny"
+        },
+        {
+            "person_name": "Adam Sieniawski",
+            "person_date": "1713",
+            "person_info": "hetman wielki koronny"
+        },
+        {
+            "person_name": "Atanazy Antoni",
+            "person_date": "1713",
+            "person_info": "krewny Szeptyckiego"
+        },
+        {
+            "person_name": "B. Odescalchi",
+            "person_date": "1713",
+            "person_info": "nuncjusz apostolski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Woszczańce",
+            "date": "1647-02-03"
+        },
+        {
+            "place": "Maniawa",
+            "date": "1664-06"
+        },
+        {
+            "place": "Wicyń",
+            "date": "1701"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1677-09-07"
+        },
+        {
+            "place": "Lublin",
+            "date": "1680-01"
+        },
+        {
+            "place": "Lwów",
+            "date": "1694-12-16/1694-12-18"
+        },
+        {
+            "place": "Sambor",
+            "date": "1710-06-15"
+        },
+        {
+            "place": "Szczurzec",
+            "date": "1709"
+        },
+        {
+            "place": "Śniatyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "1712-08"
+        },
+        {
+            "place": "Uniów",
+            "date": "1711-08"
+        },
+        {
+            "place": "Kołomyja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tłumacz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ugorniki",
+            "date": "1710-04"
+        },
+        {
+            "place": "Poczajów",
+            "date": "1712-06-29"
+        }
+    ]
+}

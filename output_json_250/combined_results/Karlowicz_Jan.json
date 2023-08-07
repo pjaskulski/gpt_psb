@@ -1,0 +1,191 @@
+{
+    "name": "Jan Karłowicz",
+    "psb_id": "PSB-12-0063",
+    "biogram_file": "Karlowicz_Jan.txt",
+    "date_of_birth": {
+        "date": "1833",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych",
+        "note": null
+    },
+    "date_of_death": {
+        "date": "1881-11-19",
+        "note": null
+    },
+    "place_of_death": {
+        "place": "San Remo",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": null
+    },
+    "functions": [
+        "naczelnik warszawskiej policji narodowej",
+        "ekonom",
+        "pisarz na probostwie w Nurze",
+        "nauczyciel szkółki elementarnej",
+        "aplikant magistratu w Nurze",
+        "aplikant w kancelarii IV cyrkułu policji wykonawczej",
+        "dozorca III kl. w policji",
+        "kontroler służby domowej i wyrobników przy zarządzie ober-policmajstra",
+        "aplikant w Kantorze Służby Domowej",
+        "pomocnik naczelnika policji warszawskiej",
+        "naczelnik policji narodowej",
+        "organizator Policji Narodowej w Poznańskiem",
+        "przedsiębiorca dostawy kamienia do robót drogowych",
+        "właściciel folwarku Snopków"
+    ],
+    "institutions": [
+        {
+            "institution_name": "warszawska policja narodowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "probostwo",
+            "institution_place": "Nur"
+        },
+        {
+            "institution_name": "magistrat",
+            "institution_place": "Nur"
+        },
+        {
+            "institution_name": "kancelaria IV cyrkułu policji wykonawczej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "zarząd ober-policmajstra",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kantor Służby Domowej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komitet Centralny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Policji Rządu Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "ratusz warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wydział Krajowy",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szkoła Politechniczna",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szkoła Gospodarstwa Wiejskiego",
+            "institution_place": "Snopków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Maria Reutt"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Gustaw Reutt"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Janina Teresa Karłowicz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Karłowicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Edward Jurgens",
+            "person_date": "1861",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Tomasz Winnicki",
+            "person_date": "1862",
+            "person_info": "naczelnik policji warszawskiej z ramienia Komitetu Centralnego"
+        },
+        {
+            "person_name": "Stefan Bobrowski",
+            "person_date": "1863",
+            "person_info": "naczelnik miasta"
+        },
+        {
+            "person_name": "Konstanty",
+            "person_date": "1863",
+            "person_info": "w. ks."
+        },
+        {
+            "person_name": "Paulucci",
+            "person_date": "1863",
+            "person_info": "oberpolicmajster"
+        },
+        {
+            "person_name": "Buciłowska",
+            "person_date": "1863",
+            "person_info": "gospodyni"
+        },
+        {
+            "person_name": "T. Trepow",
+            "person_date": "1863",
+            "person_info": "następca Paulucciego na stanowisku oberpolicmajstra"
+        },
+        {
+            "person_name": "Oskar Awejde",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zdzisław Janczewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Hermani",
+            "person_date": "1863",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Nur",
+            "date": "1851"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1855"
+        },
+        {
+            "place": "Poznań",
+            "date": "1864"
+        },
+        {
+            "place": "Drezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        }
+    ]
+}

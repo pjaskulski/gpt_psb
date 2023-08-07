@@ -1,0 +1,167 @@
+{
+    "name": "Zofia Mostowska",
+    "psb_id": "PSB-22-0051",
+    "biogram_file": "Mostowska_z_Bujwidow.txt",
+    "date_of_birth": {
+        "date": "1890-06-17"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1962-12-08"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Rakowicki"
+    },
+    "functions": [
+        "lekarka",
+        "kierownik wytwórni szczepionek",
+        "studentka medycyny na UJ",
+        "doktor chirurgii",
+        "członek organizacji «Spójnia»",
+        "pracownik kliniki chirurgicznej UJ",
+        "asystentka Bronisława Kadera i Maksymiliana Rutkowskiego",
+        "chirurg szpitala w Drohobyczu",
+        "kierownik oddziału chirurgicznego szpitala im. Dzieciątka Jezus w Warszawie",
+        "chirurg i współpracownik K. Hładija w Szpitalu Bonifratrów w Krakowie",
+        "kierownik spółki rodzinną «Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych w Krakowie»",
+        "organizator wojskowego szpitala polowego w Zwierzyńcu pod Zamościem",
+        "lekarz oddziałowy partyzancki",
+        "lekarz Stacji Sanitarno-Epidemiologicznej (Sanepidu) w Olsztynie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Jagielloński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Klinika Chirurgiczna UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szpital w Drohobyczu",
+            "institution_place": "Drohobycz"
+        },
+        {
+            "institution_name": "Szpital im. Dzieciątka Jezus",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szpital Bonifratrów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wojskowy szpital polowy",
+            "institution_place": "Zwierzyniec"
+        },
+        {
+            "institution_name": "Stacja Sanitarno-Epidemiologiczna (Sanepid)",
+            "institution_place": "Olsztyn"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Odo Bujwid"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Kazimiera Klimontowicz"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Kazimiera Rouppert"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Jadwiga Demel"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Helena Jurgielewicz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jerzy Mostowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Czesław Mostowski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Włodzimierz Mostowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bronisław Kader",
+            "person_date": "1918-1920",
+            "person_info": "asystent w klinice chirurgicznej UJ"
+        },
+        {
+            "person_name": "Maksymilian Rutkowski",
+            "person_date": "1918-1920",
+            "person_info": "asystent w klinice chirurgicznej UJ"
+        },
+        {
+            "person_name": "K. Hładij",
+            "person_date": "1929-1932",
+            "person_info": "chirurg i współpracownik w Szpitalu Bonifratrów w Krakowie"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1890-06-17"
+        },
+        {
+            "place": "Kraków",
+            "date": "1908-1914"
+        },
+        {
+            "place": "Drohobycz",
+            "date": "1922-1924"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1924-1929"
+        },
+        {
+            "place": "Kraków",
+            "date": "1929-1932"
+        },
+        {
+            "place": "Kraków",
+            "date": "1932-1951"
+        },
+        {
+            "place": "Zwierzyniec",
+            "date": "1939"
+        },
+        {
+            "place": "Oświęcim",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pustków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Majdanek",
+            "date": "brak danych"
+        }
+    ]
+}
