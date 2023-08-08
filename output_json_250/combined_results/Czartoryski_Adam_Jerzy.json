@@ -2,25 +2,15 @@
     "name": "Adam Jerzy Czartoryski",
     "psb_id": "PSB-04-0374",
     "biogram_file": "Czartoryski_Adam_Jerzy.txt",
-    "date_of_birth": {
-        "date": "1770-01-14",
-        "note": "lub 11 I"
-    },
-    "place_of_birth": {
-        "place": "Warszawa"
-    },
-    "date_of_death": {
-        "date": "1861"
-    },
-    "place_of_death": {
-        "place": "brak danych"
-    },
-    "date_of_burial": {
-        "date": "brak danych"
-    },
-    "place_of_burial": {
-        "place": "brak danych"
-    },
+    "date_of_birth":{
+        "date":"1770-01-14", 
+        "note":"lub 1770-01-11"
+        },
+    "place_of_birth":{"place":"Warszawa"},
+    "date_of_death":{"date":"1861-07-15"},
+    "place_of_death":{"place":"Montfermeil"},
+    "date_of_burial":{"date":"brak danych"},
+    "place_of_burial":{"place": "brak danych"},
     "functions": [
         "mąż stanu",
         "ochotnik do wojska litewskiego",

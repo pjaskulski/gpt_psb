@@ -2,23 +2,23 @@
     "name": "Mikołaj Kopernik",
     "psb_id": "PSB-14-0003",
     "biogram_file": "Kopernik_Mikolaj.txt",
-    "date_of_birth": {
-        "date": "1473-02-19"
-    },
-    "place_of_birth": {
-        "place": "Toruń"
-    },
-    "date_of_death": {
-        "date": "1543"
-    },
-    "place_of_death": {
-        "place": "brak danych"
-    },
-    "date_of_burial": {
-        "date": "brak danych"
-    },
-    "place_of_burial": {
-        "place": "brak danych"
+    "place_of_birth":{
+        "place":"Toruń", "note":"ul. Św. Anny"
+        },
+    "place_of_death":{
+        "place":"Frombork"
+        },
+    "place_of_burial":{
+        "place": "Frombork", "note": "przy należącym do jego kanonii ołtarzu św. Bartłomieja w południowo-zachodniej części katedry fromborskiej"
+        },
+    "date_of_birth":{
+        "date":"1473-02-19"
+        },
+    "date_of_death":{
+        "date":"1543-05-24"
+        },
+    "date_of_burial":{
+        "date":"brak danych"
     },
     "functions": [
         "astronom",
