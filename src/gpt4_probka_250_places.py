@@ -104,7 +104,7 @@ def short_version_places(text:str) -> str:
 def count_tokens(text:str, model:str = "gpt-4") -> int:
     """ funkcja zlicza tokeny """
     num_of_tokens = 0
-    enc = tiktoken.get_encoding(model)
+    enc = tiktoken.encoding_for_model(model)
     num_of_tokens = len(enc.encode(text))
 
     return num_of_tokens
