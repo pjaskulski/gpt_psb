@@ -56,9 +56,11 @@ if __name__ == '__main__':
     start_time = time.time()
 
     # embeddigns dla pytania
-    query_text = "Wyszukaj miejsce urodzenia, miejsce śmierci (gdzie zmarł), miejsce pochówku, datę urodzenia, datę śmierci (kiedy zmarł) i datę pochówku bohatera / bohaterki."
-    query_text = "miejsce urodzenia, miejsce śmierci (gdzie zmarł), miejsce pochówku / pogrzebu, data urodzenia (kiedy się urodził), data śmierci (kiedy zmarł), data pochówku, pogrzebu"
+    query_text = "miejsce urodzenia, miejsce śmierci (gdzie zmarł), miejsce pochówku / pogrzebu, data urodzenia (kiedy się urodził), data śmierci (kiedy zmarł) - na przykład z podanego w biogramie zakresu lat (1790-1800), data pochówku, pogrzebu"
     query_path = Path("..") / 'emb_psb_250' / 'basic_query.pkl'
+
+    #query_text = "wyszukaj wszystkich krewnych lub powinowatych głównego bohatera/bohaterki tekstu. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka, brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, szwagier, szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa."
+    #query_path = Path("..") / 'emb_psb_250' / 'relations_query.pkl'
     if os.path.exists(query_path):
         with open(query_path, "rb") as pkl_file:
             query_embedding = pickle.load(file=pkl_file, encoding='utf-8')
@@ -78,12 +80,13 @@ if __name__ == '__main__':
         sent, sent_vector = value
         similarity = cosine_similarity(query_embedding, sent_vector)
         sent_similarity.append((sent, similarity, key))
+        print(similarity, sent)
 
     # sortowanie wg podobieństwa
     sent_similarity.sort(key=lambda x: x[1], reverse=True)
 
     best_sent = []
-    max_tokens = 6200
+    max_tokens = 3000
 
     # ograniczenie tekstu do maksymalnej liczby tokenów na podstawie podobieństwa
     # zdań do pytania

@@ -1,48 +1,52 @@
-Na podstawie podanego tekstu biografii wyszukaj następujące informacje dotyczące głównego bohatera/bohaterki:
-miejsce urodzenia, miejsce śmierci, miejsce pochówku, datę urodzenia, datę śmierci, datę pochówku.
-Wyszukaj również wszystkie urzędy i funkcje pełnione przez głównego bohatera/bohaterkę,
-Wyszukaj także wszystkich krewnych lub powinowatych głównego bohatera/bohaterki tekstu: możliwe rodzaje pokrewieństwa: 
-ojciec, matka, syn, córka, brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, 
-szwagier, szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa.
-Wypisz tylko rodzaje pokrewieństwa, które występują w tekście.
-Wynik przedstaw w formie obiektów JSON zawierających pola:
-place_of_birth: miejsce urodzenia bohatera/bohaterki (nazwa miejscowości), jeżeli znane są bardziej szczegółowe informacje o miejscu urodzenia, na przykład: 'koło Krakowa', 'powiat brzeski', 'nad Wisłą' zapisz je w dodatkowym polu: note
-place_of_death: miejsce śmierci bohatera/bohaterki (nazwa miejscowości), jeżeli znane są bardziej szczegółowe informacje o miejscu śmierci, na przykład: 'koło Krakowa', 'powiat brzeski', 'nad Wisłą' zapisz je w dodatkowym polu: note
-place_of_burial: miejsce pochówku bohatera/bohaterki (nazwa miejscowości), jeżeli znane są bardziej szczegółowe informacje o miejscu pochówku zapisz je w dodatkowym polu: note
-date_of_birth: data urodzenia bohatera/bohaterki, wyłącznie gdy obok daty są dodatkowe określenia, na przykład: około, przed, po
-zapisz je w dodatkowym polu: note
-date_of_death: data śmierci bohatera/bohaterki, wyłącznie gdy obok daty są dodatkowe określenia, na przykład: około, przed, po
-zapisz je w dodatkowym polu: note
-date_of_burial: data pochówku bohatera/bohaterki, wyłącznie gdy obok daty są dodatkowe określenia, na przykład: około, przed, po
-zapisz je w dodatkowym polu: note
-role_or_office: funkcja, urząd pełnione przez bohatera/bohaterkę - pole może zawierać wiele wartości,
-relationships: lista obiektów zawierających pola: relation: rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki ),
-person: nazwa (imię i nazwisko osoby związanej relacją z bohaterem/bohaterką)
+Na podstawie podanego tekstu biografii wyszukaj instytucje związane z głównym bohaterem/bohaterką.
+Nazwy miejscowości podawaj w mianowniku. Instytucje podane w przykładzie poniżej nie mogą być częścią wyniku.
+Każda instytucja powinna wystąpić w wyniku tylko raz (nie powtarzaj tych samych instytucji).
+Wyszukaj także osoby związane z głównym bohaterem/bohaterką,
+lecz pomiń i nie uwzględniaj w wyniku krewnych i powinowatych.
+Wyszukaj również miejscowości związane z głównym bohaterem/bohaterką, opcjonalnie z datami.
+Wynik przedstaw w formie listy obiektów JSON zawierających pola:
+institutions: lista obiektów zawierających pola: institution: nazwa instytucji związanej z bohaterem/bohaterką
+i place_of_institution: miejscowość w której położona jest instytucja związana z bohaterem/bohaterką
+persons: lista obiektów zawierających pola:
+name: imię i nazwisko osoby związanej z bohaterem/bohaterką
+date: data, kiedy bohater/bohaterka spotkał/zetknał się z daną osobą
+info: krótkie, dodatkowe informacje o osobie np. funkcja, zawód
+places: lista obiektów zawierających pola: 
+place: nazwa miejscowości związanej z bohaterem/bohaterką
+date: data, kiedy bohater/bohaterka przebywał w danej miejscowości
+Nazwy miejscowości podaj zawsze w mianowniku.
 Jeżeli jakiejś informacji brak w podanym tekście napisz: 'brak danych'
 
 Przykład 1.
-Tekst: "Soderini Carlos (1557- ok. 1591), kupiec i bankier.
+Tekst: "Soderini Carlos (ok. 1557–1591), kupiec i bankier.
 Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
-bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga. Jego bratanicą była Małgorzata Anna, żona
-Winfrida de Loeve. S. ożenił się z Joanną, córką burgrabiego
-krakowskiego Adama Kurozwęckiego. Zmarł w Hurczynianach, pochowano go po 15 czerwca 1591 roku na miejscowym cmentarzu parafialnym."
+bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga. Od 1567
+roku uczył się w szkole wiejskiej prowadzonej przez księdza Jana Tokalskiego z Krakowa.
+Następnie wstąpił na uniwersystet w Królewcu, gdzie zaprzyjaźnił się
+ze Zdenkiem Kovacem, synem właściciela banku w Pradze, oraz z Czesławem Dąbkiem.
+Pracował w Banku Czeskim we Wrocławiu w latach 1577-78, później zaś, od 1579 roku
+praktykował w Izbie Celnej miasta Gdańska.
+Pod koniec życia zamieszkał w Elblągu w pobliżu portu, gdzie jeszcze w 1590 r.
+prowadził interesy handlowe z Morycem Wachowskim,
+kupcem zbożowym.
+Zmarł w Hurczynianach w 1591 roku, pochowano go na miejscowym cmentarzu parafialnym."
 Wynik:
 {
-  "basic_info": [{"place_of_birth":"Andalewo"},
-         {"place_of_death":"Hurczyniany"},
-         {"place_of_burial":"Hurczyniany", "note": "miejscowy cmentarz parafialny"},
-         {"date_of_birth":"1557-06-01"},
-         {"date_of_death":"1591", "note":"około"},
-         {"date_of_burial":"1591-06-15", "note":"po"}
-        ],
-  "role_or_office": ["kupiec", "bankier"],
-  "relationships": [{"family_relation":"ojciec", "person":"Niccola Ricasoli"},
-        {"family_relation":"matka": "person":"Annalena Ricasoli"},
-        {"family_relation":"brat": "person":"Bernard"},
-        {"family_relation":"bratanica": "person":"Małgorzata Anna"},
-        {"family_relation":"żona": "person":"Joanna"},
-        {"family_relation":"teść": "person":"Adam Kurozwęcki"}
-      ]
+"institutions": [{"institution":"Bank Czeski", "place_of_institution":"Wrocław"},
+                 {"institution":"Izba Celna", "place_of_institution":"Gdańsk"},
+                 {"institution":"Kompania Handlowa", "place_of_institution":"brak danych"},
+                ],
+"persons": [{"name":"Jan Tokalski", "date":"1567", "info":"ksiądz"},
+            {"name":"Zdenek Kovac", "date":"brak danych","info":"syn właściciela banku"},
+            {"name":"Czesław Dąbek", "date":"brak danych","info":"brak danych"},
+            {"name":"Moryc Wachowski", "date":"1590", "info":"kupiec zbożowy"},
+           ],
+"places": [{"place":"Andalewo", "date":"1557-06-01"},
+           {"place":"Wrocław", "date":"1577-1578"},
+           {"place":"Gdańsk", "date":"1579"},
+           {"place":"Elbląg", "date":"brak danych"},
+           {"place":"Hurczyniany", "date":"1591"}
+          ]
 }
 
 Tekst: Szpręga (Sprenga, Spręga) Teodor, w zakonie Anastazy (1833—1911), reformat, misjonarz, komisarz generalny w Poznańskiem.

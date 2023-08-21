@@ -1,0 +1,49 @@
+{
+  "basic_info": [{"place_of_birth":"Czersk"},
+         {"place_of_death":"Osieczna"},
+         {"place_of_burial":"Osieczna", "note": "plac przed kościołem"},
+         {"date_of_birth":"1833-11-01"},
+         {"date_of_death":"1911-07-26"},
+         {"date_of_burial":"brak danych"}
+        ],
+  "role_or_office": ["reformat", "misjonarz", "komisarz generalny", "kapelan", "wikariusz", "dyrektor", "zastępca", "proboszcz"],
+  "relationships": [
+        {"family_relation":"ojciec", "person":"Ignacy Szpręga"},
+        {"family_relation":"matka", "person":"Katarzyna Sabiniarz"}
+      ],
+  "institutions": [
+                 {"institution":"Gimnazjum katolickie", "place_of_institution":"Chojnice"},
+                 {"institution":"Zakon Braci Mniejszych", "place_of_institution":"Prowincja Reformatów Niepokalanego Poczęcia NMP"},
+                 {"institution":"Klasztor", "place_of_institution":"Łąki"},
+                 {"institution":"Prowincja Rekolektów Krzyża Świętego", "place_of_institution":"Westfalia"},
+                 {"institution":"Studium seminaryjne", "place_of_institution":"Miejska Górka"},
+                 {"institution":"Dom księży demerytów", "place_of_institution":"Osieczna"},
+                 {"institution":"Ambasada austro-węgierska", "place_of_institution":"Stambuł"},
+                 {"institution":"Archiidiecezja gnieźnieńska i poznańska", "place_of_institution":"brak danych"},
+                 {"institution":"Parafia", "place_of_institution":"Drzeczkowo"}
+                ],
+  "persons": [
+            {"name":"Jerzy Jeschke", "date":"1858-11-30", "info":"biskup pomocniczy chełmiński"},
+            {"name":"Roger Binkowski", "date":"1889", "info":"prowincjał"},
+            {"name":"Alojzy Canali", "date":"1890-04-07", "info":"generał reformatów"},
+            {"name":"Florian Stablewski", "date":"1900", "info":"arcybiskup gnieźnieński i poznański"},
+            {"name":"Euzebiusz Stateczny", "date":"1904-03-19", "info":"brak danych"},
+            {"name":"Dionizy Schuler", "date":"1906-06-05", "info":"generał zakonu"}
+           ],
+  "places": [
+           {"place":"Czersk", "date":"1833-11-01"},
+           {"place":"Chojnice", "date":"brak danych"},
+           {"place":"Wejherowo", "date":"1856-05-05"},
+           {"place":"Łąki", "date":"1857-05-06"},
+           {"place":"Westfalia", "date":"brak danych"},
+           {"place":"Miejska Górka", "date":"1861-09-02"},
+           {"place":"Osieczna", "date":"1865"},
+           {"place":"Zamarte", "date":"1870"},
+           {"place":"Stambuł", "date":"1872"},
+           {"place":"Kurzętnik", "date":"brak danych"},
+           {"place":"Zblewo", "date":"1885-01"},
+           {"place":"Dubinie", "date":"1887-09-05"},
+           {"place":"Drzeczkowo", "date":"1900-10-09"}
+          ]
+}
+
