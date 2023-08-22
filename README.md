@@ -10,9 +10,9 @@ Próbka 250 biogramów z Polskiego Słownika Biograficznego została przetworzon
 
 Wyniki w formacie JSON w katalogu `output_json_250`, w podziale na poszczególne rodzaje informacji. W podkatalogu `combined_results` wyniki scalone do jednego pliku json dla każdej postaci historycznej. W podkatalogu `full` wynik eksperymentu z promptem wyciagającym wiele rodzajów informacji jednocześnie. Podkatalog `results_evaluation` zawiera wyniki z oceną poprawności. Podkatalogi `summary' (na streszczenia biogramów) i 'nicknames' (na pseudonimy i kryptonimy) są na razie puste, biogramy nie były jeszcze przetwarzane w celu wydobywania takich informacji.
 
-W katalogu src - źródła skryptów (Python).
+W katalogu `src` - źródła skryptów (Python).
 
-W katalogu prompts - szabony promptów użytych do wyciągania poszczególnych rodzajów informacji, oraz testowe prompty do ektrakcji wielu informacjei jednocześnie.
+W katalogu `prompts` - szabony promptów użytych do wyciągania poszczególnych rodzajów informacji, oraz testowe prompty do ektrakcji wielu informacjei jednocześnie.
 
 W katalogu `short_data_psb_250` wyniki eksperymentów ze skracaniem biogramów na podstawie embeddings i podobieństwa zdań biogramu do zapytań.
 
