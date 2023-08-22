@@ -1,27 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "choć z kontesktu można podejrzewać, że Łęczyca"
     },
     "place_of_burial": {
         "place": "Łęczyca",
         "note": "pochowany u bernardynów",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1696",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1784-11-22",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }
