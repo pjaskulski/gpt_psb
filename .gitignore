@@ -160,4 +160,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 data_psb_250/*.txt
-emb_psb_250/*.pkl
+#emb_psb_250/*.pkl
