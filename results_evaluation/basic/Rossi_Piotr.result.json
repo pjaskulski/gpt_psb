@@ -1,0 +1,32 @@
+{
+    "place_of_birth": {
+        "place": "Rzym",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1760",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1810",
+        "note": "po",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych",
+        "result": null
+    }
+}

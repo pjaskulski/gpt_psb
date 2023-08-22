@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Toruń",
+        "note": "ul. Św. Anny",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Frombork",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Frombork",
+        "note": "przy należącym do jego kanonii ołtarzu św. Bartłomieja w południowo-zachodniej części katedry fromborskiej",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1473-02-19",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1543-05-24",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

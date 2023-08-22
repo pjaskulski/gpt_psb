@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Mielec",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "ok. 1470",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1532-01-31",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

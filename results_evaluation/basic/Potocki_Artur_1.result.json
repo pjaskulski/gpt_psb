@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Krzeszowice",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Krzeszowice",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Krzeszowice",
+        "note": "groby rodzinne w kościele krzeszowickim",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1850-06-14",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1890-03-26",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

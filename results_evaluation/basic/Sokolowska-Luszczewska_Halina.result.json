@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Żytomierz",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Skolimów",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Skolimów",
+        "note": "miejscowy cmentarz parafialny",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1895-12-30",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1970-11-17",
+        "result": null
+    },
+    "date_of_burial": {
+        "place": "brak danych",
+        "result": null
+    }
+}

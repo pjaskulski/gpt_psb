@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Bissone",
+        "note": "nad jeziorem Lugano, w kantonie Tessyn",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Brzeg",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "ok. 1510",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1575-08-15",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Dębowiec",
+        "note": "koło Cieszyna",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1475-10-21",
+        "note": "po",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

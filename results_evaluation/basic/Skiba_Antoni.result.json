@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Opole",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Rumia",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Rumia",
+        "note": "tamtejszy cmentarz przykościelny",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1811-05-31",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1863-01-14",
+        "result": null
+    },
+    "date_of_burial": {
+        "place": "brak danych",
+        "result": null
+    }
+}

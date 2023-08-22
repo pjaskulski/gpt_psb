@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Babimost",
+        "note": "powiat Wolsztyn lub Poznań",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "miejscowy cmentarz ewangelicki",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "ok. 1762",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1830-05-21",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

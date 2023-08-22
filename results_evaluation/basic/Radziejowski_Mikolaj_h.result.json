@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Radziejowice",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Mszczonów",
+        "note": "kościół w Mszczonowie w kaplicy grobowej przodków",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1503",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1567",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

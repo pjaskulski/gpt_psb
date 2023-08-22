@@ -1,0 +1,26 @@
+{
+    "place_of_birth": {
+        "place": "Wilno",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "1818-10-13",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1885-12-23",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

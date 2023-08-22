@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Kalisz",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Londyn",
+        "note": "Brompton Cemetery",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1882-04-05",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1959",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

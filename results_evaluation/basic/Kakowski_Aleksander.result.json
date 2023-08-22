@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Dębiny",
+        "note": "powiat przasnyski",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Bródno",
+        "note": null,
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1862-02-05",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1938-12-30",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

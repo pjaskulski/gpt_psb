@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Mostowlany",
+        "note": "powiat wołkowyski, gubernia grodzieńska",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "plac Łukiski",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1838-01-21",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1864-03-22",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "1864-03-22",
+        "result": null
+    }
+}

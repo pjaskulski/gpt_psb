@@ -1,0 +1,30 @@
+
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true,
+            "pj_note": "tylko inf. że pochodził ze Szwabii"
+        },
+        "place_of_death": {
+            "place": "Królewiec",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Królewiec",
+            "note": "pochowany w tumie",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1410",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1467-04-04",
+            "result": true
+        },
+        "date_of_burial": {
+            "place": "brak danych",
+            "result": true
+        }
+    }

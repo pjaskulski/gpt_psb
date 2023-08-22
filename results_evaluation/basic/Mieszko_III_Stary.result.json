@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Kalisk",
+        "note": "kolegiata Św. Pawła",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1126",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1202",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Sierpc",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "note": "w swoim mieszkaniu w zachodnim skrzydle Kolegium Większego",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1512-07-13",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

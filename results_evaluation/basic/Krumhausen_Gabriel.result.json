@@ -1,0 +1,26 @@
+{
+    "place_of_birth": {
+        "place": "Gdańsk",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Gdańsk",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1614-09-14",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1685-04-09",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

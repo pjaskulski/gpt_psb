@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Dobra",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Radogoszcz",
+        "note": "Dobra? pod Łodzią",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1839",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1863-02-24",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "1863-02-28",
+        "result": null
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Lublin",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Gdańsk",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Gdańsk",
+        "note": "kaplica cechu złotników w kościele Najśw. Maryi Panny",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1652",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1700-09-29",
+        "result": null
+    },
+    "date_of_burial": {
+        "place": "brak danych",
+        "result": null
+    }
+}

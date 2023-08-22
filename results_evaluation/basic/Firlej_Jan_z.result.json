@@ -1,0 +1,29 @@
+{
+ "place_of_birth": {
+    "place":"brak danych",
+    "result": true
+    },
+ "place_of_death": {
+    "place":"Kraków",
+    "result": true
+    },
+ "place_of_burial": {
+    "place":"Kock", 
+    "note": "kościół parafialny",
+    "result": true
+    },
+ "date_of_birth": {
+    "date":"1521", 
+    "note":"około",
+    "result": true
+    },
+ "date_of_death": {
+    "date":"1574-04-25",
+    "result": true
+    },
+ "date_of_burial": {
+    "date":"1574-08-27", 
+    "note":"lub 28 sierpnia",
+    "result": true
+    }
+}

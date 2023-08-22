@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Sosnowiec",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Wojskowy na Powązkach",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1911-12-05",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "2000-07-06",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "2000-07-14",
+        "result": null
+    }
+}

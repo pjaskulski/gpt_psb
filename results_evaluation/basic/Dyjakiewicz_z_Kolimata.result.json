@@ -1,0 +1,31 @@
+
+    {
+        "place_of_birth": {
+            "place": "Pułnuszki",
+            "note": "pod Dubinkami, województwo wileńskie",
+            "result": false,
+            "pj_note": "to prawdopodobne, ale w biogramie jst tylko inf. że jego ojciec był dziedzicem takiego folwarku"
+        },
+        "place_of_death": {
+            "place": "Węgrów",
+            "result": false,
+            "pj_note": "to prawdopodobne, gdyż żył w Węgrowie, ale takiej inf. nie ma wprost w biogramie"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1660",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1724",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+

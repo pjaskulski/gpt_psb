@@ -1,0 +1,27 @@
+    {
+        "place_of_birth": {
+            "place": "Zbaraż",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Bystra",
+            "result": false,
+            "pj_note": "można domniemywać że zmarł w sanatorium w ktorym przebywał, ale nie jest to napisane wprost"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1866-10-26",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1936-10-31",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }

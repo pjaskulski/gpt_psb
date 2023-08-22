@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Skawina",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1610",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1686-07-25",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

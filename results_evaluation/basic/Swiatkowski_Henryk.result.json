@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Dzierzążnia",
+        "note": "powiat płoński",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "Aleja Zasłużonych cmentarza Wojskowego na Powązkach",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1896-04-02",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1970-03-22",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

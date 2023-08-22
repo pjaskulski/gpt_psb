@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "Worsklą",
+        "note": "nad",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": true
+    }, 
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1399",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

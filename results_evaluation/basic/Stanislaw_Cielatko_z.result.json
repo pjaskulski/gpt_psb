@@ -1,0 +1,30 @@
+{
+    "place_of_birth": {
+        "place": "Liszyn",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1451",
+        "note": "przed 2 XI",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

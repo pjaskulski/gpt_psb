@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Wilno",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Stambuł",
+        "note": "dzielnica Dżihangir",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Adampol",
+        "note": "marmurowy grobowiec ze złamaną kolumną",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1802-08-04",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1866-02-22",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "1866-02-24",
+        "result": null
+    }
+}

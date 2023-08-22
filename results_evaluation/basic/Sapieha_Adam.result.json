@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Reichenhall",
+        "note": "Bawaria",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Krasiczyn",
+        "note": "grobowiec rodzinny w kaplicy zamkowej",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1828-12-04",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1903-07-21",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

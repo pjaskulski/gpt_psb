@@ -1,0 +1,30 @@
+{
+    "place_of_birth": {
+        "place": "Charbinowice",
+        "note": "brak danych",
+        "result": false,
+        "pj_note": "postać pochodzi z tej miejscowości (pisze się), ale nie jest napisane wprost że tam się urodził"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "brak danych",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

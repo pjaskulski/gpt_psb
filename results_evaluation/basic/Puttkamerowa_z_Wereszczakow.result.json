@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Tuhanowicze",
+        "note": "powiat nowogródzki",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1799",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1863",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

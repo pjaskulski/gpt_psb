@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Warszawa",
+        "note": "?",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Bejrut",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Bejrut",
+        "note": "cmentarz polski",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1902-09-25",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1950-09-09",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "place_of_birth": {
+        "place": "Brześciany",
+        "note": "pow. samborski",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Przemyśl",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Przemyśl",
+        "note": "pierwotnie na cmentarzu komunalnym przy ul. Długiej, następnie w podziemiach przemyskiej katedry greckokatolickiej, a ostatecznie w obecnej archikatedrze greckokatolickiej (dawny kościół pojezuicki)",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1784-05-18",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1847-09-24",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "1897-10-07",
+        "note": "data ekshumacji i ponownego pochówku",
+        "result": null
+    }
+}

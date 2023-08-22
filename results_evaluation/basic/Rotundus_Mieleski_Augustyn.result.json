@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Wieluń",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "katedra Św. Jana",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1520",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1582-03-20",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

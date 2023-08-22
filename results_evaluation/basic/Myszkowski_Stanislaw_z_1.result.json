@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz ewangelicki",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1570-04-16",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

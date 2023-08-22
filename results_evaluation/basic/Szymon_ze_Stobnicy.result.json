@@ -1,0 +1,32 @@
+{
+    "place_of_birth": {
+        "place": "Stobnica",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1372",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1419",
+        "note": "między 1418 a 1419",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych",
+        "result": null
+    }
+}

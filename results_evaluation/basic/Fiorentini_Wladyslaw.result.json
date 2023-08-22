@@ -1,0 +1,31 @@
+{
+    "place_of_birth": {
+        "place": "Borgo",
+        "note": "Rzeczpospolita Wenecka",
+        "result": false,
+        "pj_note": "biogram wspomina: Gniazdo tego rodu było Borgo w Rzeczypospolitej Weneckiej ale to nie znaczy że jest to na pewno miejsce urodzenia"
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "note": null,
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "cmentarz bernardyński",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "1820",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1914-01-16",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null,
+        "result": true
+    }
+}

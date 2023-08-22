@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Wołożyn",
+        "note": "na Nowogródczyźnie",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1926-03-26",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1993-11-27",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

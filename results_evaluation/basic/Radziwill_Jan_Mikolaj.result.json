@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Czarnawczyce",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Nieśwież",
+        "note": "u jezuitów",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1681-05-17",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1729-01-20",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "1747-09-22",
+        "result": null
+    }
+}

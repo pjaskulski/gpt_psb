@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Albertyna",
+        "note": "powiat słonimski",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Komunalny Północny",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1908-07-27",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1989-10-31",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

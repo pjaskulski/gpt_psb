@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Zabłudów",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Zabłudów",
+        "note": "kościół w Zabłudowie",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1627",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1671-09",
+        "note": "wrzesień",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

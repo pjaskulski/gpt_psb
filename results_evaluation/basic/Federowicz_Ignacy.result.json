@@ -1,0 +1,29 @@
+
+    {
+        "place_of_birth": {
+            "place": "Czechy",
+            "note": "pod Zduńską Wolą",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1836-04-24",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1913-06-02",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+

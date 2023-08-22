@@ -1,0 +1,26 @@
+{
+    "place_of_birth": {
+        "place": "Paryż",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Rzym",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Campo Verano",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1863-10-08",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1941",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

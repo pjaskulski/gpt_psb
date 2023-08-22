@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "brak danych",
+        "result": true,
+        "pj_note": "jest tylko wzmianka: w dokumencie z r. 1283, przed tą datą zapewne F. umarł"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

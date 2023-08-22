@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Czersk",
+        "note": "powiat chojnicki",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Osieczna",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Osieczna",
+        "note": "plac przed kościołem",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1833-11-01",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1911-07-26",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

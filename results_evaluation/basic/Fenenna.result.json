@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "1276",
+        "note": "pod koniec roku",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1295",
+        "note": "z końcem roku",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

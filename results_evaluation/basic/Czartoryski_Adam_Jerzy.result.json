@@ -1,0 +1,27 @@
+{
+ "place_of_birth": { 
+    "place":"Warszawa", 
+    "result": true
+    },
+ "place_of_death":{
+    "place":"Montfermeil", 
+    "result": true
+    },
+ "place_of_burial":{
+    "place": "brak danych", 
+    "result": true
+    },
+ "date_of_birth":{
+    "date":"1770-01-14", 
+    "note":"lub 1770-01-11", 
+    "result": true
+    },
+ "date_of_death":{
+    "date":"1861-07-15", 
+    "result": true
+    },
+ "date_of_burial":{
+    "date":"brak danych", 
+    "result": true
+    }
+}

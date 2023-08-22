@@ -28,7 +28,7 @@ INPUT_PRICE_GPT4 = 0.03
 OUTPUT_PRICE_GPT4 = 0.06
 
 # api key
-env_path = Path(".") / ".env_ihpan"
+env_path = Path(".") / ".env"
 load_dotenv(dotenv_path=env_path)
 
 OPENAI_ORG_ID = os.environ.get('OPENAI_ORG_ID')
@@ -158,8 +158,9 @@ if __name__ == '__main__':
         else:
             last_sent = 15
 
-        # text biogramu jest zawsze skracany, chyba że ma mniej zdań niż first + last
-        text_from_file = short_version(text_from_file, first=10, last=last_sent)
+        # text biogramu jest skracany jeżeli ma > 5000 tokenów, chyba że ma mniej zdań niż first + last
+        if tokens_in_data > 5000:
+            text_from_file = short_version(text_from_file, first=10, last=last_sent)
 
         # przetwarzanie modelem gpt-4
         if USE_API:

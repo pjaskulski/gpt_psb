@@ -1,0 +1,31 @@
+{
+    "place_of_birth": {
+        "place": "Ożenin",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Lwów",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "ok. 1700",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1780",
+        "note": "brak danych",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych",
+        "result": null
+    }
+}

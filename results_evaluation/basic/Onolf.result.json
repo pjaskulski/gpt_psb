@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Włocławek",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1187",
+        "note": "przed",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

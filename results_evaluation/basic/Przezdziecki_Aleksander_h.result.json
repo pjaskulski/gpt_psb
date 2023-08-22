@@ -1,0 +1,29 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "note": "zapewne",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1665",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1734-10-24",
+        "note": "przed",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

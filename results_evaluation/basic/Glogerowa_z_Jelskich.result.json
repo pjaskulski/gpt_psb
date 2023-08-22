@@ -1,0 +1,32 @@
+{
+    "place_of_birth": {
+        "place": "Zamość",
+        "note": "brak danych",
+        "result": false,
+        "pj_note": "córka dziedzica Zamościa, ale brak danych o miejscu urodzenia"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "Tykocin",
+        "note": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "1860",
+        "note": "w połowie lipca",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1899-04-11",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych",
+        "result": true
+    }
+}

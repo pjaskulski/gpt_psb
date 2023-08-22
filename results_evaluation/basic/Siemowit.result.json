@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Gniezno",
+        "note": "na podgrodziu gnieźnieńskim",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "IX w.",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "brak danych",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

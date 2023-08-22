@@ -1,0 +1,30 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "result": true
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "brak danych",
+        "note": "przed 1229",
+        "result": false,
+        "pj_note": "właściwa inf. jest wyciągnięta w dodatkowej notatce"
+    },
+    "date_of_death": {
+        "date": "1292",
+        "note": "około",
+        "result": true,
+        "pj_note": "ale w biogramie jest inf. dokładniejsza: zmarła zapewne 4 XI 1292"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": true
+    }
+}

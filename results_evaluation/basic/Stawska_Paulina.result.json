@@ -1,0 +1,27 @@
+{
+    "place_of_birth": {
+        "place": "Toruń",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "kaplica Matki Boskiej Bolesnej przy kościele Niepokalanego Serca NMP przy ul. Smoleńsk 6",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1855-10-29",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1934-11-04",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

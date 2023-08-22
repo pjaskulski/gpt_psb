@@ -1,0 +1,30 @@
+{
+    "place_of_birth": {
+        "place": "Mąkolino",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Pułtusk",
+        "note": "brak danych",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Pułtusk",
+        "note": "kolegiata",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1498",
+        "note": "około",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1576-12-30",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

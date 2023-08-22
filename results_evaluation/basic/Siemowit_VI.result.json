@@ -1,0 +1,29 @@
+{
+    "place_of_birth": {
+        "place": "brak danych",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Sanniki",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Płock",
+        "note": "katedra płocka",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1446-01-02",
+        "note": "najprawdopodobniej",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1461-12-31",
+        "note": "lub 1462-01-01",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "1462-01-04",
+        "result": null
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "place_of_birth": {
+        "place": "Lwów",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "note": "Dom Pomocy Społecznej im. Brata Alberta przy ul. Zielnej",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Rakowicki",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1902-02-12",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1994-07-03",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

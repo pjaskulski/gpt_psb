@@ -1,0 +1,30 @@
+
+    {
+        "place_of_birth": {
+            "place": "Poznań",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Krotoszyn",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Krotoszyn",
+            "note": "pochowany z honorami wojskowymi",
+            "result": false,
+            "pj_info": "zmarł w Krotoszynie i został pochowany z honorami wojskowymi, ale nie jest napisane wprost gdzie"
+        },
+        "date_of_birth": {
+            "date": "1839-10-15",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1923-07-13",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+

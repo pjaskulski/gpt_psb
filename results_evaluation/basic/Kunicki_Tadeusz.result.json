@@ -1,0 +1,26 @@
+{
+    "place_of_birth": {
+        "place": "Lwów",
+        "result": null
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "result": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "result": null
+    },
+    "date_of_birth": {
+        "date": "1919-10-22",
+        "result": null
+    },
+    "date_of_death": {
+        "date": "1967-12-19",
+        "result": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "result": null
+    }
+}

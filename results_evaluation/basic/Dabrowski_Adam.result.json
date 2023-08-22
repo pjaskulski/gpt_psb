@@ -1,0 +1,30 @@
+{
+    "place_of_birth": {
+        "place": "Zaklików",
+        "note": "powiat lubelski, Królestwo Polskie",
+        "result": true
+    },
+    "place_of_death": {
+        "place": "Odesa",
+        "note": "brak danych",
+        "result": false
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych",
+        "result": true
+    },
+    "date_of_birth": {
+        "date": "1848",
+        "result": true
+    },
+    "date_of_death": {
+        "date": "1920-10-09",
+        "result": true
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych",
+        "result": true
+    }
+}
