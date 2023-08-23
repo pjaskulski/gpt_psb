@@ -1,28 +1,29 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Zabłudów",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Zabłudów",
         "note": "kościół w Zabłudowie",
-        "result": null
+        "result": false,
+        "pj_note": "to prawdopodobne, ale w tekście jest tylko zapis: Wywieszenie jego chorągwi pogrzebowej w kościele w Zabłudowie"
     },
     "date_of_birth": {
         "date": "1627",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1671-09",
         "note": "wrzesień",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

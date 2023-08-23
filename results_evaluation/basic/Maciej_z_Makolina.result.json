@@ -2,29 +2,31 @@
     "place_of_birth": {
         "place": "Mąkolino",
         "note": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "To nie jest wprost napisane, jest inf. że pisze się z Makolina, był synem wójta w Mąkolinie"
     },
     "place_of_death": {
         "place": "Pułtusk",
         "note": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "to nie jest określone w biogramie, jest wzmianka że osiadł w Pułtusku i tam został pochowany"
     },
     "place_of_burial": {
         "place": "Pułtusk",
         "note": "kolegiata",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1498",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1576-12-30",
-        "result": null
+        "result": 
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

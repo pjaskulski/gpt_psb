@@ -1,28 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Piotrków",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Kraków",
         "note": "kościół Mariacki, kaplica św. Michała",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1593-01-16",
         "note": "lub 17 I 1593",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "1593-03-09",
-        "result": null
+        "result": true
     }
 }

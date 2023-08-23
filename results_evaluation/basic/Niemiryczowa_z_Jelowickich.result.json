@@ -2,30 +2,32 @@
     "place_of_birth": {
         "place": "Ożenin",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Lwów",
         "note": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "Biogram wymienia Lwów, ale wspomina też wersję: N. zmarła na wsi... model nie jest krytycznym interpreterem źródeł, szuka faktów, tu są raczej rozważania"
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "ok. 1700",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1780",
         "note": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "opis w biogramie bardzo niejasny i zawiły"
     },
     "date_of_burial": {
         "date": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

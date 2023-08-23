@@ -2,29 +2,30 @@
     "place_of_birth": {
         "place": "Wiedeń",
         "note": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "to jest akurat prawdziwa informacja, chociaż nie wiem skąd model ją wziął, w biogramie takiego faktu nie ma..."
     },
     "place_of_death": {
         "place": "Drezno",
         "note": "okupowane przez Prusaków",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1699-12-08",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1757-11-17",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

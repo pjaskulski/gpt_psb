@@ -1,27 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "około 1352",
         "note": "około",
-        "result": null
+        "result": true,
+        "pj_note": "biogram wspomina tą datę, ale napisane jest nieprezycyjnie: ... ok. r. 1352. Należy jednak przyjąć datę wcześniejszą"
     },
     "date_of_death": {
         "date": "1423",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     }
 }

@@ -1,28 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "ok. 1676",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "po 1752",
         "note": "po",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

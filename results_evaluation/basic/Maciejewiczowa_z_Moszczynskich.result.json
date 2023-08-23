@@ -2,29 +2,30 @@
     "place_of_birth": {
         "place": "Teklinów",
         "note": "powiat orszański",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Wilno",
         "note": null,
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Rossie",
         "note": "obok męża Edwarda Maciejewicza (1841–1899), powstańca z 1863 r.",
-        "result": null
+        "result": true,
+        "pj_note": "tradycyjne problemy z odmianą, powinno być chyba: na Rossie, lub Rossa"
     },
     "date_of_birth": {
         "date": "1863",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1937-01-15",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": null,
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

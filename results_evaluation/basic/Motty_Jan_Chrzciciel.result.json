@@ -1,26 +1,26 @@
 {
     "place_of_birth": {
         "place": "Paryż",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Poznań",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1790",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1856-09-25",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

@@ -1,26 +1,26 @@
 {
     "place_of_birth": {
         "place": "Tuchola",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Stutthof",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1906-01-21",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1944-07-15",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

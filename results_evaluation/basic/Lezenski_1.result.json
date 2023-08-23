@@ -1,27 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "jest tylko informacja: pochodził z ziemii czerskiej"
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Wąchock",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1603",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1675",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }
