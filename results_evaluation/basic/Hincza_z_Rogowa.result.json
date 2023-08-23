@@ -1,28 +1,30 @@
-{
+    {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Kraków",
         "note": "katedra na Wawelu",
-        "result": null
+        "result": true,
+        "pj_note": "to nie jest zapisane wprost, biogram jednak stwierdza: uzyskał prawo pochowania go w katedrze na Wawelu, wystawił sobie i ojcu grobowiec przed kaplicą (sanctorum Innocentium), położoną w katedrze przy północnej wieży zegarowej"
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "jest data przybliżona: Ur. prawdopodobnie na przełomie XIV i XV w."
     },
     "date_of_death": {
         "date": "1473-09-29",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

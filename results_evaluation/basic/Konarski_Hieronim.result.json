@@ -1,28 +1,28 @@
-{
+    {
     "place_of_birth": {
         "place": "Żarczyce",
         "note": "powiat chęciński",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Warszawa",
         "note": "kościół pijarski przy ul. Długiej, później przeniesiony na Powązki",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1700-09-30",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1773-08-03",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "1773-08-05",
-        "result": null
+        "result": true
     }
 }

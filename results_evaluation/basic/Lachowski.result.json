@@ -2,28 +2,29 @@
     "place_of_birth": {
         "place": "Mękarzów",
         "note": "powiat lelowski",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Koloszwar",
         "note": "obecnie Cluj, Rumunia",
-        "result": null
+        "result": false,
+        "pj_note": "to prawdopodobne, bowiem tam mieszkał i tam został pochowany, ale nie jest napisane wprost"
     },
     "place_of_burial": {
         "place": "Koloszwar",
         "note": "główny kościół unitariański",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1627",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1691-08-06",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

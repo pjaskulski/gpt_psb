@@ -2,31 +2,31 @@
     "place_of_birth": {
         "place": "Kraków",
         "note": "na Wawelu",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Berghausen",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1457-09-21",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1502-02-18",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

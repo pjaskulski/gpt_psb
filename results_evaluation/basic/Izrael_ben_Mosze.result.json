@@ -2,29 +2,29 @@
     "place_of_birth": {
         "place": "Zamość",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Brody",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1700",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1772",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

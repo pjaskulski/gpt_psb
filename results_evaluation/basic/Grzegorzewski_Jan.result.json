@@ -2,27 +2,28 @@
     "place_of_birth": {
         "place": "Szulejki",
         "note": "powiat zwiahelski na Wołyniu",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Lwów",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1846",
         "note": "ok. 1850",
-        "result": null
+        "result": true,
+        "pj_note": "tekst biogramu jest bardzo mylący, w nawiasach mamy (ok. 1850–1922), a dalej jest: Ur. w r. 1846 czy w 1849..."
     },
     "date_of_death": {
         "date": "1922-11-15",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

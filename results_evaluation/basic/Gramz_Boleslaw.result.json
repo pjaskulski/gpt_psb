@@ -2,26 +2,27 @@
     "place_of_birth": {
         "place": "Kubliczew",
         "note": "gubernia witebska",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1904-04-04",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1943-06-07",
-        "result": null
+        "result": false,
+        "pj_note": "To nadinterpretacja zdania: 7 VI 1943 r. aresztowany na rozkaz gestapo, został zamordowany przez «własowców», można napisać że zmarł po tej dacie"
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

@@ -1,27 +1,27 @@
 {
     "place_of_birth": {
         "place": "Warszawa",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Warszawa",
         "note": "Starówka",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1914-05-22",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1944-08-21",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

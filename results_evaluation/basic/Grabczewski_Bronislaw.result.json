@@ -3,28 +3,28 @@
         "place_of_birth": {
             "place": "Kownatowo",
             "note": "powiat telszewski, Litwa",
-            "result": null
+            "result": true
         },
         "place_of_death": {
             "place": "Warszawa",
-            "result": null
+            "result": true
         },
         "place_of_burial": {
             "place": "Warszawa",
             "note": "cmentarz Powązkowski",
-            "result": null
+            "result": true
         },
         "date_of_birth": {
             "date": "1855-01-15",
-            "result": null
+            "result": true
         },
         "date_of_death": {
             "date": "1926-02-27",
-            "result": null
+            "result": true
         },
         "date_of_burial": {
             "date": "brak danych",
-            "result": null
+            "result": true
         }
     }
 

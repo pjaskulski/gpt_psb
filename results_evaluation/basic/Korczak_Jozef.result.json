@@ -2,27 +2,27 @@
     "place_of_birth": {
         "place": "Dąbrówka",
         "note": "powiat janowski, ziemia lubelska",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Michniszki",
         "note": "pobliżu Nowych Trok, ziemia wileńska",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1891-01-09",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1920-10-18",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

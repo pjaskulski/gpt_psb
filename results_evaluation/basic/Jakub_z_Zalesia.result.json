@@ -1,27 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "około 1440",
         "note": "prawdopodobnie na krótko przed",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1495 lub 1496",
-        "result": null
+        "result": true,
+        "pj_note": "biogram podaje jeszcze: przed 27 VI 1496"
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

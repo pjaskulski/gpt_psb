@@ -1,28 +1,29 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Kraków",
-        "result": null
+        "result": false,
+        "pj_note": "jest tylko inf. że zmarł na skutek wypadku, mieszkał w Krakowie i został pochowany w Krakowie, ale to nie oznacza że tam zmarł."
     },
     "place_of_burial": {
         "place": "Kraków",
         "note": "krużganki dominikanów",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1522",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1557-07-31",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     }
 }
