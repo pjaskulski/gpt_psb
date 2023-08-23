@@ -1,27 +1,29 @@
 {
     "place_of_birth": {
         "place": "Kosucie",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Jassy",
-        "result": null
+        "result": true,
+        "pj_note": "wywnioskowane? z kontekstu"
     },
     "place_of_burial": {
         "place": "Jassy",
         "note": "pogrzeb odbył się na koszt hospodara",
-        "result": null
+        "result": false,
+        "pj_note": "to prawdopodobne, ale nie opisane wprost"
     },
     "date_of_birth": {
         "date": "1672-10-22",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1742-05-24",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }
