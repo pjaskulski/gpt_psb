@@ -10,16 +10,19 @@
         "note": "powiat nowogródzki"
     },
     "date_of_death": {
-        "date": "1863"
+        "date": "1863-12-28"
     },
     "place_of_death": {
-        "place": "brak danych"
+        "place": "Brażele", 
+        "note": "brak danych"
     },
     "date_of_burial": {
-        "date": "brak danych"
+        "date": "brak danych",
+        "note": "brak danych"
     },
     "place_of_burial": {
-        "place": "brak danych"
+        "place": "Bieniakonie", 
+        "note": "przy kościele parafialnym"
     },
     "functions": [
         "kompozytorka",

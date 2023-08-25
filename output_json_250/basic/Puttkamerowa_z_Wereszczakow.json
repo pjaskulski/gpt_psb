@@ -4,18 +4,21 @@
         "note": "powiat nowogródzki"
     },
     "place_of_death": {
-        "place": "brak danych"
+        "place": "Brażele",
+        "note": "brak danych"
     },
     "place_of_burial": {
-        "place": "brak danych"
+        "place": "Bieniakonie", 
+        "note": "przy kościele parafialnym"
     },
     "date_of_birth": {
         "date": "1799"
     },
     "date_of_death": {
-        "date": "1863"
+        "date": "1863-12-28"
     },
     "date_of_burial": {
-        "date": "brak danych"
+        "date": "brak danych",
+        "note": "brak danych"
     }
 }
