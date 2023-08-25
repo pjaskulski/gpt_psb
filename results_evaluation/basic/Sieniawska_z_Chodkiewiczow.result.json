@@ -1,29 +1,30 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Brzeżany",
-        "result": null
+        "result": false,
+        "pj_note": "to wynika tylko ze stwierdzenia: Pod koniec życia S. na stałe osiadła w Brzeżanach, co nie musi oznaczać miejscs śmierci postaci"
     },
     "place_of_burial": {
         "place": "Lwów",
         "note": "kościół Dominikanów",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1633-04",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "1633-05-12",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

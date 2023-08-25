@@ -1,27 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Śląsk",
         "note": null,
-        "result": null
+        "result": true,
+        "pj_note": "nie jest to miejscowość, ale innej informacji nie ma"
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1372-11-06",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

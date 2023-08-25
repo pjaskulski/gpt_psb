@@ -2,28 +2,30 @@
     "place_of_birth": {
         "place": "Siemkowice",
         "note": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "W biogramie: Pochodził z rodziny piszącej się z Siemikowic, czy można to uznać za miejsce urodzenia?"
     },
     "place_of_death": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "Biogram podaje niepewnie co prawda: prawdopodobnie w Gnieźnie lub w którejś ze swoich wsi prestymonialnych"
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1558",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

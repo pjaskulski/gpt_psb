@@ -2,26 +2,28 @@
     "place_of_birth": {
         "place": "Gniezno",
         "note": "na podgrodziu gnieźnieńskim",
-        "result": null
+        "result": false,
+        "pj_note": "to raczej nadinterpretacja tekstu: był synem książęcego rataja (oracza) Piasta (zob.) i jego żony Rzepichy (Rzepki) (zob.), zamieszkałych na podgrodziu gnieźnieńskim"
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "IX w.",
-        "result": null
+        "result": false,
+        "pj_note": "to raczej okres życia/aktywności - floruit"
     },
     "date_of_death": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }
