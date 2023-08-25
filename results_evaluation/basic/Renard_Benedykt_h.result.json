@@ -1,28 +1,29 @@
 {
     "place_of_birth": {
         "place": "Warszawa",
-        "result": null
+        "result": true,
+        "pj_note": "w biogramie jest określenie: prawdopodobnie"
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1683",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1727",
         "note": "między 1725 a 1727",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

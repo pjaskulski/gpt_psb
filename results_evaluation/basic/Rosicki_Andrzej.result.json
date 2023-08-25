@@ -2,11 +2,11 @@
     "place_of_birth": {
         "place": "Władysławowo",
         "note": "koło Konina",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Łódź",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Łódź",
@@ -15,14 +15,14 @@
     },
     "date_of_birth": {
         "date": "1814-10-13",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1904-01-17",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

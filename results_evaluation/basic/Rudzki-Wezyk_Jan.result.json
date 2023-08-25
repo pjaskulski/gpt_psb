@@ -2,27 +2,27 @@
     "place_of_birth": {
         "place": "Witkowice",
         "note": "powiat sochaczewski",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Florencja",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Florencja",
         "note": "cmentarz przy kościele San Miniato al Monte",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1792-03-11",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1874-01-31",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }
