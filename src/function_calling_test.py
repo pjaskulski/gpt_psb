@@ -36,14 +36,17 @@ function_basic_info = [
                 },
                 "date_of_birth": {
                     "type": "string",
+                    "format": "date",
                     "description": "data urodzin głównego bohatera/bohaterki tekstu"
                 },
                 "date_of_death":{
                     "type": "string",
+                    "format": "date",
                     "description": "data śmierci głównego bohatera/bohaterki tekstu"
                 },
                 "date_of_burial": {
                     "type": "string",
+                    "format": "date",
                     "description": "data pochówku głównego bohatera/bohaterki tekstu"
                 },
             },
@@ -88,7 +91,7 @@ print(result)
 # {
 # "place_of_birth": "Cieszyn",
 # "place_of_death": "Cieszyn",
-# "place_of_burial": "kościele dominikanów cieszyńskich",
+# "place_of_burial": "kościół dominikanów cieszyńskich",
 # "date_of_birth": "12 XII 1574",
 # "date_of_death": "13 VII 1617",
 # "date_of_burial": "4 IV 1618"
