@@ -1,26 +1,28 @@
 {
     "place_of_birth": {
         "place": "Paryż",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Rzym",
-        "result": null
+        "result": true,
+        "pj_note": "to jest akurat prawda, ale biogram nie mówi tego wprost" 
     },
     "place_of_burial": {
         "place": "Campo Verano",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1863-10-08",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1941",
-        "result": null
+        "result": true,
+        "pj_note": "Wikipedia podaje datę dzienną"
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

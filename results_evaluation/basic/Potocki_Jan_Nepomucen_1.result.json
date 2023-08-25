@@ -1,26 +1,26 @@
 {
     "place_of_birth": {
         "place": "Oleszyce",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Rymanów Zdrój",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Rymanów",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1867-04-29",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1942-03-13",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

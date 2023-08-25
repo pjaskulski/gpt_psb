@@ -2,29 +2,30 @@
     "place_of_birth": {
         "place": "Siedlce",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Warszawa",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Warszawa",
         "note": "cmentarz Powązkowski",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1868-11-29",
-        "result": null
+        "result": true,
+        "pj_note":"jest podana data alternatywna: 1865"
     },
     "date_of_death": {
         "date": "1938-11-23",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

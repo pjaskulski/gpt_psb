@@ -1,27 +1,29 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note":"jest podana inf. choć w nietypowej formie: P. ur. na Kujawach (zapewne w Ostrowie)"
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1344",
         "note": "między 1341 a 1344",
-        "result": null
+        "result": true,
+        "pj_note": "prawidziwe określenie jest w polu note"
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

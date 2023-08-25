@@ -2,26 +2,29 @@
     "place_of_birth": {
         "place": "Tuhanowicze",
         "note": "powiat nowogródzki",
-        "result": null
+        "result": true
     },
     "place_of_death": {
-        "place": "brak danych",
-        "result": null
+        "place": "Brażele", 
+        "note": "brak danych",
+        "result": true
     },
     "place_of_burial": {
-        "place": "brak danych",
-        "result": null
+        "place": "Bieniakonie", 
+        "note": "przy kościele parafialnym",
+        "result": true
     },
     "date_of_birth": {
         "date": "1799",
-        "result": null
+        "result": true,
+        "pj_note": "ale biogram podaje datę dzienną: 24.12"
     },
     "date_of_death": {
-        "date": "1863",
-        "result": null
+        "date": "1863-12-28",
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

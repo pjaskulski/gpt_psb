@@ -1,26 +1,28 @@
 {
     "place_of_birth": {
         "place": "Lwów",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Opawa",
-        "result": null
+        "result": false,
+        "pj_note": "przeniósł się do rodzinnej posiadłości pod Opawą, gdzie 17 IX 1942 zmarł - czy można przyjąć że Opawa jest właściwą informacją?"
+        
     },
     "place_of_burial": {
         "place": "Rövensdorf",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1874-01-13",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1942-09-17",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

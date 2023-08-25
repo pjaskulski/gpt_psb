@@ -1,27 +1,30 @@
 {
     "place_of_birth": {
         "place": "Lublin",
-        "result": null
+        "result": false,
+        "pj_note": "jest informacja: pochodził z Lublina - czy to można traktować jako wskazanie miejsca urodzenia?"
+        
     },
     "place_of_death": {
         "place": "Gdańsk",
-        "result": null
+        "result": false,
+        "pj_note": "to jest prawdopodobne, ale nie jest napisane wprost, mieszkał w Gdańsku i pochowany został w Gdańsku, ale czy to oznacza że tam zmarł?"
     },
     "place_of_burial": {
         "place": "Gdańsk",
         "note": "kaplica cechu złotników w kościele Najśw. Maryi Panny",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1652",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1700-09-29",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     }
 }
