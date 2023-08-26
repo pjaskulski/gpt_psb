@@ -1,28 +1,29 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Poszuszwie",
         "note": "w zborze",
-        "result": null
+        "result": false,
+        "pj_note": "Nakazał pochować się w zborze w Poszuszwiu - ale czy z tego można uznać że to było miejsce pochówku?"
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1563-07-28",
         "note": "nie żył już",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

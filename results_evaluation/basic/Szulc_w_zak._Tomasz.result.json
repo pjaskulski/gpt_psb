@@ -2,27 +2,28 @@
     "place_of_birth": {
         "place": "Lubawa",
         "note": "ziemia chełmińska",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1642",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1705",
-        "result": null
+        "result": true,
+        "pj_note": "biogram dodaje: jesienią"
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

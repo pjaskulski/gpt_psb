@@ -2,28 +2,30 @@
     "place_of_birth": {
         "place": "Stendal",
         "note": "Brandenburgia",
-        "result": null
+        "result": false,
+        "pj_note": "pochodził z m. Stendal w Brandenburgii - czy to można uznać za miejsce urodzenia?"
     },
     "place_of_death": {
         "place": "Kraków",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Kraków",
         "note": "cmentarz przy kościele Mariackim",
-        "result": null
+        "result": true,
+        "pj_note":"o ile można uznać sformułowanie: Kazał się pochować «bez żadnej pompy» na cmentarzu przy kościele Mariackim"
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1569-02-12",
         "note": "przed",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }
