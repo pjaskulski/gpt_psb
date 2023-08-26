@@ -1,5 +1,5 @@
 # Extraction of information from biographies of historical figures with scripts using the GPT-4 model through an API
-(Polish version below: [link](#ekstrakcja_informacji))
+(Polish version below: [link](#ekstrakcja-informacji-z-biogram%C3%B3w-postaci-historycznych-za-pomoc%C4%85-skrypt%C3%B3w-wykorzystuj%C4%85cych-model-gpt-4-przez-api)
 
 A sample of 250 biograms from the Polish Biographical Dictionary was processed by the GPT-4 model (via API) to extract several types of information using appropriately constructed prompts. Types of expected information:
 
