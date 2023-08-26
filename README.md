@@ -234,7 +234,27 @@ is comparable to the result achieved by shortening through keywords used earlier
 
 ### Basic Data
 
-After verifying 137 out of 250 JSON files with basic data, 784 pieces of information found by the model were accurate, while 35 were not.
+In each biography, six pieces of information were sought: the date and place of birth, the date and place of death, and the date and place of burial. **If any information was missing, the model was supposed to return "no data" (which is considered correct information as long as such data actually does not exist in the biography, and false if such data was present)**.
+
+In total, after verification, out of 1500 pieces of information (6 * 250 biographies), **the extraction yielded 1432 (95.5%) true pieces of information and 68 (4.5%) false ones**.
+
+For each of the 6 types of information separately, the results are as follows:
+
+Place of birth: correct: 232, incorrect: 18
+Place of death: correct: 229, incorrect: 21
+Place of burial: correct: 238, incorrect: 12
+Date of birth: correct: 243, incorrect: 7
+Date of death: correct: 247, incorrect: 3
+Date of burial: correct: 246, incorrect: 4
+
+A large portion of the information extracted from biographies is "no data": 485 out of 1500. Such information is simply missing, especially in biographies of figures from older periods. The number of pieces of information found for each category:
+
+Place of birth: found for 154 out of 250 people (61.6%)
+Place of death: for 160 (64%)
+Place of burial: 111 (44.4%)
+Date of birth: 180 (72%)
+Date of death: 230 (92%)
+Date of burial: 26 (10.4%)
 
 ---
 
@@ -482,7 +502,7 @@ jest porównywalny z wynikiem osiągniętym przez skracanie poprzez słowa klucz
 ### Dane podstawowe
 
 W każdym z biogramów poszukiwano sześciu informacji: daty i miejsca urodzenia, daty i miejsca śmierci, daty i miejsca pochówku.
-W przypadku braku jakiejś informacji model miał zwrócić "brak danych" (co jest uznawane za informację poprawną o ile faktycznie takich danych nie ma w biogramie, fałszywą jeżeli jednak takie dane były).
+**W przypadku braku jakiejś informacji model miał zwrócić "brak danych" (co jest uznawane za informację poprawną o ile faktycznie takich danych nie ma w biogramie, fałszywą jeżeli jednak takie dane były)**.
  
 Ogółem po weryfikacji, na 1500 informacji (6 * 250 biogramów) **ekstrakcja informacji przyniosła 1432 (95.5%) informacje prawdziwe i 68 (4.5%) fałszywych**.
 
