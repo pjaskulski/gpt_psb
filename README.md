@@ -481,5 +481,25 @@ jest porównywalny z wynikiem osiągniętym przez skracanie poprzez słowa klucz
 
 ### Dane podstawowe
 
-Po zweryfikowaniu 137 z 250 plików json z danymi podstawowymi, 784 informacje
-znalezione przez model były prawdziwe, 35 zaś nie.
+W każdym z biogramów poszukiwano sześciu informacji: daty i miejsca urodzenia, daty i miejsca śmierci, daty i miejsca pochówku.
+W przypadku braku jakiejś informacji model miał zwrócić "brak danych" (co jest uznawane za informację poprawną o ile faktycznie takich danych nie ma w biogramie, fałszywą jeżeli jednak takie dane były).
+ 
+Ogółem po weryfikacji, na 1500 informacji (6 * 250 biogramów) **ekstrakcja informacji przyniosła 1432 (95.5%) informacje prawdziwe i 68 (4.5%) fałszywych**.
+
+Dla każdej z 6 rodzajów informacji z osobna wyniki wyglądają następująco:
+
+miejsce urodzenia: poprawnie: 232, niepoprawnie: 18
+miejsce śmierci: poprawnie: 229, niepoprawnie: 21
+miejsce pochówku: poprawnie: 238, niepoprawnie: 12
+data urodzenia: poprawnie: 243 niepoprawnie: 7
+data śmierci: poprawnie: 247 niepoprawnie: 3
+data pochówku: poprawnie: 246 niepoprawnie: 4
+
+Duża część informacji pobranych z biogramów to "brak danych": 485 z 1500, takich informacji - szczególnie w biogramach postaci ze starszych okresów - po prostu brakuj. Liczba znalezionych informacji dla każdej z kategorii informacji: 
+
+Miejsce urodzenia: znaleziono dla 154 z 250 postaci (61.6%)
+Miejsce śmierci: dla 160 (64%) 
+Miejsce pochówku: 111 (44.4%)
+Data urodzenia: 180 (72%)
+Data śmierci: 230 (92%)
+Data pochówku: 26 (10.4%)
