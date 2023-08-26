@@ -2,26 +2,27 @@
     "place_of_birth": {
         "place": "Sosnowice",
         "note": "powiat szczyrzycki",
-        "result": null
+        "result": false,
+        "pj_note": "to możliwe, ale w tekście jest tylko inf.: Był synem mieszczanina lub dziedzica Sosnowic (pow. szczyrzycki)"
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "ok. 1365",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1421",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

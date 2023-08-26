@@ -2,26 +2,26 @@
     "place_of_birth": {
         "place": "Kobylany",
         "note": "powiat krośnieński",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Londyn",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Kobylany",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1898-04-01",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1983-06-20",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "1983-09-06",
-        "result": null
+        "result": true
     }
 }

@@ -1,28 +1,29 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Mścisław",
         "note": "kościół Karmelitów p. wezw. Nawiedzenia NMP",
-        "result": null
+        "result": false,
+        "pj_note": "tak nakazywał testament bohatera, ale czy go wykonano?"
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1688",
         "note": "przed 17 IX",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

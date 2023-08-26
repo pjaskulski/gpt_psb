@@ -1,28 +1,28 @@
 {
     "place_of_birth": {
         "place": "Zamość",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1584",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1639",
         "note": "po",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

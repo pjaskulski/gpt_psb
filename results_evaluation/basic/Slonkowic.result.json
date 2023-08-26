@@ -2,28 +2,29 @@
     "place_of_birth": {
         "place": "Słonkowo",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Kraków",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Kraków",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1658-05-08",
-        "result": null
+        "result": true,
+        "pj_note": "dokładnie: W nocy z 7 na 8 V 1658"
     },
     "date_of_burial": {
         "date": "1658-05-11",
-        "result": null
+        "result": true
     }
 }

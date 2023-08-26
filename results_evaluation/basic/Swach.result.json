@@ -2,28 +2,29 @@
     "place_of_birth": {
         "place": "Daczycy",
         "note": "na Morawach",
-        "result": null
+        "result": true,
+        "pj_note": "niepoprawna odmiana: raczej Daczyce?"
     },
     "place_of_death": {
         "place": "Poznań",
         "note": "macierzysty klasztor",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Poznań",
         "note": "macierzysty klasztor",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1668-04-11",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1747-01-13",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

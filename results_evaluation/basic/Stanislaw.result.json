@@ -1,27 +1,28 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Warszawa",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Warszawa",
         "note": "kolegiata św. Jana Chrzciciela",
-        "result": null
+        "result": true,
+        "pj_note": "to inf. prawdziwa, choć wyciągnięta pośrednio ze stwierdzenia: renesansowym nagrobku (wraz z bratem), wystawionym po śmierci Janusza III w kolegiacie warszawskiej"
     },
     "date_of_birth": {
         "date": "1501-05-17",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1524-08-08",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

@@ -2,29 +2,30 @@
     "place_of_birth": {
         "place": "Liszyn",
         "note": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "w biogramie jest: Pochodził z rodziny wywodzącej się z Liszyna - czy to równoznaczne z miejscem urodzenia?"
     },
     "place_of_death": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1451",
         "note": "przed 2 XI",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

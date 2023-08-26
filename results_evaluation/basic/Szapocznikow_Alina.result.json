@@ -1,26 +1,27 @@
 {
     "place_of_birth": {
         "place": "Kalisz",
-        "result": null
+        "result": true
     },
     "place_of_death": {
-        "place": "brak danych",
-        "result": null
+        "place": "Praz-Contant",
+        "result": true
     },
     "place_of_burial": {
-        "place": "brak danych",
-        "result": null
+        "place": "Paryż",
+        "note": "cmentarz Montmartre",
+        "result": true
     },
     "date_of_birth": {
         "date": "1926-05-16",
-        "result": null
+        "result": true
     },
     "date_of_death": {
-        "date": "1973",
-        "result": null
+        "date": "1973-03-02",
+        "result": true
     },
     "date_of_burial": {
-        "date": "brak danych",
-        "result": null
+        "date": "1973-03-06",
+        "result": true
     }
 }

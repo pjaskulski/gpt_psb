@@ -2,31 +2,32 @@
     "place_of_birth": {
         "place": "Gdańsk",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Saksonia",
         "note": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "biogram podaje jeszcze: w majątku Johanna von Seebach"
     },
     "place_of_burial": {
         "place": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1520",
         "note": "około",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "brak danych",
         "note": "między 1576 a 1590",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
         "note": "brak danych",
-        "result": null
+        "result": true
     }
 }

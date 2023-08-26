@@ -3,22 +3,24 @@
     "psb_id": "PSB-43-0026",
     "biogram_file": "Stebelski_1.txt",
     "date_of_birth": {
-        "date": "brak danych"
+        "date":"1848-08-31"
     },
-    "place_of_birth": {
-        "place": "brak danych"
+    "place_of_birth": { 
+        "place":"Magierów", 
+        "note":"powiat Rawa Ruska"
     },
     "date_of_death": {
-        "date": "brak danych"
+        "date":"1891-12-23"
     },
     "place_of_death": {
-        "place": "brak danych"
+        "place":"Warszawa"
     },
     "date_of_burial": {
-        "date": "brak danych"
+        "date":"brak danych"
     },
     "place_of_burial": {
-        "place": "brak danych"
+        "place": "Warszawa", 
+        "note": "cmentarz na Bródnie"
     },
     "functions": [
         "poeta",

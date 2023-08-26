@@ -2,28 +2,29 @@
     "place_of_birth": {
         "place": "Suczawa",
         "note": "na Bukowinie",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Lublin",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Jerozolima",
         "note": "cmentarz Har ha-Menuuchot",
-        "result": null
+        "result": false,
+        "pj_note": "to jest prawdziwy fakt, ale dotyczy drugiego pochówku z 1959 roku, pierwotnie pochowany w Lublinie"
     },
     "date_of_birth": {
         "date": "1887-02-24",
         "note": "lub 1887-03-03",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1933-10-27",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "1933-10-29",
-        "result": null
+        "result": true
     }
 }

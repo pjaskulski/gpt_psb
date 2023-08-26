@@ -2,24 +2,12 @@
     "name": "Alina Szapocznikow",
     "psb_id": "PSB-47-0025",
     "biogram_file": "Szapocznikow_Alina.txt",
-    "date_of_birth": {
-        "date": "1926-05-16"
-    },
-    "place_of_birth": {
-        "place": "Kalisz"
-    },
-    "date_of_death": {
-        "date": "1973"
-    },
-    "place_of_death": {
-        "place": "brak danych"
-    },
-    "date_of_burial": {
-        "date": "brak danych"
-    },
-    "place_of_burial": {
-        "place": "brak danych"
-    },
+    "date_of_birth": {"date": "1926-05-16"},
+    "place_of_birth": {"place": "Kalisz"},
+    "date_of_death": {"date": "1973-03-02"},
+    "place_of_death": {"place": "Praz-Contant"},
+    "date_of_burial": {"date": "1973-03-06"},
+    "place_of_burial": {"place": "Paryż", },
     "functions": [
         "rzeźbiarka",
         "pracownica praskiej pracowni rzeźbiarza Otokara Velinskiego",

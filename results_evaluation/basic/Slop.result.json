@@ -2,27 +2,28 @@
     "place_of_birth": {
         "place": "Dębowiec",
         "note": "koło Cieszyna",
-        "result": null
+        "result": false,
+        "pj_note": "Pochodził z Dębowca koło Cieszyna - czy to jest równoznaczne z miejscem urodzenia? zakładam że nie"
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": false
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": false
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": null
+        "result": false
     },
     "date_of_death": {
         "date": "1475-10-21",
         "note": "po",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

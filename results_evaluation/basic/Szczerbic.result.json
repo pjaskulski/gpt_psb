@@ -1,28 +1,29 @@
 {
     "place_of_birth": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Kraków",
         "note": "krużganki kościoła p. wezw. Świętej Trójcy (Dominikanów)",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1552",
         "note": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "biogram dodaje: prawdopodobnie we wrześniu"
     },
     "date_of_death": {
         "date": "1609-03-30",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

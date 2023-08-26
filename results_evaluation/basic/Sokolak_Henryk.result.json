@@ -2,28 +2,28 @@
     "place_of_birth": {
         "place": "Zgrobelice",
         "note": "powiat tarnopolski",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Warszawa",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Warszawa",
         "note": "cmentarz Komunalny na Powązkach",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1916-12-16",
         "note": "w późniejszych życiorysach podawał, że urodził się 16 XII 1921 w Goraju, pow. czarnkowski",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1984-12-09",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "brak danych",
-        "result": null
+        "result": true
     }
 }

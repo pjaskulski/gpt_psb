@@ -2,27 +2,27 @@
     "place_of_birth": {
         "place": "Brudzewice",
         "note": "powiat opoczyński",
-        "result": null
+        "result": true
     },
     "place_of_death": {
         "place": "Warszawa",
-        "result": null
+        "result": true
     },
     "place_of_burial": {
         "place": "Magdalenka",
         "note": "cmentarz w Magdalence pod Warszawą",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1929-07-02",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1986-11-02",
-        "result": null
+        "result": true
     },
     "date_of_burial": {
         "date": "1986-11-06",
-        "result": null
+        "result": true
     }
 }

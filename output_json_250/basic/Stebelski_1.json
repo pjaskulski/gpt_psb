@@ -1,20 +1,8 @@
 {
-    "place_of_birth": {
-        "place": "brak danych"
-    },
-    "place_of_death": {
-        "place": "brak danych"
-    },
-    "place_of_burial": {
-        "place": "brak danych"
-    },
-    "date_of_birth": {
-        "date": "brak danych"
-    },
-    "date_of_death": {
-        "date": "brak danych"
-    },
-    "date_of_burial": {
-        "date": "brak danych"
-    }
+ "place_of_birth":{"place":"Magierów", "note":"powiat Rawa Ruska"},
+ "place_of_death":{"place":"Warszawa"},
+ "place_of_burial":{"place": "Warszawa", "note": "cmentarz na Bródnie"},
+ "date_of_birth":{"date":"1848-08-31"},
+ "date_of_death":{"date":"1891-12-23"},
+ "date_of_burial":{"date":"brak danych"}
 }
