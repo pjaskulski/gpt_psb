@@ -5,11 +5,12 @@
     },
     "place_of_death": {
         "place": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note": "w biogramie wzmianka: najpewniej nie powrócił z pielgrzymki, a może zginął w Ziemi Świętej"
     },
     "place_of_burial": {
         "place": "brak danych",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "brak danych",

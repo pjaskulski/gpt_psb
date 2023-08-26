@@ -11,7 +11,7 @@
     "place_of_burial": {
         "place": "Łódź",
         "note": "cmentarz katolicki przy ul. Ogrodowej",
-        "result": null
+        "result": true
     },
     "date_of_birth": {
         "date": "1814-10-13",

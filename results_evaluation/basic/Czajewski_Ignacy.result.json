@@ -14,7 +14,7 @@
     },
     "date_of_birth": {
         "date": "1868",
-        "result": null
+        "result": true
     },
     "date_of_death": {
         "date": "1922-01-19",
