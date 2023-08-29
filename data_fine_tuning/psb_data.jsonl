@@ -1,0 +1,17 @@
+[
+    {"messages": [
+        {"role": "system", "content": "Jesteś pomocnym asystentem, specjalistą w dziedzinie historii, genealogii, życiorysów znanych postaci."},
+        {"role": "user", "content": "Na podstawie podanego tekstu biografii wyszukaj miejsce urodzenia, miejsce śmierci, miejsce pochówku, datę urodzenia, datę śmierci i datę pochówku głównego bohatera/bohaterki. Wynik przedstaw w formie listy obiektów JSON. Tekst: Soderini Carlos (1557- ok. 1591), kupiec i bankier. Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym bratem Bernarda. Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga. Jego bratanicą była Małgorzata Anna, żona Winfrida de Loeve. S. ożenił się z Joanną, córką burgrabiego krakowskiego Adama Kurozwęckiego. Zmarł w Hurczynianach, pochowano go po 15 czerwca 1591 roku na miejscowym cmentarzu parafialnym."},
+        {"role": "assistant", "content": "{\"place_of_birth\":{\"place\":\"Andalewo\", \"note\":\"koło Wyszeborga\"}, \"place_of_death\":{\"place\":\"Hurczyniany\", \"note\":\"powiat koniński\"}, \"place_of_burial\":{\"place\": \"Hurczyniany\", \"note\": \"miejscowy cmentarz parafialny\"},\"date_of_birth\":{\"date\":\"1557-06-01\"},\"date_of_death\":{\"date\":\"1591\", \"note\":\"około\"},\"date_of_burial\":{\"date\":\"1591-06-15\", \"note\":\"po\"}}"}
+    ]}
+    {"messages": [
+        {"role": "system", "content": "Jesteś pomocnym asystentem, specjalistą w dziedzinie historii, genealogii, życiorysów znanych postaci."},
+        {"role": "user", "content": ""},
+        {"role": "assistant", "content": ""}
+    ]}
+    {"messages": [
+        {"role": "system", "content": "Jesteś pomocnym asystentem, specjalistą w dziedzinie historii, genealogii, życiorysów znanych postaci."},
+        {"role": "user", "content": ""},
+        {"role": "assistant", "content": ""}
+    ]}
+]
