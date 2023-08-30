@@ -1,9 +1,9 @@
 """ function calling test """
-import openai
 import os
 import time
-from dotenv import load_dotenv
 from pathlib import Path
+from dotenv import load_dotenv
+import openai
 
 
 # api key
@@ -18,27 +18,31 @@ openai.api_key = OPENAI_API_KEY
 
 psb_data = Path("..") / "data" / "pdb_data.jsonl"
 
-file_id = openai.File.create(
-  file=open(psb_data, 'r', encoding='utf-8'),
-  purpose='fine-tune',
+file_data = openai.File.create(
+    file=open(psb_data, 'r', encoding='utf-8'),
+    purpose='fine-tune',
 )
+
+file_id = file_data['id']
 
 ft_job = openai.FineTuningJob.create(
     training_file=file_id,
     model='gpt-3.5-turbo',
 )
 
+job_id = ft_job['id']
+
 model_id = None
 print('Proces trwa...')
 
-finished = False
-while not finished:
-    status = openai.FineTuningJob.retrieve(ft_job['id'])
-    if status['finished_at']:
-      model_id = status['fine_tuned_model']
-      finished = True
-    else:
-      print('...', end='')
-      time.sleep(15)
+while True:
+    job_status = openai.FineTuningJob.retrieve(ft_job['id'])
 
+    if job_status['finished_at'] is not None:
+        break
+
+    print('.', end='')
+    time.sleep(30)
+
+model_id = job_status['fine_tuned_model']
 print(model_id)
