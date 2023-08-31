@@ -16,12 +16,14 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 openai.api_key = OPENAI_API_KEY
 
 
-psb_data = Path("..") / "data" / "pdb_data.jsonl"
+psb_data = Path("..") / "data_fine_tuning" / "psb_data.jsonl"
 
 file_data = openai.File.create(
     file=open(psb_data, 'r', encoding='utf-8'),
     purpose='fine-tune',
 )
+
+time.sleep(30)  # czas na wczytanie pliku przez OpenAI
 
 file_id = file_data['id']
 
@@ -36,8 +38,7 @@ model_id = None
 print('Proces trwa...')
 
 while True:
-    job_status = openai.FineTuningJob.retrieve(ft_job['id'])
-
+    job_status = openai.FineTuningJob.retrieve(job_id)
     if job_status['finished_at'] is not None:
         break
 
@@ -45,4 +46,5 @@ while True:
     time.sleep(30)
 
 model_id = job_status['fine_tuned_model']
+print()
 print(model_id)
