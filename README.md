@@ -515,7 +515,7 @@ Dla każdej z 6 rodzajów informacji z osobna wyniki wyglądają następująco:
 - data śmierci: poprawnie: 247 niepoprawnie: 3
 - data pochówku: poprawnie: 246 niepoprawnie: 4
 
-Duża część informacji pobranych z biogramów to "brak danych": 485 z 1500, takich informacji - szczególnie w biogramach postaci ze starszych okresów - po prostu brakuje. Liczba faktycznie znalezionych informacji dla każdej z kategorii informacji:
+Duża część informacji pobranych z biogramów to "brak danych": 639 z 1500 (42.6%), takich informacji - szczególnie w biogramach postaci ze starszych okresów - po prostu brakuje. Liczba faktycznie znalezionych informacji dla każdej z kategorii informacji:
 
 - Miejsce urodzenia: znaleziono dla 154 z 250 postaci (61.6%)
 - Miejsce śmierci: dla 160 (64%)
