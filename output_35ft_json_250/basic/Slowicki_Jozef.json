@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Rostoka",
+            "note": "we wsi"
+        },
+        "place_of_death": {
+            "place": "Zagrzeb",
+            "note": "więzienie"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1803"
+        },
+        "date_of_death": {
+            "date": "1847"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

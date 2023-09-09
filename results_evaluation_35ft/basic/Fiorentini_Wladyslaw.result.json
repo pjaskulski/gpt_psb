@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Borgo",
+            "note": "w Rzeczypospolitej Weneckiej",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Wilno",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Wilno",
+            "note": "cmentarz bernardyński",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1820",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1914",
+            "result": true,
+            "pj_note": "ale w biogramie jest dokładniejsza data: 1914-01-16"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

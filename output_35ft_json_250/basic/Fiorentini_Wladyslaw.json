@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Borgo",
+            "note": "w Rzeczypospolitej Weneckiej"
+        },
+        "place_of_death": {
+            "place": "Wilno"
+        },
+        "place_of_burial": {
+            "place": "Wilno",
+            "note": "cmentarz bernardyński"
+        },
+        "date_of_birth": {
+            "date": "1820"
+        },
+        "date_of_death": {
+            "date": "1914"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zalesie",
+            "note": "brak danych",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1440",
+            "note": "prawdopodobnie na krótko przed tą datą",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1495-01-01",
+            "note": "lub 1496",
+            "result": false,
+            "pj_note": "1495 lub 1496, ale przed 27 VI 1496, data podana przez model jest nadinterpretacją"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

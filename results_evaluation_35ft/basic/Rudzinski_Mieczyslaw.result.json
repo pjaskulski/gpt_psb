@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Werkach",
+            "note": "koło Wilna",
+            "result": true,
+            "pj_note": "ale błędna odmiana"
+        },
+        "place_of_death": {
+            "place": "Dachau",
+            "note": "",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1887-04-16",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1940-11-14",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

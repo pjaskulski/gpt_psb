@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Thame",
+            "note": "Oxfordshire",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1549-01-01",
+            "result": false,
+            "pj_note": "rok się zgadza, w biogramie nie ma jednak daty dziennej"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

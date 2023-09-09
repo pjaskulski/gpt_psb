@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dąbrowica",
+            "note": "h. Lewart",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Kock",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1521",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1574-04-25",
+            "note": "po blisko miesięcznej chorobie",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1574-08-27",
+            "note": "następnie lub 28 sierpnia",
+            "result": true
+        }
+    }
+]

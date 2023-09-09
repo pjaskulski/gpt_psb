@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dubinki",
+            "note": "województwo wileńskie",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Węgrów",
+            "note": "powiat węgrowski",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1660",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1724",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

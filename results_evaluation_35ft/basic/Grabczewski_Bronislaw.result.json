@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kownatów",
+            "note": "powiat telszewski, Litwa",
+            "result": true,
+            "pj_note": "czy to poprawna odmiana, biogram podaje: w Kownatowie w pow. telszewskim na Litwie?"
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "Polska",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Powązkowski",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1855-01-15",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1926-02-27",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

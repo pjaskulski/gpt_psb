@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Opole"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1229"
+        },
+        "date_of_death": {
+            "date": "1292-01-01",
+            "note": "1292–3"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

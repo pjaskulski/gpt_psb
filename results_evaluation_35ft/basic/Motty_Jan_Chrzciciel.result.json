@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Paryż",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Poznań",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1790",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1856",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniejszą datę: 1856-09-25"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

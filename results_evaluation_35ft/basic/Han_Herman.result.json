@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Nysa",
+            "note": "na Śląsku",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Chojnice",
+            "note": "przy końcu 1627 r. lub na początku r. n.",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1574-07-20",
+            "result": false
+        },
+        "date_of_death": {
+            "date": "1628",
+            "note": "około",
+            "result": true,
+            "pj_note": "to jedna z możliwości, biogram podaje: około 1627-12-20 lub 7 II 1628"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

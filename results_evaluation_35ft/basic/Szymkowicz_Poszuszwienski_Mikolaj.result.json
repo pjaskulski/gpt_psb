@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Poszuszwi",
+            "note": "nad rzeką Szuszwą",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Poszuszwi",
+            "note": "w zbocze ewangelickim",
+            "result": false,
+            "pj_note": "Nakazał pochować się w zborze w Poszuszwiu - ale czy z tego można uznać że to było miejsce pochówku? Błędna odmiana."
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1563",
+            "result": true,
+            "pj_note": "biogram podaje trochę dokładniej: nie żył już 1563-07-28"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

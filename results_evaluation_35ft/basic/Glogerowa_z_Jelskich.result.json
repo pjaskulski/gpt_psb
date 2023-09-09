@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zamość",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Tykocin",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1860-07-15",
+            "result": false,
+            "pj_note": "rok i miesiąc się zgada, ale biogram podaje: w połowie miesiąca, to nie znaczy dokładnie 15 lipca"
+        },
+        "date_of_death": {
+            "date": "1899-04-11",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Killobe",
+            "note": "na Pomorzu"
+        },
+        "place_of_death": {
+            "place": "Gdańsk",
+            "note": ""
+        },
+        "place_of_burial": {
+            "place": "Gdańsk",
+            "note": ""
+        },
+        "date_of_birth": {
+            "date": "1492",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1564",
+            "note": ""
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

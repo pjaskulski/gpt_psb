@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kubliczew",
+            "note": "miasteczko",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Wilno",
+            "note": "obecnie Wilno to stolica Litwy",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1904-04-04",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1943-06-07",
+            "result": false
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

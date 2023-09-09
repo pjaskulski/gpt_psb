@@ -1,0 +1,33 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Szulejki",
+            "note": "wioska kolokacyjna",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Lwów",
+            "note": "",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1846-01-01",
+            "note": "około",
+            "result": false,
+            "pj_note": "rok może być prawidłowy, data dzienna nie, biogram podaje: (ok. 1850–1922), a dalej jest Ur. w r. 1846 czy w 1849."
+        },
+        "date_of_death": {
+            "date": "1922-11-15",
+            "note": "",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

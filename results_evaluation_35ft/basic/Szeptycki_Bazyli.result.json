@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Woszczańce",
+            "note": "ziemia przemyska",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Uniów",
+            "note": "powiat przemyski",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Lwów",
+            "note": "krypta katedralna lwowskiego soboru św. Jura",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1647-02-03",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1715-04-05",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1715-07-15",
+            "note": "krypta katedralna lwowskiego soboru św. Jura",
+            "result": true
+        }
+    }
+]

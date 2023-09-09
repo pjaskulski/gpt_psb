@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Lwów",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Lwów",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1843",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1914",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniejszą datę: 1914-01-16"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

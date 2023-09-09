@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Wola",
+            "result": false,
+            "pj_note": "to, że postać jest z Woli nie musi oznaczać miejsca urodzenia"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1346-01-01",
+            "note": "lub 1347",
+            "result": false,
+            "pj_note": "daty roczne są poprawne, ale podanie daty dziennej jest mylące"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

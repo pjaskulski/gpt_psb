@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Powązkowski"
+        },
+        "date_of_birth": {
+            "date": "1919-09-27"
+        },
+        "date_of_death": {
+            "date": "1996-05-29"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

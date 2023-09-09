@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mirowo"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Kraków"
+        },
+        "date_of_birth": {
+            "date": "zm. 1570"
+        },
+        "date_of_death": {
+            "date": "brak danych"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

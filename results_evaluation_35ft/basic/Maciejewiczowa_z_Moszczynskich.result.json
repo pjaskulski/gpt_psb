@@ -1,0 +1,33 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Teklinowo",
+            "note": "powiat orszański",
+            "result": true,
+            "pj_note":"czy to poprawna odmiana? w biorgramie jest: Ur. w Teklinowie"
+        },
+        "place_of_death": {
+            "place": "Wilno",
+            "note": "obecnie Wilno, Litwa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Wilno",
+            "note": "cmentarz na Rossie",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1863",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1937",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1937-01-15"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

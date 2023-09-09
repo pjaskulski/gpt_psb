@@ -1,0 +1,28 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1807-06-13",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1877-06-04",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

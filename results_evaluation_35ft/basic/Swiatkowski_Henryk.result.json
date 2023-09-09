@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dzierzążnia",
+            "note": "powiat płoński",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz wojskowy na Powązkach",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1896-04-02",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1970-03-22",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "kościół św. Anny u bernardynów",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1501-05-17",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1524-08-08",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

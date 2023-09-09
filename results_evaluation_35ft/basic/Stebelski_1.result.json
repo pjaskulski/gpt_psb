@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Magierów",
+            "note": "powiat Rawa Ruska",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "Bródno",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "pole, za murem cmentarza na Bródnie",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1848-08-31",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1891-01-01",
+            "result": false,
+            "pj_note": "data dzienna to błędna interpretacja, w biogramie jest: w nocy z 22 na 23 XII 1891"
+        },
+        "date_of_burial": {
+            "date": "1891-01-01",
+            "result": false
+        }
+    }
+]

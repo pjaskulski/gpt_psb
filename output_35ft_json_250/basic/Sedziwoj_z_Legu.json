@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Łęg Kościelny",
+            "note": "w pow. bielskim na Mazowszu płockim"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "zm. 1442"
+        },
+        "date_of_death": {
+            "date": "brak danych"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

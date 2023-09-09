@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Łęczyca",
+            "note": "u bernardynów",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1696",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1784",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1784-11-22"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

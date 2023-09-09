@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mścisław",
+            "note": "województwo mścisławskie",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Mścisław",
+            "note": "kościół Karmelitów p. wezw. Nawiedzenia NMP",
+            "result": false
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1687-1688",
+            "result": true,
+            "pj_note": "tak jest w pierwszym zdaniu, dalej biogram podaje: Zmarł przed 17 IX 1688"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

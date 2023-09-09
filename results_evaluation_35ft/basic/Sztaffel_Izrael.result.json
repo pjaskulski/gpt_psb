@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1814",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1884",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1884-12-09"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

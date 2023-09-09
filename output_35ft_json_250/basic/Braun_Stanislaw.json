@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Jaszczwia",
+            "note": "koło Krosna"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1859"
+        },
+        "date_of_death": {
+            "date": "1922"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

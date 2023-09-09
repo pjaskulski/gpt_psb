@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kotiużany",
+            "note": "na Podolu",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1861",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1931-12-30",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

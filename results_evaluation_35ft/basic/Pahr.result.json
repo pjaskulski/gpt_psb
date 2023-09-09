@@ -1,0 +1,33 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Bissone",
+            "note": "nad jeziorem Lugano, w kantonie Tessyn",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Brzeg",
+            "note": "w Polsce",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Brzeg",
+            "note": "w Polsce",
+            "result": false
+        },
+        "date_of_birth": {
+            "date": "1510",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1575",
+            "result": true,
+            "pj_note": "ale biogram podaje datę dokładna: 1575-08-15"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

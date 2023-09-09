@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Opole",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1229",
+            "result": true,
+            "pj_note": "ale brak dodatkowego określenia: 'przed'"
+        },
+        "date_of_death": {
+            "date": "1292-01-01",
+            "note": "1292–3",
+            "result": false,
+            "pj_note": "rok się zgadza ale reszta nie, w biograme jest podana informacja: Zmarła zapewne 4 XI 1292"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

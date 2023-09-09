@@ -1,0 +1,33 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Siemkowice",
+            "note": "dziś Siemkowice",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Gnieźnie",
+            "note": "",
+            "result": true,
+            "pj_note": "ale błędna odmiana i brak określenia 'prawdopodobnie'"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "zm. 1558",
+            "result": false,
+            "pj_note": "to data śmierci"
+        },
+        "date_of_death": {
+            "date": "brak danych",
+            "result": false,
+            "pj_note": "data śmierci została odczytania jako data urodzenia"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Toruń",
+            "result": false,
+            "pj_note": "czy sformułowanie 'toruńczyk' wystarcza by uznać, że urodził się w Toruniu? Zakładam, że nie."
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Lubawa",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1514-02-02",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

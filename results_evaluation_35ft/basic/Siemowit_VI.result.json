@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Sanniki",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Płock",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1446-01-02",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1461-12-31",
+            "note": "wg metryki płockiej",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1462-01-04",
+            "result": true
+        }
+    }
+]

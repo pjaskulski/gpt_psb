@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "968-972",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1016-1017",
+            "result": false,
+            "pj_note": "błędna interpratacja tesktu, chodzi raczej o: po 1016/17"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

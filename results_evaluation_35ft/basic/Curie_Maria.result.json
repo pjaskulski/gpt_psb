@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Sancellemoz",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Panteon",
+            "note": "prochy",
+            "result": false
+        },
+        "date_of_birth": {
+            "date": "1867-11-07",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1934-07-04",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1967-04-20",
+            "note": "prochy",
+            "result": false,
+            "pj_niote": "to jakieś zmyślenie, podobnie jak miejsce pochówku, biogram Marii Curie wydrukowano w 1938 roku, nie mogło być w nim informacji z lat późniejszych? Poza tym prochy bohaterki przeniesiono do Panteonu w roku 1995."
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Szwabia"
+        },
+        "place_of_death": {
+            "place": "Królewiec"
+        },
+        "place_of_burial": {
+            "place": "Królewiec",
+            "note": "tumba"
+        },
+        "date_of_birth": {
+            "date": "1410"
+        },
+        "date_of_death": {
+            "date": "1467"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

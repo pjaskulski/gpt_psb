@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "Brześć Litewski",
+            "note": "w kościele Bernardynów"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1695"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

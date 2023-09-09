@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "nieznane",
+            "result": true,
+            "pj_note": "model nie zachował oczekiwanej formy odpowiedzi, prawdą jest że w biogramie nie ma takich danych, ale powinien zapisać: brak danych"
+        },
+        "place_of_death": {
+            "place": "nieznane",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "nieznane",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "nieznane",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "nieznane",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "nieznane",
+            "result": true
+        }
+    }
+]

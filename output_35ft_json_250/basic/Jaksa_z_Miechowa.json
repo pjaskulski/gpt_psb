@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Miechów"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1150",
+            "note": "2. poł. XII w."
+        },
+        "date_of_death": {
+            "date": "1176"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zgrobelice",
+            "note": "w pow. tarnopolskim",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Komunalny na Powązkach",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1916-12-16",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1984-12-09",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

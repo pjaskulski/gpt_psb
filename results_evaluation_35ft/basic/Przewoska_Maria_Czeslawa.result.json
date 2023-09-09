@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Siedlce",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Powązkowski",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1868-11-29",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1938-11-23",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

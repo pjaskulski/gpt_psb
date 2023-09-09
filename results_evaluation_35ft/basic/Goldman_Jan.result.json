@@ -1,0 +1,28 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Lwów",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1907-05-12",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1942",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

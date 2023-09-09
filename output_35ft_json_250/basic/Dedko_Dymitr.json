@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "nieznane"
+        },
+        "place_of_death": {
+            "place": "nieznane"
+        },
+        "place_of_burial": {
+            "place": "nieznane"
+        },
+        "date_of_birth": {
+            "date": "nieznane"
+        },
+        "date_of_death": {
+            "date": "nieznane"
+        },
+        "date_of_burial": {
+            "date": "nieznane"
+        }
+    }
+]

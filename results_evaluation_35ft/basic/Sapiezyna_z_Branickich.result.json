@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Kodnia",
+            "result": true,
+            "pj_note": "ale błędna odmiana, powinno być: Kodeń"
+        },
+        "place_of_burial": {
+            "place": "Kodnia",
+            "result": true,
+            "pj_note": "ale błędna odmiana, powinno być: Kodeń"
+        },
+        "date_of_birth": {
+            "date": "1734",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1800",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1800-09-03"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

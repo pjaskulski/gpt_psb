@@ -1,0 +1,28 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Nerczyński Zawód",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1826",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1856",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Gdańsk"
+        },
+        "place_of_death": {
+            "place": "Saksonia"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1520"
+        },
+        "date_of_death": {
+            "date": "1576-1590"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

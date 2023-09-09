@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Siemkowice",
+            "note": "dziś Siemkowice"
+        },
+        "place_of_death": {
+            "place": "Gnieźnie",
+            "note": ""
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "zm. 1558"
+        },
+        "date_of_death": {
+            "date": "brak danych"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

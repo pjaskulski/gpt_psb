@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Jaszczwia",
+            "note": "koło Krosna",
+            "result": false,
+            "pj_note": "Niepoprawna odmiana, powinno być: Jaszczów"
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1859",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1922",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

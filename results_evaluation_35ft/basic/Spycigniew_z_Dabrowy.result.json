@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dąbrowa Zielona",
+            "result": false,
+            "pj_note": "pisał się z Dąbrowy, co nie jest jednoznaczne z miejscem urodzenia"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1255-01-01",
+            "note": "między 1255 a 1257",
+            "result": true,
+            "pj_note": "data dzienna jest błędna, ale prawdziwe informacje są w polu note"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

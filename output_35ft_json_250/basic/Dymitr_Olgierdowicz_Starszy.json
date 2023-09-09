@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Druck",
+            "note": "obecnie Dryk, Białoruś"
+        },
+        "place_of_death": {
+            "place": "nad Worskłą",
+            "note": "rzeka w Rosji"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1339"
+        },
+        "date_of_death": {
+            "date": "1399"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

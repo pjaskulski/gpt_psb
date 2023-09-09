@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "cmentarz żydowski przy ulicy Jerozolimskiej 14"
+        },
+        "date_of_birth": {
+            "date": "1883-07-13"
+        },
+        "date_of_death": {
+            "date": "1935"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

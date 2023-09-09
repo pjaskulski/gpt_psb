@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Włochy"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1522"
+        },
+        "date_of_death": {
+            "date": "1557"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

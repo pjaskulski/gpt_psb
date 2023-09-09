@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Starzynki",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Słuck",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1625",
+            "result": true,
+            "pj_note": "ale brak określenia 'około'"         
+        },
+        "date_of_death": {
+            "date": "1684",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1684-10-24"
+        },
+        "date_of_burial": {
+            "date": "1685-02-20",
+            "result": true
+        }
+    }
+]

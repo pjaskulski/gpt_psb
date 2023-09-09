@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Stobnica",
+            "note": "powiat wiślicki"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1372",
+            "note": "najwcześniej"
+        },
+        "date_of_death": {
+            "date": "1418-1419",
+            "note": "między"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Sierpc"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1512"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

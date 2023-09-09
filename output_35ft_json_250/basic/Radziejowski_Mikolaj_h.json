@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Radziejowice"
+        },
+        "place_of_burial": {
+            "place": "Mszczonów"
+        },
+        "date_of_birth": {
+            "date": "1503"
+        },
+        "date_of_death": {
+            "date": "1567"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

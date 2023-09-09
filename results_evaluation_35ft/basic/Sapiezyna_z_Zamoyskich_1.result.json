@@ -1,0 +1,28 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Podzamcze",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Krasiczyn",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Krasiczyn",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1806-07-09",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1890-03-29",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1890-04-02",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa"
+        },
+        "place_of_death": {
+            "place": "Sancellemoz"
+        },
+        "place_of_burial": {
+            "place": "Panteon",
+            "note": "prochy"
+        },
+        "date_of_birth": {
+            "date": "1867-11-07"
+        },
+        "date_of_death": {
+            "date": "1934-07-04"
+        },
+        "date_of_burial": {
+            "date": "1967-04-20",
+            "note": "prochy"
+        }
+    }
+]

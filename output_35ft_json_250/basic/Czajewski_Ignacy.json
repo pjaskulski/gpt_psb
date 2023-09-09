@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Petersburg",
+            "note": "seminarium duchowne"
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "szpital Dzieciątka Jezus"
+        },
+        "place_of_burial": {
+            "place": "Ząbki",
+            "note": "cmentarz"
+        },
+        "date_of_birth": {
+            "date": "1868"
+        },
+        "date_of_death": {
+            "date": "1922"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

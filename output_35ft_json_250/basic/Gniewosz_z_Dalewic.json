@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dalewice",
+            "note": "Dalowic, Ćmielowa, Wronowa"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1350-07-01",
+            "note": "około połowy XIV w."
+        },
+        "date_of_death": {
+            "date": "1406-01-01"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

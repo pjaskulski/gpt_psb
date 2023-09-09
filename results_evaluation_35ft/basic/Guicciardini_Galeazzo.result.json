@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Włochy",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": false
+        },
+        "date_of_birth": {
+            "date": "1522",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1557",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1557-07-31"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

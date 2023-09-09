@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Łódź",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1906-02-26",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1937-01-01",
+            "result": false,
+            "pj_note": "biogram podaje tylko datę roczną i ta jets poprawna, ale dzienna to nadinterpretacja"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

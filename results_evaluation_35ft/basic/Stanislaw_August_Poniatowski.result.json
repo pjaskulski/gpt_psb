@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Wołczyn",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Petersburg",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Wołczyn",
+            "result": true,
+            "pj_note": "to drugie miejsce pochówku"
+        },
+        "date_of_birth": {
+            "date": "1732-01-17",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1798-02-12",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1995-02-14",
+            "result": true,
+            "pj_note": "data dotyczy trzeciego miejsca pochówku"
+        }
+    }
+]

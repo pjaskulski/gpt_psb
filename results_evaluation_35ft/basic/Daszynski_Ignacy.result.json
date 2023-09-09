@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zbaraż",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1866-10-26",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1936",
+            "result": true,
+            "pj_note": "w biogramie jest dokładniejsza data: 1936-10-31"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

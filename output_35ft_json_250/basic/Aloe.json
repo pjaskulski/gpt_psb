@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1759"
+        },
+        "date_of_death": {
+            "date": "1821"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kozłowo",
+            "note": "powiat miechowski",
+            "result": true,
+            "pj_note": "pomijając zapewne błędną odmianę i przyjmując że to określenie jest tożsame z miejscem urodzenia: Pochodził z Kozłowa w pow. miechowskim"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1443-11-06",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

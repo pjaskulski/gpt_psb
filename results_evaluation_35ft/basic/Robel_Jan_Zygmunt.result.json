@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "cmentarz Rakowicki",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1886-08-28",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1962-05-24",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

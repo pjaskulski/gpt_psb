@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Gdów",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1130",
+            "result": true,
+            "pj_note": "w tekście jest informacja: datę jego urodzin wypada odnieść do czasu co najmniej około r. 1130 lub nieco wcześniej; w chwili zgonu liczyłby około 60 lat, ale są to jakieś przybliżenia, brak w wyniku określenia 'około'"
+        },
+        "date_of_death": {
+            "date": "1190",
+            "result": true,
+            "pj_note": "w tekście jest informacja: datę jego urodzin wypada odnieść do czasu co najmniej około r. 1130 lub nieco wcześniej; w chwili zgonu liczyłby około 60 lat, ale są to jakieś przybliżenia, brak w wyniku określenia 'około'"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mękarzów",
+            "note": "ówczesny powiat lelowski",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Koloszwarze",
+            "note": "obecnie Cluj",
+            "result": true,
+            "pj_note": "ale błędna odmiana nazwy"
+        },
+        "place_of_burial": {
+            "place": "Koloszwarze",
+            "note": "główny kościół unitariański",
+            "result": true,
+            "pj_note": "ale błędna odmiana nazwy"
+        },
+        "date_of_birth": {
+            "date": "1627",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1691",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1691-08-06"
+        },
+        "date_of_burial": {
+            "date": "niedostępne",
+            "result": true,
+            "pj_note":"ale oczekiwanym wynikiem w taki przypadku jest: brak danych"
+        }
+    }
+]

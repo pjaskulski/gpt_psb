@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "kościół p. wezw. Świętej Trójcy (Dominikanów)",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1552-09",
+            "result": true,
+            "pj_note": "brak określenia: 'prawdopodobnie'"
+        },
+        "date_of_death": {
+            "date": "1609",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1609-03-30"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

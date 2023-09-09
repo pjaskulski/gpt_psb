@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "gub. augustowska",
+            "result": false,
+            "pj_note": "w biogramie jest: pochodził ... z gub. augustowskiej, ale to nie jest miejsce urodzenia"
+        },
+        "place_of_death": {
+            "place": "San Remo",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1833",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1881",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1881-11-19"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

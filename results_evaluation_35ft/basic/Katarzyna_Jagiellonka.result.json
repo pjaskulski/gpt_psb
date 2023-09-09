@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Uppsala",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Uppsala",
+            "note": "w podziemiach katedry w Uppsali, w kaplicy nagrobnej",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1526-11-01",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1583",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1583-09-16"
+        },
+        "date_of_burial": {
+            "date": "NNNN",
+            "result": false,
+            "pj_note": "być może to jakiś sposób na zapisanie baku danych, ale oczekiwanym wynikiem był 'brak danych'"
+        }
+    }
+]

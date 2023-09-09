@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Ciechomice",
+            "note": "zob.",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "zm. 1457",
+            "result": false,
+            "pj_note": "to data śmierci"
+        },
+        "date_of_death": {
+            "date": "brak danych",
+            "result": false
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

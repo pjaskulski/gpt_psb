@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zalesie",
+            "note": "brak danych"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1440",
+            "note": "prawdopodobnie na krótko przed tą datą"
+        },
+        "date_of_death": {
+            "date": "1495-01-01",
+            "note": "lub 1496"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

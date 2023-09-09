@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Humano",
+            "note": "gub. kijowska",
+            "result": true,
+            "pj_note": "ale z błędną formą, powinno być: Humań"
+        },
+        "place_of_death": {
+            "place": "Nowy Jork",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1858-05-05",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1925-03-15",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

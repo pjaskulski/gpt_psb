@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zamość"
+        },
+        "place_of_death": {
+            "place": "Brody"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1700"
+        },
+        "date_of_death": {
+            "date": "1772"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

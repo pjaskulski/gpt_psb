@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kalisz",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Praz-Contant",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Paryż",
+            "note": "cmentarz Montmartre",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1926-05-16",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1973-03-02",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1973-03-06",
+            "note": "6 III",
+            "result": true
+        }
+    }
+]

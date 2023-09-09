@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Tuhanowicze",
+            "note": "powiat nowogródzki",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Brażelce",
+            "note": "",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Bieniakonie",
+            "note": "przy kościele parafialnym",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1799-12-24",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1863-12-28",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "kościół p. wezw. Świętej Trójcy (Dominikanów)"
+        },
+        "date_of_birth": {
+            "date": "1552-09"
+        },
+        "date_of_death": {
+            "date": "1609"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

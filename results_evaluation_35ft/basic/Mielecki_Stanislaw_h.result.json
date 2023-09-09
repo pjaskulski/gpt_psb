@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mielec",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Mielec",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1470",
+            "result": true,
+            "pj_note": "ale brak okreśelnia: około"
+        },
+        "date_of_death": {
+            "date": "1532",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1532-01-31"
+        },
+        "date_of_burial": {
+            "date": "1532",
+            "result": false
+        }
+    }
+]

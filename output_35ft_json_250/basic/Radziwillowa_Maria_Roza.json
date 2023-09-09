@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Paryż"
+        },
+        "place_of_death": {
+            "place": "Nieśwież"
+        },
+        "place_of_burial": {
+            "place": "Rzym",
+            "note": "Campo Verano"
+        },
+        "date_of_birth": {
+            "date": "1863-10-08"
+        },
+        "date_of_death": {
+            "date": "1941"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

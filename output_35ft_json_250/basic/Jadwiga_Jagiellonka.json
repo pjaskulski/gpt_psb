@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków",
+            "note": "na Wawelu"
+        },
+        "place_of_death": {
+            "place": "Burghausen",
+            "note": "zamku"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1457-09-21"
+        },
+        "date_of_death": {
+            "date": "1502-02-18"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

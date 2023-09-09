@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Winsen",
+            "note": "Niemcy"
+        },
+        "place_of_death": {
+            "place": "Przemyśl",
+            "note": "Polska"
+        },
+        "place_of_burial": {
+            "place": "Przemyśl",
+            "note": "Polska"
+        },
+        "date_of_birth": {
+            "date": "1377"
+        },
+        "date_of_death": {
+            "date": "1391"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

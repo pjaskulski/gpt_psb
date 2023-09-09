@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Władysławowo",
+            "note": "koło Konina",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Łódź",
+            "note": "m.",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Łódź",
+            "note": "cmentarz katolicki przy ulicy Ogrodowej",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1814-10-13",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1904-01-17",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

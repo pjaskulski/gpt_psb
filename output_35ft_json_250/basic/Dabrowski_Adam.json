@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zaklików",
+            "note": "powiat lubelski, Królestwo Polskie"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1848"
+        },
+        "date_of_death": {
+            "date": "1920"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

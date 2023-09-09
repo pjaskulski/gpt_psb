@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dziawołtów",
+            "note": "nad rzeką Świętą",
+            "result": false,
+            "pj_note": "pisał się z tej miejscowości, ale to nie oznacza że tam się urodził"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "po 1459-04-02",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

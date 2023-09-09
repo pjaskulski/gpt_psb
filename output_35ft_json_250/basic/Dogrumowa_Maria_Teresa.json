@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Holandia",
+            "note": "według różnych relacji"
+        },
+        "place_of_death": {
+            "place": "Sieniawa",
+            "note": ""
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "brak danych"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

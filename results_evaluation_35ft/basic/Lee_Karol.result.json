@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dernhall",
+            "note": "Cheshire, Anglia",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Filadelfia",
+            "note": "USA",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1731",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1782",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1782-10-02"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

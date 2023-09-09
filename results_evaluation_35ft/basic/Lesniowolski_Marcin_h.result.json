@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Piotrków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1593",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1593-01-16" 
+        },
+        "date_of_burial": {
+            "date": "1593-03-09",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mąkolino",
+            "note": "wsi biskupów płockich w ziemi wyszogrodzkiej na Mazowszu",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Pułtusk",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Pułtusk",
+            "note": "w kolegiacie",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1498",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1576",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1576-12-30"
+        },
+        "date_of_burial": {
+            "date": "1576",
+            "note": "30 XII",
+            "result": false,
+            "pj_note": "biogram nie podaje daty pochówku, podana data jest datą śmierci"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Toruń"
+        },
+        "place_of_death": {
+            "place": "Frombork"
+        },
+        "place_of_burial": {
+            "place": "Frombork"
+        },
+        "date_of_birth": {
+            "date": "1473-02-19"
+        },
+        "date_of_death": {
+            "date": "1543-05-24"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Frysztak",
+            "note": "w powiecie jasielskim",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Katowice",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1867",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1927-11-09",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

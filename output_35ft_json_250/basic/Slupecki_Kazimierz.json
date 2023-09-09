@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Zakroczym",
+            "note": "powiat wyszogrodzki"
+        },
+        "place_of_death": {
+            "place": "Falecin",
+            "note": ""
+        },
+        "place_of_burial": {
+            "place": "Falecin",
+            "note": "cmentarz parafialny"
+        },
+        "date_of_birth": {
+            "date": "1782-03-04"
+        },
+        "date_of_death": {
+            "date": "1832-12-16"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

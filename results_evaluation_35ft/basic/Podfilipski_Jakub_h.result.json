@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Podfilipie",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "ok. 1518",
+            "result": true,
+            "pj_note": "ale to inna data niż znalazł gpt-4, w biogramie są trzy warianty: ok. 1518 lub na przełomie 1517/1518, a na pewno przed 15 III 1518"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dalewice",
+            "note": "Dalowic, Ćmielowa, Wronowa",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1350-07-01",
+            "note": "około połowy XIV w.",
+            "result": false,
+            "pj_nota": "biogram nie podaje daty ale właśnie to co w polu 'note', wyciąganie tego daty dokładnej to nadinterpretacja"
+        },
+        "date_of_death": {
+            "date": "1406-01-01",
+            "result": false,
+            "pj_note": "biogram podaje tylko rok, rok się zgadza, ale data dzienna to nadinterpretacja"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

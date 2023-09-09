@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Babimost",
+            "note": "lub Poznań",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz ewangelicki",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1762",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1830",
+            "result": true,
+            "pj_note": "w biogramie jest dokładniej: 1830-05-21"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

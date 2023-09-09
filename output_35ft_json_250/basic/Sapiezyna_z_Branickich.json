@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Kodnia"
+        },
+        "place_of_burial": {
+            "place": "Kodnia"
+        },
+        "date_of_birth": {
+            "date": "1734"
+        },
+        "date_of_death": {
+            "date": "1800"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

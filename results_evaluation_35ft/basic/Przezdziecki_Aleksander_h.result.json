@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Wilno",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1665",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1733/4",
+            "result": true,
+            "pj_note": "biograme podaje 1733/4 ale też: Zmarł przed 24 X 1734..."
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

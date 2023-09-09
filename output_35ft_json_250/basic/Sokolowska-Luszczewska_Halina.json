@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Żytomierz"
+        },
+        "place_of_death": {
+            "place": "Skolimów",
+            "note": "Schronisko Artystów Weteranów Scen Polskich"
+        },
+        "place_of_burial": {
+            "place": "Skolimów",
+            "note": "cmentarz parafialny"
+        },
+        "date_of_birth": {
+            "date": "1895-12-30"
+        },
+        "date_of_death": {
+            "date": "1970-11-17"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

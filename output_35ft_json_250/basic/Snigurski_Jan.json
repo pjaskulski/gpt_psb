@@ -1,0 +1,28 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Brześciany",
+            "note": "powiat samborski"
+        },
+        "place_of_death": {
+            "place": "Przemyśl",
+            "note": ""
+        },
+        "place_of_burial": {
+            "place": "Przemyśl",
+            "note": "początkowo cmentarz komunalny, obecnie archikatedra greckokatolicka"
+        },
+        "date_of_birth": {
+            "date": "1784-05-18",
+            "note": ""
+        },
+        "date_of_death": {
+            "date": "1847-09-24",
+            "note": ""
+        },
+        "date_of_burial": {
+            "date": "1847-10-07",
+            "note": "ekshumacja; początkowo cmentarz komunalny, obecnie archikatedra greckokatolicka"
+        }
+    }
+]

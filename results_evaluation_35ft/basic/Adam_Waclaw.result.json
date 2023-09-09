@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Cieszyn",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Cieszyn",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Cieszyn",
+            "note": "kościół dominikanów",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1574-12-12",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1617-07-13",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "1618-04-04",
+            "note": "pierwotnie ciało złożono na zamku",
+            "result": true
+        }
+    }
+]

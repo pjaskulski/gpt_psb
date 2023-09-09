@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dubienka",
+            "note": "w Lubelskiem"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "miejsce pochówku głównego bohatera/bohaterki"
+        },
+        "date_of_birth": {
+            "date": "1843-09-10"
+        },
+        "date_of_death": {
+            "date": "1909-02-11"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

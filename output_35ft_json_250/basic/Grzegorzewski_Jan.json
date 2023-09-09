@@ -1,0 +1,26 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Szulejki",
+            "note": "wioska kolokacyjna"
+        },
+        "place_of_death": {
+            "place": "Lwów",
+            "note": ""
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1846-01-01",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1922-11-15",
+            "note": ""
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

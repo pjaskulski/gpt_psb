@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "Kalisz"
+        },
+        "date_of_birth": {
+            "date": "1126"
+        },
+        "date_of_death": {
+            "date": "1202"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

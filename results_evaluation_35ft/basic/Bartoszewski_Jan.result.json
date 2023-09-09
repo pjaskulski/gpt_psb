@@ -1,0 +1,28 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Lwów",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Lwów",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1852-01-18",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1920-12-13",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

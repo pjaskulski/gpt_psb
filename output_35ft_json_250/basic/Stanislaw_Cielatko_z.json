@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Liszyn",
+            "note": "powiat płocki"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1451"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

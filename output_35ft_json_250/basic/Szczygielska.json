@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków"
+        },
+        "place_of_death": {
+            "place": "Praga"
+        },
+        "place_of_burial": {
+            "place": "Praga",
+            "note": "cmentarz"
+        },
+        "date_of_birth": {
+            "date": "1866-12-26"
+        },
+        "date_of_death": {
+            "date": "1913-12",
+            "note": "kilka dni po pogrzebie męża"
+        },
+        "date_of_burial": {
+            "date": "1913-12",
+            "note": "kilka dni po pogrzebie męża"
+        }
+    }
+]

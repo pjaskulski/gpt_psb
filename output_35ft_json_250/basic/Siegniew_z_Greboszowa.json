@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Gręboszów",
+            "note": "h. Półkozic"
+        },
+        "place_of_death": {
+            "place": "Śląsk",
+            "note": "obecnie brak dokładnych danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1372"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

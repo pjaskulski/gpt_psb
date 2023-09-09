@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Petersburg",
+            "note": "seminarium duchowne",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "szpital Dzieciątka Jezus",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Ząbki",
+            "note": "cmentarz",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1868",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1922",
+            "result": true,
+            "pj-note": "w biogramie jest dokładna data: 1922-01-19"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

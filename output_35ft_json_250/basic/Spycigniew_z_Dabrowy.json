@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dąbrowa Zielona"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1255-01-01",
+            "note": "między 1255 a 1257"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

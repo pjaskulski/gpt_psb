@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true,
+            "pj_note": "gpt-4 podał w tym miejscu Polska, co jest zbyt ogólnym określeniem, a realnie miejsce śmierci postaci nie jest znane"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "986",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1031",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

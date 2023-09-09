@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Ludwiszcze",
+            "note": "powiat krzemieniecki"
+        },
+        "place_of_death": {
+            "place": "Kołki",
+            "note": "powiat starokonstantynowski"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1795"
+        },
+        "date_of_death": {
+            "date": "1862"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

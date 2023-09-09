@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Rogowo",
+            "note": "wieś w Polsce",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "katedra na Wawelu",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1399-12-31",
+            "note": "prawdopodobnie na przełomie XIV i XV w.",
+            "result": false,
+            "pj_note": "data jest nadinterpretacją określenia z pola 'note'"
+        },
+        "date_of_death": {
+            "date": "1473-12-31",
+            "result": false
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

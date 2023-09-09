@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mielec"
+        },
+        "place_of_death": {
+            "place": "Kraków"
+        },
+        "place_of_burial": {
+            "place": "Mielec"
+        },
+        "date_of_birth": {
+            "date": "1470"
+        },
+        "date_of_death": {
+            "date": "1532"
+        },
+        "date_of_burial": {
+            "date": "1532"
+        }
+    }
+]

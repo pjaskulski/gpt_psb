@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Krzeszowice",
+            "note": "koło Krakowa",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "note": "",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "cmentarz Salwatorski",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1891-08-06",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1974-07-27",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

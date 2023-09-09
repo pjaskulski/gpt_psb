@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Słonków",
+            "note": "w diec. gnieźnieńskiej"
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "note": "woj. małopolskie"
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1658"
+        },
+        "date_of_death": {
+            "date": "1658"
+        },
+        "date_of_burial": {
+            "date": "1658-05-11"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Sosnowiec",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Wojskowy na Powązkach",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1911-12-05",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "2000-01-01",
+            "result": false,
+            "pj_note": "błędna data dzienna, powinno być: 2000-07-06"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": false
+        }
+    }
+]

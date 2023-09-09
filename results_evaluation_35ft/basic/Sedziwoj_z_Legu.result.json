@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Łęg Kościelny",
+            "note": "w pow. bielskim na Mazowszu płockim",
+            "result": false,
+            "pj_note": "pochodziłm pisał się z Łęgu, ale to nie jest jednoznaczne z miejscem urodzenia"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "zm. 1442",
+            "result": false,
+            "pj_note": "to data śmierci"
+        },
+        "date_of_death": {
+            "date": "brak danych",
+            "result": false,
+            "pj_note": "jest podana: 1442, model odczytał ją jako datę urodzenia, biogram podaje nawet datę dzienną: 1442-11-15"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

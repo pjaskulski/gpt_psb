@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Paryż",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1865",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1947",
+            "result": true,
+            "pj_note": "ale w biogramie jest dokładniejsza data: 1947-02-13"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

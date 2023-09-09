@@ -1,0 +1,33 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Winsen",
+            "note": "Niemcy",
+            "result": false,
+            "pj_note":"to tylko inf. skąd pisał się bohater: Eryk z Winsen"
+        },
+        "place_of_death": {
+            "place": "Przemyśl",
+            "note": "Polska",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Przemyśl",
+            "note": "Polska",
+            "result": false
+        },
+        "date_of_birth": {
+            "date": "1377",
+            "result": false
+        },
+        "date_of_death": {
+            "date": "1391",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładnej: 1391-09-08"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

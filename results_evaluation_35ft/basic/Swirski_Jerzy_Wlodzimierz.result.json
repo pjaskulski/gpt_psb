@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kalisz",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Londyn",
+            "note": "Brompton Cemetery",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1882-04-05",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1959-01-01",
+            "result": false,
+            "pj_note": "data dzienna nie jest prawdziwa, biogram podaje dokładną datę: 12 VI 1959"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

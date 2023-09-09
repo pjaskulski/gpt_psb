@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Jaśniszcze",
+            "note": "koło Podkamienia",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1838-08-23",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1887-03-18",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

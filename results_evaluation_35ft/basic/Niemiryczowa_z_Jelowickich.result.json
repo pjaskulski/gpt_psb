@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Ożenin",
+            "note": "w powiecie ostrogskim",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1700",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1780",
+            "note": "około",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

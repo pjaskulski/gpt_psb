@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kosucie"
+        },
+        "place_of_death": {
+            "place": "Jassy"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1672-10-22"
+        },
+        "date_of_death": {
+            "date": "1742-05-24"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

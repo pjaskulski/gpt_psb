@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kampen",
+            "note": "w mieście Kampen"
+        },
+        "place_of_death": {
+            "place": "Fryburg",
+            "note": "we Fryburgu (w Brysgowii)"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1490",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1538"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

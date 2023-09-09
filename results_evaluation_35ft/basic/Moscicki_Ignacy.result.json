@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mierzanowo",
+            "note": "powiat Ciechanów",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Versoix",
+            "note": "pod Genewą",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1867-12-01",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1946-10-02",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

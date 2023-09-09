@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Mostowlany",
+            "note": "powiat wołkowyski, gubernia grodzieńska",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Wilno",
+            "note": "obecnie Wilno, Litwa",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1838-01-21",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1864-03-22",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

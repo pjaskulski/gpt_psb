@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Czechowo",
+            "note": "powiat gnieźnieński"
+        },
+        "place_of_death": {
+            "place": "Lwów",
+            "note": "obecnie Ukraina"
+        },
+        "place_of_burial": {
+            "place": "Lwów",
+            "note": "obecnie Ukraina"
+        },
+        "date_of_birth": {
+            "date": "zm. 1575"
+        },
+        "date_of_death": {
+            "date": "brak danych"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

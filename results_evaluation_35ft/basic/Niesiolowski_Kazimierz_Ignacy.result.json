@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Pomorze",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1676",
+            "result": true,
+            "pj_note": "ale brak określenia 'około'"
+        },
+        "date_of_death": {
+            "date": "1752",
+            "result": true,
+            "pj_note": "ale brak określenia 'po'"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

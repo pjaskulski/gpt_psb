@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Sądecka",
+            "note": "drobna szlachta",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1350",
+            "note": "druga poł. XIV w.",
+            "result": false
+        },
+        "date_of_death": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

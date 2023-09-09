@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Gdów"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1130"
+        },
+        "date_of_death": {
+            "date": "1190"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Albertyn",
+            "note": "w pow. słonimskim"
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "zmarła"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Komunalny Północny"
+        },
+        "date_of_birth": {
+            "date": "1908-07-27"
+        },
+        "date_of_death": {
+            "date": "1989-10-31"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

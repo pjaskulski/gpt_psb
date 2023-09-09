@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Garbowo",
+            "result": false,
+            "pj_note": "to tylko informacja, iż pisał się z Garbowa"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1453",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

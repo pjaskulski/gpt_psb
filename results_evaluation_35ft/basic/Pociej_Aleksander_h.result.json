@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Wilno",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Wilno",
+            "note": "kaplica grobowa Pociejów w kościele dominikańskim Św. Ducha",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1770",
+            "result": true,
+            "pj_note": "w biogramie podane jest dokładniejsza data: 1770-03"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

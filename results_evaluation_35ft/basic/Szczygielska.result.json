@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Praga",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Praga",
+            "note": "cmentarz",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1866-12-26",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1913-12",
+            "note": "kilka dni po pogrzebie męża",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1913-12-27"
+        },
+        "date_of_burial": {
+            "date": "1913-12",
+            "note": "kilka dni po pogrzebie męża",
+            "result": false
+        }
+    }
+]

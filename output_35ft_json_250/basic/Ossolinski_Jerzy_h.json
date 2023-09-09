@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Sandomierz"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Klimontów"
+        },
+        "date_of_birth": {
+            "date": "1595-12-15"
+        },
+        "date_of_death": {
+            "date": "1650-08-09"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

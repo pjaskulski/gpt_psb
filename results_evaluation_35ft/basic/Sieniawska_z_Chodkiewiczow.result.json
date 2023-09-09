@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Lwów",
+            "note": "kościół Dominikanów",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1633",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1633-04"
+        },
+        "date_of_burial": {
+            "date": "1633-05-12",
+            "result": true
+        }
+    }
+]

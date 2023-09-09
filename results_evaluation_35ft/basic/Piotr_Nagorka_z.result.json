@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Grąbec",
+            "note": "h. Bolesta",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Awinion",
+            "note": "",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1361",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

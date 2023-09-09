@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Toruń"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "Lubawa"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1514-02-02"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

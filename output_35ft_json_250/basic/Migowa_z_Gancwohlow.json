@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Będzin"
+        },
+        "place_of_death": {
+            "place": "brak danych"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1890-05-19"
+        },
+        "date_of_death": {
+            "date": "1942-07-22"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

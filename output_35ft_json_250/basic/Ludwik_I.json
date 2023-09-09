@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Brzeg"
+        },
+        "place_of_death": {
+            "place": "Brzeg"
+        },
+        "place_of_burial": {
+            "place": "Brzeg"
+        },
+        "date_of_birth": {
+            "date": "1311-01-01",
+            "note": "lub 1316"
+        },
+        "date_of_death": {
+            "date": "1398-12-23"
+        },
+        "date_of_burial": {
+            "date": "1398-12-23"
+        }
+    }
+]

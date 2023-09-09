@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Babimost",
+            "note": "lub Poznań"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz ewangelicki"
+        },
+        "date_of_birth": {
+            "date": "1762",
+            "note": "około"
+        },
+        "date_of_death": {
+            "date": "1830"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Warszawa",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Paryż",
+            "result": false
+        },
+        "place_of_burial": {
+            "place": "Paryż",
+            "result": false
+        },
+        "date_of_birth": {
+            "date": "1770-01-14",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1861-00-00",
+            "result": true,
+            "pj_note": "w biogramie jest dokładniejsza data: 1861-07-15"
+        },
+        "date_of_burial": {
+            "date": "1861-00-00",
+            "result": false,
+            "pj_note": "w biogramie brak informacji o dacie pochówku"
+        }
+    }
+]

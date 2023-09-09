@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Tomsk",
+            "result": false,
+            "pj_note": "to nadinterpretacja, jest tylko napisane że został zesłany do Tomska i tam żył jeszcze w 1669 roku"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1669",
+            "result": false,
+            "pj_note": "brakuje dodatkowego określenia 'po'"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

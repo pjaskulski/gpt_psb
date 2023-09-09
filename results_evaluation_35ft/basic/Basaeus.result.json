@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Szczebrzeszyn",
+            "result": false,
+            "pj_note": "to że pisał się ze Szczebrzeszyna nie znaczy że na pewno się tam urodził"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Dobra",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Radogoszcza",
+            "note": "Dobrej",
+            "result": true,
+            "pj_note": "ale błędna odmiana: Radogoszcz"
+        },
+        "date_of_birth": {
+            "date": "1839",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1863",
+            "result": true,
+            "pj_note": "w biogramie jest dokładniej: 1863-02-24"
+        },
+        "date_of_burial": {
+            "date": "1863-02-28",
+            "note": "Dobra",
+            "result": true
+        }
+    }
+]

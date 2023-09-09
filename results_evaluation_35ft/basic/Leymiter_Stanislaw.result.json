@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Kraków",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Kraków",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Kraków",
+            "note": "cmentarz mariacki",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1462",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1462-01-15"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

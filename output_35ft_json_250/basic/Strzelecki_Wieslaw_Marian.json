@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Brudzewice"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Magdalenka",
+            "note": "cmentarz"
+        },
+        "date_of_birth": {
+            "date": "1929-07-02"
+        },
+        "date_of_death": {
+            "date": "1986-11-02"
+        },
+        "date_of_burial": {
+            "date": "1986-11-06",
+            "note": "cmentarz"
+        }
+    }
+]

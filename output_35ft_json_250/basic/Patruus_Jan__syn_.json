@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Chwaliszewo"
+        },
+        "place_of_death": {
+            "place": "Poznań"
+        },
+        "place_of_burial": {
+            "place": "Poznań",
+            "note": "katedra poznańska"
+        },
+        "date_of_birth": {
+            "date": "1500"
+        },
+        "date_of_death": {
+            "date": "1583"
+        },
+        "date_of_burial": {
+            "date": "NN"
+        }
+    }
+]

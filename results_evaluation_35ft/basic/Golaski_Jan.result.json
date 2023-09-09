@@ -1,0 +1,29 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "łowicki",
+            "result": false,
+            "pj_note": "przeżył jeszcze lat dziewięć w kolegium łowickim, gdzie zmarł - model był blisko"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1745-02-04",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1807",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

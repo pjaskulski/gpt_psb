@@ -1,0 +1,22 @@
+[
+    {
+        "place_of_birth": {
+            "place": "brak danych"
+        },
+        "place_of_death": {
+            "place": "łowicki"
+        },
+        "place_of_burial": {
+            "place": "brak danych"
+        },
+        "date_of_birth": {
+            "date": "1745-02-04"
+        },
+        "date_of_death": {
+            "date": "1807"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

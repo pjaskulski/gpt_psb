@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Stawy",
+            "note": "koło Janowa Podlaskiego",
+            "result": false,
+            "pj_note": "to nazwa rodzinnych dóbr"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "brak danych",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1490-01-01",
+            "result": false,
+            "pj_note": "data dzienna to nadinterpretacja, biogram podaje: między 7 III 1490 a 2 XII 1491"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

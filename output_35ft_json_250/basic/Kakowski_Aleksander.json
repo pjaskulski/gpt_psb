@@ -1,0 +1,24 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Dębiny",
+            "note": "w powiecie przasnyskim"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "Na Bródnie"
+        },
+        "date_of_birth": {
+            "date": "1862-02-05"
+        },
+        "date_of_death": {
+            "date": "1938-12-30"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

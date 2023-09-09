@@ -1,0 +1,33 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Wołyń",
+            "note": "prawdopodobnie",
+            "result": false,
+            "pj_note": "to nie jest miejsce urodzenia a region pochodzenia"
+        },
+        "place_of_death": {
+            "place": "Żurawno",
+            "note": "zapewne",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Lwów",
+            "note": "w kościele Bernardynów",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1618",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1664",
+            "result": true,
+            "pj_note": "ale biogram podaje dokładniej: 1664-06-03"
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

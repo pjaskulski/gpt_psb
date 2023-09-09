@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Jezierzanach",
+            "result": true,
+            "pj_note": "ale niepoprawna odmiana, powinno być: Jezierzany"
+        },
+        "place_of_death": {
+            "place": "Wiedniu",
+            "result": true,
+            "pj_note": "ale niepoprawna odmiana, powinno być: Wiedeń"
+        },
+        "place_of_burial": {
+            "place": "brak danych",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1830-04-19",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1918-04-24",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_of_birth": {
+            "place": "ziemia czerska",
+            "result": false,
+            "pj_note": "ta informacja jest prawdziwa, ale to nie jest miejsce urodzenia"
+        },
+        "place_of_death": {
+            "place": "brak danych",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Wąchock",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1603",
+            "note": "około",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1675",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

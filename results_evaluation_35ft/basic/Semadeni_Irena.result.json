@@ -1,0 +1,31 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Hołuzja",
+            "note": "na Wołyniu",
+            "result": true
+        },
+        "place_of_death": {
+            "place": "Warszawa",
+            "note": "w Polsce",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "cmentarz Ewangelicko-Reformowany przy ulicy Żytniej",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1901-05-05",
+            "result": true
+        },
+        "date_of_death": {
+            "date": "1984-04-08",
+            "result": true
+        },
+        "date_of_burial": {
+            "date": "brak danych",
+            "result": true
+        }
+    }
+]

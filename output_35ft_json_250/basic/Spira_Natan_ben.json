@@ -1,0 +1,25 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Praga",
+            "note": "Czechy"
+        },
+        "place_of_death": {
+            "place": "Grodno",
+            "note": "Białoruś"
+        },
+        "place_of_burial": {
+            "place": "Grodno",
+            "note": "Białoruś"
+        },
+        "date_of_birth": {
+            "date": "brak danych"
+        },
+        "date_of_death": {
+            "date": "1577"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]

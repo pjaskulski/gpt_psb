@@ -1,0 +1,32 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Chwaliszewo",
+            "result": false
+        },
+        "place_of_death": {
+            "place": "Poznań",
+            "result": true
+        },
+        "place_of_burial": {
+            "place": "Poznań",
+            "note": "katedra poznańska",
+            "result": true
+        },
+        "date_of_birth": {
+            "date": "1500",
+            "result": true,
+            "pj_note": "ale brak określenia 'około'"
+        },
+        "date_of_death": {
+            "date": "1583",
+            "result": true,
+            "pj_note": "biogram podaje dokładniej: 1583-04-19"
+        },
+        "date_of_burial": {
+            "date": "NN",
+            "result": true,
+            "pj_note":"zakładając że chodzi o brak danych, ale błędny format odpowiedzi"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "place_of_birth": {
+            "place": "Racibórz"
+        },
+        "place_of_death": {
+            "place": "Warszawa"
+        },
+        "place_of_burial": {
+            "place": "Warszawa",
+            "note": "Cytadela Warszawska"
+        },
+        "date_of_birth": {
+            "date": "1840"
+        },
+        "date_of_death": {
+            "date": "1865"
+        },
+        "date_of_burial": {
+            "date": "brak danych"
+        }
+    }
+]
