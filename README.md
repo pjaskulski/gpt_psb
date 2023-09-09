@@ -1,6 +1,20 @@
 # Extraction of information from biographies of historical figures with scripts using the GPT-4 model through an API
 (Polish version below: [link](#ekstrakcja-informacji-z-biogram%C3%B3w-postaci-historycznych-za-pomoc%C4%85-skrypt%C3%B3w-wykorzystuj%C4%85cych-model-gpt-4-przez-api))
 
+- [Introduction](#introduction)
+- [Basic information](#basic-information)
+- [Family Relations (of the main protagonist of the biogram)](#family-relations-of-the-main-protagonist-of-the-biogram)
+- [Searching for 'important persons' in the biography of the protagonist](#searching-for-important-persons-in-the-biography-of-the-protagonist)
+- [Searching for locations associated with the protagonist of the biogram](#searching-for-locations-associated-with-the-protagonist-of-the-biogram)
+- [Institutions associated with the protagonist](#institutions-associated-with-the-protagonist)
+- [Searching for roles and positions of the biogram protagonist](#searching-for-roles-and-positions-of-the-biogram-protagonist)
+- [Remarks](#remarks)
+- [Analysis of Result Accuracy](#analysis-of-result-accuracy)
+    - [Basic Data](#basic-data)
+
+
+## Introduction
+
 A sample of 250 biograms from the Polish Biographical Dictionary was processed by the GPT-4 model (via API) to extract several types of information using appropriately constructed prompts. Types of expected information:
 
 Basic details (date of birth, place of birth, date of death, place of death, date of burial, place of burial)
@@ -22,7 +36,7 @@ In the emb_psb_250 directory, there are sample files containing embeddings prepa
 
 The GPT-4 model, which can handle a context of up to 8,000 tokens, is used for processing (the 32k version of the model that handles texts 4 times larger is not yet widely available). 256 tokens have been reserved for the response (it later turned out that this parameter should be increased for basic information, e.g., to 400, and even more for other data). The prompt template for extracting basic information (passed to the model each time along with the biogram content) is 1,150 tokens long (prompts for other types of information may vary, but usually, it's about 900-1,200 tokens). As a result, approximately 6,200 tokens are left for the biogram content to be analyzed. In English, a token corresponds to an average of 4 characters of text; due to characters outside the Latin alphabet, this number is smaller for texts in Polish, leading to higher processing costs. **The limitation in context size (processed biogram content) is significant due to the length of the biograms**; in the analyzed sample, 39 out of 250 exceed the mentioned 6,200 tokens, sometimes significantly - the biogram of Stanisław August Poniatowski is 78,000 tokens. This necessitated either processing the biograms divided into sections or initially shortening the biograms so that they mainly contained fragments (sentences) with the information the model would be seeking. **Another reason for shortening the biograms could be the cost of using the GPT-4 model, which is relatively high**. (The test described here, on a sample of 250 biographies, was mostly funded by the Digital Research Infrastructure for the Arts and Humanities (DARIAH-PL) project conducted at the Institute of History of the Polish Academy of Sciences.)
 
-## Basic Details
+## Basic information
 
 Since the basic information about the protagonist of the biogram is usually found in the first few and the last dozen or so sentences, this very simple method of limiting context size was adopted - the biogram is divided into sentences (using the spaCy library, model pl_core_news_md) and shortened to the first 10 and last 15 sentences (for a few very long biograms, 35 last sentences were taken). To reduce costs, this shortening procedure was applied to all biograms longer than 25 sentences, which proved to be effective (there were no issues with context size). However, it could lead to worse outcomes - **in some biograms, for instance, information about the exact date of death appeared in the middle of the biogram, not at the end, necessitating re-processing**. The processing results were saved in files in the JSON format (a separate file for each biogram).
 
@@ -285,6 +299,19 @@ In August 2023, OpenAI made it possible to fine-tune the gpt-3.5-turbo model, an
 ---
 
 # Ekstrakcja informacji z biogramów postaci historycznych za pomocą skryptów wykorzystujących model GPT-4 przez API
+
+ - [Wprowadzenie](#wprowadzenie)
+ - [Dane podstawowe](#dane-podstawowe)
+ - [Relacje rodzinne (głównego bohatera biogramu)](#relacje-rodzinne-głównego-bohatera-biogramu)
+ - [Wyszukiwanie 'ważnych osób' w biografii bohatera/bohaterki](#wyszukiwanie-ważnych-osób-w-biografii-bohaterabohaterki)
+ - [Wyszukiwanie miejscowości związanych z bohaterem/bohaterką biogramu](#wyszukiwanie-miejscowości-związanych-z-bohaterembohaterką-biogramu)
+ - [Instytucje związane z bohaterem/bohaterką](#instytucje-związane-z-bohaterembohaterką)
+ - [Wyszukiwanie funkcji i urzędów bohatera/bohaterki biogramu](#wyszukiwanie-funkcji-i-urzędów-bohaterabohaterki-biogramu)
+ - [Uwagi](#uwagi)
+ - [Analiza poprawności wyników](#analiza-poprawności-wyników)
+    - [Dane podstawowe](#dane-podstawowe-1)
+
+## Wprowadzenie
 
 Próbka 250 biogramów z Polskiego Słownika Biograficznego została przetworzona przez model GPT-4 (przez API) w celu wydobycia kilku rodzajów informacji za pomocą odpowiednio skonstruowanych promptów. Rodzaje oczekiwanych informacji:
 - dane podstawowe (data urodzenia, miejsce urodzenia, data śmierci, miejsce śmierci, data pochówku, miejsce pochówku)
