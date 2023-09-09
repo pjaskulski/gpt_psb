@@ -515,7 +515,7 @@ Dla każdej z 6 rodzajów informacji z osobna wyniki wyglądają następująco:
 - data śmierci: poprawnie: 247 niepoprawnie: 3
 - data pochówku: poprawnie: 246 niepoprawnie: 4
 
-Duża część informacji pobranych z biogramów to "brak danych": 639 z 1500 (42.6%), takich informacji - szczególnie w biogramach postaci ze starszych okresów - po prostu brakuje. Liczba faktycznie znalezionych informacji dla każdej z kategorii informacji:
+Duża część informacji pobranych z biogramów to "brak danych": 639 z 1500 (42.6%), takich informacji - szczególnie w biogramach postaci ze starszych okresów - po prostu brakuje. Liczba faktycznie znalezionych informacji (czyli pomijając "brak danych") dla każdej z kategorii informacji:
 
 - Miejsce urodzenia: znaleziono dla 154 z 250 postaci (61.6%)
 - Miejsce śmierci: dla 160 (64%)
@@ -524,7 +524,7 @@ Duża część informacji pobranych z biogramów to "brak danych": 639 z 1500 (4
 - Data śmierci: 230 (92%)
 - Data pochówku: 26 (10.4%)
 
-Jeżeli brać pod uwagę tylko te informacje, które udało się znaleźć (czyli pomijając braki danych), skuteczność modelu gpt-4 po wygląda następująco:
+Jak wygląda poprawność modelu gpt-4, jeżeli brać pod uwagę tylko te informacje, które udało się znaleźć (czyli pomijając "brak danych"), skuteczność modelu gpt-4 po wygląda następująco:
 
 | Rodzaj informacji | Znaleziono | Poprawnie    |
 | ---               | ---        | ---          |
@@ -535,3 +535,15 @@ Jeżeli brać pod uwagę tylko te informacje, które udało się znaleźć (czyl
 | Data śmierci      | 230        | 229 (99.57%) |
 | Data pochówku     | 26         | 23 (88.46%)  |
 | Ogółem            | 861        | 808 (93.84%) |
+
+Z kolei badając tylko przypadki braku danych, poprawność wyników zwracanych przez model, jest jeszcze większa:
+
+| Rodzaj danych     | Brak danych dla | Poprawnie    |
+| ---               | ---             | ---          |
+| Miejsce urodzenia | 96              | 95 (98.96%)  |
+| Miejsce śmierci   | 90              | 88 (97.78%)  |
+| Miejsce pochówku  | 139             | 137 (98.56%) |
+| Data urodzenia    | 70              | 65 (92.86%)  |
+| Data śmierci      | 20              | 17 (85.00%)  |
+| Data pochówku     | 224             | 223 (99.55%) |
+| Ogółem            | 639             | 625 (97.81%) |
