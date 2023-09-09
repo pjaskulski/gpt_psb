@@ -280,6 +280,8 @@ Meanwhile, examining only the cases of no data, the accuracy of the results retu
 | Burial date    | 224     | 223 (99.55%) |
 | Total          | 639     | 625 (97.81%) |
 
+In August 2023, OpenAI made it possible to fine-tune the gpt-3.5-turbo model, and there were opinions that this model, when trained for specific tasks, can match the quality of results of the gpt-4 model. It was decided to verify whether this is actually the case for tasks related to extracting information from texts. The results are available in a separate project: [link](https://github.com/pjaskulski/gpt_historical_text/blob/main/README.md#przetwarzanie-250-biogram%C3%B3w-modelem-gpt-35-turbo-po-fine-tuningu)
+
 ---
 
 # Ekstrakcja informacji z biogramów postaci historycznych za pomocą skryptów wykorzystujących model GPT-4 przez API
@@ -571,3 +573,5 @@ Z kolei badając tylko przypadki braku danych, poprawność wyników zwracanych 
 | Data śmierci      | 20              | 17 (85.00%)  |
 | Data pochówku     | 224             | 223 (99.55%) |
 | Ogółem            | 639             | 625 (97.81%) |
+
+Ponieważ w sierpniu 2023 firma OpenAI udostępniła możliwość douczania (fine-tuningu) modelu gpt-3.5-turbo i pojawiły się opinie, że model ten przyuczony do konkretnych zadań może dorównywać w jakości wyników modelowi gpt-4 postanowiono zweryfikować czy tak faktycznie jest w przypadku zadań dotyczących ekstrakcji informacji z tekstów. Wyniki dostępne są w osobnym projekcie: [link](https://github.com/pjaskulski/gpt_historical_text/blob/main/README.md#przetwarzanie-250-biogram%C3%B3w-modelem-gpt-35-turbo-po-fine-tuningu).
