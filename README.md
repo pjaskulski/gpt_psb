@@ -247,7 +247,7 @@ Date of birth: correct: 243, incorrect: 7
 Date of death: correct: 247, incorrect: 3
 Date of burial: correct: 246, incorrect: 4
 
-A large portion of the information extracted from biographies is "no data": 485 out of 1500. Such information is simply missing, especially in biographies of figures from older periods. The number of pieces of information found for each category:
+A large portion of the information extracted from biographies is "no data": 639 out of 1500. Such information is simply missing, especially in biographies of figures from older periods. The number of pieces of information found for each category:
 
 Place of birth: found for 154 out of 250 people (61.6%)
 Place of death: for 160 (64%)
@@ -255,6 +255,30 @@ Place of burial: 111 (44.4%)
 Date of birth: 180 (72%)
 Date of death: 230 (92%)
 Date of burial: 26 (10.4%)
+
+How does the accuracy of the GPT-4 model look if we only consider the information that was found (i.e., excluding "no data")? The effectiveness of the GPT-4 model looks as follows:
+
+| Type of information | Found | Correct      |
+| ---                 | ---   | ---          |
+| Place of birth      | 154   | 137 (88.96%) |
+| Place of death      | 160   | 141 (88.12%) |
+| Burial place        | 111   | 101 (90.99%) |
+| Date of birth       | 180   | 177 (98.33%) |
+| Date of death       | 230   | 229 (99.57%) |
+| Burial date         | 26    | 23 (88.46%)  |
+| Total	              | 861   | 808 (93.84%) |
+
+Meanwhile, examining only the cases of no data, the accuracy of the results returned by the model is even higher:
+
+| Type of data   | No data | Correct      |
+| ---            | ---     | ---          |
+| Place of birth | 96      | 95 (98.96%)  |
+| Place of death | 90      | 88 (97.78%)  |
+| Burial place   | 139     | 137 (98.56%) |
+| Date of birth  | 70      | 65 (92.86%)  |
+| Date of death  | 20      | 17 (85.00%)  |
+| Burial date    | 224     | 223 (99.55%) |
+| Total          | 639     | 625 (97.81%) |
 
 ---
 
