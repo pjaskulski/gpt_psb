@@ -1,0 +1,27 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mikołaj",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna von Domfsdorff",
+        "result": null
+    },
+    {
+        "family_relation": "ojczym",
+        "person": "Konstanty Ferber",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna von Thielen",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Konstanty Pahl",
+        "result": null
+    }
+]

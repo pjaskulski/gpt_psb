@@ -1,0 +1,127 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mikołaj Śmieszko",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Katarzyna",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Katarzyna",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Elżbieta",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Barbara",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Stanisław",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Tomasz",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Zygmunt Gajsler",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Szymon z Brzezin",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Stanisław Berger",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Szymon Tomaszewicz",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Józef Markowic",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Urszula",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Marcin Hanel",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Szymon Szymonowic",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzenica",
+        "person": "Krystyna z Szymonowiców",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mikołaj",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Kosma Saluago de Campis",
+        "result": null
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Anna Anserinówna",
+        "result": null
+    },
+    {
+        "family_relation": "wnuczka",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Kaspar",
+        "result": null
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Jan",
+        "result": null
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Mikołaj",
+        "result": null
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Elżbieta Kisiołkówna",
+        "result": null
+    }
+]

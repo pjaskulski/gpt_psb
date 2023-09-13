@@ -1,0 +1,22 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jordan Dąbrowski",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Weronika Paszkowska",
+        "result": true
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Romualda Glińska",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Wiktor Dąbrowski",
+        "result": true
+    }
+]

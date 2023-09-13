@@ -1,0 +1,37 @@
+[
+    {
+        "family_relation": "dziadek",
+        "person": "Heinrich",
+        "result": null
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Georg (Jurgen)",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Eufemia Schultz",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Christoph",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Aleksander Sculteti",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Bartłomiej (Bertold)",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jerzy (Georg)",
+        "result": null
+    }
+]

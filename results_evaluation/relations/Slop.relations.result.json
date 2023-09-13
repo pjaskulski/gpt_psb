@@ -1,0 +1,22 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Piotr",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kaspar",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Melchior",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan",
+        "result": null
+    }
+]

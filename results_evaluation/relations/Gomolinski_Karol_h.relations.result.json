@@ -1,0 +1,32 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan Gomoliński",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Bielicka",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Helena Pokrzywnicka",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Ignacy Gomoliński",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Józefata Gomolińska",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Marianna Gomolińska",
+        "result": null
+    }
+]

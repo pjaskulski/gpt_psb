@@ -1,0 +1,28 @@
+[
+    {
+        "family_relation": "matka",
+        "person": "nieznana",
+        "result": true,
+        "pj_note": "choć to nic nie wnosi, tekst mówi: ...bardzo wcześnie porzuciła rodzinę, zabrała biżuterię matki..."
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Le Clerque",
+        "result": true
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Aleksander Stefanowicz Ugriumow",
+        "result": true
+    },
+    {
+        "family_relation": "siostra",
+        "person": "marszałkowa Lubomirska",
+        "result": false
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Ignacy Potocki",
+        "result": false
+    }
+]

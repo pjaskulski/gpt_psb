@@ -1,0 +1,32 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Stefan Dyjakiewicz",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Apolonia Falęcka",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna Niewierska",
+        "result": true
+    },
+    {
+        "family_relation": "teść",
+        "person": "Marcin Niewierski",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Marcin Dyjakiewicz",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Gabriel Dyjakiewicz",
+        "result": true
+    }
+]

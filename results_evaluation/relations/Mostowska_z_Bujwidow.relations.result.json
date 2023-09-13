@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Odo Bujwid",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Kazimiera Klimontowicz",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Kazimiera Rouppert",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Jadwiga Demel",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Helena Jurgielewicz",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jerzy Mostowski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Czesław Mostowski",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Włodzimierz Mostowski",
+        "result": null
+    }
+]

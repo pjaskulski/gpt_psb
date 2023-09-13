@@ -1,0 +1,43 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Włodko",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Halszka",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Piotr",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Stanisław",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "bratanica Piotra Wysza",
+        "result": true
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "nieznane imię",
+        "result": true
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna",
+        "result": true,
+        "pj_note: "ale tekst jest niejasny, czy chodzi o siostrę bohatera czy siostrę bratanka"
+    }
+]

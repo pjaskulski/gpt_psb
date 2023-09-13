@@ -1,0 +1,27 @@
+[
+    {
+        "family_relation": "dziadek",
+        "person": "Franciszek Fiorentini",
+        "result": null
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Antoni Fiorentini",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna Popowa",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Bazyli Popow",
+        "result": null
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "Bogumiła Gizbert",
+        "result": null
+    }
+]

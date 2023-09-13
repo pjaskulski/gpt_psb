@@ -1,0 +1,47 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Piotr Branicki",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Waleria Szembek",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Franciszek Ksawery Branicki",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Jan Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Piotr Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kazimierz Nestor Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Jan Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Ignacy Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Stanisław",
+        "result": null
+    }
+]

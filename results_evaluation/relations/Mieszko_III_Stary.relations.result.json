@@ -1,0 +1,87 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Bolesław II Krzywousty",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Salomea",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Bolesław Kędzierzawy",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Kazimierz",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Bolesław",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Mieszko",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Odo",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Mieszko Młodszy",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Bolesław",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Władysław Laskonogi",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Eudoksja",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Wierzchosława-Ludmiła",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Judyta",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Elżbieta",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Salomea",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anastazja",
+        "result": null
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Stanisław Poniatowski",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Konstancja z Czartoryskich",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Kazimierz Poniatowski",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Izabela Branicka",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Andrzej Poniatowski",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Michał Poniatowski",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Józef Poniatowski",
+        "result": null
+    },
+    {
+        "family_relation": "bratanica",
+        "person": "Maria Teresa Poniatowska",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Kazimierz Nestor Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Konstancja Poniatowska",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Cichocki",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Izabela Poniatowska",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał Grabowski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kazimierz Grabowski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Grabowski",
+        "result": null
+    }
+]

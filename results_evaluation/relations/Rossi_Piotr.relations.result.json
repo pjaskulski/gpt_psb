@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Andrzej Rossi",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Małgorzata Baltazary",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Józef Baltazary",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Andrzej Rossi",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kornel Rossi",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Klemens Rossi",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Izabella Rossi",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Feliksa Rossi",
+        "result": null
+    }
+]

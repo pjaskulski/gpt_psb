@@ -1,0 +1,22 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Wincenty",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Julia Werner",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Roman",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Eligiusz",
+        "result": null
+    }
+]

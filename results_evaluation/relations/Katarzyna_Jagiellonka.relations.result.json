@@ -1,0 +1,57 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Zygmunt I",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Bona Sforza",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Zofia",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Zygmunt August",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Jan",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "nieznane",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Zygmunt",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Batory",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Eryk XIV",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Karol",
+        "result": null
+    }
+]

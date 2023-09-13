@@ -1,0 +1,48 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Adam Kazimierz Czartoryski",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Izabela Czartoryska",
+        "result": true
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Maria Wirtemberska",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Konstanty Czartoryski",
+        "result": true
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Zofia Zamoyska",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna Sapieżanka",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Władysław Czartoryski",
+        "result": true
+    },
+    {
+        "family_relation": "córka",
+        "person": "Iza Działyńska",
+        "result": true
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Działyński",
+        "result": true,
+        "pj_note": "ale nie widzę tego faktu w biogramie, występuje zięć, córka nosi nazwisko Działyński, ale skąd imię? Skądinąd to jest prawda."
+    }
+]

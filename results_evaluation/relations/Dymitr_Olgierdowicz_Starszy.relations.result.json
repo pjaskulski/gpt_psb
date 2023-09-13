@@ -1,0 +1,123 @@
+[
+    {
+        "family_relation": "brat",
+        "person": "Jagiełło",
+        "result": true,
+        "pj_note": "przyrodni"
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Olgierd",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Maria ks. Witebska",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Dymitr-Korybut",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Andrzej Połocki",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna ks. Riazańska",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Iwan",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Michał",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Semen",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Roman",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Hleb",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Dymitr",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Lew",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Olechno",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Andrzej",
+        "result": true,
+        "pj_note": "w tekście jest: być może"
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna Eupraksja",
+        "result": true
+    },
+    {
+        "family_relation": "córka",
+        "person": "Agrypina",
+        "result": true
+    },
+    {
+        "family_relation": "córka",
+        "person": "Julianna",
+        "result": true
+    },
+    {
+        "family_relation": "córka",
+        "person": "Aleksandra",
+        "result": true
+    },
+    {   "skipped": "szwagier: w. kn. Oleg Iwanowicz Riazański",
+        "result": false
+    },
+    {   "skipped": "pasierb: Andrzej",
+        "result": false
+    },
+    {   "skipped": "zięć: Witołd",
+        "result": false
+    },
+    {   "skipped": "zięć: Iwan Holszański",
+        "result": false
+    },
+    {   "skipped": "zięć: Butrym",
+        "result": false
+    },
+    {   "skipped": "zięć: Moniwida",
+        "result": false
+    },
+    {   "skipped": "zięć: Aleksandra",
+        "result": false
+    },
+    {   "skipped": "zięć: Andrzej Wiazyński",
+        "result": false
+    }
+]

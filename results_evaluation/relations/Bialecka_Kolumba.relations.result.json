@@ -1,0 +1,12 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Franciszek",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna Ernestyna z Radziejowskich",
+        "result": true
+    }
+]

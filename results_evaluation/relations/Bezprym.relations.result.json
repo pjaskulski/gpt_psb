@@ -1,0 +1,27 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Bolesław Chrobry",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "nieznana Węgierka",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Mieszko II",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Otto",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Rycheza",
+        "result": false
+    }
+]

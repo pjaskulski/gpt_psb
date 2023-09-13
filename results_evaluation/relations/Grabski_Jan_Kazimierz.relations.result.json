@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Maciej Grabski",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Marianna Mańkowska",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna Konradzka",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Marianna Łakińska",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Maciej Grabski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Franciszek Grabski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Grabski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Józef Grabski",
+        "result": null
+    }
+]

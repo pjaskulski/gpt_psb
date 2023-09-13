@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Julian Wiśniewski",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Marianna Wiśniewska",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Jadwiga Wiśniewska",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Maryla Wiśniewska",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Włodzimierz Wiśniewski",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Tadeusz Wiśniewski",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Antoni Szczygielski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Tomasz Szczygielski",
+        "result": null
+    }
+]

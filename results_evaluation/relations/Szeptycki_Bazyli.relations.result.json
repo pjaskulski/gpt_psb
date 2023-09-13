@@ -1,0 +1,57 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Aleksander Zachariasz",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Ewa z Lityńskich",
+        "result": null
+    },
+    {
+        "family_relation": "dziadek",
+        "person": "Bazyli",
+        "result": null
+    },
+    {
+        "family_relation": "babcia",
+        "person": "Zofia z Pokulińskich",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Michał",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Eustachy Stanisław",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Teodor",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Aleksy (Aleksander)",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Konstancja (Katarzyna)",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Antoni Winnicki",
+        "result": null
+    },
+    {
+        "family_relation": "kuzyn",
+        "person": "Atanazy Antoni",
+        "result": null
+    }
+]

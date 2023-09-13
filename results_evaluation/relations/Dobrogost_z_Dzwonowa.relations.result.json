@@ -1,0 +1,17 @@
+[
+    {
+        "family_relation": "syn",
+        "person": "nieznany z imienia",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Dzierżykraj",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "nieznana z imienia",
+        "result": true
+    }
+]

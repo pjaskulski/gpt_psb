@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Katarzyna Bodenstein",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Barbara",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Katarzyna",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Zofia",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Krzysztof",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Konrad Bodenstein",
+        "result": null
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Włost",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jakub",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Witek",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Dzierżek",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Kazimierz Wielki",
+        "result": null
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Adelajda",
+        "result": null
+    },
+    {
+        "family_relation": "kuzyn",
+        "person": "Jan Rzeszowski",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Jan Pakosławic",
+        "result": null
+    }
+]

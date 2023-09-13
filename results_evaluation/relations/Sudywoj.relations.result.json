@@ -1,0 +1,52 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Wolimunt",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Rumbold",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Michał Kieżgajło",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Szedybor",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław (Stanko)",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "nieznane imię",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Gasztołd",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Wiażewicz",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Michał Kieżgajło",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Jan Kieżgajło",
+        "result": null
+    }
+]

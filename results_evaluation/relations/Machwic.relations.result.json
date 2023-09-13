@@ -1,0 +1,37 @@
+[
+    {
+        "family_relation": "brat",
+        "person": "Fryderyk",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Małgorzata",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Marta",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Hektor",
+        "result": null
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Otto",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "nieznana z imienia",
+        "result": null
+    }
+]

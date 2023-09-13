@@ -1,0 +1,32 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Stanisław Rzymowski",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Józefa Cichowicz",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Grzegorz Rzymowski",
+        "result": null
+    },
+    {
+        "family_relation": "szwagierka",
+        "person": "Maria Dąbrowska",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Irena Kopczyńska",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Adam Rzymowski",
+        "result": null
+    }
+]

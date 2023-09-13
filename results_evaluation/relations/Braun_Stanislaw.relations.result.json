@@ -1,0 +1,17 @@
+[
+    {
+        "family_relation": "żona",
+        "person": "Olga z Górskich",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jerzy Braun",
+        "result": true
+    },
+    {
+        "family_relation": "córka",
+        "person": "Zofia Braun",
+        "result": true
+    }
+]

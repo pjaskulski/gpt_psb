@@ -1,0 +1,67 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Ludwik",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Elżbieta z Dąbrówki",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Katarzyna",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Dorota",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Gertruda",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Elżbieta",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Małgorzata",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Ludwik",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Melchior",
+        "result": null
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Elżbieta Kostczanka",
+        "result": null
+    },
+    {
+        "family_relation": "wnuczka",
+        "person": "Magdalena Mortęska",
+        "result": null
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "Ludwik",
+        "result": null
+    }
+]

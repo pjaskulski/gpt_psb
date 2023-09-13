@@ -1,0 +1,27 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Ferdynand Daszyński",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Kamila Daszyńska z Mierzeńskich",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Feliks Daszyński",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Maria Daszyńska z Paszkowskich",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Cecylia Daszyńska z Kempnerów",
+        "result": true
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj z Zawichostu",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Helena",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj z Zawichostu",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan (Hank)",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Gertruda",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Tyczek Snel",
+        "result": null
+    },
+    {
+        "family_relation": "wnuczka",
+        "person": "Elżbieta",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Stanisław Pensator",
+        "result": null
+    }
+]

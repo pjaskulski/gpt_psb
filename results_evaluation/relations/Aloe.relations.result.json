@@ -1,0 +1,17 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Jan Baptysta d’Aloy",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Henryka Rakocy",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Emanuel d’Aloy",
+        "result": true
+    }
+]

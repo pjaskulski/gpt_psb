@@ -1,0 +1,22 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Andrzej Renard",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Baptysta Renard",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna Orzelska",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna Katarzyna Renard",
+        "result": null
+    }
+]

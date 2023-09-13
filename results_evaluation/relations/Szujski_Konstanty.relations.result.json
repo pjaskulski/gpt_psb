@@ -1,0 +1,117 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Aleksander Szujski",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Jadwiga z Krzywczyckich",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Władysław Aleksander Szujski",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna Szujska",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Brzozowska",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Zofia Cecylia z Konopackich",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Ludwika Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna z Kopciów",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Dominik Szujski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Szujski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Dominik Kazimierz Jan Szujski",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Apoloniusz Aleksander Szujski",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Ludwika Teresa Szujska",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Paula Szujska",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Benedykta Szujska",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Maksymilian Brzozowski",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Jerzy Konopacki",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Jan Fryderyk Sapieha",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Jan Karol Kopciński",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Jan Kazimierz Pac",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Aleksander Ogiński",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Aleksander Niemira",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Stefan Ossoliński",
+        "result": null
+    }
+]

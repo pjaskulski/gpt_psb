@@ -1,0 +1,32 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Stanisław Kamieński",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Barbara Kuczabska",
+        "result": null
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "Feliks Czacki",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Franciszka Czarnocka",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Stanisław Kamieński",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Juliusz Kamieński",
+        "result": null
+    }
+]

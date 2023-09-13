@@ -1,0 +1,38 @@
+[
+    {
+        "family_relation": "mąż",
+        "person": "Jarosław Dąbrowski",
+        "result": true
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Michał Zgliczyński",
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "Pelagia Piotrowska",
+        "result": true
+    },
+    {
+        "family_relation": "ciotka",
+        "person": "Waleria Piotrowska",
+        "result": true
+    },
+    {
+        "family_relation": "ciotka",
+        "person": "Ignacja Piotrowska",
+        "result": true
+    },
+    {
+        "family_relation": "wuj",
+        "person": "Piotr Falkenhagen-Zaleski",
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "brak danych",
+        "result": true,
+        "pj_note": "...była matką trzech synów"
+    }
+]

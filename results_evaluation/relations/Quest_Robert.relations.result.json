@@ -1,0 +1,32 @@
+[
+    {
+        "family_relation": "dziadek",
+        "person": "nieznane",
+        "result": null
+    },
+    {
+        "family_relation": "ojciec",
+        "person": "Rudolf Quest",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Emilia Mannowa",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Kazimierz",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Roman",
+        "result": null
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "Tadeusz",
+        "result": null
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Leon Radziwiłł",
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "Wańkowiczówna",
+        "result": true
+    }
+]

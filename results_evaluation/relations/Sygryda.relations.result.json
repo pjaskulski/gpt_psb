@@ -1,0 +1,52 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Mieszko I",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Dobrawa",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Eryk (VIII) Zwycięski (Segersäll)",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Olaf Skötkonung",
+        "result": null
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Swen Widłobrody",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Bolesław Chrobry",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Harald II",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Kanut Wielki",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Świętosława",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Estryda",
+        "result": null
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "family_relation": "bratanek",
+        "person": "Joachim",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Franciszek",
+        "result": null
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "Bernard Niuron",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Lukrecja",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Krzysztof",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Dominik",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Baptysta",
+        "result": null
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Paweł Szczerbic",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Anna",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Jan Szczerbic",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Szczerbic",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Marcin Fox",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Paweł Fetter",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Jan Fetter",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna Fetterówna",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Magdalena Szczerbic",
+        "result": null
+    },
+    {
+        "family_relation": "siostra",
+        "person": "Anna Szczerbic",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Dorota",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Stanisław Czymerman",
+        "result": null
+    },
+    {
+        "family_relation": "synowa",
+        "person": "Anna Trembecka",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Marianna",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Dorota",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Zofia",
+        "result": null
+    }
+]

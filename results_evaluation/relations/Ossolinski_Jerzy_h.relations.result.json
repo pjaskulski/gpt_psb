@@ -1,0 +1,72 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Zbigniew Ossoliński",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "Anna z Firlejów",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Maksymilian Ossoliński",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "Krzysztof Ossoliński",
+        "result": null
+    },
+    {
+        "family_relation": "opiekunka",
+        "person": "Jadwiga Młodnicka",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Izabela Daniłowicz",
+        "result": null
+    },
+    {
+        "family_relation": "teść",
+        "person": "Mikołaj Daniłowicz",
+        "result": null
+    },
+    {
+        "family_relation": "syn",
+        "person": "Franciszek Ossoliński",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Urszula Ossolińska",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Helena Tekla Ossolińska",
+        "result": null
+    },
+    {
+        "family_relation": "córka",
+        "person": "Anna Teresa Ossolińska",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Samuel Kalinowski",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Aleksander Lubomirski",
+        "result": null
+    },
+    {
+        "family_relation": "zięć",
+        "person": "Zygmunt Denhoff",
+        "result": null
+    }
+]

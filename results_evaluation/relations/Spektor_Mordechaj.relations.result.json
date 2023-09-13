@@ -1,0 +1,27 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "kramarz",
+        "result": null
+    },
+    {
+        "family_relation": "matka",
+        "person": "nieznane",
+        "result": null
+    },
+    {
+        "family_relation": "wuj",
+        "person": "nieznane",
+        "result": null
+    },
+    {
+        "family_relation": "brat",
+        "person": "nieznane",
+        "result": null
+    },
+    {
+        "family_relation": "żona",
+        "person": "Izabela Frydberg",
+        "result": null
+    }
+]

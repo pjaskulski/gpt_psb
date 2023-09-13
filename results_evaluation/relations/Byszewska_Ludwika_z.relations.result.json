@@ -1,0 +1,17 @@
+[
+    {
+        "family_relation": "ojciec",
+        "person": "Antoni Gintowt",
+        "result": true
+    },
+    {
+        "family_relation": "mąż",
+        "person": "Józef Byszewski",
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "Joachim Gintowt",
+        "result": true
+    }
+]
