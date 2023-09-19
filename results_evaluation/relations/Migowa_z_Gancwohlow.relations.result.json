@@ -2,16 +2,17 @@
     {
         "family_relation": "ojciec",
         "person": "Józef Kazimierz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Maria z Kempińskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Jan Miga",
-        "result": null
+        "result": true,
+        "pj_note": "błędna odmiana nazwiska, powinno być Migo?"
     }
 ]

@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Franciszek Kakowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Paulina Ossowska",
-        "result": null
+        "result": true
     }
 ]

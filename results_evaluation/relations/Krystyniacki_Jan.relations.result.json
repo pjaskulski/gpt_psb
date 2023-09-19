@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Mateusz Krystyniacki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna Romańska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Teofila Felsztyńska",
-        "result": null
+        "result": true
     }
 ]

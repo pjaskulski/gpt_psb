@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Lew Borysowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Michał",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Wasyl",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanica",
         "person": "Helena",
-        "result": null
+        "result": true
     }
 ]

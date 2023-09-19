@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Goldman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Lea Bader",
-        "result": null
+        "result": true
     }
 ]

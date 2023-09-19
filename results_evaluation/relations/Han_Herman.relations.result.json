@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Herman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Elza",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Barbara Sparrgutt",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Gerard",
-        "result": null
+        "result": true
     }
 ]

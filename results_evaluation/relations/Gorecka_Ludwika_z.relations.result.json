@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Bogumił",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Górecki",
-        "result": null
+        "result": true
     }
 ]

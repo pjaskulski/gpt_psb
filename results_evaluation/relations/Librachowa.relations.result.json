@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Bolesław Lipski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Julia Karnkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Ludwik Librach",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Krystyna Selmowiczowa",
-        "result": null
+        "result": true
     }
 ]

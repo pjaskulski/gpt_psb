@@ -2,16 +2,16 @@
     {
         "family_relation": "brat",
         "person": "Wojsław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "dziadek",
         "person": "Wojsław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojciec",
         "person": "Janusz lub Trojan",
-        "result": null
+        "result": true
     }
 ]

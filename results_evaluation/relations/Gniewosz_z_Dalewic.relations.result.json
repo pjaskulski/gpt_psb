@@ -2,16 +2,16 @@
     {
         "family_relation": "żona",
         "person": "Anna (Joanna)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Gniewosz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Elżbieta Warszówna",
-        "result": null
+        "result": true
     }
 ]

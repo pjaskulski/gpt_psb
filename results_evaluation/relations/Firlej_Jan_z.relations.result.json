@@ -2,86 +2,87 @@
     {
         "family_relation": "ojciec",
         "person": "Piotr Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna z Tęczyńskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wuj",
         "person": "Stanisław Gabriel Tęczyński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Elżbieta",
-        "result": null
+        "result": false,
+        "pj_note": "to żona Zygmunta Augusta"
     },
     {
         "family_relation": "żona",
         "person": "Zofia Boner",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Seweryn Boner",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Mikołaj Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mikołaj Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Zofia Dzikówna z Pierśni",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Barbara z Mniszchów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Mikołaj Mniszch",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Henryk Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Jadwiga Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jan Mniszch",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Andrzej Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Piotr Firlej",
-        "result": null
+        "result": true
     }
 ]

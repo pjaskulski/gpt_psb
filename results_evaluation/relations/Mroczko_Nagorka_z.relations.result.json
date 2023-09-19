@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Bogusław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Piotr Nagórka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "krewny",
         "person": "Trojan",
-        "result": null
+        "result": true
     }
 ]

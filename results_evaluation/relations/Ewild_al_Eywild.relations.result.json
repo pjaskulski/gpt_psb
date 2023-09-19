@@ -2,21 +2,24 @@
     {
         "family_relation": "ojciec adopcyjny",
         "person": "Stanisław Brzeski",
-        "result": null
+        "result": true,
+        "pj_note":"w przybliżeniu, tekst mówi: adoptowany ... do rodu Ciołków przez Stanisława Brzeskiego, model rozumie to dosłownie"
     },
     {
         "family_relation": "brat",
         "person": "Eynur Eywild",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Dowgird Eywiltowicz",
-        "result": null
+        "result": true,
+        "pj_note": "to przypuszenie"
     },
     {
         "family_relation": "syn",
         "person": "Daszko Eywiltowicz",
-        "result": null
+        "result": true,
+        "pj_note": "to przypuszenie"
     }
 ]

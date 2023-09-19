@@ -2,31 +2,34 @@
     {
         "family_relation": "ojciec",
         "person": "Ziemomysł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Władysław Łokietek",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, Łokietek był wujem bohaterki"
     },
     {
         "family_relation": "mąż",
         "person": "Andrzej III",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Teodor",
-        "result": null
+        "result": false,
+        "pj_note": "to osoba prowadząca rokowania w sprawie małżeństwa bohaterki"
     },
     {
         "family_relation": "zięć",
         "person": "Jerzy Baksa",
-        "result": null
+        "result": false,
+        "pj_note": "to osoba prowadząca rokowania w sprawie małżeństwa bohaterki"
     },
     {
         "family_relation": "córka",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     }
 ]

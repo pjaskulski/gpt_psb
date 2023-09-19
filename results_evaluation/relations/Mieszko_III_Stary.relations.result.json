@@ -2,86 +2,152 @@
     {
         "family_relation": "ojciec",
         "person": "Bolesław II Krzywousty",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Salomea",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Bolesław Kędzierzawy",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Kazimierz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Bolesław",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Lestko"
     },
     {
         "family_relation": "bratanek",
         "person": "Mieszko",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Odo",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Mieszko Młodszy",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Bolesław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Władysław Laskonogi",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Eudoksja",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Wierzchosława-Ludmiła",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Judyta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Salomea",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anastazja",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Wyszesława"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Ferry I, hrabia Bitche w Lotaryngii"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Bernard, hrabia Anhaltu"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Sobiesław, ks. ołomuniecki"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Konrad, margrabia Dolnych Łużyc"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Konrad, margrabia Dolnych Łużyc"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Dobrosława, zapewne księżniczka sławieńska"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Łucja, córka Jaromara, ks. rugijskiego"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Racibor, ks. pomorski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Bogusław I, ks. zachodniopomorski"
     }
 ]

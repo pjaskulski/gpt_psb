@@ -2,36 +2,39 @@
     {
         "family_relation": "ojciec",
         "person": "Jerzy Konarski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Helena Czermińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Antoni",
-        "result": null
+        "result": false,
+        "pj_note": "to brat, ale matki bohatera biogramu"
     },
     {
         "family_relation": "brat",
         "person": "Stanisław Ignacy",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "brat",
         "person": "Ignacy",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "krewny",
         "person": "Jan Tarło",
-        "result": null
+        "result": true,
+        "pj_note": "dokładnie to cioteczny wuj"
     },
     {
         "family_relation": "brat",
         "person": "Cyprian Komorowski",
-        "result": null
+        "result": false,
+        "pj_note": "to brat prymasa"
     }
 ]

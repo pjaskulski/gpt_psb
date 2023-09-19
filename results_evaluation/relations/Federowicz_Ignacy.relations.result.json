@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Aleksander Federowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Aniela Wilczyńska",
-        "result": null
+        "result": true
     }
 ]

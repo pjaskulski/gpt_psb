@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Teofil Jarkowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Klementyna Strupeźnicka",
-        "result": null
+        "result": true
     }
 ]

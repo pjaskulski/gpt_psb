@@ -2,51 +2,59 @@
     {
         "family_relation": "ojciec",
         "person": "Mikołaj Kopernik (starszy)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Barbara z Watzenrodów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Andrzej Kopernik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Barbara Kopernik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Katarzyna Kopernik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Tiedeman von Allen",
-        "result": null
+        "result": false,
+        "pj_note": "to mąż ciotki bohatera"
     },
     {
         "family_relation": "bratanek",
         "person": "Jan Loitsch",
-        "result": null
+        "result": false,
+        "pj_note": "siostrzeniec"
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Jan Loitsch",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzenica",
         "person": "Krystyna Gertnerówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzenica",
         "person": "Regina Mollerowa",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "ciotka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Katarzyna Peckau - przyrodnia siostra matki bohatera"
     }
 ]

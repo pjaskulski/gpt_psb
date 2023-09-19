@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Erazm Rudolf Fabijański",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Lucyna Odrowąż Sypniewska",
-        "result": null
+        "result": true
     }
 ]

@@ -2,51 +2,70 @@
     {
         "family_relation": "ojciec",
         "person": "Józef Jełowicki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Konstancja z Żorzewskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "babcia",
         "person": "Zofia Hieronimowa Jełowicka",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "stryj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "swego stryja Hieronima Macieja"
     },
     {
         "family_relation": "brat",
         "person": "Franciszek Jełowicki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Karol Józef Niemirycz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Władysław Niemirycz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "Ludwika Skorczycka",
-        "result": null
+        "result": true
+    },
+    {   
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "którą Karol objął w r. 1745 po śmierci brata Aleksandra"
     },
     {
         "family_relation": "syn",
         "person": "Fryderyk Niemirycz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Bonawentura Niemirycz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Henryk Niemirycz",
-        "result": null
+        "result": false,
+        "pj_note": "to wnuk"
+    },
+    {   
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "żonaty z Anielą Honoratą z Krzuckich"
     }
 ]

@@ -2,21 +2,21 @@
     {
         "family_relation": "żona",
         "person": "Maria Reutt",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Gustaw Reutt",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Janina Teresa Karłowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Karłowicz",
-        "result": null
+        "result": true
     }
 ]

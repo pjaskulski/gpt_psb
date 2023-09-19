@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Grzegorz Leżeński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Drohojowska",
-        "result": null
+        "result": true
     }
 ]

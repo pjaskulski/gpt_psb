@@ -2,41 +2,49 @@
     {
         "family_relation": "ojciec",
         "person": "Abraham Mierzeński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Elżbieta Morsztynówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Mierzeński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Samuel Mierzeński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Krzysztof Mierzeński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Daniel Mierzeński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Marianna z Kawcenich",
-        "result": null
+        "result": false,
+        "pj_note": "to żona bratanka"
     },
     {
         "family_relation": "żona",
         "person": "Hercylia Ciechanowiecka",
-        "result": null
+        "result": false,
+        "pj_note": "to żona brata, czyli szwagierka"
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Samuel zmarł w Dojlidach w r. 1678, pozostawiwszy z małżeństwa z Hercilią Ciechanowiecką syna Jana"
     }
 ]

@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Cyprian Godebski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Justyna Godfrinon",
-        "result": null
+        "result": true
     }
 ]

@@ -2,31 +2,31 @@
     {
         "family_relation": "ojciec",
         "person": "Kazimierz, ks. opolski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Kazimierz, ks. kujawski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Władysław Łokietek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Kazimierz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Ziemowit",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Mszczuj II, ks. pomorski",
-        "result": null
+        "result": true
     }
 ]

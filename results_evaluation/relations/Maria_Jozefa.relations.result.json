@@ -2,96 +2,102 @@
     {
         "family_relation": "mąż",
         "person": "August III",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojciec",
         "person": "Józef I, cesarz rzymski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Amalia hanowerska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "babcia",
         "person": "Eleonora von Pfalz-Neuburg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Fryderyk August",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "syn",
         "person": "Ksawery",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Fryderyk August",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Józef August",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Fryderyk Chrystian",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Karol",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Albrecht Kazimierz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Klemens Wacław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Amelia",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Józefa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Małgorzata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Krystyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Kunegunda",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "żona Maksymiliana III Józefa, elektora bawarskiego"
     }
 ]

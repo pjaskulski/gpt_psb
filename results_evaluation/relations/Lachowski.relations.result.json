@@ -2,21 +2,22 @@
     {
         "family_relation": "ojciec",
         "person": "Dawid Łachowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Maria Anna Lubieniecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "babcia",
         "person": "Nieznana Moskorzowska",
-        "result": null
+        "result": false,
+        "pj_note": "to raczej nadinterpretacja"
     },
     {
         "family_relation": "żona",
         "person": "Zofia Gucci",
-        "result": null
+        "result": true
     }
 ]

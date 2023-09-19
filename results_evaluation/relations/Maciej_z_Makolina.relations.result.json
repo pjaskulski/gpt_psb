@@ -2,41 +2,41 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Hukleja",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna z Kośnińskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Filip",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Zygmunt",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Paweł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Michał Kalecki",
-        "result": null
+        "result": true
     }
 ]

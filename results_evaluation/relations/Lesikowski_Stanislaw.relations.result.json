@@ -2,26 +2,26 @@
     {
         "family_relation": "ojciec",
         "person": "Franciszek Lesikowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Władysława Głomska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Stefania Szefler",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Teresa Lesikowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Bernadetta Lesikowska",
-        "result": null
+        "result": true
     }
 ]

@@ -2,56 +2,57 @@
     {
         "family_relation": "ojciec",
         "person": "Kazimierz Jagiellończyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Elżbieta Rakuszanka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Władysław Jagiellończyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Aleksander",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Zygmunt I",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Jerzy Bawarski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Ludwik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Ruprecht",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Małgorzata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Ruprecht hr. Palatynatu",
-        "result": null
+        "result": false,
+        "pj_note": "Ruprecht to zięć bohaterki, w tekście występuje też wnuk, ale anonimowo"
     }
 ]

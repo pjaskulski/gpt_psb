@@ -2,21 +2,27 @@
     {
         "family_relation": "ojciec",
         "person": "Hinczka z Rogowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Dorota z Koziegłowskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jakub",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Małgorzata",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Braćmi H-y byli: również Henryk, podskarbi (zm. ok. 1425)"
     }
 ]

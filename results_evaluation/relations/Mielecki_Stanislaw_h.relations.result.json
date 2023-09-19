@@ -2,71 +2,84 @@
     {
         "family_relation": "ojciec",
         "person": "Jan Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Sudolska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Mikołaj Firlej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Elżbieta Tęczyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Mikołaj Tęczyński",
-        "result": null
+        "result": false,
+        "pj_note": "to stryj żony"
     },
     {
         "family_relation": "szwagier",
         "person": "Jan Tarnowski",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "syn",
         "person": "Andrzej Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Walerian Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Sebastian Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Zawisza Janusz Mielecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna Mielecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Przecław Ligęza",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "siostra",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Mikołajem Firlejem (zob.), mężem siostry Anny"
+    },
+    {
+        "family_relation": "stryj żony",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan Tęczyński - stryj żony, czy to krewny bohatera?"
     }
 ]

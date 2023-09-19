@@ -2,16 +2,18 @@
     {
         "family_relation": "ojciec",
         "person": "Henryk Nieczuja-Dzierżek",
-        "result": null
+        "result": true,
+        "pj-note": "poprawniej byłoby Henryk Dzierżek h. Nieczuja, ale określenie Nieczuja-Dzierżków pada w biogramie i myli model."
     },
     {
         "family_relation": "matka",
         "person": "Maria Nieczuja-Dzierżek",
-        "result": null
+        "result": true,
+        "pj_note": "poprawniej byłoby Henryk Dzierżek h. Nieczuja, ale określenie Nieczuja-Dzierżków pada w biogramie i myli model."
     },
     {
         "family_relation": "siostra matki",
         "person": "Henryk Piątkowski",
-        "result": null
+        "result": false
     }
 ]

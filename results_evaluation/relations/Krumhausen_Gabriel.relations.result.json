@@ -2,26 +2,26 @@
     {
         "family_relation": "ojciec",
         "person": "Joachim Krumhausen",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Gertruda Schumann",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "dziadek",
         "person": "Stanisław Bornbach",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Joachim Krumhausen",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Konstancja Falcke",
-        "result": null
+        "result": true
     }
 ]

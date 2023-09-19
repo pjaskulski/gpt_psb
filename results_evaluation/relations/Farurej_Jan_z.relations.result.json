@@ -2,31 +2,37 @@
     {
         "family_relation": "ojciec",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Zawisza Czarny",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Piotr Kruczek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Zawisza",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Piotr",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stefan",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "bratanica",
+        "person": "brak danych",
+        "result": false,
+        "pj_note":"pozostałej po Piotrze Kruczku córki Elżbiety"
     }
 ]

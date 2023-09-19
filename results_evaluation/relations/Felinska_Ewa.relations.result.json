@@ -2,31 +2,32 @@
     {
         "family_relation": "ojciec",
         "person": "Zygmunt Wendorff",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Zofia Wendorff",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Gerard F.",
-        "result": null
+        "result": true,
+        "pj_note": "wyszła za mąż za Gerarda F. (brata Alojzego), F to Feliński, ale nie jest to napisane wprost"
     },
     {
         "family_relation": "brat męża",
         "person": "Alojzy F.",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Zygmunt Szczęsny Feliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Paulina Felińska",
-        "result": null
+        "result": true
     }
 ]

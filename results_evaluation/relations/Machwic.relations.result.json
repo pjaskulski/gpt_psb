@@ -2,36 +2,48 @@
     {
         "family_relation": "brat",
         "person": "Fryderyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Małgorzata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Marta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Hektor",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Otto",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "nieznana z imienia",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "córkę Małgorzatę, żonę Jana Wulkowskiego"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Druga córka M-a, nie znana z imienia, była prawdopodobnie żoną Jana Luzjańskiego"
     }
 ]

@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Henryk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Franciszka Brudnicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Jadwiga",
-        "result": null
+        "result": true
     }
 ]

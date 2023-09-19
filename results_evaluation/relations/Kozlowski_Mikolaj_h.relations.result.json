@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Mszczuj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Piotr",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "dzieci Piotra",
-        "result": null
+        "result": false
     }
 ]

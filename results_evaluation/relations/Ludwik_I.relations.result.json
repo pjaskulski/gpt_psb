@@ -2,52 +2,52 @@
     {
         "family_relation": "ojciec",
         "person": "Bolesław II",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Małgorzata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Wacław I",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "krewny",
         "person": "Bolesław II",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Henryk VIII",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "bratanek",
         "person": "Ruprecht",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Wacław II",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Agnieszka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Henryk II",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Henryk VIII",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
@@ -57,16 +57,35 @@
     {
         "family_relation": "córka",
         "person": "Małgorzata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Jadwiga",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Katarzyna",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "bratanek Henryk legnicki"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Albrechta I"
+        
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan I"
     }
 ]

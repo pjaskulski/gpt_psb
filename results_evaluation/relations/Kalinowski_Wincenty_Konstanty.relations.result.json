@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Szymon Kalinowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Weronika Rybińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Wiktor Kalinowski",
-        "result": null
+        "result": true
     }
 ]

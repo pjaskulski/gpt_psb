@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Janusz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Róża de Latour",
-        "result": null
+        "result": true
     }
 ]

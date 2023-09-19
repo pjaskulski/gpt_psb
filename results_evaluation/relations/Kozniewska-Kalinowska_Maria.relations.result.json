@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Jan Koźniewski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Józefa z Jasiobędzkich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Wacław Kalinowski",
-        "result": null
+        "result": true
     }
 ]

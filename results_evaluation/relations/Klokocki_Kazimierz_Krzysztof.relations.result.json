@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Kłokocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Hieronim Kłokocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Regina Teofila Mirska",
-        "result": null
+        "result": true
     }
 ]

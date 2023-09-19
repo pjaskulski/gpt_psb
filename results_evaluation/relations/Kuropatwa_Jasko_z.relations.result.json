@@ -2,36 +2,37 @@
     {
         "family_relation": "ojciec",
         "person": "Przybek z Grodziny i Opatkowic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Machna z Mokrska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Piotr",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Przybek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Pakosz ze Żmigrodu",
-        "result": null
+        "result": false,
+        "pj_note": "to matka bohatera była siostrzenicą Pakosza"
     },
     {
         "family_relation": "żona",
         "person": "Elżbieta z Widuchowej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Kuropatwa z Łańcuchowa",
-        "result": null
+        "result": true
     }
 ]

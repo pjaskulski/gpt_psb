@@ -2,61 +2,75 @@
     {
         "family_relation": "ojciec",
         "person": "Mikołaj Leymiter",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Benigna Leymiter",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Zofia Tesznar",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Jan Tesznar",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Jan Wierzynki",
-        "result": null
+        "result": false,
+        "pj_note": "Jan Wierzynek był mężem siostry żony bohatera, to chyba nie jest szwagier?"
     },
     {
         "family_relation": "szwagier",
         "person": "Mikołaj Kreidler",
-        "result": null
+        "result": false,
+        "pj_note": "Jan Wierzynek był mężem siostry żony bohatera, to chyba nie jest szwagier?"
     },
     {
         "family_relation": "syn",
         "person": "Jan Leymiter",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Leymiter",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Barbara Leymiter",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Benigna Leymiter",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Wincenty Beck",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jan Tretkop",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "opiekę nad dziećmi objęli: Jan Tesznar, brat Zofii Leymiterowej,"
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "mistrz Mikołaj Leymiter, brat ściętego burmistrza"
     }
 ]

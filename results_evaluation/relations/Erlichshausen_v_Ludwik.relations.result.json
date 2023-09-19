@@ -2,11 +2,12 @@
     {
         "family_relation": "bratanek",
         "person": "Konrad v. E.",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, bohater był bratankiem Konrada, więc Konrad był jego stryjem"
     },
     {
         "family_relation": "brat cioteczny",
         "person": "Henryk Reuss v. Plauen",
-        "result": null
+        "result": true
     }
 ]

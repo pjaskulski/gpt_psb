@@ -2,51 +2,51 @@
     {
         "family_relation": "ojciec",
         "person": "Jean Motty",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anne-Marie Bachmann",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "krewna",
         "person": "Louise Noizières",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Apolonia Herwig",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "August",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "Tekla Klimicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Marceli",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Walentyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Hipolit Cegielski",
-        "result": null
+        "result": true
     }
 ]

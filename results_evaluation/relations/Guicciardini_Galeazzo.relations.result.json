@@ -1,6 +1,7 @@
 [
     {
         "wynik": "brak danych",
-        "result": null
+        "result": true,
+        "pj_note":"występuje tylko anonimowy brat"
     }
 ]

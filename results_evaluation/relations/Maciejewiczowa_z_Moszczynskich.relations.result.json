@@ -2,11 +2,11 @@
     {
         "family_relation": "kuzyn",
         "person": "Bolesław Świda",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Edward Maciejewicz",
-        "result": null
+        "result": true
     }
 ]

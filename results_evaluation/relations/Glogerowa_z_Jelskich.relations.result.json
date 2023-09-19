@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Aleksander Jelski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Helena Kałęczyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Zygmunt Gloger",
-        "result": null
+        "result": true
     }
 ]

@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Wojciech Kozłowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Cecylia Kozłowska",
-        "result": null
+        "result": true
     }
 ]

@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Jakub Grzegorzewski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Zaleska",
-        "result": null
+        "result": true
     }
 ]

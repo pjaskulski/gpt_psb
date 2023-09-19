@@ -2,36 +2,42 @@
     {
         "family_relation": "ojciec",
         "person": "Jakub Leśniowolski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Dorota Skulska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Leśniowolski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Anna Oborska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Paweł Leśniowolski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Marcin Leśniowolski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna Gostomska",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "córkę Annę, za Zygmuntem Ferdynandem Gostomskim"
     }
 ]

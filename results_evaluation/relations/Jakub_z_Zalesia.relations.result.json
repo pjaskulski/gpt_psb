@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Gawel",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Paweł z Zalesia",
-        "result": null
+        "result": true
     }
 ]

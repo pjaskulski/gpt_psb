@@ -2,76 +2,83 @@
     {
         "family_relation": "ojciec",
         "person": "Marcin Myszkowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Zuzanna Łaska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Jan Łaski",
-        "result": null
+        "result": false,
+        "pj_note": "to bohater był siostrzeńcem Jana Łaskiego"
     },
     {
         "family_relation": "brat stryjeczny",
         "person": "Mikołaj Myszkowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Jadwiga Tęczyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bracia",
         "person": "Jakub Myszkowski, Hieronim Myszkowski",
-        "result": null
+        "result": true,
+        "pj_note": "dwie osoby w jednym wpisie"
     },
     {
         "family_relation": "stryjeczni",
         "person": "Mikołaj Myszkowski, Krzysztof Myszkowski, Andrzej Myszkowski",
-        "result": null
+        "result": true,
+        "pj_note":"trzy osoby w jednym wpisie"
     },
     {
         "family_relation": "krewniak",
         "person": "Zygmunt Myszkowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Piotr Zborowski",
-        "result": null
+        "result": false,
+        "pj_note": "to mąż córki stryjecznego brata"
     },
     {
         "family_relation": "córka stryjecznego brata",
         "person": "Barbara Myszkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Piotr Myszkowski, Mikołaj Myszkowski, Stanisław Myszkowski, Jan Myszkowski, Mikołaj Myszkowski",
-        "result": null
+        "result": true,
+        "pj_note": "zappisy nierozdzielone, pytanie czy synowie stryjecznego brata to bratankowie?"
     },
     {
         "family_relation": "brat",
         "person": "Jan Myszkowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Andrzej Tęczyński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Andrzej Zebrzydowski",
-        "result": null
+        "result": false,
+        "pj_note": "to syn żony z jej pierwszego małżeństwa"
     },
     {
         "family_relation": "wnuk",
         "person": "Mikołaj Zebrzydowski",
-        "result": null
+        "result": false,
+        "pj_note": "to wnuk żony z jej pierwszego małżeństwa"
     }
 ]

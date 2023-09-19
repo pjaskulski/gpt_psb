@@ -2,36 +2,38 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Kaliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Elżbieta Oborska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jakub Kaliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Marianna Wiktoria Białyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "matka Marianny Wiktorii Białyńskiej",
-        "result": null
+        "result": true,
+        "pj_note": "występuje w tekście aczkolwiek wartość tej informacji jest żadna"
     },
     {
         "family_relation": "syn",
         "person": "Konstanty Kaliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Andrzej Gołyński",
-        "result": null
+        "result": false,
+        "pj_note": "wdowa po nim była żoną Andrzeja Gołyńskiego"
     }
 ]

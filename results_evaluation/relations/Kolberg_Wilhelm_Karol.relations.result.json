@@ -2,56 +2,56 @@
     {
         "family_relation": "ojciec",
         "person": "Krzysztof Juliusz Henryk Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Karolina Fryderyka Henrieta Mercoeur",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Oskar Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Antoni Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Emilia Karolina Gronau",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Bronisław Edward Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Oskar Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Jadwiga Karolina Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Eleonora Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Juliusz Wilhelm Józef Kolberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Wilhelm Edward Kolberg",
-        "result": null
+        "result": true
     }
 ]

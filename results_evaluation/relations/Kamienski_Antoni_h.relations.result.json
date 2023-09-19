@@ -2,31 +2,32 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Kamieński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Barbara Kuczabska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Feliks Czacki",
-        "result": null
+        "result": false,
+        "pj_note":"Feliks jest bratankiem ale nie bohatera biogramu"
     },
     {
         "family_relation": "żona",
         "person": "Franciszka Czarnocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Kamieński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Juliusz Kamieński",
-        "result": null
+        "result": true
     }
 ]

@@ -1,5 +1,6 @@
 [
     {
-        "result": "brak danych"
+        "wynik": "brak danych",
+        "result": true
     }
 ]
