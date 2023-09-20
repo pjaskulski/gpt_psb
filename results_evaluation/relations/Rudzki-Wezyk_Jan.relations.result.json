@@ -2,26 +2,28 @@
     {
         "family_relation": "ojciec",
         "person": "Onufry Rudzki-Wężyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Tekla Rudzka-Wężyk",
-        "result": null
+        "result": true,
+        "pj_note": "ale informacja o nazwisku panieńskim została pominięta"
     },
     {
         "family_relation": "żona",
         "person": "Franciszka Rudzka-Wężyk",
-        "result": null
+        "result": true,
+        "pj_note": "ale informacja o nazwisku panieńskim została pominięta"
     },
     {
         "family_relation": "syn",
         "person": "Alfred Rudzki-Wężyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Juliusz Rudzki-Wężyk",
-        "result": null
+        "result": true
     }
 ]

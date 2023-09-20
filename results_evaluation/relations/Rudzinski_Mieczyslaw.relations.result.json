@@ -1,6 +1,7 @@
 [
     {
         "wynik": "brak danych",
-        "result": null
+        "result": false,
+        "pj_note": "w biograme są dane rodziców bohatera, ale - i to jest ciekawe na końcu biogramu jest zapis: Brak informacji o stosunkach rodzinnych R-ego - i to kompletnie myli model"
     }
 ]

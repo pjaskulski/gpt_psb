@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Tadeusz Januchta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Zenaida Karaś",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Roman Rudziński",
-        "result": null
+        "result": true
     }
 ]

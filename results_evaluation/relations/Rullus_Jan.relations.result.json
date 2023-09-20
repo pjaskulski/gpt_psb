@@ -2,11 +2,12 @@
     {
         "family_relation": "matka",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale to anonimowa informacja bez wartości"
     },
     {
         "family_relation": "brat stryjeczny",
         "person": "Sebastian Puschel",
-        "result": null
+        "result": true
     }
 ]

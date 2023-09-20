@@ -2,26 +2,27 @@
     {
         "family_relation": "żona",
         "person": "Zofia Montanus",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "siostra Waleriana Protasewicza",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Giacomo Montanus",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Walerian Protasewicz",
-        "result": null
+        "result": false,
+        "pj_note": "to brat żony"
     }
 ]

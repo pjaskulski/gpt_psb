@@ -2,31 +2,32 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Rzymowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Józefa Cichowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Grzegorz Rzymowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagierka",
         "person": "Maria Dąbrowska",
-        "result": null
+        "result": false,
+        "pj_note": "przez matkę był spowinowacony z pisarką Marią z Szumskich Dąbrowską"
     },
     {
         "family_relation": "żona",
         "person": "Irena Kopczyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Adam Rzymowski",
-        "result": null
+        "result": true
     }
 ]
