@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Dominik August Przewóski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Leontyna Doliwa-Klimecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Edward Przewóski",
-        "result": null
+        "result": true
     }
 ]

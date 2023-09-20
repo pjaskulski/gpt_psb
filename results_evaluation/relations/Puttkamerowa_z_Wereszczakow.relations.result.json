@@ -2,46 +2,48 @@
     {
         "family_relation": "ojciec",
         "person": "Antoni Wereszczak",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Franciszka z Ancutów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Wawrzyniec Puttkamer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat cioteczny",
         "person": "Ignacy Domeyko",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bracia",
         "person": "Józef Wereszczak, Michał Wereszczak",
-        "result": null
+        "result": true,
+        "pj_note": "ale sklejone dwie osoby w jednym wpisie"
     },
     {
         "family_relation": "córka",
         "person": "Zofia Puttkamer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Karolina Puttkamer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Puttkamer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Ksawery Deybel",
-        "result": null
+        "result": false,
+        "pj_note": "to nadinterpretacja tekstu: w r. 1851 siostra Ksawery Deybel przebywała na wsi u Maryli, by konwersować z jej córką Karoliną po niemiecku"
     }
 ]

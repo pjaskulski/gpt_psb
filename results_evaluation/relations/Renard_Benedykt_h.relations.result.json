@@ -2,21 +2,22 @@
     {
         "family_relation": "ojciec",
         "person": "Andrzej Renard",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Baptysta Renard",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Orzelska",
-        "result": null
+        "result": false,
+        "pj_note": "to wynik zawiłego zdania: był synem Andrzeja, bratem Jana Baptysty (zob.) i metresy króla Augusta II, matki Anny Orzelskiej"
     },
     {
         "family_relation": "siostra",
         "person": "Anna Katarzyna Renard",
-        "result": null
+        "result": true
     }
 ]

@@ -2,71 +2,86 @@
     {
         "family_relation": "ojciec",
         "person": "Dobiesław z Konar",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "córka Paszka Niedźwiedzia z Bogumiłowic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Ścibor z Koszyc",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Dobiesław z Konar",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "szwagierka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Elżbieta, córka Włodka z Konaszówki"
     },
     {
         "family_relation": "siostra",
         "person": "Katarzyna",
-        "result": null
+        "result": true,
+        "pj_note": "siostra przyrodnia"
     },
     {
         "family_relation": "żona",
         "person": "nieznana z imienia",
-        "result": null
+        "result": true,
+        "pj_note": "informacja anonimowa, trudna do wykorzystania"
     },
     {
         "family_relation": "syn",
         "person": "Dobiesław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Dorota",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Beata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Mikołaj z Łowczowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Dobiesław",
-        "result": null
-    }
+        "result": true
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jana z Bogumiłowic i Broniszowa R. nazywał wujem"
+    },
+    
 ]

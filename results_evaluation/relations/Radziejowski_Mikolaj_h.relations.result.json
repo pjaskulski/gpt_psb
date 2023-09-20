@@ -2,66 +2,92 @@
     {
         "family_relation": "ojciec",
         "person": "Andrzej Radziejowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Małgorzata Kryska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Radziejowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Stanisław Radziejowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Eufrozyna Działyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Mikołaj Działyński",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan Działyński"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Mikołaj Działyński"
     },
     {
         "family_relation": "syn",
         "person": "Jan Radziejowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Michał Radziejowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Jan Działyński",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "szwagier",
         "person": "Mikołaj Działyński",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "bratanek",
         "person": "Andrzej Radziejowski",
-        "result": null
+        "result": true,
+        "pj_note": "możliwe, ale nie jest to pewne, tekst mówi: na żądanie niedomagającego brata Jana przepisał na bratową Annę i jej syna Andrzeja połowę dóbr lennych"
     },
     {
         "family_relation": "bratanek",
         "person": "Stanisław Radziejowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Mikołaj Maciejowski",
-        "result": null
+        "result": false,
+        "pj_note": "to ojciec synowej bohatera"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Elżbieta Maciejowska"
+    },
+    {
+        "family_relation": "szwagierka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Anna Jeżewska"
     }
 ]

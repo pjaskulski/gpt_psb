@@ -2,31 +2,31 @@
     {
         "family_relation": "ojciec",
         "person": "Walenty Rosicki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Marianna Idzikowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Anna Robowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Józefa Konstancja Rosicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Antonina Wiktoria Rosicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Piotr Michał Rosicki",
-        "result": null
+        "result": true
     }
 ]

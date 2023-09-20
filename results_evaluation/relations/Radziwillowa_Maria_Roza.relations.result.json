@@ -2,61 +2,87 @@
     {
         "family_relation": "wnuczka",
         "person": "Władysław Grzegorz",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, Władysław Grzegorz była dziadkiem bohaterki"
     },
     {
         "family_relation": "ojciec",
         "person": "Władysław Branicki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Maria z Sapiehów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Maria Antoniowa Radziwiłłowa",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, to teściowa bohaterki, problem zapewne wynika z zawiłego sformułowania: wybrała ją sobie na synową ks. Maria Antoniowa Radziwiłłowa" 
     },
     {
         "family_relation": "mąż",
         "person": "Jerzy Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Zofia",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Albrecht Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Karol Mikołaj Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Leon Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Teresa Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Róża Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Elżbieta Radziwiłł",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Hubert Lubomirski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Ludwik Czetwertyński"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Alfred Tyszkiewicz"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Włodzimierz Żeromski"
     }
 ]

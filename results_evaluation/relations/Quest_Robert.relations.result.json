@@ -2,31 +2,32 @@
     {
         "family_relation": "dziadek",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale postać anonimowa, nic nie wnosi"
     },
     {
         "family_relation": "ojciec",
         "person": "Rudolf Quest",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Emilia Mannowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Kazimierz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Roman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Tadeusz",
-        "result": null
+        "result": true
     }
 ]

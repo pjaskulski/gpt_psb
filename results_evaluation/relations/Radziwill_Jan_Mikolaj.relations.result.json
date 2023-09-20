@@ -2,56 +2,57 @@
     {
         "family_relation": "ojciec",
         "person": "Dominik Mikołaj Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Marianna z Połubińskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mikołaj Faustyn Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat stryjeczny",
         "person": "Karol Stanisław Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Henryka Dorota Przebendowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Jan Jerzy Przebendowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Marcin Mikołaj Karol Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Józef Albrecht Grzegorz Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna Małgorzata Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Michał Antoni Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Franciszek Bieliński",
-        "result": null
+        "result": false,
+        "pj_note": "to kolejny mąż żony bohatera"
     }
 ]

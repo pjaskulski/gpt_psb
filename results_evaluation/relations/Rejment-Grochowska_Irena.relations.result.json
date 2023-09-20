@@ -2,26 +2,26 @@
     {
         "family_relation": "ojciec",
         "person": "Henryk Rejment",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Czesława Maliszewska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Jerzy Grochowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Maciej Grochowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Agnieszka Mostowska",
-        "result": null
+        "result": true
     }
 ]

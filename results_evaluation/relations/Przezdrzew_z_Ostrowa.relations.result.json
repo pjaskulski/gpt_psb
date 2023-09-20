@@ -2,46 +2,48 @@
     {
         "family_relation": "brat",
         "person": "Gerward",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wuj",
         "person": "Maciej z Gołańczy",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, bohater był wujem Macieja"
     },
     {
         "family_relation": "ojciec",
         "person": "Maciej z Ostrowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan z Ostrowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Grzymisław z Procynia",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Ryszewko z Procynia",
-        "result": null
+        "result": false,
+        "pj_note": "błąd, to chyba miejscowość: Za synów P-a można uważać braci: Grzymisława z Procynia i Ryszewka"
     },
     {
         "family_relation": "syn",
         "person": "Tomisław z Procynia",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Paweł z Procynia",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Przezdrzew",
-        "result": null
+        "result": true
     }
 ]

@@ -2,31 +2,32 @@
     {
         "family_relation": "ojciec",
         "person": "Bronisław Robel",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Franciszka Serafińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Maria Stanisława Telesznicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Tadeusz Robel",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Maria Robel",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jadwiga",
-        "result": null
+        "result": false,
+        "pj_note": "to synowa"
     }
 ]
