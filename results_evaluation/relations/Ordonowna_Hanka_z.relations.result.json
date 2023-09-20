@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Władysław Pietruszyński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Helena Bieńkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Michał Tyszkiewicz",
-        "result": null
+        "result": true
     }
 ]

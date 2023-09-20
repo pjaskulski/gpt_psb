@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Wincenty",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Julia Werner",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Roman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Eligiusz",
-        "result": null
+        "result": true
     }
 ]

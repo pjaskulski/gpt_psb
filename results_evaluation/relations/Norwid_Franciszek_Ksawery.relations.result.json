@@ -2,51 +2,51 @@
     {
         "family_relation": "ojciec",
         "person": "Jan Norwid",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Ludwika Norwid ze Zdzieborskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Ludwik Norwid",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Cyprian Norwid",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wuj",
         "person": "Aleksander Napoleon Dybowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wuj",
         "person": "Józef Dybowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Zofia Norwid z Sobieskich Komierowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Norwid",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Paulina Norwid",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Ignacy Sobieski",
-        "result": null
+        "result": true
     }
 ]

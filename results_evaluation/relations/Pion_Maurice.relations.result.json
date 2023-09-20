@@ -2,41 +2,41 @@
     {
         "family_relation": "ojciec",
         "person": "Antoine Claude Pion",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anne Pauli",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Aleksandra Antonina Budzyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Adolf Stanisław Pion",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Władysław Stanisław Pion",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Adela Pion",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Kornelia Quattrini",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Eugenia Koss",
-        "result": null
+        "result": true
     }
 ]

@@ -2,16 +2,17 @@
     {
         "family_relation": "ojciec",
         "person": "Zygmunt Rogoliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Ansberty z Badeńskich",
-        "result": null
+        "result": true,
+        "pj_note": "ale raczej błędna odmiana imienia: Ansberta?"
     },
     {
         "family_relation": "mąż",
         "person": "Konstanty Piotrowicz",
-        "result": null
+        "result": true
     }
 ]

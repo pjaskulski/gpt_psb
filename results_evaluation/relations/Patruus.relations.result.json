@@ -2,21 +2,24 @@
     {
         "family_relation": "syn",
         "person": "Jan Patruus",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "nieznana",
-        "result": null
+        "result": true,
+        "pj_note":"ale anonimowa informacja z biogramu nic nie wnosi"
     },
     {
         "family_relation": "córka",
         "person": "nieznana",
-        "result": null
+        "result": true,
+        "pj_note":"ale anonimowa informacja z biogramu nic nie wnosi"
     },
     {
         "family_relation": "syn",
         "person": "Jan",
-        "result": null
+        "result": false,
+        "pj_note":"duplikat, to ta sama osoba, nie drugi syn"
     }
 ]

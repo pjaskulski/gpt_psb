@@ -2,26 +2,32 @@
     {
         "family_relation": "ojciec",
         "person": "Samuel Niesiołowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Zofia Mokrska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Teofila de Raess",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Adam Niesiołowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Henryk de Raess",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "w tekście fragment dot. syna bohatera: mylony ze swym stryjem, także Adamem"
     }
 ]

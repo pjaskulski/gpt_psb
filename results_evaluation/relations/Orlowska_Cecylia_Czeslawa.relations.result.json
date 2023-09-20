@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Eliasz Grynberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Barbara Grynberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Antoni Markowski/Franciszek Szczepowski",
-        "result": null
+        "result": true
     }
 ]

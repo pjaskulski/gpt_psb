@@ -2,56 +2,56 @@
     {
         "family_relation": "ojciec",
         "person": "Kazimierz Aleksander Pociej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Teresa z Lettowów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Antoni Pociej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Ludwik Pociej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Leonard Pociej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Teresa z Woynów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna Pociej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Karolina Pociej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Józef Tyszkiewicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Stanisław Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "babcia",
         "person": "Regina z Ogińskich Pociejowa",
-        "result": null
+        "result": true
     }
 ]

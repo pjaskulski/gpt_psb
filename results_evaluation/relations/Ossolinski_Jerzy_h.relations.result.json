@@ -2,71 +2,74 @@
     {
         "family_relation": "ojciec",
         "person": "Zbigniew Ossoliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna z Firlejów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Maksymilian Ossoliński",
-        "result": null
+        "result": true,
+        "pj_note": "brat przyrodni"
     },
     {
         "family_relation": "brat",
         "person": "Krzysztof Ossoliński",
-        "result": null
+        "result": true,
+        "pj_note": "brat przyrodni"
     },
     {
         "family_relation": "opiekunka",
         "person": "Jadwiga Młodnicka",
-        "result": null
+        "result": false,
+        "pj_note":"to prawdziwa informacja, ale opiekunka nie jest rodzajem pokrewieństwa"
     },
     {
         "family_relation": "żona",
         "person": "Izabela Daniłowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Mikołaj Daniłowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Franciszek Ossoliński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Urszula Ossolińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Helena Tekla Ossolińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna Teresa Ossolińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Samuel Kalinowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Aleksander Lubomirski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Zygmunt Denhoff",
-        "result": null
+        "result": true
     }
 ]

@@ -2,66 +2,69 @@
     {
         "family_relation": "wnuk",
         "person": "Paweł",
-        "result": null
+        "result": false,
+        "pj_note": "to bohater był wnukiem Pawła"
     },
     {
         "family_relation": "ojciec",
         "person": "Aleksander Jan Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Teresa Tarła",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędna odmiana nazwiska, raczej Tarło?"
     },
     {
         "family_relation": "bratanek",
         "person": "Teodor Potocki",
-        "result": null
+        "result": false,
+        "pj_note": "to bohater był bratankiem Teodora"
     },
     {
         "family_relation": "brat",
         "person": "Józef Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "stryj",
         "person": "Teodor Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "krewne",
         "person": "Anna Iwanowna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Maria Ludwika Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Aleksander Tarło",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wuj",
         "person": "Jan Tarło",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Prosper Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Piotr Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Prot Potocki",
-        "result": null
+        "result": true
     }
 ]

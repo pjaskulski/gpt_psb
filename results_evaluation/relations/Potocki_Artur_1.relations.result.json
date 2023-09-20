@@ -2,51 +2,51 @@
     {
         "family_relation": "ojciec",
         "person": "Adam Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna Branicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Andrzej Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Róża Lubomirska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Eugeniusz Lubomirski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "Róża Zamoyska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Róża Potocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Zofia Potocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Maciej Radziwiłł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Zdzisław Tarnowski",
-        "result": null
+        "result": true
     }
 ]

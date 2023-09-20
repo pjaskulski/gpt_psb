@@ -2,31 +2,33 @@
     {
         "family_relation": "brat",
         "person": "Wiktoryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale ta informacja, anonimowa, nic nie wnosi"
     },
     {
         "family_relation": "syn",
         "person": "Jakub",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Ewa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Mikołaj Jazłowiecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "stryj",
         "person": "Wiktoryn",
-        "result": null
+        "result": false,
+        "pj_note": "to stryj córki bohatera, czyli jego brat, już wymieniony"
     }
 ]

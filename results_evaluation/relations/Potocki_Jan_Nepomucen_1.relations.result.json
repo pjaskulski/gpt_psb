@@ -2,61 +2,97 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Działyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Róża Wodzicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Maria Szajer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Aleksander Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Teresa Potocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Jadwiga Potocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Ignacy Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Zofia Potocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Potocka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Potocki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Jerzy Potocki",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Kazimierz Tchórznicki"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jerzy Skrzyszowski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Stanisław Grabiński"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Andrzej Potworowski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Kazimierz Mańkowski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jerzy Stojowski"
     }
 ]

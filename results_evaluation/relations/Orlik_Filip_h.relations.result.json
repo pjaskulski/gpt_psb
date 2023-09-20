@@ -2,76 +2,76 @@
     {
         "family_relation": "ojciec",
         "person": "Stefan Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Irena Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Anna Hercyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Paweł Hercyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Grzegorz Hercyk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Grzegorz Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Michał Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jakub Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anastazja Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Barbara Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Marta Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maryna Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Katarzyna Orlik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "J. Stenflycht",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Andrzej Dzierżanowski",
-        "result": null
+        "result": true
     }
 ]

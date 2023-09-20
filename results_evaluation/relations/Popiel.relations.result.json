@@ -2,11 +2,11 @@
     {
         "family_relation": "syn",
         "person": "Siemowit",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "ojciec",
         "person": "Piast",
-        "result": null
+        "result": false
     }
 ]

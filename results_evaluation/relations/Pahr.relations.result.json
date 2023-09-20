@@ -2,36 +2,39 @@
     {
         "family_relation": "bratanek",
         "person": "Joachim",
-        "result": null
+        "result": false,
+        "pj_note": "chodzi raczej o bratanka innej postaci: Zlecone mu przez bpa Jakuba von Salza i jego bratanka Joachima prace"
     },
     {
         "family_relation": "brat",
         "person": "Franciszek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Bernard Niuron",
-        "result": null
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "family_relation": "córka",
         "person": "Lukrecja",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Krzysztof",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Dominik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Baptysta",
-        "result": null
+        "result": true,
+        "pj_note": "prawdopodobnie: a może również Jan Baptysta (zm. po 1586)"
     }
 ]

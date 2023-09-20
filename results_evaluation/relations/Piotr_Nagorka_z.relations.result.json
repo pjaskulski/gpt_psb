@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Bogusław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mroczka z Kisielewa",
-        "result": null
+        "result": true
     }
 ]
