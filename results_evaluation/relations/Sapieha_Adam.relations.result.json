@@ -2,61 +2,79 @@
     {
         "family_relation": "ojciec",
         "person": "Leon Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Jadwiga Sapieżyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Jadwiga Sanguszkówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Władysław Sanguszko",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "kuzyn",
         "person": "Jan Działyński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Jadwiga Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Helena Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Władysław Leon Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Leon Paweł Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Paweł Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Adam Stefan Sapieha",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "babka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Anna Sapieżyna"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Adam Jerzy Czartoryski"
+    },
+    {
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Edward Stadnicki"
     }
 ]
