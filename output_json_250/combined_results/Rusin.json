@@ -39,49 +39,33 @@
         }
     ],
     "relations": [
-        {
-            "family_relation": "teść",
-            "person": "Mikołaj z Zawichostu"
+        {   
+            "family_relation":"teść", 
+            "person":"Mikołaj z Zawichostu"
         },
         {
-            "family_relation": "syn",
-            "person": "Jan"
+            "family_relation":"syn", 
+            "person":"Jan"
         },
         {
-            "family_relation": "córka",
-            "person": "Anna"
+            "family_relation":"córka", 
+            "person":"Anna"
+        },
+        {   
+            "family_relation":"żona", 
+            "person":"Helena"
+        },
+        {   
+            "family_relation":"córka", 
+            "person":"Gertruda"
         },
         {
-            "family_relation": "żona",
-            "person": "Helena"
+            "family_relation":"zięć", 
+            "person":"Tyczek Snel"
         },
         {
-            "family_relation": "teść",
-            "person": "Mikołaj z Zawichostu"
-        },
-        {
-            "family_relation": "syn",
-            "person": "Jan (Hank)"
-        },
-        {
-            "family_relation": "córka",
-            "person": "Anna"
-        },
-        {
-            "family_relation": "córka",
-            "person": "Gertruda"
-        },
-        {
-            "family_relation": "zięć",
-            "person": "Tyczek Snel"
-        },
-        {
-            "family_relation": "wnuczka",
-            "person": "Elżbieta"
-        },
-        {
-            "family_relation": "zięć",
-            "person": "Stanisław Pensator"
+            "family_relation":"synowa", 
+            "person":"Elżbieta"
         }
     ],
     "significant_people": [
