@@ -52,7 +52,7 @@
     {
         "family_relation": "syn",
         "person": "Wacław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
