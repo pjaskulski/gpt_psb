@@ -7,7 +7,8 @@
     "place_of_death": {
         "place": "Brażele", 
         "note": "brak danych",
-        "result": true
+        "result": true,
+        "pj_note":"błędna odmiana, raczej: Brażelce"
     },
     "place_of_burial": {
         "place": "Bieniakonie", 

@@ -3,7 +3,8 @@
         "place_of_birth": {
             "place": "Kownatowo",
             "note": "powiat telszewski, Litwa",
-            "result": true
+            "result": true,
+            "pj_note": "czy to poprawna odmiana, biogram podaje: w Kownatowie w pow. telszewskim na Litwie?"
         },
         "place_of_death": {
             "place": "Warszawa",

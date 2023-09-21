@@ -13,11 +13,13 @@
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": true
+        "result": false,
+        "pj_note":"ale jest w tekście przyliżenie: datę jego urodzin wypada odnieść do czasu co najmniej około r. 1130 lub nieco wcześniej; w chwili zgonu liczyłby około 60 lat"
     },
     "date_of_death": {
         "date": "brak danych",
-        "result": true
+        "result": false,
+        "pj-note": "ale jest w tekście przyliżenie: datę jego urodzin wypada odnieść do czasu co najmniej około r. 1130 lub nieco wcześniej; w chwili zgonu liczyłby około 60 lat"
     },
     "date_of_burial": {
         "date": "brak danych",

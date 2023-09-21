@@ -1,7 +1,8 @@
 {
     "place_of_birth": {
         "place": "Mierzanów",
-        "result": true
+        "result": true,
+        "pj_note": "ale błędna forma, chyba chodzi o Mierzanowo"
     },
     "place_of_death": {
         "place": "Versoix",

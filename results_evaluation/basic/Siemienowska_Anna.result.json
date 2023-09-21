@@ -2,7 +2,8 @@
     "place_of_birth": {
         "place": "Albertyna",
         "note": "powiat słonimski",
-        "result": true
+        "result": true,
+        "pj_note": "błędna odmiana, powinno być: Albertyn"
     },
     "place_of_death": {
         "place": "Warszawa",
