@@ -96,28 +96,51 @@
         "person": "Aleksandra",
         "result": true
     },
-    {   "skipped": "szwagier: w. kn. Oleg Iwanowicz Riazański",
-        "result": false
+    {   "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "szwagier: w. kn. Oleg Iwanowicz Riazański"
     },
-    {   "skipped": "pasierb: Andrzej",
-        "result": false
+    {   
+        "family_relation": "pasierb",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "pasierb: Andrzej"
     },
-    {   "skipped": "zięć: Witołd",
-        "result": false
+    {   
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "zięć: Witołd"
     },
-    {   "skipped": "zięć: Iwan Holszański",
-        "result": false
+    {   
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "zięć: Iwan Holszański"
     },
-    {   "skipped": "zięć: Butrym",
-        "result": false
+    {   
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "zięć: Butrym"
     },
-    {   "skipped": "zięć: Moniwida",
-        "result": false
+    {   
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "zięć: Moniwida"
     },
-    {   "skipped": "zięć: Aleksandra",
-        "result": false
+    {   
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "zięć: Aleksandra"
     },
-    {   "skipped": "zięć: Andrzej Wiazyński",
-        "result": false
+    {   
+        "family_relation": "zięć",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "zięć: Andrzej Wiazyński"
     }
 ]
