@@ -2,21 +2,22 @@
     {
         "family_relation": "ojciec",
         "person": "Piotr",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Kaspar",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Melchior",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan",
-        "result": null
+        "result": true,
+        "pj_note": "dokładnie: być może"
     }
 ]

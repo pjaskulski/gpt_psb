@@ -2,51 +2,51 @@
     {
         "family_relation": "ojciec",
         "person": "Tomasz Słupecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Helena Turczyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Klemens Jan Słupecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Józef Franciszek Słupecki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Antonina Helena Słupecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Wiktoria Słupecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Franciszek Leopold Lafonataine",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagierka",
         "person": "Zofia Hauke",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Helena Słupecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Wiktoria Augustowska",
-        "result": null
+        "result": true
     }
 ]

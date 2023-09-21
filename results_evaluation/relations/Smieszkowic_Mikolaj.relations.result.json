@@ -2,126 +2,129 @@
     {
         "family_relation": "ojciec",
         "person": "Mikołaj Śmieszko",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Katarzyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Elżbieta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Barbara",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Stanisław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Tomasz",
-        "result": null
+        "result": true,
+        "pj_note": "w tekście określenie: zapewne również"
     },
     {
         "family_relation": "szwagier",
         "person": "Zygmunt Gajsler",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Szymon z Brzezin",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Stanisław Berger",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Szymon Tomaszewicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Józef Markowic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Urszula",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Marcin Hanel",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Szymon Szymonowic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzenica",
         "person": "Krystyna z Szymonowiców",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Kosma Saluago de Campis",
-        "result": null
+        "result": false,
+        "pj_note": "Syn Ś-a, Mikołaj, otrzymał 19 I 1594 prawo miejskie we Lwowie; w r. 1603 poręczył za przyjmującym prawo miejskie Kosmą Saluago de Campis z wyspy Chios"
     },
     {
         "family_relation": "synowa",
         "person": "Anna Anserinówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuczka",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Kaspar",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Elżbieta Kisiołkówna",
-        "result": null
+        "result": false,
+        "pj_note": "to żona wnuka"
     }
 ]
