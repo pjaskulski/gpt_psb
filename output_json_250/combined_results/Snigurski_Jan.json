@@ -119,16 +119,20 @@
     ],
     "relations": [
         {
-            "family_relation": "ojciec",
-            "person": "Jan (Ioann)"
+            "family_relation":"ojciec", 
+            "person":"Jan Śnigurski"
         },
         {
-            "family_relation": "matka",
-            "person": "Eufrozyna z Werbyckich"
+            "family_relation":"matka", 
+            "person":"Eufrozyna Śnigurska"
         },
         {
-            "family_relation": "kuzyn",
-            "person": "nieznane imię i nazwisko"
+            "family_relation":"kuzyn", 
+            "person":"Mychajło Werbyćki"
+        },
+        {
+            "family_relation":"kuzyn", 
+            "person":"Jan Śnigurski"
         }
     ],
     "significant_people": [
