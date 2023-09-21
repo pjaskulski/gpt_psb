@@ -2,41 +2,42 @@
     {
         "family_relation": "wnuczka",
         "person": "Adam Kazimierz Czartoryski",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, to dziadek bohaterki"
     },
     {
         "family_relation": "ojciec",
         "person": "Stanisław Zamoyski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Zofia Czartoryska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Celina Działyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Leon Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Władysław Zamoyski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Adam Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Jadwiga Sapieha",
-        "result": null
+        "result": true
     }
 ]

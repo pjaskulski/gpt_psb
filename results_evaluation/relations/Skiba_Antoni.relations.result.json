@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Augustyn Skiba",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Rozalia Skiba",
-        "result": null
+        "result": true
     }
 ]

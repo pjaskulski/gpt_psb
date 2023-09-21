@@ -1,27 +1,35 @@
-[
+    [
     {
         "family_relation": "ojciec",
         "person": "Wincenty",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna Starczynowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Andrzej Krzycki",
-        "result": null
+        "result": false,
+        "pj_note": "przez siostrzeńca Tomickiego Andrzeja Krzyckiego"
     },
     {
         "family_relation": "bratanek",
         "person": "Jan Krzycki",
-        "result": null
+        "result": false,
+        "pj_note": "wspólnie z bratankiem Krzyckiego Janem"
+    },
+    {
+        "family_relation": "krewny",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Spokrewniony z bpem krakowskim Piotrem Tomickim"
     }
 ]

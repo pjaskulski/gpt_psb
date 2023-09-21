@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Wiktor",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Pelagia Hołubicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Jadwiga Brojakowa",
-        "result": null
+        "result": true
     }
 ]

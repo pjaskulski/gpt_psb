@@ -2,46 +2,49 @@
     {
         "family_relation": "ojciec",
         "person": "Piotr Branicki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Waleria Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Franciszek Ksawery Branicki",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, Franciszek to brat bohterki"
     },
     {
         "family_relation": "mąż",
         "person": "Jan Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Piotr Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Kazimierz Nestor Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Jan Sapieha",
-        "result": null
+        "result": true,
+        "pj_note": "to prawda, bohaterka poślubiła innego człowieka o tym samym imieniu i nazwisku co poprzedni mąż!"
     },
     {
         "family_relation": "teść",
         "person": "Ignacy Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Stanisław",
-        "result": null
+        "result": false,
+        "pj_note": "chodzi raczej o bratanka króla: Gdy w październiku zwyciężył bratanek króla, Stanisław, gotowa była poprzeć rezygnację syna"
     }
 ]

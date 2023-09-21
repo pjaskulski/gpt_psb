@@ -2,21 +2,23 @@
     {
         "family_relation": "ojciec",
         "person": "Jeszaajahu (Izajasz)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Debora Aszkenazi",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale anonimowa"
     },
     {
         "family_relation": "córka",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale anonimowa"
     }
 ]

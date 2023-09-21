@@ -2,26 +2,26 @@
     {
         "family_relation": "ojciec",
         "person": "Piast",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Rzepicha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Lestik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Siemomysł",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "prawnuk",
         "person": "Mieszko I",
-        "result": null
+        "result": true
     }
 ]

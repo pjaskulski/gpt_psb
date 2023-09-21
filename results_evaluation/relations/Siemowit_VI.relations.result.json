@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Władysław I",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "dziadek",
         "person": "Konrad V Kącki vel Kantner",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Władysław",
-        "result": null
+        "result": true
     }
 ]

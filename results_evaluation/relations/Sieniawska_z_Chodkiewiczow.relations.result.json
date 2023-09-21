@@ -2,31 +2,38 @@
     {
         "family_relation": "ojciec",
         "person": "Aleksander Chodkiewicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Eufemia Sienieńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "dziadek",
         "person": "Andrzej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Prokop Sieniawski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Adam Hieronim",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Jan Stanisław Sapieha",
-        "result": null
-    }
+        "result": true,
+        "pj_note": "o ile mąż stryjecznej siostry to szwagier?"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "na rzecz szwagra, podczaszego kor. Mikołaja Sieniawskiego"
+    },
 ]

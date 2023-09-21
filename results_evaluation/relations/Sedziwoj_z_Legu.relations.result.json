@@ -2,16 +2,17 @@
     {
         "family_relation": "ojciec",
         "person": "Michał z Łęgu Kościelnego",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Świętosław, zw. Bernardem",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Świętosław, kanonik płocki",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, to bohater był bratankiem Świętosława, a Świętosław wujem bohatera"
     }
 ]

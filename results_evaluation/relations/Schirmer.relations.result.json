@@ -2,21 +2,28 @@
     {
         "family_relation": "siostra",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale to informacja anonimowa i niewiele wnosi"
     },
     {
         "family_relation": "żona",
         "person": "Małgorzata",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Mikołaj",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "siostrzeniec",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "W r. 1407 wykupił za olbrzymią sumę z rąk swego siostrzeńca Zygmunta Wierzynka dziedziczne wójtostwo w Lublinie"
     }
 ]

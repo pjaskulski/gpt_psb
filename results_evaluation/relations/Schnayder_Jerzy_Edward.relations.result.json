@@ -2,26 +2,26 @@
     {
         "family_relation": "ojciec",
         "person": "Edward Schnayder",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Felicja Krzyszkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Felicja Teresa Kęszycka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Edward Schnayder",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Janina Smorawińska",
-        "result": null
+        "result": true
     }
 ]

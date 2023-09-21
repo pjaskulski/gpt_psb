@@ -2,36 +2,42 @@
     {
         "family_relation": "ojciec",
         "person": "Edmund Wąsik",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "matka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "oraz poślubionej w r. 1924 Heleny z Masłowskich"
     },
     {
         "family_relation": "siostra przyrodnia",
         "person": "Bożena Jewasińska Naturska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Olgierd Edmund Wąsik",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "krewna",
         "person": "Eugenia Deutsch",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Czesław Michał Górski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Szczęsny Tadeusz Górski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Janusz Warmiński",
-        "result": null
+        "result": true
     }
 ]

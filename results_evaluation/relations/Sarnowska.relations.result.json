@@ -2,26 +2,27 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Sarnowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna Lewkowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Kazimierz",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, bohterka była bratanicą, więc Kazimierz to wuj bohaterki"
     },
     {
         "family_relation": "mąż",
         "person": "Wiktor Mühsam",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Tadeusz Mühsam",
-        "result": null
+        "result": true
     }
 ]

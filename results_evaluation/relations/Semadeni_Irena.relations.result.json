@@ -2,21 +2,22 @@
     {
         "family_relation": "ojciec",
         "person": "Wojciech Konopacki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Konstancja Zaleska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Tadeusz Semadeni",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "nieznane imię Semadeni",
-        "result": null
+        "result": true,
+        "pj_note": "informacja anonimowa: W małżeństwie z Tadeuszem Semadenim S. miała dwóch synów"
     }
 ]
