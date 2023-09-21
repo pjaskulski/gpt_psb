@@ -2,46 +2,66 @@
     {
         "family_relation": "ojciec",
         "person": "mieszczanin lub dziedzic Sosnowic o przezwisku Strzała",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Jadwiga",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "Dorota",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Czatirwang",
-        "result": null
+        "result": false,
+        "pj_note": "raczej to brat żony:  W r. 1392 Jadwiga zapisała S-owi część dóbr ojcowskich i wraz z rodzeństwem, tj. bratem Janem Czatirwangiem i siostrą Urszulą oraz S-em jako współwłaścicielem, przekazała dożywotnio matce (teściowej S-a), Dorocie"
     },
     {
         "family_relation": "siostra",
         "person": "Urszula",
-        "result": null
+        "result": false,
+        "pj_note": "raczej to siostra żony:  W r. 1392 Jadwiga zapisała S-owi część dóbr ojcowskich i wraz z rodzeństwem, tj. bratem Janem Czatirwangiem i siostrą Urszulą oraz S-em jako współwłaścicielem, przekazała dożywotnio matce (teściowej S-a), Dorocie"
+    },
+    {
+        "family_relation": "teść",
+        "person": "",
+        "result": false,
+        "pj_note": "Czatirwang"
     },
     {
         "family_relation": "żona",
         "person": "Katarzyna z Sosnowic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Strzelic",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "syn",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Piotr Strzelic"
+    },
+    {
+        "family_relation": "syn",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Mikołaj Strzelic"
     },
     {
         "family_relation": "córka",
         "person": "Agnieszka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Klemens, wójt z Ciężkowic",
-        "result": null
+        "result": true
     }
 ]

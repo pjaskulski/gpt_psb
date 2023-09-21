@@ -2,76 +2,89 @@
     {
         "family_relation": "ojciec",
         "person": "Stanisław Poniatowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Konstancja z Czartoryskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Kazimierz Poniatowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Izabela Branicka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Andrzej Poniatowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Michał Poniatowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Józef Poniatowski",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "bratanek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Stanisław Poniatowski"
     },
     {
         "family_relation": "bratanica",
         "person": "Maria Teresa Poniatowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Kazimierz Nestor Sapieha",
-        "result": null
+        "result": false,
+        "pj_note": "to siostrzeniec hetmana F. K. Branickiego"
     },
     {
         "family_relation": "córka",
         "person": "Konstancja Poniatowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Michał Cichocki",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "córka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Konstancja Poniatowska, bohater miał 2 córki o tym imieniu"
     },
     {
         "family_relation": "córka",
         "person": "Izabela Poniatowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Michał Grabowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Kazimierz Grabowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Grabowski",
-        "result": null
+        "result": true
     }
 ]

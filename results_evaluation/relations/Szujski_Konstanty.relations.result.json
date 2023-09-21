@@ -2,116 +2,148 @@
     {
         "family_relation": "ojciec",
         "person": "Aleksander Szujski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Jadwiga z Krzywczyckich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Władysław Aleksander Szujski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Anna Szujska",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Stefan Rusiecki"
     },
     {
         "family_relation": "żona",
         "person": "Zofia Brzozowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Zofia Cecylia z Konopackich",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Anna z Kostków"
     },
     {
         "family_relation": "żona",
         "person": "Ludwika Sapieha",
-        "result": null
+        "result": true,
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Anna z Herburtów"
     },
     {
         "family_relation": "żona",
         "person": "Anna z Kopciów",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Maria Lukrecja ze Strozzich"
     },
     {
         "family_relation": "syn",
         "person": "Dominik Szujski",
-        "result": null
+        "result": false,
+        "pj_note":"to raczej duplikat, ta sama osoba co również znaleziony Dominik Kazimierz Jan Szujski"
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Szujski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Dominik Kazimierz Jan Szujski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Apoloniusz Aleksander Szujski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Ludwika Teresa Szujska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Paula Szujska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Benedykta Szujska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Maksymilian Brzozowski",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "teściowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Justyna z Jełowickich"
     },
     {
         "family_relation": "teść",
         "person": "Jerzy Konopacki",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Jan Fryderyk Sapieha",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Jan Karol Kopciński",
-        "result": null
+        "result": true,
+        "pj_note": "choć nazwisko zapewne niepoprawnie odmienione, skoro mowa o ojcu Anny z Kopciów"
     },
     {
         "family_relation": "zięć",
         "person": "Jan Kazimierz Pac",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Aleksander Ogiński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Aleksander Niemira",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Stefan Ossoliński",
-        "result": null
+        "result": true
     }
 ]

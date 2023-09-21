@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Jakub ze Stawów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     }
 ]

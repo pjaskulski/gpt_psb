@@ -2,26 +2,28 @@
     {
         "family_relation": "ojciec",
         "person": "Włodzimierz Świrski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Celina Świrska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Małgorzata Świrska",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie: to siostra bohatera"
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Maria Konopnicka",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, to ciotka bohatera"
     },
     {
         "family_relation": "żona",
         "person": "Maria Wiercińska",
-        "result": null
+        "result": true
     }
 ]

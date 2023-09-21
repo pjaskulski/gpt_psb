@@ -2,46 +2,46 @@
     {
         "family_relation": "ojciec",
         "person": "Wit Sulimirski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Oktawia Peszyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat stryjeczny",
         "person": "Stefan Sulimirski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Olga Łepkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Felicja Janiszewska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Maria Romanowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Witold Sulimirski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Karol Sulimirski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jerzy Sulimirski",
-        "result": null
+        "result": true
     }
 ]

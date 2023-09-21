@@ -2,31 +2,31 @@
     {
         "family_relation": "matka",
         "person": "Leokadia Świątkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojciec",
         "person": "Jan Rochmiński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Jadwiga Pyszkowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Helena",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Jadwiga",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Zofia",
-        "result": null
+        "result": true
     }
 ]

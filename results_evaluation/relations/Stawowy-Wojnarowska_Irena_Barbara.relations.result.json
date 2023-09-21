@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Baltazar Stawowy",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Amalia Nowotna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Janina Pasteruk",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Zygmunt Wojnarowski",
-        "result": null
+        "result": true
     }
 ]

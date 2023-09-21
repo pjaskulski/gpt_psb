@@ -2,36 +2,38 @@
     {
         "family_relation": "dziadek",
         "person": "Heinrich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojciec",
         "person": "Georg (Jurgen)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Eufemia Schultz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Christoph",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, bohater był bratankiem, więc chodzi o wuja"
     },
     {
         "family_relation": "siostrzeniec",
         "person": "Aleksander Sculteti",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, bohater był siostrzeńcem, więc chodzi o wuja"
     },
     {
         "family_relation": "brat",
         "person": "Bartłomiej (Bertold)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jerzy (Georg)",
-        "result": null
+        "result": true
     }
 ]

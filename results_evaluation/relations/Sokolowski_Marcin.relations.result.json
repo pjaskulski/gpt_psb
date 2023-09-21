@@ -2,16 +2,16 @@
     {
         "family_relation": "żona",
         "person": "Marianna Prymkiewiczówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Hiacynt (Jacek) Prymkiewicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "Krystyna",
-        "result": null
+        "result": true
     }
 ]

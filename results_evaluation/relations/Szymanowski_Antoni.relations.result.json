@@ -2,41 +2,65 @@
     {
         "family_relation": "dziadek",
         "person": "Michał Alfred Szymanowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojciec",
         "person": "Aleksander Szymanowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Józefa Natanson",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "pradziadek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Henryk Natanson"
+    },
+    {
+        "family_relation": "dziadek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Kazimierz Natanson"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan Natanson-Leski"
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Zygmunt Szymanowski"
     },
     {
         "family_relation": "siostra",
         "person": "Zofia Chądzyńska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra stryjeczna",
         "person": "Jadwiga Kaczanowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Paulina Lucyna Potok",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Piotr Szymanowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Szymanowski",
-        "result": null
+        "result": true
     }
 ]

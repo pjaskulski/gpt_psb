@@ -2,11 +2,30 @@
     {
         "family_relation": "ojciec",
         "person": "Jakow Stebelski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "W. Biłozerskyj",
-        "result": null
+        "result": false,
+        "pj_note": "w tekście trochę mylące sformułowanie: Kulisz ... spowodował publikację broszury ..., którą zapewne sam przygotował (nieoficjalnie przyznawał się do autorstwa jego szwagier, W. Biłozerskyj), chodzi o szwagra Kulisza a nie bohatera"
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jarosław"
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Roman"
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Piotr"
     }
 ]

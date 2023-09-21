@@ -2,51 +2,70 @@
     {
         "family_relation": "ojciec",
         "person": "Wolimunt",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "dziadek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jego ojciec Wolimunt (zm. przed 1412), syn Buszki"
     },
     {
         "family_relation": "brat",
         "person": "Rumbold",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Michał Kieżgajło",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jawnuta"
+    },
+    {
+        "family_relation": "brat",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Gudygierd (?)"
     },
     {
         "family_relation": "brat",
         "person": "Szedybor",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław (Stanko)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "nieznane imię",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jan Gasztołd",
-        "result": null
+        "result": false,
+        "pj_note": "to zięć brata bohatera"
     },
     {
         "family_relation": "zięć",
         "person": "Jan Wiażewicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Michał Kieżgajło",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Jan Kieżgajło",
-        "result": null
+        "result": true
     }
 ]

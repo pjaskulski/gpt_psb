@@ -2,51 +2,82 @@
     {
         "family_relation": "ojciec",
         "person": "Szymki (Szymon) Mitkowicza Poszuszwieński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Elżbieta Stankiewiczówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Stanisław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Hanna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Dorota",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Zofia",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "stryj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Po śmierci Katarzyny Szczepanówny, żony stryja Bogdana Mitkowicza"
     },
     {
         "family_relation": "żona",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Jadwiga Marcinówna Czyżówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Marek Ławrynowicz Wnuczek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Stanisław Bielewicz",
-        "result": null
+        "result": false,
+        "pj_note": "to dziadek bohatera"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jerzy Billewicz"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Sebastian Mikołajowicz Kęsztort"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Stanisław Szemiot"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan Wacławowicz Bartoszewicz"
     }
 ]

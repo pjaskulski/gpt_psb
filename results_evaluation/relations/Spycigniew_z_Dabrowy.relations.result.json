@@ -2,21 +2,22 @@
     {
         "family_relation": "syn",
         "person": "Kazimierz I",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "brat",
         "person": "Zdzisław",
-        "result": null
+        "result": false,
+        "pj_note": "powierzył S-owi i kilku innym dostojnikom rozstrzygnięcie sporu między braćmi: kaszt. włocławskim Zdzisławem i kaszt. bydgoskim Bogusławem z rodu Cielepałów"
     },
     {
         "family_relation": "syn",
         "person": "Zawisza",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "wnuk",
         "person": "Spycigniew",
-        "result": null
+        "result": true
     }
 ]

@@ -2,56 +2,57 @@
     {
         "family_relation": "ojciec",
         "person": "Aleksander Zachariasz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Ewa z Lityńskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "dziadek",
         "person": "Bazyli",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "babcia",
         "person": "Zofia z Pokulińskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Michał",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Eustachy Stanisław",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Teodor",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Aleksy (Aleksander)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Konstancja (Katarzyna)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Antoni Winnicki",
-        "result": null
+        "result": false
     },
     {
         "family_relation": "kuzyn",
         "person": "Atanazy Antoni",
-        "result": null
+        "result": true,
+        "pj_note": "właściwie należałoby napisać krewny: zrzekł się S. archimandrii uniowskiej na rzecz krewnego, Atanazego Antoniego"
     }
 ]

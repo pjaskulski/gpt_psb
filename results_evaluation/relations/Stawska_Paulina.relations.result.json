@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Jan Stawski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Paulina Becker",
-        "result": null
+        "result": true
     }
 ]

@@ -2,16 +2,16 @@
     {
         "family_relation": "matka",
         "person": "nieznane",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojczym",
         "person": "Wilhelm Eschrich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "narzeczona",
         "person": "Rozalia",
-        "result": null
+        "result": true
     }
 ]

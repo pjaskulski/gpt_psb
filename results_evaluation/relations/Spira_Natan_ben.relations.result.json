@@ -2,21 +2,24 @@
     {
         "family_relation": "ojciec",
         "person": "Samson",
-        "result": null
+        "result": true,
+        "pj_note": "tylko na podstawie: ben Samson"
     },
     {
         "family_relation": "syn",
         "person": "Salomon",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Natan Naty Spira",
-        "result": null
+        "result": false,
+        "pj_result": "to raczej wnuk bohatera: S. pozostawił syna o imieniu Salomon, który był ojcem Natana Naty Spiry"
     },
     {
         "family_relation": "kuzyn",
         "person": "Dawid Gans",
-        "result": null
+        "result": true,
+        "pj_note": "w zasadzie powinno być krewny - S. był spokrewniony z astronomem i matematykiem Dawidem Gansem z Pragi"
     }
 ]

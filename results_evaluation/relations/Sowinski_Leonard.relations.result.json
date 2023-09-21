@@ -2,21 +2,27 @@
     {
         "family_relation": "ojciec",
         "person": "Jan Wincenty",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Pelagia z Pawlickich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Bona z Rościszewskich",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "nieznane imię",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "wuj",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "był ... bratankiem Wojciecha" 
     }
 ]

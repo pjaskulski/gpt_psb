@@ -2,31 +2,31 @@
     {
         "family_relation": "ojciec",
         "person": "Jakub Szamszon",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Margula Szor",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "dziadek",
         "person": "Samuel Izaak Szor",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Abraham",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Małka Towa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Jakub Breitman",
-        "result": null
+        "result": true
     }
 ]

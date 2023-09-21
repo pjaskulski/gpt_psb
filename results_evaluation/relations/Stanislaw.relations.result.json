@@ -2,26 +2,26 @@
     {
         "family_relation": "ojciec",
         "person": "Konrad III Rudy",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna z Radziwiłłów",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Janusz III",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Anna Odrowążowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Zofia",
-        "result": null
+        "result": true
     }
 ]

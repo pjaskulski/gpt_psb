@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Udalryk (Oldrzych)",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Karol Antoni",
-        "result": null
+        "result": true
     }
 ]

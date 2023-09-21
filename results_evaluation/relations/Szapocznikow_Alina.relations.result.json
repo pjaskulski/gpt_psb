@@ -2,31 +2,32 @@
     {
         "family_relation": "ojciec",
         "person": "Jakub Szapocznikow",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Regina (Ryfka) Szapocznikow",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mirosław Szapocznikow",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Ryszard Stanisławski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Piotr Stanisławski",
-        "result": null
+        "result": true,
+        "pj_note": "syn adoptowany"
     },
     {
         "family_relation": "mąż",
         "person": "Roman Cieślewicz",
-        "result": null
+        "result": true
     }
 ]

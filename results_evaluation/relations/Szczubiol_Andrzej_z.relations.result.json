@@ -2,46 +2,53 @@
     {
         "family_relation": "ojciec",
         "person": "Stefan (Szczepan) z Jasieńca i Ciechomic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Sędka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mikołaj z Ciechomic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan z Dłotowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Maciej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Szymon zwany Gostyńskim z Ciechomic",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Drugim synem S-a z tego małżeństwa był zapewne Szymon zwany Gostyńskim z Ciechomic, rycerz pasowany, żonaty nie później niż od r. 1437 z Anną, córką Ścibora z Sąchocina"
     },
     {
         "family_relation": "syn",
         "person": "Andrzej",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Ścibor z Sąchocina",
-        "result": null
+        "result": false,
+        "pj_note": "to teść syna bohatera"
     }
 ]

@@ -2,31 +2,33 @@
     {
         "family_relation": "ojciec",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Cielątko z Liszyna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Mikołaj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanica",
         "person": "Małgorzata Marta",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Mikołaj Cikowski",
-        "result": null
+        "result": false,
+        "pj_note": "to zięć brata bohatera"
     },
     {
         "family_relation": "teść",
         "person": "Piotr Cikowski z Mikluszowic",
-        "result": null
+        "result": false,
+        "pj_note": "to teść bratanicy bohatera"
     }
 ]

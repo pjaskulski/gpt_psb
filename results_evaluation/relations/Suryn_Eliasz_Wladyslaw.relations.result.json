@@ -2,71 +2,72 @@
     {
         "family_relation": "ojciec",
         "person": "Jerzy Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Apolonia Wołłowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Krzysztof Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Bazyli Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Katarzyna Niekraszewicz",
-        "result": null
+        "result": true,
+        "pj_note": "dokładnie: z Katarzyną z Wielaminowiczów Niekraszewiczów"
     },
     {
         "family_relation": "żona",
         "person": "Helena Giełda",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Krzysztof Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Mikołaj Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Michał Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Teodor Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Eufrozyna Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Konstancja Suryn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Helena Suryn",
-        "result": null
+        "result": true
     }
 ]

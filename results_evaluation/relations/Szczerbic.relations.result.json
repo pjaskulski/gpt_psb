@@ -2,86 +2,108 @@
     {
         "family_relation": "ojciec",
         "person": "Paweł Szczerbic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Anna",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "żona",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Po raz pierwszy był żonaty z nieznaną z nazwiska Magdaleną"
     },
     {
         "family_relation": "żona",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Szczerbic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan Szczerbic",
-        "result": null
+        "result": true,
+        "pj_note": "brat przyrodni"
     },
     {
         "family_relation": "brat",
         "person": "Marcin Fox",
-        "result": null
+        "result": true,
+        "pj_note": "brat przyrodni"
     },
     {
         "family_relation": "brat",
         "person": "Paweł Fetter",
-        "result": null
+        "result": true,
+        "pj_note": "brat przyrodni"
     },
     {
         "family_relation": "brat",
         "person": "Jan Fetter",
-        "result": null
+        "result": true,
+        "pj_note": "brat przyrodni"
     },
     {
         "family_relation": "siostra",
         "person": "Anna Fetterówna",
-        "result": null
+        "result": true,
+        "pj_note": "siostra przyrodnia"
     },
     {
         "family_relation": "siostra",
         "person": "Magdalena Szczerbic",
-        "result": null
+        "result": true,
+        "pj_note": "siostra przyrodnia"
     },
     {
         "family_relation": "siostra",
         "person": "Anna Szczerbic",
-        "result": null
+        "result": true,
+        "pj_note": "siostra przyrodniai"
     },
     {
         "family_relation": "żona",
         "person": "Dorota",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Stanisław Czymerman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "synowa",
         "person": "Anna Trembecka",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Marianna",
-        "result": null
+        "result": true,
+        "pj_note": "w bioframie sprzeczne informacje, córka albo wnuczka"
     },
     {
         "family_relation": "córka",
         "person": "Dorota",
-        "result": null
+        "result": true,
+        "pj_note": "w bioframie sprzeczne informacje, córka albo wnuczka"
     },
     {
         "family_relation": "córka",
         "person": "Zofia",
-        "result": null
+        "result": false,
+        "pj_note": "to wnuczka"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Walenty Skalski"
     }
 ]

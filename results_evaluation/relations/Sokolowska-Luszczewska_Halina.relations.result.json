@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Józef Sokołowski",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Ewelina Proniewicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Leon Łuszczewski",
-        "result": null
+        "result": true
     }
 ]

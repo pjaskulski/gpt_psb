@@ -2,41 +2,41 @@
     {
         "family_relation": "ojciec",
         "person": "Mardyros",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Dowlat-chatun",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Dżuhar",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Rypsyma",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Howannes",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Anastazja",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Jaśko Kieworowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teściowa",
         "person": "Zofia Serebkowicz",
-        "result": null
+        "result": true
     }
 ]

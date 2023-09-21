@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Becalel Schenirer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Róża z Laków",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Szymon Schenirer",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Izaak Landau",
-        "result": null
+        "result": true
     }
 ]

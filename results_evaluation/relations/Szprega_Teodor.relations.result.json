@@ -2,11 +2,11 @@
     {
         "family_relation": "ojciec",
         "person": "Ignacy Szpręga",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Katarzyna Sabiniarz",
-        "result": null
+        "result": true
     }
 ]

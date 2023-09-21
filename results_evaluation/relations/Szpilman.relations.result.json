@@ -2,56 +2,57 @@
     {
         "family_relation": "ojciec",
         "person": "Samuel Szpilman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Estera Rapaport",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Reuwen Szpilman",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, to bohater był bratankiem, więc Reuwen Szpilman był wujem bohatera"
     },
     {
         "family_relation": "siostra",
         "person": "Regina Szpilman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Henryk Szpilman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "siostra",
         "person": "Halina Szpilman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "kuzyn",
         "person": "Michael Taube",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Hania Grzecznarowska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Andrzej Szpilman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Krzysztof Szpilman",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Józef Grzecznarowski",
-        "result": null
+        "result": true
     }
 ]

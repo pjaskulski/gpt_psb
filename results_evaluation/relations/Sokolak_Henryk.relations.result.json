@@ -2,21 +2,21 @@
     {
         "family_relation": "ojciec",
         "person": "Wincenty Mikołajczak",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Agnieszka Mikołajczak",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Józefa Garlińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Danuta Iwaniuk",
-        "result": null
+        "result": true
     }
 ]

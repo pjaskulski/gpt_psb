@@ -2,26 +2,30 @@
     {
         "family_relation": "ojciec",
         "person": "kramarz",
-        "result": null
+        "result": true,
+        "pj_note": "ale ta informacja nic nie wnosi, nie identyfikuje osoby"
     },
     {
         "family_relation": "matka",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale ta informacja nic nie wnosi, nie identyfikuje osoby"
     },
     {
         "family_relation": "wuj",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale ta informacja nic nie wnosi, nie identyfikuje osoby"
     },
     {
         "family_relation": "brat",
         "person": "nieznane",
-        "result": null
+        "result": true,
+        "pj_note": "ale ta informacja nic nie wnosi, nie identyfikuje osoby"
     },
     {
         "family_relation": "żona",
         "person": "Izabela Frydberg",
-        "result": null
+        "result": true
     }
 ]

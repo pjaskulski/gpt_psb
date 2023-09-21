@@ -2,31 +2,31 @@
     {
         "family_relation": "ojciec",
         "person": "Adolf Strancman/Franciszek Kotarbiński",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Maria Weinfeld/Helena Kotarbińska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Zdzisław Stańczak",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Anna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Tadeusz Sobolewski",
-        "result": null
+        "result": true
     }
 ]

@@ -2,21 +2,22 @@
     {
         "family_relation": "ojciec",
         "person": "Piotr z Kurdwanowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Jakub z Korzkwi",
-        "result": null
+        "result": false,
+        "pj_note": "odwrotnie, bohater był bratankiem, więc Jakub był wujem bohatera"
     },
     {
         "family_relation": "brat",
         "person": "Florian z Kurdwanowa",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Andrzej",
-        "result": null
+        "result": true
     }
 ]

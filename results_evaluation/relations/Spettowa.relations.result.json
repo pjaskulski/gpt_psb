@@ -2,16 +2,16 @@
     {
         "family_relation": "ojciec",
         "person": "Julian Janczyszyn",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Julia Amałowicz",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "mąż",
         "person": "Karol Spett",
-        "result": null
+        "result": true
     }
 ]

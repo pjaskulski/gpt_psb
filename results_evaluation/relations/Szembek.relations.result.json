@@ -2,126 +2,192 @@
     {
         "family_relation": "dziadek",
         "person": "Gerlach Schoenbegk",
-        "result": null
+        "result": false,
+        "pj_note": "to protoplasta rodu"
+    },
+    {
+        "family_relation": "dziadek",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Piotr Szembek"
     },
     {
         "family_relation": "ojciec",
         "person": "Bartłomiej Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "matka",
         "person": "Adelajda Dudischin",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Henryk Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Krzysztof Elbing",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Stanisław Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanica",
         "person": "Ewa Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanica",
         "person": "Anna Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanica",
         "person": "Elżbieta Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Małgorzata Elbingówna",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Katarzyna Schilling",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "teść",
         "person": "Stanisław Schilling",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Bartłomiej Szembek",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan, zwany Solidus, Schilling"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Justus Schilling"
+    },
+    {
+        "family_relation": "szwagier",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Fryderyk  Schilling"
     },
     {
         "family_relation": "syn",
         "person": "Mikołaj Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Stanisław Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Małgorzata Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Elżbieta Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Jadwiga Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "córka",
         "person": "Agnieszka Szembek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jan Lichtenberg",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jan Baptysta Cecchi",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jost Paczek",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Fryderyk Paczek",
-        "result": null
+        "result": true
+    },{
+        "family_relation": "zięć",
+        "person": "Fryderyk Paczek",
+        "result": true
     },
     {
         "family_relation": "zięć",
         "person": "Jerzy Schilkr",
-        "result": null
+        "result": false,
+        "pj_note": "to poprzedni mąż żony syna bohatera"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Stanisław Jasnogórski"
+    },
+    {
+        "family_relation": "synowa",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Syn S-a Mikołaj ... ożenił się z Zoﬁą, córką rajcy Jana Waxmana"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Mikołaj"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Jan"
+    },
+    {
+        "family_relation": "wnuk",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Zygmunt"
+    },
+    {
+        "family_relation": "wnuczka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Zofia"
     }
 ]

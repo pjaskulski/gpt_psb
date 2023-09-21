@@ -2,61 +2,69 @@
     {
         "family_relation": "dziadek",
         "person": "Jakub",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "pradziadek",
         "person": "Jakub",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "ojciec",
         "person": "Krzesław z Szumska",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "brat",
         "person": "Jan (Jaszek) Rej z Nagłowic",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "żona",
         "person": "Stachna h. Poraj",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "syn",
         "person": "Jan Rey",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Jan Rey",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "bratanek",
         "person": "Stogniew",
-        "result": null
+        "result": true
     },
     {
         "family_relation": "szwagier",
         "person": "Chociemir Garnka (Garnysza) z Pojałowic i Suchcic",
-        "result": null
+        "result": true
+    },
+    {
+        "family_relation": "szwagierka",
+        "person": "brak danych",
+        "result": false,
+        "pj_note": "Świątka"
     },
     {
         "family_relation": "szwagier",
         "person": "Mikołaj z Barczkowic",
-        "result": null
+        "result": false,
+        "pj_note": "to mąż szwagierki bohatera"
     },
     {
         "family_relation": "szwagier",
         "person": "Wisław z Kościelca",
-        "result": null
+        "result": false,
+        "pj_note": "to kolejny mąż szwagierki bohatera"
     },
     {
         "family_relation": "zięć",
         "person": "Spytek z Tarnowa",
-        "result": null
+        "result": false
     }
 ]
