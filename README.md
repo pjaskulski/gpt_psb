@@ -307,25 +307,25 @@ Looking in detail at the types of kinship (for 214 biographies where any were fo
 
 | Type of family relation (kinship) | Total | Correct | Incorrect (wrong and missing) | Only missing | Percentage correct |
 | ---                               | :---: | :---:   | :---:                         | :---:        | :---:              |
-| son | 220 | 210 | 10 | 3 | 95.45 |
-| father | 189 | 188 | 1 | 0 | 99.47 |
-| brother | 151 | 137 | 14 | 8 | 90.73 | 
-| mother | 149 | 147 | 2 | 1 | 98.66 |
-| daughter | 129 | 127 | 2 | 1 | 98.45 |
-| wife | 120 | 116 | 4 | 1 | 96.67 |
-| son-in-law | 80 | 35 | 45 | 31 | 43.75 |
+| son | 220 | 210 | 10 | 3 | **95.45** |
+| father | 189 | 188 | 1 | 0 | **99.47** |
+| brother | 151 | 137 | 14 | 8 | **90.73** | 
+| mother | 149 | 147 | 2 | 1 | **98.66** |
+| daughter | 129 | 127 | 2 | 1 | **98.45** |
+| wife | 120 | 116 | 4 | 1 | **96.67** |
+| son-in-law | 80 | 35 | 45 | 31 | *43.75* |
 | sister | 54 | 48 | 6 | 1 | 88.89 |
 | father-in-law | 51 | 43 | 8 | 0 | 84.31 |
-| husband | 48 | 46 | 2 | 0 | 95.83 |
-| brother-in-law | 41 | 17 | 24 | 13 | 41.46 |
-| nephew | 37 | 18 | 19 | 4 | 48.65 |
-| daughter-in-law | 20 | 7 | 13 | 7 | 35.00 |
+| husband | 48 | 46 | 2 | 0 | **95.83** |
+| brother-in-law | 41 | 17 | 24 | 13 | *41.46* |
+| nephew | 37 | 18 | 19 | 4 | *48.65* |
+| daughter-in-law | 20 | 7 | 13 | 7 | *35.00* |
 | grandson | 18 | 11 | 7 | 4 | 61.11 |
 | grandfather | 17 | 13 | 4 | 3 | 76.47 |
 | mother-in-law | 15 | 11 | 4 | 4 | 73.33 |
 | uncle | 14 | 6 | 8 | 7 | 42.86 |
-| nephew (from sister) | 13 | 5 | 8 | 1 | 38.46 | 
-| cousin | 9 | 9 | 0 | 0 | 100.00 |
+| nephew (from sister) | 13 | 5 | 8 | 1 | *38.46* | 
+| cousin | 9 | 9 | 0 | 0 | **100.00** |
 | uncle (from father's side) | 7 | 4 | 3 | 2 | 57.14 |
 
 ---
