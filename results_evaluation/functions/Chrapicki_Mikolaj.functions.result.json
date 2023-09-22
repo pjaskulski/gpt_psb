@@ -1,30 +1,33 @@
 [
     {
         "role_or_office": "kanonik warmiński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bp chełmiński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "toruńczyk",
-        "result": null
+        "result": false,
+        "pj_note": "to chyba ani funkcja ani urząd"
     },
     {
         "role_or_office": "poseł króla w Rzymie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "fundator klasztoru franciszkańskiego w Lubawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator",
-        "result": null
+        "result": false,
+        "pj_note": "styl zdania myli model: Administratorem został za radą Watzelrodego, aprobatą króla (14 III 1505) i ku zadowoleniu kapituły i stanów pruskich, Jan Konopacki, który w tym charakterze urzędowym wystąpił na gen. sejmiku w Elblągu 1507 r." 
     },
     {
         "role_or_office": "koadiutor",
-        "result": null
+        "result": false,
+        "pj_note": "styl zdania mysli model: Jan Konopacki, który w tym charakterze urzędowym wystąpił na gen. sejmiku w Elblągu 1507 r., a tegoż jeszcze roku w Grudziądzu jako koadiutor chorego bpa."
     }
 ]

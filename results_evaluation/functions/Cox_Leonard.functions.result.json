@@ -1,38 +1,48 @@
 [
     {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "humanista-pedagog"
+    },
+    {
         "role_or_office": "profesor Akademii Krakowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja nadworny Marii królowej węgierskiej",
-        "result": null
+        "result": false,
+        "pj_note": "błędna interpretacja tekstu: Kaznodzieja nadworny Marii królowej węgierskiej, erazmiańczyk Jan Henckel ... sprowadził C-a"
     },
     {
         "role_or_office": "kierownik szkoły w Lewoczy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik szkoły w Koszycach",
-        "result": null
+        "result": true,
+        "pj_note": "to możliwe, na pewno tam pracował, ale czy jako kierownik?"
     },
     {
         "role_or_office": "profesor humaniorów",
-        "result": null
+        "result": true,
+        "pj_note": "brak informacji, że w Krakowie"
     },
     {
         "role_or_office": "rektor szkoły opactwa w Reading",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik szkoły w Bristol",
-        "result": null
+        "result": false,
+        "pj_note": "nadinterpretacja, starał się o ta posadę, w biogramie nie ma potwierdzenia że ją dostał"
     },
     {
         "role_or_office": "kierownik szkoły w Reading",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik szkoły w Coventry",
-        "result": null
+        "result": false,
+        "pj_note": "przeniósł się tam, ale nie ma informacji że był kierownikiem"
     }
 ]

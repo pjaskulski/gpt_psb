@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "książę Polski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mnich",
-        "result": null
+        "result": true
     }
 ]

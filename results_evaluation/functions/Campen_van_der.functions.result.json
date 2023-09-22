@@ -1,26 +1,28 @@
 [
     {
         "role_or_office": "filolog niderlandzki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "hebraista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Uniwersytetu w Lowanium",
-        "result": null
+        "result": true,
+        "pj_note": "przyniósł mu w lutym 1522 katedrę tego przedmiotu w niedawno założonym przy Uniwersytecie w Lowanium Collegium Trilingue"
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel",
-        "result": null
+        "result": false,
+        "pj_note": "nie wiem czy to określenie jest na miejscu, szczególnie że zaraz występuje funkcja wykładowcy i chodzi o to samo?"
     },
     {
         "role_or_office": "wykładowca Akademii Krakowskiej",
-        "result": null
+        "result": true
     }
 ]

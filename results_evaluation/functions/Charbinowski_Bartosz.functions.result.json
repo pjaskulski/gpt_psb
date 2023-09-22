@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "podkomorzy sandomierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ochmistrz dworu królowej Anny",
-        "result": null
+        "result": true
     }
 ]

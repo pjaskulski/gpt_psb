@@ -1,14 +1,19 @@
 [
     {
         "role_or_office": "szambelan dworu",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "pułkownik",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "generał-major wojsk koronnych",
-        "result": null
+        "result": false
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "model ma za zadanie wyszukać funkcje w tekście, a nie interpretować kim właściwie była bohaterka, w tym biogramie nie jest to wprost napisane, jako człowiek napisałbym: arystokratka, pisarka, poetka"
     }
 ]
