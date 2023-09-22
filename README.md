@@ -11,6 +11,7 @@
 - [Remarks](#remarks)
 - [Analysis of Result Accuracy](#analysis-of-result-accuracy)
     - [Basic Data](#basic-data)
+    - [Family Relations](#family-relations)
 
 
 ## Introduction
@@ -296,6 +297,37 @@ Meanwhile, examining only the cases of no data, the accuracy of the results retu
 
 In August 2023, OpenAI made it possible to fine-tune the gpt-3.5-turbo model, and there were opinions that this model, when trained for specific tasks, can match the quality of results of the gpt-4 model. It was decided to verify whether this is actually the case for tasks related to extracting information from texts. The results are available in a separate project: [link](https://github.com/pjaskulski/gpt_historical_text/blob/main/README.md#przetwarzanie-250-biogram%C3%B3w-modelem-gpt-35-turbo-po-fine-tuningu)
 
+### Family Relations
+
+Only the family relations of the main character of the biography were searched for.
+For 36 out of 250 biographies, the model stated a lack of data on family relations, of which in 34 cases it was correct (94.4%).
+In 214 biographies where family relations were found, there were a total of 1451 (found relations and missing relations), of which 1247 were correct (85.9%).
+
+Looking in detail at the types of kinship (for 214 biographies where any were found), 49 types of kinship were considered (some overlap e.g. relative, relatives, etc.). The results could be in the following situations: the family relation was found and is correct, the family relation was found but is incorrect, the relation was not found (but is in the biography). The first of these situations is classified as correct, the other two as incorrect. The results table (20 most popular types of relations, sorted by number in descending order, correctness >90% bolded, <50% italicized) is as follows:
+
+| Type of family relation (kinship) | Total | Correct | Incorrect (wrong and missing) | Only missing | Percentage correct |
+| ---                               | :---: | :---:   | :---:                         | :---:        | :---:              |
+| son | 220 | 210 | 10 | 3 | **95.45** |
+| father | 189 | 188 | 1 | 0 | **99.47** |
+| brother | 151 | 137 | 14 | 8 | **90.73** | 
+| mother | 149 | 147 | 2 | 1 | **98.66** |
+| daughter | 129 | 127 | 2 | 1 | **98.45** |
+| wife | 120 | 116 | 4 | 1 | **96.67** |
+| son-in-law | 80 | 35 | 45 | 31 | *43.75* |
+| sister | 54 | 48 | 6 | 1 | 88.89 |
+| father-in-law | 51 | 43 | 8 | 0 | 84.31 |
+| husband | 48 | 46 | 2 | 0 | **95.83** |
+| brother-in-law | 41 | 17 | 24 | 13 | *41.46* |
+| nephew | 37 | 18 | 19 | 4 | *48.65* |
+| daughter-in-law | 20 | 7 | 13 | 7 | *35.00* |
+| grandson | 18 | 11 | 7 | 4 | 61.11 |
+| grandfather | 17 | 13 | 4 | 3 | 76.47 |
+| mother-in-law | 15 | 11 | 4 | 4 | 73.33 |
+| uncle | 14 | 6 | 8 | 7 | 42.86 |
+| nephew (from sister) | 13 | 5 | 8 | 1 | *38.46* | 
+| cousin | 9 | 9 | 0 | 0 | **100.00** |
+| uncle (from father's side) | 7 | 4 | 3 | 2 | 57.14 |
+
 ---
 
 # Ekstrakcja informacji z biogramów postaci historycznych za pomocą skryptów wykorzystujących model GPT-4 przez API
@@ -310,6 +342,7 @@ In August 2023, OpenAI made it possible to fine-tune the gpt-3.5-turbo model, an
  - [Uwagi](#uwagi)
  - [Analiza poprawności wyników](#analiza-poprawności-wyników)
     - [Dane podstawowe](#dane-podstawowe-1)
+    - [Relacje rodzinne](#relacje-rodzinne)
 
 ## Wprowadzenie
 
@@ -602,3 +635,37 @@ Z kolei badając tylko przypadki braku danych, poprawność wyników zwracanych 
 | Ogółem            | 639             | 625 (97.81%) |
 
 Ponieważ w sierpniu 2023 firma OpenAI udostępniła możliwość douczania (fine-tuningu) modelu gpt-3.5-turbo i pojawiły się opinie, że model ten przyuczony do konkretnych zadań może dorównywać w jakości wyników modelowi gpt-4 postanowiono zweryfikować czy tak faktycznie jest w przypadku zadań dotyczących ekstrakcji informacji z tekstów. Wyniki dostępne są w osobnym projekcie: [link](https://github.com/pjaskulski/gpt_historical_text/blob/main/README.md#przetwarzanie-250-biogram%C3%B3w-modelem-gpt-35-turbo-po-fine-tuningu).
+
+### Relacje rodzinne
+
+Wyszukiwane były **tylko relacje rodzinne głównego bohatera** biogramu.
+Dla 36 z 250 biogramów model stwierdził brak danych o relacjach rodzinnych, z tego w 34 przypadkach poprawnie (94.4%)
+W 214 biogramach, w których znalezione zostały relacje rodzinne było ich w sumie 1451 (znalezionych relacji i brakujących relacji), z tego 1247 poprawnych (85.9%)
+
+Patrząc szczegółowo na rodzaje pokrewieństwa (dla 214 biogramów gdzie zostały znalezione jakiekolwiek z nich), uwzględnionych zostało 49 rodzajów pokrewieństwa
+(niektóre się pokrywają np. krewny, krewne itp.). W wynikach możliwe były następujące sytuacje: relacja rodzinna zostałą znaleziona i jest poprawna,
+relacja rodzinna została znaleziona ale jest błędna, relacja nie została znaleziona (ale jest w biogramie). Pierwsza z tych sytuacji jest kwalifikowana jako poprawna, dwie pozostałe jako błędne. Tabela wyników (20 najpopularniejszych rodzajów relacji, posortowana według liczebności malejąco, poprawność >90% pogrubiona, < 50% kursywą) wygląda następująco:
+
+| rodzaj relacji rodzinnej (pokrewieństwa) | Ogólem | Poprawnie | Niepoprawnie (błędne i brakujące) | W tym tylko brakujące | Procent poprawnych | 
+| ---                                      | :---:  | :---:     | :---:                             | :---:                 | :---:              |
+| syn | 220 | 210 | 10 | 3 | **95,45** | 
+| ojciec | 189 | 188 | 1 | 0 | **99,47** |
+| brat | 151 | 137 | 14 | 8 | **90,73** |
+| matka | 149 | 147 | 2 | 1 | **98,66** |
+| córka | 129 | 127 | 2 | 1 | **98,45** |
+| żona | 120 | 116 | 4 | 1 | **96,67** |
+| zięć | 80 | 35 | 45 | 31 | *43,75* |
+| siostra | 54 | 48 | 6 | 1 | 88,89 |
+| teść | 51 | 43 | 8 | 0 | 84,31 |
+| mąż | 48 | 46 | 2 | 0 | **95,83** |
+| szwagier | 41 | 17 | 24 | 13 | *41,46* |
+| bratanek | 37 | 18 | 19 | 4 | *48,65* |
+| synowa | 20 | 7 | 13 | 7 | *35,00* |
+| wnuk | 18 | 11 | 7 | 4 | 61,11 |
+| dziadek | 17 | 13 | 4 | 3 | 76,47 |
+| teściowa | 15 | 11 | 4 | 4 | 73,33 |
+| wuj | 14 | 6 | 8 | 7 | *42,86* |
+| siostrzeniec | 13 | 5 | 8 | 1 | *38,46* |
+| kuzyn | 9 | 9 | 0 | 0 | 100,00 |
+| stryj | 7 | 4 | 3 | 2 | 57,14 |
+
