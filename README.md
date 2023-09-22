@@ -611,28 +611,28 @@ W 214 biogramach, w których znalezione zostały relacje rodzinne było ich w su
 
 Patrząc szczegółowo na rodzaje pokrewieństwa (dla 214 biogramów gdzie zostały znalezione jakiekolwiek z nich), uwzględnionych zostało 49 rodzajów pokrewieństwa
 (niektóre się pokrywają np. krewny, krewne itp.). W wynikach możliwe były następujące sytuacje: relacja rodzinna zostałą znaleziona i jest poprawna,
-relacja rodzinna została znaleziona ale jest błędna, relacja nie została znaleziona (ale jest w biogramie). Pierwsza z tych sytuacji jest kwalifikowana jako poprawna, dwie pozostałe jako błędne. Tabela wyników (20 najpopularniejszych rodzajów relacji, posortowana według liczebności malejąco, na zielono poprawność >90%, na czerwono < 50%) wygląda następująco:
+relacja rodzinna została znaleziona ale jest błędna, relacja nie została znaleziona (ale jest w biogramie). Pierwsza z tych sytuacji jest kwalifikowana jako poprawna, dwie pozostałe jako błędne. Tabela wyników (20 najpopularniejszych rodzajów relacji, posortowana według liczebności malejąco, poprawność >90% pogrubiona, < 50% kursywą) wygląda następująco:
 
 | rodzaj relacji rodzinnej (pokrewieństwa) | Ogólem | Poprawnie | Niepoprawnie (błędne i brakujące) | W tym tylko brakujące | Procent poprawnych | 
 | ---                                      | ---    | ---       | ---                               | ---                   | ---                |
-| syn | 220 | 210 | 10 | 3 | 95,45 | 
-| ojciec | 189 | 188 | 1 | 0 | 99,47 |
-| brat | 151 | 137 | 14 | 8 | 90,73 |
-| matka | 149 | 147 | 2 | 1 | 98,66 |
-| córka | 129 | 127 | 2 | 1 | 98,45 |
-| żona | 120 | 116 | 4 | 1 | 96,67 |
-| zięć | 80 | 35 | 45 | 31 | 43,75 |
+| syn | 220 | 210 | 10 | 3 | **95,45** | 
+| ojciec | 189 | 188 | 1 | 0 | **99,47** |
+| brat | 151 | 137 | 14 | 8 | **90,73** |
+| matka | 149 | 147 | 2 | 1 | **98,66** |
+| córka | 129 | 127 | 2 | 1 | **98,45** |
+| żona | 120 | 116 | 4 | 1 | **96,67** |
+| zięć | 80 | 35 | 45 | 31 | *43,75* |
 | siostra | 54 | 48 | 6 | 1 | 88,89 |
 | teść | 51 | 43 | 8 | 0 | 84,31 |
-| mąż | 48 | 46 | 2 | 0 | 95,83 |
-| szwagier | 41 | 17 | 24 | 13 | 41,46 |
-| bratanek | 37 | 18 | 19 | 4 | 48,65 |
-| synowa | 20 | 7 | 13 | 7 | 35,00 |
+| mąż | 48 | 46 | 2 | 0 | **95,83** |
+| szwagier | 41 | 17 | 24 | 13 | *41,46* |
+| bratanek | 37 | 18 | 19 | 4 | *48,65* |
+| synowa | 20 | 7 | 13 | 7 | *35,00* |
 | wnuk | 18 | 11 | 7 | 4 | 61,11 |
 | dziadek | 17 | 13 | 4 | 3 | 76,47 |
 | teściowa | 15 | 11 | 4 | 4 | 73,33 |
-| wuj | 14 | 6 | 8 | 7 | 42,86 |
-| siostrzeniec | 13 | 5 | 8 | 1 | 38,46 |
+| wuj | 14 | 6 | 8 | 7 | *42,86* |
+| siostrzeniec | 13 | 5 | 8 | 1 | *38,46* |
 | kuzyn | 9 | 9 | 0 | 0 | 100,00 |
 | stryj | 7 | 4 | 3 | 2 | 57,14 |
 
