@@ -11,6 +11,7 @@
 - [Remarks](#remarks)
 - [Analysis of Result Accuracy](#analysis-of-result-accuracy)
     - [Basic Data](#basic-data)
+    - [Family Relations](#family-relations)
 
 
 ## Introduction
@@ -341,6 +342,7 @@ Looking in detail at the types of kinship (for 214 biographies where any were fo
  - [Uwagi](#uwagi)
  - [Analiza poprawności wyników](#analiza-poprawności-wyników)
     - [Dane podstawowe](#dane-podstawowe-1)
+    - [Relacje rodzinne](#relacje-rodzinne)
 
 ## Wprowadzenie
 
