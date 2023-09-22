@@ -1,0 +1,51 @@
+[
+    {
+        "role_or_office": "ksiądz gr. kat.",
+        "result": true
+    },
+    {
+        "role_or_office": "profesor Uniwersytetu Lwowskiego",
+        "result": true
+    },
+    {
+        "role_or_office" : "brak danych",
+        "result": false,
+        "pj_note": "doktor św. teologji"
+    },
+    {
+        "role_or_office": "adjunkt wydziału teol. w Uniwersytecie Lwowskim",
+        "result": true
+    },
+    {
+        "role_or_office": "zastępca profesora teologji pastoralnej",
+        "result": true
+    },
+    {
+        "role_or_office": "profesor zwyczajny teologji pastoralnej",
+        "result": true
+    },
+    {
+        "role_or_office": "dziekan wydziału teol.",
+        "result": true
+    },
+    {
+        "role_or_office": "kierownik seminarjum homiletycznego",
+        "result": true
+    },
+    {
+        "role_or_office": "rzeczywisty radca gr.-kat. Konsystorza Metropol.",
+        "result": true
+    },
+    {
+        "role_or_office": "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły",
+        "result": true
+    },
+    {
+        "role_or_office": "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego",
+        "result": true
+    },
+    {
+        "role_or_office": "egzaminator synodalny",
+        "result": true
+    }
+]

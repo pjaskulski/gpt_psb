@@ -1,0 +1,30 @@
+[
+    {
+        "role_or_office": "satyryk",
+        "result": true
+    },
+    {
+        "role_or_office": "pieśniarz",
+        "result": true
+    },
+    {
+        "role_or_office": "rysownik",
+        "result": true
+    },
+    {
+        "role_or_office": "ziemianin",
+        "result": true
+    },
+    {
+        "role_or_office": "karykaturzysta",
+        "result": true
+    },
+    {
+        "role_or_office": "twórca piosenek",
+        "result": true
+    },
+    {
+        "role_or_office": "dziennikarz",
+        "result": true
+    }
+]

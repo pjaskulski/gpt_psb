@@ -1,0 +1,47 @@
+[
+    {
+        "role_or_office": "członek wolnomularstwa",
+        "result": true
+    },
+    {
+        "role_or_office": "sekretarz legacji polskiej w Berlinie",
+        "result": true
+    },
+    {
+        "role_or_office": "twórca sprzysiężenia",
+        "result": true,
+        "pj_note": "tylko co to znaczy?"
+    },
+    {
+        "role_or_office": "członek Rady Zastępczej Tymczasowej",
+        "result": true
+    },
+    {
+        "role_or_office": "członek Wydziału dyplomatycznego",
+        "result": true
+    },
+    {
+        "role_or_office": "zastępca w Radzie Najwyższej Narodowej",
+        "result": true
+    },
+    {
+        "role_or_office": "członek Deputacji do rewizji papierów dyplomatycznych i krajowej",
+        "result": true
+    },
+    {
+        "role_or_office": "sekretarz Komisji Rządzącej do pism francuskich",
+        "result": true
+    },
+    {
+        "role_or_office": "sekretarz Rady Stanu",
+        "result": true
+    },
+    {
+        "role_or_office": "sekretarz Wielkiej Kapituły wolnomularstwa",
+        "result": true
+    },
+    {
+        "role_or_office": "członek Najwyższej Kapituły wolnomularstwa",
+        "result": true
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "role_or_office": "książę cieszyński",
+        "result": true
+    },
+    {
+        "role_or_office": "książę górnogłogowskim",
+        "result": true,
+        "pj_note": "bohater tytułował się tak nie mając praw do tytułu, ale to niuans poza zasięgiem AI"
+    },
+    {
+        "role_or_office": "dowódca oddziału w wojsku cesarskim",
+        "result": true
+    },
+    {
+        "role_or_office": "dowódca Kozaków i Wallonów",
+        "result": true
+    },
+    {
+        "role_or_office": "radca cesarza",
+        "result": true
+    },
+    {
+        "role_or_office": "najwyższy dowódca wojskowy",
+        "result": true
+    },
+    {
+        "role_or_office": "naczelny zarządca całego Śląska, Górnego i Dolnego",
+        "result": true
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "role_or_office": "pisarz łacińsko-polski",
+        "result": true
+    },
+    {
+        "role_or_office": "student Uniwersytetu Krakowskiego",
+        "result": true
+    },
+    {
+        "role_or_office": "mistrz sztuk wyzwolonych",
+        "result": true,
+        "pj_note": "model zwraca dosłownie to co jest w biogramie, rozumiem że chodzi o tytuł bakałarza/magistra?"
+    },
+    {
+        "role_or_office": "docent",
+        "result": true
+    },
+    {
+        "role_or_office": "kapłan",
+        "result": true,
+        "pj_note": "... przyjął święcenia kapłańskie ..."
+    },
+    {
+        "role_or_office": "kanonik regularny szpitalnik Ducha św.",
+        "result": true,
+        "pj_note": "wstąpił do klasztoru"
+    },
+    {
+        "role_or_office": "generalny administrator zakonu na Polskę",
+        "result": true,
+        "pj_note": "zakonu kanoników regularnych"
+    },
+    {
+        "role_or_office": "prepozyt klasztoru duchaków w Sandomierzu",
+        "result": true
+    },
+    {
+        "role_or_office": "prepozyt klasztoru duchaków w Krakowie",
+        "result": true,
+        "pj_note": "w tekście dodatkowe określenie: podobno także"
+    },
+    {
+        "role_or_office": "autor utworów wierszowanych i prozaicznych",
+        "result": true
+    },
+    {
+        "role_or_office": "autor podręcznika gramatyki łacińskiej",
+        "result": true
+    }
+]
