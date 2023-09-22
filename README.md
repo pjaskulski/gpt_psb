@@ -614,7 +614,7 @@ Patrząc szczegółowo na rodzaje pokrewieństwa (dla 214 biogramów gdzie zosta
 relacja rodzinna została znaleziona ale jest błędna, relacja nie została znaleziona (ale jest w biogramie). Pierwsza z tych sytuacji jest kwalifikowana jako poprawna, dwie pozostałe jako błędne. Tabela wyników (20 najpopularniejszych rodzajów relacji, posortowana według liczebności malejąco, poprawność >90% pogrubiona, < 50% kursywą) wygląda następująco:
 
 | rodzaj relacji rodzinnej (pokrewieństwa) | Ogólem | Poprawnie | Niepoprawnie (błędne i brakujące) | W tym tylko brakujące | Procent poprawnych | 
-| ---                                      | ---    | ---       | ---                               | ---                   | ---                |
+| ---                                      | :---:  | :---:     | :---:                             | :---:                 | :---:              |
 | syn | 220 | 210 | 10 | 3 | **95,45** | 
 | ojciec | 189 | 188 | 1 | 0 | **99,47** |
 | brat | 151 | 137 | 14 | 8 | **90,73** |
