@@ -1,14 +1,20 @@
 [
     {
         "role_or_office": "bojar Rusi halickiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dygnitarz Bolesława Jerzego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta ziemi ruskiej",
-        "result": null
+        "result": true,
+        "pj_note": "prawdopodobnie, ale fragment trudny do interpretaacji"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "dzierżący gród przemyski - grododzierżca przemyski??"
     }
 ]

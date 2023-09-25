@@ -1,30 +1,30 @@
 [
     {
         "role_or_office": "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "konrektor gimnazjum słuckiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "diakon",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister zboru w Węgrowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "konsenior podlaski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "superintendent",
-        "result": null
+        "result": true
     }
 ]

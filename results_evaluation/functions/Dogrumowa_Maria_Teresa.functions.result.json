@@ -1,14 +1,15 @@
 [
     {
         "role_or_office": "awanturnica",
-        "result": null
+        "result": true,
+        "pj_note": "tylko czy to funkcja, a jeżeli nie to jak to inaczej ująć?"
     },
     {
         "role_or_office": "żona majora rosyjskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kamerdynerka królewska",
-        "result": null
+        "result": false
     }
 ]

@@ -1,74 +1,75 @@
 [
     {
         "role_or_office": "uczestniczka uniwersytetu latającego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka na tajnych kursach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założycielka sali zajęć dla chłopców z ulicy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka języka i literatury polskiej dla nauczycieli szkół powszechnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowczyni literatury polskiej na tajnych kompletach dla inteligencji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka rozpraw naukowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka szkiców literackich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka podręcznika do historii literatury polskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka korespondencji",
-        "result": null
+        "result": false,
+        "pj_note": "to jest właściwie prawdziwy fakt, ale bardzo nieprecyzyjny, biogram mówi: wydała ... Korespondencję Józefa Ignacego Kraszewskiego i Leopolda Kronenberga"
     },
     {
         "role_or_office": "autorka książek dla dzieci i młodzieży",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka wierszy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka słuchowisk radiowych dla dzieci",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka antologii obrazków dramatycznych dla scen oświatowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracowniczka w redakcji Polskiego Słownika Biograficznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członkini Stronnictwa Narodowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarka redakcji Roku Polskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprzewodnicząca Narodowej Organizacji Kobiet",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kandydatka do Sejmu",
-        "result": null
+        "result": true
     }
 ]

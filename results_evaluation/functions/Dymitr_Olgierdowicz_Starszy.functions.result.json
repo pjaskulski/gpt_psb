@@ -1,18 +1,18 @@
 [
     {
         "role_or_office": "książę Drucki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę Briański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę Trubczewski (Trubecki)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę Czernihowski",
-        "result": null
+        "result": true
     }
 ]
