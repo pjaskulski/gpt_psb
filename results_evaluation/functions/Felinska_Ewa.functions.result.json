@@ -1,22 +1,24 @@
 [
     {
         "role_or_office": "autorka powieści i pamiętników",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekunka dzieci",
-        "result": null
+        "result": true,
+        "pj_note": "to prawdziwa informacja, ale czy pasuje do kategorii funkcja/urząd?"
     },
     {
         "role_or_office": "dzierżawczyni majątku",
-        "result": null
+        "result":false,
+        "pj_note": "znaglona potrzebą kształcenia dzieci, wydzierżawiła majątek męża (Wojutyn)"
     },
     {
         "role_or_office": "pisarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "gospodyni domowa",
-        "result": null
+        "result": false
     }
 ]

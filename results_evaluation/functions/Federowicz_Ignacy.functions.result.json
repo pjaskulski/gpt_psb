@@ -1,34 +1,35 @@
 [
     {
         "role_or_office": "ks.",
-        "result": null
+        "result": true,
+        "pj_note": "nie rozwinięty skrót"
     },
     {
         "role_or_office": "paulin",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja klasztoru w Leśniowie pod Żarkami",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prokurator klasztoru",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "magister nowicjatu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przeor",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator parafii na Skałce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kustosz generalny zakonu w całej monarchii austriackiej",
-        "result": null
+        "result": true
     }
 ]

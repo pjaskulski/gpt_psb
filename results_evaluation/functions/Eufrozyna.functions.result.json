@@ -1,14 +1,15 @@
 [
     {
         "role_or_office": "ks. kujawska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ks. pomorska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekunka nad synami",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     }
 ]

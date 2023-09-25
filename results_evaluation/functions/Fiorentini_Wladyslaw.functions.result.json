@@ -1,18 +1,19 @@
 [
     {
         "role_or_office": "kupiec",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "esteta",
-        "result": null
+        "result": false,
+        "pj_note": "to chyba jednak nie jest funkcja?"
     },
     {
         "role_or_office": "działacz społeczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rajca miejski",
-        "result": null
+        "result": true
     }
 ]

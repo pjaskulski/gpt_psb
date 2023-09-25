@@ -1,42 +1,42 @@
 [
     {
         "role_or_office": "uczony karaimski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "matematyk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "medyk nadworny Radziwiłłów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "medyk nadworny króla Jana Kazimierza",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wójt gminy karaimskiej w Trokach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelny sędzia karaimski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autor licznych hymnów i pieśni religijnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik Józefa Del Medigo",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz i doradca królewski",
-        "result": null
+        "result": true
     }
 ]

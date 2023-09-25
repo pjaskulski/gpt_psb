@@ -1,6 +1,11 @@
 [
     {
         "role_or_office": "student Gimnazjum Akademickiego",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "brak informacji kim właściwie był, można chyba przyjąć że pisarzem"
     }
 ]

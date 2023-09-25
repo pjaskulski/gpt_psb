@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "malarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kowal",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "portrecista",
-        "result": null
+        "result": true
     }
 ]

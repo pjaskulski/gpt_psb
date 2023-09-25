@@ -1,18 +1,18 @@
 [
     {
         "role_or_office": "kustosz kolegiaty nowosądeckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficjał kolegiaty nowosądeckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bakałarz",
-        "result": null
+        "result": true
     }
 ]

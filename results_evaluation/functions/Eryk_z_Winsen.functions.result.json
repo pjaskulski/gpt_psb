@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "biskup przemyski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "franciszkanin",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sufragan",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficjał",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "papieski komisarz",
-        "result": null
+        "result": true
     }
 ]

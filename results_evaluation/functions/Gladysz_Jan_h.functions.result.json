@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "podrzędczy sądecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bachmistrz bocheński",
-        "result": null
+        "result": true
     }
 ]

@@ -1,66 +1,67 @@
 [
     {
         "role_or_office": "lekarz-akuszer",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent Izby Lekarskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekundariusz Oddziału Ginekologicznego w Instytucie Medyko-chirurgicznym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asystent Zakładu Położniczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca kierownika katedry położnictwa",
-        "result": null
+        "result": false,
+        "pj_note": "dokładnie:  pełnił zastępczo obowiązki kierownika katedry położnictwa"
     },
     {
         "role_or_office": "specjalista praktykujący we Lwowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Wydziału Izby Wschodnio-galicyjskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent Izby Wschodnio-galicyjskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "skarbnik Towarzystwa Lekarzy Galicyjskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Towarzystwa Opieki Szpitalnej nad Dziećmi",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Lwowskiego Towarzystwa Lekarskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek honorowy Lwowskiego Towarzystwa Lekarskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Krajowej Rady Zdrowia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprezes Krajowej Rady Zdrowia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Krajowej Rady Zdrowia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Galicyjskiego Towarzystwa Muzycznego",
-        "result": null
+        "result": true
     }
 ]

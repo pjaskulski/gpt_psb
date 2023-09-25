@@ -1,70 +1,75 @@
 [
     {
         "role_or_office": "wojewoda krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek w. koronny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin Zygmunta I",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz Zygmunta Augusta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan bełski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda bełski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda lubelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek koronny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda i starosta krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta kazimirski",
-        "result": null
+        "result": false,
+        "pj_note": "to raczej funkcja syna bohatera"
     },
     {
         "role_or_office": "starosta",
-        "result": null
+        "result": true,
+        "pj_note": "ale jaki? - nagrodził mu król zaraz po sejmie warszawskim nadaniem starostwa rohatyńskiego"
     },
     {
         "role_or_office": "wojewoda",
-        "result": null
+        "result": false,
+        "pj_note": "to powtórzenie, wcześniej jest informacja konkretna: wojewoda lubelski, krakowski"
     },
     {
         "role_or_office": "marszałek",
-        "result": null
+        "result": false,
+        "pj_note": "to powtórzenie, wcześniej jest informacja: marszałek koronny"
     },
     {
         "role_or_office": "członek delegacji do zbadania praw Prus Królewskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do skontrolowania rachunków obu skarbów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do obmyślenia pokrycia żołdu tudzież innych potrzeb państwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat",
-        "result": null
+        "result": false,
+        "pj_note": "to powtórzenie, wcześniej jest informacja o jaką funkcje deputata chodzi"
     }
 ]

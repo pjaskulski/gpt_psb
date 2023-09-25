@@ -1,30 +1,34 @@
 [
     {
         "role_or_office": "rycerz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sługa Zygmunta Luksemburskiego",
-        "result": null
+        "result": false,
+        "pj_note": "w służbie u Zygmunta Luksemburskiego nie oznacza chyba sługi?"
     },
     {
         "role_or_office": "wojownik pod chorągwiami Jagiełły",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale chyba niezręcznie opisana: w r. 1410 powraca do kraju i staje wraz z bratem pod chorągwiami Jagiełły"
     },
     {
         "role_or_office": "uczestnik turnieju w Budzie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "świadek na przywileju jedlneńskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "uczestnik konfederacji korczyńskiej",
-        "result": null
+        "result": true,
+        "pj_note": "czy to funkcja, czy wydarzenie związane z bohaterem?"
     },
     {
         "role_or_office": "possessionatus na Węgrzech",
-        "result": null
+        "result": true,
+        "pj_note": "ale nieczytelne"
     }
 ]
