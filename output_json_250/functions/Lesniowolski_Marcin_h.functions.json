@@ -1,27 +1,24 @@
 [
     {
-        "role_or_office": "kaszelan podlaski"
-    },
-    {
         "role_or_office": "kasztelan podlaski"
     },
     {
-        "role_or_office": "senator"
+        "role_or_office": "wysłannik wojewody sandomierskiego Piotra Zborowskiego do Francji"
     },
     {
-        "role_or_office": "marszałek w. kor."
+        "role_or_office": "bliski współpracownik Jana Zamoyskiego"
     },
     {
-        "role_or_office": "sekretarz w. kor."
+        "role_or_office": "przedstawiciel stanów Rzeczypospolitej"
     },
     {
-        "role_or_office": "kanclerz"
+        "role_or_office": "członek rady wojennej"
     },
     {
-        "role_or_office": "mediator"
+        "role_or_office": "członek deputacji przygotowującej uchwały sejmowe"
     },
     {
-        "role_or_office": "doradca króla"
+        "role_or_office": "członek rady senatorów"
     },
     {
         "role_or_office": "prefekt Bractwa Miłosierdzia Św. Łukasza w Warszawie"
@@ -34,8 +31,5 @@
     },
     {
         "role_or_office": "marszałek na trybunale"
-    },
-    {
-        "role_or_office": "starosta drohicki"
     }
 ]

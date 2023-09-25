@@ -9,31 +9,31 @@
         "role_or_office": "deputat do Trybunału Głównego Litewskiego"
     },
     {
-        "role_or_office": "posłowie na sejm"
-    },
-    {
         "role_or_office": "pisarz ziemski brzeski litewski"
     },
     {
-        "role_or_office": "marszałek sejmiku przedsejmowego"
+        "role_or_office": "marszałek sejmiku przedsejmowego w Brześciu Litewskim"
     },
     {
-        "role_or_office": "komisarz z Litwy"
+        "role_or_office": "poseł na sejm"
     },
     {
-        "role_or_office": "pisarz trybunału skarbowego"
+        "role_or_office": "komisarz z Litwy do rozdziału między egzulantami tzw. sum moskiewskich"
     },
     {
-        "role_or_office": "posłowie na elekcję"
+        "role_or_office": "komisarz do zapłaty i \"zwinięcia\" (zmniejszenia liczby) wojska litewskiego"
     },
     {
-        "role_or_office": "posłowie na sejm koronacyjny"
+        "role_or_office": "komisarz do rokowań o ugodę z Kozakami Piotra Doroszenki"
     },
     {
-        "role_or_office": "marszałek sejmiku"
+        "role_or_office": "poseł na sejm koronacyjny"
     },
     {
-        "role_or_office": "deputat na sejm"
+        "role_or_office": "deputat brzeski litewski"
+    },
+    {
+        "role_or_office": "pisarz trybunału skarbowego w Wilnie"
     },
     {
         "role_or_office": "komisarz do trybunału skarbowego litewskiego"
@@ -42,19 +42,16 @@
         "role_or_office": "komisarz Rzeczypospolitej do traktatów z Kozakami"
     },
     {
-        "role_or_office": "komisarz do komisji skarbowej"
+        "role_or_office": "chorąży brzeski litewski"
     },
     {
-        "role_or_office": "komisarz do zapłaty wojsku żołdu"
+        "role_or_office": "komisarz z powiatu brzeskiego litewskiego do zapłaty wojsku żołdu"
     },
     {
-        "role_or_office": "komisarz do rozsądzenia pretensji województwa wołyńskiego i kijowskiego"
+        "role_or_office": "komisarz do rozsądzenia pretensji województwa wołyńskiego i kijowskiego o szkody poczynione przez wojska litewskie"
     },
     {
         "role_or_office": "pisarz komisji do zapłaty wojsku"
-    },
-    {
-        "role_or_office": "chorąży brzeski litewski"
     },
     {
         "role_or_office": "deputat do ułożenia konstytucji"
@@ -63,9 +60,15 @@
         "role_or_office": "deputat do boku króla"
     },
     {
+        "role_or_office": "deputat do trybunału skarbowego litewskiego"
+    },
+    {
+        "role_or_office": "komisarz do rozdziału sumy moskiewskiej dla egzulantów"
+    },
+    {
         "role_or_office": "deputat z prowincji litewskiej do sądów sejmowych"
     },
     {
-        "role_or_office": "kniaź"
+        "role_or_office": "komisarz do rewizji skarbca koronnego na Wawelu"
     }
 ]

@@ -1,42 +1,44 @@
 [
     {
         "role_or_office": "powstaniec styczniowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sybirak",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik kancelaryjny u adwokata",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "elew rolniczy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sierżant strzelców",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "partyzant",
-        "result": null
+        "result": true,
+        "pj_note": "właściwie postaniec styczniowy, ale w teście pada określenie, że musztrował partyzanów"
     },
     {
         "role_or_office": "pracownik podziemnych kopalni rudy srebra",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szeregowiec",
-        "result": null
+        "result": true,
+        "pj_note": "konkretnie, w  korpusie okupacyjnym wojsk pruskich"
     },
     {
         "role_or_office": "administrator dóbr i lasów prywatnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik magistratu lwowskiego",
-        "result": null
+        "result": true
     }
 ]

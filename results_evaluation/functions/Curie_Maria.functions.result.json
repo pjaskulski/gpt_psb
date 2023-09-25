@@ -1,34 +1,35 @@
 [
     {
         "role_or_office": "fizyczka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Uniwersytetu Paryskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka domowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka w Szczukach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierowniczka pracowni radiologicznej",
-        "result": null
+        "result": false,
+        "pj_note": "nie przyjmuje w r. 1912 propozycji objęcia kierownictwa pracowni radiologicznej, urządzanej przez Towarzystwo Naukowe w Warszawie; obiecała tylko nad nią czuwać z daleka"
     },
     {
         "role_or_office": "nauczycielka w École Normale Supérieure",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor w Sorbonie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierowniczka Instytutu Radowego",
-        "result": null
+        "result": true
     }
 ]

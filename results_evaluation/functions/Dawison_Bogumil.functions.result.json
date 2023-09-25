@@ -1,62 +1,64 @@
 [
     {
         "role_or_office": "pisarczyk u sekwestratora",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaligraf",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przepisywacz w »Gazecie Warszawskiej«",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziennikarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student szkoły dramatycznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "artysta dramatyczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor teatrów rządowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor teatru wileńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz komedii",
-        "result": null
+        "result": true,
+        "pj_note": "Z francuskiego przekładał szereg komedii"
     },
     {
         "role_or_office": "aktor teatru lwowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor Thaliatheater w Hamburgu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor Burg-teatrze w Wiedniu",
-        "result": null
+        "result": true,
+        "pj_note": "ale niepoprawnie gramatycznie: akto w Burg-teatrze"
     },
     {
         "role_or_office": "aktor sceny drezdeńskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor teatru niemieckiego w Poznaniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor amerykańskich scen teatralnych",
-        "result": null
+        "result": true
     }
 ]

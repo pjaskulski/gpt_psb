@@ -24,13 +24,10 @@
         "role_or_office": "bakałarz studium generalnego"
     },
     {
-        "role_or_office": "pierwszy definitor"
+        "role_or_office": "definitor"
     },
     {
-        "role_or_office": "wykładowca w szkołach dominikańskich"
-    },
-    {
-        "role_or_office": "kandydat na stanowisko regensa krakowskiego studium generale"
+        "role_or_office": "wykładowca"
     },
     {
         "role_or_office": "wikariusz kontraty pruskiej"
@@ -39,15 +36,6 @@
         "role_or_office": "misjonarz apostolski"
     },
     {
-        "role_or_office": "przeor klasztoru w Toruniu"
-    },
-    {
-        "role_or_office": "przeor klasztoru w Gdańsku"
-    },
-    {
-        "role_or_office": "przeor klasztoru w Chełmnie"
-    },
-    {
-        "role_or_office": "przeor klasztoru w Płocku"
+        "role_or_office": "regens krakowskiego studium generale"
     }
 ]

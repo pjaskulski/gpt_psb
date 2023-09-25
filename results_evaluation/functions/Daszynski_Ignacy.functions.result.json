@@ -1,98 +1,100 @@
 [
     {
         "role_or_office": "wódz polskiego socjalizmu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz u adwokata",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "guwerner w domu ziemiańskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor »Gaz. Robotniczą«",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel galicyjskiej partii socjalno-demokratycznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie w parlamencie wiedeńskim",
-        "result": null
+        "result": true,
+        "pj_note": "ale niepoprawnie liczba mnoga: poseł"
     },
     {
         "role_or_office": "naczelny redaktor »Naprzodu«",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "radny m. Krakowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący polskiego klubu socjalistycznego",
-        "result": null
+        "result": true,
+        "pj_note": "ale brak informacji co to za klub, a chodzi o klub poselski w Wiedniu"
     },
     {
         "role_or_office": "delegat na zjeździe w Londynie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz wojskowy w Miechowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprezes Sekcji Zachodniej N. K. N.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komisji Tymczasowej Skonfederowanych Stronnictw Niepodległościowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek N. K. N.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprezes Koła Polskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiej Komisji Likwidacyjnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "premier rządu lubelskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister spraw zagranicznych rządu lubelskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł z okręgu krakowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicepremier rządu obrony narodowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł z okręgu Kraków-wieś",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator Towarzystwa Uniwersytetu Robotniczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Towarzystwa Uniwersytetu Robotniczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek sejmu",
-        "result": null
+        "result": true
     }
 ]

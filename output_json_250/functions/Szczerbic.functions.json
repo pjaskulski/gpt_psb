@@ -42,31 +42,16 @@
         "role_or_office": "asesor w sądzie koronnym"
     },
     {
+        "role_or_office": "wykonawca testamentu"
+    },
+    {
         "role_or_office": "tłumacz traktatów filozoficznych"
-    },
-    {
-        "role_or_office": "doktor nauk prawnych"
-    },
-    {
-        "role_or_office": "subdiakon"
-    },
-    {
-        "role_or_office": "diakon"
-    },
-    {
-        "role_or_office": "prezbiter"
-    },
-    {
-        "role_or_office": "kanonik warszawski"
-    },
-    {
-        "role_or_office": "członek Arcybractwa Miłosierdzia w Krakowie"
     },
     {
         "role_or_office": "prepozyt sandomierski"
     },
     {
-        "role_or_office": "delegat diecezji krakowskiej do rozmów między stanami duchownym i świeckim"
+        "role_or_office": "kanonik warszawski"
     },
     {
         "role_or_office": "prowizor Jana Koryckiego z Korczyna"
@@ -81,18 +66,21 @@
         "role_or_office": "wójt w Olkuszu"
     },
     {
-        "role_or_office": "wójt w Wieliczce"
+        "role_or_office": "właściciel 18 łanów ziemi w pobliżu Malborka"
     },
     {
-        "role_or_office": "landwójt"
+        "role_or_office": "właściciel części wsi Chruszczobród"
     },
     {
-        "role_or_office": "dzierżawca wójtostwa"
+        "role_or_office": "właściciel praw do wójtostwa olkuskiego"
     },
     {
-        "role_or_office": "wójt wielicki"
+        "role_or_office": "właściciel praw do wójtostwa wielickiego"
     },
     {
-        "role_or_office": "dziedzic wsi Garlicza Górna"
+        "role_or_office": "właściciel wójtostwa wielickiego"
+    },
+    {
+        "role_or_office": "landwójt w Wieliczce"
     }
 ]

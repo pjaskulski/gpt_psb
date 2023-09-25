@@ -1,42 +1,44 @@
 [
     {
         "role_or_office": "ks.",
-        "result": null
+        "result": true,
+        "pj_note": "aczkolwiek można by rozwinąć do: ksiądz"
     },
     {
         "role_or_office": "kanonik honorowy kapituły mohylewskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "magister teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prefekt w szkołach średnich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zarządca biblioteki szkoły męskiej przy kośc. św. Katarzyny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "proboszcz w Charkowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca religii w szkołach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan i proboszcz kośc. św. Piotra i Pawła",
-        "result": null
+        "result": true,
+        "pj_note": "idealnie byłoby jeszcze napisać gdzie: w Moskwie"
     },
     {
         "role_or_office": "kanclerz kurii metropolitalnej w Petersburgu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rezydent przy kośc. św. Katarzyny",
-        "result": null
+        "result": true
     }
 ]

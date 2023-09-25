@@ -1,22 +1,24 @@
 [
     {
         "role_or_office": "pierwszy superintendent zborów kalwińskich w Małopolsce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "proboszcz w Niedźwiedziu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister w Seceminie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "superintendent zborów kalwińskich",
-        "result": null
+        "result": true,
+        "pj_note": "na pewno superintendent, nie wiem czy całość określenia jest poprawna?"
     },
     {
         "role_or_office": "minister w Pińczowie",
-        "result": null
+        "result": true,
+        "pj_note": "tak można zinterpretować fragment: Pomimo wysokich godności w zborze małopolskim był C. tylko ministrem u polskiego pana i dlatego, gdy Szafraniec przeszedł na stronę Sarnickiego, musiał C. za sprzyjanie arianizmowi opuścić Secemin i przeniósł się do Pińczowa."
     }
 ]

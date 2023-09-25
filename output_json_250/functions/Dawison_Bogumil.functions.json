@@ -1,8 +1,5 @@
 [
     {
-        "role_or_office": "artysta dramatyczny"
-    },
-    {
         "role_or_office": "pisarczyk u sekwestratora"
     },
     {
@@ -16,6 +13,9 @@
     },
     {
         "role_or_office": "student szkoły dramatycznej"
+    },
+    {
+        "role_or_office": "artysta dramatyczny"
     },
     {
         "role_or_office": "aktor teatrów rządowych"
@@ -42,6 +42,6 @@
         "role_or_office": "aktor teatru niemieckiego w Poznaniu"
     },
     {
-        "role_or_office": "aktor na scenach amerykańskich"
+        "role_or_office": "aktor amerykańskich scen teatralnych"
     }
 ]

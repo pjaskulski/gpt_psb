@@ -1,38 +1,39 @@
 [
     {
         "role_or_office": "dworzanin królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "żupnik olkuski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "żupnik chęciński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "karbarz wielicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zarządca mennicy krakowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podskarbi nadworny",
-        "result": null
+        "result": false,
+        "pj_note": "zawarł w r. 1546 umowę z podskarbim nadwornym J. Lutomirskim"
     },
     {
         "role_or_office": "członek komitetu Synodu w Włodzisławiu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podkomorzy górniczy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wielkorządca krakowski",
-        "result": null
+        "result": true
     }
 ]

@@ -21,12 +21,15 @@
         "role_or_office": "kanonik gnieźnieński"
     },
     {
-        "role_or_office": "penitencjarz polski w bazylice św. Piotra w Rzymie"
-    },
-    {
         "role_or_office": "prokurator wszystkich spraw królewskich w Kurii Rzymskiej"
     },
     {
+        "role_or_office": "penitencjarz w bazylice św. Piotra w Rzymie"
+    },
+    {
         "role_or_office": "kapłan"
+    },
+    {
+        "role_or_office": "scholastyk"
     }
 ]

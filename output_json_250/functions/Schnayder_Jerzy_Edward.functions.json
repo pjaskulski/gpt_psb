@@ -3,10 +3,10 @@
         "role_or_office": "filolog klasyczny"
     },
     {
-        "role_or_office": "profesor Uniwersytetu Łódzkiego"
+        "role_or_office": "profesor Uniw. Łódz."
     },
     {
-        "role_or_office": "profesor Uniwersytetu Wrocławskiego"
+        "role_or_office": "profesor Uniw. Wrocł."
     },
     {
         "role_or_office": "prezes Kółka Filologicznego"
@@ -15,7 +15,7 @@
         "role_or_office": "nauczyciel w gimnazjum w Jarosławiu"
     },
     {
-        "role_or_office": "nauczyciel w I Państwowym Gimnazjum Żeńskim im. Królowej Wandy w Krakowie"
+        "role_or_office": "stały nauczyciel w I Państwowym Gimnazjum Żeńskim im. Królowej Wandy w Krakowie"
     },
     {
         "role_or_office": "nauczyciel w Gimnazjum im. Bartłomieja Nowodworskiego"
@@ -24,16 +24,19 @@
         "role_or_office": "nauczyciel w Prywatnym Gimnazjum Żeńskim im. Heleny Kaplińskiej"
     },
     {
-        "role_or_office": "lektor języka greckiego na Uniwersytecie Jagiellońskim"
+        "role_or_office": "lektor języka greckiego na UJ"
     },
     {
-        "role_or_office": "współpracownik Komisji Filologicznej Polskiej Akademii Umiejętności"
+        "role_or_office": "współpracownik Komisji Filologicznej PAU"
     },
     {
         "role_or_office": "członek ministerialnej komisji oceny podręczników filologii klasycznej"
     },
     {
-        "role_or_office": "nauczyciel tajnego nauczania łaciny i greki"
+        "role_or_office": "prowadzący proseminarium greckiego na UJ"
+    },
+    {
+        "role_or_office": "nauczyciel łaciny i greki na kompletach i lekcjach prywatnych"
     },
     {
         "role_or_office": "pracownik Polskiego Czerwonego Krzyża w Krakowie"
@@ -42,27 +45,33 @@
         "role_or_office": "nauczyciel w polskiej szkole handlowej męskiej"
     },
     {
-        "role_or_office": "wykładowca na tajnym uniwersytecie"
+        "role_or_office": "prowadzący kurs języka greckiego i wykłady z literatury greckiej w tajnym uniwersytecie"
     },
     {
-        "role_or_office": "kierownik Katedry Filologii Klasycznej Uniwersytetu Łódzkiego"
+        "role_or_office": "nauczyciel w I Gimnazjum im. B. Nowodworskiego w Krakowie"
     },
     {
-        "role_or_office": "pracownik naukowy przy Katedrze Latynistyki na Uniwersytecie Wrocławskim"
+        "role_or_office": "kierownik Katedry Filologii Klasycznej Uniw. Łódz."
     },
     {
-        "role_or_office": "kierownik studiów eksternistycznych na Wydziale Filologicznym Uniwersytetu Wrocławskiego"
+        "role_or_office": "samodzielny pracownik naukowy przy Katedrze Latynistyki na Uniw. Wrocł."
     },
     {
-        "role_or_office": "profesor zwyczajny Uniwersytetu Wrocławskiego"
+        "role_or_office": "kierownik studiów eksternistycznych na Wydz. Filologicznym Uniw. Wrocł."
     },
     {
-        "role_or_office": "członek Polskiego Towarzystwa Filologicznego"
+        "role_or_office": "profesor zwycz. Uniw. Wrocł."
     },
     {
-        "role_or_office": "członek Łódzkiego Towarzystwa Naukowego"
+        "role_or_office": "członek Polskiego Tow. Filologicznego"
     },
     {
-        "role_or_office": "członek Komitetu Nauk o Kulturze Antycznej Polskiej Akademii Nauk"
+        "role_or_office": "członek Łódzkiego Tow. Naukowego"
+    },
+    {
+        "role_or_office": "członek Komitetu Nauk o Kulturze Antycznej PAN"
+    },
+    {
+        "role_or_office": "autor prac naukowych"
     }
 ]

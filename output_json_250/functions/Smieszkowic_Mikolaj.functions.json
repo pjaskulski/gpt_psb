@@ -15,6 +15,9 @@
         "role_or_office": "kolega mniejszy w Collegium Minus"
     },
     {
+        "role_or_office": "kierownik konwiktu dla uczniów"
+    },
+    {
         "role_or_office": "profesor królewski"
     },
     {
@@ -27,9 +30,15 @@
         "role_or_office": "prepozytur w Jodłowej"
     },
     {
-        "role_or_office": "rajca w Lwowie"
+        "role_or_office": "ławnik lwowski"
     },
     {
-        "role_or_office": "ławnik"
+        "role_or_office": "profesor gramatyki w Szkołach Nowodworskich"
+    },
+    {
+        "role_or_office": "profesor retoryki w Szkołach Nowodworskich"
+    },
+    {
+        "role_or_office": "kolega w Kolegium Mniejszym"
     }
 ]

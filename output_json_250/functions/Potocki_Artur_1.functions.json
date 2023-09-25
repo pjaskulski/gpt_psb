@@ -1,12 +1,6 @@
 [
     {
-        "role_or_office": "konserwatywny polityk galicyjski"
-    },
-    {
         "role_or_office": "sekretarz polskiego Tow. Literacko-Słowiańskiego"
-    },
-    {
-        "role_or_office": "prezes polskiego Tow. Literacko-Słowiańskiego"
     },
     {
         "role_or_office": "sekretarz Kółka Towarzyskiego Akademików Wrocławskich Narodowości Polskiej"
@@ -24,6 +18,18 @@
         "role_or_office": "prezes Komitetu Wystawy Krajowej Rolniczo-Przemysłowej oraz Sztuk Pięknych w Krakowie"
     },
     {
+        "role_or_office": "właściciel „Czasu”"
+    },
+    {
+        "role_or_office": "właściciel drukarni „Czasu”"
+    },
+    {
+        "role_or_office": "członek Wydziału Rady Powiatowej w Chrzanowie"
+    },
+    {
+        "role_or_office": "marszałek powiatu chrzanowskiego"
+    },
+    {
         "role_or_office": "szambelan cesarski"
     },
     {
@@ -39,15 +45,6 @@
         "role_or_office": "sprawozdawca i przewodniczący komisji rybackiej"
     },
     {
-        "role_or_office": "członek Wydziału Rady Powiatowej w Chrzanowie"
-    },
-    {
-        "role_or_office": "marszałek powiatu chrzanowskiego"
-    },
-    {
-        "role_or_office": "właściciel drukarni"
-    },
-    {
         "role_or_office": "członek Komitetu Tow. Rolniczego w Krakowie"
     },
     {
@@ -60,13 +57,13 @@
         "role_or_office": "prezes Tow. Wzajemnych Ubezpieczeń w Krakowie"
     },
     {
-        "role_or_office": "członek rad nadzorczych Länderbanku w Wiedniu"
+        "role_or_office": "członek Rady Nadzorczej Länderbanku w Wiedniu"
     },
     {
-        "role_or_office": "członek rad nadzorczych Banku Galicyjskiego dla Handlu i Przemysłu w Krakowie"
+        "role_or_office": "członek Rady Nadzorczej Banku Galicyjskiego dla Handlu i Przemysłu w Krakowie"
     },
     {
-        "role_or_office": "członek rad nadzorczych Galicyjskiego Tow. Kredytowego Ziemskiego w Krakowie"
+        "role_or_office": "członek Rady Nadzorczej Galicyjskiego Tow. Kredytowego Ziemskiego w Krakowie"
     },
     {
         "role_or_office": "członek Wydziału Galicyjskiego Tow. Łowieckiego"
@@ -87,7 +84,7 @@
         "role_or_office": "przewodniczący Komitetu powodziowego"
     },
     {
-        "role_or_office": "członek krakowskiej Rady Miejskiej"
+        "role_or_office": "członek Rady Miejskiej w Krakowie"
     },
     {
         "role_or_office": "członek Tow. Dobroczynności"

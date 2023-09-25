@@ -12,9 +12,6 @@
         "role_or_office": "kanclerz koronny"
     },
     {
-        "role_or_office": "sługa rękodajny królewicza"
-    },
-    {
         "role_or_office": "marszałek sejmu"
     },
     {
@@ -30,16 +27,7 @@
         "role_or_office": "starosta adzelski"
     },
     {
-        "role_or_office": "posł do Rzymu"
-    },
-    {
-        "role_or_office": "książę"
-    },
-    {
-        "role_or_office": "książę Rzeszy Niemieckiej"
-    },
-    {
-        "role_or_office": "poseł województwa sandomierskiego"
+        "role_or_office": "posłaniec do Rzymu"
     },
     {
         "role_or_office": "marszałek izby"
@@ -54,16 +42,25 @@
         "role_or_office": "namiestnik królewski"
     },
     {
-        "role_or_office": "poseł królewski"
+        "role_or_office": "posłaniec królewski"
     },
     {
-        "role_or_office": "starosta lubomelski"
+        "role_or_office": "posłaniec do Ratyzbony"
+    },
+    {
+        "role_or_office": "marszałek dworu królowej"
     },
     {
         "role_or_office": "opiekun syna królowej Cecylii Renaty"
     },
     {
-        "role_or_office": "marszałek w. kor."
+        "role_or_office": "posłowiec"
+    },
+    {
+        "role_or_office": "starosta lubomelski"
+    },
+    {
+        "role_or_office": "kanclerz"
     },
     {
         "role_or_office": "starosta pucki"
@@ -72,18 +69,9 @@
         "role_or_office": "starosta bolemowski"
     },
     {
-        "role_or_office": "regimentarz"
-    },
-    {
         "role_or_office": "starosta lubelski"
     },
     {
         "role_or_office": "naczelny dowódca zebranych wojsk"
-    },
-    {
-        "role_or_office": "dyplomata"
-    },
-    {
-        "role_or_office": "starosta"
     }
 ]

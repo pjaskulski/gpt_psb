@@ -1,9 +1,6 @@
 [
     {
-        "role_or_office": "profesor astronomii"
-    },
-    {
-        "role_or_office": "profesor astrologii"
+        "role_or_office": "profesor astronomii i astrologii"
     },
     {
         "role_or_office": "doktor medycyny"
@@ -15,16 +12,19 @@
         "role_or_office": "nadworny lekarz dwóch synów Kazimierza Jagiellończyka"
     },
     {
-        "role_or_office": "wykładowca astronomii na Uniwersytecie Bolońskim"
+        "role_or_office": "rektor"
     },
     {
-        "role_or_office": "lekarz przyboczny biskupa Jana Rzeszowskiego"
+        "role_or_office": "wykładowca astronomii"
     },
     {
-        "role_or_office": "nadworny lekarz króla Władysława Jagiellończyka"
+        "role_or_office": "lekarz-praktyk"
     },
     {
         "role_or_office": "nadworny lekarz króla Kazimierza Jagiellończyka"
+    },
+    {
+        "role_or_office": "nadworny lekarz króla Władysława Jagiellończyka"
     },
     {
         "role_or_office": "proboszcz kolegiaty wiślickiej"

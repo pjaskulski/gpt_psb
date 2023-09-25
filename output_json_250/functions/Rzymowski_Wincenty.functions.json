@@ -21,16 +21,10 @@
         "role_or_office": "tłumacz"
     },
     {
-        "role_or_office": "członek Zjazdu Wolnomyślicielskiego"
-    },
-    {
         "role_or_office": "członek Polskiego Związku Postępowego"
     },
     {
         "role_or_office": "redaktor \"Prawdy\""
-    },
-    {
-        "role_or_office": "członek Związku Patriotów"
     },
     {
         "role_or_office": "redaktor \"Widnokrąg\""
@@ -45,22 +39,16 @@
         "role_or_office": "referent prasowy poselstwa RP przy Kwirynale"
     },
     {
-        "role_or_office": "korespondent PPS-owskiego „Robotnika”"
+        "role_or_office": "korespondent \"Robotnika\""
     },
     {
         "role_or_office": "członek-założyciel Ligi Reformy Obyczajów"
     },
     {
-        "role_or_office": "członek zespołu opracowującego wstępny rozdział ustawy zasadniczej"
-    },
-    {
-        "role_or_office": "członek zespołu opracowującego zasady statutu Legionu Zasłużonych (Kadry Obywatelskiej)"
-    },
-    {
         "role_or_office": "członek Polskiej Akademii Literatury"
     },
     {
-        "role_or_office": "redaktor „Kuriera Porannego”"
+        "role_or_office": "członek zespołu redakcyjnego „Kuriera Porannego”"
     },
     {
         "role_or_office": "członek Komitetu Organizacyjnego Klubu Demokratycznego"
@@ -90,24 +78,21 @@
         "role_or_office": "minister kultury i sztuki w Rządzie Tymczasowym"
     },
     {
-        "role_or_office": "minister spraw zagranicznych w Rządzie Tymczasowym"
-    },
-    {
         "role_or_office": "minister spraw zagranicznych w Tymczasowym Rządzie Jedności Narodowej"
     },
     {
-        "role_or_office": "przewodniczący Centralnego Komitetu Stronnictwa Demokratycznego"
+        "role_or_office": "przewodniczący Centralnego Komitetu (CK) SD"
     },
     {
-        "role_or_office": "przewodniczący Komitetu Politycznego Centralnego Komitetu Stronnictwa Demokratycznego"
+        "role_or_office": "przewodniczący Komitetu Politycznego CK SD"
     },
     {
         "role_or_office": "poseł do Sejmu Ustawodawczego"
     },
     {
-        "role_or_office": "minister bez teki w rządzie Józefa Cyrankiewicza"
+        "role_or_office": "minister bez teki"
     },
     {
-        "role_or_office": "honorowy prezes Stronnictwa Demokratycznego"
+        "role_or_office": "honorowy prezes Stronnictwa"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "pedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel seminarium nauczycielskiego w Głogówku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autor podręczników szkolnych",
-        "result": null
+        "result": true
     }
 ]

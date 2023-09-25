@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "nauczycielka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ochmistrzyni gimnazjum żeńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka w szkole św. Andrzeja ss. felicjanek",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka u Serwatowskiej, Krynickiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka w gimnazjum Królowej Jadwigi",
-        "result": null
+        "result": true
     }
 ]

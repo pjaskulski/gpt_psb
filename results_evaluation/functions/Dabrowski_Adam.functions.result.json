@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "rejent w Odessie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia śledczy w Berdyczowie i Żytomierzu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek sądu wojskowego w Odessie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generał-lejtnant",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Oddziału Pomocy Jeńcom Cywilnym i Wojskowym",
-        "result": null
+        "result": true
     }
 ]

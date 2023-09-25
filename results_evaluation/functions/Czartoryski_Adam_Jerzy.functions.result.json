@@ -1,102 +1,110 @@
 [
     {
         "role_or_office": "mąż stanu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ochotnik do wojska litewskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kamerjunkier",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "brygadier w armii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiutant w. ks. Aleksandra",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posł w Sardynii",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "zastępca ministra w sprawach zagranicznych" 
     },
     {
         "role_or_office": "członek rady do spraw szkolnych w Ministerstwie Oświaty",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek komitetu urządzenia żydów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kurator okręgu naukowego wileńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zwierzchnik Uniwersytetu Wileńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister spraw zagranicznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "senator",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek rady państwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kurator",
-        "result": null
+        "result": true,
+        "pj_note": "choć to powtórka, chodzi o pewnie o kuratora okręgu naukowego wileńskiego"
     },
     {
         "role_or_office": "dygnitarz rosyjski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicekról",
-        "result": null
+        "result": false,
+        "pj_note": "fragment mówi tylko o: pomysł ofiarowania tronu odbudowanej Polski, złożonej z Księstwa, części czy całości Litwy i może części czy całości Galicji, samemu Napoleonowi, z ks. Adamem, jako wicekrólem"
     },
     {
         "role_or_office": "senator-wojewoda",
-        "result": null
+        "result": true,
+        "pj_note": "to też powtórka, wyżej jest funkcja: senator"
     },
     {
         "role_or_office": "członek Rady Administracyjnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent wydziału wykonawczego Rady Administracyjnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Rządu tymczasowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Rządu Narodowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyplomata",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojskowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent Bureau des affaires polonaises",
-        "result": null
+        "result": true
     }
 ]

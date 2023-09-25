@@ -21,13 +21,13 @@
         "role_or_office": "guwernantka"
     },
     {
-        "role_or_office": "nauczycielka"
-    },
-    {
         "role_or_office": "doktor filozofii i pedagogiki"
     },
     {
         "role_or_office": "doktor nauk pedologicznych"
+    },
+    {
+        "role_or_office": "nauczycielka"
     },
     {
         "role_or_office": "docent"
@@ -36,13 +36,13 @@
         "role_or_office": "profesor tytularny psychologii pedagogicznej"
     },
     {
-        "role_or_office": "członek Komisji Pedagogicznej Min. Wyznań Rel. i Oświecenia Publ."
+        "role_or_office": "redaktor"
     },
     {
         "role_or_office": "członek Wydziału Pedagogicznego ZNP"
     },
     {
-        "role_or_office": "redaktor pisma „Praca Szkolna”"
+        "role_or_office": "członek Komisji Pedagogicznej Min. Wyznań Rel. i Oświecenia Publ."
     },
     {
         "role_or_office": "profesor nadzwyczajny psychologii pedagogicznej"
@@ -54,9 +54,6 @@
         "role_or_office": "wiceprzewodnicząca Łódzkiego Tow. Psychologicznego"
     },
     {
-        "role_or_office": "profesor Uniwersytetu"
-    },
-    {
-        "role_or_office": "członek korespondent Łódzkiego Towarzystwa Naukowego"
+        "role_or_office": "członek korespondent Łódzkiego Tow. Naukowego"
     }
 ]

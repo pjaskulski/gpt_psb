@@ -15,16 +15,16 @@
         "role_or_office": "kanonik warmiński"
     },
     {
-        "role_or_office": "kanonik włocławski"
-    },
-    {
         "role_or_office": "scholaster św. Krzyża we Wrocławiu"
     },
     {
-        "role_or_office": "doktor prawa kanonicznego"
+        "role_or_office": "kanonik w kapitule warmińskiej"
     },
     {
         "role_or_office": "Professor Mathematum"
+    },
+    {
+        "role_or_office": "doktor prawa kanonicznego"
     },
     {
         "role_or_office": "sekretarz"
@@ -45,10 +45,16 @@
         "role_or_office": "wizytator dóbr kapitulnych"
     },
     {
-        "role_or_office": "administrator dóbr wspólnych kapituły warmińskiej"
+        "role_or_office": "administratorem dóbr wspólnych kapituły warmińskiej"
     },
     {
         "role_or_office": "komisarz Warmii"
+    },
+    {
+        "role_or_office": "wizytator kapituły"
+    },
+    {
+        "role_or_office": "nuncius capituli"
     },
     {
         "role_or_office": "generalny administrator diecezji warmińskiej"
@@ -60,28 +66,7 @@
         "role_or_office": "kartograf"
     },
     {
-        "role_or_office": "lekarz biskupów warmińskich"
-    },
-    {
-        "role_or_office": "lekarz konfratrów w kapitule"
-    },
-    {
-        "role_or_office": "lekarz w Elblągu"
-    },
-    {
-        "role_or_office": "lekarz w Gdańsku"
-    },
-    {
-        "role_or_office": "lekarz w Lubawie"
-    },
-    {
-        "role_or_office": "lekarz w Królewcu"
-    },
-    {
-        "role_or_office": "lekarz dla ludności Warmii"
-    },
-    {
-        "role_or_office": "lekarz dla ubogich chorych we wsiach kapitulnych"
+        "role_or_office": "lekarz praktykujący"
     },
     {
         "role_or_office": "collector aniversariorum, mortuarius"
@@ -96,6 +81,9 @@
         "role_or_office": "pełnomocnik kapituły"
     },
     {
-        "role_or_office": "scholasteria św. Krzyża we Wrocławiu"
+        "role_or_office": "kandydat na stolicę biskupią"
+    },
+    {
+        "role_or_office": "koadiutor z prawem następstwa"
     }
 ]
