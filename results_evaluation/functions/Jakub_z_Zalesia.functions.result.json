@@ -1,62 +1,63 @@
 [
     {
         "role_or_office": "profesor astronomii i astrologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor medycyny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny lekarz Kazimierza Jagiellończyka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny lekarz dwóch synów Kazimierza Jagiellończyka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "wykładowca astronomii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz-praktyk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny lekarz króla Kazimierza Jagiellończyka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny lekarz króla Władysława Jagiellończyka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "proboszcz kolegiaty wiślickiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik krakowski",
-        "result": null
+        "result": true,
+        "pj_note": "przybrano go do grona krakowskich kanoników katedralnych"
     },
     {
         "role_or_office": "kanonik gnieźnieński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik włocławski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prepozyt kolegiaty tarnowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik płocki",
-        "result": null
+        "result": true
     }
 ]

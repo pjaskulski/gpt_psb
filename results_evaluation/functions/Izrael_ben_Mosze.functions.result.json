@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "pionier żydowskiego oświecenia (Haskali) w Polsce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "matematyk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel",
-        "result": null
+        "result": true
     }
 ]

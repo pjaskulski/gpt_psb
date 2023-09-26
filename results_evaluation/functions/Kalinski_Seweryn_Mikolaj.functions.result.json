@@ -1,26 +1,28 @@
 [
     {
         "role_or_office": "rotmistrz królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta bracławski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca chorągwi pancernej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dzierżawca wsi Hołodki",
-        "result": null
+        "result": true,
+        "pj_note": "to prawdziwa informacja, ale nie wiem czy można to uznać za zawód czy funkcję"
     },
     {
         "role_or_office": "pułkownik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłaniec do klasztoru jasnogórskiego",
-        "result": null
+        "result": false,
+        "pj_note": "to bardziej wydarzenie w życiu bohatera niż funkcja"
     }
 ]

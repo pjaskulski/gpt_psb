@@ -1,46 +1,46 @@
 [
     {
         "role_or_office": "zecer",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "działacz ruchu robotniczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współzałożyciel Koła Młodych Drukarzy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zarządu Koła Młodych Drukarzy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zjednoczenia Robotniczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Zagranicznego Socjalistów Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz sekcji paryskiej ZZSP",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zarządu Towarzystwa Pomocy Więźniom i Emigrantom Politycznym 'Czerwony Krzyż'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek sekcji ZZSP w Leodium",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współorganizator Ogólnobelgijskiej Pomocy Bratniej polskich studentów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inżynier",
-        "result": null
+        "result": true
     }
 ]

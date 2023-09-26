@@ -1,42 +1,43 @@
 [
     {
         "role_or_office": "studentka Wydziału Prawa Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "magister prawa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka Wydziału Humanistyczny, sekcja filozofii i psychologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek kole prawników, socjologów, Polskiej Macierzy Szkolnej, w katolickiej organizacji Pomoc Bliźniemu («Pom-Bli»)",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędy w odminaie"
     },
     {
         "role_or_office": "członek «Falangi»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Konfederacji Narodu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Armii Krajowej (AK)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizatorka pomocy dla Uwięzionych na Pawiaku i na Szucha",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjatorka, współorganizatorka i przewodnicząca Międzyorganizacyjnego Porozumienia Pomocy Więźniom",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "łączniczka AK w zgrupowaniu płka «Radosława»",
-        "result": null
+        "result": true
     }
 ]

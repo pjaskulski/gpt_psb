@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "królewna polska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "księżna bawarska",
-        "result": null
+        "result": true
     }
 ]

@@ -1,86 +1,88 @@
 [
     {
         "role_or_office": "dziennikarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "badacz prasy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student Wydziału Filologicznego Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student prawa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student Akademii Handlowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student Wydziale Filozoficznym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik księgarni",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor literacki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Tow. Literatów i Dziennikarzy Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik Komitetu Obywatelskiego m. st. Warszawy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komisji Prasowej Rady Głównej Opiekuńczej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik redakcji „Kuriera Polskiego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik redakcji „Kuriera Porannego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik Wydziału prasowego Min. Spraw Wewn.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef biura prasowego Związku Ziemian",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicedyrektor biura wycinków prasowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor biura wycinków prasowych",
-        "result": null
+        "result": true,
+        "pj_note": "to nie jest powiedziane wprost, ale wynika z kontekstu"
     },
     {
         "role_or_office": "wykładowca historii prasy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik biblioteki Tow. Wyższej Szkoły Dziennikarskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator Polskiego Instytutu Prasoznawczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Wyższej Szkoły Dziennikarskiej",
-        "result": null
+        "result": false,
+        "pj_note": "niewłaściwe określenie, biogram mówi: brał też udział w pracach restytucyjnych Wyższej Szkoły Dziennikarskiej"
     }
 ]

@@ -1,54 +1,55 @@
 [
     {
         "role_or_office": "śpiewaczka operetkowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "śpiewaczka operowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "uczennica H. Majeranowskiej, M. Szlezygierowej i Lamperiego",
-        "result": null
+        "result": false,
+        "pj_note": "to prawda, ale to nie funkcja czy urząd, raczej jakaś inna kategoria informacji"
     },
     {
         "role_or_office": "członkini prowincjonalnej trupy Henryka Lasockiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka teatru polsko-ruskiego w Nowym Sączu i Złoczowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właścicielka własnego zespołu teatralnego w Krośnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "śpiewaczka w teatrze lwowskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrze «Nowym» w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Lwowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrze objazdowym A. Lelewicza i H. Lasockiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reżyserka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka śpiewu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Polskiego w Katowicach",
-        "result": null
+        "result": true
     }
 ]

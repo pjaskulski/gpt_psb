@@ -1,26 +1,28 @@
 [
     {
         "role_or_office": "setnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyplomata kozacki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "setnik czehryński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "setnik subotowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowiec do Moskwy",
-        "result": null
+        "result": false,
+        "pj_note": "to nie po polsku, posłował do Moskwy w imienu Chmielnickiego"
     },
     {
         "role_or_office": "posłowiec do sułtana tureckiego",
-        "result": null
+        "result": false,
+        "pj_note": "to znów nie po polsku: udał się K. z poselstwem do sułtana tureckiego"
     }
 ]

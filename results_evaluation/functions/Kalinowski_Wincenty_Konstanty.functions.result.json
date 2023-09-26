@@ -1,54 +1,55 @@
 [
     {
         "role_or_office": "działacz rewolucyjny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student Wydziału Prawa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przywódca studenckiego «Ogółu» polskiego",
-        "result": null
+        "result": true,
+        "pj_note": "taka informacja jest w biogramie, tylko co to właściwie znaczy?"
     },
     {
         "role_or_office": "kandydat nauk prawnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel tajnej organizacji rewolucyjnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor \"Mužyckaja Prauda\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komitetu Ruchu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pomocnik naczelnika miasta Wilna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz w woj. grodzieńskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz Wydziału",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik wydziału spraw wewnętrznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz pełnomocny Rządu Narodowego na Litwę",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelny przywódca powstania litewskiego",
-        "result": null
+        "result": true
     }
 ]

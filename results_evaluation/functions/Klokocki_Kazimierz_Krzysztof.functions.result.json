@@ -1,54 +1,57 @@
 [
     {
         "role_or_office": "gubernator księstwa słuckiego i kopylskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator drukarni słuckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bibliotekarz nacji germańskiej",
-        "result": null
+        "result": true,
+        "pj_note": "w Orleanie, cokolwiek ta funkcja oznacza"
     },
     {
         "role_or_office": "dworzanin królewicza Karola Ferdynanda",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "porucznik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zarządca fortecy w Słucku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "gubernator księstwa kopylskiego i słuckiego",
-        "result": null
+        "result": false,
+        "pj_note": "to duplikat już wymienionej funkcji"
     },
     {
         "role_or_office": "stolnik płocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na sejm",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekun Ludwiki Karoliny",
-        "result": null
+        "result": true,
+        "pj_note": "córki B. Radziwiłła"
     },
     {
         "role_or_office": "ekonom (zarządca) dóbr Ludwiki Karoliny na Litwie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pułkownik JKM",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży miński",
-        "result": null
+        "result": true
     }
 ]
