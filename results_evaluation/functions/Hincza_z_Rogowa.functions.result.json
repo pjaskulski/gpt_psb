@@ -1,42 +1,42 @@
 [
     {
         "role_or_office": "podskarbi królestwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan sandomierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta radomski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan rozpierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podskarbi państwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta nieszawski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan sieradzki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta inowrocławski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta gołubski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asesor w sądzie królewskim",
-        "result": null
+        "result": true
     }
 ]

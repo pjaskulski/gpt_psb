@@ -1,26 +1,26 @@
 [
     {
         "role_or_office": "wojewoda kijowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda nowogrodzki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "namiestnik przełomski i ożski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży ziemski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek hospodarski",
-        "result": null
+        "result": true
     }
 ]

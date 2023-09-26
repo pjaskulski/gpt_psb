@@ -1,26 +1,29 @@
 [
     {
         "role_or_office": "inżynier",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podróżnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "łącznik w powstaniu",
-        "result": null
+        "result": true,
+        "pj_note": "powstaniu styczniowym"
     },
     {
         "role_or_office": "zawiadowca warsztatów mechanicznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek towarzystw geograficznych",
-        "result": null
+        "result": true,
+        "pj_note": "w Paryżu, Londynie, Amsterdamie i Brukseli"
     },
     {
         "role_or_office": "pracownik zakładów przemysłowych",
-        "result": null
+        "result": true,
+        "pj_note": "udał się do Anglii i Stanów Zjednoczonych, gdzie pracował w różnych zakładach przemysłowych
     }
 ]

@@ -1,18 +1,19 @@
 [
     {
         "role_or_office": "malarz gdański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "obywatel gdański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "malarz królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mistrz w gdańskim cechu malarskim",
-        "result": null
+        "result": false,
+        "pj_note": "to określenie dotyczy syna bohatera"
     }
 ]

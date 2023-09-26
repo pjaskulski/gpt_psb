@@ -1,66 +1,68 @@
 [
     {
         "role_or_office": "pisarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz utworów scenicznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "działacz polityczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "akademik",
-        "result": null
+        "result": true,
+        "pj_note": "aczkolwiek trudno powiedzieć czy to funkcja"
     },
     {
         "role_or_office": "aplikant w namiestnictwie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aplikant w ministerstwie skarbu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor tygodnika 'Wanda'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współwydawca tygodnika mód 'Warszawianin'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł łucki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współredaktor 'Orła Białego'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wydawca 'Gazety Narodowej'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Towarzystwa Litewskiego i Ziem Ruskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca kursu historii i statystyki Polski",
-        "result": null
+        "result": true,
+        "pj_note": "brak informacji gdzie:  w Szkole Artylerii zakładu emigracyjnego w Bourges"
     },
     {
         "role_or_office": "kustosz w Bibliotece Królewskiej wersalskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprezes Rady Administracyjnej Szkoły Batignollskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bibliotekarz Ossolineum",
-        "result": null
+        "result": true
     }
 ]

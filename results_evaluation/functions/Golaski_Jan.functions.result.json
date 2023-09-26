@@ -1,54 +1,59 @@
 [
     {
         "role_or_office": "rektor kolegium pijarskiego w Radziejowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel klasy infimy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel klasy gramatyki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor",
-        "result": null
+        "result": true,
+        "pj_note": "brak informacji gdzie: w kolegium w Drohiczynie"
     },
     {
         "role_or_office": "prefekt",
-        "result": null
+        "result": true,
+        "pj_note": "w kolegium szczuczyńskim"
     },
     {
         "role_or_office": "profesor klasy czwartej",
-        "result": null
+        "result": true,
+        "pj_note": "w kolegium szczuczyńskim"
     },
     {
         "role_or_office": "wicedyrektor",
-        "result": null
+        "result": true,
+        "pj_note": "w kolegium szczuczyńskim"
     },
     {
         "role_or_office": "wicerektor kolegium w Drohiczynie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicerektor Collegium Nobilium w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor kolegium w Radziejowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "superior",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowincjał",
-        "result": null
+        "result": false,
+        "pj_note": "Po objęciu stanowiska prowincjała przez ks. Teodora Wagę G. pełnił nadal funkcję rektora kolegium w Radziejowie"
     }
 ]

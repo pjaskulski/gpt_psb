@@ -1,42 +1,49 @@
 [
     {
         "role_or_office": "podkomorzy łęczycki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat w trybunale koronnym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "miecznik łęczycki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podczaszy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia grodzki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputowany od trybunału",
-        "result": null
+        "result": false,
+        "pj_note": "jeździł do Drezna w deputacji od trybunału ze skargą - to chyba nie jest żadna formalna funkcja"
     },
     {
         "role_or_office": "elektor",
-        "result": null
+        "result": false,
+        "pj_note": "G. podpisał elekcję Stanisława Augusta - to chyba nie jest formalna funkcja czy urząd"
     },
     {
         "role_or_office": "syndyk bernardynów w Łęczycy",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "z tekstu chyba wynika, że był posłem na sejm?"
     }
 ]

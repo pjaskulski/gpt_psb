@@ -1,74 +1,75 @@
 [
     {
         "role_or_office": "literat",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "slawista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "orientalista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "korespondent „Figara” paryskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "korespondent lwowskiej „Gazety Narodowej”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "korespondent wojenny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Słowa Polskiego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Gazety Warszawskiej”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Słowa”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Gazety Lwowskiej”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Świata Słowiańskiego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik Encyklopedii Orgelbranda",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współorganizator drużyn Sokoła",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współorganizator Tow. Wzajemnej Pomocy Przewodników Tatrzańskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel stacji naukowej polskiej na Wschodzie, Hyacinthaeum",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "publicysta",
-        "result": null
+        "result": true,
+        "pj_note": "o ile ta wzmianka usprawiedliwia takiej określenie: rozwinął w Warszawie żywą działalność odczytową i publicystyczną w sprawie ożywienia handlu polskiego ze Wschodem"
     },
     {
         "role_or_office": "redaktor „Goniec Tatrzański”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor „Almanach Tatrzański”",
-        "result": null
+        "result": true
     }
 ]

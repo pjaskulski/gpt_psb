@@ -1,26 +1,28 @@
 [
     {
         "role_or_office": "romanista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student filologii romańskiej i angielskiej na Wydziale Filozoficznym UJ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor filozofii w zakresie filologii romańskiej i angielskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autor rozprawy doktorskiej",
-        "result": null
+        "result": true,
+        "pj_note": "aczkolwiek wartość takiej informacji jest niewielka, wcześniej jest inf. że był doktorem" 
     },
     {
         "role_or_office": "autor bibliografii rozumowanej filologii romańskiej w Polsce",
-        "result": null
+        "result": true,
+        "pj_note": "aczkolwiek wartość takiej informacji jest chyba niewielka, to nie jest funkcja, trzeba by to zgeneralizować np. autor publikacji z dziedziny filologii romańskiej?" 
     },
     {
         "role_or_office": "lektor języka francuskiego w Lwowie",
-        "result": null
+        "result": true
     }
 ]

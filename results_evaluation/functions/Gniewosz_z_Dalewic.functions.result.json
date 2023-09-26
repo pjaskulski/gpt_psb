@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "podkomorzy krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta lwowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta trembowelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ochmistrz dworu drugiej żony Jagiełły, królowej Anny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan sandomierski",
-        "result": null
+        "result": true
     }
 ]

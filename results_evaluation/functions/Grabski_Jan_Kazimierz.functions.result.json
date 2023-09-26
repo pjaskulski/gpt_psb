@@ -1,38 +1,38 @@
 [
     {
         "role_or_office": "kasztelan nakielski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz do sprawdzania rachunków poborowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat na trybunał koronny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia grodzki nakielski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na sejm",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "konsyliarz konfederacji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia surogator grodzki wałecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziedzic Żelic i Michałkowic, miasta Miasteczka i wsi Brzostowa oraz części dóbr nowomiejskich",
-        "result": null
+        "result": true
     }
 ]

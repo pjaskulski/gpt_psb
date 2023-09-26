@@ -1,82 +1,84 @@
 [
     {
         "role_or_office": "podróżnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generał lejtnant wojsk rosyjskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ochotnik do pułku ułanów gwardii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiutant gen. Skobelewa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiutant gen. Witgensteina",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pomocnik naczelnika powiatu margelańskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "urzędnik do szczególnych poruczeń przy gubernatorze Fergany",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelnik powiatu w Oszu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generalny konsul rosyjski w Kaszgarze",
-        "result": null
+        "result": false,
+        "pj_note": "otrzymał G. propozycję objęcia stanowiska generalnego konsula rosyjskiego w Kaszgarze albo komisarza pogranicznego nadamurskiego. Wybrał to ostatnie stanowisko"
     },
     {
         "role_or_office": "komisarz pogranicznego nadamurski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generalny komisarz Kuantungu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "gubernator astrachański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "hetman wojsk kozackich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelnik zarządu cywilnego kolei wschodnio-chińskiej w Charbinie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przedstawiciel Rosyjskiego Czerwonego Krzyża w Hiszpanii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "emerytowany generał",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelnik Państw. Instytutu Meteorologicznego",
-        "result": null
+        "result": false,
+        "pj_note": "Otrzymał skromne, nieetatowe stanowisko w Państw. Instytucie Meteorologicznym"
     },
     {
         "role_or_office": "członek Polskiego Towarzystwa Geograficznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "skarbnik Polskiego Towarzystwa Geograficznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek korespondent Polskiego Towarzystwa Geograficznego",
-        "result": null
+        "result": true
     }
 ]

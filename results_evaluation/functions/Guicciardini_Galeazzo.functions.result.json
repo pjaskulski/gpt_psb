@@ -1,30 +1,34 @@
 [
     {
         "role_or_office": "budowniczy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik budowlany dla Sebastiana Montelupiego",
-        "result": null
+        "result": false,
+        "pj_note": "Pracownik budowlany to chyba nie jest właściwe określenie: prowadził rzeczywiście prace budowlane dla Sebastiana Montelupiego"
     },
     {
         "role_or_office": "pracownik budowlany w domu Gutteterów",
-        "result": null
+        "result": false,
+        "pj_note": "Pracownik budowlany to chyba nie jest właściwe określenie: drugą kamienicą w Rynku krakowskim, w której przebudowie brał G. udział, jest dom Gutteterów"
     },
     {
         "role_or_office": "budowniczy zamku w Melsztynie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "budowniczy domu wikariuszy zamkowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik budowlany przy dworze Rabsztyn na Wawelu",
-        "result": null
+        "result": false,
+        "pj_note": "Pracownik budowlany to chyba nie jest właściwe określenie: Rachunki bonerowskie z r. 1560 mówią także o jego pracy przy dworze Rabsztyn na Wawelu."
     },
     {
         "role_or_office": "pracownik budowlany przy naprawie dzwonnicy zygmuntowskiej",
-        "result": null
+        "result": false,
+        "pj_note": "Pracownik budowlany to chyba nie jest właściwe określenie: pracować też miał przy naprawie dzwonnicy zygmuntowskiej"
     }
 ]

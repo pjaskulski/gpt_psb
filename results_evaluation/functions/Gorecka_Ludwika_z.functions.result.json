@@ -1,14 +1,16 @@
 [
     {
         "role_or_office": "filantropka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ofiarodawczyni na cele nauki i sztuki",
-        "result": null
+        "result": true,
+        "pj_note": "ale to określenie dubluje wcześniejsze: filantropka"
     },
     {
         "role_or_office": "działaczka ruchu kobiecego",
-        "result": null
+        "result": false,
+        "pj_note": "tekst nie określa tak bohaterki biogramu:  Pogłębiła tę postawę przyjaźń z wybitnymi autorkami i działaczkami ruchu kobiecego" 
     }
 ]
