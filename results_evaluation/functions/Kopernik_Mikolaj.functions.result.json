@@ -1,118 +1,133 @@
 [
     {
         "role_or_office": "astronom",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ekonomista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "humanista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik warmiński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "scholaster św. Krzyża we Wrocławiu",
-        "result": null
+        "result": true,
+        "pj_note": "ale nie wiem czy to prawidłowe określenie: objął ... przyznaną mu ... kanonię warmińską, do której przyłączył scholasterię św. Krzyża we Wrocławiu"
     },
     {
         "role_or_office": "kanonik w kapitule warmińskiej",
-        "result": null
+        "result": true,
+        "pj_note": "to chyba trochę inne określenie wcześniejszej informacji: kanonik warmiński"
     },
     {
         "role_or_office": "Professor Mathematum",
-        "result": null
+        "result": true,
+        "pj_note": "to informacja, że prowadził wykłady w Rzymie "
     },
     {
         "role_or_office": "doktor prawa kanonicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz",
-        "result": null
+        "result": true,
+        "pj_note": "w służbie wuja Ł. Watzenrodego na zamku lidzbarskim"
     },
     {
         "role_or_office": "powiernik",
-        "result": null
+        "result": true,
+        "pj_note": "w służbie wuja Ł. Watzenrodego na zamku lidzbarskim"
     },
     {
         "role_or_office": "lekarz przyboczny",
-        "result": null
+        "result": true,
+        "pj_note": "w służbie wuja Ł. Watzenrodego na zamku lidzbarskim"
     },
     {
         "role_or_office": "magister pistoriae",
-        "result": null
+        "result": true,
+        "pj_note": "objął jako «magister pistoriae» zarząd przedsiębiorstw gospodarczych kapituły"
     },
     {
         "role_or_office": "kanclerz",
-        "result": null
+        "result": null,
+        "pj_note": "dóbr kapitulnych?"
     },
     {
         "role_or_office": "wizytator dóbr kapitulnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administratorem dóbr wspólnych kapituły warmińskiej",
-        "result": null
+        "result": true,
+        "pj_note": "niepoprawna odmiana" 
     },
     {
         "role_or_office": "komisarz Warmii",
-        "result": null
+        "result": true,
+        "pj_note": "powierzenie K-owi w lecie 1521 r. nadzwyczajnego urzędu «komisarza Warmii»"
     },
     {
         "role_or_office": "wizytator kapituły",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nuncius capituli",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generalny administrator diecezji warmińskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "delegat kapituły",
-        "result": null
+        "result": true,
+        "pj_note": "na sejmiku pruskim w Grudziądzu"
     },
     {
         "role_or_office": "kartograf",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz praktykujący",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "collector aniversariorum, mortuarius",
-        "result": null
+        "result": true,
+        "pj_note": "nadzór nad egzekucją testamentów"
     },
     {
         "role_or_office": "assistentia munitionis",
-        "result": null
+        "result": true,
+        "pj_note": "nadzór nad ... uzbrojeniem warowni fromborskiej"
     },
     {
         "role_or_office": "przełożony kasy budowlanej (fabrica ecclesiae)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pełnomocnik kapituły",
-        "result": null
+        "result": true,
+        "pj_note": "w charakterze pełnomocnika kapituły celem spisania inwentarza ruchomości po zmarłym biskupie"
     },
     {
         "role_or_office": "kandydat na stolicę biskupią",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "koadiutor z prawem następstwa",
-        "result": null
+        "result": false,
+        "pj_note": "to nie jest funkcja bohatera: podjął K. pierwsze starania o przyznanie mu koadiutora z prawem następstwa (został nim dopiero w r. 1542 jego siostrzeniec Jan Loitsch)"
     }
 ]

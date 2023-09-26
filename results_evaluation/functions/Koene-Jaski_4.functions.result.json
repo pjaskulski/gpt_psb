@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "kupiec gdański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel firmy bursztynowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rzemieślnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek poselstwa wysłanego przez gdańską Radę Miejską",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekun szpitala miejskiego zwanego «Packenhaus»",
-        "result": null
+        "result": true
     }
 ]

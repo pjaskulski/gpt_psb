@@ -1,22 +1,24 @@
 [
     {
         "role_or_office": "działacz rewolucyjny warszawski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sybirak",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik techniczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "delegat do Wrocławia",
-        "result": null
+        "result": true,
+        "pj_note": "gdzie miał obradować zjazd trójzaborowy nad powołaniem do życia rządu narodowego"
     },
     {
         "role_or_office": "emisariusz Centralnego Komitetu Demokracji Europejskiej",
-        "result": null
+        "result": false,
+        "pj_note": "Stamtąd pomagał emisariuszom Centralnego Komitetu Demokracji Europejskiej w Londynie"
     }
 ]

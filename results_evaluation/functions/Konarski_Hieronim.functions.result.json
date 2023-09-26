@@ -1,70 +1,72 @@
 [
     {
         "role_or_office": "pijar",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reformator szkolnictwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz polityczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel składni",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel poezji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel humaniorów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel retoryki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel wymowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz Jerzego Ożarowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor kolegium pijarskiego w Warszawie",
-        "result": null
+        "result": true,
+        "pj_note": "choć dalej w tekście:  K. nie objął rektoratu warszawskiego"
     },
     {
         "role_or_office": "I asystent prowincji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowincjał",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "regens Collegium Nobilium",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Collegium Nobilium",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "piar",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pierwszy asystent prowincji",
-        "result": null
+        "result": false,
+        "pj_note": "to powtórzenie wcześniejeszej informacji"
     }
 ]
