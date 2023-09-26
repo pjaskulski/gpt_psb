@@ -1,34 +1,34 @@
 [
     {
         "role_or_office": "inżynier",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kartograf",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficer regimentu w batalionie Skarbu Kor",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pomocnik przy robotach hydrauliczno-melioracyjnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "porucznik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kwatermistrz regimentu w batalionie Skarbu Kor",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kapitan regimentu pieszego 16",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "major w regimentie pieszego 16",
-        "result": null
+        "result": true
     }
 ]

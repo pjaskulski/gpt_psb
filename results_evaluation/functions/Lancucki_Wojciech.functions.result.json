@@ -1,70 +1,70 @@
 [
     {
         "role_or_office": "prawnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Akad. Krak.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Akad. Krak.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prefekt Seminarium Duchownego w Gnieźnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel prywatny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "professor regius",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan Wydziału",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prepozyt domu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Akademii Lubrańskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik Św. Anny i Św. Mikołaja za Zamku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik w kolegiacie Wszystkich Świętych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "proboszcz w Luborzycy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "archidiakon pilecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor praw",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "senior pater",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podkanclerz Akademii",
-        "result": null
+        "result": true
     }
 ]
