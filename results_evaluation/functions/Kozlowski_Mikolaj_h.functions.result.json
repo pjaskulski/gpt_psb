@@ -1,58 +1,59 @@
 [
     {
         "role_or_office": "profesor Uniwersytetu Krakowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Uniwersytetu Krakowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bakałarz teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicekanclerz Uniwersytetu Krakowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bakałarz sentencjonariusz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "baccalarius formatus",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekun dzieci brata Piotra",
-        "result": null
+        "result": true,
+        "pj_note": "ale czy to oficjalna funkcja?"
     },
     {
         "role_or_office": "doktor teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik poznański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik kolegiaty Św. Floriana w Krakowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reprezentant biskupa krakowskiego na soborze w Bazylei",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generalny komisarz na Polskę dla głoszenia odpustów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pleban w Zagościu koło Wiślicy",
-        "result": null
+        "result": true
     }
 ]

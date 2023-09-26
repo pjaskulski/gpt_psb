@@ -1,78 +1,83 @@
 [
     {
         "role_or_office": "generał brygady W. P.",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "żołnierz Armii Radzieckiej" 
     },
     {
         "role_or_office": "kursant III Leningradzkiej Szkoły Artylerii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podporucznik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca plutonu w I Warszawskiej Brygadzie Artylerii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef zwiadu dywizjonu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef sztabu 34 p. artylerii lekkiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca pułku artylerii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef sztabu brygady artylerii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef sztabu dywizji artylerii przełamania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca szefa sztabu Dowództwa Artylerii W. P.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca dowódcy Artylerii W. P.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca artylerii Pomorskiego Okręgu Wojskowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Zarządu Sztabu Generalnego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Artylerii W. P.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Misji Polskiej przy Międzynarodowej Komisji Nadzoru i Kontroli w Korei",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik Głównego Inspektoratu Szkolenia Min. Obrony Narodowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiej Partii Robotniczej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiej Zjednoczonej Partii Robotniczej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca komendanta Wojskowej Akademii Politycznej im. F. Dzierżyńskiego do spraw szkolenia operacyjnego",
-        "result": null
+        "result": true
     }
 ]

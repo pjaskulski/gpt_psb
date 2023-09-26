@@ -1,18 +1,18 @@
 [
     {
         "role_or_office": "kasztelan zawichojski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "łowczy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia ziemski lubelski",
-        "result": null
+        "result": true
     }
 ]

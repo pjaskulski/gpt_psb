@@ -1,34 +1,36 @@
 [
     {
         "role_or_office": "pedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wydawca literatury greckiej i łacińskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca nauczyciela w gimnazjum II",
-        "result": null
+        "result": true,
+        "pj_note": "ale bez informacji że chodzi o gimnazjum we Lwowie"
     },
     {
         "role_or_office": "nauczyciel",
-        "result": null
+        "result": true,
+        "pj_note": "ale bez informacji że chodzi o gimnazjum we Lwowie"
     },
     {
         "role_or_office": "dyrektor miejskiego gimnazjum w Drohobyczu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor greki i łaciny w gimnazjum I i IV",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Tow. Nauczycieli Szkół Wyższych",
-        "result": null
+        "result": true
     }
 ]

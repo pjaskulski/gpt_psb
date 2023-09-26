@@ -1,26 +1,26 @@
 [
     {
         "role_or_office": "nauczycielka matematyki i rysunku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "malarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Union Internationale des Beaux-Arts et des Lettres",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Towarzystwa Zachęty Sztuk Pięknych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiego Towarzystwa Artystycznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Polskich Artystów Plastyków",
-        "result": null
+        "result": true
     }
 ]

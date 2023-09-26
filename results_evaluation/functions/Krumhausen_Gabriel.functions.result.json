@@ -1,74 +1,76 @@
 [
     {
         "role_or_office": "burmistrz Gdańska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "burgrabia królewski w Gdańsku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ławnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rajca",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator Helem",
-        "result": null
+        "result": true,
+        "pj_note": "ale niepoprawna odmiana"
     },
     {
         "role_or_office": "administrator Żuław",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komisji Wojennej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inspektor kancelarii i archiwum",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "protoscholarcha",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "burgrabia królewski",
-        "result": null
+        "result": false,
+        "pj_note": "to powtórzenie tej samej informacji"
     },
     {
         "role_or_office": "przewodniczący poselstw gdańskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący delegacji gdańskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek komisji dla zlikwidowania konfliktu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kolekcjoner",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "darczyńca Biblioteki Rady Miasta",
-        "result": null
+        "result": true
     }
 ]

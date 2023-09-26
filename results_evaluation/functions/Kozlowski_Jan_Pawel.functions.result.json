@@ -1,62 +1,65 @@
 [
     {
         "role_or_office": "dominikanin",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor UJ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca w zakonnych kolegiach dominikańskich",
-        "result": null
+        "result": true,
+        "pj_note": "ale brak szczegółów: w studium generalnym w Krakowie uczył filozofii ... w Lublinie – teologii dogmatycznej i moralnej ... nauk teologicznych w macierzystym kolegium w Krakowie"
     },
     {
         "role_or_office": "kaznodzieja w kolegiacie WW. Świętych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "regens w studium krakowskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przeor",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowincjał obydwu Galicji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowincjał Galicji wschodniej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowincjał prowincji polskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja katedralny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "egzaminator prosynodalny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca profesora",
-        "result": null
+        "result": true,
+        "pj_note": "w katedrze historii Kościoła"
     },
     {
         "role_or_office": "profesor aktualny",
-        "result": null
+        "result": true,
+        "pj_note": "w katedrze historii Kościoła"
     },
     {
         "role_or_office": "dziekan Wydziału Teologicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Tow. Naukowego Krakowskiego",
-        "result": null
+        "result": true
     }
 ]

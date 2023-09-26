@@ -1,42 +1,45 @@
 [
     {
         "role_or_office": "minister ariański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator zboru wygnańczego w Koloszwarze",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "alumn zborowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel",
-        "result": null
+        "result": true,
+        "pj_note": "powierzono mu zadania nauczyciela (preceptora dzieci Jerzego Niemirycza)"
     },
     {
         "role_or_office": "pomocnik Marcina Ruara",
-        "result": null
+        "result": true,
+        "pj_note": "został pomocnikiem Marcina Ruara w Gdańsku z obowiązkiem wygłaszania (polskich) kazań"
     },
     {
         "role_or_office": "minister w Lusławicach nad Dunajcem",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przywódca braci polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister na Sądecczyźnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca w Kolegium Unitariańskim w Koloszwarze",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister autonomicznego zboru braci polskich",
-        "result": null
+        "result": true,
+        "pj_note": "w Koloszwarze"
     }
 ]
