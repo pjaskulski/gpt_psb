@@ -1,46 +1,46 @@
 [
     {
         "role_or_office": "literatka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "publicystka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka na Sorbonie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Międzynarodowej Ligi Wychowawczej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zarządu Konfederacji Polska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodnicząca 'Ogniska Uświadomienia Narodowego'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka prywatna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Towarzystwa Literatów i Dziennikarzy Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodnicząca sekcji spraw ekonomicznych w Towarzystwie Literatów i Dziennikarzy Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Towarzystwa Ochrony Kobiet",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek stowarzyszenia 'Trzeźwość'",
-        "result": null
+        "result": true
     }
 ]

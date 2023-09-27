@@ -1,54 +1,58 @@
 [
     {
         "role_or_office": "wojewoda bełski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta guzowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podstoli litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł nadzwyczajny do Moskwy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rezydent u boku króla w Dreźnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek dworu królowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek Trybunału Kor.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek sejmu",
-        "result": null
+        "result": false,
+        "pj_note": "był opozycyjnym kandydatem do laski marszałkowskiej, lecz marszałkiem został P. Sapieha."
     },
     {
         "role_or_office": "poseł na sejm",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek dworu zmarłej królowej",
-        "result": null
+        "result": true,
+        "pj_note": "ale to powtórzenie"
     },
     {
         "role_or_office": "komendant fortec pogranicznych",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohatera"
     },
     {
         "role_or_office": "generał-lejtnant wojsk kor.",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohatera"
     }
 ]

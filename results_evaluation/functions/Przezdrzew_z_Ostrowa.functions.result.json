@@ -1,10 +1,11 @@
 [
     {
         "role_or_office": "kasztelan kruszwicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia brzeski kujawski",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja jego ojca: był więc najmłodszym synem sędziego brzeskiego kujawskiego Macieja z Ostrowa"
     }
 ]

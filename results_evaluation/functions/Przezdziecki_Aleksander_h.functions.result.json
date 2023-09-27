@@ -1,30 +1,31 @@
 [
     {
         "role_or_office": "kasztelan inflancki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży mozyrski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat na Trybunał W. Ks. Lit.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "towarzysz chorągwi pancernej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz poselstwa do Rosji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "miecznik lit.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz jednego z poselstw polskich",
-        "result": null
+        "result": true,
+        "pj_note": "był ponownie sekretarzem jednego z poselstw polskich wysyłanych wówczas do Rosji"
     }
 ]
