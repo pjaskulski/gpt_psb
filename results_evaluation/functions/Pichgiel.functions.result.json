@@ -1,18 +1,19 @@
 [
     {
         "role_or_office": "złotnik gdański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy cechu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca starszego cechu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik warsztatu złotniczego",
-        "result": null
+        "result": true,
+        "pj_note": "tylko to jest wtórne określenie, był złotnikiem który prowadził swój warsztat"
     }
 ]

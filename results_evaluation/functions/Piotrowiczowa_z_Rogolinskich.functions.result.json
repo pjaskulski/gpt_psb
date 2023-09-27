@@ -1,14 +1,15 @@
 [
     {
         "role_or_office": "uczestniczka powstania styczniowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka we wsi Chocianowice",
-        "result": null
+        "result": false,
+        "pj_note": "wyszła za mąż za Konstantego Piotrowicza, nauczyciela we wsi Chocianowice"
     },
     {
         "role_or_office": "członkini narodowej organizacji łódzkiej",
-        "result": null
+        "result": true
     }
 ]

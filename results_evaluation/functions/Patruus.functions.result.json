@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "introligator",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "księgarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nakładca",
-        "result": null
+        "result": true
     }
 ]

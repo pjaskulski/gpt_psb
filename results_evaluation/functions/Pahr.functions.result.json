@@ -1,38 +1,39 @@
 [
     {
         "role_or_office": "architekt",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "fortyfikator",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny architekt księcia legnicko-brzeskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik budowy książęcego zamku w Brzegu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik grupy włoskich murarzy i kamieniarzy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "budowniczy gmachu książęcego gimnazjum w Brzegu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "budowniczy zamku królewskiego w Warszawie",
-        "result": null
+        "result": false,
+        "pj_note": "podpisał w r. 1569 umowę o budowę zamku królewskiego w Warszawie, jeszcze t. r. wycofał się jednak ze zobowiązania"
     },
     {
         "role_or_office": "budowniczy ratusza w Brzegu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator i kierownik robót budowlanych",
-        "result": null
+        "result": true
     }
 ]

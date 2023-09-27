@@ -1,38 +1,40 @@
 [
     {
         "role_or_office": "działaczka komunistyczna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Młodzieży Komunistycznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komunistycznej Partii Robotniczej Polski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komitetu Dzielnicowego «Powązki»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka komunistycznego uniwersytetu im. J. M. Swierdłowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica aparatu Międzynarodówki Komunistycznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica sekretariatu do spraw Polski i krajów nadbałtyckich",
-        "result": null
+        "result": true,
+        "pj_note": "ta funkcja się łączy z poprzednią: pracownica aparatu Międzynarodówki Komunistycznej"
     },
     {
         "role_or_office": "pracownica moskiewskiej fabryki firanek",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierowniczka pracy propagandowej i kulturalnej w moskiewskiej fabryce firanek",
-        "result": null
+        "result": true,
+         "pj_note": "ta funkcja się łączy z poprzednią: pracownica moskiewskiej fabryki firanek"
     }
 ]

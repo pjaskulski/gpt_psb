@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "kanonik poznański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik płocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł Kazimierza Wielkiego do Awinionu",
-        "result": null
+        "result": true
     }
 ]

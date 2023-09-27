@@ -1,54 +1,57 @@
 [
     {
         "role_or_office": "wojewoda trocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewodzic witebski",
-        "result": null
+        "result": false,
+        "pj_note": "to chyba oznacza że był synem wojewody witebskiego? Czyli to nie jest funkcja"
     },
     {
         "role_or_office": "podczaszy litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta kowieński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan witebski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan trocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "senatorski deputat do konstytucji",
-        "result": null
+        "result": true,
+        "pj_note": "na sejmie grodzieńskim 1744 r."
     },
     {
         "role_or_office": "deputat na Trybunał",
-        "result": null
+        "result": true,
+        "pj_note": "Obrany w lutym 1745 deputatem na Trybunał z województwa trockiego"
     },
     {
         "role_or_office": "marszałek Trybunału Lit.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta rohaczewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta olkienicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta oteśnicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta grodowy kowieński",
-        "result": null
+        "result": true
     }
 ]

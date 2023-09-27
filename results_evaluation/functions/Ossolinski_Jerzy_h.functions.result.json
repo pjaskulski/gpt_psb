@@ -1,102 +1,118 @@
 [
     {
         "role_or_office": "podskarbi nadworny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda sandomierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podkanclerzy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanclerz koronny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek sejmu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podstoli koronny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do rokowań pokojowych ze Szwedami",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta radoszycki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta adzelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłaniec do Rzymu",
-        "result": null
+        "result": true,
+        "pj_note": "ale nieprawidłowo sformułowane: poseł do Rzymu"
     },
     {
         "role_or_office": "marszałek izby",
-        "result": null
+        "result": true,
+        "pj_note": "czyli marszałek sejmu?"
     },
     {
         "role_or_office": "deputat do rokowań ze Szwedami",
-        "result": null
+        "result": true,
+        "pj_note": "to nie duplikat, bohater był dwukrotnie wyznaczany na tą funkcję"
     },
     {
         "role_or_office": "legat",
-        "result": null
+        "result": true,
+        "pj_note": "wyjechał w otoczeniu króla do Prus Książęcych, gdzie potem pozostał w charakterze legata, a właściwie namiestnika królewskiego"
     },
     {
         "role_or_office": "namiestnik królewski",
-        "result": null
+        "result": true,
+        "pj_note": "wyjechał w otoczeniu króla do Prus Książęcych, gdzie potem pozostał w charakterze legata, a właściwie namiestnika królewskiego"
     },
     {
         "role_or_office": "posłaniec królewski",
-        "result": null
+        "result": true,
+        "pj_note": "ale to się wiąże z koleją funkcją, to właściwie to samo: polecenie udania się w charakterze posła królewskiego do Ratyzbony"
     },
     {
         "role_or_office": "posłaniec do Ratyzbony",
-        "result": null
+        "result": true,
+        "pj_note": "poseł"
     },
     {
         "role_or_office": "marszałek dworu królowej",
-        "result": null
+        "result": false,
+        "pj_note": "przegrał w sprawie obsadzenia stanowiska marszałka dworu królowej"
     },
     {
         "role_or_office": "opiekun syna królowej Cecylii Renaty",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowiec",
-        "result": null
+        "result": true,
+        "pj_note": "model miał problem z j.polskim, powinno być 'poseł': posłował O. oficjalnie do Prus w celu lustracji fortyfikacji w Piławie" 
     },
     {
         "role_or_office": "starosta lubomelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanclerz",
-        "result": null
+        "result": true,
+        "pj_note": "ale to ta sama funkcja co wymieniona na początku: kanclerz koronny"
     },
     {
         "role_or_office": "starosta pucki",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "wynagrodził król hojnie O-ego ... Otrzymał on ... starostwo bydgoskie"
     },
     {
         "role_or_office": "starosta bolemowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta lubelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelny dowódca zebranych wojsk",
-        "result": null
+        "result": true,
+        "pj_note": "O. został wówczas mianowany naczelnym dowódcą zebranych wojsk"
     }
 ]

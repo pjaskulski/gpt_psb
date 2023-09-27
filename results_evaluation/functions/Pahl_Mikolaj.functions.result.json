@@ -1,38 +1,38 @@
 [
     {
         "role_or_office": "burmistrz Gdańska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "burgrabia królewski w Gdańsku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ławnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rajca",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprezydent",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator majątków miejskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inspektor kancelarii i archiwum",
-        "result": null
+        "result": true
     }
 ]

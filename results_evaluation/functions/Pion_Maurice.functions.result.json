@@ -1,42 +1,44 @@
 [
     {
         "role_or_office": "tancerz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "choreograf",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor teatru i baletu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pierwszy tancerz",
-        "result": null
+        "result": true,
+        "pj_note": "w balecie przy warszawskim Teatrze Narodowym"
     },
     {
         "role_or_office": "dyrektor baletu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik szkoły baletowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel tańca w Aleksandryjskim Instytucie Wychowania Panien",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "antreprener baletu",
-        "result": null
+        "result": true,
+        "pj_note": "Przez jakiś czas był P. antreprenerem nie tylko swojego baletu, ale i rosyjskiego, a potem polskiego zespołu dramatycznego."
     },
     {
         "role_or_office": "kierownik baletu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel szkoły baletowej w Warszawskich Teatrów Rządowych",
-        "result": null
+        "result": true
     }
 ]
