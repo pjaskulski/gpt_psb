@@ -1,30 +1,31 @@
 [
     {
         "role_or_office": "adiutant Stanisława Augusta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generał rewolucji amerykańskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podpułkownik wojska brytyjskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek poselstwa T. Aleksandrowicza do Stambułu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "agent królewski",
-        "result": null
+        "result": true,
+        "pj_note": "pełnił okresowo i nieoficjalnie rolę agenta królewskiego"
     },
     {
         "role_or_office": "generał-major w armii Stanisława Augusta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "generał-major w armii kontynentalnej",
-        "result": null
+        "result": true
     }
 ]

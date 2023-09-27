@@ -1,54 +1,60 @@
 [
     {
         "role_or_office": "wojewoda pomorski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie Zakonu",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędna odmiana: poseł Zakonu, w tekście: posłował z ramienia Zakonu do w. księcia Kazimierza Jagiellończyka na Litwę"
     },
     {
         "role_or_office": "rycerz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prokurator Zakonu",
-        "result": null
+        "result": false,
+        "pj_note": "W r. 1450 prokurator Zakonu w Rzymie skarżył się, że M. przeszkadza"
     },
     {
         "role_or_office": "sługa królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł w. mistrza",
-        "result": null
+        "result": true,
+        "pj_note": "był następnie we Francji, może jako poseł w. mistrza" 
     },
     {
         "role_or_office": "dowódca wojsk stanów w Dolnych Prusach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda elbląski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta Kętrzyna",
-        "result": null
+        "result": false,
+        "pj_note": "to jest fakt niedokonany: W r. 1465 planował odzyskanie Kętrzyna, przy czym miał tam zostać starostą; spisek został wykryty."
     },
     {
         "role_or_office": "pośrednik",
-        "result": null
+        "result": false,
+        "pj_note": "to nie jest funkcja"
     },
     {
         "role_or_office": "starosta pucki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta mirachowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta generalny",
-        "result": null
+        "result": false,
+        "pj_note": "błędna interpretacja stwierdzenia: miasta Prus Królewskich wyrażały obawę, aby w razie rezygnacji starosty generalnego Ścibora Bażyńskiego M. nie został jego następcą."
     }
 ]

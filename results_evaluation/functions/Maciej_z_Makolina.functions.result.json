@@ -1,62 +1,68 @@
 [
     {
         "role_or_office": "sekretarz królowej Bony",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz króla Zygmunta Augusta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik sądecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik kolegiaty Św. Michała na Wawelu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pleban w Kalinówce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pleban w Młodzieszynie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik łęczycki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pleban w Sochaczewie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik kolegiaty Św. Jerzego na Wawelu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pleban w Nurze i Makowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik pułtuski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik wileński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prepozyt trocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik płocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kantor płocki",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "bohater miał też altarie (altarię św. Trójcy w Mejszagole), skoro to rodzaj prebendy to można potraktować jak urząd?"
+
     }
 ]

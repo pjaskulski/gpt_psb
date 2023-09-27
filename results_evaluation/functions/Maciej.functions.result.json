@@ -1,26 +1,26 @@
 [
     {
         "role_or_office": "notariusz kancelarii księcia wielkopolskiego Bolesława Pobożnego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mnich klasztoru benedyktynów w Lubiniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik kapituły poznańskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kapelan książęcy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prepozyt",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik kancelarii księcia wielkopolskiego Bolesława Pobożnego",
-        "result": null
+        "result": true
     }
 ]

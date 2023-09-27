@@ -1,78 +1,83 @@
 [
     {
         "role_or_office": "psycholog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Wolnej Wszechnicy Polskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Uniwersytetu Łódzkiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "działaczka społeczna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiej Partii Socjalistycznej (PPS)-Lewicy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "guwernantka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor filozofii i pedagogiki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor nauk pedologicznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka",
-        "result": null
+        "result": true,
+        "pj_note": "w szkole podstawowej przy ul. Koszykowej w Warszawie"
     },
     {
         "role_or_office": "docent",
-        "result": null
+        "result": true,
+        "pj_note": "na Wolnej Wszechnicy Polskiej"
     },
     {
         "role_or_office": "profesor tytularny psychologii pedagogicznej",
-        "result": null
+        "result": true,
+        "pj_note": "na Wolnej Wszechnicy Polskiej"
     },
     {
         "role_or_office": "redaktor",
-        "result": null
+        "result": true,
+        "pj_note": "redagowane przez L-ą od listopada 1923 pismo 'Praca Szkolna'"
     },
     {
         "role_or_office": "członek Wydziału Pedagogicznego ZNP",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komisji Pedagogicznej Min. Wyznań Rel. i Oświecenia Publ.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor nadzwyczajny psychologii pedagogicznej",
-        "result": null
+        "result": true,
+        "pj_note": "na Wydziale Humanistycznym Uniwersytetu Łódzkiego"
     },
     {
         "role_or_office": "kierownik Zakładu Psychologii Pedagogicznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprzewodnicząca Łódzkiego Tow. Psychologicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek korespondent Łódzkiego Tow. Naukowego",
-        "result": null
+        "result": true
     }
 ]

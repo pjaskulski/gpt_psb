@@ -1,46 +1,49 @@
 [
     {
         "role_or_office": "kasztelan podlaski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wysłannik wojewody sandomierskiego Piotra Zborowskiego do Francji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bliski współpracownik Jana Zamoyskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przedstawiciel stanów Rzeczypospolitej",
-        "result": null
+        "result": false,
+        "pj_note": "informacja prawdziwa: przebywał w Lublinie i jako jeden z przedstawicieli stanów Rzpltej zaprzysiągł w obecności posłów cesarskich traktat bytomsko-będziński, ale czy to można uznać za funkcję, zawód, urząd?"
     },
     {
         "role_or_office": "członek rady wojennej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek deputacji przygotowującej uchwały sejmowe",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek rady senatorów",
-        "result": null
+        "result": false,
+        "pj_note": "skoro bohater był kasztelanem to był też senatorem, model oparł się chyba na fragmencie: 'na radzie senatorów w Piotrkowie, 14 X 1588, bronił L. wprawdzie polityki kanclerza', ale to nie jest jakaś formalna funkcja"
     },
     {
         "role_or_office": "prefekt Bractwa Miłosierdzia Św. Łukasza w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta łosicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta zatorski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek na trybunale",
-        "result": null
+        "result": true,
+        "pj_note": "zmarł 16 lub 17 I 1593 w Piotrkowie, podczas marszałkowania na trybunale"
     }
 ]

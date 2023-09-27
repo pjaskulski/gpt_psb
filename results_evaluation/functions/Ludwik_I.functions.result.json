@@ -1,70 +1,76 @@
 [
     {
         "role_or_office": "książę na Brzegu i Lubinie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współrządca",
-        "result": null
+        "result": false,
+        "pj_note": "to nie jest żadna formalna funkcja, tekst mówi: dopuszczony został w r. 1342, wraz ze starszym bratem Wacławem I, do współrządów"
     },
     {
         "role_or_office": "pan Lubina",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę Brzegu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekun małoletnich synów księcia Henryka VIII",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel większej części posiadłości rodowych książęcej linii brzesko-legnickiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rozjemca w sporach między książętami",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, choć to nie jest formalna funkcja"
     },
     {
         "role_or_office": "opiekun nad małoletnimi synami księcia Henryka VIII",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, choć to nie jest formalna funkcja"
     },
     {
         "role_or_office": "fundator kościoła kolegiackiego w Legnicy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "fundator kaplicy pod wezwaniem Św. Jadwigi",
-        "result": null
+        "result": true,
+        "pj_note": "w dziedzicznym Lubiniu, kaplica zamkowa"
     },
     {
         "role_or_office": "fundator kościoła parafialnego w Brzegu pod wezwaniem Św. Mikołaja",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "fundator kaplicy pod wezwaniem Św. Jadwigi, wzniesionej ok. r. 1383 pod Byczyną",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel kolegium kanoników przy kościele Św. Jadwigi w Brzegu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel szkoły przy kolegiacie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "twórca i właściciel największej podówczas biblioteki prywatnej w Polsce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę na Brzegu",
-        "result": null
+        "result": true,
+        "pj_note": "ale to powtórzenie informacji"
     },
     {
         "role_or_office": "książę na Lubinie",
-        "result": null
+        "result": true,
+        "pj_note": "ale to powtórzenie informacji"
     }
 ]
