@@ -1,66 +1,66 @@
 [
     {
         "role_or_office": "dziennikarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "powieściopisarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Filaretów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Strzeleckiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik kuchni dla rannych legionistów i uchodźców",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Ilustrowanego Kuriera Codziennego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Gońca Krakowskiego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Nowej Reformy”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Nowości Ilustrowanych”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Kuriera Czerwonego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Kina”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Świata”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Kuriera Porannego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik „Światowida”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik wydawnictwa Ibis",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik jadłodajni",
-        "result": null
+        "result": true
     }
 ]

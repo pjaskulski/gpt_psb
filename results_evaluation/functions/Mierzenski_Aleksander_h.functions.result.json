@@ -1,34 +1,37 @@
 [
     {
         "role_or_office": "porucznik wojsk W. Ks. Lit.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca chorągwi pancernej hetmana Janusza Radziwiłła",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adherent szwedzki",
-        "result": null
+        "result": false,
+        "pj_note": "to raczej nie funkcja?"
     },
     {
         "role_or_office": "porucznik chorągwi pancernej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator lub arendarz dóbr radziwiłłowskich Owantą",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "niewolnik rosyjski",
-        "result": null
+        "result": false,
+        "pj_note": "to zdecydowanie nadinterpretacja modelu: dostał się wraz z hetmanem Gosiewskim do niewoli rosyjskiej" 
     },
     {
         "role_or_office": "właściciel dwóch wsi królewskich, Połońce i Przystawańce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "weryfikator szkód wyrządzonych przez wojsko w dobrach księcia Bogusława Radziwiłła",
-        "result": null
+        "result": false,
+        "pj_note": "nie jest to formalna funcja, poza tym tekst biogramu mówi dalej: M. nie podjął jednak tej misji"
     }
 ]

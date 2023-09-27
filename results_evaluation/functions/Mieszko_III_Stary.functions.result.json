@@ -1,22 +1,25 @@
 [
     {
         "role_or_office": "książę wielkopolski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wielki (zwierzchni) książę polski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dux totius Polonie",
-        "result": null
+        "result": true,
+        "pj_note": "takie określenia są w biogramie, ale czy można to uznać za funkcję?"
     },
     {
         "role_or_office": "dux maximus et princeps",
-        "result": null
+        "result": true,
+        "pj_note": "takie określenia są w biogramie, ale czy można to uznać za funkcję?"
     },
     {
         "role_or_office": "krol",
-        "result": null
+        "result": false,
+        "pj_note": "to nadinterpretacja modelu, ale w tekście faktycznie jest wzmianka: a na monetach z napisem polskim nawet «krol»"
     }
 ]

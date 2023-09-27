@@ -1,18 +1,18 @@
 [
     {
         "role_or_office": "kasztelan kruszwicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta kujawski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podkomorzy brzeski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asesor sądu ziemskiego",
-        "result": null
+        "result": true
     }
 ]

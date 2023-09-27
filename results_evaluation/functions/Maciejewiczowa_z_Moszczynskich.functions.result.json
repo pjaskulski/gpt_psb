@@ -1,46 +1,47 @@
 [
     {
         "role_or_office": "nauczycielka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizatorka szkolnictwa polskiego w Wilnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założycielka internatu dla Polek uczących się w szkołach średnich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założycielka sześcioklasowej Szkoły Handlowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zarządu Towarzystwa Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizatorka zbiorowego nauczania – kompletów dla chłopców i dziewcząt",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przełożona szkoły",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka języka niemieckiego",
-        "result": null
+        "result": true,
+        "pj_note": "w żeńskim Gimnazjum im. Elizy Orzeszkowej"
     },
     {
         "role_or_office": "nauczycielka robót ręcznych w Liceum im. Filomatów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowadząca internat dla uczennic",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członkini Związku Pracy Obywatelskiej Kobiet",
-        "result": null
+        "result": true
     }
 ]

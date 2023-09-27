@@ -1,22 +1,23 @@
 [
     {
         "role_or_office": "kasztelan zawichojski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie z woj. sandomierskiego na sejm",
-        "result": null
+        "result": true,
+        "pj_note": "błędna odmiana, powinno być poseł ... na sejm w Lublinie"
     },
     {
         "role_or_office": "rotmistrz obrony potocznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin Zygmunta I",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan połaniecki",
-        "result": null
+        "result": true
     }
 ]

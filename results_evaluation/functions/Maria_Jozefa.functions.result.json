@@ -1,10 +1,11 @@
 [
     {
         "role_or_office": "królowa polska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "żona Augusta III",
-        "result": null
+        "result": true,
+        "pj_note": "to określa kim była bohaterka, ale czy to funkcja, urząd?"
     }
 ]

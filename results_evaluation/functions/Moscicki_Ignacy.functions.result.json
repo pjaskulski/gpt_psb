@@ -1,46 +1,52 @@
 [
     {
         "role_or_office": "chemik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezydent RP",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "robotnik w fabrykach"
     },
     {
         "role_or_office": "asystent uniwersytetu we Fryburgu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik techniczny firmy «Société dc l’Acide Nitrique»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan Wydziału Chemicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor fabryki azotniaku i karbidu w Chorzowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Politechniki Lwowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor na katedrze elektrochemii technicznej Politechniki Warszawskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zwyczajny PAU i Tow. Naukowego Warszawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek honorowy Akademii Nauk Technicznych oraz Polskiego Tow. Chemicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek Polski",
-        "result": null
+        "result": false,
+        "pj_note": "to błędna interpretacja określenia: okólnik ogłaszający Rydza-Śmigłego drugą osobą w państwie, a 10 XI 1936 M. mianował go marszałkiem Polski i osobiście wręczył mu buławę"
     }
 ]
