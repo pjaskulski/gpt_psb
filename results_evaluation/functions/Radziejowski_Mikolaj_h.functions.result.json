@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "kasztelan gostyniński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ochmistrz dworu królewien Anny i Katarzyny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poborca cła włocławskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta sochaczewski",
-        "result": null
+        "result": true
     }
 ]

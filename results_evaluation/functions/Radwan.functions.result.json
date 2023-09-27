@@ -1,14 +1,15 @@
 [
     {
         "role_or_office": "biskup poznański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanclerz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "scholastyk poznański",
-        "result": null
+        "result": false,
+        "pj_note": "Długosz ... przypisuje mu wcześniejszą godność scholastyka poznańskiego ... wszystkie te informacje są bałamutne."
     }
 ]

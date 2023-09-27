@@ -1,62 +1,66 @@
 [
     {
         "role_or_office": "wojewoda nowogródzki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ordynat klecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta grodowy lidzki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pułkownik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "krajczy litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rotmistrz powiatowej chorągwi pancernej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan wileński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta raduński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do boku króla",
-        "result": null
+        "result": true,
+        "pj_note": "cokolwiek to znaczy: wyznaczony został na deputata do boku króla"
     },
     {
         "role_or_office": "deputat do rozpatrzenia przedłożonych przez nuncjusza N. Spinolę postulatów dotyczących stosunków z Rzymem i spraw kościelnych w Rzpltej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz gdański",
-        "result": null
+        "result": false,
+        "pj_note": "to chyba błędne uproszczenie: 'Z rady walnej wybrany został do komisji gdańskiej' ale czy to znaczy że był jakimś komisarzem?"
     },
     {
         "role_or_office": "starosta jurborski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta wierzbołowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ekonom szadowski",
-        "result": null
+        "result": false,
+        "pj_note": "dostał w administrację ekonomię szadowską"
     },
     {
         "role_or_office": "leśniczy jurborski",
-        "result": null
+        "result": false,
+        "pj_note": "to chyba nie tytuł/urząd? - W r. 1715 R. otrzymał leśnictwo jurborskie"
     }
 ]

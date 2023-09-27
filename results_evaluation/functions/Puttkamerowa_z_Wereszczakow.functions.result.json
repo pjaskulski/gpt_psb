@@ -1,26 +1,27 @@
 [
     {
         "role_or_office": "kompozytorka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "żona",
-        "result": null
+        "result": false,
+        "pj_note": "ale czy to funkcja? w przypadku arystokracji można ew. przyjąć żonę księcia, męża królowej ale tu?"
     },
     {
         "role_or_office": "matka",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "patriotka",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "emisariuszka",
-        "result": null
+        "result": false
     }
 ]
