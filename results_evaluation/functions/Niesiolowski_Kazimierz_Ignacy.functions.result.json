@@ -1,70 +1,73 @@
 [
     {
         "role_or_office": "kasztelan smoleński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wierszopis",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży petyhorski buławy hetmana Pocieja",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz wojsk skonfederowanych W. Ks. Lit.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie na sejm z pow. mozyrskiego",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędna odmiana: poseł"
     },
     {
         "role_or_office": "deputat pow. mozyrskiego na Trybunał w Mińsku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pierwszy komisarz wojskowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek konfederacji woj. nowogródzkiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "konsyliarz prowincji litewskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie starodubowskim na sejm pacyfikacyjny",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędna odmiana: poseł starodubski"
     },
     {
         "role_or_office": "deputat do konstytucji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz w Grodnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie z Inflant królewskich na sejm warszawski",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędna odmiana: poseł"
     },
     {
         "role_or_office": "starosta cyryński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pułkownik husarski znaku królewicza Fryderyka Chrystiana",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "senator",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do kalkulacji Skarbu W. Ks. Lit.",
-        "result": null
+        "result": true
     }
 ]

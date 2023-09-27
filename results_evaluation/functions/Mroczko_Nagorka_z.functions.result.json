@@ -1,22 +1,23 @@
 [
     {
         "role_or_office": "kanonik płocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor uniwersytetu w Pradze",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficjał",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz «in spiritualibus»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zarządca diecezji",
-        "result": null
+        "result": false,
+        "pj_note": "to jest prawdziwa informacja, ale związana z poprzednią, w tekście jest: 'powierzenie mu w r. 1414 zarządu diecezji jako wikariuszowi «in spiritualibus'"
     }
 ]

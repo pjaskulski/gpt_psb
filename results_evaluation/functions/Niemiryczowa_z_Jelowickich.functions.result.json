@@ -1,58 +1,69 @@
 [
     {
         "role_or_office": "poetka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumaczka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oboźna polna litewska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorążego wiskiego",
-        "result": null
+        "result": false,
+        "pj_note": "to tytuł męża bohaterki"
     },
     {
         "role_or_office": "stolnika",
-        "result": null
+        "result": false,
+        "pj_note": "to tytuł męża bohaterki"
     },
     {
         "role_or_office": "chorążego owruckiego",
-        "result": null
+        "result": false,
+        "pj_note": "to tytuł męża bohaterki"
     },
     {
         "role_or_office": "oboźnego polnego litewskiego",
-        "result": null
+        "result": false,
+        "pj_note": "to tytuł męża bohaterki"
     },
     {
         "role_or_office": "kustosz lwowski",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     },
     {
         "role_or_office": "kanonik lwowski",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     },
     {
         "role_or_office": "proboszcz glinieński",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     },
     {
         "role_or_office": "proboszcz rodatycki",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     },
     {
         "role_or_office": "starosta nowosielecki",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     },
     {
         "role_or_office": "generał-adiutant królewski",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     },
     {
         "role_or_office": "rotmistrz kawalerii narodowej",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohaterki"
     }
 ]

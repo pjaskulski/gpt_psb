@@ -1,22 +1,24 @@
 [
     {
         "role_or_office": "hetman kozacki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz konsystorski metropolii kijowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy kancelista",
-        "result": null
+        "result": true,
+        "pj_note": "kancelarii hetmańskiej"
     },
     {
         "role_or_office": "generalny pisarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podkomorzy kor.",
-        "result": null
+        "result": false,
+        "pj_note": "błędna interpretacja fragmentu: musiał tam jednak wysłać swe oddziały, które rozbił podkomorzy kor. Jerzy Dominik Lubomirski"
     }
 ]

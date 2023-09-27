@@ -1,102 +1,104 @@
 [
     {
         "role_or_office": "pieśniarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tancerka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica Czerwonego Krzyża",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w Teatrze Wielkim",
-        "result": null
+        "result": true,
+        "pj_note": "występowała już w Teatrze Wielkim - ale czy na pewno jako aktorka?"
     },
     {
         "role_or_office": "aktorka w lubelskim teatrze «Czarny Kot»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w Teatrze Współczesnym w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrzyku «Sfinks»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrzyku «Wesoły Ul»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrzyku «Miraż»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w kabarecie «Stańczyk»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrze «Qui Pro Quo»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w filmach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrzykach: «Banda», «Hollywood», «Wielka Rewia» oraz «Cyrulik Warszawski»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektorka teatru",
-        "result": null
+        "result": true,
+        "pj_note": "jeżeli tak można zinterpretować fragment: W r. 1936 próbowała samodzielnego prowadzenia teatru; w teatrzyku «Wielka Rewia» w Warszawie wystawiła przedstawienie"
     },
     {
         "role_or_office": "aktorka w teatrzyku «Wielka Rewia» w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrzyku «Tip Top»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w Teatrze Polskim na Pohulance",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w teatrze «Lutnia»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka w Polskim Teatrze Dramatycznym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizatorka teatrzyku żołnierskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica w delegaturze Komitetu Opieki Społecznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekunka w sierocińcu polskim w Aszhabadzie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "malarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarka",
-        "result": null
+        "result": true
     }
 ]

@@ -1,54 +1,54 @@
 [
     {
         "role_or_office": "lekarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik wytwórni szczepionek",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka medycyny na UJ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor chirurgii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek organizacji «Spójnia»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik kliniki chirurgicznej UJ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asystentka Bronisława Kadera i Maksymiliana Rutkowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chirurg szpitala w Drohobyczu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik oddziału chirurgicznego szpitala im. Dzieciątka Jezus w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chirurg i współpracownik K. Hładija w Szpitalu Bonifratrów w Krakowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik spółki «Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych w Krakowie»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator wojskowego szpitala polowego w Zwierzyńcu pod Zamościem",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz Stacji Sanitarno-Epidemiologicznej (Sanepidu) w Olsztynie",
-        "result": null
+        "result": true
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "wojewoda krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan sandomierski",
-        "result": null
+        "result": true
     }
 ]

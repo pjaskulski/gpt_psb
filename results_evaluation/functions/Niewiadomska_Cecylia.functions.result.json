@@ -1,50 +1,51 @@
 [
     {
         "role_or_office": "pedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumaczka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka domowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Ligi Narodowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zarządu Towarzystwa Oświaty Narodowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zarządu Komisji Ochron",
-        "result": null
+        "result": true,
+        "pj_note": "w  Kuratorium Obywatelskim Rodzin Rezerwistów Warszawy"
     },
     {
         "role_or_office": "dyrektorka Gimnazjum Macierzy Szkolnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Koła im. Zofii Bukowieckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktorka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumaczka literatury młodzieżowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka podręczników szkolnych",
-        "result": null
+        "result": true
     }
 ]

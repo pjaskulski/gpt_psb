@@ -1,34 +1,34 @@
 [
     {
         "role_or_office": "krajczy kor.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta malborski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan sandomierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta generalny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojski krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta generalny krakowski",
-        "result": null
+        "result": true
     }
 ]
