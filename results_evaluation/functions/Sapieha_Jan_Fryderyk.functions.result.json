@@ -1,74 +1,78 @@
 [
     {
         "role_or_office": "pisarz polny kor.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rotmistrz kwarcianej chorągwi kozackiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca pułku jazdy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oberszter regimentu piechoty",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oberszter regimentu dragonów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelny dowódca jazdy polskiej",
-        "result": null
+        "result": true,
+        "pj_note": "w głównej armii Karola Gustawa"
     },
     {
         "role_or_office": "komisarz do pertraktacji z Moskwą",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadzorca prac fortyfikacyjnych we Lwowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca autoramentu cudzoziemskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zarządca dóbr Marii Kazimierzy Zamoyskiej",
-        "result": null
+        "result": false,
+        "pj_note": "to fakt niedokonany: Zamoyska powierzyła S-że i Sobieskiemu zarząd swych dóbr, lecz jej mąż nie dopuścił ich do objęcia tej funkcji"
     },
     {
         "role_or_office": "rotmistrz drugiej chorągwi kozackiej w wojsku kor.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca straży tylnej armii kor.",
-        "result": null
+        "result": true,
+        "pj_note": "W czasie odwrotu armii kor. za Dniepr"
     },
     {
         "role_or_office": "dowódca grupy obserwacyjno-osłonowej pod Kijowem",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta kamieniecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta czeczerski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta słonimski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta owrucki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz polny kor",
-        "result": null
+        "result": true,
+        "pj_note": "ale to powtórzenie informacji"
     }
 ]

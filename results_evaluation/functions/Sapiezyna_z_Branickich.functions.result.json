@@ -1,42 +1,50 @@
 [
     {
         "role_or_office": "wojewodzicowa mścisławska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "plenipotent",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "sędzia laski marszałkowskiej",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "strażnik polny kor.",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "general artylerii lit.",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "starosta jaworowski",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "posłanka",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "marszałkowa Rady Nieustającej",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "podkomorzy brzeski lit.",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby występującej w biogramie"
     },
     {
         "role_or_office": "dama czynna w życiu politycznym",
-        "result": null
+        "result": true
     }
 ]

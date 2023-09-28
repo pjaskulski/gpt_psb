@@ -1,14 +1,20 @@
 [
     {
         "role_or_office": "wójt lubelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wójt w Gródku",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "Wraz z wójtostwem objął sołectwo w Konopnicy - czyli pełnił funkcję sołtysa Konopnicy" 
     },
     {
         "role_or_office": "wójt sądowy",
-        "result": null
+        "result": false,
+        "pj_note": "W Lublinie zastępował go wójt sądowy, powoływany przez radę, Piotr Polosmachleb"
     }
 ]

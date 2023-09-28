@@ -1,46 +1,51 @@
 [
     {
         "role_or_office": "filantropka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dama honorowa cesarzowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodnicząca Towarzystwa Dobroczynności św. Wincentego a Paulo",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizatorka rozdawnictwa 'zupy rumfordzkiej'",
-        "result": null
+        "result": true,
+        "pj_note": "czy to funkcja?"
     },
     {
         "role_or_office": "założycielka 'domu roboczego', 'cerowni' dla sierot dziewcząt i 'małej bursy' dla chłopców",
-        "result": null
+        "result": true,
+        "pj_note": "We Lwowie"
     },
     {
         "role_or_office": "założycielka Zakładu św. Teresy, szpitala dziecięcego św. Zofii i Domu Opatrzności",
-        "result": null
+        "result": false,
+        "pj_note": "to może być prawdziwy fakt, ale nie jest napisane wprost: Z tych sierocińców wyrosły: Zakład św. Teresy, prowadzony przez zakonnice..."
     },
     {
         "role_or_office": "patronka Towarzystwa Dobroczynności i ochronki w Przemyślu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współzałożycielka Stowarzyszenia Rękodzielniczego 'Skała'",
-        "result": null
+        "result": false,
+        "pj_note": "Wspomagała też katolickie Stowarzyszenie Rękodzielnicze «Skała». - nie ma mowy w tekście o zakładaniu"
     },
     {
         "role_or_office": "organizatorka kwest, loterii fantowych, koncertów, festynów, wentów i bazarów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekunka szpitali w Krasiczynie, Lwowie i Cieszanowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pomocnik ucieczki syna z więzienia",
-        "result": null
+        "result": false,
+        "pj_note": "to fakt, ale trudno to uznać za funkcję"
     }
 ]
