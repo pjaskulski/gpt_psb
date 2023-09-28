@@ -1,26 +1,26 @@
 [
     {
         "role_or_office": "językoznawca",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "leksykograf",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "korektor w drukarni Michała Wolfa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel w szkole żydowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inspektor nauki języka hebrajskiego",
-        "result": null
+        "result": true
     }
 ]

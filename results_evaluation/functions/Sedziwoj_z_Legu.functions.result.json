@@ -1,30 +1,33 @@
 [
     {
         "role_or_office": "kustosz krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik poznański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kleryk w diec. płockiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik katedralny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "scholaster krakowski",
-        "result": null
+        "result": false,
+        "pj_note":"S., Mikołaj Spiczmer, kantor, i Klemens Nawojowski, kanonik, rozstrzygnęli spór o scholasterię krakowską między Janem Elgotem a Janem Chebdą z Niewiesza i przyznali ją Elgotowi"
     },
     {
         "role_or_office": "świadek na dokumentach biskupa",
-        "result": null
+        "result": true,
+        "pj_note": "ale to nie jest właściwie funkcja" 
     },
     {
         "role_or_office": "wikariusz katedralny",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby: Jan zw. Niger, wikariusz katedralny"
     }
 ]
