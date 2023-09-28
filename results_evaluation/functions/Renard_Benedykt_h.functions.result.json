@@ -1,38 +1,38 @@
 [
     {
         "role_or_office": "architekt",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "grafik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyplomata",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inżynier papieski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficer",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wysłannik Augusta II",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rotmistrz jazdy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szambelan",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pułkownik",
-        "result": null
+        "result": true
     }
 ]

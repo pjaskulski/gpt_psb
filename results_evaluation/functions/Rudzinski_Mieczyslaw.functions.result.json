@@ -1,58 +1,58 @@
 [
     {
         "role_or_office": "adwokat",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "obrońca w sprawach politycznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współorganizator Zjazdu Polskiej Młodzieży Akademickiej w Moskwie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik Komitetu Pomocy Ofiarom Wojny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik kancelarii Aleksandra Lednickiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik polskiego przedstawicielstwa w Gruzji, Armenii i Azerbejdżanie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Okręgowej Rady Adwokackiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rzecznik dyscyplinarny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Centralnego Sądu Partyjnego Polskiej Partii Socjalistycznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zrzeszenia Prawników Socjalistów w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Sądu Koleżeńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Ligi Praw Człowieka i Obywatela",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca rzecznika dyscyplinarnego w Prezydium Okręgowej Rady Adwokackiej w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Konsultacyjnej (Beirat)",
-        "result": null
+        "result": true
     }
 ]

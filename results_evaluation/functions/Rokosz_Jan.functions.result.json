@@ -1,26 +1,32 @@
 [
     {
         "role_or_office": "podstarości",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia ziemski krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sygnatariusz konfederacji korczyńskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta zatorski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "burgrabia krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz królewski",
-        "result": null
+        "result": true,
+        "pj_note": "do załatwienia przewlekłego sporu klasztoru zwierzynieckiego z Mikołajem Grzymałą o dochodowe sołectwo zwierzynieckie i spowodowane przez niego nadużycia w innych dobrach klasztornych"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "Był pasowanym rycerzem (strenuus miles)"
     }
 ]

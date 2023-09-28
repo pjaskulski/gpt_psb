@@ -1,74 +1,76 @@
 [
     {
         "role_or_office": "latyfundysta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "polityk galicyjski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zarządca ojcowskich majątków w Galicji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "delegat Galicyjskiego Tow. Gospodarczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek władz Galicyjskiego Tow. Gospodarczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł do Sejmu Krajowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz pełnomocny Rządu Narodowego na Francję i Anglię",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek powiatowy w Przemyślu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Państwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes GTG",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek przemyskiej Radzie Powiatowej",
-        "result": null
+        "result": true,
+        "pj_note": "błędna odmiana"
     },
     {
         "role_or_office": "członek tajnego «Rządu Narodowego»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rzeczywisty tajny radca",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Centralnego Komitetu Wyborczego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek Sejmu",
-        "result": null
+        "result": false,
+        "pj_note": "po nagłym odejściu z urzędu marszałka Mikołaja Zyblikiewicza ... lansowali jako następcę S-ę. ... przemogły wpływy stańczyków, marszałkiem krajowym został Jan Tarnowski, ku wielkiej konfuzji ks. Adama"
     },
     {
         "role_or_office": "prezes Wystawy Krajowej we Lwowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes rady nadzorczej Banku Kredytowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "główny akcjonariusz Banku Kredytowego",
-        "result": null
+        "result": true
     }
 ]

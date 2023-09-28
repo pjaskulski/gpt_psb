@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "architekt",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "architekt gub. wileńskiej",
-        "result": null
+        "result": true
     }
 ]

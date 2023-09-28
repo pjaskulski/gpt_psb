@@ -1,42 +1,42 @@
 [
     {
         "role_or_office": "malarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rzeźbiarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "architekt",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "złotnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "znawca sztuki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz w ministerstwie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiunkt w Dyrekcji Funduszów Edukacyjnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asesor w Najwyższej Izbie Obrachunkowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "radca w Tow. Kredytowym Ziemskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "publicysta",
-        "result": null
+        "result": true
     }
 ]

@@ -1,42 +1,53 @@
 [
     {
         "role_or_office": "wójt wileński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prawnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz polityczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "apologeta katolicyzmu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz w kancelarii kor.",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "w tym orszaku znalazł się wówczas R. w charakterze pomocnika pedagogicznego"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "Doktorat praw uzyskał zapewne, podobnie jak Maricjusz, w Ferrarze."
     },
     {
         "role_or_office": "sekretarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik w kolegiacie kieleckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "królewski sekretarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz królewski",
-        "result": null
+        "result": true,
+        "pj_note": "aczkolwiek to powtórzenie, inna kolejność wyrazów"
     },
     {
         "role_or_office": "członek zespołu do korektury II Statutu lit.",
-        "result": null
+        "result": true
     }
 ]

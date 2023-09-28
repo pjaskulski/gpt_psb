@@ -1,26 +1,27 @@
 [
     {
         "role_or_office": "prezydent m. Łodzi",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor łódzkiego Biura Tow. Kredytowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "burmistrz Sochaczewa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel Tow. Kredytowego m. Łodzi",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor Towarzystwa",
-        "result": null
+        "result": true,
+        "pj_note": "Kredytowego m. Łodzi"
     },
     {
         "role_or_office": "członek Tow. Akcyjnego Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi",
-        "result": null
+        "result": true
     }
 ]

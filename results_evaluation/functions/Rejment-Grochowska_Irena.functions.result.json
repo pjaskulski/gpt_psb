@@ -1,118 +1,123 @@
 [
     {
         "role_or_office": "botanik-briolog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Uniw. Warsz.",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "studiowała nauki przyrodnicze na Wydziale Matematyczno-Przyrodniczym Uniw. Warsz."
     },
     {
         "role_or_office": "słuchaczka Studium Pedagogicznego na Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "praktykantka pedagogiczna w prywatnym Gimnazjum i Liceum Żeńskim J. Popielewskiej i J. Roszkowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "referent do spraw botanicznych w Biurze Planowania Krajowego przy gabinecie wicepremiera Eugeniusza Kwiatkowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica naukowa na Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica Stacji Ochrony Roślin w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica Ogrodu Botanicznego Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica firmy ogrodniczej Janusza Hosera",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Armii Krajowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka biologii i chemii w tajnym Gimnazjum i Liceum J. Popielewskiej i J. Roszkowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka w tajnych kompletach licealnych przy szkole podstawowej w Pławnie koło Radomska",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "referent do spraw fizjografii w wydziale urbanistyki Biura Odbudowy Stolicy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica Regionalnej Dyrekcji Planowania Przestrzennego w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy asystent w Zakładzie Botaniki Szkoły Głównej Gospodarstwa Wiejskiego (SGGW)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy asystent w Zakładzie Systematyki i Geografii Roślin na Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiunkt w Zakładzie Systematyki i Geografii Roślin na Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca geografii roślin w Państwowej Wyższej Szkole Pedagogicznej w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "docent",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor nadzwyczajny i kierownik naukowy Zespołu Badawczego Briologii i Pteridologii Instytutu Botaniki Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodnicząca Rady Naukowej Instytutu Botaniki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor zwyczajny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor Instytutu Botaniki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan Wydziału Biologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komitetu Redakcyjnego serii „Flora Polska–Rośliny Zarodnikowe Polski i Ziem Ościennych”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komitetu Botaniki PAN",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Naukowej Ogrodu Botanicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodnicząca Zarządu Oddziału Warszawskiego Pol. Tow. Botanicznego (PTB)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pierwsza przewodnicząca Sekcji Briologicznej PTB",
-        "result": null
+        "result": true
     }
 ]
