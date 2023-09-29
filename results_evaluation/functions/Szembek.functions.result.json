@@ -1,34 +1,37 @@
 [
     {
         "role_or_office": "kupiec",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rajca krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ławnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Miejskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowie na sejm",
-        "result": null
+        "result": true,
+        "pj_note": "dokładnie poseł miasta na sejmik krakowski oraz posłował na sejm t.r. w Parczewie"
     },
     {
         "role_or_office": "egzekutor testamentu",
-        "result": null
+        "result": true,
+        "pj_note": "Ale czy to funkcja?"
     },
     {
         "role_or_office": "członek radzie urzędującej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kupiec i przedsiębiorca górniczy",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja syna bohatera"
     }
 ]

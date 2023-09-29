@@ -1,30 +1,32 @@
 [
     {
         "role_or_office": "archimandryta uniowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "unicki biskup lwowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ihumen ławry uniowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ihumen monasteru wicyńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "biskup lwowsko-halicko-kamieniecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator diec. lwowskiej",
-        "result": null
+        "result": false,
+        "pj_note": "fragment biogramu brzmi: Unicki metropolita Jerzy Winnicki, pełniący obowiązki administratora diec. lwowskiej, zaaprobował wybór i 28 I t.r. przekazał S-emu pełnomocnictwa;"
     },
     {
         "role_or_office": "archimandryta ławry kijowsko-peczerskiej",
-        "result": null
+        "result": false,
+        "pj_note": "otrzymał od Augusta II odpowiedni przywilej, jednak nuncjusz apostolski B. Odescalchi odrzucił kandydaturę S-ego"
     }
 ]

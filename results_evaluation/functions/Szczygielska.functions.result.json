@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "malarka",
-        "result": null
+        "result": true   
     },
     {
         "role_or_office": "nauczycielka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka szkoły sztuk pięknych w Rouen",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka szkoły sztuk pięknych w Paryżu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowadząca kursy rysunków, malarstwa i modelowania w glinie",
-        "result": null
+        "result": true
     }
 ]
