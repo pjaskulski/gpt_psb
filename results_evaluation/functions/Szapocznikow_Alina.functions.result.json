@@ -1,50 +1,52 @@
 [
     {
         "role_or_office": "rzeźbiarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica składu drewna",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "skarbnik rodu Potockich",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "podkomorzy na dworze kanclerza Ossolińskiego",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "pracownica praskiej pracowni rzeźbiarza Otokara Velinskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka Wyższej Szkoły Artystyczno-Przemysłowej w Pradze",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członkini Komunistycznej Partii Czechosłowacji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "studentka École Nationale Supérieure des Beaux-Arts w Paryżu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica zakładów kamieniarskich J. Lerendu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica Pracowni Marszałkowskiej Dzielnicy Mieszkaniowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rzeźbiarka w warszawskiej ASP",
-        "result": null
+        "result": false,
+        "pj_note": "to chyba nadinterpretacja stwierdzenia: Korzystając gościnnie z pracowni ceramicznej w warszawskiej ASP"
     },
     {
         "role_or_office": "pracownica firmy odlewniczej Susse Fréres",
-        "result": null
+        "result": false,
+        "pj_note": "to błędna interpretacja zdania: przy wykonywaniu odlewów korzystała z pomocy firmy odlewniczej Susse Fréres"
     }
 ]

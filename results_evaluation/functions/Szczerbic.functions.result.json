@@ -1,114 +1,119 @@
 [
     {
         "role_or_office": "prawnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "syndyk lwowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autor dzieł prawniczych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel na dworze Firlejów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz m. Lwowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel drukarni",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "notariusz w kancelarii królewskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz dekretowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "honorowy sekretarz królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asesor w sądzie koronnym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykonawca testamentu",
-        "result": null
+        "result": false,
+        "pj_note": "to raczej nie jest funkcja czy zawód?"
     },
     {
         "role_or_office": "tłumacz traktatów filozoficznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prepozyt sandomierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik warszawski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prowizor Jana Koryckiego z Korczyna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel kamienicy",
-        "result": null
+        "result": true,
+        "pj_note": "W Krakowie ale czy to funkcja np. na równi z właścicielem ziemskim?" 
     },
     {
         "role_or_office": "wójt w Częstochowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wójt w Olkuszu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel 18 łanów ziemi w pobliżu Malborka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel części wsi Chruszczobród",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "właściciel praw do wójtostwa olkuskiego",
-        "result": null
+        "result": true,
+        "pj_note": "tylko czy to coś innego niż bycie wójtem olkuskim?"
     },
     {
         "role_or_office": "właściciel praw do wójtostwa wielickiego",
-        "result": null
+        "result": true,
+        "pj_note": "tylko czy to coś innego niż bycie wójtem wielickim?"
     },
     {
         "role_or_office": "właściciel wójtostwa wielickiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "landwójt w Wieliczce",
-        "result": null
+        "result": false,
+        "pj_note": "w biogramie: ogłosił ordynację jurysdykcji wójtowskiej, wprowadzając stanowisko landwójta, ale nie jest napisane że został sam landwójtem"
     }
 ]

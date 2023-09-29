@@ -1,30 +1,30 @@
 [
     {
         "role_or_office": "śpiewak kościelny (dypir-diak)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kleryk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kopista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podróżnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz wardapeta Mygyrdicza z Charberdu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik szkoły przy katedrze ormiańskiej",
-        "result": null
+        "result": true
     }
 ]

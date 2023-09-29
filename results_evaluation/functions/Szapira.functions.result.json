@@ -1,70 +1,78 @@
 [
     {
         "role_or_office": "rabin",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "działacz oświatowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na Sejm Rzeczypospolitej Polskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel Stowarzyszenia Żydów Religijnych «Tiferet Hadas»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rabin w Glinianach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Departamentu Oświaty w Oddziale Galicji Wschodniej «Agudy»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współzałożyciel Agudat Rabbonim Galitzo’im",
-        "result": null
+        "result": true,
+        "pj_note": "Stow. Rabinów Galicyjskich"
     },
     {
         "role_or_office": "kierownik komitetu ds. edukacji polskiej «Agudy»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rabin w Sanoku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący «Agudy»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł Sejmu",
-        "result": null
+        "result": true,
+        "pj_note": "ale nieoprawnie gramatycznie: poseł do Sejmu"
     },
     {
         "role_or_office": "rabin w Piotrkowie Trybunalskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Komitetu Wykonawczego «Agudy»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Jesziwat Chachmej Lublin",
-        "result": null
+        "result": true,
+        "pj_note": "ale chyba nieoprawnie gramatycznie?, może po polsku: rektor Jesziwy Mędrców Lublina"
     },
     {
         "role_or_office": "główny rabin lubelski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Kolegium Rabinackiego przy Min. WRiOP",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadrabin lubelski",
-        "result": null
-    }
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "redaktor czasopisma 'Eszkol'"
+    },
 ]

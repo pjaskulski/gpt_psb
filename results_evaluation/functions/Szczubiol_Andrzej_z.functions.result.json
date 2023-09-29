@@ -1,46 +1,50 @@
 [
     {
         "role_or_office": "kasztelan gostyniński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan płocki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda rawski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wójt w klasztornej wsi Łącko",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł do Malborka",
-        "result": null
+        "result": true,
+        "pj_note": "w imieniu księcia Siemowita IV"
     },
     {
         "role_or_office": "gwarant pokoju wieczystego",
-        "result": null
+        "result": true,
+        "pj_note": "funkcja? - był S. jednym z gwarantów pokoju wieczystego, zawartego przez stronę polską z zakonem krzyżackim"
     },
     {
         "role_or_office": "sędzia nadworny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asesor w sądzie książęcym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta gostyniński",
-        "result": null
+        "result": true,
+        "pj_note": "powtórzenie informacji"
     },
     {
         "role_or_office": "sędzia polubowny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "łowczy gostyniński",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby: sprzedał 25 VI 1438 wsie Jasieniec i Ćmiszewo łowczemu gostynińskiemu Krystynowi z Roszków"
     }
 ]
