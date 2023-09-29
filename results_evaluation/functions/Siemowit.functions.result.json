@@ -1,18 +1,19 @@
 [
     {
         "role_or_office": "książę polański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "książę Polski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca wojsk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "król",
-        "result": null
+        "result": true,
+        "pj_note": "z tym że biogram dotyczy postaci legendarnej, ta informacja pochodzi od Kadłubka."
     }
 ]

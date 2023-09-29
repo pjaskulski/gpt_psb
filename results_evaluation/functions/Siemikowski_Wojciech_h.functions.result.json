@@ -1,46 +1,47 @@
 [
     {
         "role_or_office": "scholastyk gnieźnieński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "penitencjarz polski w Rzymie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik wieluński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "proboszcz w dobrach arcybiskupich w Borszewicach",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik łęczycki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "konsyliarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik gnieźnieński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prokurator wszystkich spraw królewskich w Kurii Rzymskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "penitencjarz w bazylice św. Piotra w Rzymie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kapłan",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "scholastyk",
-        "result": null
+        "result": true,
+        "pj_note": "czy to na pewno funkcja?"
     }
 ]

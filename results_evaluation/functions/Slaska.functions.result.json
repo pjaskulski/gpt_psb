@@ -1,63 +1,63 @@
 [
     {
         "role_or_office": "aktorka teatralna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka filmowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reżyser",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekunka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asystentka rektora Państw. Wyższej Szkoły Teatralnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Ateneum",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Współczesnego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Telewizji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Polskiego Radia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Kabaretu Starszych Panów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktorka Teatru Narodowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy wykładowca w PWST",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reżyserka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek rady Wyższego Szkolnictwa Artystycznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor nadzwyczajny",
@@ -65,6 +65,6 @@
     },
     {
         "role_or_office": "reżyserka Teatru Ateneum",
-        "result": null
+        "result": true
     }
 ]
