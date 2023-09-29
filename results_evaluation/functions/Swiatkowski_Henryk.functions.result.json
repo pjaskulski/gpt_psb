@@ -56,142 +56,165 @@
     },
     {
         "role_or_office": "członek Rady Miejskiej w Zamościu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na Sejm",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Naczelnej PPS",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Związku Zawodowego Małorolnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "radca prawny Związku Pracowników Komunalnych i Instytucji Użyteczności Publicznej, Związku Zawodowego Robotników Rolnych i Związku Zawodowego Małorolnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Stowarzyszenia Obrony Wolności Sumienia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek komisji rewizyjnej w zarządzie Ligi Obrony Praw Człowieka i Obywatela",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zarządu Głównego Towarzystwa Uniwersytetu Robotniczego",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "radny warszawski w dzielnicy Powiśle"
     },
     {
         "role_or_office": "radca prawny Związku Spółdzielni Spożywców «Społem» i Spółdzielni Mieszkaniowej «Domy Spółdzielcze»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Robotniczej Partii Polskich Socjalistów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprzewodniczący Rady Naczelnej Robotniczej Partii Polskich Socjalistów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Krajowej Rady Narodowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficer oświatowy w dowództwie AL w Śródmieściu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pełnomocnik rządu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Wojewódzkiego Komitetu PPS",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Tymczasowej Rady Naczelnej PPS",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprzewodniczący Centralnego Komitetu Wykonawczego PPS",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Głównej Komisji Badania Zbrodni Niemieckich w Polsce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Zarządu Głównego Towarzystwa Przyjaźni PolskoRadzieckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprzewodniczący CKW",
-        "result": null
+        "result": true,
+        "pj_note": "ale to powtórzenie już wymienionej funkcji tylko zapisanej w formie skrótowej"
     },
     {
         "role_or_office": "przewodniczący Centralnego Sądu Partyjnego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ministra sprawiedliwości",
-        "result": null
+        "result": false,
+        "pj_note": "funkcja minstra jest już uwzględniona wcześniej, tu chyba chodzi o:  zastępca (w randze podsekretarza stanu) min. sprawiedliwości"
     },
     {
         "role_or_office": "profesor zwyczajny Uniwersytetu Warszawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wiceprzewodniczący CKW PPS",
-        "result": null
+        "result": true,
+        "pj_note": "został ponownie wiceprzewodniczącym"
     },
     {
         "role_or_office": "przewodniczący Komisji Współpracy Prawniczej Polsko-Czechosłowackiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Naczelnej Rady Spółdzielczej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący CKW",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Biura Politycznego PZPR"
     },
     {
         "role_or_office": "przewodniczący Zarządu Głównego Tow. Przyjaźni Polsko-Radzieckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Katedry Prawa Rolnego Uniwersytetu Warszawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Centralnej Komisji Kwalifikacyjnej dla Pracowników Nauki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Głównej Komisji Badania Zbrodni Hitlerowskich w Polsce",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "przewodniczący Komisji Historycznej przy Zarządzie Głównym Związku Zawodowego Pracowników Rolnych"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Zespołu Rzeczoznawców Prawa w Sekcji Studiów Uniwersyteckich Rady Głównej Szkolnictwa Wyższego"
     },
     {
         "role_or_office": "dziekan Wydz. Prawa Uniw. Warsz.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Komitetu Nauk Prawnych PAN",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Naukowej Inst. Nauk Prawnych PAN",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Samodzielnego Zakł. Wyznaniowego Prawa Państw. Uniwersytetu Warszawskiego",
-        "result": null
+        "result": true
     }
 ]

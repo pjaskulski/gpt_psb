@@ -1,86 +1,100 @@
 [
     {
         "role_or_office": "wiceadmirał",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Kierownictwa Marynarki Wojennej RP",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "słuchacz Korpusu Kadetów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficer wachtowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "młodszy nawigator",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "oficer nawigacyjny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca attaché morskiego ambasady rosyjskiej",
-        "result": null
+        "result": true,
+        "pj_note": "w Atenach"
     },
     {
         "role_or_office": "główny oficer nawigacyjny w sztabie Dowództwa Floty Czarnomorskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kapitan II rangi",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kapitan I rangi",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Głównego Sztabu Morskiego w Min. Marynarki",
-        "result": null
+        "result": true,
+        "pj_note": "w organizującej się flocie ukraińskiej"
     },
     {
         "role_or_office": "kierownik Ligi Odrodzenia Marynarki Polskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ekspert ds. morskich Sekcji Wojskowej Komitetu Narodowego Polskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef sekcji organizacyjnej Dep. dla Spraw Morskich (DSM) MSWojsk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca szefa DSM",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca Wybrzeża Morskiego",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "komandor"
     },
     {
         "role_or_office": "dowódca Floty",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Kierownictwa Marynarki Wojennej",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "kontradmirał"
     },
     {
         "role_or_office": "zwierzchnik sądowo-karny w zakresie sądów polowych",
-        "result": null
+        "result": false,
+        "pj_note": "trudno powiedzieć czy to jest formalna funkcja, czy kompetencja którą Sikorski przekazał dowództwu Marynarki"
     },
     {
         "role_or_office": "zwierzchnik sądowo-karny w utworzonym Morskim Sądzie Wojennym",
-        "result": null
+        "result": false,
+        "pj_note": "trudno powiedzieć czy to jest formalna funkcja, czy kompetencja którą Sikorski przekazał dowództwu Marynarki"
     },
     {
         "role_or_office": "wiceprezes Inst. Historycznego im. gen. Sikorskiego w Londynie",
-        "result": null
+        "result": true
     }
 ]
