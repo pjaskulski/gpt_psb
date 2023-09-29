@@ -1,50 +1,54 @@
 [
     {
         "role_or_office": "mieszczanin krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ławnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rajca",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wójt dziedziczny Nowego Sącza",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekun Doroty",
-        "result": null
+        "result": true,
+        "pj_note": "ale czy to funkcja? - wystąpił jako opiekun swej teściowej Doroty"
     },
     {
         "role_or_office": "opiekun Anny",
-        "result": null
+        "result": true,
+        "pj_note": "opiekun Anny, wdowy po Mikołaju Bochnerze"
     },
     {
         "role_or_office": "pełnomocnik mieszczanina Mikołaja Falkirberga",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pełnomocnik pani Kasowi",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pełnomocnik mieszczanina Marcina Schrama",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zachodźca Katarzyny",
-        "result": null
+        "result": true,
+        "pj_note": "czy to funkcja? - wystąpił jako zachodźca swej drugiej żony Katarzyny w jej procesie z Filipem z Brzezinki o dziedzinę Sosnowice"
     },
     {
         "role_or_office": "właściciel wójtostwa dziedzicznego w Nowym Sączu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pełnomocnik w sądach miejskich w Krakowie",
-        "result": null
+        "result": false,
+        "pj_note": "to zupełnie błędna interpretacja słów: odtąd wiele spraw rozpoczętych przed sądami miejskimi w Krakowie prowadził za pośrednictwem pełnomocników"
     }
 ]

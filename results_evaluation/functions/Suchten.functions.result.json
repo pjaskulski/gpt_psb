@@ -1,38 +1,38 @@
 [
     {
         "role_or_office": "kanonik warmiński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "alchemik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poeta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny lekarz króla Zygmunta Augusta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny medyk palatyna reńskiego Ottona Henryka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bibliotekarz palatyna reńskiego Ottona Henryka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz nadworny księcia Albrechta Hohenzollerna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz w Strasburgu",
-        "result": null
+        "result": true
     }
 ]

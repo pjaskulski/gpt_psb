@@ -1,43 +1,58 @@
 [
     {
         "role_or_office": "prawnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "działacz socjalistyczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "działacz komunistyczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na sejmy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "minister sprawiedliwości",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Uniwersytetu Warszawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kancelista kompanii sztabowej Dowództwa Okręgu Generalnego w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor i stenograf w Polskiej Agencji Telegraficznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aplikant sądowy",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "aplikował w kancelarii Piotra Zubowicza"
     },
     {
         "role_or_office": "kierownik Okręgowego Komitetu Robotniczego PPS",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "współzałożyciel oddziału Tow. Uniw. Robotniczego (TUR)"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "wiceprezes Zarządu Głównego Zrzeszenia Prawników Socjalistów"
     },
     {
         "role_or_office": "członek Rady Miejskiej w Zamościu",

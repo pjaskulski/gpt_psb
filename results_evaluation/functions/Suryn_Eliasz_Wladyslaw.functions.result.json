@@ -1,30 +1,30 @@
 [
     {
         "role_or_office": "pułkownik wolontariuszy litewskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podstarości mścisławski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży nowo zaciągniętej chorągwi kozackiej Konstantego Leona Obodyńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wójt smoleński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pułkownik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dowódca grupy wolontariuszy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podstarosta i landwójt krzyczewski",
-        "result": null
+        "result": true
     }
 ]

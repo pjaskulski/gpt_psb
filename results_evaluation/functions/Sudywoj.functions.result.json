@@ -1,22 +1,22 @@
 [
     {
         "role_or_office": "kasztelan wileński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "namiestnik smoleński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanclerz wielkiego księcia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta kowieński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta smoleński",
-        "result": null
+        "result": false
     }
 ]

@@ -1,70 +1,81 @@
 [
     {
         "role_or_office": "franciszkanin",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "malarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "snycerz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nadworny malarz króla Jana III Sobieskiego",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby: wysłano go na naukę do nadwornego malarza króla Jana III Sobieskiego, Jerzego Eleutera Siemiginowskiego" 
     },
     {
         "role_or_office": "dekorator kościoła Franciszkanów w Poznaniu",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła Cystersów w Lądzie",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła w Tarnowie Pałuckim",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła Franciszkanów w Pyzdrach",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła p. wezw. św. Stanisława Biskupa w Żerkowie",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kolegiaty łowickiej",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła Franciszkanów w Krakowie",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła p. wezw. św. Franciszka Ksawerego w Krasnymstawie",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła p. wezw. Podwyższenia Krzyża Świętego w Wełnie",
-        "result": null
+        "result": true,
+        "pj_note": "informacja prawdziwa, ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator kościoła w Owińsk",
-        "result": null
+        "result": false,
+        "pj_note": "informacja prawdziwa, błąd w odmianie, chyba w Owińsku/-skach? - ale czy to funkcja?"
     },
     {
         "role_or_office": "dekorator klasztoru Jezuitów w Jarosławiu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dekorator kościoła p. wezw. Najświętszej Krwi Pana Jezusa w Poznaniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dekorator kościoła Reformatów w Szamotułach",
-        "result": null
+        "result": true
     }
 ]
