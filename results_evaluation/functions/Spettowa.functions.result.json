@@ -1,74 +1,108 @@
 [
     {
         "role_or_office": "lekarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "neuroradiolog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Akademii Medycznej w Krakowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lekarz kontraktowy",
-        "result": null
+        "result": true,
+        "pj_note":"w centralnej pracowni rentgenologicznej w Państw. Szpitalu Powszechnym we Lwowie"
     },
     {
         "role_or_office": "sekundariusz",
-        "result": null
+        "result": true,
+        "pj_note":"w centralnej pracowni rentgenologicznej w Państw. Szpitalu Powszechnym we Lwowie"
     },
     {
         "role_or_office": "asystent",
-        "result": null
+        "result": true,
+        "pj_note":"w centralnej pracowni rentgenologicznej w Państw. Szpitalu Powszechnym we Lwowie"
     },
     {
         "role_or_office": "starszy asystent",
-        "result": null
+        "result": true,
+        "pj_note": "w Klinice Chorób Nerwowych i Umysłowych UJK"
     },
     {
         "role_or_office": "kierownik pracowni radiologii ogólnej",
-        "result": null
+        "result": true,
+        "pj_note": "w Klinice Chorób Nerwowych i Umysłowych UJK"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "pracownik Lwowskiego Medycznego Instytutu"
     },
     {
         "role_or_office": "kierownik pracowni radiologicznej",
-        "result": null
+        "result": true,
+        "pj_note": " w Szpitalu Powszechnym we Lwowie"
     },
     {
         "role_or_office": "asystentka",
-        "result": null
+        "result": true,
+        "pj_note": "w Inst. Rentgenologii na uruchomionych przez Niemców Państwowych Medyczno-Przyrodniczych Kursach Zawodowych"
     },
     {
         "role_or_office": "kierownik pracowni radiologicznej w Klinice Neurologiczno-Psychiatrycznej UJ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik pracowni neuroradiologicznej przy Klinice Neurochirurgii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "docent neuroradiologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "specjalista wojewódzki ds. radiologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor nadzwyczajny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Zakładu Neuroradiologii przy Klinice Neurochirurgicznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "opiekun habilitacji",
-        "result": null
+        "result": true,
+        "pj_note": "ale to nie jest formalna funkcja"
     },
     {
         "role_or_office": "promotor doktoratów",
-        "result": null
+        "result": true,
+        "pj_note": "ale to nie jest formalna funkcja"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Polskiego Tow. Radiologicznego"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Polskiego Tow. Neurologicznego"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Polskiego Tow. Lekarskiego"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek honorowy Polskiego Tow. Neurochirurgów"
     }
 ]

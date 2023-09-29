@@ -1,50 +1,50 @@
 [
     {
         "role_or_office": "dziennikarka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poetka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "autorka prozy autobiograficznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lama buddyjski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reporterka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "spikerka radiowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktorka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor naczelny miesięcznika brajlowskiego dla niewidomych 'Pochodnia'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiego Związku Niewidomych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Polskiego Towarzystwa Psychotronicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Literatów Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Stowarzyszenia Pisarzy Polskich",
-        "result": null
+        "result": true
     }
 ]

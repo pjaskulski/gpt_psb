@@ -1,74 +1,76 @@
 [
     {
         "role_or_office": "poeta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "publicysta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "student Uniw. Kijowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przywódca ideowy młodzieży studenckiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel prywatny historii i literatury polskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca języka polskiego w gimnazjum żytomierskim",
-        "result": null
+        "result": true,
+        "pj_note": "ale ta inf. podana w biogramie jest niepewna: Nie wiadomo, czy upragnioną posadę (o którą ubiegał się również Aleksander Groza) S. otrzymał"
     },
     {
         "role_or_office": "rozjemca ziemski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zarządu niejawnego Polskiego Tow. Pomocy Naukowej dla ziem Wołynia, Podola i Ukrainy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współredaktor adresu do Aleksandra II",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Gazety Warszawskiej\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Kuriera Warszawskiego\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Tygodnika Ilustrowanego\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Kłosów\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Echa\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Wieńca\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz dzieł T. Szewczenki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "guwernant",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik \"Kuriera Codziennego\"",
-        "result": null
+        "result": false,
+        "pj_note": "bohater biogramu wydrukował tam jeden wiersz, czy to można uznać za współpracę?"
     }
 ]

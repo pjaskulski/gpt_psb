@@ -1,38 +1,40 @@
 [
     {
         "role_or_office": "aktorka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reżyser",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor teatru",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik artystyczny teatru",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby: współpracowała m.in. z Juliuszem Osterwą, który w sierpniu 1916 objął funkcję kierownika artystycznego teatru"
     },
     {
         "role_or_office": "instruktor oświatowy Okręgu Morskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy bibliotekarz",
-        "result": null
+        "result": true,
+        "pj_note": "w Wydz. Kultury i Sztuki w Gdańsku"
     },
     {
         "role_or_office": "wykładowca na kursach oświatowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor i kierownik artystyczny Teatru Miejskiego w Gnieźnie",
-        "result": null
+        "result": true
     }
 ]

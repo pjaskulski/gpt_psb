@@ -1,146 +1,158 @@
 [
     {
         "role_or_office": "król polski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "aktor na szkolnej scenie teatyńskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel logiki (i matematyki)",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby"
     },
     {
         "role_or_office": "nauczyciel architektury i inżynierii",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej osoby"
     },
     {
         "role_or_office": "pułkownik regimentu łanowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz z ziemi łomżyńskiej na Trybunał Skarbowy w Radomiu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta grodowy przemyski",
-        "result": null
+        "result": true,
+        "pj_note": "ojciec kupił dlań od chorążego w. lit. Hieronima Radziwiłła cesję bogatego star. grodowego przemyskiego"
     },
     {
         "role_or_office": "sekretarz posła angielskiego w Petersburgu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowiec z ziemi zakroczymskiej",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędne sformułowaniem powinno być: poseł"
     },
     {
         "role_or_office": "komisarz w Trybunale Skarbowym",
-        "result": null
+        "result": true,
+        "pj_note": "ta informacja się powtarza, nieco inaczej sformułowana"
     },
     {
         "role_or_office": "posłowiec z ziemi łomżyńskiej",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędne sformułowaniem powinno być: poseł"
     },
     {
         "role_or_office": "stolnik litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłowiec inflancki",
-        "result": null
+        "result": true,
+        "pj_note": "ale błędne sformułowaniem powinno być: poseł"
     },
     {
         "role_or_office": "poseł saski",
-        "result": null
+        "result": true,
+        "pj_note": "w Petersburgu"
     },
     {
         "role_or_office": "poseł inflancki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł z ziemi bielskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł mielnicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek konfederacji generalnej",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "poseł ziemi warszawskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek konfederacji kor. i sejmu",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "podkanclerzy koronny",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "mediator wobec Katarzyny II",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek w. kor.",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "marszałek nadw. kor.",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "generalny dyrektor poczty",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "patron czasopisma moralnego „Monitor”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjator przekładów autorów starożytnych i francuskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mecenas artystów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "organizator \"obiadów czwartkowych\"",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor periodyku „Zabawy Przyjemne i Pożyteczne”",
-        "result": null
+        "result": false,
+        "pj_note": "to nadinterpretacja, biogram pisze tylko: który cieszył się szczególnymi względami S-a"
     },
     {
         "role_or_office": "fundator szkoły baletowej",
-        "result": null
+        "result": true,
+        "pj_note": "ale określenie chyba nie oddaje precyzyjnie informacji z biogramu: przejął S. zapisaną mu testamentem przez Tyzenhauza trzydziestoosobową szkołę baletową, złożoną z młodzieży poddańczej"
     },
     {
         "role_or_office": "fundator teatru",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "fundator orkiestry dworskiej i teatralnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mecenas sztuk plastycznych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "fundator Akademii Sztuk Pięknych",
-        "result": null
+        "result": false,
+        "pj_note": "dwukrotnie projektowana Akad. Sztuk Pięknych z Bacciarellim i Le Brunem na czele nie została założona"
     },
     {
         "role_or_office": "fundator biblioteki",
-        "result": null
+        "result": true,
+        "pj_note": "na prywatnych terenach królewskich przylegających do Zamku wzniesiono parterowy budynek biblioteki"
     }
 ]

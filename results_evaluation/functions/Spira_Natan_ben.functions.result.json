@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "rabin grodzieński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz homiletyczny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kabalista",
-        "result": null
+        "result": true
     }
 ]
