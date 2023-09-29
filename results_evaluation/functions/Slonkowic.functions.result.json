@@ -1,58 +1,66 @@
 [
     {
         "role_or_office": "profesor Uniw. Krak.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "docent",
-        "result": null
+        "result": true,
+        "pj_note": "prowadził jako docent bezpłatny wykłady na Wydz. Filozoficznym"
     },
     {
         "role_or_office": "nauczyciel w kolonii akademickiej we Lwowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor szkoły we Lwowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "senior kierownictwa bursy Jagiellońskiej",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Kolegium Mniejszego w Uniw. Krak"
     },
     {
         "role_or_office": "prowizor Kolegium Większego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan Wydz. Filozoficznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bibliotekarz",
-        "result": null
+        "result": true,
+        "pj_note": "w Padwie"
     },
     {
         "role_or_office": "doktor medycyny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik w kolegiacie św. Floriana",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "strażnik zbiorów bibliotecznych",
-        "result": null
+        "result": true,
+        "pj_note": "chodzi o bibliotekę Kolegium Większego w czasie potopu szwedzkiego"
     },
     {
         "role_or_office": "profesor Wydz. Teologicznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bakałarz teologii",
-        "result": null
+        "result": true
     }
 ]

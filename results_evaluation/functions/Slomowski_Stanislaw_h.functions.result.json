@@ -1,66 +1,68 @@
 [
     {
         "role_or_office": "sufragan krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "arcybiskup lwowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik Szczytnicki w kapitule katedralnej krakowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik w kapitule katedralnej poznańskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik w kapitule katedralnej gnieźnieńskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prepozytura w kolegiacie kaliskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik kielecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "archidiakon sądecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz biskupa kujawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz generalny i oficjał krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kantor krakowski",
-        "result": null
+        "result": true,
+        "pj_note": "dał mu instytucję na kantorię krakowską"
     },
     {
         "role_or_office": "biskup laodycejski",
-        "result": null
+        "result": true,
+        "pj_note": "został S. sufraganem krakowskim z tytułem biskupa laodycejskiego"
     },
     {
         "role_or_office": "delegat na synod prowincjalny do Piotrkowa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz królewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek sądów ultimae instantiae",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ordynariusz archidiecezji",
-        "result": null
+        "result": true
     }
 ]

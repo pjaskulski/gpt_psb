@@ -1,82 +1,83 @@
 [
     {
         "role_or_office": "profesor teologii uniwersytetu w Wiedniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "greckokatolicki biskup przemyski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "administrator",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "proboszcz greckokatolickiej parafii p. wezw. św. Barbary w Wiedniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "doktor teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współzałożyciel Tow. Kapłanów Galicyjskich Obrządku Greckokatolickiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asesor rzymskokatolickiego konsystorza wiedeńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor na Wydz. Teologii Katolickiej uniw. w Wiedniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan Wydz. Teologii Katolickiej uniw. w Wiedniu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik honorowy",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel Inst. Diaków i Nauczycieli Szkół Ludowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "greckokatolicki ordynariusz przemyski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor Zakł. Filozoficznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel drukarni",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący komisji biednych m. Przemyśla",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel Inst. dla Wspierania Wdów i Sierot po Greckokatolickich Duchownych Eparchii Przemyskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel greckokatolickiego seminarium duchownego",
-        "result": null
+        "result": true,
+        "pj_note": "właściwie: wznowił w Przemyślu działalność greckokatolickiego seminarium duchownego"
     },
     {
         "role_or_office": "założyciel Biblioteki Kapitulnej, tzw. Biblioteki Śnigursko-Ławrowskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rzeczywisty tajny radca dworu",
-        "result": null
+        "result": true
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
         "role_or_office": "działaczka polityczna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierowniczka biura Agencji Wschodniej",
-        "result": null
+        "result": true
     }
 ]

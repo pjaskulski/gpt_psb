@@ -1,26 +1,27 @@
 [
     {
         "role_or_office": "marszałek cieszyński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta oświęcimski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kasztelan oświęcimski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek sądu polubownego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek rady królewskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "posłaniec królewski",
-        "result": null
+        "result": true,
+        "pj_note": "ale niewłaściwe sformułowanie, powinno być poseł"
     }
 ]

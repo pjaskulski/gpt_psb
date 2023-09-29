@@ -1,42 +1,42 @@
 [
     {
         "role_or_office": "powstaniec 1830/31 r.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "emigrant",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "publicysta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "magister praw",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "podporucznik w 16. pp liniowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sekretarz Komisji Centralnej Polaków w dep. des Landes",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Tow. Demokratycznego Polskiego (TDP)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zespołu redakcyjnego organu TDP „Demokraty Polskiego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Centralizacji TDP",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ekspedytor parowozów w lokomotywowni w Cherbourgu",
-        "result": null
+        "result": true
     }
 ]
