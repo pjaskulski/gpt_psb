@@ -1,46 +1,47 @@
 [
     {
         "role_or_office": "prawnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor Uniwersytetu Krakowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor Uniwersytetu Krakowskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "scholastyk sandomierski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan",
-        "result": null
+        "result": false,
+        "pj_note": "funkcja dotyczy innej osoby: w czasie pełnienia funkcji dziekana przez Stanisława z Przechowa" 
     },
     {
         "role_or_office": "doktor dekretów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca konserwatora praw i przywilejów Uniw. Krak.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia polubowny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "profesor prawa Uniw. Krak.",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz arcybp. gnieźnieńskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik przemyski",
-        "result": null
+        "result": true
     }
 ]

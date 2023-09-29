@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "kanonik wileński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "biskup łucki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sędzia",
-        "result": null
+        "result": true
     }
 ]

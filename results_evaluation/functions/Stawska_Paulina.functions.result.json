@@ -1,74 +1,75 @@
 [
     {
         "role_or_office": "prywatna nauczycielka",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka w szkołach powszechnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektorka szkoły",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przełożona domu zakonnego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mistrzyni nowicjatu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "radna prowincjalna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "mistrzyni sióstr czasowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikaria prowincjalna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "radna generalna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wizytatorka prowincji amerykańskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przełożona generalna",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założycielka nowej prowincji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjatorka opracowania 'Historii Zgromadzenia Sióstr Felicjanek'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjatorka budowy Domu Katolickiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjatorka otwarcia szkoły gospodarczej",
-        "result": null
+        "result": false,
+        "pj_note": "to fakt niedokonany: planowała otworzyć szkołę gospodarczą dla ubogiej młodzieży (projekt został zrealizowany dopiero po drugiej wojnie światowej)"
     },
     {
         "role_or_office": "inicjatorka budowy domu dla wychowania i przygotowania do zawodu dzieci i młodzieży",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjatorka okresowych zjazdów naukowych felicjanek",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "inicjatorka wznowienia publikacji 'Roczników Zgromadzenia Sióstr Felicjanek'",
-        "result": null
+        "result": true
     }
 ]

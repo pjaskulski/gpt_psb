@@ -1,38 +1,40 @@
 [
     {
         "role_or_office": "ruski pisarz religijny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "teolog prawosławny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "teolog unicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "archimandryta monasteru w Czernihowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel szkoły Lwowskiego Bractwa Stauropigialnego",
-        "result": null
+        "result": false,
+        "pj_note": "fragment biograu jest podchwytliwy: Starsza literatura identyfikowała S-ego z Kiryłem, nauczycielem szkoły Lwowskiego Bractwa Stauropigialnego - co chyba oznacza że obecna literatura tak nie uważa?"
     },
     {
         "role_or_office": "nauczyciel języka greckiego i cerkiewnosłowiańskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "namiestnik w prawosławnej eparchii chełmskiej",
-        "result": null
+        "result": false,
+        "pj_note": "to funkcja innej postaci: Kirył z Zamościa pełnił z ramienia metropolity kijowskiego Piotra Mohiły funkcję namiestnika w prawosławnej eparchii chełmskiej"
     },
     {
         "role_or_office": "archimandryta unickiego monasteru Jeleckiego w Czernihowie",
-        "result": null
+        "result": true
     }
 ]

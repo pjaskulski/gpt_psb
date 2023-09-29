@@ -1,14 +1,14 @@
 [
     {
         "role_or_office": "książę mazowiecki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wojewoda Mazowsza",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "kanclerz",
-        "result": null
+        "result": false
     }
 ]

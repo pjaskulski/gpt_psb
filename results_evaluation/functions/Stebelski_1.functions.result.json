@@ -1,90 +1,91 @@
 [
     {
         "role_or_office": "poeta",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nowelista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziennikarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczyciel w Gimnazjum im. Franciszka Józefa",
-        "result": null
+        "result": true,
+        "pj_note": "podjął pracę w lwowskim Gimnazjum im. Franciszka Józefa"
     },
     {
         "role_or_office": "pracownik banku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współredaktor tygodnika literackiego 'Bojan'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik czasopisma satyryczno-politycznego 'Strachopud'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik dwutygodnika satyryczno-humorystycznego 'Szczutek'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik 'Tygodnia Literackiego, Artystycznego, Naukowego i Społecznego'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik 'Kolców'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik 'Kuriera Polskiego'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik 'Różowego Domino'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współpracownik 'Dziennika Polskiego'",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor „Strażnicy Polskiej",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "autor recenzji teatralnych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor „Kuriera Lwowskiego",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "autor utworów literackich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor „Kuriera Warszawskiego",
-        "result": null
+        "result": false
     },
     {
         "role_or_office": "redaktor „Kuriera Codziennym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor naczelny tygodnika „Kolce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "współredaktor „Muchy",
-        "result": null
+        "result": true
     }
 ]

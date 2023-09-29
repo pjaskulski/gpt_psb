@@ -1,86 +1,92 @@
 [
     {
         "role_or_office": "inżynier leśnik",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "docent Instytutu Badawczego Leśnictwa w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik leśny",
-        "result": null
+        "result": false,
+        "pj_note": "to określenie chyba dotyczy ojca bohatera"
     },
     {
         "role_or_office": "zastępca asystenta w Katedrze Botaniki Leśnej i Dendrologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik dziennie płatny w Zakładzie Zalesiania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "asystent w Zakładzie Zalesiania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starszy asystent w Zakładzie Zalesiania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiunkt w Zakładzie Zalesiania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Pracowni Uprawy Lasu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Zakładu Hodowli Lasu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "koordynator badań grupy tematycznej „Doskonalenie sposobów zagospodarowania lasów w celu optymalizacji ich potencjału produkcyjnego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca dyrektora Instytutu Badawczego Leśnictwa ds. naukowo-badawczych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przewodniczący Rady Naukowo-Technicznej przy Warszawskim Zespole Leśnym",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Słowińskiego Parku Narodowego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek zarządu głównego Polskiego Towarzystwa Leśnego",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek Stow. Inżynierów i Techników Leśnictwa i Drzewnictwa"
     },
     {
         "role_or_office": "przewodniczący Europejskiej Komisji Leśnictwa FAO",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Stałej Grupy Roboczej Polska–Finlandia ds. współpracy w zakresie leśnictwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Rady Pełnomocników Ośrodka Koordynacyjnego RWPG w Puszkinie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek międzynarodowego towarzystwa leśnego «Inter-Silva»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek egzekutywy Podstawowej Organizacji Partyjnej PZPR w Instytucie Badawczym Leśnictwa",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "docent",
-        "result": null
+        "result": true
     }
 ]

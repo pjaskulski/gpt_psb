@@ -1,58 +1,69 @@
 [
     {
         "role_or_office": "surdopedagog",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "nauczycielka w Szkole Podstawowej Specjalnej dla Dzieci Głuchych nr 45",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "członek ZNP"
     },
     {
         "role_or_office": "studentka w Państw. Inst. Pedagogiki Specjalnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownica w Państw. Zakładzie Wychowawczym dla Dzieci Głuchych w Krakowie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik internatu w Państw. Zakładzie Wychowawczym dla Dzieci Głuchych w Gołotczyźnie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założycielka i kierowniczka przedszkola z internatem dla dzieci głuchych w Michalinie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiunkt w Państw. Inst. Pedagogiki Specjalnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starsza wizytatorka w Kuratorium Okręgu Szkolnego Warszawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierowniczka ośrodka w Michalinie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "instruktor Okręgowego Ośrodka Metodycznego w Warszawie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca w Państw. Inst. Pedagogiki Specjalnej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "adiunkt, a potem kierownik Zakł. Szkolnictwa Specjalnego w Inst. Programów Szkolnych w Warszawie przy Min. Oświaty i Wychowania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Zespołu Naukowo-Dydaktycznego Nauk Pedagogicznych przy Min. Oświaty i Wychowania",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "główny specjalista badawczo-techniczny ds. dydaktycznych w Zakł. Szkolnictwa Specjalnego Ośrodka Badawczo-Rozwojowego Pomocy Naukowych i Sprzętu Szkolnego MEN w Warszawie",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "uzyskała S.-W. na Wydz. Humanistycznym UMCS stopień doktora habilitowanego nauk humanistycznych"
+    
     }
 ]
