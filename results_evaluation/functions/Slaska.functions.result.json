@@ -61,7 +61,7 @@
     },
     {
         "role_or_office": "profesor nadzwyczajny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "reżyserka Teatru Ateneum",
