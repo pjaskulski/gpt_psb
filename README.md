@@ -333,7 +333,7 @@ Looking in detail at the types of kinship (for 214 biographies where any were fo
 
 The task of the model was to find all professions practiced by the hero/heroine, all functions performed, and offices held. The term "function" is, of course, quite general, and this is how it was interpreted by the model. Thus, both functions such as 'university employee' and 'insurgent participant' were included here.
 
-In total, in the 250 analyzed biographies, there are 2627 functions/offices/professions of which the model recognized 2400 correctly (91.3%), misrecognized 165 (6.3%), or omitted 62 (2.4%).
+In total, in the 250 analyzed biographies, there are 2627 functions/offices/professions of which the model recognized 2400 correctly (**91.3%**), misrecognized 165 (**6.3%**), or omitted 62 (**2.4%**).
 
 Functions and offices misrecognized usually pertain to other people appearing in the biography, often repetitions - the model found the same functions twice (because they were mentioned twice in the biography, sometimes written slightly differently, e.g., with an abbreviation). Sometimes the model misinterprets the description from the biography, where it is written that for some reason, the biography hero did not take up a given function.
 
