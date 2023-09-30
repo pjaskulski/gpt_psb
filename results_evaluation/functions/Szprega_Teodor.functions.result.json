@@ -1,82 +1,84 @@
 [
     {
         "role_or_office": "reformat",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "misjonarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz generalny w Poznańskiem",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca historii Kościoła w studium seminaryjnym w Miejskiej Górce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicemagister nowicjatu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor Trzeciego Zakonu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "gwardian",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "gwardian i dyrektor domu księży demerytów w Osiecznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kaznodzieja w Zamartem i Miejskiej Górce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "misjonarz apostolski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kapelan sióstr franciszkanek oraz ambasady austro-węgierskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz w Kurzętniku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz w Zblewie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz parafii w Miejskiej Górce",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wikariusz parafii w Dubinie",
-        "result": null
+        "result": true,
+        "pj_note": "dokładnie: zastępował wikariusza parafii w Dubinie"
     },
     {
         "role_or_office": "zastępca prowincjała",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz generalny",
-        "result": null
+        "result": true,
+        "pj_note": "ale to powtórzenie informacji z początku biogramu"
     },
     {
         "role_or_office": "dyrektor domu księży demerytów w Osiecznej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca proboszcza parafii w Drzeczkowie",
-        "result": null
+        "result": true
     }
 ]

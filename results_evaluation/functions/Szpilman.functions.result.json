@@ -1,42 +1,57 @@
 [
     {
         "role_or_office": "pianista",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kompozytor",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "został S. zatrudniony w PR jako etatowy pianista"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "student w Wyższej Szkole Muzycznej im. Fryderyka Chopina w Warszawie"
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "student w Berlińskiej Wyższej Szkole Muzycznej (Berliner Musikhochschule)"
     },
     {
         "role_or_office": "kierownik Redakcji Muzyki Lekkiej (potem Rozrywkowej) w Polskim Radiu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor muzyczny Polskiego Radia",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezes Związku Polskich Autorów i Kompozytorów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pomysłodawca i organizator Międzynarodowego Festiwalu Piosenki w Sopocie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "założyciel Kwintetu Warszawskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik Redakcji Muzyki Rozrywkowej w Polskim Radiu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Związku Kompozytorów Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik artystyczny Kwintetu Warszawskiego",
-        "result": null
+        "result": true
     }
 ]

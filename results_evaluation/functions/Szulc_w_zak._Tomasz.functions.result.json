@@ -1,54 +1,57 @@
 [
     {
         "role_or_office": "dominikanin",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "przeor",
-        "result": null
+        "result": true,
+        "pj_note": "gdański, klasztoru w Chełmie, w Toruniu"
     },
     {
         "role_or_office": "pisarz religijny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "lektor teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "prezentat teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bakałarz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "magister teologii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bakałarz studium generalnego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "definitor",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wykładowca",
-        "result": null
+        "result": true,
+        "pj_note": "Wykładał w szkołach dominikańskich w Gdańsku i Toruniu, prawdopodobnie też we Wrocławiu;"
     },
     {
         "role_or_office": "wikariusz kontraty pruskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "misjonarz apostolski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "regens krakowskiego studium generale",
-        "result": null
+        "result": false,
+        "pj_note": "S. został przedstawiony jako jeden z trzech kandydatów na stanowisko regensa krakowskiego studium generale; ostatecznie jednak urząd ten objął Tomasz Mdzewski."
     }
 ]

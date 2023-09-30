@@ -1,42 +1,48 @@
 [
     {
         "role_or_office": "marszałek hospodarski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ciwun ejragolski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dzierżawca wieloński",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dworzanin hospodarski",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "",
+        "result": false,
+        "pj_note": "objął S. w r. 1548 dzierżone przez niego ciwuństwo retowskie"
     },
     {
         "role_or_office": "marszałek hospodarski (dworski)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta upicki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dzierżawca włości wielońskiej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "starosta na zamku Bowsk (Bauske)",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "sprawca star. żmudzkiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ciwun Małych Dyrwian",
-        "result": null
+        "result": false,
+        "pj_note": "funkcja dotyczy innej postaci: Bogdana Mitkowicza, pisarza dworów i włości ziemi żmudzkiej oraz ciwuna Małych Dyrwian"
     }
 ]

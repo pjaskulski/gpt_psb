@@ -1,26 +1,26 @@
 [
     {
         "role_or_office": "kanonik poznański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik krakowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kustosz poznański",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dziekan kurzelowski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "rektor kościoła św. Wawrzyńca w Kazimierzu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kanonik kruszwicki",
-        "result": null
+        "result": true
     }
 ]

@@ -1,31 +1,32 @@
 [
     {
         "role_or_office": "kniążę",
-        "result": null
+        "result": false,
+        "pj_note": "model nie zna słowa kniaź? w efekcie to nieczytelne zniekształcenie terminu który w biogramie występuje wprost jako kniaź"
     },
     {
         "role_or_office": "pisarz wielki litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do Trybunału Głównego Litewskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz ziemski brzeski litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "marszałek sejmiku przedsejmowego w Brześciu Litewskim",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na sejm",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz z Litwy do rozdziału między egzulantami tzw. sum moskiewskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz do zapłaty i \"zwinięcia\" (zmniejszenia liczby) wojska litewskiego",
@@ -33,66 +34,72 @@
     },
     {
         "role_or_office": "komisarz do rokowań o ugodę z Kozakami Piotra Doroszenki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł na sejm koronacyjny",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat brzeski litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz trybunału skarbowego w Wilnie",
-        "result": null
+        "result": true,
+        "pj_note": "pełnił przez pewien czas (w zastępstwie Eliasza Michała Rymwida) funkcję pisarza tryb. skarbowego w Wilnie"
     },
     {
         "role_or_office": "komisarz do trybunału skarbowego litewskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz Rzeczypospolitej do traktatów z Kozakami",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "chorąży brzeski litewski",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz z powiatu brzeskiego litewskiego do zapłaty wojsku żołdu",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz do rozsądzenia pretensji województwa wołyńskiego i kijowskiego o szkody poczynione przez wojska litewskie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pisarz komisji do zapłaty wojsku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do ułożenia konstytucji",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do boku króla",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat do trybunału skarbowego litewskiego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz do rozdziału sumy moskiewskiej dla egzulantów",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "deputat z prowincji litewskiej do sądów sejmowych",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "komisarz do rewizji skarbca koronnego na Wawelu",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "komisarzem ds. ordynacji zamojskiej"
     }
 ]

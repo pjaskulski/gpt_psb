@@ -1,79 +1,85 @@
 [
     {
         "role_or_office": "historyk",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "porucznik Armii Krajowej",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyplomata",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tłumacz",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bibliotekarz w Bibliotece Ordynacji Zamoyskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "bombardier w 32. dyonie artyl. lekkiej w Rembertowie",
-        "result": null
+        "result": true
+    },
+    {
+        "role_or_office": "brak danych",
+        "result": false,
+        "pj_note": "plutonowy podchorąży w 41. dyonie artyl. lekkiej"
     },
     {
         "role_or_office": "członek Związku Syndykalistów Polskich",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "pracownik referatu W-1 (A-1, krypt. 1631) Wydz. Informacji Biura Informacji i Propagandy (BIP) Komendy Głównej (KG) ZWZ/AK",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "zastępca kierownika Podwydz. «W» Aleksandra Gieysztora",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek redakcji „Biuletynu Informacyjnego” KG ZWZ/AK",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "członek Stronnictwa Demokratycznego",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Podwydz. «W»",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "redaktor „Biuletynu Informacyjnego”",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "kierownik działu wydawnictw i redaktor naczelny miesięcznika „Strażnica Zachodnia”",
-        "result": null
+        "result": true,
+        "pj_note": "w Zarządzie Okręgu Śląsko-Dąbrowskiego Polskiego Związku Zachodniego"
     },
     {
         "role_or_office": "naczelnik Wydziału w Dep. Informacji i Prasy MSZ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "dyrektor Polskiego Ośrodka Informacyjnego w Nowym Jorku",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "naczelnik Wydz. ONZ w Dep. Międzynarodowych Organizacji MSZ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "wicedyrektor, p.o. dyrektora Departamentu MSZ",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "szef Polskiej Misji w Międzynarodowej Komisji Nadzoru i Kontroli w Wietnamie",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "ambasador PRL w Szwecji",
@@ -81,14 +87,15 @@
     },
     {
         "role_or_office": "dyrektor lub wicedyrektor dwóch departamentów MSZ: Europy Zachodniej oraz Wielkiej Brytanii i Ameryki",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "tymczasowy chargé d’affaires w Islandii",
-        "result": null
+        "result": true
     },
     {
         "role_or_office": "poseł",
-        "result": null
+        "result": true,
+        "pj_note": "objął w Reykjavíku stanowisko tymczasowego chargé d’affaires w Islandii; następnie pełnił tam funkcję posła do przejścia na emeryturę"
     }
 ]
