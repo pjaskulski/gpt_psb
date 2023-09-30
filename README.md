@@ -12,6 +12,7 @@
 - [Analysis of Result Accuracy](#analysis-of-result-accuracy)
     - [Basic Data](#basic-data)
     - [Family Relations](#family-relations)
+    - [Roles, professions and offices](#roles-professions-and-offices)
 
 
 ## Introduction
@@ -309,7 +310,7 @@ Looking in detail at the types of kinship (for 214 biographies where any were fo
 | ---                               | :---: | :---:   | :---:                         | :---:        | :---:              |
 | son | 220 | 210 | 10 | 3 | **95.45** |
 | father | 189 | 188 | 1 | 0 | **99.47** |
-| brother | 151 | 137 | 14 | 8 | **90.73** | 
+| brother | 151 | 137 | 14 | 8 | **90.73** |
 | mother | 149 | 147 | 2 | 1 | **98.66** |
 | daughter | 129 | 127 | 2 | 1 | **98.45** |
 | wife | 120 | 116 | 4 | 1 | **96.67** |
@@ -324,9 +325,19 @@ Looking in detail at the types of kinship (for 214 biographies where any were fo
 | grandfather | 17 | 13 | 4 | 3 | 76.47 |
 | mother-in-law | 15 | 11 | 4 | 4 | 73.33 |
 | uncle | 14 | 6 | 8 | 7 | 42.86 |
-| nephew (from sister) | 13 | 5 | 8 | 1 | *38.46* | 
+| nephew (from sister) | 13 | 5 | 8 | 1 | *38.46* |
 | cousin | 9 | 9 | 0 | 0 | **100.00** |
 | uncle (from father's side) | 7 | 4 | 3 | 2 | 57.14 |
+
+### Roles, Professions, and Offices
+
+The task of the model was to find all professions practiced by the hero/heroine, all functions performed, and offices held. The term "function" is, of course, quite general, and this is how it was interpreted by the model. Thus, both functions such as 'university employee' and 'insurgent participant' were included here.
+
+In total, in the 250 analyzed biographies, there are 2627 functions/offices/professions of which the model recognized 2400 correctly (91.3%), misrecognized 165 (6.3%), or omitted 62 (2.4%).
+
+Functions and offices misrecognized usually pertain to other people appearing in the biography, often repetitions - the model found the same functions twice (because they were mentioned twice in the biography, sometimes written slightly differently, e.g., with an abbreviation). Sometimes the model misinterprets the description from the biography, where it is written that for some reason, the biography hero did not take up a given function.
+
+One might venture to make a distinction, extracting from the found functions those that are more formal (office, position in the office, government, military rank, and position), professions (learned, practiced) from other functions (the king's deputy, member of a society). After such detailing, specifying what is and what is not a function, the results might look a bit different.
 
 ---
 
@@ -343,6 +354,7 @@ Looking in detail at the types of kinship (for 214 biographies where any were fo
  - [Analiza poprawności wyników](#analiza-poprawności-wyników)
     - [Dane podstawowe](#dane-podstawowe-1)
     - [Relacje rodzinne](#relacje-rodzinne)
+    - [Funkcje, zawody i urzędy](#funkcje-zawody-i-urzędy)
 
 ## Wprowadzenie
 
@@ -646,9 +658,9 @@ Patrząc szczegółowo na rodzaje pokrewieństwa (dla 214 biogramów gdzie zosta
 (niektóre się pokrywają np. krewny, krewne itp.). W wynikach możliwe były następujące sytuacje: relacja rodzinna zostałą znaleziona i jest poprawna,
 relacja rodzinna została znaleziona ale jest błędna, relacja nie została znaleziona (ale jest w biogramie). Pierwsza z tych sytuacji jest kwalifikowana jako poprawna, dwie pozostałe jako błędne. Tabela wyników (20 najpopularniejszych rodzajów relacji, posortowana według liczebności malejąco, poprawność >90% pogrubiona, < 50% kursywą) wygląda następująco:
 
-| rodzaj relacji rodzinnej (pokrewieństwa) | Ogólem | Poprawnie | Niepoprawnie (błędne i brakujące) | W tym tylko brakujące | Procent poprawnych | 
+| rodzaj relacji rodzinnej (pokrewieństwa) | Ogólem | Poprawnie | Niepoprawnie (błędne i brakujące) | W tym tylko brakujące | Procent poprawnych |
 | ---                                      | :---:  | :---:     | :---:                             | :---:                 | :---:              |
-| syn | 220 | 210 | 10 | 3 | **95,45** | 
+| syn | 220 | 210 | 10 | 3 | **95,45** |
 | ojciec | 189 | 188 | 1 | 0 | **99,47** |
 | brat | 151 | 137 | 14 | 8 | **90,73** |
 | matka | 149 | 147 | 2 | 1 | **98,66** |
@@ -669,3 +681,12 @@ relacja rodzinna została znaleziona ale jest błędna, relacja nie została zna
 | kuzyn | 9 | 9 | 0 | 0 | 100,00 |
 | stryj | 7 | 4 | 3 | 2 | 57,14 |
 
+### Funkcje, zawody i urzędy
+
+Zadaniem modelu było odnalezienie wszystkich zawodów wykonywanych przez bohatera/bohaterkę, wszystkich pełnionych funkcji i sprawowanych urzędów. Sformułowanie funkcja jest oczywiście dość ogólne, i tak też zostało zinterpretowane przez model. Trafiły więc tu zarówno funkcje w rodzaju 'pracownik uczelni', jak i 'uczestnik powstania'.
+
+Ogółem w 250 analizowanych biogramach znajduje się 2627 funkcji/urzędów/zawodów z tego model rozpoznał 2400 prawidłowo (**91.3%**), w 165 przypadkach błędnie (**6.3%**), lub pominął w 62 (**2.4%**).
+
+Funkcje i urzędy rozpoznane błędnie dotyczą zwykle innych osób występujących w biogramie, często powtórzeń - model znajdował te same funkcje dwukrotnie (gdyż dwukrotnie były wspomniane w biogramie, czasem nieco inaczej zapisane np. ze skrótem). Czasem model błędnie interpretuje opis z biogramu, gdzie napisane jest że z jakichś powodów bohater biogramu danej funkcji właśnie nie objął.
+
+Można by pokusić się o podział, wyodrębnienie ze znalezionych funkcji tych bardziej formalnych (urząd, stanowisko w urzędzie, rządzie, stopień i stanowisko wojskowe), zawodów (wyuczonych, wykonywanych) od innych funkcji (poseł króla, członek towarzystwa). Po takim uszczegółowieniu, sprecyzowaniu co jest a co nie jest funkcją, wyniki mogłyby wyglądać nieco inaczej.
