@@ -1,4 +1,4 @@
-# Extraction of information from biographies of historical figures with scripts using the GPT-4 model through an API
+# Extraction of information from biographies of historical figures with scripts using the GPT-4 model
 (Polish version below: [link](#ekstrakcja-informacji-z-biogram%C3%B3w-postaci-historycznych-za-pomoc%C4%85-skrypt%C3%B3w-wykorzystuj%C4%85cych-model-gpt-4-przez-api))
 
 - [Introduction](#introduction)
@@ -341,7 +341,7 @@ One might venture to make a distinction, extracting from the found functions tho
 
 ---
 
-# Ekstrakcja informacji z biogramów postaci historycznych za pomocą skryptów wykorzystujących model GPT-4 przez API
+# Ekstrakcja informacji z biogramów postaci historycznych za pomocą skryptów wykorzystujących model GPT-4
 
  - [Wprowadzenie](#wprowadzenie)
  - [Dane podstawowe](#dane-podstawowe)
