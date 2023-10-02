@@ -1,5 +1,5 @@
 # Extraction of information from biographies of historical figures with scripts using the GPT-4 model
-(Polish version below: [link](#ekstrakcja-informacji-z-biogram%C3%B3w-postaci-historycznych-za-pomoc%C4%85-skrypt%C3%B3w-wykorzystuj%C4%85cych-model-gpt-4-przez-api))
+(Polish version below: [link](#ekstrakcja-informacji-z-biogram%C3%B3w-postaci-historycznych-za-pomoc%C4%85-skrypt%C3%B3w-wykorzystuj%C4%85cych-model-gpt-4))
 
 - [Introduction](#introduction)
 - [Basic information](#basic-information)
