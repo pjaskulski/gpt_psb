@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Ignacy Potocki",
+        "date": "1781",
+        "info": "przyjaciel, polityk",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "Ignacy Działyński",
+        "date": "1793",
+        "info": "generał, twórca sprzysiężenia",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Dembowski",
+        "date": "brak danych",
+        "info": "pośrednik w kontaktach z Ignacym Potockim",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "Igelström",
+        "date": "brak danych",
+        "info": "potencjalny współpracownik",
+        "result": true,
+        "pj_note": "był wtedy ajentem prowokatorem z ramienia Igelströma i Pl. Zubowa"
+    },
+    {
+        "name": "Pl. Zubow",
+        "date": "brak danych",
+        "info": "potencjalny współpracownik",
+        "result": null,
+        "pj_note": "był wtedy ajentem prowokatorem z ramienia Igelströma i Pl. Zubowa"
+    },
+    {
+        "name": "Zakrzewski",
+        "date": "brak danych",
+        "info": "korespondent",
+        "result": false,
+        "pj_note": "trudno określić związek z bohaterem, Zakrzewski pisał o nim w korepondencji?"
+    },
+    {
+        "name": "Deboli",
+        "date": "brak danych",
+        "info": "współpracownik w sprawie badania papierów ambasady rosyjskiej",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "Vincent",
+        "date": "1807",
+        "info": "rezydent francuski, odbiorca biuletynów",
+        "result": true,
+        "pj_note": "pisywał równocześnie biuletyny o stanie umysłów w Warszawie dla rezydenta francuskiego, Vincent’a"
+    },
+    {
+        "name": "Leon Bajkow",
+        "date": "1816",
+        "info": "odbiorca akt z archiwum Igelströma",
+        "result": true,
+        "pj_note": "oddał 30 XI 1816 w ręce Leona Bajkowa 27 pakietów akt"
+    },
+    {
+        "name": "Konstanty",
+        "date": "brak danych",
+        "info": "wielki książę",
+        "result": true,
+        "pj_note": "Zjednało mu to pogardę w. ks. Konstantego"
+    },
+    {
+        "name": "Aleksander",
+        "date": "brak danych",
+        "info": "ofiarodawca nagrody",
+        "result": true,
+        "pj_note": "Aleksander ofiarował mu za to 500 dukatów, których A. nie przyjął"
+    },
+    {
+        "name": "Niemcewicz",
+        "date": "brak danych",
+        "info": "osoba, której Konstanty opowiadał o Aloe",
+        "result": true,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Kazimierz Wielki",
+        "date": "brak danych",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Imisław Wroński",
+        "date": "1359",
+        "info": "elekt płocki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Innocenty VI",
+        "date": "1359",
+        "info": "papież",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Jura",
+        "date": "1360",
+        "info": "posłaniec",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan z Buska",
+        "date": "1360",
+        "info": "posłaniec",
+        "result": null,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "K. Knaus",
+        "date": "1888",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. Mikołajewski",
+        "date": "1888",
+        "info": "artysta malujący polichromie",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Niedzielski",
+        "date": "1888",
+        "info": "projektant polichromii",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tola Certowiczówna",
+        "date": "1895",
+        "info": "artysta rzeźbiarka",
+        "result": null,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Zygmunt I",
+        "date": "1545",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Karol V",
+        "date": "1545",
+        "info": "cesarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Hozjusz",
+        "date": "brak danych",
+        "info": "sekretarz królewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Albrecht pruski",
+        "date": "brak danych",
+        "info": "książę pruski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Seweryn Boner",
+        "date": "1546",
+        "info": "kasztelan biecki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Zygmunt August",
+        "date": "1548",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Samuel Maciejowski",
+        "date": "brak danych",
+        "info": "biskup-humanista, kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Moryc Wachowski",
+        "date": "1590",
+        "info": "kupiec zbożowy",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Trzycieski",
+        "date": "1556",
+        "info": "autor elegii",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Marcin Zborowski",
+        "date": "1562",
+        "info": "kasztelan krakowski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Grzegorz Paweł",
+        "date": "1565",
+        "info": "przywódca antytrynitarzy",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Chodkiewicz",
+        "date": "1569",
+        "info": "marszałek litewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Zborowski",
+        "date": "brak danych",
+        "info": "wojewoda sandomierski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Barz",
+        "date": "1572",
+        "info": "wojewoda i starosta krakowski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Chodkiewicz",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mikołaj Firlej",
+        "date": "1572",
+        "info": "starosta kazimirski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fr. Krasiński",
+        "date": "1573",
+        "info": "biskup",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Krzysztof Trecy",
+        "date": "1573",
+        "info": "minister zboru kalwińskiego w Krakowie i rektor szkoły tamże",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Beza",
+        "date": "1573",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Bullinger",
+        "date": "1573",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan III",
+        "date": "1573",
+        "info": "król szwedzki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna Jagiellonka",
+        "date": "1573",
+        "info": "królowa szwedzka",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mikołaj Mielecki",
+        "date": "1573",
+        "info": "wojewoda podolski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Anzelm Gostomski",
+        "date": "1573",
+        "info": "wojewoda rawski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Kostka",
+        "date": "1573",
+        "info": "kasztelan gdański",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "St. Karnkowski",
+        "date": "1573",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Zborowski",
+        "date": "brak danych",
+        "info": "członek francuskiej partii",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andegaweńczyk",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Henryk Walezy",
+        "date": "1573",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Prymas Uchański",
+        "date": "1573",
+        "info": "prymas",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mikołaj Mielecki",
+        "date": "1573",
+        "info": "senator",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Montluk",
+        "date": "1573",
+        "info": "poseł",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Zborowski",
+        "date": "1573",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Maksymilian",
+        "date": "1573",
+        "info": "cesarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mateusz Siebeneycher",
+        "date": "1574",
+        "info": "drukarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Dymitr Solikowski",
+        "date": "1574",
+        "info": "autor pisma",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Bp Krasiński",
+        "date": "1574",
+        "info": "biskup",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Nuncjusz Laureo",
+        "date": "1574",
+        "info": "nuncjusz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Zborowski",
+        "date": "1574",
+        "info": "rywal",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kardynał Hozjusz",
+        "date": "1574",
+        "info": "kardynał",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Zygmunt August",
+        "date": "1570",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fr. Krasiński",
+        "date": "brak danych",
+        "info": "podkanclerz, biskup",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mik. Mielecki",
+        "date": "brak danych",
+        "info": "wojewoda",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Dudycz",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Trzycieski",
+        "date": "1565",
+        "info": "autor 'Epigrammatum liber I'",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Maciej Wierzbięta",
+        "date": "1573",
+        "info": "drukarz, autor 'Krótkie opisanie wiary świętej'",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Josias Simler",
+        "date": "1568",
+        "info": "autor 'De Aeterno Dei Filio'",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Roizjusz",
+        "date": "brak danych",
+        "info": "poeta",
+        "result": null,
+        "pj_note": ""
+    }
+]

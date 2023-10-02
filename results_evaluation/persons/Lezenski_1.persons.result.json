@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Jerzy Lubomirski",
+        "date": "1664",
+        "info": "marszałek",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Trzebicki",
+        "date": "1665",
+        "info": "biskup krakowski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Kazimierz",
+        "date": "1665",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Korybut Wiśniowiecki",
+        "date": "1672",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan III Sobieski",
+        "date": "brak danych",
+        "info": "król",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kazimierz Florian Czartoryski",
+        "date": "brak danych",
+        "info": "prymas",
+        "result": null,
+        "pj_note": ""
+    }
+]

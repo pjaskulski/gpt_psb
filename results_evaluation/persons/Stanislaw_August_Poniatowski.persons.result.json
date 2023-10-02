@@ -1,0 +1,2207 @@
+[
+    {
+        "name": "Antonio Portalupi",
+        "date": "brak danych",
+        "info": "teatyn, nauczyciel",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "H. Keyserlingk",
+        "date": "1744",
+        "info": "poseł rosyjski, dawny profesor Uniw. Królewieckiego, nauczyciel",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Łukasz Toux de Salverte",
+        "date": "brak danych",
+        "info": "były oficer austriacki, nauczyciel architektury i inżynierii",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Śliwicki",
+        "date": "brak danych",
+        "info": "misjonarz, spowiednik",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. H. Kauderbach",
+        "date": "1748",
+        "info": "poseł saski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mauryce Saski",
+        "date": "1748",
+        "info": "wojskowy, dyplomata",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "W. Kaunitz",
+        "date": "1748",
+        "info": "przyszły kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Lieberkühn",
+        "date": "1750",
+        "info": "sławny lekarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "C. Williams",
+        "date": "1750",
+        "info": "poseł angielski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "R. Keith",
+        "date": "1752",
+        "info": "poseł angielski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "L. Canal",
+        "date": "1752",
+        "info": "poseł sardyński",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "August Czartoryski",
+        "date": "1752",
+        "info": "wojewoda ruski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Yorke",
+        "date": "1753",
+        "info": "poseł angielski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "W. Bentinck",
+        "date": "1753",
+        "info": "przywódca partii oranżystowskiej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "M. T. Geoffrin",
+        "date": "1753",
+        "info": "twórczyni słynnego paryskiego salonu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. de Brancas",
+        "date": "1753",
+        "info": "księżna",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "W. Albemarle",
+        "date": "1753",
+        "info": "lord, ambasador brytyjski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "L. Schaube",
+        "date": "1754",
+        "info": "były dyplomata",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "P. Hardwicke",
+        "date": "1754",
+        "info": "lord kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Klemens Branicki",
+        "date": "brak danych",
+        "info": "hetman w. kor., przeciwnik Czartoryskich",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Williams",
+        "date": "brak danych",
+        "info": "przyjaciel S. Poniatowskiego, poseł angielski w Petersburgu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna",
+        "date": "brak danych",
+        "info": "wielka księżna, późniejsza cesarzowa Rosji, romansowała ze S. Poniatowskim",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. Bestużew",
+        "date": "brak danych",
+        "info": "kanclerz, związany z Katarzyną",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Borch",
+        "date": "brak danych",
+        "info": "podkomorzy inflancki, pomagał S. Poniatowskiemu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jacek Ogrodzki",
+        "date": "brak danych",
+        "info": "sekretarz poselstwa, od dawna związany z rodziną Poniatowskich",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk Wielki",
+        "date": "brak danych",
+        "info": "król Prus, porównany do mitologicznej hydry przez S. Poniatowskiego",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "H. Brühl",
+        "date": "brak danych",
+        "info": "dyplomata, przeciwnik S. Poniatowskiego",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "M. von Esterházy",
+        "date": "brak danych",
+        "info": "poseł austriacki w Petersburgu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ch. de Broglie",
+        "date": "brak danych",
+        "info": "ambasador francuski w Warszawie, niechętny S. Poniatowskiemu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "G. Orłow",
+        "date": "brak danych",
+        "info": "nowy faworyt Katarzyny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Brühl",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Czartoryski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "1763",
+        "info": "Cesarzowa Rosji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk Wielki",
+        "date": "brak danych",
+        "info": "Król Prus",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. K. Branicki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "August Czartoryski",
+        "date": "1764",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Władysław Łubieński",
+        "date": "1764",
+        "info": "prymas",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "N. Repnin",
+        "date": "1763",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "F. A. Brühl",
+        "date": "1764",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Salezy Potocki",
+        "date": "1764",
+        "info": "wojewoda kijowski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Karol Radziwiłł",
+        "date": "1764",
+        "info": "były wojewoda wileński",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Marcin Matuszewicz",
+        "date": "1764",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kajetan Sołtyk",
+        "date": "1764",
+        "info": "biskup krakowski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. E. Visconti",
+        "date": "brak danych",
+        "info": "nuncjusz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ogrodzki",
+        "date": "1764",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "August Czartoryski",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "S. Lubomirski",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ogrodzki",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Repnin",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "brak danych",
+        "info": "caryca Rosji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Zamoyski",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Wielhorski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "N. Panin",
+        "date": "brak danych",
+        "info": "kierownik rosyjskiej polityki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "kanclerz Kaunitz",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Mokronowski",
+        "date": "brak danych",
+        "info": "generał",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Ksawery Branicki",
+        "date": "brak danych",
+        "info": "łowczy w. kor.",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "M. Wołkoński",
+        "date": "brak danych",
+        "info": "następca Repnina",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Pułaski",
+        "date": "brak danych",
+        "info": "starosta warecki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Krasiński",
+        "date": "1770",
+        "info": "marszałek",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "F. K. Branicki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "K. Saldern",
+        "date": "brak danych",
+        "info": "najbliższy współpracownik Panina",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "I. Weymarn",
+        "date": "brak danych",
+        "info": "generał, dowódca wojsk rosyjskich w Polsce",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Pac",
+        "date": "brak danych",
+        "info": "marszałek",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kazimierz Pułaski",
+        "date": "brak danych",
+        "info": "pułkownik",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Strawiński",
+        "date": "brak danych",
+        "info": "litewski konfederat",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Kuźma",
+        "date": "brak danych",
+        "info": "jeden ze dowódców konfederatów",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Karol Coccei",
+        "date": "brak danych",
+        "info": "pułkownik",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Konarski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Adam Naruszewicz",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ludwik XV",
+        "date": "brak danych",
+        "info": "król Francji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "O. Stackelberg",
+        "date": "1772",
+        "info": "przedstawiciel dworu petersburskiego w Warszawie",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Adam Poniński",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tadeusz Rejtan",
+        "date": "brak danych",
+        "info": "poseł nowogrodzki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Branicki",
+        "date": "brak danych",
+        "info": "hetman",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Seweryn Rzewuski",
+        "date": "brak danych",
+        "info": "hetman",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Ogiński",
+        "date": "brak danych",
+        "info": "hetman",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Antoni Tyzenhauz",
+        "date": "brak danych",
+        "info": "podskarbi nadw. lit.",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mokronowski",
+        "date": "23 VIII 1776",
+        "info": "marszałek konfederacji kor. i sejmu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "S. Lubomirski",
+        "date": "brak danych",
+        "info": "minister",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "S. Rzewuski",
+        "date": "brak danych",
+        "info": "minister",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Zamoyski",
+        "date": "brak danych",
+        "info": "ekskanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Młodziejowski",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Karol Boscamp-Lasopolski",
+        "date": "po sejmie 1776 r.",
+        "info": "posłanek do Turcji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Maurycy Glayre",
+        "date": "brak danych",
+        "info": "zaufany pracownik Gabinetu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kazimierz Wolmer",
+        "date": "brak danych",
+        "info": "współpracownik Tyzenhauza",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ignacy Potocki",
+        "date": "brak danych",
+        "info": "marszałek RN",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "G. A. Archetti",
+        "date": "brak danych",
+        "info": "nuncjusz papieski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Maria Dogrumowa",
+        "date": "1784",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. K. Czartoryski",
+        "date": "1784",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Komarzewski",
+        "date": "brak danych",
+        "info": "zaufany królewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Ryx",
+        "date": "brak danych",
+        "info": "zaufany królewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Izabela Lubomirska",
+        "date": "brak danych",
+        "info": "zaangażowana w antykrólewską propagandę",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "F. K. Branicki",
+        "date": "brak danych",
+        "info": "hetman, wspomniany incydentalnie",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "gen. Komarzewski",
+        "date": "brak danych",
+        "info": "szef kancelarii wojskowej króla",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Augustyn Deboli",
+        "date": "1774",
+        "info": "kierownik placówki petersburskiej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ogrodzki",
+        "date": "brak danych",
+        "info": "szef Gabinetu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Anna Tyszkiewiczowa",
+        "date": "brak danych",
+        "info": "konkurentka Tyzenhauza w W. Ks. Lit.",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tyzenhauz",
+        "date": "brak danych",
+        "info": "monopolista polityki królewskiej w W. Ks. Lit. do 1780 roku",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Joachim Chreptowicz",
+        "date": "brak danych",
+        "info": "podkanclerzy litewski, prowadził politykę królewską w W. Ks. Lit. po Tyzenhauzie",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "1786",
+        "info": "imperatorowa Rosji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "G. Patiomkin",
+        "date": "1787",
+        "info": "były faworyt Katarzyny II",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. Bezborodko",
+        "date": "1787",
+        "info": "członek rosyjskiego Kolegium Spraw Zagranicznych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef II",
+        "date": "1787",
+        "info": "cesarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stackelberg",
+        "date": "1787",
+        "info": "rosyjski dyplomata",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Szczęsny Potocki",
+        "date": "brak danych",
+        "info": "wojewoda ruski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "I. Potocki",
+        "date": "brak danych",
+        "info": "przywódca antykrólewskiej opozycji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. K. Czartoryski",
+        "date": "brak danych",
+        "info": "przywódca antykrólewskiej opozycji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "S. Rzewuski",
+        "date": "brak danych",
+        "info": "przywódca antykrólewskiej opozycji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "ks. Stanisław",
+        "date": "brak danych",
+        "info": "dowódca brygady kawalerii narodowej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Sz. Potocki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stackelberg",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "brak danych",
+        "info": "imperatorowa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "G. Lucchesini",
+        "date": "brak danych",
+        "info": "nowy poseł Prus",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "F. K. Branicki",
+        "date": "brak danych",
+        "info": "hetman",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "I. Potocki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Julian Niemcewicz",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Deboli",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Kossakowski",
+        "date": "brak danych",
+        "info": "zausznik ambasadora",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Ożarowski",
+        "date": "brak danych",
+        "info": "zausznik ambasadora",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Lucchesini",
+        "date": "brak danych",
+        "info": "poseł pruski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "S. Małachowski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kaunitz",
+        "date": "brak danych",
+        "info": "kanclerz austriacki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Woyna",
+        "date": "brak danych",
+        "info": "poseł polski w Wiedniu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Małachowski",
+        "date": "brak danych",
+        "info": "marszałek",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Lucchesini",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "D. Hailes",
+        "date": "brak danych",
+        "info": "poseł angielski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Potocki",
+        "date": "brak danych",
+        "info": "poseł polski w Stambule",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Hugo Kołłątaj",
+        "date": "brak danych",
+        "info": "doradca Małachowskiego, inspirator i orędownik ruchu mieszczańskiego",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Kostka Potocki",
+        "date": "24 IX 1789",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Scipione Piattoli",
+        "date": "brak danych",
+        "info": "Włoch, cieszący się zaufaniem I. Potockiego, który wszedł w służbę S-a",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Julian Niemcewicz",
+        "date": "brak danych",
+        "info": "obserwator",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk August",
+        "date": "brak danych",
+        "info": "elektor saski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyka",
+        "date": "brak danych",
+        "info": "królewna pruska",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Debolego",
+        "date": "22 I 1791",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kołłątaj",
+        "date": "17 V 1791",
+        "info": "podkanclerzy koronny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "brak danych",
+        "info": "imperatorka Rosji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Bułhakow",
+        "date": "18 V 1792",
+        "info": "poseł rosyjski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "S. Rzewuski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "ks. Józef Poniatowski",
+        "date": "brak danych",
+        "info": "dowódca armii polskiej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. K. Czartoryski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Staszic",
+        "date": "1787",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Lucchesini",
+        "date": "kwiecień 1792",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Małachowski",
+        "date": "23 VII 1792",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tadeusz Kościuszko",
+        "date": "brak danych",
+        "info": "wyższy oficer armii polskiej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piattolego",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Kostka Potocki",
+        "date": "brak danych",
+        "info": "generał",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Konstanty",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk Henning",
+        "date": "1793",
+        "info": "Komisarz w Gdańsku",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Regulski",
+        "date": "brak danych",
+        "info": "inspektor mennicy",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef",
+        "date": "brak danych",
+        "info": "książę",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Sievers",
+        "date": "brak danych",
+        "info": "ambasador rosyjski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk Moszyński",
+        "date": "brak danych",
+        "info": "marszałek wielki koronny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kazimierz Raczyński",
+        "date": "brak danych",
+        "info": "były marszałek nadworny koronny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Antoni Karski",
+        "date": "brak danych",
+        "info": "posł",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Antoni Dzieduszycki",
+        "date": "brak danych",
+        "info": "generalny dyrektor poczty",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef",
+        "date": "brak danych",
+        "info": "biskup inflancki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Szymon Kossakowski",
+        "date": "brak danych",
+        "info": "hetman wielki litewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Poniatowski",
+        "date": "brak danych",
+        "info": "prymas",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ludwik Tyszkiewicz",
+        "date": "brak danych",
+        "info": "marszałek wielki litewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Sievers",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "O. Igelström",
+        "date": "1793",
+        "info": "dowódca rosyjskich wojsk okupacyjnych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Antoni Madaliński",
+        "date": "1794",
+        "info": "brygadier kawalerii narodowej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ks. Józef",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ignacy Zakrzewski",
+        "date": "1794",
+        "info": "członek Rady Zastępczej Tymczasowej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Lubomirski",
+        "date": "1794",
+        "info": "generał",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "I. Potocki",
+        "date": "1794",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tomasz Wawrzecki",
+        "date": "brak danych",
+        "info": "naczelnik powstania",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. W. Suworow",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "I. Asch",
+        "date": "brak danych",
+        "info": "radca ambasady rosyjskiej w Warszawie",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "1794",
+        "info": "imperatorowa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Repnin",
+        "date": "brak danych",
+        "info": "gen.-gubernator lit.",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "E. Bezborodko",
+        "date": "brak danych",
+        "info": "gen.",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Paweł I",
+        "date": "1796",
+        "info": "cesarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Onufry Kicki",
+        "date": "1796",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "K. Hoym",
+        "date": "1796",
+        "info": "minister",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk Wilhelm II",
+        "date": "1796",
+        "info": "król pruski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Chrzciciel Albertrand",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "ks. Józef",
+        "date": "1796",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Dąbrowski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Mikołaj Wolski",
+        "date": "1795",
+        "info": "szambelan królewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Paweł I",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Bezborodko",
+        "date": "brak danych",
+        "info": "kanclerz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Voltaire",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "D. Diderot",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. J. Rousseau",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "G. Mably",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Wielhorski",
+        "date": "brak danych",
+        "info": "przedstawiciel konfederacji barskiej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "pani Geoffrin",
+        "date": "1766",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "M. Grimm",
+        "date": "brak danych",
+        "info": "redaktor «Correspondance Littéraire»",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Wolf Henryk Wickedée",
+        "date": "brak danych",
+        "info": "polski rezydent w Hamburgu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Alojzy Husarzewski",
+        "date": "brak danych",
+        "info": "komisarz królewski w Gdańsku",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Fryderyk Ernest Henning-Henniński",
+        "date": "brak danych",
+        "info": "komisarz królewski w Gdańsku",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Luzac",
+        "date": "brak danych",
+        "info": "wydawca „Gazette de Leyde”",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Mauzon",
+        "date": "brak danych",
+        "info": "wydawca „Courrier du Bas Rhin”",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Filippo Mazzei",
+        "date": "1789",
+        "info": "pół oficjalny przedstawiciel S-a we Francji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Karol Perthées",
+        "date": "brak danych",
+        "info": "kartograf",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. F. Carosiego",
+        "date": "brak danych",
+        "info": "badacz terenowy",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Okraszewski",
+        "date": "brak danych",
+        "info": "badacz terenowy",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "August Moszyński",
+        "date": "brak danych",
+        "info": "były stolnik w. kor.",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Krzysztof Szembek",
+        "date": "10 IV 1782",
+        "info": "bp. płocki",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "F. L. Harrscha",
+        "date": "brak danych",
+        "info": "oszust",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "W. Herschel",
+        "date": "brak danych",
+        "info": "astronom",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Marcin Poczobut",
+        "date": "brak danych",
+        "info": "astronom",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Śniadecki",
+        "date": "brak danych",
+        "info": "astronom",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Adam Naruszewicz",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Mniszch",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Feliks Łoyko",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Maciej Dogiel",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Albertrandi",
+        "date": "brak danych",
+        "info": "badacz biblioteczno-archiwalny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Trembecki",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Salezy Jezierski",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Bohomolec",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Zabłocki",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Adam Naruszewicz",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Naruszewicz",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Trembecki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Zabłocki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ignacy Krasicki",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stefan Łuskin",
+        "date": "1773",
+        "info": "ksiądz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Dufour",
+        "date": "brak danych",
+        "info": "drukarz-wydawca",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Gröll",
+        "date": "brak danych",
+        "info": "drukarz-wydawca",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Piotr Świtkowski",
+        "date": "brak danych",
+        "info": "eks-jezuita, wydawca miesięcznika",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Lex",
+        "date": "brak danych",
+        "info": "księgarz i właściciel czytelni",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Ryx",
+        "date": "brak danych",
+        "info": "kamerdyner",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "August Sułkowski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tyzenhauz",
+        "date": "1785",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Wojciech Bogusławski",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Steffan",
+        "date": "1779",
+        "info": "muzyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "G. Paisiello",
+        "date": "1784",
+        "info": "kompozytor",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Luiza Todi",
+        "date": "1784",
+        "info": "śpiewaczka",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jakub Fontana",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Szymon Bogumił Zug",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Efraim Schröger",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jakub Kubicki",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Zawadzki",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Bogumił Plersch",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Łukasz Smuglewicz",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Marceli Bacciarelli",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Bernardo Canaletto",
+        "date": "1767",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jean Pillement",
+        "date": "1765",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Louis Marteau",
+        "date": "1766",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Per Krafft",
+        "date": "1767",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Domenico Merlini",
+        "date": "1773",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Kamsetzer",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Victor Louis",
+        "date": "1765",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. L. Prieure",
+        "date": "brak danych",
+        "info": "architekt",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Le Brun",
+        "date": "1768",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Giacomo Monaldi",
+        "date": "1768",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Pinck",
+        "date": "brak danych",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tomasso Righi",
+        "date": "brak danych",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Filip Holzhaeusser",
+        "date": "1766",
+        "info": "rytownik stempli i medalier",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Regulski",
+        "date": "brak danych",
+        "info": "medalier",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Aleksander Kucharski",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Smuglewicz",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Anna Rajecka",
+        "date": "brak danych",
+        "info": "malarka",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Wall",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Zygmunt Vogel",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Chrzciciel Lampi",
+        "date": "brak danych",
+        "info": "portrecista",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. M. Vien",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "F. G. Casanova",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. A. Houdon",
+        "date": "brak danych",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. Canova",
+        "date": "brak danych",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Franciszek Rzewuski",
+        "date": "1775-1781",
+        "info": "marszałek nadworny koronny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Mniszech",
+        "date": "1781",
+        "info": "marszałek nadworny litewski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tomasz Ostrowski",
+        "date": "1781",
+        "info": "kasztelan czerski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Potocki",
+        "date": "1777",
+        "info": "krajczy koronny",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Kacper Lubomirski",
+        "date": "1764",
+        "info": "generał",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Teodor Szydłowski",
+        "date": "1764",
+        "info": "chorąży warszawski",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "August Sułkowski",
+        "date": "1765",
+        "info": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Pius Kiciński",
+        "date": "brak danych",
+        "info": "członek Komisji Ekonomicznej",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Paweł I",
+        "date": "1798",
+        "info": "car Rosji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Felicjan Sławoj Składkowski",
+        "date": "1938",
+        "info": "premier RP",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Katarzyna II",
+        "date": "brak danych",
+        "info": "cesarzowa Rosji",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Marcin Matuszewicz",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jędrzej Kitowicz",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Antoni Jabłonowski",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Niemcewicz",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ludwik Cieszkowski",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Moszczeński",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Kossakowski",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. J. Czartoryski",
+        "date": "brak danych",
+        "info": "autor pamiętników",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Joachim Lelewel",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tadeusz Korzon",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Szymon Askenazy",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Walerian Kalinka",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Władysław Konopczyński",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Emanuel Rostworowski",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Wasylewski",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Aleksander Świętochowski",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jerzy Łojek",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Karol Zbyszewski",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Krystyna Zienkowska",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Stanisław Mackiewicz",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Paweł Jasienica",
+        "date": "brak danych",
+        "info": "publicysta",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Andrzej Zahorski",
+        "date": "brak danych",
+        "info": "historyk",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Henryk Rzewuski",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Lucjan Siemieński",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Józef Ignacy Kraszewski",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Władysław Stanisław Reymont",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tadeusz Łopalewski",
+        "date": "brak danych",
+        "info": "pisarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Ignacy Grabowski",
+        "date": "brak danych",
+        "info": "dramaturg",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Tadeusz Miciński",
+        "date": "brak danych",
+        "info": "dramaturg",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Roman Brandstaetter",
+        "date": "brak danych",
+        "info": "dramaturg",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jerzy Sito",
+        "date": "brak danych",
+        "info": "dramaturg",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Bogdan Śmigielski",
+        "date": "brak danych",
+        "info": "dramaturg",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Bacciarello",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Krafft",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Lampi",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "E. Vigée-Lebrun",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "J. Pitschmann",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Marteau",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. Albertrandi",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jan Matejko",
+        "date": "brak danych",
+        "info": "malarz",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "A. Le Brun",
+        "date": "brak danych",
+        "info": "rzeźbiarz",
+        "result": null,
+        "pj_note": ""
+    }
+]

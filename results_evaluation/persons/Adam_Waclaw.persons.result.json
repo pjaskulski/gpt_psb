@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Katarzyna Sydonja",
+        "date": "brak danych",
+        "info": "księżniczka saska",
+        "result": false,
+        "pj_note": "to matka bohatera"
+    },
+    {
+        "name": "Emeryk Forgach",
+        "date": "brak danych",
+        "info": "żupan trenczyński",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "Stefan Batory",
+        "date": "brak danych",
+        "info": "król",
+        "result": false,
+        "pj_note": "król tylko wydał zgodę na powtórny ślub matki"
+    },
+    {
+        "name": "Rudolf II",
+        "date": "brak danych",
+        "info": "Habsburg",
+        "result": true,
+        "pj_note": "stał po stronie Rudolfa w wojnie z Maciejem Habsburgiem"
+    },
+    {
+        "name": "Maciej",
+        "date": "1611",
+        "info": "Habsburg",
+        "result": true,
+        "pj_note": "cesarz Maciej mianował bohatera radcą i powierzył zarząd Śląska"
+    },
+    {
+        "name": "Leonard",
+        "date": "1614",
+        "info": "dominikanin",
+        "result": true,
+        "pj_note": "spowiednik bohatera"
+    },
+    {
+        "name": "Mik. Zebrzydowski",
+        "date": "1614",
+        "info": "wojewoda, fundator Kalwarii Zebrzydowskiej",
+        "result": true,
+        "pj_note": "W Kalwarji przyjmował go uroczyście jej fundator, wojewoda Mik. Zebrzydowski"
+    },
+    {
+        "name": "Fryderyk Wilhelm",
+        "date": "brak danych",
+        "info": "ostatni cieszyński Piast męski",
+        "result": false,
+        "pj_note": "to syn bohatera"
+    },
+    {
+        "name": "Elżbieta Lukrecja",
+        "date": "brak danych",
+        "info": "ostatnia Piastówna",
+        "result": false,
+        "pj_note": "to córka bohatera"
+    }
+]

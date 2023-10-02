@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Leon Radziwiłł",
+        "date": "brak danych",
+        "info": "brak danych",
+        "result": false,
+        "pj_note": "to ojciec bohatera"
+    },
+    {
+        "name": "K. Wilczyński",
+        "date": "1858",
+        "info": "wydawca 'Albumu wileńskiego'",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "K. Bartoszewicz",
+        "date": "1888–1890",
+        "info": "wydawca piosenek i satyr B.",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "Wańkowicz",
+        "date": "brak danych",
+        "info": "rodzina posiadająca część spuścizny B.",
+        "result": true,
+        "pj_note": ""
+    }
+]

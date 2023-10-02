@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Albertus Andree de Sczebrzesin",
+        "date": "1554",
+        "info": "student Uniwersytetu Krakowskiego",
+        "result": false,
+        "pj_note": "to alternatywne dane bohatera, pod tym mianem wpisał się na Uniwersytet Krakowski"
+    },
+    {
+        "name": "Jan de Sacrobusto",
+        "date": "1562",
+        "info": "autor 'Sfery'",
+        "result": false,
+        "pj_note": "to nie ważna osoba dla bohatera tyllko autor dzieła"
+    },
+    {
+        "name": "Grzegorz z Sambora",
+        "date": "1562/3",
+        "info": "poeta",
+        "result": true,
+        "pj_note": "osoba za którą bohater prowadził wykłady"
+    },
+    {
+        "name": "Terencjusz",
+        "date": "1563",
+        "info": "autor komedii 'Adelphos'",
+        "result": true,
+        "pj_note": "to nie ważna osoba dla bohatera tyllko autor dzieła"
+    },
+    {
+        "name": "T. Linacre",
+        "date": "1563/4",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to nie ważna osoba dla bohatera tyllko autor dzieła"
+    },
+    {
+        "name": "Zygmunt August",
+        "date": "1569",
+        "info": "król, który zatwierdził postanowienia organizacyjne dla polskich klasztorów duchaków",
+        "result": true,
+        "pj_note": "Z podniety jego uchwalono szereg ważnych postanowień organizacyjnych dla polskich klasztorów duchaków, które potem zatwierdził król Zygmunt August"
+    },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "Jan Krzysztof Tarnowski, któremu bohater poświęcił utwór"
+    },
+    {
+        "name": "J. Despauterius",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    },
+    {
+        "name": "W. Valli",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    },
+    {
+        "name": "Jan Honter",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    },
+    {
+        "name": "B. Herbest",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    },
+    {
+        "name": "Jakób Górski",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    },
+    {
+        "name": "W. Novicampian",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    },
+    {
+        "name": "Grzegorz z Sambora",
+        "date": "1567",
+        "info": "autor gramatyki łacińskiej",
+        "result": false,
+        "pj_note": "to autor dzieła z którego korzystał bohater podczas pisania podręcznika gramatyki łacińskiej"
+    }
+]

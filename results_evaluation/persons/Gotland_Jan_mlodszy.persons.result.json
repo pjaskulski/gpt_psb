@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Hans Gotland",
+        "date": "brak danych",
+        "info": "murator, starszy cechu w Toruniu",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Jakub",
+        "date": "brak danych",
+        "info": "mistrz budowlany",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "Św. Wawrzyńca",
+        "date": "1427",
+        "info": "święty, patron kościoła",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "name": "OO. Franciszkanów",
+        "date": "1437-45",
+        "info": "zakon franciszkański",
+        "result": null,
+        "pj_note": ""
+    }
+]
