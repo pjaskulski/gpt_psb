@@ -23,20 +23,17 @@
     },
     "functions": [
         "pedagog",
-        "autorka powieści i opowiadań dla dzieci i młodzieży",
-        "tłumaczka powieści i opowiadań dla dzieci i młodzieży",
+        "autorka",
+        "tłumaczka",
         "nauczycielka domowa",
         "członek Ligi Narodowej",
         "członek zarządu Towarzystwa Oświaty Narodowej",
-        "członek zarządu Polskiej Macierzy Szkolnej",
-        "prezes Koła im. Zofii Bukowieckiej w Polskiej Macierzy Szkolnej",
-        "kierownik wydawania 'Biblioteczki Uniwersytetów Ludowych' i 'Biblioteczki Młodzieży Szkolnej'",
-        "organizator i kierownik sekcji języka polskiego przy Stowarzyszeniu Nauczycielstwa Polskiego",
-        "członek zarządu Komisji Ochron w Kuratorium Obywatelskim Rodzin Rezerwistów Warszawy",
-        "współpracownik Polskiego Towarzystwa Pomocy Ofiarom Wojny",
-        "organizator i kierownik Gimnazjum Macierzy Szkolnej w Kijowie",
+        "członek zarządu Komisji Ochron",
+        "dyrektorka Gimnazjum Macierzy Szkolnej",
+        "prezes Koła im. Zofii Bukowieckiej",
+        "redaktorka",
         "tłumaczka literatury młodzieżowej",
-        "opracowywaczka podręczników do nauki języka polskiego, stylistyki i gramatyki"
+        "autorka podręczników szkolnych"
     ],
     "institutions": [
         {

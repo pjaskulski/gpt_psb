@@ -2,23 +2,25 @@
     "name": "Mikołaj Kopernik",
     "psb_id": "PSB-14-0003",
     "biogram_file": "Kopernik_Mikolaj.txt",
-    "place_of_birth":{
-        "place":"Toruń", "note":"ul. Św. Anny"
-        },
-    "place_of_death":{
-        "place":"Frombork"
-        },
-    "place_of_burial":{
-        "place": "Frombork", "note": "przy należącym do jego kanonii ołtarzu św. Bartłomieja w południowo-zachodniej części katedry fromborskiej"
-        },
-    "date_of_birth":{
-        "date":"1473-02-19"
-        },
-    "date_of_death":{
-        "date":"1543-05-24"
-        },
-    "date_of_burial":{
-        "date":"brak danych"
+    "place_of_birth": {
+        "place": "Toruń",
+        "note": "ul. Św. Anny"
+    },
+    "place_of_death": {
+        "place": "Frombork"
+    },
+    "place_of_burial": {
+        "place": "Frombork",
+        "note": "przy należącym do jego kanonii ołtarzu św. Bartłomieja w południowo-zachodniej części katedry fromborskiej"
+    },
+    "date_of_birth": {
+        "date": "1473-02-19"
+    },
+    "date_of_death": {
+        "date": "1543-05-24"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
     },
     "functions": [
         "astronom",
@@ -26,34 +28,30 @@
         "lekarz",
         "humanista",
         "kanonik warmiński",
-        "kanonik włocławski",
         "scholaster św. Krzyża we Wrocławiu",
-        "doktor prawa kanonicznego",
+        "kanonik w kapitule warmińskiej",
         "Professor Mathematum",
+        "doktor prawa kanonicznego",
         "sekretarz",
         "powiernik",
         "lekarz przyboczny",
         "magister pistoriae",
         "kanclerz",
         "wizytator dóbr kapitulnych",
-        "administrator dóbr wspólnych kapituły warmińskiej",
+        "administratorem dóbr wspólnych kapituły warmińskiej",
         "komisarz Warmii",
+        "wizytator kapituły",
+        "nuncius capituli",
         "generalny administrator diecezji warmińskiej",
         "delegat kapituły",
         "kartograf",
-        "lekarz biskupów warmińskich",
-        "lekarz konfratrów w kapitule",
-        "lekarz w Elblągu",
-        "lekarz w Gdańsku",
-        "lekarz w Lubawie",
-        "lekarz w Królewcu",
-        "lekarz dla ludności Warmii",
-        "lekarz dla ubogich chorych we wsiach kapitulnych",
+        "lekarz praktykujący",
         "collector aniversariorum, mortuarius",
         "assistentia munitionis",
         "przełożony kasy budowlanej (fabrica ecclesiae)",
         "pełnomocnik kapituły",
-        "scholasteria św. Krzyża we Wrocławiu"
+        "kandydat na stolicę biskupią",
+        "koadiutor z prawem następstwa"
     ],
     "institutions": [
         {

@@ -28,9 +28,9 @@
         "członek Organizacji Młodzieży Narodowej",
         "członek Związku Strzeleckiego",
         "żołnierz Oddziału Lotnego Wojsk Polskich",
-        "komendant okręgu Polskiej Organizacji Wojskowej (POW)",
-        "zastępca komendanta okręgu Polskiej Organizacji Wojskowej (POW)",
-        "członek Polskiej Partii Socjalistycznej (PPS)",
+        "komendant okręgu Polskiej Organizacji Wojskowej",
+        "zastępca komendanta okręgu Polskiej Organizacji Wojskowej",
+        "członek Polskiej Partii Socjalistycznej",
         "członek Wydziału Pogotowia Pogotowia Bojowego PPS",
         "podporucznik Wojska Polskiego",
         "inspektor główny Milicji Ludowej",
@@ -38,7 +38,7 @@
         "student Wolnej Wszechnicy Polskiej",
         "student uniwersytetu",
         "dowódca plutonu 201 pułku piechoty",
-        "dowódca kompanii na froncie litewsko-polskim"
+        "dowódca kompanii"
     ],
     "institutions": [
         {

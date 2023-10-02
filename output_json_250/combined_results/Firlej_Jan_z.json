@@ -3,45 +3,44 @@
     "psb_id": "PSB-07-0001",
     "biogram_file": "Firlej_Jan_z.txt",
     "date_of_birth": {
-        "date":"1521", "note":"około"
+        "date": "1521",
+        "note": "około"
     },
     "place_of_birth": {
-        "place":"brak danych"
+        "place": "brak danych"
     },
     "date_of_death": {
-        "date":"1574-04-25"
+        "date": "1574-04-25"
     },
     "place_of_death": {
-        "place":"Kraków"
+        "place": "Kraków"
     },
     "date_of_burial": {
-        "date":"1574-08-27", "note":"lub 28 sierpnia"
+        "date": "1574-08-27",
+        "note": "lub 28 sierpnia"
     },
     "place_of_burial": {
-        "place":"Kock", "note": "kościół parafialny"
+        "place": "Kock",
+        "note": "kościół parafialny"
     },
     "functions": [
         "wojewoda krakowski",
         "marszałek w. koronny",
         "dworzanin Zygmunta I",
-        "posłowiec",
-        "sekretarz",
+        "sekretarz Zygmunta Augusta",
         "kasztelan bełski",
         "wojewoda bełski",
         "wojewoda lubelski",
-        "starosta rohatyński",
-        "starosta krakowski",
+        "marszałek koronny",
+        "wojewoda i starosta krakowski",
+        "starosta kazimirski",
+        "starosta",
+        "wojewoda",
         "marszałek",
-        "działacz polit.",
-        "deputat",
-        "kanclerz koronny",
-        "marszałek obwieścił tłumom wybór Henryka",
-        "członek delegacji do zbadania praw Prus Królewskich w stosunku do Polski",
-        "deputat do skontrolowania rachunków obu skarbów i obmyślenia pokrycia żołdu tudzież innych potrzeb państwa",
-        "marszałek obwieścił zebranym fakt złożenia przez króla przysięgi, podobnej do paryskiej",
-        "kasztelan rawski",
-        "wybitny działacz polit.",
-        "różnowierczy"
+        "członek delegacji do zbadania praw Prus Królewskich",
+        "deputat do skontrolowania rachunków obu skarbów",
+        "deputat do obmyślenia pokrycia żołdu tudzież innych potrzeb państwa",
+        "deputat"
     ],
     "institutions": [
         {

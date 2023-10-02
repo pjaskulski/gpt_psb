@@ -25,6 +25,7 @@
     "functions": [
         "podróżnik",
         "generał lejtnant wojsk rosyjskich",
+        "ochotnik do pułku ułanów gwardii",
         "adiutant gen. Skobelewa",
         "adiutant gen. Witgensteina",
         "pomocnik naczelnika powiatu margelańskiego",
@@ -39,9 +40,9 @@
         "przedstawiciel Rosyjskiego Czerwonego Krzyża w Hiszpanii",
         "emerytowany generał",
         "naczelnik Państw. Instytutu Meteorologicznego",
-        "członek Pol. Tow. Geograficznego",
-        "skarbnik Pol. Tow. Geograficznego",
-        "członek korespondent Pol. Tow. Geograficznego"
+        "członek Polskiego Towarzystwa Geograficznego",
+        "skarbnik Polskiego Towarzystwa Geograficznego",
+        "członek korespondent Polskiego Towarzystwa Geograficznego"
     ],
     "institutions": [
         {

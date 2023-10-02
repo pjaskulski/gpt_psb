@@ -2,63 +2,50 @@
     "name": "Adam Jerzy Czartoryski",
     "psb_id": "PSB-04-0374",
     "biogram_file": "Czartoryski_Adam_Jerzy.txt",
-    "date_of_birth":{
-        "date":"1770-01-14", 
-        "note":"lub 1770-01-11"
-        },
-    "place_of_birth":{"place":"Warszawa"},
-    "date_of_death":{"date":"1861-07-15"},
-    "place_of_death":{"place":"Montfermeil"},
-    "date_of_burial":{"date":"brak danych"},
-    "place_of_burial":{"place": "brak danych"},
+    "date_of_birth": {
+        "date": "1770-01-14",
+        "note": "lub 1770-01-11"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1861-07-15"
+    },
+    "place_of_death": {
+        "place": "Montfermeil"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
     "functions": [
         "mąż stanu",
         "ochotnik do wojska litewskiego",
         "kamerjunkier",
         "brygadier w armii",
         "adiutant w. ks. Aleksandra",
-        "poseł w Sardynii",
-        "książę",
-        "członek niejawnego komitetu",
-        "minister",
+        "posł w Sardynii",
         "członek rady do spraw szkolnych w Ministerstwie Oświaty",
         "członek komitetu urządzenia żydów",
-        "kurator",
+        "kurator okręgu naukowego wileńskiego",
         "zwierzchnik Uniwersytetu Wileńskiego",
         "minister spraw zagranicznych",
-        "członek senatu",
+        "książę",
+        "senator",
         "członek rady państwa",
+        "kurator",
         "dygnitarz rosyjski",
         "wicekról",
-        "członek Komitetu Centralnego",
-        "członek Rady Administracyjnej",
         "senator-wojewoda",
-        "członek kuratorium",
-        "promotor ruchu filheleńskiego",
-        "promotor nastrojów italofilskich",
+        "członek Rady Administracyjnej",
         "prezydent wydziału wykonawczego Rady Administracyjnej",
-        "przewodniczący Rządu tymczasowego",
-        "członek Rady Najwyższej Narodowej",
+        "prezes Rządu tymczasowego",
         "prezes Rządu Narodowego",
-        "wódz",
-        "dyktator",
-        "ochotnik w korpusie Ramoriny",
-        "kierownik polityki zagranicznej",
-        "kierownik szkoły dla panien",
-        "kierownik szkoły na Montparnasie",
-        "kierownik Biblioteki Polskiej",
-        "kierownik Towarzystwa Historyczno-Literackiego",
-        "kierownik Stowarzyszenia Pomocy Naukowej",
-        "kierownik Literackiego Stowarzyszenia Przyjaciół Polski",
-        "kierownik instytucji dobroczynnych",
-        "kierownik czasopism",
-        "kierownik przedsięwzięć naukowych",
-        "kierownik organizacji konspiracyjnej",
-        "kierownik agencji wschodniej",
-        "kierownik agencji zachodniej",
-        "kierownik legionów polskich we Francji",
-        "kierownik organizacji ogólno-słowiańskiej",
-        "kierownik oddziałów polskich z polskimi sztandarami u boku aljantów",
+        "dyplomata",
+        "wojskowy",
         "prezydent Bureau des affaires polonaises"
     ],
     "institutions": [

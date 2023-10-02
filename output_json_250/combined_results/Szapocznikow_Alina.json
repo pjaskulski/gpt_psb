@@ -2,29 +2,37 @@
     "name": "Alina Szapocznikow",
     "psb_id": "PSB-47-0025",
     "biogram_file": "Szapocznikow_Alina.txt",
-    "date_of_birth": {"date": "1926-05-16"},
-    "place_of_birth": {"place": "Kalisz"},
-    "date_of_death": {"date": "1973-03-02"},
-    "place_of_death": {"place": "Praz-Contant"},
-    "date_of_burial": {"date": "1973-03-06"},
-    "place_of_burial": {"place": "Paryż", },
+    "date_of_birth": {
+        "date": "1926-05-16"
+    },
+    "place_of_birth": {
+        "place": "Kalisz"
+    },
+    "date_of_death": {
+        "date": "1973-03-02"
+    },
+    "place_of_death": {
+        "place": "Praz-Contant"
+    },
+    "date_of_burial": {
+        "date": "1973-03-06"
+    },
+    "place_of_burial": {
+        "place": "Paryż"
+    },
     "functions": [
         "rzeźbiarka",
+        "pracownica składu drewna",
+        "skarbnik rodu Potockich",
+        "podkomorzy na dworze kanclerza Ossolińskiego",
         "pracownica praskiej pracowni rzeźbiarza Otokara Velinskiego",
-        "współpracowniczka Bedřicha Stefana przy rekonstrukcji barokowych rzeźb",
         "studentka Wyższej Szkoły Artystyczno-Przemysłowej w Pradze",
         "członkini Komunistycznej Partii Czechosłowacji",
         "studentka École Nationale Supérieure des Beaux-Arts w Paryżu",
         "pracownica zakładów kamieniarskich J. Lerendu",
         "pracownica Pracowni Marszałkowskiej Dzielnicy Mieszkaniowej",
-        "uczestniczka rekonstrukcji dekoracji rzeźbiarskiej kamienic",
-        "rzeźbiarka w pracowni w budynku dawnej Giełdy przy ul. Królewskiej",
-        "uczestniczka organizacji V Międzynarodowego Festiwalu Młodzieży i Studentów w Warszawie",
-        "uczestniczka Symposion Europäischer Bildhauer w St. Margarethen w Austrii",
-        "projektantka nagrobka matki na cmentarzu Powązkowskim",
-        "uczestniczka III Biennale Internazionale di Scultura w Carrarze we Włoszech",
-        "uczestniczka XXXI Biennale Sztuki w Wenecji",
-        "uczestniczka Międzynarodowego Sympozjum Rzeźby w Portorož w Jugosławii"
+        "rzeźbiarka w warszawskiej ASP",
+        "pracownica firmy odlewniczej Susse Fréres"
     ],
     "institutions": [
         {

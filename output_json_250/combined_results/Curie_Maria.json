@@ -25,16 +25,11 @@
         "fizyczka",
         "profesor Uniwersytetu Paryskiego",
         "nauczycielka domowa",
-        "nauczycielka domowa w Szczukach",
-        "profesor Miejskiej Szkoły Fizyki i Chemii w Paryżu",
-        "nauczycielka w École Normale Supérieure dla dziewcząt w Sèvres",
-        "profesor fizyki w Uniwersytecie",
-        "kierowniczka pracowni",
-        "kierownik Instytutu Radowego",
-        "kierownik pracowni radiologicznej",
-        "specjalista w roentgenologii",
-        "organizator stacji roentgenowskich",
-        "członek Akademii Medycyny"
+        "nauczycielka w Szczukach",
+        "kierowniczka pracowni radiologicznej",
+        "nauczycielka w École Normale Supérieure",
+        "profesor w Sorbonie",
+        "kierowniczka Instytutu Radowego"
     ],
     "institutions": [
         {

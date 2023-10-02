@@ -25,14 +25,14 @@
     "functions": [
         "introligator",
         "księgarz",
-        "nakładca poznański",
+        "nakładca",
         "bibliopola",
         "starszy konfraterni kupieckiej",
-        "handlowiec owocami i jarzynami",
-        "handlowiec suknem",
+        "handlarz owocami i jarzynami",
+        "handlarz suknem",
         "producent piwa",
-        "handlowiec winem",
-        "handlowiec skórą i piórami",
+        "handlarz winem",
+        "handlarz skórą i piórami",
         "właściciel nieruchomości"
     ],
     "institutions": [

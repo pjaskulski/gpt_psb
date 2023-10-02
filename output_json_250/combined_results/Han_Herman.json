@@ -23,11 +23,9 @@
         "place": "brak danych"
     },
     "functions": [
-        "malarz",
+        "malarz gdański",
         "obywatel gdański",
-        "właściciel posiadłości ziemskiej",
         "malarz królewski",
-        "restaurator obrazów",
         "mistrz w gdańskim cechu malarskim"
     ],
     "institutions": [

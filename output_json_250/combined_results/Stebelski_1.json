@@ -3,55 +3,48 @@
     "psb_id": "PSB-43-0026",
     "biogram_file": "Stebelski_1.txt",
     "date_of_birth": {
-        "date":"1848-08-31"
+        "date": "1848-08-31"
     },
-    "place_of_birth": { 
-        "place":"Magierów", 
-        "note":"powiat Rawa Ruska"
+    "place_of_birth": {
+        "place": "Magierów",
+        "note": "powiat Rawa Ruska"
     },
     "date_of_death": {
-        "date":"1891-12-23"
+        "date": "1891-12-23"
     },
     "place_of_death": {
-        "place":"Warszawa"
+        "place": "Warszawa"
     },
     "date_of_burial": {
-        "date":"brak danych"
+        "date": "brak danych"
     },
     "place_of_burial": {
-        "place": "Warszawa", 
+        "place": "Warszawa",
         "note": "cmentarz na Bródnie"
     },
     "functions": [
         "poeta",
         "nowelista",
         "dziennikarz",
-        "mandatariusz",
-        "askulant w Sądzie Obwodowym w Stanisławowie",
-        "adiunkt w Sądzie Powiatowym w Chrzanowie",
-        "radca Sądu Obwodowego w Nowym Sączu",
-        "radca Sądu Krajowego Wyższego w Krakowie",
-        "wiceprezydent Sądu Krajowego w Krakowie",
-        "prokurator",
-        "radca dworu",
         "nauczyciel w Gimnazjum im. Franciszka Józefa",
         "pracownik banku",
-        "główny współpracownik czasopisma satyryczno-politycznego „Strachopud”",
-        "współredaktor tygodnika literackiego „Bojan”",
-        "publicysta",
-        "redaktor",
-        "recenzent teatralny",
-        "tłumacz",
-        "autor felietonów społecznych i politycznych",
-        "autor artykułów i przeglądów",
-        "autor humoresek",
-        "autor opowiadań",
-        "autor wierszy",
-        "autor nowel",
+        "współredaktor tygodnika literackiego 'Bojan'",
+        "współpracownik czasopisma satyryczno-politycznego 'Strachopud'",
+        "współpracownik dwutygodnika satyryczno-humorystycznego 'Szczutek'",
+        "współpracownik 'Tygodnia Literackiego, Artystycznego, Naukowego i Społecznego'",
+        "współpracownik 'Kolców'",
+        "współpracownik 'Kuriera Polskiego'",
+        "współpracownik 'Różowego Domino'",
+        "współpracownik 'Dziennika Polskiego'",
+        "redaktor „Strażnicy Polskiej",
         "autor recenzji teatralnych",
-        "redaktor naczelny tygodnika 'Kolce'",
-        "współredaktor 'Muchy'",
-        "pisarz"
+        "redaktor „Kuriera Lwowskiego",
+        "autor utworów literackich",
+        "tłumacz",
+        "redaktor „Kuriera Warszawskiego",
+        "redaktor „Kuriera Codziennym",
+        "redaktor naczelny tygodnika „Kolce",
+        "współredaktor „Muchy"
     ],
     "institutions": [
         {

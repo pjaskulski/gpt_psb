@@ -23,15 +23,10 @@
     },
     "functions": [
         "aktorka",
-        "dyrektor teatrów",
-        "aktor w zespole Józefa Puchniewskiego",
-        "aktor w zespołach objazdowych",
-        "aktor w zespole Felicjana Felińskiego",
-        "aktor w zespole Stanisława Orlika",
-        "aktor w zespole Tadeusza Pola",
-        "aktor w zespole Kazimierza Kamińskiego",
-        "aktor w zespole dramatu Warszawskich Teatrów Rządowych",
-        "aktor w Teatrach Miejskich w Warszawie"
+        "członek wędrownego zespołu teatralnego",
+        "członek zespołu dramatu Warszawskich Teatrów Rządowych",
+        "członek zespołu Teatrów Miejskich Warszawy",
+        "aktorka w filmie 'Niebezpieczny kochanek'"
     ],
     "institutions": [
         {

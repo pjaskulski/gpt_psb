@@ -38,10 +38,12 @@
         "założyciel Inst. Diaków i Nauczycieli Szkół Ludowych",
         "greckokatolicki ordynariusz przemyski",
         "dyrektor Zakł. Filozoficznego",
+        "założyciel drukarni",
         "przewodniczący komisji biednych m. Przemyśla",
         "założyciel Inst. dla Wspierania Wdów i Sierot po Greckokatolickich Duchownych Eparchii Przemyskiej",
-        "rzeczywisty tajny radca dworu",
-        "założyciel Biblioteki Kapitulnej, tzw. Biblioteki Śnigursko-Ławrowskiej"
+        "założyciel greckokatolickiego seminarium duchownego",
+        "założyciel Biblioteki Kapitulnej, tzw. Biblioteki Śnigursko-Ławrowskiej",
+        "rzeczywisty tajny radca dworu"
     ],
     "institutions": [
         {
@@ -119,20 +121,20 @@
     ],
     "relations": [
         {
-            "family_relation":"ojciec", 
-            "person":"Jan Śnigurski"
+            "family_relation": "ojciec",
+            "person": "Jan Śnigurski"
         },
         {
-            "family_relation":"matka", 
-            "person":"Eufrozyna Śnigurska"
+            "family_relation": "matka",
+            "person": "Eufrozyna Śnigurska"
         },
         {
-            "family_relation":"kuzyn", 
-            "person":"Mychajło Werbyćki"
+            "family_relation": "kuzyn",
+            "person": "Mychajło Werbyćki"
         },
         {
-            "family_relation":"kuzyn", 
-            "person":"Jan Śnigurski"
+            "family_relation": "kuzyn",
+            "person": "Jan Śnigurski"
         }
     ],
     "significant_people": [

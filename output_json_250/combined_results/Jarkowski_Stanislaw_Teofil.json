@@ -25,10 +25,10 @@
         "badacz prasy",
         "student Wydziału Filologicznego Uniw. Warsz.",
         "student prawa",
-        "student Akademii Handlowej w Lipsku",
-        "student Wydziału Filozoficznego uniwersytetu w Lipsku",
-        "pracownik księgarni w Lipsku",
-        "redaktor literacki w księgarni E. Wende i Sp.",
+        "student Akademii Handlowej",
+        "student Wydziale Filozoficznym",
+        "pracownik księgarni",
+        "redaktor literacki",
         "członek Tow. Literatów i Dziennikarzy Polskich",
         "pracownik Komitetu Obywatelskiego m. st. Warszawy",
         "członek Komisji Prasowej Rady Głównej Opiekuńczej",
@@ -36,13 +36,12 @@
         "pracownik redakcji „Kuriera Porannego”",
         "pracownik Wydziału prasowego Min. Spraw Wewn.",
         "szef biura prasowego Związku Ziemian",
-        "wicedyrektor biura wycinków prasowych Informacja Prasowa Polska",
-        "dyrektor biura wycinków prasowych Informacja Prasowa Polska",
-        "współtwórca Tow. Wyższej Szkoły Dziennikarskiej",
-        "wykładowca historii prasy w Tow. Wyższej Szkoły Dziennikarskiej",
-        "kierownik biblioteki w Tow. Wyższej Szkoły Dziennikarskiej",
+        "wicedyrektor biura wycinków prasowych",
+        "dyrektor biura wycinków prasowych",
+        "wykładowca historii prasy",
+        "kierownik biblioteki Tow. Wyższej Szkoły Dziennikarskiej",
         "organizator Polskiego Instytutu Prasoznawczego",
-        "uczestnik prac restytucyjnych Wyższej Szkoły Dziennikarskiej"
+        "członek Wyższej Szkoły Dziennikarskiej"
     ],
     "institutions": [
         {

@@ -13,7 +13,7 @@
         "date": "1863-12-28"
     },
     "place_of_death": {
-        "place": "Brażele", 
+        "place": "Brażele",
         "note": "brak danych"
     },
     "date_of_burial": {
@@ -21,13 +21,16 @@
         "note": "brak danych"
     },
     "place_of_burial": {
-        "place": "Bieniakonie", 
+        "place": "Bieniakonie",
         "note": "przy kościele parafialnym"
     },
     "functions": [
         "kompozytorka",
-        "nauczycielka języka francuskiego i włoskiego",
-        "nauczycielka muzyki"
+        "nauczycielka",
+        "żona",
+        "matka",
+        "patriotka",
+        "emisariuszka"
     ],
     "institutions": [
         {

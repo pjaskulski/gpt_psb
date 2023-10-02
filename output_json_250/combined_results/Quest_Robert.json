@@ -23,14 +23,11 @@
     "functions": [
         "lekarz",
         "pediatra",
-        "urzędnik Banku Krajowego we Lwowie",
-        "działacz Tow. Tatrzańskiego",
-        "asystent kliniki dziecięcej we Wrocławiu",
-        "ordynariusz szpitala zakaźnego we Lwowie",
-        "prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii we Lwowie",
+        "asystent kliniki dziecięcej",
+        "ordynariusz szpitala zakaźnego",
+        "prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii",
         "współpracownik zakładu patologii ogólnej i doświadczalnej Uniw. Lwow.",
-        "wykładowca na Uniw. Lwow.",
-        "organizator kolonii dziecięcych"
+        "wykładowca na Uniw. Lwow."
     ],
     "institutions": [
         {
