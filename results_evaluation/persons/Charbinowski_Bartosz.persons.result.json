@@ -3,35 +3,35 @@
         "name": "Włodko",
         "date": "brak danych",
         "info": "cześnik krakowski, starosta lubelski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Piotr Wysz",
         "date": "brak danych",
         "info": "biskup krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "chociaż do daleki krewny - żona bohatera była bratanicą Piotra Wysza"
     },
     {
         "name": "Anna",
         "date": "około 1414",
         "info": "królowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Jastrzębiec",
         "date": "1420",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Synowiec",
         "date": "1410",
         "info": "rycerz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to osoba związana z bratem bohatera"
     }
 ]

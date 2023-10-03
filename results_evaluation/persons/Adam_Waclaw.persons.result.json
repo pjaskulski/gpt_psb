@@ -4,7 +4,7 @@
         "date": "brak danych",
         "info": "księżniczka saska",
         "result": false,
-        "pj_note": "to matka bohatera"
+        "pj_note": "krewny"
     },
     {
         "name": "Emeryk Forgach",
@@ -53,13 +53,13 @@
         "date": "brak danych",
         "info": "ostatni cieszyński Piast męski",
         "result": false,
-        "pj_note": "to syn bohatera"
+        "pj_note": "krewny"
     },
     {
         "name": "Elżbieta Lukrecja",
         "date": "brak danych",
         "info": "ostatnia Piastówna",
         "result": false,
-        "pj_note": "to córka bohatera"
+        "pj_note": "krewny"
     }
 ]

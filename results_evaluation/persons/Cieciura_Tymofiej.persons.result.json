@@ -3,56 +3,61 @@
         "name": "Bohdan Chmielnicki",
         "date": "brak danych",
         "info": "osobisty doradca",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "info jest odwrotnością, to bohater był doradcą Chmielnickiego"
     },
     {
         "name": "B. Kikin",
         "date": "1658",
         "info": "posł moskiewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Romodanowski",
         "date": "1659",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Trubecki",
         "date": "1659",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Niemirycz",
         "date": "1659",
         "info": "ofiara rzezi",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "okrutnie zamordowany przez Kozaków C-y brat hetmana Daniel Wyhowski"
     },
     {
         "name": "Jerzy Chmielnicki",
         "date": "brak danych",
         "info": "hetman",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szeremetiew",
         "date": "brak danych",
         "info": "doradca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Romodanowski",
         "date": "1661",
         "info": "żołnierz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to powtórzenie"
     }
 ]

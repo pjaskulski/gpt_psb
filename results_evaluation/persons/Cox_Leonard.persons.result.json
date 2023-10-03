@@ -3,147 +3,147 @@
         "name": "Henryk Estienne",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Stöffler",
         "date": "1514",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Melanchton",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Decjusz",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Salomon",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Salomon",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Erazm Rotterdamczyk",
         "date": "1519",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Henckel",
         "date": "brak danych",
         "info": "kaznodzieja nadworny Marii królowej węgierskiej, erazmiańczyk, krakowski magister",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Łaski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Hozjusz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anian",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Zebrzydowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Rullus",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maciej Pyrser",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antonin",
         "date": "brak danych",
         "info": "doktor",
-        "result": null,
+        "result":true,
         "pj_note": ""
     },
     {
         "name": "Hugh of Faringdon",
         "date": "1530",
         "info": "opat",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gotfryd Troy",
         "date": "1530",
         "info": "z Bourges",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "sformułowanie z biogramu jest niejasne: Tegoż roku ozdobił Palsgrave’a »L’esclarissement de la langue française« (druk w Londynie) wierszami »ad linguae Gallicae studiosos« i do Gotfrida Troy z Bourges."
     },
     {
         "name": "T. Cromwell",
         "date": "brak danych",
         "info": "arcbp",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna Boleyn",
         "date": "1534",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w Anglii. W r. 1534 ogłosił angielskie tłumaczenie z Erazma pt. The Paraphrasis of Erasmus Roterdame upon the Epistle of saint Paule unto his disciple Titus; w przedmowie do czytelnika zachwycał się faktem, że król został głową Kościoła angielskiego, wspominał z komplementami o małżeństwie z Anną Boleyn"
     },
     {
         "name": "Henryk VIII",
         "date": "1541",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Po upadku Cromwella zwrócił się C. do króla Henryka VIII; ten 10 II 1541 oddał mu ster szkoły w Reading"
     },
     {
         "name": "John Leland",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "autor wiersza o bohaterze: pisał w wierszu »ad L. Coxum« John Leland"
     }
 ]

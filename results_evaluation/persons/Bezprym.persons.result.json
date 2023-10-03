@@ -3,21 +3,21 @@
         "name": "Konrad II",
         "date": "1030",
         "info": "cesarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Rycheza",
         "date": "brak danych",
         "info": "królowa",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Thietmar",
         "date": "brak danych",
         "info": "kronikarz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to kronikarz który pisał o bohaterze, można się zastanawiać czy to 'ważna osoba'"
     }
 ]
