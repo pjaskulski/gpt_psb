@@ -3,1008 +3,1008 @@
         "name": "Ciesielski",
         "date": "brak danych",
         "info": "wychowawca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piramowicz",
         "date": "brak danych",
         "info": "mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kniaźnin",
         "date": "brak danych",
         "info": "mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dupont de Nemours",
         "date": "brak danych",
         "info": "mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Norblin",
         "date": "brak danych",
         "info": "mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Schow",
         "date": "brak danych",
         "info": "mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Groddeck",
         "date": "brak danych",
         "info": "mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Herder",
         "date": "1786",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wieland",
         "date": "1786",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Goethe",
         "date": "1786",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piattoli",
         "date": "brak danych",
         "info": "sekretarz księżnej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Potocki Stanisław",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Niemcewicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Clark",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Robertson",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lansdowne",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nazwisko brytyjskiej rodziny nie ważna osoba"
     },
     {
         "name": "Argyle",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nazwisko brytyjskiej rodziny nie ważna osoba"
     },
     {
         "name": "Strafford",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nazwisko brytyjskiej rodziny nie ważna osoba"
     },
     {
         "name": "Hamilton",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nazwisko brytyjskiej rodziny nie ważna osoba"
     },
     {
         "name": "L. Wirtemberski",
         "date": "1792",
         "info": "dowódca wojskowy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kościuszko",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Repnin",
         "date": "brak danych",
         "info": "gen. gubernator litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Katarzyna",
         "date": "brak danych",
         "info": "carowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł",
         "date": "brak danych",
         "info": "car",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander",
         "date": "brak danych",
         "info": "w. ks.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Luiza-Elżbieta",
         "date": "brak danych",
         "info": "w. księżna",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Emanuel IV",
         "date": "brak danych",
         "info": "król Sardynii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lewaszew",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Alfieri",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stroganow",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Nowosilcow",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Koczubej",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "La Harpe",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fr. Wilhelm III",
         "date": "brak danych",
         "info": "król Prus",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater chyba nie zetknął się z królem Prus, wzmianka w biogramie dotyczy cara Alaksandra"
     },
     {
         "name": "Izabela Fleming",
         "date": "brak danych",
         "info": "matka",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Woroncow",
         "date": "brak danych",
         "info": "zastępca w sprawach zagranicznych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale w info jest odwrotna informacja to bohater był zastępcą Woroncowa"
     },
     {
         "name": "Adam Kazimierz",
         "date": "brak danych",
         "info": "członek rady do spraw szkolnych w Ministerstwie Oświaty",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Tadeusz Czacki",
         "date": "brak danych",
         "info": "współpracownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Niemcewicz",
         "date": "listopad 1806",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander",
         "date": "brak danych",
         "info": "cesarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Budberg",
         "date": "wiosna 1806",
         "info": "minister",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stroganow",
         "date": "4 VI 1807",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Czarny",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Pozzo di Borgo",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Capo d’Istria",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Rodofinikin",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ipsilantowie",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Napoleon",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef",
         "date": "brak danych",
         "info": "wódz armii polskiej",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście nie widać związku z bohaterem"
     },
     {
         "name": "Stanisław Potocki",
         "date": "brak danych",
         "info": "prezydent rządu",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście nie widać związku z bohaterem"
     },
     {
         "name": "Ogiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście nie widać związku z bohaterem"
     },
     {
         "name": "Lubomirski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście nie widać związku z bohaterem"
     },
     {
         "name": "Plater",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście nie widać związku z bohaterem"
     },
     {
         "name": "Aleksander",
         "date": "1811",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to powtórzenie informacji"
     },
     {
         "name": "Józef",
         "date": "1811",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ks. Adam podjął się wywiadu. Dn. 15 II widział się z ks. Józefem."
     },
     {
         "name": "Serra",
         "date": "1811",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ktoś kto pisał o misji bohatera nie wiedząc że to bohater jest jej wykonawcą"
     },
     {
         "name": "Adam Kazimierz Czartoryski",
         "date": "1812",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Metternich",
         "date": "1812",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maret",
         "date": "1812",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Napoleon",
         "date": "1812",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Konstanty",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Castlereagh",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kościuszko",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to powtórzenie"
     },
     {
         "name": "Stewart",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Biernacki",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Elżbieta",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Pozzo",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stein",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Talleyrand",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Metternich",
         "date": "1814",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konstanty",
         "date": "brak danych",
         "info": "brat",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie, błąd w info, chodzi o brata cara Aleksandra, ks. Konstantego"
     },
     {
         "name": "Stanisław Zamoyski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna Sapieżanka",
         "date": "25 IX 1817",
         "info": "żona",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Pac",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Nowosilcow",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander",
         "date": "brak danych",
         "info": "monarcha",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Lubecki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lelewel",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mickiewicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zan",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Malewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Czacki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Capodistria",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj",
         "date": "brak danych",
         "info": "cesarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mochnacki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kaliszan",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest osoba"
     },
     {
         "name": "Chłopicki",
         "date": "brak danych",
         "info": "dyktator",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Radziwiłł",
         "date": "brak danych",
         "info": "wódz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Niemojewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "G. Małachowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Horodyski",
         "date": "brak danych",
         "info": "minister",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Skrzynecki",
         "date": "brak danych",
         "info": "naczelny wódz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Prądzyński",
         "date": "brak danych",
         "info": "wódz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Krukowiecki",
         "date": "brak danych",
         "info": "dyktator",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ramorino",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Metternich",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Władysław Zamojski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Sienkiewicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kalinka",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Klaczko",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Chrzanowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kruszewski",
         "date": "brak danych",
         "info": "oficer",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Prószyński",
         "date": "brak danych",
         "info": "oficer",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Linowski",
         "date": "brak danych",
         "info": "oficer",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Skrzynecki",
         "date": "brak danych",
         "info": "oficer",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szamyl",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mehmet Ali",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale nie jest to osoba z którą bohater się zetknął, raczej ma związek z planami politycznymi bohatera"
     },
     {
         "name": "Wielopolski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "L. Sapieha",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "lord Dudley Stuart",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Czajkowski",
         "date": "1841",
         "info": "dyplomata",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Zach",
         "date": "1843",
         "info": "dyplomata",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Drozdowski",
         "date": "1844",
         "info": "dyplomata",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Orpiszewski",
         "date": "1843",
         "info": "dyplomata",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lamartine",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "gen. Chrzanowski",
         "date": "brak danych",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mierosławski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kossuth",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to raczej postać ówczesnej sceny politycznej, niekoniecznie osobiście ważna postać dla bohatera"
     },
     {
         "name": "Görgey",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to raczej postać ówczesnej sceny politycznej, niekoniecznie osobiście ważna postać dla bohatera"
     },
     {
         "name": "Czajkowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bem",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zamoyski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tym fragmencie nie widać związku z bohaterem"
     },
     {
         "name": "Waligórski",
         "date": "brak danych",
         "info": "inżynier",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dembiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Walewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Działyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Andrzej Zamoyski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Tarnowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józ. Ignacy Kraszewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Grabowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Franciszek Józef",
         "date": "brak danych",
         "info": "cesarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "P. Moszyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Lubomirski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Wodzicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tarnowski Staś",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Sapieha",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Smolka",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "L. Górski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Mycielski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Chłapowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Napoleon III",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater miał jakiś związek z Napoleonem III: mówi o tym fragment: Cz. zabiegał i u Walewskiego i u Napoleona"
     },
     {
         "name": "Havas",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander II",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "usiłował choćby pośrednio oddziałać na Aleksandra II w sprawie polskiej"
     },
     {
         "name": "Morny",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wyzyskując misję Morny’ego do Rosji w r. 1856, usiłował choćby pośrednio oddziałać na Aleksandra II"
     }
 ]

@@ -3,42 +3,42 @@
         "name": "Feliks Rendschmidt",
         "date": "1853",
         "info": "autor czytanek szkolnych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Besta",
         "date": "brak danych",
         "info": "kolega z pracy w Głogówku",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kukutsch",
         "date": "brak danych",
         "info": "nakładca podręczników",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Handel",
         "date": "brak danych",
         "info": "nakładca podręczników",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Hauschke",
         "date": "brak danych",
         "info": "kurator i profesor seminaryjny w Głogówku",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Piłsudski",
         "date": "brak danych",
         "info": "patron Biblioteki Publicznej w Katowicach",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
