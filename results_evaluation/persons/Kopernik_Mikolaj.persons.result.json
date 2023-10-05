@@ -3,910 +3,915 @@
         "name": "Zbigniew Oleśnicki",
         "date": "1454",
         "info": "kardynał",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to dotyczy ojca bohatera, początek biogramu omawia jego życiorys"
     },
     {
         "name": "Jakub Godziemba",
         "date": "1469",
         "info": "prowincjał polskiej prowincji dominikanów i uczestnik przygotowań Związku Pruskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to dotyczy ojca bohatera, początek biogramu omawia jego życiorys"
     },
     {
         "name": "Łukasz Watzenrode",
         "date": "brak danych",
         "info": "bogaty patrycjusz i ławnik m. Torunia",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Wojciech z Brudzewa",
         "date": "1491",
         "info": "profesor filozofii arystotelesowskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bernard z Biskupiego",
         "date": "brak danych",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Krypa",
         "date": "brak danych",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Głogowa",
         "date": "brak danych",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał z Wrocławia",
         "date": "brak danych",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech z Pniew",
         "date": "brak danych",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin z Olkusza",
         "date": "brak danych",
         "info": "profesor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Łukasz Watzenrode",
         "date": "1495",
         "info": "biskup warmiński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Jan Czanow",
         "date": "1495",
         "info": "kanonik warmiński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "(?) związek z bohaterem polega na tym, że Kopernik miał być następcą tej osoby na stanowisku kanonika: podjął próbę osadzenia swego siostrzeńca na opróżnionej po śmierci Jana Czanowa (zm. 26 VIII) kanonii warmińskiej"
     },
     {
         "name": "Jerzy Pranghe",
         "date": "1496",
         "info": "kanclerz kapituły",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dominik Maria Novara",
         "date": "1496-1501",
         "info": "astronom i astrolog boloński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Filip Beroald",
         "date": "1496-1501",
         "info": "uczony",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uczęszczał prawdopodobnie na wykłady uczonego"
     },
     {
         "name": "Antoni Urceo Codro",
         "date": "1496-1501",
         "info": "uczony",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uczęszczał prawdopodobnie na wykłady uczonego"
     },
     {
         "name": "Giovanni Garzoni",
         "date": "1496-1501",
         "info": "uczony",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uczęszczał prawdopodobnie na wykłady uczonego"
     },
     {
         "name": "Aleksander Achillini",
         "date": "1496-1501",
         "info": "uczony",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uczęszczał prawdopodobnie na wykłady uczonego"
     },
     {
         "name": "Jan Benedykt Solfa",
         "date": "1538",
         "info": "kandydat na scholasterię wrocławską",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w r. 1538 zrezygnował ze scholasterii wrocławskiej na rzecz ubiegających się o nią kandydatów Jana Benedykta Solfy lub doktora Jana Tresslera"
     },
     {
         "name": "Jan Tressler",
         "date": "1538",
         "info": "doktor, kandydat na scholasterię wrocławską",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w r. 1538 zrezygnował ze scholasterii wrocławskiej na rzecz ubiegających się o nią kandydatów Jana Benedykta Solfy lub doktora Jana Tresslera"
     },
     {
         "name": "B. Montagnana",
         "date": "1501-1503",
         "info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wiedzę lekarską zdobywał prawdopodobnie pod kierunkiem wybitnych przedstawicieli tej dyscypliny w uniwersytecie w Padwie"
     },
     {
         "name": "H. Fracastoro",
         "date": "1501-1503",
         "info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wiedzę lekarską zdobywał prawdopodobnie pod kierunkiem wybitnych przedstawicieli tej dyscypliny w uniwersytecie w Padwie"
     },
     {
         "name": "G. Zerbi",
         "date": "1501-1503",
         "info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wiedzę lekarską zdobywał prawdopodobnie pod kierunkiem wybitnych przedstawicieli tej dyscypliny w uniwersytecie w Padwie"
     },
     {
         "name": "A. Benedetti",
         "date": "1501-1503",
         "info": "przedstawiciel dyscypliny medycznej na Uniwersytecie Padewskim",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wiedzę lekarską zdobywał prawdopodobnie pod kierunkiem wybitnych przedstawicieli tej dyscypliny w uniwersytecie w Padwie"
     },
     {
         "name": "B. Sculteti",
         "date": "1501",
         "info": "kanonik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Jagiellończyk",
         "date": "1504",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "być może bawił również na zjeździe poznańskim (1510) i koronacji Zygmunta Starego w Krakowie"
+    }.
     {
         "name": "Wawrzyniec Korwin",
         "date": "1509",
         "info": "śląski humanista i pisarz miejski Torunia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Dantyszka",
         "date": "1512",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna odmiana: Dantyszek"
     },
     {
         "name": "Tycho Brahe",
         "date": "brak danych",
         "info": "astronom",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Fragment z tego dziełka zamieścił Tycho Brahe w swoich „Astronomiae instauratae progymnasmata”, Praga 1602"
     },
     {
         "name": "Łukasz Watzenrode",
         "date": "1512",
         "info": "biskup",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Fabian Luzjański",
         "date": "1512",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł z Middelburga",
         "date": "1513",
         "info": "biskup Fossombrone",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Albrecht",
         "date": "1519/20",
         "info": "wielki mistrz Zakonu Krzyżackiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Sculteti",
         "date": "1519/20",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Johannes Werner",
         "date": "brak danych",
         "info": "matematyk, astronom, geograf, kartograf, duchowny katolicki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "obszerny list-traktat (znany również pod nazwą „De octava sphaera contra Wernerum”) wymierzony przeciwko rozprawie norymberskiego astronoma Jana Wernera - z tego nie wynika żaden bezpośredni lub pośredni kontakt z samym Wernerem"
     },
     {
         "name": "Fabian Luzjański",
         "date": "1523",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maurycy Ferber",
         "date": "1523",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bernard Wapowski",
         "date": "1524",
         "info": "kanonik krakowski i sekretarz królewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Werner",
         "date": "1524",
         "info": "astronom z Norymbergi",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "obszerny list-traktat (znany również pod nazwą „De octava sphaera contra Wernerum”) wymierzony przeciwko rozprawie norymberskiego astronoma Jana Wernera - z tego nie wynika żaden bezpośredni lub pośredni kontakt z samym Wernerem"
     },
     {
         "name": "Zygmunt Herberstein",
         "date": "1535",
         "info": "dyplomata i poseł cesarski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to znajomy Waposkiego a nie bohatera"
     },
     {
         "name": "Achacy Freundt",
         "date": "1532",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Albrecht Pruski",
         "date": "1541",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy von Kunheim",
         "date": "1541",
         "info": "doradca książęcy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Łukasz Watzenrode",
         "date": "brak danych",
         "info": "biskup warmiński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Jan Dantyszka",
         "date": "brak danych",
         "info": "biskup warmiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Reich",
         "date": "brak danych",
         "info": "konfrater w kapitule",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Giese",
         "date": "brak danych",
         "info": "konfrater w kapitule",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Sculteti",
         "date": "brak danych",
         "info": "konfrater w kapitule",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Zimmerman",
         "date": "brak danych",
         "info": "konfrater w kapitule",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Benedykt Solfa",
         "date": "brak danych",
         "info": "lekarz nadworny Zygmunta I",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Wawrzyniec Wille",
         "date": "brak danych",
         "info": "nadworny medyk ks. Albrechta Pruskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Tressler",
         "date": "brak danych",
         "info": "kanonik wrocławski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Bernard Wapowski",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Tiedeman Giese",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Aleksander Sculteti",
         "date": "1527",
         "info": "kanonik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Albert Widmanstadt",
         "date": "brak danych",
         "info": "znany orientalista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Klemens VII",
         "date": "brak danych",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Schonberg",
         "date": "1536",
         "info": "kardynał Capui",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dietrich von Reden",
         "date": "brak danych",
         "info": "kanonik kapituły warmińskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wilhelm Gnapheus",
         "date": "1536",
         "info": "holenderski humanista, późniejszy rektor gimnazjum elbląskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Dantyszek",
         "date": "1537",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna Schilling",
         "date": "1539",
         "info": "gospodyni domu K-a",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Płotowski",
         "date": "brak danych",
         "info": "proboszcz kapituły",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Joachim von Lauchen de Porris",
         "date": "1539",
         "info": "profesor astronomii Uniwersytetu w Wittenberdze",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Schoner",
         "date": "1540",
         "info": "astronom i matematyk norymberski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Aurifaber",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "budząc żywe zainteresowanie, ale i sprzeczne oceny w opinii naukowej współczesnej Europy, nie jest to osoba związana z Kopernikiem"
     },
     {
         "name": "A. Gassarus",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Albrecht Pruski",
         "date": "brak danych",
         "info": "książę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "F. Melanchton",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Osiander",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Petreius",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "C. D. Scepperus",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "R. G. Frisięs",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "E. Reinhold",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. J. Retyk",
         "date": "1540",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Giese",
         "date": "1540",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Jan Loitsch",
         "date": "1542",
         "info": "kleryk diecezji chełmińskiej",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "J. Donner",
         "date": "1543",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Emerich",
         "date": "1543",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Trenk",
         "date": "1543",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "spadkobierca kurii wewnętrznej po bohaterze"
     },
     {
         "name": "L. Niederhoff",
         "date": "1543",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "spadkobierca kurii zewnętrznej po bohaterze"
     },
     {
         "name": "T. Giese",
         "date": "1543",
         "info": "bp chełmiński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Galileusz",
         "date": "XVI/XVII w.",
         "info": "badacz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kepler",
         "date": "XVI/XVII w.",
         "info": "badacz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Luter",
         "date": "1539",
         "info": "protestancki reformator",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wystąpienie M. Lutra z r. 1539 potępiające poglądy Kopernika"
     },
     {
         "name": "F. Melanchton",
         "date": "brak danych",
         "info": "reformator religijny",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "krytyk poglądów Kopernika"
     },
     {
         "name": "B. Baldi",
         "date": "1580-1600",
         "info": "włoski astronom i matematyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Adam",
         "date": "1615",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Müller",
         "date": "1617",
         "info": "profesor uniwersytetu w Groningen",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "P. Gassendi",
         "date": "1654",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Sz. Starowolski",
         "date": "1627",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Brożek",
         "date": "1613",
         "info": "profesor Uniwersytetu Krakowskiego",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Radymiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. K. Lichtenberg",
         "date": "1800",
         "info": "profesor uniwersytetu w Getyndze",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Śniadecki",
         "date": "1802",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Warschauer",
         "date": "1917",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "H. Barycz",
         "date": "1953",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Baranowski",
         "date": "1854",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Curtze",
         "date": "1873",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. Prowe",
         "date": "1873",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Dmochowski",
         "date": "1924",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "H. Rauschning",
         "date": "1923",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "K. Zeller",
         "date": "1943",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. A. Birkenmajer",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Wasiętyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "H. Schmauch",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "K. H. Burmeister",
         "date": "1967",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "T. Stimmer",
         "date": "1574",
         "info": "malarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Z. Batowski",
         "date": "1933",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "F. Schwarz",
         "date": "1934",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "E. Zinner",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Wallis",
         "date": "1966",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Thorwaldsen",
         "date": "1830",
         "info": "rzeźbiarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Gadomski",
         "date": "1872",
         "info": "rzeźbiarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Godebski",
         "date": "1899",
         "info": "rzeźbiarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Matejko",
         "date": "1873",
         "info": "malarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "W. Szymanowski",
         "date": "1855",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Szujski",
         "date": "1873",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "W. Rapacki",
         "date": "1876",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Nowaczyński",
         "date": "1937",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Broszkiewicz",
         "date": "1962",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. H. Morstin",
         "date": "1929",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Smolarski",
         "date": "1954",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "E. Brachvogel",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. Cichowicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Pagaczewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "T. Przypkowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "E. Rybka",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Witkowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "H. Baranowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
