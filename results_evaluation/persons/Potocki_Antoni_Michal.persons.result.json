@@ -1,758 +1,763 @@
-[
+    [
     {
         "name": "Paweł Potocki",
         "date": "brak danych",
         "info": "kasztelan kamieniecki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Aleksander Jan Potocki",
         "date": "brak danych",
         "info": "wojewoda smoleński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Teodor Potocki",
         "date": "brak danych",
         "info": "prymas",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Józef Potocki",
         "date": "brak danych",
         "info": "kasztelan lwowski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "A. F. Monti",
         "date": "1729",
         "info": "ambasador Francji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna Iwanowna",
         "date": "1730",
         "info": "caryca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Mienszykow",
         "date": "1730",
         "info": "minister",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "P. J. Jagużyński",
         "date": "1730",
         "info": "przywódca partii staroruskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Magnan",
         "date": "1730",
         "info": "francuski chargé d’affaires",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. J. Ostermann",
         "date": "1730",
         "info": "filoaustriacki wicekanclerz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. K. Loewenwold",
         "date": "1731",
         "info": "rezydent rosyjski w Polsce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. D. Mienszykow",
         "date": "1731",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Antoni Eperyaszy",
         "date": "1733",
         "info": "starosta skirstymoński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Sapieha",
         "date": "1733",
         "info": "podskarbi litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "1733",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poparł Leszczyńskiego"
     },
     {
         "name": "Michał Radziwiłł",
         "date": "1733",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "korespondował z"
     },
     {
         "name": "Antoni Rudomina",
         "date": "1733",
         "info": "posłujący do Petersburga od sejmu konwokacyjnego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "E. Biron",
         "date": "1733",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Franciszek Salezy Potocki",
         "date": "1733",
         "info": "marszałek konfederacji bełskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Potocki",
         "date": "1733",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Potocki",
         "date": "1734",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Stanisław Poniatowski",
         "date": "1734",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "H. W. Wilczek",
         "date": "1734",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "niepewne"
     },
     {
         "name": "F. K. Wratislaw",
         "date": "1732",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "K. O. Loewenwold",
         "date": "1732",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "K. R. Loewenwold",
         "date": "1732",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Emanuel Portugalski",
         "date": "1732",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Tarła",
         "date": "1734",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Ch. L. de Belle-Isle",
         "date": "1735",
         "info": "marszałek Francji",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Fryderyk August",
         "date": "1735",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "K. G. Loewenwold",
         "date": "1735",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "B. K. Münnich",
         "date": "1739",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "H. Keyserling",
         "date": "brak danych",
         "info": "poseł rosyjski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Potocki",
         "date": "jesień 1741",
         "info": "hetman",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Poniatowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Grzegorz Orlik",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Sapieha",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Stanisław Załuski",
         "date": "styczeń 1742",
         "info": "kanclerz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk II",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Maria Teresa",
         "date": "brak danych",
         "info": "królowa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Antoni Sebastian Dembowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Adam Tarło",
         "date": "1743",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Brühl",
         "date": "1746",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "udał się P. do Drezna na zaproszenie Brühla"
     },
     {
         "name": "Jan Tarło",
         "date": "marzec 1746",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
+    },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "wziął od, współpracującego z posłami pruskimi, posła francuskiego A. M. de Saint-Séverin "
     },
     {
         "name": "Franciszek Bieliński",
         "date": "brak danych",
         "info": "marszałek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "L. A. Duperron de Castéra",
         "date": "marzec 1745",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Franciszek",
         "date": "marzec 1745",
         "info": "książę de Conti",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "August III",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Andrzej Mokronowski",
         "date": "1746",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Spinek",
         "date": "1746",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wojciech Jakubowski",
         "date": "1746",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "S. Poniatowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Wołkoński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Lieven",
         "date": "brak danych",
         "info": "brygadier",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. A. Mikucki",
         "date": "brak danych",
         "info": "poseł wiski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ch. H. Des Issarts",
         "date": "brak danych",
         "info": "poseł francuski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pisał o P.: wprowadziłem w służbę dla nas przez jego stronników, aby sejm spełzł na niczym"
     },
     {
         "name": "Jakub Błędowski",
         "date": "jesień 1746",
         "info": "płk",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Błędowski zapewniał, że P. zerwał swoje kontakty z Prusami"
     },
     {
         "name": "Conti",
         "date": "brak danych",
         "info": "książę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Karol Edward Stuart",
         "date": "brak danych",
         "info": "pretendent do tronu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Klemens Branicki",
         "date": "1747",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bieliński",
         "date": "1747",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Mokronowski",
         "date": "1747",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Spinek",
         "date": "1747",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "G. Orlik",
         "date": "1748",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Potocki",
         "date": "1748",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "z udziałem m. in. J. Potockiego i P. Sapiehy, ułożono plan konfederacji pod laską P-ego"
     },
     {
         "name": "P. Sapieha",
         "date": "1748",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "z udziałem m. in. J. Potockiego i P. Sapiehy, ułożono plan konfederacji pod laską P-ego"
     },
     {
         "name": "Duperron de Castéra",
         "date": "1748",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "P. ... wyłudził od Duperrona de Castéra sumę 500 dukatów,"
     },
     {
         "name": "Fryderyk II",
         "date": "1748",
         "info": "król Prus",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale w 1750: odwiedził P. w wielkim sekrecie króla pruskiego w Nysie"
     },
     {
         "name": "Michał Radziwiłł",
         "date": "1749",
         "info": "hetman wielki litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Znajdował się wówczas na antyfamilijnym zjeździe we Lwowie z udziałem hetmana w. lit. Michała Radziwiłła i marszałka w. lit. Pawła Sanguszki"
     },
     {
         "name": "Paweł Sanguszko",
         "date": "1749",
         "info": "marszałek wielki litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Znajdował się wówczas na antyfamilijnym zjeździe we Lwowie z udziałem hetmana w. lit. Michała Radziwiłła i marszałka w. lit. Pawła Sanguszki"
     },
     {
         "name": "F. S. Potocki",
         "date": "1749",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Zostawiając starania o laskę trybunalską F. S. Potockiemu, P. wyruszył w maju 1749 «do wód "
     },
     {
         "name": "G. Orlik",
         "date": "1749",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. P. Puyzieulx",
         "date": "1749",
         "info": "minister",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W ślad za P-m, który wzbudził zachwyt ministra L. P. Puyzieulx"
     },
     {
         "name": "Duperron de Castéra",
         "date": "1749",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Stefan Garczyński",
         "date": "1750",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Mniszech",
         "date": "1750",
         "info": "marszałek nadworny koronny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Des Issarts",
         "date": "1750",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Des Issarts pisał, iż P. «należy do najbliższych konfidentów» Brühla"
     },
     {
         "name": "E. J. Voss",
         "date": "1750",
         "info": "rezydent pruski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Ułożywszy z Vossem i Des Issartsem plan zerwania sejmu, P. wyjechał do swych dóbr"
     },
     {
         "name": "Ch. F. du Broglie",
         "date": "1752",
         "info": "ambasador francuski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "spierał się P. z nowym amabasadorem francuskim Ch. F. du Broglie"
     },
     {
         "name": "Malzahn",
         "date": "1752",
         "info": "rezydent pruski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Akcję przeciw dojściu sejmu prowadzili we czterech: Broglie, rezydent pruski Malzahn, P. i Mokronowski"
     },
     {
         "name": "Mokronowski",
         "date": "1752",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Akcję przeciw dojściu sejmu prowadzili we czterech: Broglie, rezydent pruski Malzahn, P. i Mokronowski"
     },
     {
         "name": "Jakubowski",
         "date": "1752",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Małachowski",
         "date": "1752",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Karol Radziwiłł",
         "date": "1753",
         "info": "miecznik litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "sfinalizował P. starania o ślub Karola Radziwiłła, miecznika lit., z Marią Lubomirską"
     },
     {
         "name": "Maria Lubomirska",
         "date": "1753",
         "info": "starościanka bolimowska",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "sfinalizował P. starania o ślub Karola Radziwiłła, miecznika lit., z Marią Lubomirską"
     },
     {
         "name": "P. Sapieha",
         "date": "brak danych",
         "info": "marszałek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "hetman Branicki",
         "date": "1753",
         "info": "hetman",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "z polecenia hetmana Branickiego przygotowywał konstytucyjno-prawny grunt do ataku na podział ordynacji ostrogskiej"
     },
     {
         "name": "Eustachy Potocki",
         "date": "1754",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "jako deputat z Sieradzkiego zastępował często nieobecnego marszałka E. Potockiego"
     },
     {
         "name": "A. Mokronowski",
         "date": "1754",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Michał Czartoryski",
         "date": "1754",
         "info": "kanclerz litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Obmyślał zarzucenie kanclerzowi lit. Michałowi Czartoryskiemu zbrodni stanu za zgwałcenie powagi króla i Rzpltej"
     },
     {
         "name": "Broglie",
         "date": "1754",
         "info": "ambasador francuski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "J. Mniszch",
         "date": "1754",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "hospodar wołoski",
         "date": "1754",
         "info": "hospodar Wołoszczyzny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "P. tuż przed sejmem przyjmował koło Piotrkowa wysłannika hospodara wołoskiego"
     },
     {
         "name": "Karol Malczewski",
         "date": "1754",
         "info": "pułkownik",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Malczewski tuż przed przekroczeniem granicy spotkał się z P-m."
     },
     {
         "name": "Albrecht Radziwiłł",
         "date": "1757",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "odparł atak Albrechta Radziwiłła na Machnówkę, dobra na Ukrainie przyznane mu dekretem trybunalskim"
     },
     {
         "name": "F. B. Durand",
         "date": "1757",
         "info": "rezydent francuski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Prowadził korespondencję z rezydentem francuskim F. B. Durandem, ale także z A. P. Bestużewem"
     },
     {
         "name": "A. P. Bestużew",
         "date": "1757",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Prowadził korespondencję z rezydentem francuskim F. B. Durandem, ale także z A. P. Bestużewem"
     },
     {
         "name": "M. Woroncow",
         "date": "1758",
         "info": "kanclerz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "P. w liście do nowego kanclerza M. Woroncowa"
     },
     {
         "name": "Stanisław Konarski",
         "date": "1761",
         "info": "pisarz, pedagog",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "należał P. do osób wyrażających pochwałę dzieła S. Konarskiego „O skutecznym rad sposobie”. W liście do autora powoływał się na to, jak Konarski czytał mu to «doskonałe i dla ojczyzny zbawienne dzieło» w Załoścach"
     },
     {
         "name": "Stanisław Karwicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Podoski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "August III",
         "date": "1746",
         "info": "król Polski i elektor Saksonii",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dopominał się o to u Augusta III w r. 1746"
     },
     {
         "name": "Karol Sapieha",
         "date": "1759",
         "info": "wojewoda brzeski litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wydzierżawił Husiatyn woj. brzeskiemu lit. Karolowi Sapieże"
     },
     {
         "name": "Ignacy Cetner",
         "date": "1763",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "odstąpił woj. bełskie Ignacemu Cetnerowi"
     },
     {
         "name": "Piotr",
         "date": "brak danych",
         "info": "starosta szczerzecki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Zygmunt Gloger",
         "date": "brak danych",
         "info": "tłumacz, historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "1764",
         "info": "król Polski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

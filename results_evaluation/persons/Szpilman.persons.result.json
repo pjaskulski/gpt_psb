@@ -3,763 +3,763 @@
         "name": "Samuel Szpilman",
         "date": "brak danych",
         "info": "skrzypek w zespole operowym Teatru Polskiego w Katowicach",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Ester Szpilman",
         "date": "brak danych",
         "info": "nauczycielka gry na fortepianie oraz pianistka w zespole teatru w Sosnowcu",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Reuwen Szpilman",
         "date": "brak danych",
         "info": "skrzypek i dyrygent orkiestr wojskowych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Józef Śmidowicz",
         "date": "1928",
         "info": "profesor w klasie fortepianu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Biernacki",
         "date": "1928",
         "info": "profesor teorii i kontrapunktu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk Szeryng",
         "date": "1932",
         "info": "skrzypek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Schreker",
         "date": "1932",
         "info": "dyrektor Berlińskiej Wyższej Szkoły Muzycznej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "L. Kreutzer",
         "date": "1932",
         "info": "profesor gry na fortepianie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Arthur Schnabel",
         "date": "1932",
         "info": "pianista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Roman Totenberg",
         "date": "brak danych",
         "info": "skrzypek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ida Händel",
         "date": "brak danych",
         "info": "skrzypek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bronisław Gimpel",
         "date": "brak danych",
         "info": "skrzypek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konrad Winawer",
         "date": "brak danych",
         "info": "skrzypek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Wroński",
         "date": "brak danych",
         "info": "skrzypek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Emanuel Feuermann",
         "date": "brak danych",
         "info": "wiolonczelista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Michałowski",
         "date": "1933",
         "info": "profesor gry na fortepianie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk Járosy",
         "date": "1935",
         "info": "muzyk, jubilat",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "grał w Filharmonii Warszawskiej podczas jubileuszu Fryderyka Járosyego - ?"
     },
     {
         "name": "Tadeusz Sygietyński",
         "date": "brak danych",
         "info": "muzyk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk Bojm",
         "date": "1934",
         "info": "reżyser",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jerzy Ryba",
         "date": "1936",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "D. Niccodemi",
         "date": "1936",
         "info": "autor sztuki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Szymanowski",
         "date": "1937",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Roman Jasiński",
         "date": "1938",
         "info": "kierownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Juliusz Gardan",
         "date": "1938",
         "info": "reżyser",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "skomponował muzykę do filmów fabularnych w reżyserii Juliusza Gardana"
     },
     {
         "name": "Maria Rodziewiczówna",
         "date": "1938",
         "info": "autorka powieści",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Dołęga-Mostowicz",
         "date": "1939",
         "info": "autor powieści",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "S. Rachmaninow",
         "date": "1939",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Serocki",
         "date": "1940",
         "info": "uczeń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szymon Pullman",
         "date": "1941",
         "info": "dyrygent żydowskiej orkiestry symfonicznej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Szlengel",
         "date": "1941",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wiera Gran",
         "date": "1941",
         "info": "piosenkarka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Artur Goldfeder",
         "date": "1941",
         "info": "pianista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leon Boruński",
         "date": "1942",
         "info": "chory pianista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Bogucki",
         "date": "1943",
         "info": "aktor i piosenkarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Czesław Lewicki",
         "date": "1943",
         "info": "dyrygent",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Eugenia Umińska",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Witold Lutosławski",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Edmund Rudnicki",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Perkowski",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Helena Lewicka",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maria Krasnodębska",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Irena Sendlerowa",
         "date": "1943",
         "info": "osoba udzielająca wsparcia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wilm Hosenfeld",
         "date": "1944",
         "info": "porucznik niemiecki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Waldorff",
         "date": "1946",
         "info": "opracował pamiętniki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Andrzejewski",
         "date": "1945",
         "info": "autor scenariusza filmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Czesław Miłosz",
         "date": "1945",
         "info": "autor scenariusza filmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Zarzycki",
         "date": "1950",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Sapiński",
         "date": "1949",
         "info": "reżyser etiudy filmowej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Wasilewski",
         "date": "1949",
         "info": "aktor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Winkler",
         "date": "1951",
         "info": "autor słów do pieśni",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to chyba mały związek z bohaterem?"
     },
     {
         "name": "Maria Lasek",
         "date": "1951",
         "info": "autorka słów do pieśni",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to chyba mały związek z bohaterem"
     },
     {
         "name": "Roman Sadowski",
         "date": "1951",
         "info": "autor słów do pieśni",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to chyba mały związek z bohaterem"
     },
     {
         "name": "Hanna Januszewska",
         "date": "1950",
         "info": "autorka słów do piosenek",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to chyba mały związek z bohaterem"
     },
     {
         "name": "Władysław Broniewski",
         "date": "1950",
         "info": "autor słów do piosenek",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to chyba mały związek z bohaterem"
     },
     {
         "name": "E. Szwarz",
         "date": "1948",
         "info": "autor sztuki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "chyba błędna odmiana nazwiska"
     },
     {
         "name": "Elżbieta Kalinowicz",
         "date": "1948",
         "info": "reżyserka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Prokofiew",
         "date": "1948",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "I. Berlin",
         "date": "1950",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "G. Gershwin",
         "date": "1950",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Lucyna Krzemieniecka",
         "date": "brak danych",
         "info": "autorka słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leopold Lewin",
         "date": "brak danych",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Braun",
         "date": "1952",
         "info": "autor słów do wodewilu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Kubiak",
         "date": "1952",
         "info": "autor słów do wodewilu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Artur Międzyrzecki",
         "date": "1952",
         "info": "autor słów do wodewilu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Piasecki",
         "date": "1953",
         "info": "autor wodewilów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Ziembicki",
         "date": "brak danych",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Wajda",
         "date": "brak danych",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Eugeniusz Żytomirski",
         "date": "brak danych",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Ryszard Dobrowolski",
         "date": "1951",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konstanty Ildefons Gałczyński",
         "date": "brak danych",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zdzisław Gozdawa",
         "date": "1954",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Edward Fiszer",
         "date": "1954",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bronisław Brok",
         "date": "1958",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Starski",
         "date": "brak danych",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogusław Choiński",
         "date": "1959",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Gałkowski",
         "date": "1959",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Jurandot",
         "date": "1961",
         "info": "autor słów do piosenek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Gert",
         "date": "1951",
         "info": "współpracownik przy tworzeniu muzyki do filmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Bossak",
         "date": "1951",
         "info": "reżyser filmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Joanna Rojewska",
         "date": "1953",
         "info": "reżyserka filmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Mach",
         "date": "1958",
         "info": "reżyser filmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leopold Beck",
         "date": "1954",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Huszcza",
         "date": "1954",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefania Domańska",
         "date": "1954",
         "info": "reżyserka spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jurandot",
         "date": "1959",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marian Wyrzykowski",
         "date": "1959",
         "info": "reżyser spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Włodzimierz Mass",
         "date": "1959",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Czerwiński",
         "date": "1959",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Uramowicz",
         "date": "1959",
         "info": "reżyser spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szymon Zakrzewski",
         "date": "1961",
         "info": "współorganizator Międzynarodowego Festiwalu Piosenki w Sopocie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gimple",
         "date": "1962",
         "info": "członek 'Kwintetu Warszawskiego'",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błędna odmiana: Gimpel"
     },
     {
         "name": "Stefan Kamas",
         "date": "1962",
         "info": "członek 'Kwintetu Warszawskiego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Ciechański",
         "date": "1962",
         "info": "członek 'Kwintetu Warszawskiego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Malarewski",
         "date": "1963",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zuzanna Łozińska",
         "date": "1963",
         "info": "reżyserka spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "B. Thomas",
         "date": "1964",
         "info": "autor spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk Cajzel",
         "date": "1964",
         "info": "reżyser spektaklu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ryszard Jaworski",
         "date": "1994",
-        "info": "reżyser filmu",
-        "result": null,
+        "info": "reżyser filmu dokumentalnego z udziałem bohatera",
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marek Drążewski",
         "date": "2004",
         "info": "reżyser filmu",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to film zrealizowany po śmierci bohatera"
     },
     {
         "name": "Roman Polański",
         "date": "2002",
         "info": "reżyser filmu",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to film zrealizowany po śmierci bohatera"
     },
     {
         "name": "Adrien Brody",
         "date": "2003",
         "info": "aktor grający Szpilmana w filmie",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "name": "Wiera Gran",
         "date": "2010",
         "info": "osoba oskarżająca Szpilmana o służbę w policji żydowskiej w getcie",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Krystian Zimerman",
         "date": "2001",
         "info": "autor wstępu do utworów orkiestrowych Szpilmana",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Janusz Nasfeter",
         "date": "1977",
         "info": "reżyser filmu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jerzy Domaradzki",
         "date": "1981",
         "info": "reżyser filmu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Feliks Falk",
         "date": "1981",
         "info": "reżyser filmu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Janusz Zaorski",
         "date": "1988",
         "info": "reżyser filmu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Borys Lankosz",
         "date": "2009",
         "info": "reżyser filmu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Kidawa-Błoński",
         "date": "2010",
         "info": "reżyser filmu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
