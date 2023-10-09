@@ -3,448 +3,448 @@
         "name": "Jakow Stebelski",
         "date": "brak danych",
         "info": "absolwent kursu budownictwa przy Uniw. Lwow.",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Amalia z Siemieńskich Aleksandrowa Stadnicka",
         "date": "brak danych",
         "info": "właścicielka posiadłości w Magierowie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jarosław Uhr-Stebelski",
         "date": "brak danych",
         "info": "askulant w Sądzie Obwodowym w Stanisławowie, adiunkt w Sądzie Powiatowym w Chrzanowie, radca Sądu Obwodowego w Nowym Sączu i Sądu Krajowego Wyższego w Krakowie",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Roman Stebelski",
         "date": "brak danych",
         "info": "członek komitetu wydawniczego stow. «Akademiczeskij krużok» (1874), potem prokurator i radca dworu",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Tomasz Barewicz",
         "date": "1862",
         "info": "ksiądz, nauczyciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michaił Kaczkowski",
         "date": "brak danych",
         "info": "radca sądowy i działacz rusiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogdan Didycki",
         "date": "1867",
         "info": "redaktor \"Galičanina\"",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "P. Kulisz",
         "date": "1867",
         "info": "ukraiński działacz z Rosji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Katkow",
         "date": "brak danych",
         "info": "redaktor \"Moskovskie vedomosti\"",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "I. Aksakow",
         "date": "brak danych",
         "info": "redaktor gazety \"Moskva\"",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ołeksandr Barwinśki",
         "date": "brak danych",
         "info": "rówieśnik Stebelskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Iwan Franko",
         "date": "brak danych",
         "info": "ukraiński poeta, prozaik, dramaturg",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Modest Maciejewski",
         "date": "1873",
         "info": "protoihumen bazylianów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Rapacki",
         "date": "1874",
         "info": "panslawista i szpieg rosyjski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater zrecenzował książkę tej osoby, jest to jakiś związek (?)"
     },
     {
         "name": "Władysław Bełza",
         "date": "brak danych",
         "info": "polski poeta, prozaik, dramaturg, publicysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Ordon",
         "date": "brak danych",
         "info": "polski poeta, prozaik, dramaturg, publicysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Sabowski",
         "date": "brak danych",
         "info": "polski poeta, prozaik, dramaturg, publicysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marian Gawalewicz",
         "date": "brak danych",
         "info": "polski poeta, prozaik, dramaturg, publicysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław Czerwieński",
         "date": "brak danych",
         "info": "polski poeta, prozaik, dramaturg, publicysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław Spausta",
         "date": "brak danych",
         "info": "polski poeta, prozaik, dramaturg, publicysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Liberat Zajączkowski",
         "date": "1877",
         "info": "redaktor dwutygodnika satyryczno-humorystycznego 'Szczutek'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Chłędowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Biernacki",
         "date": "brak danych",
         "info": "satyryk-humorysta",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "występuje w porównaniu"
     },
     {
         "name": "Włodzimierz Zagórski",
         "date": "brak danych",
         "info": "satyryk-humorysta",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "występuje w porównaniu"
     },
     {
         "name": "Henryk Biegeleisen",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Juliusz Słowacki",
         "date": "brak danych",
         "info": "dramaturg",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "z uwielbieniem odnosił się do dramatów Juliusza Słowackiego"
     },
     {
         "name": "Gabriela Zapolska",
         "date": "brak danych",
         "info": "pisarka, debiutująca na scenie lwowskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Masłowski",
         "date": "brak danych",
         "info": "redaktor 'Kuriera Lwowskiego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Bałucki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?: Niektórzy, m.in. Michał Bałucki, podejrzewali nawet, że Zapolska jedynie podpisuje swoim nazwiskiem utwory, których rzeczywistym autorem jest S."
     },
     {
         "name": "Henryk Rewakowicz",
         "date": "brak danych",
         "info": "redaktor 'Dziennika Polskiego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Lama",
         "date": "brak danych",
         "info": "redaktor 'Dziennika Polskiego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Gniewosz",
         "date": "brak danych",
         "info": "redaktor 'Strażnicy Polskiej'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Okaz",
         "date": "brak danych",
         "info": "wydawca serii książeczek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wilhelm Feldman",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Tadeusz Czapelski",
         "date": "brak danych",
         "info": "sekretarz redakcji 'Kuriera Codziennego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wanda Młodnicka",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mieczysław Orgelbrand",
         "date": "brak danych",
         "info": "wydawca 'Kuriera Codziennego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Hipolit Orgelbrand",
         "date": "brak danych",
         "info": "wydawca 'Kuriera Codziennego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Julian Chodorowicz",
         "date": "brak danych",
         "info": "właściciel 'Kuriera Codziennego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Wołowski",
         "date": "brak danych",
         "info": "właściciel 'Kuriera Codziennego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław Prus",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Żeromski",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Artur Oppman",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leonardo da Vinci",
         "date": "1887",
         "info": "artysta, naukowiec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Heinrich Heine",
         "date": "1890",
         "info": "poeta, pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Czerwieński",
         "date": "1888",
         "info": "przyjaciel",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to powtórzenie"
     },
     {
         "name": "Sabowski",
         "date": "1888",
         "info": "przyjaciel",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to powtórzenie"
     },
     {
         "name": "Maria Konopnicka",
         "date": "1887",
         "info": "pisarka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Vrchlický",
         "date": "1887",
         "info": "autor komedii",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Karpeles",
         "date": "1889",
         "info": "powiernik H. Heinego",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "H. Heine",
         "date": "1889",
         "info": "poeta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wiktor Gomulicki",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?: pisał wspomnienie o bohaterze "
     },
     {
         "name": "Feldman",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Żeromski",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to powtórzenie"
     },
     {
         "name": "Oppman",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Franki",
         "date": "1905",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "C. Jankowski",
         "date": "1898",
         "info": "wydawca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Kasprowicz",
         "date": "1899",
         "info": "wydawca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Tuwim",
         "date": "1954",
         "info": "poeta, wydawca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. W. Gomulicki",
         "date": "1954",
         "info": "wydawca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "P. Hertz",
         "date": "1962",
         "info": "wydawca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "T. Chróścielewski",
         "date": "1965",
         "info": "redaktor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wasyl Łewyćki",
         "date": "1903",
         "info": "zbierał materiały o S.",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Juliusz W. Gomulicki",
         "date": "1944",
         "info": "pisarz, zgromadził materiały o S.",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
