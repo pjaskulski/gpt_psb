@@ -3,168 +3,168 @@
         "name": "Mikołaj Sapieha",
         "date": "brak danych",
         "info": "wojewoda witebski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Fryderyk Sapieha",
         "date": "brak danych",
         "info": "podkomorzy włodzimierski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Ewa ze Skaszewskich",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Tomasz Kazimierz Sapieha",
         "date": "brak danych",
         "info": "obózny litewski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Aleksander Kazimierz Sapieha",
         "date": "brak danych",
         "info": "biskup wileński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Krzysztof Franciszek Sapieha",
         "date": "brak danych",
         "info": "krajczy litewski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Bernard Weimarski",
         "date": "1638-1639",
         "info": "dowódca armii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kondeusz",
         "date": "1638-1639",
         "info": "dowódca armii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Potocki",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Krzysztof Gosiewski",
         "date": "1640",
         "info": "wojewoda smoleński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Potocki",
         "date": "1648",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bohdan Chmielnicki",
         "date": "1648",
         "info": "przywódca powstania",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Karasz-murza",
         "date": "1648",
         "info": "Tatar, który więził Sapiehę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Kalinowski",
         "date": "1651",
         "info": "hetman polny koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt Przyjemski",
         "date": "1652",
         "info": "pisarz polny koronny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - został S. mianowany pisarzem polnym kor. po zabitym pod Batohem Zygmuncie Przyjemskim"
     },
     {
         "name": "Stefan Czarniecki",
         "date": "1653",
         "info": "wojskowy, dowódca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "B. Repnin",
         "date": "1653",
         "info": "członek poselstwa moskiewskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kelembet-murza",
         "date": "1654",
         "info": "Tatar, który więził Sapiehę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mariusz Jaskólski",
         "date": "1654",
         "info": "posłany na Krym, aby uwolnić Sapiehę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Kazimierz",
         "date": "1655",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "że buławę przyznano S-że, dowiadujemy się z jego listu, w którym dziękuje Janowi Kazimierzowi za jej nadanie"
     },
     {
         "name": "Stanisław 'Rewera' Potocki",
         "date": "1655",
         "info": "hetman wielki koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Lanckoroński",
         "date": "1655",
         "info": "hetman polny koronny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Mylne są więc informacje, że S. należał do dywizji hetmana polnego kor. Stanisława Lanckorońskiego."
     },
     {
         "name": "Jan Sobieski",
         "date": "1655",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Gustaw",
         "date": "1655",
         "info": "król Szwecji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
@@ -172,272 +172,272 @@
         "date": "1655",
         "info": "przywódca ugrupowania dążącego do poddania się Karolowi Gustawowi",
         "result": null,
-        "pj_note": ""
+        "pj_note": "wraz z Sobieskim, Koniecpolskim i innymi oficerami wysłał do Karola Gustawa list poddańcz"
     },
     {
         "name": "Daniel Żytkiewicz",
         "date": "1655",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Hieronim Radziejowski",
         "date": "1655",
         "info": "stronnik Szwedów",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "stał się S., obok Hieronima Radziejowskiego i Jerzego Niemirycza, jednym z głównych przywódców ugrupowania proszwedzkiego w Koronie"
     },
     {
         "name": "Jerzy Niemirycz",
         "date": "1655",
         "info": "stronnik Szwedów",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "stał się S., obok Hieronima Radziejowskiego i Jerzego Niemirycza, jednym z głównych przywódców ugrupowania proszwedzkiego w Koronie"
     },
     {
         "name": "Paweł Jan Sapieha",
         "date": "1655",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "P. J. Sapieha skierował przybyłego do swego obozu S-ę do dowódcy wojsk moskiewskich"
     },
     {
         "name": "Andrzej Potocki",
         "date": "1655",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wyprawił S-ę z 3 pułkami jazdy (siłę ich obliczano przesadnie na 4 tys. żołnierzy, było ich raczej ok. 2 tys.) i kilkoma działami na pomoc Iwanowi Wyhowskiemu i oboźnemu kor. Andrzejowi Potockiemu"
     },
     {
         "name": "Bretlach",
         "date": "1656",
         "info": "oberszter szwedzki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wespół z oberszterem szwedzkim Bretlachem, posłował S. do niego"
     },
     {
         "name": "Jerzy II Rakoczy",
         "date": "1657",
         "info": "książę Siedmiogrodu",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "eskortował w końcu lipca (25–31?) Rakoczego prawdopodobnie za Skole, do granicy"
     },
     {
         "name": "Stanisław Witowski",
         "date": "1657",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Dn. 21 IV pułki S-y i Stanisława Witowskiego wdarły się do Bydgoszczy"
     },
     {
         "name": "Rhedey",
         "date": "1657",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Krzysztof Grodzicki",
         "date": "1 VIII",
         "info": "generał",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dn. 1 VIII wraz z gen. Krzysztofem Grodzickim przybył S. ponownie pod Toruń"
     },
     {
         "name": "Jerzy Lubomirski",
         "date": "26 IX",
         "info": "hetman polny",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "26 IX towarzyszył hetmanowi polnemu Jerzemu Lubomirskiemu w wybieraniu miejsca pod obóz"
     },
     {
         "name": "Moryc Wachowski",
         "date": "1590",
         "info": "kupiec zbożowy",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "halucynacja"
     },
     {
         "name": "Iwan Wyhowski",
         "date": "ok. 29 IX",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dn. 16 IX S., Wyhowski i Sobieski na czele jazdy i dragonii dywizji Lubomirskiego rozpędzili piechotę kozacką"
     },
     {
         "name": "Andrzej Potocki",
         "date": "ok. 29 IX",
         "info": "obóźny koronny",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórka"
     },
     {
         "name": "Władysław Wilczkowski",
         "date": "na początku lutego 1661",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Wojsko opuścił S. na początku lutego 1661, pozostawiając dowództwo zapewne Władysławowi Wilczkowskiemu"
     },
     {
         "name": "Maria Kazimiera Zamoyska",
         "date": "od r. 1660",
         "info": "późniejsza Sobieska",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Caillet",
         "date": "czerwiec 1661",
         "info": "pełnomocnik ks. Ludwika Kondeusza",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Caillet, pełnomocnik ks. Ludwika Kondeusza, zaliczał S-ę do najpewniejszych jego zwolenników"
     },
     {
         "name": "Wincenty Gosiewski",
         "date": "lipiec 1662",
         "info": "hetman polny litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wincenty Gosiewski, przedstawiając Cailletowi potrzebę utworzenia nowego związku wojskowego przy królu dla uspokojenia kraju, widział m. in. S-ę w grupie, która by tę organizację utworzyła"
     },
     {
         "name": "Dymitr Wiśniowiecki",
         "date": "grudzień 1660",
         "info": "wojewoda bełski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dowództwo nad wojskiem objęli S. i woj. bełski Dymitr Wiśniowiecki: S. został wyznaczony na dowódcę autoramentu cudzoziemskiego, Wiśniowiecki – polskiego"
     },
     {
         "name": "Michał Kazimierz Pac",
         "date": "grudzień 1663",
         "info": "kasztelan wileński",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Andrzej Morsztyn",
         "date": "28 IV 1663",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Morsztyn wspomniał w liście bohatera - czy to wystarczy by uznać go za ważną osobę?"
     },
     {
         "name": "P. J. Sapieha",
         "date": "brak danych",
         "info": "hetman",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Aleksander Hilary Połubiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater wykupił od niego posiadłości ziemskie"
     },
     {
         "name": "Michał K. Radziwiłł",
         "date": "9 IV 1663",
         "info": "kasztelan wileński",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bogusław Radziwiłł",
         "date": "przed połową maja 1663",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Kazimierz",
         "date": "13 VI 1664",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwika Maria",
         "date": "brak danych",
         "info": "królowa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. de Lumbres",
         "date": "9 IV",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Prażmowski",
         "date": "11 I 1664",
         "info": "kanclerz koronny",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "G. Romodanowski",
         "date": "1664",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - został S. wysłany dla rozpoznania, gdzie jest armia G. Romodanowskiego"
     },
     {
         "name": "Skidan",
         "date": "1664",
         "info": "pułkownik",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "biorąc do niewoli jednego z pułkowników (Skidana)"
     },
     {
         "name": "J. Sobieski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Leon Sapieha",
         "date": "1655",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Aleksander H. Połubiński",
         "date": "1664",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "A. H. Połubiński",
         "date": "1658",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Henryk Sienkiewicz",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wojciech Gerson",
         "date": "brak danych",
         "info": "artysta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Julian Bartoszewicz",
         "date": "brak danych",
         "info": "autor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
