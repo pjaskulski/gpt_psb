@@ -19,12 +19,12 @@
 
 A sample of 250 biograms from the Polish Biographical Dictionary was processed by the GPT-4 model (via API) to extract several types of information using appropriately constructed prompts. Types of expected information:
 
-Basic details (date of birth, place of birth, date of death, place of death, date of burial, place of burial)
-Family relations (related to the main protagonist of the biogram)
-Important persons (outside of relatives and in-laws)
-Places associated with the main protagonist
-Institutions associated with the main protagonist
-Roles and positions held by the main protagonist.
+ - Basic details (date of birth, place of birth, date of death, place of death, date of burial, place of burial)
+ - Family relations (related to the main protagonist of the biogram)
+ - Important persons (outside of relatives and in-laws)
+ - Places associated with the main protagonist
+ - Institutions associated with the main protagonist
+ - Roles and positions held by the main protagonist.
 
 The results in the JSON format are in the directory output_json_250, divided by the types of information. **In the subdirectory `combined_results`, the results are merged into one json file for each historical figure**. In the full subdirectory, there is the result of the experiment with a prompt that extracts many types of information simultaneously. The results_evaluation subdirectory contains results with an accuracy assessment. The extraction_chain subdirectory holds the result of the experiment with information extraction using the create_extraction_chain function from the langchain library. The subdirectories summary (for biogram summaries) and nicknames (for pseudonyms and cryptonyms) are currently empty; the biograms have not yet been processed to extract such information.
 
