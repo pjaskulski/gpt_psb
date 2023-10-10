@@ -3,364 +3,364 @@
         "name": "Jan Tarła",
         "date": "brak danych",
         "info": "wojewoda lubelski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Stanisław Poniatowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "1733",
         "info": "kandydat do tronu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Ożarowski",
         "date": "1735",
         "info": "obózny koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik XV",
         "date": "1735",
         "info": "król Francji",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pobierał niewielką pensję (jak również pensję od Ludwika XV)"
     },
     {
         "name": "Jan Jastrzębski",
         "date": "1739",
         "info": "prowincjał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Humański",
         "date": "1740",
         "info": "ksiądz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otworzył K. Collegium Nobilium w gmachu zapisanym przez ks. Jana Humańskiego"
     },
     {
         "name": "Ignacy Świdziński",
         "date": "1740",
         "info": "wojewodzic bracławski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Konarski",
         "date": "brak danych",
         "info": "miecznik inowrocławski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Helena Czermińska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Locke",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Karol Rollin",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Antoni Wiśniewski",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Corneille",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Racine",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Molier",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Voltaire",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Bielski",
         "date": "brak danych",
         "info": "jezuita",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Augustyn Orłowski",
         "date": "brak danych",
         "info": "pijar",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Walenty Kamieński",
         "date": "brak danych",
         "info": "pijar",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Komorowski",
         "date": "brak danych",
         "info": "prymas",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Archinto",
         "date": "brak danych",
         "info": "nuncjusz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Chelucci",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Delbecchio",
         "date": "brak danych",
         "info": "generał pijarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ignacy Konarski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Cyprian Komorowski",
         "date": "brak danych",
         "info": "rektor krakowskiego domu pijarów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Benedykt XIV",
         "date": "brak danych",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Arduini",
         "date": "brak danych",
         "info": "generał pijarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Tarło",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Jan Klemens Branicki",
         "date": "brak danych",
         "info": "hetman",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Broglie",
         "date": "brak danych",
         "info": "ambasador francuski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol",
         "date": "brak danych",
         "info": "królewicz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Ksawery",
         "date": "brak danych",
         "info": "królewicz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Brühl",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "August III",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. K. Czartoryski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wacław Rzewuski",
         "date": "marzec 1764",
         "info": "hetman",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Na jedno z nich, pióra hetmana Wacława Rzewuskiego (marzec 1764), odpowiedział K. pismem"
     },
     {
         "name": "Stanisław August",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "G. Podoski",
         "date": "brak danych",
         "info": "prymas",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ułożył K. pismo skierowane przeciw projektowi prymasa G. Podoskiego"
     },
     {
         "name": "Durini",
         "date": "brak danych",
         "info": "nuncjusz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ataku na K-ego ze strony nuncjusza Duriniego."
     },
     {
         "name": "Ignacy Potocki",
         "date": "grudzień 1772",
         "info": "szlachcic",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "chorował K. obłożnie, w grudniu t. r. napisał ostatni swój utwór: wiersz na uczczenie ślubu Ignacego Potockiego z Elżbietą Lubomirską"
     },
     {
         "name": "Elżbieta Lubomirska",
         "date": "grudzień 1772",
         "info": "szlachcianka",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "chorował K. obłożnie, w grudniu t. r. napisał ostatni swój utwór: wiersz na uczczenie ślubu Ignacego Potockiego z Elżbietą Lubomirską"
     },
     {
         "name": "O. Kopczyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "S. Bielski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "T. Waga",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Paskiewicz",
         "date": "1834",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Pik",
         "date": "1882",
         "info": "żydowski kupiec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Ł. Kurdybacha",
         "date": "1959",
         "info": "redaktor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Nowak-Dłużewski",
         "date": "1955",
         "info": "redaktor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "W. Konopczyński",
         "date": "brak danych",
         "info": "redaktor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "F. Nowakowski",
         "date": "1882",
         "info": "redaktor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
