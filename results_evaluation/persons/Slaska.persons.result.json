@@ -3,287 +3,287 @@
         "name": "Eugenia Deutsch",
         "date": "1943",
         "info": "daleka krewna",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Valerie von Pesić",
         "date": "1943",
         "info": "radczyni, przy której pracowała",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Widera",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Karbowski",
         "date": "brak danych",
         "info": "wykładowca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Woźnik",
         "date": "brak danych",
         "info": "wykładowca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wiesław Gorecki",
         "date": "brak danych",
         "info": "wykładowca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Leszczyński",
         "date": "brak danych",
         "info": "aktor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Zelwerowicz",
         "date": "brak danych",
         "info": "aktor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Solski",
         "date": "brak danych",
         "info": "aktor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Erwin Axer",
         "date": "1949",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Krasnowiecki",
         "date": "1955",
         "info": "rektor Państw. Wyższej Szkoły Teatralnej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Aleksandrowicz",
         "date": "1956",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wanda Nadzinowa",
         "date": "1956",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Janusz Warmiński",
         "date": "1958",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Munk",
         "date": "1961",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konrad Swinarski",
         "date": "1960",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zofia Dybowska-Aleksandrowicz",
         "date": "1960",
         "info": "reżyserka dubbingu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Rakowiecki",
         "date": "1959",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Markuszewski",
         "date": "1963",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Kreczmar",
         "date": "1964",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Wajda",
         "date": "1963",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Trzos-Rastawiecki",
         "date": "1965",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Janusz Majewski",
         "date": "1967",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ireneusz Kanicki",
         "date": "1965",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Gruza",
         "date": "1966",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gustaw Holoubek",
         "date": "1968",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Dejmek",
         "date": "1969",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tatiana Samojłowa",
         "date": "1968",
         "info": "rosyjska aktorka",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "związek z bohaterką to tylko: po zdubbingowaniu rosyjskiej aktorki Tatiany Samojłowej"
     },
     {
         "name": "A. Zarchi",
         "date": "1968",
         "info": "reżyser",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zygmunt Kałużyński",
         "date": "1968",
         "info": "krytyk filmowy",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Zygmunt Kałużyński uznał, że «co by nie powiedziało się o Samojłowej […] to jednak daleko jej było do przejmującej plastyki psychologicznej, jaką dodała Śląska"
     },
     {
         "name": "E. Albee",
         "date": "1970",
         "info": "autor komedii 'Wszystko w ogrodzie'",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Lesiewicz",
         "date": "1971",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Solarz",
         "date": "1972",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maciej Prus",
         "date": "1972",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Holoubek",
         "date": "1973",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lidia Zamkow",
         "date": "1974",
         "info": "reżyserka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Świderski",
         "date": "1974",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Glenda Jackson",
         "date": "1973",
         "info": "aktorka",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "zdubbingowanie w r. 1973 Glendy Jackson"
     },
     {
         "name": "Prus",
         "date": "1973",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Warmiński",
         "date": "1977",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "P. Hacks",
         "date": "1978",
         "info": "autor monodramu 'Rozmowa w domu państwa Stein o nieobecnym panu von Goethe'",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
@@ -297,70 +297,70 @@
         "name": "Gerard Zalewski",
         "date": "1979",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Günther",
         "date": "1979",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Halina Auderska",
         "date": "1980",
         "info": "scenarzystka",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dla Ś-iej Halina Auderska napisała scenariusz dwunastoodcinkowego serialu telewizyjnego"
     },
     {
         "name": "Majewski",
         "date": "1980",
         "info": "reżyser",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Osiecka",
         "date": "1980",
         "info": "autorka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Marek Koterski",
         "date": "1984",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Młynarski",
         "date": "1987",
         "info": "reżyser",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Rittner",
         "date": "1987",
         "info": "autor 'Lato'",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to tylko autor sztuki, brak istotnego związku z bohaterką"
     },
     {
         "name": "Y. Mishima",
         "date": "1988",
         "info": "autor 'Madame de Sade'",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to tylko autor sztuki, brak istotnego związku z bohaterką"
     },
     {
         "name": "Maniewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
