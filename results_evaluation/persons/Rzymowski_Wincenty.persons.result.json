@@ -3,273 +3,273 @@
         "name": "Stanisław Brzozowski",
         "date": "1906",
         "info": "rekomendował Rzymowskiego do tygodnika 'Przegląd Społeczny'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Niemojewski",
         "date": "brak danych",
         "info": "redaktor 'Myśli Niepodległej'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Hołówko",
         "date": "1915",
         "info": "dziennikarz, członek Polskiej Partii Socjalistycznej (PPS)-Frakcja Rewolucyjna",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "osobistej przyjaźni R-ego z Hołówką"
     },
     {
         "name": "Kazimierz Życki",
         "date": "1915",
         "info": "właściciel tygodnika 'Prawda'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wacław Łypacewicz",
         "date": "1915",
         "info": "właściciel tygodnika 'Prawda'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Piekarski",
         "date": "1915",
         "info": "sekretarz redakcji 'Prawdy'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Świętochowski",
         "date": "1915",
         "info": "publicysta, towarzysz z Polskiego Związku Postępowego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław Koskowski",
         "date": "1915",
         "info": "publicysta 'Kuriera Warszawskiego'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wilhelm Feldman",
         "date": "1916",
         "info": "delegat berlińskiego Biura Prasowego Naczelnego Komitetu Narodowego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Piłsudski",
         "date": "1915",
         "info": "lider Legionów Polskich",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie widać bezpośredniego związku poza tym że bohater był zwolennikiem Pisłudzkiego"
     },
     {
         "name": "Bogusław Miedziński",
         "date": "1917",
         "info": "członek kierownictwa Stronnictwa Niezawisłości Narodowej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Papini",
         "date": "21 XII 1920",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "G. Papini",
         "date": "1921–3",
         "info": "autor książek przetłumaczonych przez Rzymowskiego",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "B. Pascal",
         "date": "1921–3",
         "info": "autor książek przetłumaczonych przez Rzymowskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to związek z książką a nie z człowiekiem"
     },
     {
         "name": "G. Duhamel",
         "date": "1926",
         "info": "intelektualista, który protestował przeciwko aresztowaniu Rzymowskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Juliusz Kaden-Bandrowski",
         "date": "1930",
         "info": "pisarz, o którym Rzymowski pisał",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Kazimierz Wierzyński",
         "date": "1930",
         "info": "pisarz, o którym Rzymowski pisał",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Roman Dmowski",
         "date": "1932",
         "info": "przywódca prawicy nacjonalistycznej, krytykowany przez Rzymowskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "J. Piłsudski",
         "date": "1930 i 1931",
         "info": "marszałek Polski, którego decyzje Rzymowski bronił",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Edward Rydz-Śmigły",
         "date": "1935",
         "info": "generalny inspektor sił zbrojnych, z którym Rzymowski wiązał nadzieje",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Zofia Nałkowska",
         "date": "1936",
         "info": "pisarka, uczestniczka akcji Czerwonej Pomocy w Polsce",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "Jan Czarnocki",
         "date": "1937",
         "info": "autor artykułu w „Kurierze Porannym”, za który Rzymowski został usunięty z redakcji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bertrand Russell",
         "date": "1936",
         "info": "angielski myśliciel, którego fragmenty tekstu Rzymowski miał użyć w swojej książce",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Mosdorf",
         "date": "1936",
         "info": "publicysta, który zarzucił Rzymowskiemu plagiat",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Prévost",
         "date": "1936",
         "info": "francuski publicysta, którego fragmenty tekstu Rzymowski miał użyć w swoim felietonie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "O. Missuna",
         "date": "1937",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Min. Spraw Wewnętrznych",
         "date": "1937",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Walery Sławek",
         "date": "1939",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wanda Wasilewska",
         "date": "1944",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Leon Pasternak",
         "date": "1941",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bolesław Bierut",
         "date": "1944",
         "info": "przewodniczący pięcioosobowej delegacji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Stalin",
         "date": "1944",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. K. Wende",
         "date": "1944",
         "info": "wiceminister kultury i sztuki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt Modzelewski",
         "date": "1945",
         "info": "wiceminister spraw zagranicznych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "L. Chajn",
         "date": "1944",
         "info": "sekretarz generalny SD",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leon Chajn",
         "date": "1944",
         "info": "członek PPR",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Jan Karol Wende",
         "date": "1944",
         "info": "członek PPR",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Jan Rabanowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Cyrankiewicz",
         "date": "1947",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
