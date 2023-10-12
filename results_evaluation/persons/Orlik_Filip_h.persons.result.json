@@ -3,315 +3,330 @@
         "name": "Stefan Jaworski",
         "date": "brak danych",
         "info": "metropolita riazański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Mazepa",
         "date": "brak danych",
         "info": "hetman",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna Dolska",
         "date": "1705",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tomasz Załęski",
         "date": "1707",
         "info": "jezuita",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol XII",
         "date": "brak danych",
         "info": "król szwedzki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zabiegał u Porty wraz z Karolem XII o wypuszczenie jasyru"
     },
     {
         "name": "P. Puchot Des Alleurs",
         "date": "brak danych",
         "info": "ambasador francuski u Porty",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "współdziałał z hospodarem wołoskim i ambasadorem francuskim u Porty P. Puchot Des Alleursem"
     },
     {
         "name": "Józef Potocki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wbrew stanowisku Potockiego, który chciał skierować się na Litwę, uderzył ku Dnieprowi"
+    },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "z największym trudem zdołał się oprzeć żądaniom wezyra Solimana"
     },
     {
         "name": "Jerzy Dominik Lubomirski",
         "date": "1712",
         "info": "podkomorzy koronny",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "musiał tam jednak wysłać swe oddziały, które rozbił podkomorzy kor. Jerzy Dominik Lubomirski"
     },
     {
         "name": "Dewlet Girej",
         "date": "1712",
         "info": "chan",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "uratowało go tylko wstawiennictwo syna chańskiego Kałgi"
     },
     {
         "name": "Jan Sapieha",
         "date": "1712",
         "info": "starosta bobrujski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uratowało go tylko wstawiennictwo syna chańskiego Kałgi i Jana Sapiehy, star. bobrujskiego"
     },
     {
         "name": "Abdy Pasza",
         "date": "1713",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "1713",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Rogowski",
         "date": "1712",
         "info": "pułkownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Koniecpolski",
         "date": "1712",
         "info": "wojewoda sieradzki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Rzewuski",
         "date": "1712",
         "info": "hetman polny koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Lamar",
         "date": "1712",
         "info": "poseł Augusta II na Krym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk Heski",
         "date": "1719",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub Henryk Flemming",
         "date": "1720",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Poniatowski",
         "date": "1720",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "G. Dołgoruki",
         "date": "1720",
         "info": "poseł carski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - wysłany przez O-a dla przeprowadzenia odpowiedniej agitacji jego szwagier Grzegorz Hercyk został podstępnie ujęty przez posła carskiego G. Dołgorukiego w Warszawie i wysłany do Moskwy"
     },
     {
         "name": "A. Bernstorff",
         "date": "brak danych",
         "info": "minister",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "P. Jagużyński",
         "date": "brak danych",
         "info": "rezydent rosyjski w Wiedniu",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "tylko pomocy swych wrocławskich przyjaciół zawdzięczał, że nie powiódł się zamiar rezydenta rosyjskiego w Wiedniu P. Jagużyńskiego aresztowania go"
     },
     {
         "name": "Flemming",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "E. K. Manteuffel",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "August II",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "ks. Waniewski",
         "date": "brak danych",
         "info": "ksiądz, dawny przyjaciel i konfident",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Fryderyk",
         "date": "brak danych",
         "info": "książę holsztyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Nachimowski",
         "date": "brak danych",
         "info": "wysłannik Orlika",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Mikołaj Sieniawski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "name": "brak danych",
+        "result": false,
+        "pj_note": "Rezydent austriacki u Porty, J. Dierling, służył mu za pośrednika w nawiązywaniu kontaktów z poselstwem rosyjskim."
     },
     {
         "name": "Katarzyna I",
         "date": "brak danych",
         "info": "caryca",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Nie wyrzekał się porozumienia z dworem carskim, zwłaszcza gdy tron objęła Katarzyna I"
     },
     {
         "name": "A. Mienszykow",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Wszystko to nie zrównoważyło wpływów A. Mienszykowa, z którego polecenia hetmanem został D. Apostoł"
     },
     {
         "name": "D. Apostoł",
         "date": "brak danych",
         "info": "hetman",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "konkuretn do stanowiska hetmana - Wszystko to nie zrównoważyło wpływów A. Mienszykowa, z którego polecenia hetmanem został D. Apostoł"
     },
     {
         "name": "Jan Sapieha",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "jego towarzysze z czasów benderskich Jan Sapieha i Krzysztof Urbanowic"
     },
     {
         "name": "Krzysztof Urbanowicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "jego towarzysze z czasów benderskich Jan Sapieha i Krzysztof Urbanowic"
     },
     {
         "name": "Jakub Stuart",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzez Jakuba Stuarta, kardynała A. Albaniego i zwłaszcza jezuitów roztaczał O. przed Benedyktem XIII plany wprowadzenia katolicyzmu na Ukrainie"
     },
     {
         "name": "A. Albani",
         "date": "brak danych",
         "info": "kardynał",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzez Jakuba Stuarta, kardynała A. Albaniego i zwłaszcza jezuitów roztaczał O. przed Benedyktem XIII plany wprowadzenia katolicyzmu na Ukrainie"
     },
     {
         "name": "Benedykt XIII",
         "date": "brak danych",
         "info": "papież",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzez Jakuba Stuarta, kardynała A. Albaniego i zwłaszcza jezuitów roztaczał O. przed Benedyktem XIII plany wprowadzenia katolicyzmu na Ukrainie"
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "brak danych",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Ludwik XV",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. de Villeneuve",
         "date": "brak danych",
         "info": "ambasador francuski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konstantin Maurocordato",
         "date": "brak danych",
         "info": "hospodar",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Rakoczy",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Porta chciała najpierw wykorzystać O-a dla wsparcia młodego Rakoczego, Józefa, nakazując mu udać się do Widynia w zimie 1738"
     },
     {
         "name": "B. Münnich",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Stenflychta",
         "date": "brak danych",
         "info": "szwedzki generał",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Andrzej Dzierżanowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     }
 ]

@@ -3,315 +3,315 @@
         "name": "Stanisław August",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Sapieha",
         "date": "18 II 1753",
         "info": "wojewodzic smoleński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Józef Mierzejewski",
         "date": "brak danych",
         "info": "plenipotent",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Matuszewicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Poniatowski",
         "date": "ok. 1761",
         "info": "stolnik litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Magdalena Sapieżyna",
         "date": "1764",
         "info": "wojewodzina połocka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Lubomirski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - bohaterka występuje we wspomnieniach S. Lubomirskiego"
     },
     {
         "name": "M. T. Geoffrin",
         "date": "1766",
         "info": "przyjaciółka króla",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "N. Repnin",
         "date": "1768",
         "info": "poseł rosyjski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szczęsny Czacki",
         "date": "październik 1768",
         "info": "podczaszy koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Krasiński",
         "date": "1768",
         "info": "biskup kamieniecki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "K. Saldern",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Mierzejewski",
         "date": "brak danych",
         "info": "sędzia laski marszałkowskiej, strażnik polny kor.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kajetan Kurdwanowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "O. Stackelberg",
         "date": "1774",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Młodziejowski",
         "date": "26 IX 1776",
         "info": "kanclerz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Joanna Sapieżyna",
         "date": "26 IX 1776",
         "info": "wojewodzina smoleńska",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "H. Vautrin",
         "date": "1777",
         "info": "francuski uczeń",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to był nauczyciel syna bohaterki"
     },
     {
         "name": "Antoni Tyzenhauz",
         "date": "1778",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Moszczeńscy",
         "date": "1778/9",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Katarzyna Sapieżyna",
         "date": "1778/9",
         "info": "łowczyna litewska",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zdenek Kovac",
         "date": "brak danych",
         "info": "marszałek",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "halucynacja pochodząca z przykładu w prompcie"
     },
     {
         "name": "Ignacy Krasicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kajetan Sołtyk",
         "date": "brak danych",
         "info": "biskup krakowski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. Bułhak",
         "date": "1789",
         "info": "poseł rosyjski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "G. Lucchesini",
         "date": "1789",
         "info": "przedstawiciel króla pruskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mierzejewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Rzewuski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szczęsny Potocki",
         "date": "1790",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Latem 1790 pozostawała w opozycyjnej grupie, jednoczącej hetmanów i Szczęsnego Potockiego"
     },
     {
         "name": "Dorota (Daria)",
         "date": "1791",
         "info": "księżna kurlandzka",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "gościła S. w listopadzie 1791 księżnę kurlandzką Dorotę (Darię) i jej siostrę, Elizę von der Recke"
     },
     {
         "name": "Eliza von der Recke",
         "date": "1791",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "gościła S. w listopadzie 1791 księżnę kurlandzką Dorotę (Darię) i jej siostrę, Elizę von der Recke"
     },
     {
         "name": "J. U. Niemcewicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kurdwanowski",
         "date": "1792",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Katarzyna Kossakowska",
         "date": "1792",
         "info": "kasztelanowa kamieńska",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "była w pałacu kasztelanowej kamieńskiej Katarzyny Kossakowskiej"
     },
     {
         "name": "Stanisław August",
         "date": "1795",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Repnin",
         "date": "1795",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Ignacy Nielepiec",
         "date": "brak danych",
         "info": "dworzanin",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Na jej zlecenie Ignacy Nielepiec, dworzanin i zapewne dalszy krewny, uporządkował i opisał bibliotekę"
     },
     {
         "name": "Franciszek Karpiński",
         "date": "1799",
         "info": "poeta",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zamówiła u Franciszka Karpińskiego w styczniu 1799 wiersz"
     },
     {
         "name": "Wojciech Jakubowski",
         "date": "ok. 1772",
         "info": "poeta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Tomasz K. Węgierski",
         "date": "1776",
         "info": "poeta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Rafał Gurowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Ignacy Potocki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Franciszek Zabłocki",
         "date": "brak danych",
         "info": "poeta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "ks. Tempié (lub Tampié)",
         "date": "1778",
         "info": "eksjezuita, bibliotekarz, lektor",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "któremu nie zapłaciła za dwunastoletni pobyt w charakterze bibliotekarza, lektora"
     },
     {
         "name": "K. Koźmian",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
