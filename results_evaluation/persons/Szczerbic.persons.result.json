@@ -3,287 +3,292 @@
         "name": "Jan Tarnowski",
         "date": "brak danych",
         "info": "hetman koronny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ważna osoba dla ojca bohatera"
     },
     {
         "name": "Dionizy Stuba",
         "date": "brak danych",
         "info": "malarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "ojciec bohatera posiadał częśc kamienicy obok domu tej osoby"
     },
     {
         "name": "Marcin Konig",
         "date": "brak danych",
         "info": "zwany Karczmarzem",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "ojciec bohatera posiadał częśc kamienicy obok domu tej osoby"
     },
     {
         "name": "Stanisław Czymerman",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Paweł Fetter",
         "date": "brak danych",
         "info": "złotnik",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Józef Fox",
         "date": "brak danych",
         "info": "złotnik",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Florian Siebenburger",
         "date": "brak danych",
         "info": "płatnerz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Mikołaj Firlej",
         "date": "brak danych",
         "info": "wojewoda krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Anserinus",
         "date": "1577",
         "info": "notariusz lwowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Mielecki",
         "date": "1577",
         "info": "wojewoda podolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Stefanowski",
         "date": "1578",
         "info": "malarz lwowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - potwierdził 10 II 1578 zapłacenie przez krakowskiego cieślę Stanisława 5 fl. na rzecz lwowskiego malarza Wojciecha Stefanowskiego"
     },
     {
         "name": "Stanisław",
         "date": "1578",
         "info": "cieśla krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - potwierdził 10 II 1578 zapłacenie przez krakowskiego cieślę Stanisława 5 fl. na rzecz lwowskiego malarza Wojciecha Stefanowskiego"
     },
     {
         "name": "Stefan Batory",
         "date": "1579",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Zamoyski",
         "date": "1578",
         "info": "kanclerz koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Jaskier",
         "date": "brak danych",
         "info": "pisarz miejski krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater korzystał z prac tej osoby ale to nie jest dostateczny związek"
     },
     {
         "name": "Stanisław Karnkowski",
         "date": "1585",
         "info": "arcybiskup gnieźnieński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Rybiński",
         "date": "1593",
         "info": "sekretarz toruński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Justus Lipsius",
         "date": "brak danych",
         "info": "filozof",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Firlej",
         "date": "brak danych",
         "info": "podskarbi wielki koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Sołtykowicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Dawid Hilchen",
         "date": "1604",
         "info": "pisarz ziemski wendeński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "name": "Jan Łaski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Przyłuski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Herburta",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zygmunt I",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zygmunt August",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zygmunt III",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lipsjusz",
         "date": "1608",
         "info": "autor traktatu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Korycki",
         "date": "13 III 1609",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Hanus Henle",
         "date": "ok. 1595",
         "info": "lwowianin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Zapala",
         "date": "30 XII 1578",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Zapała?"
+    },
+    {
+        "name": "brak danych",
+        "results": false,
+        "pj_note": "procesował się z Janem Podczaszym o części wsi Chruszczobród"
     },
     {
         "name": "Stanisław Podczaszy",
         "date": "1591",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Krucki",
         "date": "1595",
         "info": "pisarz kancelarii królewskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Sękowski",
         "date": "1596",
         "info": "dworzanin królewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Gostwicki",
         "date": "1598",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Walentemu Skalski",
         "date": "1599",
         "info": "sztygar",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Piotr Ciekliński",
         "date": "20 V 1604",
         "info": "poeta i sekretarz królewski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stanisław Korzeński",
         "date": "1611",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Florian Groth",
         "date": "1614",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Anna Trembecka",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "krewny"
     },
     {
         "name": "Jost Cyrus-Sobolewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
