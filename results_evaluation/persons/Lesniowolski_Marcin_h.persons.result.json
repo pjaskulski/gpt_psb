@@ -3,266 +3,266 @@
         "name": "Stanisław Sokołowski",
         "date": "brak danych",
         "info": "ksiądz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Fox",
         "date": "brak danych",
         "info": "preceptor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Firlej",
         "date": "brak danych",
         "info": "przyszły wojewoda krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Maciejowski",
         "date": "brak danych",
         "info": "wojewoda lubelski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Zborowski",
         "date": "1573",
         "info": "wojewoda sandomierski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk Walezy",
         "date": "1573",
         "info": "kandydat na tron polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Monluc",
         "date": "1573",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Franciszek de La Noue",
         "date": "1573",
         "info": "gubernator Roszelli",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol IX",
         "date": "1573",
         "info": "król Francji",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak związku z bohaterem: L. został ... skontaktowany ... z ... Franciszkiem de La Noue, gubernatorem Roszelli i zarazem prowadzącym w imieniu Karola IX rokowania z oblężonymi hugonotami"
     },
     {
         "name": "Maksymilian",
         "date": "brak danych",
         "info": "cesarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "podpisał akt elekcji cesarza Maksymiliana - to chyba za mało by cesarz był ważną osobą dla postaci?"
     },
     {
         "name": "Jan Zamoyski",
         "date": "1577",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Krzysztof Zborowski",
         "date": "1585",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście: wypowiedział się stanowczo za udziałem króla w sądzie nad Krzysztofem Zborowskim"
     },
     {
         "name": "Stefan Batory",
         "date": "brak danych",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Dużą aktywność rozwinął L. podczas bezkrólewia po śmierci Stefana Batorego"
     },
     {
         "name": "Stanisław Karnkowski",
         "date": "1587",
         "info": "prymas",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście: rozpoczęcie opóźniło się z powodu nieobecności prymasa Stanisława Karnkowskiego"
     },
     {
         "name": "Wojciech Baranowski",
         "date": "brak danych",
         "info": "biskup przemyski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna Jagiellonka",
         "date": "1587",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Pozyskany przez Annę Jagiellonkę dla kandydatury szwedzkiej"
     },
     {
         "name": "Jan III",
         "date": "1587",
         "info": "król Szwecji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt",
         "date": "1587",
         "info": "królewicz szwedzki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fiedor",
         "date": "1587",
         "info": "car",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "szachując Jana III perspektywą wyboru na tron Polski cara Fiedora "
     },
     {
         "name": "Joachim Bielski",
         "date": "1588",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "panegiryku pióra Joachima Bielskiego"
     },
     {
         "name": "Andrzej Opaliński",
         "date": "1588",
         "info": "marszałek wielki koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wawrzyniec Goślicki",
         "date": "1588",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Tylicki",
         "date": "1588",
         "info": "sekretarz wielki koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aldobrandini",
         "date": "1588",
         "info": "kardynał, legat papieski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "K. Warszewicki",
         "date": "1588",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Reszka",
         "date": "1588",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna ks. holszańska",
         "date": "1589",
         "info": "protestantka",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Zaangażowany był także w akcję zmierzającą do udaremnienia lansowanego przez Jana III i Annę Wazównę małżeństwa Zygmunta III z protestantką Anną ks. holszańską."
     },
     {
         "name": "Firlej",
         "date": "brak danych",
         "info": "wojewoda krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zamoyski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Zygmunt III",
         "date": "brak danych",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w zasadzie to powtórzenie, wcześniej Zygmunt wystapił jako królewicz"
     },
     {
         "name": "Ernest",
         "date": "1591",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "braz bezpośredniego związku: potwierdził stanowczo wieści o zamiarze oddania przez Zygmunta tronu polskiego Ernestowi."
     },
     {
         "name": "S. Reszka",
         "date": "brak danych",
         "info": "przyjaciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "B. Paprocki",
         "date": "brak danych",
         "info": "przeciwnik z obozu maksymilianistów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Barwiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Lepszy",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Piotr Skarga",
         "date": "1592",
         "info": "założyciel Bractwa Miłosierdzia Św. Łukasza w Warszawie",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - był prefektem założonego przez Piotra Skargę w r. 1592 Bractwa Miłosierdzia Św. Łukasza w Warszawie"
     },
     {
         "name": "J. Wielewicki",
         "date": "brak danych",
         "info": "kronikarz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "name": "S. Górka",
         "date": "1589",
         "info": "wojewoda poznański",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pożyczył woj. poznańskiemu S. Górce 85 000 zł"
     }
 ]
