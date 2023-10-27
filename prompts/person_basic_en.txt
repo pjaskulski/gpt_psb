@@ -1,0 +1,39 @@
+Based on the provided text of the biography, find the place of birth, place of death, place of burial, date of birth, date of death, and date of burial of the protagonist. Present the results in the form of a list of JSON objects containing the fields:
+place_of_birth: the birthplace of the protagonist (name of the town), if more detailed information about the place of birth is known, for example: 'near Krakow', 'Brzeski county', 'by the Vistula River', record it in an additional field: note
+place_of_death: the place of death of the protagonist (name of the town), if more detailed information about the place of death is known, for example: 'near Krakow', 'Brzeski county', 'by the Vistula River', record it in an additional field: note
+place_of_burial: the burial place of the protagonist (name of the town), if more detailed information about the burial place is known, record it in an additional field: note
+date_of_birth: the date of birth of the protagonist, only if there are additional terms next to the date, for example: around, before, after, record them in an additional field: note
+date_of_death: the date of death of the protagonist, only if there are additional terms next to the date, for example: around, before, after, record them in an additional field: note
+date_of_burial: the date of burial of the protagonist, only if there are additional terms next to the date, for example: around, before, after, record them in an additional field: note
+Instead of the protagonist's name in the depth of the text, the initial of the surname or first name may appear, e.g. S.
+If any information is missing from the given text, write: 'no data'. Besides the result in JSON format, do not add any descriptions or comments to the answer. Include only information that is found in the text provided. Provide your answers in Polish.
+###
+Example 1.
+Text: "Soderini Carlos (1557- ok. 1591), kupiec i bankier.
+Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
+bratem Bernarda (zob.). Ur. się 1 czerwca, we wsi Andalewo koło Wyszeborga. Jego bratanicą była Małgorzata Anna, żona
+Winfrida de Loeve. S. ożenił się z Joanną, córką burgrabiego
+krakowskiego Adama Kurozwęckiego. Zmarł w Hurczynianach, pochowano go po 15 czerwca 1591 roku na miejscowym cmentarzu parafialnym."
+Result:
+{
+ "place_of_birth":{"place":"Andalewo", "note":"koło Wyszeborga"},
+ "place_of_death":{"place":"Hurczyniany", "note":"powiat koniński"},
+ "place_of_burial":{"place": Hurczyniany", "note": "miejscowy cmentarz parafialny"},
+ "date_of_birth":{"date":"1557-06-01"},
+ "date_of_death":{"date":"1591", "note":"około"},
+ "date_of_burial":{"date":"1591-06-15", "note":"po"}
+}
+###
+Example 2.
+Text: "Kowalski Jerzy (1857- ok. 1901), nauczyciel. Ur. 17 VII. Mieszkał i uczył się w Warszawie. Zmarł w Otwocku, w sierpniu 1901 roku, pochowano go po 15 sierpnia roku na cmentarzu ewangelickim."
+Result:
+{
+ "place_of_birth":{"place":"brak danych"},
+ "place_of_death":{"place":"Otwock"},
+ "place_of_burial":{"place": Otwock", "note": "cmentarz ewangelicki"},
+ "date_of_birth":{"date":"1857-07-17"},
+ "date_of_death":{"date":"1901-08"},
+ "date_of_burial":{"date":"1901-08-15", "note":"po"}
+}
+###
+Text:
