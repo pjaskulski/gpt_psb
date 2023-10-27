@@ -1,0 +1,220 @@
+{
+    "name": "Mikołaj Poszuszwieński Szymkowicz",
+    "psb_id": "PSB-50-0136",
+    "biogram_file": "Szymkowicz_Poszuszwienski_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1563-07-28",
+        "note": "nie żył już"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Poszuszwie",
+        "note": "w zborze"
+    },
+    "functions": [
+        "marszałek hospodarski",
+        "ciwun ejragolski",
+        "dzierżawca wieloński",
+        "dworzanin hospodarski",
+        "marszałek hospodarski (dworski)",
+        "starosta upicki",
+        "dzierżawca włości wielońskiej",
+        "starosta na zamku Bowsk (Bauske) w Kurlandii",
+        "sprawca star. żmudzkiego",
+        "pisarz dworów i włości ziemi żmudzkiej",
+        "ciwun Małych Dyrwian"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "dwór Jagiellonów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zakon kawalerów mieczowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zbór ewangelicki",
+            "institution_place": "Poszuszwie"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Szymki (Szymon) Mitkowicza Poszuszwieński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Elżbieta Stankiewiczówna"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Stanisław"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Hanna"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Dorota"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Jadwiga Marcinówna Czyżówna"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Marek Ławrynowicz Wnuczek"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Stanisław Bielewicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "brak danych",
+            "person_info": "Król"
+        },
+        {
+            "person_name": "Joachim II Hohenzollern",
+            "person_date": "1535",
+            "person_info": "elektor brandenburski"
+        },
+        {
+            "person_name": "Andrzej Mackowicz",
+            "person_date": "1537",
+            "person_info": "pisarz dworów i włości hospodarskich"
+        },
+        {
+            "person_name": "Jan Gradowski",
+            "person_date": "1553",
+            "person_info": "pomierczy"
+        },
+        {
+            "person_name": "M. Połaski",
+            "person_date": "1553",
+            "person_info": "pomierczy"
+        },
+        {
+            "person_name": "Hrehory Ościk",
+            "person_date": "1557",
+            "person_info": "kasztelan wileński"
+        },
+        {
+            "person_name": "Wasyl Tyszkiewicz",
+            "person_date": "1558",
+            "person_info": "wojewoda podlaski"
+        },
+        {
+            "person_name": "Iwan IV Groźny",
+            "person_date": "1559",
+            "person_info": "car"
+        },
+        {
+            "person_name": "Jan Chodkiewicz",
+            "person_date": "1559",
+            "person_info": "stolnik litewski"
+        },
+        {
+            "person_name": "Hieronim Chodkiewicz",
+            "person_date": "1561",
+            "person_info": "starosta żmudzki"
+        },
+        {
+            "person_name": "Jan Wojciechowicz Kmita",
+            "person_date": "1561",
+            "person_info": "marszałek hospodarski"
+        },
+        {
+            "person_name": "Grzegorz Chodkiewicz",
+            "person_date": "1562",
+            "person_info": "kasztelan trocki i hetman polny litewski"
+        },
+        {
+            "person_name": "Bogdan Mitkowicz",
+            "person_date": "1556",
+            "person_info": "pisarz dworów i włości ziemi żmudzkiej oraz ciwun Małych Dyrwian"
+        },
+        {
+            "person_name": "Jakub Secygniowski",
+            "person_date": "1565",
+            "person_info": "rotmistrz jazdy"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wilno",
+            "date": "1535-04-14"
+        },
+        {
+            "place": "Kraków",
+            "date": "1535"
+        },
+        {
+            "place": "Żmudź",
+            "date": "1537"
+        },
+        {
+            "place": "Połaski",
+            "date": "1553"
+        },
+        {
+            "place": "Upickie",
+            "date": "1557-10-20 do 1558-05-10"
+        },
+        {
+            "place": "Wielońskie",
+            "date": "1558-12"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1559-02-16 do 1559-03-03"
+        },
+        {
+            "place": "Bowsk",
+            "date": "1559"
+        },
+        {
+            "place": "Poszuszwie",
+            "date": "1556"
+        },
+        {
+            "place": "Nadroszleński",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kojranowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1563-04-16"
+        }
+    ]
+}

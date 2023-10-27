@@ -1,0 +1,76 @@
+{
+  "Nazwisko": [
+    "Olgierdowicz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1399"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "przyrodni brat Jagiełły",
+    "syn w. księcia Litwy Olgierda i jego pierwszej żony Marii ks. Witebskiej",
+    "książę Drucki i Briański"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Dymitr Olgierdowicz Starszy",
+      "target": "Jagiełły",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "† 1399",
+      "target": "Jagiełły",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Dymitr Starszy",
+      "target": "Korybut",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Dymitr Olgierdowicz Starszy",
+      "target": "Dymitrem Olgierdowiczem Briańskim Trubczewskim",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Dymitr Olgierdowicz Starszy",
+      "target": "Dymitrem Druckim",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Mamajowi",
+      "target": "Andrzeja Połockiego",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Mamajowi",
+      "target": "Dymitra Koriatowicza Wołyńskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Jagiełłę",
+      "target": "Dymitra Olgierdowicza",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Jagiełły",
+      "target": "Dymitr",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Dymitra Iwanowicza",
+      "target": "Jadwidze",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

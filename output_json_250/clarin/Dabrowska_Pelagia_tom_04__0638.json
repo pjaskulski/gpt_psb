@@ -1,0 +1,52 @@
+{
+  "Nazwisko": [
+    "Dąbrowska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Pelagia"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "10-09-1843"
+  ],
+  "Miejsce urodzenia": [
+    "Dubience"
+  ],
+  "Data śmierci": [
+    "11-02-1909"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "żona Jarosława",
+    "nauczycielka"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "centralny komitet narodowy",
+    "królowy Jadwiga"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Dąbrowska Pelagia",
+      "target": "Jarosława",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Pelagii z Piotrowskich",
+      "target": "Michała Zgliczyńskiego",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Walerii",
+      "target": "Ignacji Piotrowskich",
+      "name": "współmałżonek - krewny"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Nazwisko": [
+    "Głowacki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ignacy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1770"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1815 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "W . P",
+    "legion Dąbrowski",
+    "VI batalion",
+    "legion",
+    "6 pan . jazda galicyjsko -",
+    "15 pan . ułan .",
+    "korpus weteran i inwalida"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    "francuski",
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "G.",
+      "target": "Szubertowi",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "G-ego",
+      "target": "Wojciech Bartosz Głowacki",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

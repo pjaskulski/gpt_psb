@@ -1,0 +1,99 @@
+{
+    "name": "Fenenna",
+    "psb_id": "PSB-06-0596",
+    "biogram_file": "Fenenna.txt",
+    "date_of_birth": {
+        "date": "1276",
+        "note": "pod koniec roku"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1295",
+        "note": "z końcem roku"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "królowa Węgier"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Ziemomysł"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Władysław Łokietek"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Andrzej III"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Teodor"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jerzy Baksa"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Andrzej III",
+            "person_date": "1290",
+            "person_info": "król Węgier"
+        },
+        {
+            "person_name": "Teodor",
+            "person_date": "1290",
+            "person_info": "podkanclerzy, proboszcz z Fehervar"
+        },
+        {
+            "person_name": "Wacław III",
+            "person_date": "1298",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "brak danych",
+            "date": "1276"
+        },
+        {
+            "place": "Węgry",
+            "date": "1290"
+        },
+        {
+            "place": "Polska",
+            "date": "1290"
+        },
+        {
+            "place": "Śląsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czechy",
+            "date": "1298"
+        }
+    ]
+}

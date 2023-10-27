@@ -1,0 +1,64 @@
+{
+  "Nazwisko": [
+    "Rokosz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": [
+    "Ostoja"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1464 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "podstarości",
+    "potem sędzia ziemski krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "R-a",
+      "target": "Chełmskich",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-a",
+      "target": "Paszka Niedźwiedzia",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Półkozic",
+      "target": "Jana Czyżowskiego",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "R-a",
+      "target": "Ścibor",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Elżbietą",
+      "target": "Włodka",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "Ściborem",
+      "target": "Spytka Melsztyńskiego",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "R-a",
+      "target": "Czyżowski",
+      "name": "protagonist - znacząca osoba"
+    }
+  ]
+}

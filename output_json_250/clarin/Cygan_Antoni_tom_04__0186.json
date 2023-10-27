@@ -1,0 +1,45 @@
+{
+  "Nazwisko": [
+    "Cygan"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Antoni"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1830"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1895"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "najprzód w polskiej szkole ćwiczeń",
+    "tzw"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "śląski",
+    "publiczny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Chopina",
+      "target": "Dobrzyńskiego",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "C.",
+      "target": "Karol Hauschke",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

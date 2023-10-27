@@ -1,0 +1,189 @@
+{
+    "name": "Aleksander Przezdziecki",
+    "psb_id": "PSB-29-0031",
+    "biogram_file": "Przezdziecki_Aleksander_h.txt",
+    "date_of_birth": {
+        "date": "1665",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1734-10-24",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "note": "zapewne"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan inflancki",
+        "chorąży mozyrski",
+        "deputat na Trybunał W. Ks. Lit.",
+        "towarzysz chorągwi pancernej",
+        "sekretarz poselstwa do Rosji",
+        "miecznik lit.",
+        "sekretarz jednego z poselstw polskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Trybunał W. Ks. Lit.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Senatu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Poselstwo do Rosji",
+            "institution_place": "Rosja"
+        },
+        {
+            "institution_name": "Poselstwo Tomasza Działyńskiego",
+            "institution_place": "Rosja"
+        },
+        {
+            "institution_name": "Konfederacja tarnogrodzka",
+            "institution_place": "Tarnogród"
+        },
+        {
+            "institution_name": "Poselstwo polskie",
+            "institution_place": "Rosja"
+        },
+        {
+            "institution_name": "Elekcja Stanisława Leszczyńskiego",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Krzysztof Przezdziecki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Eleonora ze Skopów"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Felicjanna z Chreptowiczów"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Konstancja Aleksandra z Kamińskich"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Józef Przezdziecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Krzysztof Przezdziecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Antoni Przezdziecki"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Krzysztof Kamiński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zenowicz",
+            "person_date": "1694",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "1697",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Michał Wiśniowiecki",
+            "person_date": "brak danych",
+            "person_info": "późniejszy kanclerz w. lit."
+        },
+        {
+            "person_name": "Piotr I",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1706",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Tomasz Działyński",
+            "person_date": "1704",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Mniszch",
+            "person_date": "1717",
+            "person_info": "marszałek w. kor."
+        },
+        {
+            "person_name": "Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Matuszewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Felicjanna z Chreptowiczów",
+            "person_date": "brak danych",
+            "person_info": "podkomorzanka nowogrodzka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mozyr",
+            "date": "1694"
+        },
+        {
+            "place": "Litwa",
+            "date": "1700"
+        },
+        {
+            "place": "Rosja",
+            "date": "1703"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1703"
+        },
+        {
+            "place": "Saksonia",
+            "date": "1706"
+        },
+        {
+            "place": "Biesiady",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zasław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włodawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1732"
+        }
+    ]
+}

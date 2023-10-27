@@ -1,0 +1,42 @@
+{
+  "Nazwisko": [
+    "Sowiński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Leonard"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "07-11-1831"
+  ],
+  "Miejsce urodzenia": [
+    "Berezówka"
+  ],
+  "Data śmierci": [
+    "DD-MM-1887"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "poeta",
+    "publicysta"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . kijowski",
+    "uniwersytet"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S.",
+      "target": "Henrykiem Jabłońskim",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

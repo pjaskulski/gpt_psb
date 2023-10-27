@@ -1,0 +1,51 @@
+{
+  "Nazwisko": [
+    "Braun"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1859"
+  ],
+  "Miejsce urodzenia": [
+    "Jaszczwi"
+  ],
+  "Data śmierci": [
+    "DD-MM-1922"
+  ],
+  "Miejsce śmierci": [
+    "Krakowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "ginekolog",
+    "ur. w Jaszczwi koło Krosna",
+    "uzyskał stopień dra wszech nauk lekarskich w Uniw. Jag"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Jag .",
+    "szpital święty . łazarzy",
+    "U . J",
+    "Wydz . lekarz .",
+    "Uniw .",
+    "krak .",
+    "dziekanat lekarz . U . J",
+    "List do Koryntian"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": null
+}

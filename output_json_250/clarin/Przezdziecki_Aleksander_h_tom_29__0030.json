@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Przezdziecki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Aleksander"
+  ],
+  "Herb": [
+    "Roch III"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1665"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 24-10-1733"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan inflancki"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "trybunał W . ksiądz . litera"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "P.",
+      "target": "Zenowiczami",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "P-ego",
+      "target": "Stanisław Leszczyński",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+    "name": "Jan Rokosz",
+    "psb_id": "PSB-31-0390",
+    "biogram_file": "Rokosz_Jan.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Koszyce Wielkie",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1464",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "podstarości",
+        "sędzia ziemski krakowski",
+        "sygnatariusz konfederacji korczyńskiej",
+        "starosta zatorski",
+        "burgrabia krakowski",
+        "komisarz królewski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "konfederacja korczyńska Spytka Melsztyńskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "klasztor Św. Andrzeja",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "urząd star. krakowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "urząd podstarościego krakowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "urząd burgrabiego krakowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "urząd sędziego ziemskiego krakowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "klasztor zwierzyniecki",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Dobiesław z Konar"
+        },
+        {
+            "family_relation": "matka",
+            "person": "córka Paszka Niedźwiedzia z Bogumiłowic"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Ścibor z Koszyc"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Dobiesław z Konar"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Katarzyna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "nieznana z imienia"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dobiesław"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Dorota"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Beata"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Mikołaj z Łowczowa"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Dobiesław"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Dobiesław z Konar",
+            "person_date": "brak danych",
+            "person_info": "stolnik krakowski, podsędek ziemski krakowski"
+        },
+        {
+            "person_name": "Paszko Niedźwiedź z Bogumiłowic",
+            "person_date": "brak danych",
+            "person_info": "dziad Jana Czyżowskiego"
+        },
+        {
+            "person_name": "Jan z Bogumiłowic i Broniszowa",
+            "person_date": "brak danych",
+            "person_info": "kasztelan czechowski"
+        },
+        {
+            "person_name": "Spytek Melsztyński",
+            "person_date": "brak danych",
+            "person_info": "sygnatariusz konfederacji korczyńskiej"
+        },
+        {
+            "person_name": "Jan Czyżowski",
+            "person_date": "1440",
+            "person_info": "kasztelan krakowski, starosta krakowski, namiestnik Królestwa"
+        },
+        {
+            "person_name": "Wacław książę oświęcimski",
+            "person_date": "1440",
+            "person_info": "książę oświęcimski"
+        },
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jan Pilecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Dynkwart",
+            "person_date": "1442",
+            "person_info": "sprzedał wieś Bogumiłowice"
+        },
+        {
+            "person_name": "Mikołaj z Góry",
+            "person_date": "1442",
+            "person_info": "sprzedał połowę Łękawicy"
+        },
+        {
+            "person_name": "Grzegorz Smoczek",
+            "person_date": "1445",
+            "person_info": "sprzedał część w Biadolinach"
+        },
+        {
+            "person_name": "Bartosz z Wierzchosławic",
+            "person_date": "1462",
+            "person_info": "ugodził się w sprawie korzystania ze wspólnych lasów"
+        },
+        {
+            "person_name": "Mikołaj Grzymała",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Odrowąż ze Sprowy",
+            "person_date": "brak danych",
+            "person_info": "wojewoda i starosta lwowski"
+        },
+        {
+            "person_name": "Bartosz Buczacki",
+            "person_date": "brak danych",
+            "person_info": "starosta kamieniecki"
+        },
+        {
+            "person_name": "Jan Bohun z Dunosów",
+            "person_date": "1464",
+            "person_info": "sędzia ziemski krakowski"
+        },
+        {
+            "person_name": "Jan z Pleszowa",
+            "person_date": "1419",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bartosz z Wierzchosławic",
+            "person_date": "1462",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Koszyce Wielkie",
+            "date": "brak danych"
+        },
+        {
+            "place": "Konary",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bogumiłowice",
+            "date": "1442"
+        },
+        {
+            "place": "Czajków",
+            "date": "1442"
+        },
+        {
+            "place": "Bukowa",
+            "date": "1442"
+        },
+        {
+            "place": "Smerdynia",
+            "date": "1442"
+        },
+        {
+            "place": "Łękawica",
+            "date": "brak danych"
+        }
+    ]
+}

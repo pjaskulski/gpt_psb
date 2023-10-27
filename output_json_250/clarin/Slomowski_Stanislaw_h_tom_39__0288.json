@@ -1,0 +1,60 @@
+{
+  "Nazwisko": [
+    "Słomowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": [
+    "Abdank"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "10-10-1575"
+  ],
+  "Miejsce śmierci": [
+    "Lwowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "sufragan krakowski",
+    "arcybiskup lwowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Tomickiego",
+      "target": "Andrzeja Krzyckiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "S.",
+      "target": "Tomickiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S.",
+      "target": "Andrzeja Krzyckiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Krzyckiego",
+      "target": "Janem",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Krzyckiego",
+      "target": "Andrzejem Zebrzydowskim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

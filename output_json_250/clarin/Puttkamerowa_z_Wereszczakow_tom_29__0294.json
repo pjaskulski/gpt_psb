@@ -1,0 +1,85 @@
+{
+  "Nazwisko": [
+    "Puttkamerowa"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Marianna",
+    "Ewa"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "24-12-1799"
+  ],
+  "Miejsce urodzenia": [
+    "Tuhanowiczach"
+  ],
+  "Data śmierci": [
+    "28-12-1863"
+  ],
+  "Miejsce śmierci": [
+    "Brażelcach"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "była córką Antoniego Wereszczaki",
+    "marszałka szlachty pow. nowogródzkiego",
+    "i Franciszki z Ancutów"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Marianna Ewa",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Marią",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Marylą",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Dei",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Die",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Kolatorka",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "Puttkamerowa z Wereszczaków",
+      "target": "Wawrzyńca Puttkamera",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Antoniego Edwarda Odyńca",
+      "target": "Jana Jakuba Rousseau",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Maryli",
+      "target": "Ignacy Domeyko",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Marii",
+      "target": "Otto Ślizień",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

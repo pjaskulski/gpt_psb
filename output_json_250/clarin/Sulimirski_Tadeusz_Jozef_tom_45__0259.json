@@ -1,0 +1,78 @@
+{
+  "Nazwisko": [
+    "Sulimirski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Tadeusz",
+    "Marian",
+    "Józef"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "T.S."
+  ],
+  "Data urodzenia": [
+    "01-04-1898"
+  ],
+  "Miejsce urodzenia": [
+    "Kobylanach"
+  ],
+  "Data śmierci": [
+    "20-06-1983"
+  ],
+  "Miejsce śmierci": [
+    "Londynie"
+  ],
+  "Data pochówku": [
+    "06-09-1983"
+  ],
+  "Miejsce pochówku": [
+    "cmentarz w Kobylanach"
+  ],
+  "Zawód": [
+    "archeolog",
+    "profesor Uniwersytetu Jagiellońskiego",
+    "profesor i rektor Polskiego Uniwersytetu na Obczyźnie w Londynie",
+    "działacz oświatowy i społeczny"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet jagielloński",
+    "polski uniwersytet na obczyzna",
+    "gimnazjum imienia . Adam Mickiewicz",
+    ". Władysława Jagiełło",
+    "Tadeusz Kościuszko",
+    "gimnazjum imienia . Mickiewicz",
+    "5 . szwadron",
+    "2 . pan . ułan",
+    "legion polski",
+    "POW",
+    "Wydz . budowa maszyna",
+    "szkoła politechniczny",
+    "9 . pan . ułan",
+    "WP"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Oktawii z Peszyńskich",
+      "target": "Stefana Sulimirskiego",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Radziwiłł"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Aleksander",
+    "Mikołaj",
+    "Jan"
+  ],
+  "Herb": [
+    "Trąby"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "17-05-1681"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "20-01-1729"
+  ],
+  "Miejsce śmierci": [
+    "Czarnawczycach"
+  ],
+  "Data pochówku": [
+    "22-09-1747"
+  ],
+  "Miejsce pochówku": [
+    "Nieświeżu u jezuitów"
+  ],
+  "Zawód": [
+    "wojewoda nowogródzki",
+    "ordynat klecki"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Radziwiłłów",
+      "target": "Sapiehów",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "R-a",
+      "target": "Sapiehów",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Ludwiki Opalińskiej",
+      "target": "Piotra",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

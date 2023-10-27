@@ -1,0 +1,254 @@
+{
+    "name": "Maria Józefa",
+    "psb_id": "PSB-20-0001",
+    "biogram_file": "Maria_Jozefa.txt",
+    "date_of_birth": {
+        "date": "1699-12-08"
+    },
+    "place_of_birth": {
+        "place": "Wiedeń",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1757-11-17"
+    },
+    "place_of_death": {
+        "place": "Drezno",
+        "note": "okupowane przez Prusaków"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "królowa polska",
+        "żona Augusta III",
+        "spowiednik ojciec Guarini",
+        "biskup poznański",
+        "oficjał warszawski",
+        "królewicz",
+        "senator",
+        "elektor bawarski",
+        "posłowie pruscy",
+        "posłowie francuscy",
+        "cesarz",
+        "posłowie francuski w Berlinie",
+        "królowa-żona",
+        "wojewoda krakowski",
+        "starosta spiski",
+        "syn ks. Ksawery",
+        "elektor bawarski Maksymilian III Józef"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Liga Święta",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór królewicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Rzeczypospolitej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór polsko-saski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm grodzieński",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Starostwo spiskie",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "mąż",
+            "person": "August III"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Józef I, cesarz rzymski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Amalia hanowerska"
+        },
+        {
+            "family_relation": "babcia",
+            "person": "Eleonora von Pfalz-Neuburg"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Fryderyk August"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ksawery"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Fryderyk August"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Józef August"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Fryderyk Chrystian"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Karol"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Albrecht Kazimierz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Klemens Wacław"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Amelia"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Józefa"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Małgorzata"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Anna"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Krystyna"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Kunegunda"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "August II",
+            "person_date": "1719",
+            "person_info": "król polski"
+        },
+        {
+            "person_name": "Teodor Czartoryski",
+            "person_date": "1750",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Antoni Grzegorzewski",
+            "person_date": "1750",
+            "person_info": "oficjał warszawski"
+        },
+        {
+            "person_name": "Karol VI",
+            "person_date": "1740",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Karol VII",
+            "person_date": "1741",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "de Valory",
+            "person_date": "brak danych",
+            "person_info": "poseł francuski w Berlinie"
+        },
+        {
+            "person_name": "Teodor Lubomirski",
+            "person_date": "1745",
+            "person_info": "wojewoda krakowski"
+        },
+        {
+            "person_name": "Maksymilian III Józef",
+            "person_date": "brak danych",
+            "person_info": "elektor bawarski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wiedeń",
+            "date": "1719-08-20"
+        },
+        {
+            "place": "Zielona Góra",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szprotawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polska",
+            "date": "1734-01"
+        },
+        {
+            "place": "Drezno",
+            "date": "1741-01"
+        },
+        {
+            "place": "Chełm",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1750"
+        },
+        {
+            "place": "Hanower",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Prusy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bawaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Holandia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czechy",
+            "date": "brak danych"
+        }
+    ]
+}

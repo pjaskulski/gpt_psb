@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Kolberg"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wilhelm",
+    "Adolf",
+    "Karol"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "13-06-1807"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "04-06-1877"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kartograf",
+    "hydrograf",
+    "inżynier dróg i mostów"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "liceum warszawski",
+    "korpus inżynier",
+    "szkoła aplikacyjny",
+    "Uniw . Warsz",
+    "Kwatera główny",
+    "wydział komunikacja",
+    "komisja rządowy sprawa wewnętrzny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": null
+}

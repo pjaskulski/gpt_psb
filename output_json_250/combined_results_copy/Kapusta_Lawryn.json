@@ -1,0 +1,138 @@
+{
+    "name": "Ławryn Kapusta",
+    "psb_id": "PSB-12-0005",
+    "biogram_file": "Kapusta_Lawryn.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "setnik",
+        "dyplomata kozacki",
+        "setnik czehryński",
+        "setnik subotowski",
+        "posłowiec do Moskwy",
+        "posłowiec do sułtana tureckiego",
+        "przedstawiciel góry kozackiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Setnik czehryński",
+            "institution_place": "Czehryń"
+        },
+        {
+            "institution_name": "Setnik subotowski",
+            "institution_place": "Subotów"
+        },
+        {
+            "institution_name": "Poselstwo do Moskwy",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Poselstwo do sułtana tureckiego",
+            "institution_place": "Stambuł"
+        },
+        {
+            "institution_name": "Góra kozacka",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Bohdan Chmielnicki",
+            "person_date": "1653",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Fedorowicz",
+            "person_date": "1653",
+            "person_info": "były dowódca załogi kozackiej w Suczawie"
+        },
+        {
+            "person_name": "Iwan Fomin",
+            "person_date": "1653",
+            "person_info": "posel moskiewski"
+        },
+        {
+            "person_name": "Strieszniew",
+            "person_date": "1653",
+            "person_info": "posel carski"
+        },
+        {
+            "person_name": "Briedichin",
+            "person_date": "1653",
+            "person_info": "posel carski"
+        },
+        {
+            "person_name": "Repnin-Oboleński",
+            "person_date": "1653",
+            "person_info": "poseł rosyjski do Polski"
+        },
+        {
+            "person_name": "Buturlin",
+            "person_date": "1653",
+            "person_info": "wielki poseł"
+        },
+        {
+            "person_name": "Piotr Parcewicz",
+            "person_date": "1656",
+            "person_info": "posel cesarski"
+        },
+        {
+            "person_name": "Jerzy II Rakoczy",
+            "person_date": "1657",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Reniger",
+            "person_date": "1657",
+            "person_info": "rezydent cesarski w Turcji"
+        },
+        {
+            "person_name": "Harasim Kapłoński",
+            "person_date": "1660",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Czehryń",
+            "date": "1653"
+        },
+        {
+            "place": "Suczawa",
+            "date": "1653"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1653-09-14"
+        },
+        {
+            "place": "Ukraina",
+            "date": "1653-11-03"
+        },
+        {
+            "place": "Perejasław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1657-04-29"
+        }
+    ]
+}

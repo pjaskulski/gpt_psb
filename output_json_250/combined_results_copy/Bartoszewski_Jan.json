@@ -1,0 +1,112 @@
+{
+    "name": "Jan Bartoszewski",
+    "psb_id": "PSB-01-0597",
+    "biogram_file": "Bartoszewski_Jan.txt",
+    "date_of_birth": {
+        "date": "1852-01-18"
+    },
+    "place_of_birth": {
+        "place": "Lwów"
+    },
+    "date_of_death": {
+        "date": "1920-12-13"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "ksiądz gr. kat.",
+        "profesor Uniwersytetu Lwowskiego",
+        "adjunkt wydziału teol. w Uniwersytecie Lwowskim",
+        "zastępca profesora teologji pastoralnej",
+        "profesor zwyczajny teologji pastoralnej",
+        "dziekan wydziału teol.",
+        "kierownik seminarjum homiletycznego",
+        "rzeczywisty radca gr.-kat. Konsystorza Metropol.",
+        "honorowy kanonik lwowskiej gr.-kat. Metropol. Kapituły",
+        "radca Metrop. sądu dla spraw małżeńskich i sądu instancyjnego",
+        "egzaminator synodalny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Lwowski",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Uniwersytet Wiedeński",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Ministerstwo W. i O.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konsystorz Metropol.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Metropol. Kapituła",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Metrop. sąd",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ruskyj Syjon",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Hałyckyj Syjon",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Duszpastyr",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "brak danych",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1852-01-18"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1879-1883"
+        },
+        {
+            "place": "Lwów",
+            "date": "1883-1884"
+        },
+        {
+            "place": "Lwów",
+            "date": "1885"
+        },
+        {
+            "place": "Lwów",
+            "date": "1895"
+        },
+        {
+            "place": "Lwów",
+            "date": "1905"
+        }
+    ]
+}

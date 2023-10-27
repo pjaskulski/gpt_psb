@@ -1,0 +1,403 @@
+{
+    "name": "Jan Mikołaj Radziwiłł",
+    "psb_id": "PSB-30-0105",
+    "biogram_file": "Radziwill_Jan_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "1681-05-17"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1729-01-20"
+    },
+    "place_of_death": {
+        "place": "Czarnawczyce"
+    },
+    "date_of_burial": {
+        "date": "1747-09-22"
+    },
+    "place_of_burial": {
+        "place": "Nieśwież",
+        "note": "u jezuitów"
+    },
+    "functions": [
+        "wojewoda nowogródzki",
+        "ordynat klecki",
+        "starosta grodowy lidzki",
+        "posłowie z województwa nowogródzkiego",
+        "rezydent z koła poselskiego do boku prymasa Michała Radziejowskiego",
+        "pułkownik do boku swego ojca, jako regimentarza generalnego województwa",
+        "komisarz",
+        "krajczostwo litewskie",
+        "rotmistrz powiatowej chorągwi pancernej",
+        "kasztelan wileński",
+        "deputat do boku króla",
+        "starosta raduński",
+        "deputat do rozpatrzenia przedłożonych przez nuncjusza N. Spinolę postulatów dotyczących stosunków z Rzymem i spraw kościelnych w Rzpltej",
+        "komisarz gdański",
+        "Order Orła Białego",
+        "deputat do komisji, mającej prowadzić rokowania z cesarzem",
+        "deputat do komisji dla rokowań z Prusami w sprawie Elbląga i Drahimia",
+        "właściciel dworu w Nowogródku",
+        "właściciel pałacu przy ul. Miodowej w Warszawie",
+        "właściciel dworu na Solcu",
+        "administrator ekonomii szadowskiej",
+        "leśniczy jurborski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "kolegium jezuickie",
+            "institution_place": "Nieśwież"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejmik gromniczny",
+            "institution_place": "Nowogródek"
+        },
+        {
+            "institution_name": "parlament",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Trybunał Litewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejmik elekcyjny",
+            "institution_place": "Nowogródek"
+        },
+        {
+            "institution_name": "Walna Rada Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm grodzieński",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "wizytki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "ekonomia szadowska",
+            "institution_place": "powiat upicki"
+        },
+        {
+            "institution_name": "leśnictwo jurborskie",
+            "institution_place": "Żmudź"
+        },
+        {
+            "institution_name": "miasteczko Jansberg",
+            "institution_place": "starostwo jurborskie"
+        },
+        {
+            "institution_name": "Biblioteka Narodowa",
+            "institution_place": "Paryż"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Dominik Mikołaj Radziwiłł"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Marianna z Połubińskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mikołaj Faustyn Radziwiłł"
+        },
+        {
+            "family_relation": "brat stryjeczny",
+            "person": "Karol Stanisław Radziwiłł"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Henryka Dorota Przebendowska"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jan Jerzy Przebendowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Marcin Mikołaj Karol Radziwiłł"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Józef Albrecht Grzegorz Radziwiłł"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna Małgorzata Radziwiłł"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Michał Antoni Radziwiłł"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Franciszek Bieliński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan III Sobieski",
+            "person_date": "1694",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Michał Radziejowski",
+            "person_date": "1696",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Karol Stanisław Radziwiłł",
+            "person_date": "1695",
+            "person_info": "podkanclerzy litewski"
+        },
+        {
+            "person_name": "Zygmunt Billewicz",
+            "person_date": "1699",
+            "person_info": "ciwun wieszwiański"
+        },
+        {
+            "person_name": "Michał Wołk Łaniewski",
+            "person_date": "1699",
+            "person_info": "dzierżawca kowieński"
+        },
+        {
+            "person_name": "Ludwik XIV",
+            "person_date": "1700",
+            "person_info": "król Francji"
+        },
+        {
+            "person_name": "Jakub Dunin",
+            "person_date": "1700",
+            "person_info": "regent kancelarii koronnej"
+        },
+        {
+            "person_name": "Stanisław Mierzejewski",
+            "person_date": "1701",
+            "person_info": "porucznik chorągwi pancernej"
+        },
+        {
+            "person_name": "Fryderyk I",
+            "person_date": "1701",
+            "person_info": "król Prus"
+        },
+        {
+            "person_name": "Papież Klemens XI",
+            "person_date": "1701",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Filip V",
+            "person_date": "1701",
+            "person_info": "król Hiszpanii"
+        },
+        {
+            "person_name": "Fryderyk I",
+            "person_date": "1704",
+            "person_info": "król Prus"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1708",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "1706",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Piotr I",
+            "person_date": "1707",
+            "person_info": "car Rosji"
+        },
+        {
+            "person_name": "Michał Wiśniowiecki",
+            "person_date": "1707",
+            "person_info": "szlachcic, więzień cara Piotra I"
+        },
+        {
+            "person_name": "N. Spinola",
+            "person_date": "1710",
+            "person_info": "nuncjusz"
+        },
+        {
+            "person_name": "Ludwik Pociej",
+            "person_date": "1719",
+            "person_info": "hetman wielki litewski"
+        },
+        {
+            "person_name": "Marianna z Dowmont Siesickich",
+            "person_date": "1721",
+            "person_info": "wdowa po bracie"
+        },
+        {
+            "person_name": "Krzysztof Zawisza",
+            "person_date": "brak danych",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Derengowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryka Dorota z Przebendowskich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Bieliński",
+            "person_date": "1730",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Nieśwież",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lida",
+            "date": "1695-10-03"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1696-07-27"
+        },
+        {
+            "place": "Szydłowiec",
+            "date": "1698-10-15"
+        },
+        {
+            "place": "Praga",
+            "date": "1698-01-04"
+        },
+        {
+            "place": "Paryż",
+            "date": "1700-03"
+        },
+        {
+            "place": "Madryt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niderlandy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1702-05"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1702"
+        },
+        {
+            "place": "Braniewo",
+            "date": "1703-03"
+        },
+        {
+            "place": "Litwa",
+            "date": "1703-06"
+        },
+        {
+            "place": "Nowogródek",
+            "date": "1703-08"
+        },
+        {
+            "place": "Zdzięcioł",
+            "date": "1704-02-01"
+        },
+        {
+            "place": "Berlin",
+            "date": "1704-09-18"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1704-10-19"
+        },
+        {
+            "place": "Lębork",
+            "date": "1705-06-18"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1707-09-19"
+        },
+        {
+            "place": "Zbuczyn",
+            "date": "1708-12"
+        },
+        {
+            "place": "Łęczna",
+            "date": "1716-06"
+        },
+        {
+            "place": "Szydłowiec",
+            "date": "1721-08-29"
+        },
+        {
+            "place": "Grodno",
+            "date": "1726"
+        },
+        {
+            "place": "Biała",
+            "date": "1716"
+        },
+        {
+            "place": "Pokrzywno",
+            "date": "1728"
+        },
+        {
+            "place": "Nowogródek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Solec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kleck",
+            "date": "1710"
+        },
+        {
+            "place": "Szadowo",
+            "date": "1711"
+        },
+        {
+            "place": "Jurbork",
+            "date": "1715"
+        },
+        {
+            "place": "Jansberg",
+            "date": "1724"
+        },
+        {
+            "place": "Czarnawczyce",
+            "date": "1729-01-20"
+        },
+        {
+            "place": "Nieśwież",
+            "date": "1747-09-22"
+        }
+    ]
+}

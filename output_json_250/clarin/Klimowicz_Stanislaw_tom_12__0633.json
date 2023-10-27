@@ -1,0 +1,57 @@
+{
+  "Nazwisko": [
+    "Klimowicz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Łapa",
+    "Lipski"
+  ],
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- DD-MM-1935"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "zecer",
+    "działacz ruchu robotniczego"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "koło młody drukarz",
+    "zjednoczenie robotniczy",
+    "towarzysz . ubezpieczenie New - york",
+    "ZZSP",
+    "towarzysz . pomoc więzień i emigrant polityczny « czerwony krzyż »",
+    "Ogólnobelgijskiej pomoc bratni",
+    "student",
+    "komitet zagraniczny (",
+    "KZ )",
+    "krakowski związek pomoc dla więzień"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "polski",
+    "polski",
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Łapa,",
+      "target": "Lipski",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

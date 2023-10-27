@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Gomoliński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Karol"
+  ],
+  "Herb": [
+    "Jelita"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1696"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1784"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "bernardyn w Łęczycy"
+  ],
+  "Zawód": [
+    "podkomorzy łęczycki"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Potockimi",
+      "target": "Karolem Sedlnickim",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Potockimi",
+      "target": "Jerzym Flemmingiem",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

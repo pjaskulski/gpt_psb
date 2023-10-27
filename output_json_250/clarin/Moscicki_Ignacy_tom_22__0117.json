@@ -1,0 +1,77 @@
+{
+  "Nazwisko": [
+    "Mościcki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ignacy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "01-12-1867"
+  ],
+  "Miejsce urodzenia": [
+    "Mierzanowie"
+  ],
+  "Data śmierci": [
+    "02-10-1946"
+  ],
+  "Miejsce śmierci": [
+    "Rydzew Jan"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "był synem Faustyna i Stefanii z Bojanowskich"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "II « proletariat »",
+    "proletariat",
+    "centrala związek zagraniczny socjalista polski",
+    "Technical College Finsbury"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    "polski",
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Faustyna",
+      "target": "Stefanii z Bojanowskich",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Markiewicz",
+      "target": "M-ego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Markiewicz",
+      "target": "Kazimierz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Markiewicz",
+      "target": "Jan",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "M-ego",
+      "target": "Kazimierz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "M-ego",
+      "target": "Jan",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "M-emu",
+      "target": "Józef Wierusz-",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

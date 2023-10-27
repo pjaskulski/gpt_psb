@@ -1,0 +1,191 @@
+{
+    "name": "Cecylia Niewiadomska",
+    "psb_id": "PSB-23-0047",
+    "biogram_file": "Niewiadomska_Cecylia.txt",
+    "date_of_birth": {
+        "date": "1855-11-22"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1925-06-12"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "pedagog",
+        "autorka powieści i opowiadań dla dzieci i młodzieży",
+        "tłumaczka powieści i opowiadań dla dzieci i młodzieży",
+        "nauczycielka domowa",
+        "członek Ligi Narodowej",
+        "członek zarządu Towarzystwa Oświaty Narodowej",
+        "członek zarządu Polskiej Macierzy Szkolnej",
+        "prezes Koła im. Zofii Bukowieckiej w Polskiej Macierzy Szkolnej",
+        "kierownik wydawania 'Biblioteczki Uniwersytetów Ludowych' i 'Biblioteczki Młodzieży Szkolnej'",
+        "organizator i kierownik sekcji języka polskiego przy Stowarzyszeniu Nauczycielstwa Polskiego",
+        "członek zarządu Komisji Ochron w Kuratorium Obywatelskim Rodzin Rezerwistów Warszawy",
+        "współpracownik Polskiego Towarzystwa Pomocy Ofiarom Wojny",
+        "organizator i kierownik Gimnazjum Macierzy Szkolnej w Kijowie",
+        "tłumaczka literatury młodzieżowej",
+        "opracowywaczka podręczników do nauki języka polskiego, stylistyki i gramatyki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "pensja Walerii Giewartowskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Warszawskie Gimnazjum Rządowe",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Koło Kobiet Korony i Litwy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Liga Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Oświaty Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Macierz Szkolna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Nauczycielstwa Polskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kuratorium Obywatelskim Rodzin Rezerwistów Warszawy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Pomocy Ofiarom Wojny",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Gimnazjum Macierzy Szkolnej",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "księgarnia Gebethnera i Wolffa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Naukowe Warszawskie",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wincenty"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Julia Werner"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Roman"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Eligiusz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Waleria Giewartowska",
+            "person_date": "brak danych",
+            "person_info": "prowadziła tajne klasy pensji"
+        },
+        {
+            "person_name": "Franciszek Gallego",
+            "person_date": "brak danych",
+            "person_info": "właściciel składów aptecznych"
+        },
+        {
+            "person_name": "Kasylda Kulikowska",
+            "person_date": "lata dziewięćdziesiąte XIX w.",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Szober",
+            "person_date": "1906",
+            "person_info": "współpracownik przy organizacji sekcji języka polskiego"
+        },
+        {
+            "person_name": "Bogdan Nawroczyński",
+            "person_date": "1906",
+            "person_info": "współpracownik przy organizacji sekcji języka polskiego"
+        },
+        {
+            "person_name": "Cecylia Bogucka",
+            "person_date": "1906",
+            "person_info": "współpracownik przy organizacji sekcji języka polskiego"
+        },
+        {
+            "person_name": "Ignacy Chrzanowski",
+            "person_date": "brak danych",
+            "person_info": "współautor Programu nauki języka polskiego i literatury polskiej"
+        },
+        {
+            "person_name": "Maria Dzierżanowska",
+            "person_date": "brak danych",
+            "person_info": "współpracownik przy opracowywaniu podręczników"
+        },
+        {
+            "person_name": "Jadwiga Warnkówna",
+            "person_date": "brak danych",
+            "person_info": "współpracownik przy opracowywaniu podręczników"
+        },
+        {
+            "person_name": "Zofia Bukowiecka",
+            "person_date": "brak danych",
+            "person_info": "osoba, której imieniem nazwano Koło w PMS"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1855-11-22"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1871"
+        },
+        {
+            "place": "Warszawa",
+            "date": "lata dziewięćdziesiąte XIX w."
+        },
+        {
+            "place": "Warszawa",
+            "date": "1906"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1907"
+        },
+        {
+            "place": "Kijów",
+            "date": "1915-1918"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1918"
+        }
+    ]
+}

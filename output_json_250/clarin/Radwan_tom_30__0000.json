@@ -1,0 +1,67 @@
+{
+  "Nazwisko": [
+    "Radwan"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Radovanus",
+    "Radowan"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1162"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "biskup poznański"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Radwan",
+      "target": "Radovanus",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Radwan",
+      "target": "Radowan",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-a",
+      "target": "Tadeusza Wojciechowskiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-a",
+      "target": "Celestyn III",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-a",
+      "target": "Jan Długosz",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Cherubina",
+      "target": "R-ie",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-a",
+      "target": "Cherubin",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Cherubin",
+      "target": "R-ie",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Nazwisko": [
+    "Gładysz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": [
+    "Gryf"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Mikołaja",
+      "target": "Piotra",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Boniecki",
+      "target": "Pieradzka K.",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

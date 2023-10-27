@@ -1,0 +1,94 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Pąpiel"
+  ],
+  "Imię/imiona": [
+    "Popiel"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pierwszy legendarny książę polski z siedzibą w Gnieźnie"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Pierwszy wiąże się z uroczystością postrzyżyn dwu synów księcia P-a",
+      "target": "Siemowita",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Pierwszy wiąże się z uroczystością postrzyżyn dwu synów księcia P-a",
+      "target": "Piasta",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Pierwszy wiąże się z uroczystością postrzyżyn dwu synów księcia P-a",
+      "target": "Popiel",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Siemowita",
+      "target": "Piasta",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "P-owi",
+      "target": "Piasta",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "P-owi",
+      "target": "Popiel",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "P-a",
+      "target": "Siemowita",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "P-a",
+      "target": "Galla Anonima",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Anonimie",
+      "target": "Wincenty",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Kraka",
+      "target": "Grakcha",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Kraka",
+      "target": "Kraka",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Kraka",
+      "target": "Wandę",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Kraka",
+      "target": "Pąpiela",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Kraka",
+      "target": "Wandę",
+      "name": "ważna postać - ojciec"
+    }
+  ]
+}

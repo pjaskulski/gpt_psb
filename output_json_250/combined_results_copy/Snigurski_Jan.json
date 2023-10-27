@@ -1,0 +1,212 @@
+{
+    "name": "Jan Śnigurski",
+    "psb_id": "PSB-51-0082",
+    "biogram_file": "Snigurski_Jan.txt",
+    "date_of_birth": {
+        "date": "1784-05-18"
+    },
+    "place_of_birth": {
+        "place": "Brześciany",
+        "note": "pow. samborski"
+    },
+    "date_of_death": {
+        "date": "1847-09-24"
+    },
+    "place_of_death": {
+        "place": "Przemyśl"
+    },
+    "date_of_burial": {
+        "date": "1897-10-07",
+        "note": "data ekshumacji i ponownego pochówku"
+    },
+    "place_of_burial": {
+        "place": "Przemyśl",
+        "note": "pierwotnie na cmentarzu komunalnym przy ul. Długiej, następnie w podziemiach przemyskiej katedry greckokatolickiej, a ostatecznie w obecnej archikatedrze greckokatolickiej (dawny kościół pojezuicki)"
+    },
+    "functions": [
+        "profesor teologii uniwersytetu w Wiedniu",
+        "greckokatolicki biskup przemyski",
+        "wikariusz",
+        "administrator",
+        "proboszcz greckokatolickiej parafii p. wezw. św. Barbary w Wiedniu",
+        "doktor teologii",
+        "współzałożyciel Tow. Kapłanów Galicyjskich Obrządku Greckokatolickiego",
+        "asesor rzymskokatolickiego konsystorza wiedeńskiego",
+        "profesor na Wydz. Teologii Katolickiej uniw. w Wiedniu",
+        "dziekan Wydz. Teologii Katolickiej uniw. w Wiedniu",
+        "kanonik honorowy",
+        "założyciel Inst. Diaków i Nauczycieli Szkół Ludowych",
+        "greckokatolicki ordynariusz przemyski",
+        "dyrektor Zakł. Filozoficznego",
+        "przewodniczący komisji biednych m. Przemyśla",
+        "założyciel Inst. dla Wspierania Wdów i Sierot po Greckokatolickich Duchownych Eparchii Przemyskiej",
+        "rzeczywisty tajny radca dworu",
+        "założyciel Biblioteki Kapitulnej, tzw. Biblioteki Śnigursko-Ławrowskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum w Samborze",
+            "institution_place": "Sambor"
+        },
+        {
+            "institution_name": "Studium Filozoficzne",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Greckokatolickie Generalne Seminarium Duchowne",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Uniwersytet w Wiedniu",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Parafia p. wezw. św. Barbary",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Tow. Kapłanów Galicyjskich Obrządku Greckokatolickiego",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Rzymskokatolicki konsystorz wiedeński",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Inst. Diaków i Nauczycieli Szkół Ludowych",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Greckokatolicka katedra przemyska p. wezw. św. Jana Chrzciciela",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Zakł. Filozoficzne",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Drukarnia",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Bractwo św. Mikołaja",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Inst. dla Wspierania Wdów i Sierot po Greckokatolickich Duchownych Eparchii Przemyskiej",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Greckokatolickie seminarium duchowne",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Biblioteka Kapitulna",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "B. Narod.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "B. KUL",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Archikatedra greckokatolicka",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation":"ojciec", 
+            "person":"Jan Śnigurski"
+        },
+        {
+            "family_relation":"matka", 
+            "person":"Eufrozyna Śnigurska"
+        },
+        {
+            "family_relation":"kuzyn", 
+            "person":"Mychajło Werbyćki"
+        },
+        {
+            "family_relation":"kuzyn", 
+            "person":"Jan Śnigurski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Antoni Angełłowicz",
+            "person_date": "1807",
+            "person_info": "greckokatolicki biskup przemyski"
+        },
+        {
+            "person_name": "Sigismund Anton von Hohenwart",
+            "person_date": "1816",
+            "person_info": "Arcybiskup Wiednia"
+        },
+        {
+            "person_name": "Michał Lewicki",
+            "person_date": "brak danych",
+            "person_info": "greckokatolicki metropolita lwowski"
+        },
+        {
+            "person_name": "Antoni Gołaszewski",
+            "person_date": "1818",
+            "person_info": "rzymskokatolicki biskup przemyski"
+        },
+        {
+            "person_name": "Franciszek Faygl",
+            "person_date": "1827",
+            "person_info": "dziekan przemyskiej kapituły rzymskokatolickiej"
+        },
+        {
+            "person_name": "Jan Ławrowski",
+            "person_date": "1846",
+            "person_info": "kanonik"
+        },
+        {
+            "person_name": "Franciszek Ksawery Wierzchleyski",
+            "person_date": "1847",
+            "person_info": "rzymskokatolicki biskup przemyski"
+        },
+        {
+            "person_name": "Mychajło Werbyćkyj",
+            "person_date": "brak danych",
+            "person_info": "ksiądz greckokatolicki, twórca muzyki do wiersza Pawła Czubynśkiego"
+        },
+        {
+            "person_name": "Jan Śnigurski",
+            "person_date": "brak danych",
+            "person_info": "student filozofii, poległy w powstaniu listopadowym"
+        },
+        {
+            "person_name": "Teofil Kmiecikiewicz",
+            "person_date": "brak danych",
+            "person_info": "autor wiersza ulotnego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Brześciany",
+            "date": "1784-05-18"
+        },
+        {
+            "place": "Sambor",
+            "date": "1795"
+        },
+        {
+            "place": "Lwów",
+            "date": "1800-1803"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1804-1807"
+        },
+        {
+            "place": "Przemyśl",
+            "date": "1815-1847"
+        }
+    ]
+}

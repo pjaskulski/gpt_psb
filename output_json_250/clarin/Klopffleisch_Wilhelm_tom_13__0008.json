@@ -1,0 +1,96 @@
+{
+  "Nazwisko": [
+    "Klopffleisch"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wilhelm"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Sas"
+  ],
+  "Data urodzenia": [
+    "DD-MM-1826"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1856"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "działacz rewolucyjny warszawski",
+    "sybirak"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Związek demokratyczny",
+    "centralizacja",
+    "towarzysz . Demokr . polski ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "K-a",
+      "target": "Narcyz Tchórzewski",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Karol Libelt",
+      "target": "Narcyzy Żmichowskiej",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "K-a",
+      "target": "Karol Libelt",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-a",
+      "target": "Narcyzy Żmichowskiej",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-a",
+      "target": "Henryk Krajewski",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-a",
+      "target": "Nr 109",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-a",
+      "target": "Romualda Świerzbińskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-a",
+      "target": "Krajewskim",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Nr 109",
+      "target": "Henryk Krajewski",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Nr 109",
+      "target": "Romualda Świerzbińskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Nr 109",
+      "target": "Krajewskim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

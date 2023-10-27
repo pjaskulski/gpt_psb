@@ -1,0 +1,164 @@
+{
+    "name": "Paweł Koene-Jaski",
+    "psb_id": "PSB-13-0283",
+    "biogram_file": "Koene-Jaski_4.txt",
+    "date_of_birth": {
+        "date": "1492",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1564-07-09"
+    },
+    "place_of_death": {
+        "place": "Gdańsk"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kupiec gdański",
+        "właściciel firmy bursztynowej",
+        "rzemieślnik",
+        "członek poselstwa wysłanego przez gdańską Radę Miejską",
+        "opiekun szpitala miejskiego",
+        "rajca gdański",
+        "radca sądowy w Królewcu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Rada Miejska Gdańska",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Szpital miejski 'Packenhaus'",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Biblioteka Rady Miejskiej w Gdańsku",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Firma bursztynowa Koene-Jaskich",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Firma bursztynowa Koene-Jaskich",
+            "institution_place": "Królewiec"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Barbara Niżyńska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Dorota Rosenberg"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Małgorzata Ottinghusen"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Paweł (II)"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Grzegorz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jerzy"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Michał Rosenberg"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Wessel Ottinghusen"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Wincenty Anholt",
+            "person_date": "18 XII 1533",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Bork",
+            "person_date": "18 XII 1533",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Albrecht Pruski",
+            "person_date": "18 XII 1533",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Grzegorz Koene-Jaski",
+            "person_date": "28 I 1546",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Grzegorz von Berk",
+            "person_date": "28 I 1546",
+            "person_info": "mieszczanin gdański"
+        },
+        {
+            "person_name": "Henryk von Achden",
+            "person_date": "28 I 1546",
+            "person_info": "mieszczanin z Antorf"
+        },
+        {
+            "person_name": "Karol V",
+            "person_date": "20 VI 1554",
+            "person_info": "cesarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Killobe",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1519"
+        },
+        {
+            "place": "Kraków",
+            "date": "1525"
+        },
+        {
+            "place": "Prusy Książęce",
+            "date": "1533"
+        },
+        {
+            "place": "Antorf",
+            "date": "1546"
+        },
+        {
+            "place": "Wittenberdze",
+            "date": "1548"
+        },
+        {
+            "place": "Królewiec",
+            "date": "brak danych"
+        }
+    ]
+}

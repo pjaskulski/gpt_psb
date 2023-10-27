@@ -1,0 +1,783 @@
+{
+    "name": "Tadeusz Józef Maria Sulimirski",
+    "psb_id": "PSB-45-0260",
+    "biogram_file": "Sulimirski_Tadeusz_Jozef.txt",
+    "date_of_birth": {
+        "date": "1898-04-01"
+    },
+    "place_of_birth": {
+        "place": "Kobylany",
+        "note": "powiat krośnieński"
+    },
+    "date_of_death": {
+        "date": "1983-06-20"
+    },
+    "place_of_death": {
+        "place": "Londyn"
+    },
+    "date_of_burial": {
+        "date": "1983-09-06"
+    },
+    "place_of_burial": {
+        "place": "Kobylany"
+    },
+    "functions": [
+        "archeolog",
+        "profesor Uniwersytetu Jagiellońskiego",
+        "profesor Polskiego Uniwersytetu na Obczyźnie w Londynie",
+        "rektor Polskiego Uniwersytetu na Obczyźnie w Londynie",
+        "dyrektor kopalni ropy naftowej",
+        "właściciel przedsiębiorstwa wiertniczego",
+        "kierownik 1. drużyny skautowej im. Tadeusza Kościuszki",
+        "żołnierz 5. szwadronu 2. p. ułanów Legionów Polskich",
+        "pomocnik szybowy w kopalniach ropy naftowej «Meta»",
+        "asystent kierownika sekcji w kopalni ropy naftowej «Joanna»",
+        "student Wydz. Budowy Maszyn Szkoły Politechnicznej we Lwowie",
+        "żołnierz oddziału samochodowego",
+        "żołnierz załogi pociągu pancernego nr 3",
+        "żołnierz wojsk Zachodnio-Ukraińskiej Republiki Ludowej",
+        "żołnierz 9. p. ułanów WP",
+        "student Szkoły Politechnicznej",
+        "student Wydz. Prawa UJK",
+        "praktykant w lwowskim oddziale warszawskiego Banku dla Handlu i Przemysłu",
+        "prokurent w lwowskich Powszechnych Zakładach Budowlanych S.A.",
+        "student Wydz. Humanistycznym UJK",
+        "pracownik administracji przemysłu naftowego",
+        "współwłaściciel firmy zajmującej się sprzedażą samochodów",
+        "docent na Katedrze Prehistorii UJK",
+        "zastępca profesora na Katedrze Prehistorii UJK",
+        "członek Wydz. Historyczno-Filozoficznego Tow. Naukowego we Lwowie",
+        "delegat ds. archeologii Koła Naukowego Tow. Przyjaciół Huculszczyzny",
+        "członek zarządu lwowskiego Tow. Ludoznawczego",
+        "prezes Koła Tow. Szkoły Ludowej",
+        "członek korespondent Okręgowej Komisji Konserwatorskiej na województwa: lwowskie, stanisławowskie i tarnopolskie",
+        "członek Tow. Regionalnego Ziemi Rzeszowskiej",
+        "członek zarządu Tow. Przyjaciół Ziemi Sanockiej",
+        "profesor prehistorii na Wydz. Filozoficznym UJ",
+        "sekretarz Komisji Prehistorycznej PAU",
+        "członek Komisji Etnograficznej PAU",
+        "kwatermistrz 1. baonu czołgów Polskich Sił Zbrojnych",
+        "pracownik w referacie rozdzielającym dary dla żołnierzy polskich w sztabie gen. Stanisława Maczka",
+        "komendant placu w obozie polskich wojsk pancernych i zmotoryzowanych w Serignan",
+        "szef Wydz. Ogólnym Urzędu Oświaty i Spraw Szkolnych",
+        "członek Zrzeszenia Profesorów i Docentów Polskich Szkół Akademickich w Wielkiej Brytanii",
+        "przewodniczący Komisji Stypendialnej Zrzeszenia Profesorów i Docentów Polskich Szkół Akademickich w Wielkiej Brytanii",
+        "członek Stow. Prawników Polskich w Wielkiej Brytanii",
+        "szef Wydz. Nauki i Szkolnictwa Wyższego Min. WRiOP",
+        "członek Komisji Odbudowy Szkolnictwa w Polsce po Wojnie",
+        "członek Związku Ziem Południowo-Wschodnich RP",
+        "członek komisji rewizyjnej Związku Ziem Południowo-Wschodnich RP",
+        "członek Society of Antiquaries of London",
+        "członek honorowy Royal Anthropological Institute of Great Britain and Ireland",
+        "sekretarz generalny Min. WRiOP",
+        "profesor Polskiego Uniwersytetu na Obczyźnie",
+        "rektor Polskiego Uniwersytetu na Obczyźnie",
+        "doradca oświatowy w Komitecie dla Spraw Oświaty Polaków w Wielkiej Brytanii",
+        "wykładowca na Polish University College",
+        "wykładowca w Wolnym Studium Nauk Politycznych i Społecznych",
+        "sekretarz generalny Polskiego Towarzystwa Naukowego na Obczyźnie",
+        "prezes Polskiego Towarzystwa Naukowego na Obczyźnie",
+        "wiceprezes Polskiego Towarzystwa Naukowego na Obczyźnie",
+        "wykładowca w Instytucie Archeologicznym Uniwersytetu Londyńskiego",
+        "wykładowca na Wydziale Archeologii i Antropologii Uniwersytetu w Cambridge",
+        "wykładowca w Instytucie Archeologii Uniwersytetu Londyńskiego",
+        "wykładowca na Uniwersytecie Wrocławskim",
+        "wykładowca na Uniwersytecie Łódzkim",
+        "wykładowca na Uniwersytecie Adama Mickiewicza",
+        "członek Polskiego Instytutu Nauk i Sztuk w USA",
+        "prorektor Polskiego Uniwersytetu na Obczyźnie",
+        "wykładowca w Studium Nauk Polityczno-Wojskowych",
+        "wykładowca w Słoweńskiej Akademii Nauk",
+        "wykładowca w Instytucie Prehistorii Uniwersytetu w Monachium",
+        "wykładowca w Vitterhets Akademien w Sztokholmie",
+        "wykładowca w Instytucie Slawistyki Uniwersytetu w Kopenhadze",
+        "wykładowca na uniwersytetach w Heidelbergu, Zurychu, Weronie i Padwie",
+        "przewodniczący komitetu dla uczczenia 500-lecia urodzin Mikołaja Kopernika",
+        "prezes Polskiego Towarzystwa Historycznego w Wielkiej Brytanii",
+        "członek honorowy Polskiego Towarzystwa Archeologicznego",
+        "członek Instytutu Polskiego, Muzeum im. gen. Sikorskiego w Londynie",
+        "członek Prehistoric Society – London Cambridge",
+        "patron honorowy Instytutu Piłsudskiego w Nowym Jorku",
+        "członek rady Biblioteki Polskiej w Londynie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Jagielloński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Polski Uniwersytet na Obczyźnie",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "kopalnia ropy naftowej",
+            "institution_place": "Grozny"
+        },
+        {
+            "institution_name": "gimnazjum",
+            "institution_place": "Chyrów"
+        },
+        {
+            "institution_name": "Gimnazjum im. Adama Mickiewicza",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "5. szwadron 2. p. ułanów Legionów Polskich",
+            "institution_place": "Synowodzko"
+        },
+        {
+            "institution_name": "kopalnie ropy naftowej «Meta»",
+            "institution_place": "Tustanowice"
+        },
+        {
+            "institution_name": "kopalnie ropy naftowej «Joanna»",
+            "institution_place": "Tustanowice"
+        },
+        {
+            "institution_name": "Szkoła Politechniczna",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Bank dla Handlu i Przemysłu",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Powszechne Zakłady Budowlane S.A.",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Wydz. Prawa UJK",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydz. Humanistyczny UJK",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "uniwersytety w Berlinie i Halle",
+            "institution_place": "Berlin, Halle"
+        },
+        {
+            "institution_name": "VII Międzynarodowy Kongres Historyczny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Katedra Prehistorii UJK",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydz. Historyczno-Filozoficzny Tow. Naukowego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Koło Naukowe Tow. Przyjaciół Huculszczyzny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "lwowskie Tow. Ludoznawcze",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Koło Tow. Szkoły Ludowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Okręgowa Komisja Konserwatorska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tow. Regionalne Ziemi Rzeszowskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tow. Przyjaciół Ziemi Sanockiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Katedra Prehistorii UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rada krakowskiego Muz. Archeologicznego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydz. Filozoficzny UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "uniw. w Halle",
+            "institution_place": "Halle"
+        },
+        {
+            "institution_name": "Międzynarodowa Unia Archeologii Słowiańskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Prehistoryczna PAU",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Etnograficzna PAU",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "polskie obozy wojskowe",
+            "institution_place": "Coëtquidan, Serignan"
+        },
+        {
+            "institution_name": "1. baon czołgów Polskich Sił Zbrojnych",
+            "institution_place": "Campénéac"
+        },
+        {
+            "institution_name": "1. p. czołgów I Korpusu Polskich Sił Zbrojnych",
+            "institution_place": "Blaigowrie"
+        },
+        {
+            "institution_name": "Wydz. Ogólny Urzędu Oświaty i Spraw Szkolnych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zrzeszenie Profesorów i Docentów Polskich Szkół Akademickich w Wielkiej Brytanii",
+            "institution_place": "Wielka Brytania"
+        },
+        {
+            "institution_name": "Stow. Prawników Polskich w Wielkiej Brytanii",
+            "institution_place": "Wielka Brytania"
+        },
+        {
+            "institution_name": "uniwersytety w Edynburgu i Glasgow",
+            "institution_place": "Edynburg, Glasgow"
+        },
+        {
+            "institution_name": "Min. WRiOP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Ziem Południowo-Wschodnich RP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Society of Antiquaries of London",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Royal Anthropological Institute of Great Britain and Ireland",
+            "institution_place": "Wielka Brytania"
+        },
+        {
+            "institution_name": "Tymczasowy Komitet Skarbu dla Spraw Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "United Nations Relief and Rehabilitation Administration",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Historyczne w Wielkiej Brytanii",
+            "institution_place": "Wielka Brytania"
+        },
+        {
+            "institution_name": "Komitet dla Spraw Oświaty Polaków w Wielkiej Brytanii",
+            "institution_place": "Wielka Brytania"
+        },
+        {
+            "institution_name": "Polish University College",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Wolne Studium Nauk Politycznych i Społecznych",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Polska Rada Naukowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Naukowe na Obczyźnie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Archeologiczny Uniwersytetu Londyńskiego",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Wydział Archeologii i Antropologii Uniwersytetu w Cambridge",
+            "institution_place": "Cambridge"
+        },
+        {
+            "institution_name": "Polski Instytut Nauk i Sztuk w USA",
+            "institution_place": "USA"
+        },
+        {
+            "institution_name": "Polska Macierz Szkolna Zagranicą",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Instytut Studiów Klasycznych Uniwersytetu Londyńskiego",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "School of Slavonic and East European Studies",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet Wrocławski",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Uniwersytet Łódzki",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Uniwersytet im. Adama Mickiewicza",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Studium Nauk Polityczno-Wojskowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Słoweńska Akademia Nauk",
+            "institution_place": "Lublana"
+        },
+        {
+            "institution_name": "Instytut Prehistorii Uniwersytetu w Monachium",
+            "institution_place": "Monachium"
+        },
+        {
+            "institution_name": "Vitterhets Akademien",
+            "institution_place": "Sztokholm"
+        },
+        {
+            "institution_name": "Instytut Slawistyki Uniwersytetu w Kopenhadze",
+            "institution_place": "Kopenhaga"
+        },
+        {
+            "institution_name": "Uniwersytet w Heidelbergu",
+            "institution_place": "Heidelberg"
+        },
+        {
+            "institution_name": "Uniwersytet w Zurychu",
+            "institution_place": "Zurych"
+        },
+        {
+            "institution_name": "Uniwersytet w Weronie",
+            "institution_place": "Werona"
+        },
+        {
+            "institution_name": "Uniwersytet w Padwie",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Archeologiczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Polski, Muzeum im. gen. Sikorskiego w Londynie",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Prehistoric Society – London Cambridge",
+            "institution_place": "Londyn, Cambridge"
+        },
+        {
+            "institution_name": "Instytut Piłsudskiego",
+            "institution_place": "Nowy Jork"
+        },
+        {
+            "institution_name": "Biblioteka Polska w Londynie",
+            "institution_place": "Londyn"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wit Sulimirski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Oktawia Peszyńska"
+        },
+        {
+            "family_relation": "brat stryjeczny",
+            "person": "Stefan Sulimirski"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Olga Łepkowska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Felicja Janiszewska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Romanowska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Witold Sulimirski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Karol Sulimirski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jerzy Sulimirski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stefan Sulimirski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Żurowski",
+            "person_date": "1936",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Leon Kozłowski",
+            "person_date": "brak danych",
+            "person_info": "profesor, minister reform rolnych"
+        },
+        {
+            "person_name": "Jan Czekanowski",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Adam Fischer",
+            "person_date": "brak danych",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Tadeusz Waga",
+            "person_date": "1933",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "Józef Haller",
+            "person_date": "1941",
+            "person_info": "generał, kierownik Urzędu Oświaty i Spraw Szkolnych"
+        },
+        {
+            "person_name": "Stanisław Maczek",
+            "person_date": "1940",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Władysław Sikorski",
+            "person_date": "1941",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Zbigniew Stachowski",
+            "person_date": "1940",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "Józef Zasławski",
+            "person_date": "1940",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "Stanisław Mikołajczyk",
+            "person_date": "1943",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Zygmunt Kaczyński",
+            "person_date": "1943",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Władysław Folkierski",
+            "person_date": "1944",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Tomasz Arciszewski",
+            "person_date": "1945",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Tadeusz Lehr-Spławiński",
+            "person_date": "1945",
+            "person_info": "rektor UJ"
+        },
+        {
+            "person_name": "Zenon Klemensiewicz",
+            "person_date": "1948",
+            "person_info": "dziekan Wydziału Humanistycznego Uniwersytetu Jagiellońskiego"
+        },
+        {
+            "person_name": "Rudolf Jamka",
+            "person_date": "1950",
+            "person_info": "dawny asystent Sulimirskiego"
+        },
+        {
+            "person_name": "Jerzy Giedroyc",
+            "person_date": "1950",
+            "person_info": "redaktor miesięcznika 'Kultura'"
+        },
+        {
+            "person_name": "Tadeusz Kasprzycki",
+            "person_date": "1952",
+            "person_info": "generał, współzałożyciel Polskiego Uniwersytetu na Obczyźnie"
+        },
+        {
+            "person_name": "Tadeusz Brzeski",
+            "person_date": "1952",
+            "person_info": "współzałożyciel Polskiego Uniwersytetu na Obczyźnie"
+        },
+        {
+            "person_name": "Jerzy Gawenda",
+            "person_date": "1952",
+            "person_info": "współzałożyciel Polskiego Uniwersytetu na Obczyźnie"
+        },
+        {
+            "person_name": "Alfred Jurzykowski",
+            "person_date": "1961",
+            "person_info": "założyciel Fundacji Alfreda Jurzykowskiego"
+        },
+        {
+            "person_name": "Madyes",
+            "person_date": "1975",
+            "person_info": "scytyjski władca, którego grób odkrył Sulimirski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kobylany",
+            "date": "1898-04-01"
+        },
+        {
+            "place": "Kaukaz",
+            "date": "1900-1905"
+        },
+        {
+            "place": "Chyrów",
+            "date": "1905"
+        },
+        {
+            "place": "Lwów",
+            "date": "1910"
+        },
+        {
+            "place": "Birmingham",
+            "date": "1913"
+        },
+        {
+            "place": "Synowodzko",
+            "date": "1917"
+        },
+        {
+            "place": "Rarańcza",
+            "date": "1918"
+        },
+        {
+            "place": "Tustanowice",
+            "date": "1918"
+        },
+        {
+            "place": "Galicja Wschodnia",
+            "date": "1919"
+        },
+        {
+            "place": "Radziechów",
+            "date": "1920"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Halle",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1933"
+        },
+        {
+            "place": "ZSRR",
+            "date": "1934"
+        },
+        {
+            "place": "Wysok",
+            "date": "brak danych"
+        },
+        {
+            "place": "Komarów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kołpec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zaborów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sarniki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rokitno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rumunia",
+            "date": "1939"
+        },
+        {
+            "place": "Francja",
+            "date": "1939"
+        },
+        {
+            "place": "Coëtquidan",
+            "date": "1939"
+        },
+        {
+            "place": "Serignan",
+            "date": "1939"
+        },
+        {
+            "place": "Campénéac",
+            "date": "1939"
+        },
+        {
+            "place": "Thoiré",
+            "date": "1940"
+        },
+        {
+            "place": "Vichy",
+            "date": "1940"
+        },
+        {
+            "place": "Saint-Jean-de-Luz",
+            "date": "1940"
+        },
+        {
+            "place": "Plymouth",
+            "date": "1940"
+        },
+        {
+            "place": "Liverpool",
+            "date": "1940"
+        },
+        {
+            "place": "Crawford",
+            "date": "1940"
+        },
+        {
+            "place": "Blaigowrie",
+            "date": "1940"
+        },
+        {
+            "place": "Edynburg",
+            "date": "1940"
+        },
+        {
+            "place": "Glasgow",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "1941"
+        },
+        {
+            "place": "Hanower",
+            "date": "1945"
+        },
+        {
+            "place": "Marburg",
+            "date": "1954"
+        },
+        {
+            "place": "Dorchester",
+            "date": "1949"
+        },
+        {
+            "place": "Oxford",
+            "date": "1949"
+        },
+        {
+            "place": "Paryż",
+            "date": "1950"
+        },
+        {
+            "place": "Cambridge",
+            "date": "1953-1955"
+        },
+        {
+            "place": "Groźny",
+            "date": "1900-1905"
+        },
+        {
+            "place": "Londyn",
+            "date": "1955-1959"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "brak danych"
+        },
+        {
+            "place": "ZSRR",
+            "date": "1961-1964"
+        },
+        {
+            "place": "Europa Wschodnia",
+            "date": "1961-1964"
+        },
+        {
+            "place": "Lublana",
+            "date": "brak danych"
+        },
+        {
+            "place": "Monachium",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sztokholm",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kopenhaga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Heidelberg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zurych",
+            "date": "brak danych"
+        },
+        {
+            "place": "Werona",
+            "date": "brak danych"
+        },
+        {
+            "place": "Padwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin Wschodni",
+            "date": "1970-08"
+        },
+        {
+            "place": "Kurdystan",
+            "date": "1975"
+        },
+        {
+            "place": "USA",
+            "date": "1968-1969"
+        }
+    ]
+}

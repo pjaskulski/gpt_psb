@@ -1,0 +1,83 @@
+{
+    "name": "Ezra ben Nisan",
+    "psb_id": "PSB-06-0489",
+    "biogram_file": "Ezra_ben_Nisan.txt",
+    "date_of_birth": {
+        "date": "1596",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1666"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Troki",
+        "note": "stary cmentarz karaimski"
+    },
+    "functions": [
+        "uczony karaimski",
+        "matematyk",
+        "medyk nadworny Radziwiłłów",
+        "medyk nadworny króla Jana Kazimierza",
+        "wójt gminy karaimskiej w Trokach",
+        "naczelny sędzia karaimski",
+        "autor hymnów i pieśni religijnych",
+        "lekarz",
+        "współpracownik Józefa Del Medigo",
+        "lekarz i doradca królewski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Dwór Radziwiłłów",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Królewski dwór Jana Kazimierza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gmina karaimska",
+            "institution_place": "Troki"
+        },
+        {
+            "institution_name": "Dominikanie",
+            "institution_place": "Troki"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Józef Del Medigo",
+            "person_date": "brak danych",
+            "person_info": "uczeń, współpracownik"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Radziwiłłowie",
+            "person_date": "brak danych",
+            "person_info": "rodzina szlachecka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Troki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        }
+    ]
+}

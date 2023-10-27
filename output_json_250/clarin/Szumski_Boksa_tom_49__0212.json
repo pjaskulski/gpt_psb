@@ -1,0 +1,43 @@
+{
+  "Nazwisko": [
+    "Szumska",
+    "Szumski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Boksa"
+  ],
+  "Imię/imiona": [
+    "Boksa"
+  ],
+  "Herb": [
+    "Oksza"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 13-06-1415"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "łowczy sandomierski i krakowski",
+    "starosta chęciński",
+    "rycerz pasowany"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "S-ego",
+      "target": "Jakub",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-ego",
+      "target": "Krzesław",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Gabriel Dyjakiewicz",
+    "psb_id": "PSB-06-0072",
+    "biogram_file": "Dyjakiewicz_z_Kolimata.txt",
+    "date_of_birth": {
+        "date": "1660"
+    },
+    "place_of_birth": {
+        "place": "Pułnuszki",
+        "note": "pod Dubinkami, województwo wileńskie"
+    },
+    "date_of_death": {
+        "date": "1724"
+    },
+    "place_of_death": {
+        "place": "Węgrów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "Superintendent podlaski Jednoty Litewskiej ew.-reform.",
+        "konrektor gimnazjum słuckiego",
+        "diakon",
+        "kaznodzieja",
+        "minister zboru w Węgrowie",
+        "konsenior podlaski",
+        "superintendent",
+        "rektor gimnazjum w Kiejdanach"
+    ],
+    "institutions": [
+        {
+            "institution_name": "gimnazjum słuckie",
+            "institution_place": "Słuck"
+        },
+        {
+            "institution_name": "synod",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zbór zejmelski",
+            "institution_place": "Zejmy"
+        },
+        {
+            "institution_name": "zbór w Węgrowie",
+            "institution_place": "Węgrów"
+        },
+        {
+            "institution_name": "Archiwum Synodu Wileńskiego",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "gimnazjum w Kiejdanach",
+            "institution_place": "Kiejdany"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stefan Dyjakiewicz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Apolonia Falęcka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Niewierska"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Marcin Niewierski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Marcin Dyjakiewicz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Gabriel Dyjakiewicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Raisa Mirska Kłobocka",
+            "person_date": "1680",
+            "person_info": "chorążyna mińska"
+        },
+        {
+            "person_name": "Krasiński",
+            "person_date": "1689",
+            "person_info": "wojewoda płocki, właściciel dóbr węgrowskich"
+        },
+        {
+            "person_name": "Marcin Niewierski",
+            "person_date": "1689",
+            "person_info": "superintendent wileński"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Pułnuszki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dubinki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Słuck",
+            "date": "1680"
+        },
+        {
+            "place": "Królewiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lejda",
+            "date": "1683-1686"
+        },
+        {
+            "place": "Zejmy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Węgrów",
+            "date": "1689-1724"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Frankfurt nad Odrą",
+            "date": "brak danych"
+        }
+    ]
+}

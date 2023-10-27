@@ -1,0 +1,66 @@
+{
+  "Nazwisko": [
+    "Karłowicz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Janek Biały",
+    "Karzełek"
+  ],
+  "Data urodzenia": [
+    "około DD-MM-1833"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "19-11-1881"
+  ],
+  "Miejsce śmierci": [
+    "San Remo"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "naczelnik warszawskiej policji narodowej w powstaniu styczniowym"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "kantor służba domowy",
+    "komitet centralny",
+    "rząd narodowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "K-a",
+      "target": "Edwarda Jurgensa",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "K-a",
+      "target": "Tomasz Winnicki",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Winnicki",
+      "target": "Stefan Bobrowski",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "K-owi",
+      "target": "Winnicki",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "K-owi",
+      "target": "Stefan Bobrowski",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

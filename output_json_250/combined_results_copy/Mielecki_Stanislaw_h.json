@@ -1,0 +1,388 @@
+{
+    "name": "Stanisław Mielecki",
+    "psb_id": "PSB-20-0668",
+    "biogram_file": "Mielecki_Stanislaw_h.txt",
+    "date_of_birth": {
+        "date": "ok. 1470",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1532-01-31"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Mielec"
+    },
+    "functions": [
+        "kasztelan zawichojski",
+        "posłowie z woj. sandomierskiego na sejm w Lublinie",
+        "rotmistrz obrony potocznej",
+        "dworzanin Zygmunta I",
+        "kasztelan połaniecki",
+        "podkomorzy sandomierski",
+        "starosta zawichojski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "sejm",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "zjazd wielkopolski",
+            "institution_place": "Koło"
+        },
+        {
+            "institution_name": "obrona potoczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "dwór Zygmunta I",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejmik",
+            "institution_place": "Proszowice"
+        },
+        {
+            "institution_name": "orszak królewski",
+            "institution_place": "Bratysława"
+        },
+        {
+            "institution_name": "zjazd wiedeński",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "narada senatorów małopolskich",
+            "institution_place": "Mielec"
+        },
+        {
+            "institution_name": "kościoły na Skałce i w Ruszczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szkoła",
+            "institution_place": "Chorzelów"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sądy komisarskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "benedyktynki w Staniątkach",
+            "institution_place": "Staniątki"
+        },
+        {
+            "institution_name": "kościół w Mielcu",
+            "institution_place": "Mielec"
+        },
+        {
+            "institution_name": "kaplica w Jaślanach",
+            "institution_place": "Jaślany"
+        },
+        {
+            "institution_name": "klaryski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "służba króla Jana Zapolyi",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "doża wenecki",
+            "institution_place": "Wenecja"
+        },
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "starostwo zawichostkie",
+            "institution_place": "Zawichost"
+        },
+        {
+            "institution_name": "pielgrzymka do Ziemi Świętej",
+            "institution_place": "Jerozolima"
+        },
+        {
+            "institution_name": "dwór królowej węgierskiej Izabeli Jagiellonki",
+            "institution_place": "Gyulafehérvár"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Mielecki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Sudolska"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Mikołaj Firlej"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta Tęczyńska"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Mikołaj Tęczyński"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Jan Tarnowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Andrzej Mielecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Walerian Mielecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Mielecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Mielecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Sebastian Mielecki"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Zawisza Janusz Mielecki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna Mielecka"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Przecław Ligęza"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Olbracht",
+            "person_date": "29 X 1497",
+            "person_info": "król, uczestnik wyprawy mołdawskiej"
+        },
+        {
+            "person_name": "Mikołaj Biechowski",
+            "person_date": "29 X 1497",
+            "person_info": "osoba, której skonfiskowano posiadłość"
+        },
+        {
+            "person_name": "Mikołaj Tęczyński",
+            "person_date": "brak danych",
+            "person_info": "stryj żony, wojewoda ruski"
+        },
+        {
+            "person_name": "Mikołaj Kamieniecki",
+            "person_date": "1506",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1515",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Krzysztof Szydłowiecki",
+            "person_date": "1516",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Stanisław Tarnowski",
+            "person_date": "1518",
+            "person_info": "dziewierz"
+        },
+        {
+            "person_name": "Piotr Tomicki",
+            "person_date": "1526",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Hieronim Łaski",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Jan Zapolyi",
+            "person_date": "1528",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Izabela Jagiellonka",
+            "person_date": "brak danych",
+            "person_info": "królowa węgierska"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mielec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wielki Turek",
+            "date": "1497-10-29"
+        },
+        {
+            "place": "Lublin",
+            "date": "1506"
+        },
+        {
+            "place": "Koło",
+            "date": "1506"
+        },
+        {
+            "place": "Pokucie",
+            "date": "1506"
+        },
+        {
+            "place": "Mołdawia",
+            "date": "1506"
+        },
+        {
+            "place": "Łopuszno",
+            "date": "1512"
+        },
+        {
+            "place": "Wilno",
+            "date": "1515"
+        },
+        {
+            "place": "Proszowice",
+            "date": "1515"
+        },
+        {
+            "place": "Bratysława",
+            "date": "1515-06-04"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zawichost",
+            "date": "1515"
+        },
+        {
+            "place": "Borunice",
+            "date": "1518"
+        },
+        {
+            "place": "Chorzelów",
+            "date": "1522"
+        },
+        {
+            "place": "Jaślany",
+            "date": "1522"
+        },
+        {
+            "place": "Staniątki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zgórz",
+            "date": "1512"
+        },
+        {
+            "place": "Kaliszany",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gierczyce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kawęczyn",
+            "date": "1529"
+        },
+        {
+            "place": "Sudoł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bieglów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Niegosławice",
+            "date": "1511"
+        },
+        {
+            "place": "Czyrosławice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Granów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1518"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1515"
+        },
+        {
+            "place": "Borów",
+            "date": "1519"
+        },
+        {
+            "place": "Pniów",
+            "date": "1519"
+        },
+        {
+            "place": "Orzechów",
+            "date": "1519"
+        },
+        {
+            "place": "Mniszek",
+            "date": "1519"
+        },
+        {
+            "place": "Rożnica",
+            "date": "1526"
+        },
+        {
+            "place": "Nowa Wieś",
+            "date": "1526"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1528-01-23"
+        },
+        {
+            "place": "Jerozolima",
+            "date": "1528"
+        },
+        {
+            "place": "Gawłuszowice",
+            "date": "1530"
+        },
+        {
+            "place": "Kraków",
+            "date": "1532-01-31"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+  "Nazwisko": [
+    "Orłowska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Czesława",
+    "Cecylia"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Lida",
+    "Wanda",
+    "Gruba Ceśka"
+  ],
+  "Data urodzenia": [
+    "26-02-1906"
+  ],
+  "Miejsce urodzenia": [
+    "Łódź"
+  ],
+  "Data śmierci": [
+    "DD-MM-1937"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "działaczka komunistyczna"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "gimnazjum imienia . E . Orzeszkowa",
+    "związek młodzież komunistyczny",
+    "ZMK",
+    "komitet dzielnicowy",
+    "komitet dzielnicowy « Powązka »",
+    "Serbia",
+    "imienia . J . M . Swierdłowa",
+    "międzynarodówka komunistyczny ,",
+    "i",
+    "kraj nadbałtycki",
+    "ruch robotniczy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    "Warszawa",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Orłowska Cecylia Czesława",
+      "target": "Grynberg",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Lida",
+      "target": "Wanda",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Lida",
+      "target": "Gruba Ceśka",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Wanda",
+      "target": "Gruba Ceśka",
+      "name": "rodzeństwo - krewny"
+    }
+  ]
+}

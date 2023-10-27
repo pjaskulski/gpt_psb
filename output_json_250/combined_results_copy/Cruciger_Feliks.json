@@ -1,0 +1,325 @@
+{
+    "name": "Feliks Cruciger",
+    "psb_id": "PSB-04-0171",
+    "biogram_file": "Cruciger_Feliks.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Szczebrzeszyn"
+    },
+    "date_of_death": {
+        "date": "1563-04-12"
+    },
+    "place_of_death": {
+        "place": "Pińczów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pierwszy superintendent zborów kalwińskich w Małopolsce",
+        "proboszcz w Niedźwiedziu",
+        "minister w Seceminie",
+        "superintendent zborów kalwińskich",
+        "minister w Pińczowie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Secemin"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Pińczów"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Książ"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Włodzisław"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Gołuchów"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Koźminek"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Słomniki"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Chrzęcice"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Lipnik"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Ostroróg"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Niedźwiedź"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Wielkopolska"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Małopolska"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Andrzej ze Szczebrzeszyna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Stadnicki",
+            "person_date": "1546",
+            "person_info": "dziedzic wsi Niedźwiedź"
+        },
+        {
+            "person_name": "Stankar",
+            "person_date": "1550",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin z Opoczna",
+            "person_date": "1550",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Taurinus",
+            "person_date": "1550",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Orsatius",
+            "person_date": "1550",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Melchior z Krakowa",
+            "person_date": "1550",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Silvius",
+            "person_date": "1550",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Ostroróg",
+            "person_date": "1551",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszek Stankar",
+            "person_date": "1551",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Izrael",
+            "person_date": "1553",
+            "person_info": "przywódca braci czeskich"
+        },
+        {
+            "person_name": "Stanisław Szafraniec",
+            "person_date": "1553",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Grzegorz Paweł z Brzezin",
+            "person_date": "1555",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Krowicki",
+            "person_date": "1555",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Rokita",
+            "person_date": "1555",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Łaski",
+            "person_date": "1556",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Bullinger",
+            "person_date": "1556",
+            "person_info": "teolog szwajcarski"
+        },
+        {
+            "person_name": "Wolfgang Musculus",
+            "person_date": "1556",
+            "person_info": "teolog szwajcarski"
+        },
+        {
+            "person_name": "Jan Ryba",
+            "person_date": "1556",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Blandrata",
+            "person_date": "1560",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fr. Lismanin",
+            "person_date": "1560",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Sarnicki",
+            "person_date": "1561",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kalwin",
+            "person_date": "1561",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Migała",
+            "person_date": "1559",
+            "person_info": "koadiutor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Szczebrzeszyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1529/30-1535"
+        },
+        {
+            "place": "Niedźwiedź",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pińczów",
+            "date": "1550"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostroróg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Secemin",
+            "date": "1553"
+        },
+        {
+            "place": "Słomniki",
+            "date": "1554-11-25"
+        },
+        {
+            "place": "Chrzęcice",
+            "date": "1555-03-18"
+        },
+        {
+            "place": "Gołuchów",
+            "date": "1555-03-24 - 1555-03-27"
+        },
+        {
+            "place": "Koźminek",
+            "date": "1555-08-24 - 1555-09-01"
+        },
+        {
+            "place": "Czechy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Morawy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Secemin",
+            "date": "1556-01-21 - 1556-01-29"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pińczów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chrzęcice",
+            "date": "1556-12-07 - 1556-12-16"
+        },
+        {
+            "place": "Lipnik",
+            "date": "1558-03"
+        },
+        {
+            "place": "Pińczów",
+            "date": "1558-08"
+        },
+        {
+            "place": "Książ",
+            "date": "1560-09-15 - 1560-09-19"
+        },
+        {
+            "place": "Pińczów",
+            "date": "1561-01-24 - 1561-01-30"
+        },
+        {
+            "place": "Kraków",
+            "date": "1651-09"
+        },
+        {
+            "place": "Książ",
+            "date": "1562-03-10"
+        },
+        {
+            "place": "Kraków",
+            "date": "1562-10-16"
+        },
+        {
+            "place": "Secemin",
+            "date": "brak danych"
+        }
+    ]
+}

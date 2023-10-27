@@ -1,0 +1,182 @@
+{
+    "name": "Stanisław Teofil Jarkowski",
+    "psb_id": "PSB-10-0752",
+    "biogram_file": "Jarkowski_Stanislaw_Teofil.txt",
+    "date_of_birth": {
+        "date": "1882-11-05"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1947-06-11"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dziennikarz",
+        "badacz prasy",
+        "student Wydziału Filologicznego Uniw. Warsz.",
+        "student prawa",
+        "student Akademii Handlowej w Lipsku",
+        "student Wydziału Filozoficznego uniwersytetu w Lipsku",
+        "pracownik księgarni w Lipsku",
+        "redaktor literacki w księgarni E. Wende i Sp.",
+        "członek Tow. Literatów i Dziennikarzy Polskich",
+        "pracownik Komitetu Obywatelskiego m. st. Warszawy",
+        "członek Komisji Prasowej Rady Głównej Opiekuńczej",
+        "pracownik redakcji „Kuriera Polskiego”",
+        "pracownik redakcji „Kuriera Porannego”",
+        "pracownik Wydziału prasowego Min. Spraw Wewn.",
+        "szef biura prasowego Związku Ziemian",
+        "wicedyrektor biura wycinków prasowych Informacja Prasowa Polska",
+        "dyrektor biura wycinków prasowych Informacja Prasowa Polska",
+        "współtwórca Tow. Wyższej Szkoły Dziennikarskiej",
+        "wykładowca historii prasy w Tow. Wyższej Szkoły Dziennikarskiej",
+        "kierownik biblioteki w Tow. Wyższej Szkoły Dziennikarskiej",
+        "organizator Polskiego Instytutu Prasoznawczego",
+        "uczestnik prac restytucyjnych Wyższej Szkoły Dziennikarskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "II Gimnazjum Filologiczne",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Akademia Handlowa",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Uniwersytet w Lipsku",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Księgarnia E. Wende i Sp.",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Literatów i Dziennikarzy Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Obywatelski m. st. Warszawy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Prasowa Rady Głównej Opiekuńczej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Resursa Obywatelska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kurier Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kurier Poranny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Spraw Wewnętrznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Ziemian",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Informacja Prasowa Polska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Wyższej Szkoły Dziennikarskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Instytut Prasoznawczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Dziennikarska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Teofil Jarkowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Klementyna Strupeźnicka"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ludwik Fiszer",
+            "person_date": "1911",
+            "person_info": "właściciel księgarni E. Wende i Sp."
+        },
+        {
+            "person_name": "Tadeusz Teslar",
+            "person_date": "1919",
+            "person_info": "założyciel pierwszego w Polsce biura wycinków prasowych"
+        },
+        {
+            "person_name": "Kazimierz Daszkiewicz",
+            "person_date": "1922",
+            "person_info": "współautor Bibliografii najważniejszych prac dotyczących prasy polskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1882-11-05"
+        },
+        {
+            "place": "Lipsk",
+            "date": "1905"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1911"
+        },
+        {
+            "place": "Praga",
+            "date": "1922"
+        },
+        {
+            "place": "Olsztyn",
+            "date": "1934"
+        },
+        {
+            "place": "Berlin",
+            "date": "1937"
+        }
+    ]
+}

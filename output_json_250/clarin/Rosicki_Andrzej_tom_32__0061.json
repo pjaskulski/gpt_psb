@@ -1,0 +1,59 @@
+{
+  "Nazwisko": [
+    "Rosicki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Andrzej"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "13-10-1814"
+  ],
+  "Miejsce urodzenia": [
+    "Władysławowie"
+  ],
+  "Data śmierci": [
+    "17-01-1904"
+  ],
+  "Miejsce śmierci": [
+    "Łódź"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz katolicki przy ul. Ogrodowej"
+  ],
+  "Zawód": [
+    "prezydent m. Łodzi i dyrektor łódzkiego Biura Tow. Kredytowego"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "towarzysz . kredytowy",
+    "towarzystwo . kredytowy miasto . łódź",
+    "towarzysz . akcyjny wyrób bawełniany J .",
+    ". Poznański",
+    "namiestnik Król . polski .",
+    "towarzysz . kredytowy M . łódź",
+    "I ochronka",
+    "AP w Ł",
+    "AP w Ł ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    "Łódź",
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "R.",
+      "target": "Anną z Robowskich",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

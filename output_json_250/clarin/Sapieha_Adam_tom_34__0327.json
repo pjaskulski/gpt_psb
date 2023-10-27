@@ -1,0 +1,35 @@
+{
+  "Nazwisko": [
+    "Sapieha"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Adam"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "04-12-1828"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1903"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "grobowiec rodzinny w kaplicy zamkowej w Krasiczynie"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Jadwigą Sanguszkówną",
+      "target": "Władysława",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Adam Dąbrowski",
+    "psb_id": "PSB-04-0651",
+    "biogram_file": "Dabrowski_Adam.txt",
+    "date_of_birth": {
+        "date": "1848"
+    },
+    "place_of_birth": {
+        "place": "Zaklików",
+        "note": "powiat lubelski, Królestwo Polskie"
+    },
+    "date_of_death": {
+        "date": "1920-10-09"
+    },
+    "place_of_death": {
+        "place": "Odesa",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "rejent w Odessie",
+        "sędzia śledczy w Berdyczowie i Żytomierzu",
+        "członek sądu wojskowego w Odessie",
+        "generał-lejtnant",
+        "przewodniczący Oddziału Pomocy Jeńcom Cywilnym i Wojskowym"
+    ],
+    "institutions": [
+        {
+            "institution_name": "korpus kadetów",
+            "institution_place": "Brześć Litewski"
+        },
+        {
+            "institution_name": "akademia jurydyczna",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "sąd wojskowy",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Komitet Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Piotrogr. Towarzystwo Pomocy Ofiarom Wojny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Oddział Pomocy Jeńcom Cywilnym i Wojskowym",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "więzienie czrezwyczajki",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jordan Dąbrowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Weronika Paszkowska"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Romualda Glińska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Wiktor Dąbrowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Piotr Korejwa",
+            "person_date": "brak danych",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Ebiełow",
+            "person_date": "brak danych",
+            "person_info": "generał gubernator"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zaklików",
+            "date": "1848"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berdyczów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żytomierz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wierny",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tyflis",
+            "date": "brak danych"
+        },
+        {
+            "place": "Odesa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piotrogród",
+            "date": "1914-1915"
+        }
+    ]
+}

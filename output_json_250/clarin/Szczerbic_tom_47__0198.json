@@ -1,0 +1,106 @@
+{
+  "Nazwisko": [
+    "Szczerbic"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szczerba",
+    "Sczerbic",
+    "Szczerbicz",
+    "Scerbicius",
+    "Koźlerogi"
+  ],
+  "Imię/imiona": [
+    "Paweł"
+  ],
+  "Herb": [
+    "Jelita"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1552"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "30-03-1609 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "krużgank kościół p"
+  ],
+  "Zawód": [
+    "prawnik",
+    "pisarz i syndyk lwowski",
+    "sekretarz królewski",
+    "tłumacz",
+    "autor dzieł prawniczych"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szczerbic",
+      "target": "Sczerbic",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Szczerbic",
+      "target": "Szczerbicz",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Szczerbic",
+      "target": "Scerbicius",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Szczerba",
+      "target": "Szczerbicz",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "S-a",
+      "target": "Bartosza Paprockiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "«civis Cracoviensis»",
+      "target": "«providus»",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "«famatus»",
+      "target": "«providus»",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Magdaleną",
+      "target": "Anną",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "Anną",
+      "target": "Stanisława Czymermana",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Anną",
+      "target": "Pawle Fetterze",
+      "name": "matka - współmałżonek"
+    },
+    {
+      "source": "Annę Fetterównę",
+      "target": "Floriana Siebenburgera",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Magdalenę",
+      "target": "Annę Szczerbicówny",
+      "name": "rodzeństwo - współmałżonek"
+    }
+  ]
+}

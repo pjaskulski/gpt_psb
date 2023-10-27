@@ -1,0 +1,96 @@
+{
+    "name": "Maria Piotrowiczowa",
+    "psb_id": "PSB-26-0384",
+    "biogram_file": "Piotrowiczowa_z_Rogolinskich.txt",
+    "date_of_birth": {
+        "date": "1839"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1863-02-24"
+    },
+    "place_of_death": {
+        "place": "Dobra"
+    },
+    "date_of_burial": {
+        "date": "1863-02-28"
+    },
+    "place_of_burial": {
+        "place": "Radogoszcz",
+        "note": "Dobra? pod Łodzią"
+    },
+    "functions": [
+        "uczestniczka powstania styczniowego",
+        "nauczycielka we wsi Chocianowice",
+        "członkini narodowej organizacji łódzkiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "narodowa organizacja łódzka",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "partia Józefa Sawickiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Wojny Rządu Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szpital",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Zygmunt Rogoliński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Ansberty z Badeńskich"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Konstanty Piotrowicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Konstanty Piotrowicz",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Józef Sawicki",
+            "person_date": "1863",
+            "person_info": "dowódca partii powstańczej"
+        },
+        {
+            "person_name": "Józef Dworzaczek",
+            "person_date": "1863",
+            "person_info": "dowódca partii powstańczej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Łęczyca",
+            "date": "1839"
+        },
+        {
+            "place": "Chocianowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łódź",
+            "date": "brak danych"
+        },
+        {
+            "place": "brak danych",
+            "date": "1863"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "Nazwisko": [
+    "Słop"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Skop"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": [
+    "Kornicz"
+  ],
+  "Pseudonimy/kryptonimy": [
+    "Marszałkiem"
+  ],
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Dębowca"
+  ],
+  "Data śmierci": [
+    "21-10-1475 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "marszałek cieszyński",
+    "starosta i kasztelan oświęcimski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Jana Czapka",
+      "target": "Kazimierza Jagiellończyka",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Janem",
+      "target": "Piotrem Szafrańcem",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

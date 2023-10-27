@@ -1,0 +1,98 @@
+{
+    "name": "Mikołaj z Woli",
+    "psb_id": "PSB-21-0146",
+    "biogram_file": "Mikolaj_z_Woli.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1346 lub 1347",
+        "note": "31 X"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan kruszwicki",
+        "starosta kujawski",
+        "obrońca zamku biskupów kujawskich w Raciążku",
+        "podkomorzy brzeski",
+        "asesor sądu ziemskiego",
+        "starosta całych Kujaw"
+    ],
+    "institutions": [
+        {
+            "institution_name": "zamek biskupów kujawskich",
+            "institution_place": "Raciążek"
+        },
+        {
+            "institution_name": "podkomorstwo brzeskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sąd ziemski",
+            "institution_place": "Inowrocław"
+        },
+        {
+            "institution_name": "kasztelania kruszwicka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "starostwo kujawskie",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Maciej z Gołańczy",
+            "person_date": "1330",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Kazimierz Wielki",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Przedbor z Koniecpola",
+            "person_date": "1348",
+            "person_info": "starosta kujawski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Raciążek",
+            "date": "1330"
+        },
+        {
+            "place": "Brześć",
+            "date": "1332-1341"
+        },
+        {
+            "place": "Inowrocław",
+            "date": "1341"
+        },
+        {
+            "place": "Kruszwica",
+            "date": "1345-1346"
+        },
+        {
+            "place": "Kujawy",
+            "date": "1345-1346"
+        },
+        {
+            "place": "Strzelno",
+            "date": "1346 lub 1347"
+        }
+    ]
+}

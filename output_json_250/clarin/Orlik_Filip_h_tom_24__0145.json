@@ -1,0 +1,58 @@
+{
+  "Nazwisko": [
+    "Orlik"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Filip"
+  ],
+  "Herb": [
+    "Nowina"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1672"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "24-05-1742"
+  ],
+  "Miejsce śmierci": [
+    "Chociem"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "koszt hospodaro"
+  ],
+  "Zawód": [
+    "hetman kozacki"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia Mohylańskiej"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Kijów"
+  ],
+  "Relacje": [
+    {
+      "source": "O-owi",
+      "target": "Anną",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Anną",
+      "target": "Pawła Hercyka",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "O-a",
+      "target": "Karola XII",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "O-a",
+      "target": "Stanisława",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

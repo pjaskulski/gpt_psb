@@ -1,0 +1,128 @@
+{
+    "name": "Julia Kazimiera Maciejewiczowa",
+    "psb_id": "PSB-19-0042",
+    "biogram_file": "Maciejewiczowa_z_Moszczynskich.txt",
+    "date_of_birth": {
+        "date": "1863"
+    },
+    "place_of_birth": {
+        "place": "Teklinów",
+        "note": "powiat orszański"
+    },
+    "date_of_death": {
+        "date": "1937-01-15"
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": null,
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Rossie",
+        "note": "obok męża Edwarda Maciejewicza (1841–1899), powstańca z 1863 r."
+    },
+    "functions": [
+        "nauczycielka",
+        "organizatorka szkolnictwa polskiego w Wilnie",
+        "założycielka internatu dla Polek uczących się w szkołach średnich",
+        "założycielka sześcioklasowej Szkoły Handlowej",
+        "członek zarządu Towarzystwa Wzajemnej Pomocy Nauczycielek i Wychowawczyń w Wilnie",
+        "organizatorka zbiorowego nauczania – kompletów dla chłopców i dziewcząt",
+        "przełożona szkoły",
+        "nauczycielka języka niemieckiego",
+        "nauczycielka robót ręcznych w Liceum im. Filomatów",
+        "prowadząca internat dla uczennic",
+        "aktywna działaczka w Związku Pracy Obywatelskiej Kobiet"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Pensja Hryniewska",
+            "institution_place": "Ryga"
+        },
+        {
+            "institution_name": "Internat dla Polek",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Szkoła Handlowa",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Towarzystwo Wzajemnej Pomocy Nauczycielek i Wychowawczyń",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Stowarzyszenie Nauczycielstwa Polskiego",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Gimnazjum im. Elizy Orzeszkowej",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Liceum im. Filomatów",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Związek Pracy Obywatelskiej Kobiet",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "kuzyn",
+            "person": "Bolesław Świda"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Edward Maciejewicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stefania Świda",
+            "person_date": "1900",
+            "person_info": "uczennica"
+        },
+        {
+            "person_name": "Julia Rodziewicz",
+            "person_date": "brak danych",
+            "person_info": "prezeska Stowarzyszenia Nauczycielstwa Polskiego"
+        },
+        {
+            "person_name": "Stanisław Kościałkowski",
+            "person_date": "brak danych",
+            "person_info": "dyrektor męskiej szkoły"
+        },
+        {
+            "person_name": "Eliza Orzeszkowa",
+            "person_date": "brak danych",
+            "person_info": "patronka żeńskiego gimnazjum"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Teklinów",
+            "date": "1863"
+        },
+        {
+            "place": "Ryga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dorpat",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1900"
+        },
+        {
+            "place": "Liceum im. Filomatów",
+            "date": "brak danych"
+        }
+    ]
+}

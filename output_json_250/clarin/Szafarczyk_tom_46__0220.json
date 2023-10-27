@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Szafarczyk"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szafrańczyk"
+  ],
+  "Imię/imiona": [
+    "Emanuel"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Aleksander Bezręki",
+    "Holzendorf"
+  ],
+  "Data urodzenia": [
+    "DD-MM-1840"
+  ],
+  "Miejsce urodzenia": [
+    "Raciborzu Na Śląsk"
+  ],
+  "Data śmierci": [
+    "DD-MM-1865"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "liga lesznowską",
+    "komitet miejski",
+    "komitet centralny narodowy",
+    "VIII komisariat",
+    "straż przyboczny wykonawczy",
+    "V okręg",
+    "V oddział żandarmeria"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szafarczyk (Szafrańczyk) Emanuel",
+      "target": "Jan Kamiński",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Nazwisko": [
+    "Czartoryski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jerzy",
+    "Adam"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "14-01-1770"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1861"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Ciesielskim",
+      "target": "Piramowicz",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Ciesielskim",
+      "target": "Kniaźnin",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Ciesielskim",
+      "target": "Dupont de Nemours",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Józefa",
+      "target": "Sołtyka",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Marią (Wirtemberską",
+      "target": "Zofii (Zamoyskiej",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Konstantego",
+      "target": "Zofii (Zamoyskiej",
+      "name": "współmałżonek - krewny"
+    }
+  ]
+}

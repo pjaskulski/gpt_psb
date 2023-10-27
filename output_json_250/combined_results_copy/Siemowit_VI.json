@@ -1,0 +1,189 @@
+{
+    "name": "Siemowit VI",
+    "psb_id": "PSB-37-0048",
+    "biogram_file": "Siemowit_VI.txt",
+    "date_of_birth": {
+        "date": "1446-01-02",
+        "note": "najprawdopodobniej"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1461-12-31",
+        "note": "lub 1462-01-01"
+    },
+    "place_of_death": {
+        "place": "Sanniki"
+    },
+    "date_of_burial": {
+        "date": "1462-01-04"
+    },
+    "place_of_burial": {
+        "place": "Płock",
+        "note": "katedra płocka"
+    },
+    "functions": [
+        "książę mazowiecki",
+        "opiekun",
+        "kanclerz",
+        "notariusz",
+        "marszałek dworu",
+        "sędzia wyszogrodzki",
+        "wojewoda płocki",
+        "wojewoda rawski",
+        "wojewoda bełski",
+        "pisarz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "konwent dominikanów",
+            "institution_place": "Horodło"
+        },
+        {
+            "institution_name": "kościół Najśw. Marii Panny",
+            "institution_place": "Busko"
+        },
+        {
+            "institution_name": "Zakon Krzyżacki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "katedra",
+            "institution_place": "Płock"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Władysław I"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Konrad V Kącki vel Kantner"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Władysław"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Konrad von Erlichshausen",
+            "person_date": "1446",
+            "person_info": "wielki mistrz"
+        },
+        {
+            "person_name": "Paweł Giżycki",
+            "person_date": "1455",
+            "person_info": "biskup płocki"
+        },
+        {
+            "person_name": "Prędota z Żelaznej i Trzciany",
+            "person_date": "1455",
+            "person_info": "wojewoda płocki"
+        },
+        {
+            "person_name": "Jan z Nieborowa",
+            "person_date": "1455",
+            "person_info": "wojewoda rawski i bełski"
+        },
+        {
+            "person_name": "Ninogniew Kryski",
+            "person_date": "1455",
+            "person_info": "sędzia wyszogrodzki"
+        },
+        {
+            "person_name": "Goliasz z Łęgu",
+            "person_date": "1455",
+            "person_info": "marszałek dworu"
+        },
+        {
+            "person_name": "Racibor z Golejewa",
+            "person_date": "1458",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Jakub z Kłobukowa",
+            "person_date": "1456",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Paweł z Bedlska",
+            "person_date": "1456",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Małgorzata",
+            "person_date": "1459",
+            "person_info": "stryjenka książąt"
+        },
+        {
+            "person_name": "Gotard z Rybna",
+            "person_date": "1461",
+            "person_info": "kasztelan sochaczewski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zadubce",
+            "date": "1448"
+        },
+        {
+            "place": "Brzeźnica",
+            "date": "1448"
+        },
+        {
+            "place": "Horodło",
+            "date": "1448"
+        },
+        {
+            "place": "Bełz",
+            "date": "1456-02-29"
+        },
+        {
+            "place": "Busk",
+            "date": "1456-02-29"
+        },
+        {
+            "place": "Rawa",
+            "date": "1456-04"
+        },
+        {
+            "place": "Wiźnia",
+            "date": "1456-05"
+        },
+        {
+            "place": "Czerwińsk",
+            "date": "1457-06"
+        },
+        {
+            "place": "Płock",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gostynin",
+            "date": "1459-07-07"
+        },
+        {
+            "place": "Grochale",
+            "date": "1459-08-21"
+        },
+        {
+            "place": "Sokal",
+            "date": "1460-12-13"
+        },
+        {
+            "place": "Hrebenne",
+            "date": "1458-09-09"
+        },
+        {
+            "place": "Sanniki",
+            "date": "1461-12-31"
+        }
+    ]
+}

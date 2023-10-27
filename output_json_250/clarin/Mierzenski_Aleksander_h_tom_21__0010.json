@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Mierzeński"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Mierzyński"
+  ],
+  "Imię/imiona": [
+    "Aleksander"
+  ],
+  "Herb": [
+    "Leliwa"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1627"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1671"
+  ],
+  "Miejsce śmierci": [
+    "Zabłudowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "porucznik wojsk W. Ks. Lit"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Abrahama",
+      "target": "Elżbiety Morsztynówny",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "M-ego",
+      "target": "Zbigniew Morsztyn",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "M.",
+      "target": "Wincentego Gosiewskiego",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Nazwisko": [
+    "Charbinowski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Bartosz"
+  ],
+  "Imię/imiona": [
+    "Bartosz"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "31-10-1391 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "podkomorzy sandomierski",
+    "pochodził z możnego rodu Sulimów"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Charbinowski Bartosz",
+      "target": "Bartosz",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Charbinowski Bartosz",
+      "target": "Sulimów",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Bartosza",
+      "target": "Halszka",
+      "name": "protagonist - matka"
+    },
+    {
+      "source": "Bartosza",
+      "target": "Włodko",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Włodka",
+      "target": "Bartoszowi",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Włodka",
+      "target": "Stanisławowi",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Włodka",
+      "target": "Janowi",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Piotrowi",
+      "target": "Bartoszowi",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Piotrowi",
+      "target": "Stanisławowi",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Piotrowi",
+      "target": "Janowi",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Bartosz",
+      "target": "Charbinowski",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Bartosz",
+      "target": "Piotra Wysza",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Charbinowski",
+      "target": "Piotra Wysza",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

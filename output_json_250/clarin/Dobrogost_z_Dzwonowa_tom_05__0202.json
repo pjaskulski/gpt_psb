@@ -1,0 +1,38 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Dobrogost"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1308"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 16-04-1321"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "ziemia nie poświęconej"
+  ],
+  "Zawód": [
+    "głowa potężnego w Wielkopolsce rodu Nałęczów na przełomie rządów głogowskich w Wielkopolsce i później po ich upadku za Łokietka"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "D.",
+      "target": "Łokietka",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "D-a",
+      "target": "Januszem z Bibersteinu",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

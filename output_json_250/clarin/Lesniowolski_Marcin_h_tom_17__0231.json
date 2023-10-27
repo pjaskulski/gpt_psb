@@ -1,0 +1,62 @@
+{
+  "Nazwisko": [
+    "Leśniowolski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Marcin",
+    "Roch"
+  ],
+  "Herb": [
+    "Kolumna"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "16-MM-1593"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "09-03-1593"
+  ],
+  "Miejsce pochówku": [
+    "kościół Mariacki w kaplicy św. Michała w Krakowie"
+  ],
+  "Zawód": [
+    "kaszelan podlaski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Akad . Krak ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Jakuba",
+      "target": "Doroty Skulskiej",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Zborowskiego",
+      "target": "Maciejowskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "L-ego",
+      "target": "Jana Monluca",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Franciszkiem de La Noue",
+      "target": "Karola IX",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "De La Noue",
+      "target": "Henryka",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

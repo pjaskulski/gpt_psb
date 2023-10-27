@@ -1,0 +1,83 @@
+{
+  "Nazwisko": [
+    "Jagiellonka"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jadwiga"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "21-09-1457"
+  ],
+  "Miejsce urodzenia": [
+    "Krakowie Na Wawel"
+  ],
+  "Data śmierci": [
+    "18-02-1502"
+  ],
+  "Miejsce śmierci": [
+    "Berghausen"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "królewna polska",
+    "księżna bawarska"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Kazimierza Jagiellończyka",
+      "target": "Elżbiety Rakuszanki",
+      "name": "ojciec - współmałżonek"
+    },
+    {
+      "source": "J-i",
+      "target": "Dorotę Koniecpolską",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "J-i",
+      "target": "Konstancja",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "J-i",
+      "target": "Sonki",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "J-i",
+      "target": "Jerzego z Podiebradu",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "J-i",
+      "target": "Maciej Korwin",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "J-i",
+      "target": "Elżbiety",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Elżbiecie",
+      "target": "Macieja",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Macieja",
+      "target": "Długosz",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Jerzego Bawarskiego",
+      "target": "Ludwika, zwanego Bogatym",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

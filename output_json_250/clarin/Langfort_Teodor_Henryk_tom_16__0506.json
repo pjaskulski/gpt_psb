@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Langfort"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Henryk",
+    "Teodor"
+  ],
+  "Herb": [
+    "Jagnię"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "inżynier",
+    "kartograf",
+    "oficer regimentu w batalionie Skarbu Kor. O jego pochodzeniu brak wiadomości"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "batalion skarb List do Koryntian",
+    "komisja skarbowy",
+    "archiwum akta dawny",
+    "dział kartografia"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Boniecki",
+      "target": "Buczek K.",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

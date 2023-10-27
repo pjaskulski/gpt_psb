@@ -1,0 +1,51 @@
+{
+  "Nazwisko": [
+    "Potocki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Antoni",
+    "Michał"
+  ],
+  "Herb": [
+    "Pilawa"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1702"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "11-04-1766"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wojewoda bełski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Teresy",
+      "target": "Aleksandra Tarły",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "P-ego",
+      "target": "Anną Iwanowną",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P-ego",
+      "target": "Ostermanna",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Anną Iwanowną",
+      "target": "Ostermanna",
+      "name": "krewny-współmałżonek"
+    }
+  ]
+}

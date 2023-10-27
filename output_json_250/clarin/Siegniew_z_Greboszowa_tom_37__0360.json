@@ -1,0 +1,46 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Sięgniew"
+  ],
+  "Herb": [
+    "Półkozic"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "06-11-1372"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "podkanclerzy krakowski",
+    "prepozyt kolegiaty św. Michała na zamku krakowskim"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zakon krzyżacki"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S-a",
+      "target": "Henrykiem II",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-a",
+      "target": "Kazimierza Wielkiego",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "S-a",
+      "target": "Adelajdą",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

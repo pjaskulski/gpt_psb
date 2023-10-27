@@ -1,0 +1,51 @@
+{
+  "Nazwisko": [
+    "Kliszewska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Karolina"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1867"
+  ],
+  "Miejsce urodzenia": [
+    "Frysztaku"
+  ],
+  "Data śmierci": [
+    "09-11-1927"
+  ],
+  "Miejsce śmierci": [
+    "Katowicach"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "śpiewaczka operetkowa i operowa"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "teatr lwowski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Kliszewska z Wesołowskich Karolina",
+      "target": "Karlińska",
+      "name": "dzieci - współmałżonek"
+    },
+    {
+      "source": "Lamperiego",
+      "target": "Jürgensa",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "K.",
+      "target": "Lasockiego",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

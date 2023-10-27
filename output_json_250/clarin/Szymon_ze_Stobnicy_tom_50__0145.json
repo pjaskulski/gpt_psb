@@ -1,0 +1,53 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Szymon"
+  ],
+  "Herb": [
+    "Syrokomla"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1372"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 23-08-1429"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kanonik poznański i krakowski",
+    "kustosz poznański"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Jakub z Korzkwi",
+      "target": "Floriana",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Bodzętą",
+      "target": "Jana",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Wysza",
+      "target": "Andrzejowi Drozdowi",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Mikołaja Strzeszkowica",
+      "target": "Arnolda",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

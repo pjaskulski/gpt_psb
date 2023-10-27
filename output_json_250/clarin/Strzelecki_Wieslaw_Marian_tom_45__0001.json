@@ -1,0 +1,67 @@
+{
+  "Nazwisko": [
+    "Strzelecki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wiesław",
+    "Marian"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "02-07-1929"
+  ],
+  "Miejsce urodzenia": [
+    "Brudzewicach"
+  ],
+  "Data śmierci": [
+    "DD-MM-1986"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "06-11-1986"
+  ],
+  "Miejsce pochówku": [
+    "cmentarz w Magdalence pod Warszawą"
+  ],
+  "Zawód": [
+    "inżynier leśnik",
+    "docent Instytutu Badawczego Leśnictwa w Warszawie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "instytut",
+    "badawczy leśnictwo w",
+    "Lasa państwo .",
+    "nadleśnictwo Brudzewice",
+    "liceum ogólnokształcący ziemia gostyński",
+    "Wydz . leśny",
+    "SGGW",
+    "katedra botanika leśny i dendrologia",
+    "Inst . badawczy leśnictwo w",
+    "Zakł . zalesiać",
+    "Zakł .",
+    "hodowla las",
+    "pracownia uprawa las",
+    "studium podyplomowy hodowla las",
+    "Zakł . hodowla las"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": null
+}

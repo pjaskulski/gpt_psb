@@ -1,0 +1,265 @@
+{
+    "name": "Jan Nepomucen Potocki",
+    "psb_id": "PSB-28-0012",
+    "biogram_file": "Potocki_Jan_Nepomucen_1.txt",
+    "date_of_birth": {
+        "date": "1867-04-29"
+    },
+    "place_of_birth": {
+        "place": "Oleszyce"
+    },
+    "date_of_death": {
+        "date": "1942-03-13"
+    },
+    "place_of_death": {
+        "place": "Rymanów Zdrój"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Rymanów"
+    },
+    "functions": [
+        "właściciel Zakładu Zdrojowego w Rymanowie",
+        "poseł do parlamentu austriackiego",
+        "działacz społeczny",
+        "student mechaniki na politechnice we Lwowie",
+        "zarządca uzdrowiska Truskawiec",
+        "kierownik Zakładu Zdrojowego w Rymanowie",
+        "członek zarządu głównego Związku Kółek Rolniczych Galicji",
+        "poseł do Rady Państwa w Wiedniu",
+        "członek Koła Polskiego w parlamencie",
+        "prezes Polskiego Tow. Balneologicznego",
+        "organizator II Zjazdu Balneologów Polskich w Krakowie",
+        "założyciel Krajowego Związku Zdrojowisk i Uzdrowisk",
+        "prezes Krajowego Związku Zdrojowisk i Uzdrowisk",
+        "prezes honorowy Krajowego Związku Zdrojowisk i Uzdrowisk",
+        "prezes oddziału Książęco-Biskupiego Komitetu pomocy dla dotkniętych klęską wojny",
+        "członek rady powiatowej w Sanoku",
+        "prezes «Sokoła» w Rymanowie",
+        "prezes Kasy Zaliczkowej i Kółka Rolniczego",
+        "opiekun ochotniczej straży pożarnej",
+        "członek wojewódzkiej ligi drogowej",
+        "organizator święta pracy",
+        "inicjator elektryfikacji Rymanowa Zdroju, Posady Górnej oraz Deszna"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zakład Zdrojowy w Rymanowie",
+            "institution_place": "Rymanów"
+        },
+        {
+            "institution_name": "Parlament Austriacki",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Politechnika we Lwowie",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Uzdrowisko Truskawiec",
+            "institution_place": "Truskawiec"
+        },
+        {
+            "institution_name": "Związek Kółek Rolniczych Galicji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Balneologiczne",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Krajowy Związek Zdrojowisk i Uzdrowisk",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Książęco-Biskupi Komitet pomocy dla dotkniętych klęską wojny",
+            "institution_place": "Zakopane"
+        },
+        {
+            "institution_name": "Rada Powiatowa w Sanoku",
+            "institution_place": "Sanok"
+        },
+        {
+            "institution_name": "Sokół w Rymanowie",
+            "institution_place": "Rymanów"
+        },
+        {
+            "institution_name": "Kasa Zaliczkowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kółko Rolnicze",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ochotnicza Straż Pożarna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojewódzka Liga Drogowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Historii Kultury Materialnej PAN",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zarząd Główny Klubu Wysokogórskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Koło Krakowskie Klubu Wysokogórskiego",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Potocki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Działyńska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Róża Wodzicka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Maria Szajer"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Aleksander Potocki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Teresa Potocka"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Jadwiga Potocka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ignacy Potocki"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia Potocka"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maria Potocka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Potocki"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Jerzy Potocki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "ks. Józef Wolski",
+            "person_date": "brak danych",
+            "person_info": "proboszcz Rymanowa"
+        },
+        {
+            "person_name": "dr Ignacy Bielecki",
+            "person_date": "brak danych",
+            "person_info": "lekarz"
+        },
+        {
+            "person_name": "bp Bazyl Maściuch",
+            "person_date": "brak danych",
+            "person_info": "biskup greckokatolicki Łemkowszczyzny"
+        },
+        {
+            "person_name": "Kazimierz Tchórznicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Skrzyszowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Grabiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Potworowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz Mańkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Stojowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Potocki",
+            "person_date": "1932",
+            "person_info": "archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie, taternik i alpinista"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Oleszyce",
+            "date": "1867-04-29"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1886-1888"
+        },
+        {
+            "place": "Truskawiec",
+            "date": "1892-1894"
+        },
+        {
+            "place": "Rymanów",
+            "date": "1894"
+        },
+        {
+            "place": "Zakopane",
+            "date": "brak danych"
+        },
+        {
+            "place": "Posada Górna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Deszno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sanok",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rymanów Zdrój",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rymanów",
+            "date": "1942-03-13"
+        }
+    ]
+}

@@ -1,0 +1,634 @@
+{
+    "name": "Jan Firlej z Dąbrowicy",
+    "psb_id": "PSB-07-0001",
+    "biogram_file": "Firlej_Jan_z.txt",
+    "date_of_birth": {
+        "date":"1521", "note":"około"
+    },
+    "place_of_birth": {
+        "place":"brak danych"
+    },
+    "date_of_death": {
+        "date":"1574-04-25"
+    },
+    "place_of_death": {
+        "place":"Kraków"
+    },
+    "date_of_burial": {
+        "date":"1574-08-27", "note":"lub 28 sierpnia"
+    },
+    "place_of_burial": {
+        "place":"Kock", "note": "kościół parafialny"
+    },
+    "functions": [
+        "wojewoda krakowski",
+        "marszałek w. koronny",
+        "dworzanin Zygmunta I",
+        "posłowiec",
+        "sekretarz",
+        "kasztelan bełski",
+        "wojewoda bełski",
+        "wojewoda lubelski",
+        "starosta rohatyński",
+        "starosta krakowski",
+        "marszałek",
+        "działacz polit.",
+        "deputat",
+        "kanclerz koronny",
+        "marszałek obwieścił tłumom wybór Henryka",
+        "członek delegacji do zbadania praw Prus Królewskich w stosunku do Polski",
+        "deputat do skontrolowania rachunków obu skarbów i obmyślenia pokrycia żołdu tudzież innych potrzeb państwa",
+        "marszałek obwieścił zebranym fakt złożenia przez króla przysięgi, podobnej do paryskiej",
+        "kasztelan rawski",
+        "wybitny działacz polit.",
+        "różnowierczy"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet w Lipsku",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Uniwersytet w Padwie",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Dwór Zygmunta I",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dwór Zygmunta Augusta",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Rzeczypospolitej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Synod w Piotrkowie",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Synod w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rada Senatu",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zamek w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Senat",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zjazd w Kaskach",
+            "institution_place": "Kaski"
+        },
+        {
+            "institution_name": "Sejmik województwa krakowskiego",
+            "institution_place": "Proszowice"
+        },
+        {
+            "institution_name": "Zamek w Knyszynie",
+            "institution_place": "Knyszyn"
+        },
+        {
+            "institution_name": "Zbor kalwiński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szkoła w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sejmik w Wiślicy",
+            "institution_place": "Wiślica"
+        },
+        {
+            "institution_name": "Sejmik w Środzie",
+            "institution_place": "Środa"
+        },
+        {
+            "institution_name": "Senatorskie zebranie w Osieku",
+            "institution_place": "Osiek"
+        },
+        {
+            "institution_name": "Zamek w Kazimierzu",
+            "institution_place": "Kazimierz"
+        },
+        {
+            "institution_name": "Zamek na Wawelu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zamek w Kocku",
+            "institution_place": "Kock"
+        },
+        {
+            "institution_name": "Miasteczko Firlejów",
+            "institution_place": "Firlejów"
+        },
+        {
+            "institution_name": "Miasto Wąwelnicę",
+            "institution_place": "Wąwelnicę"
+        },
+        {
+            "institution_name": "Zbór kalwiński",
+            "institution_place": "Kock"
+        },
+        {
+            "institution_name": "Zbór kalwiński w Małopolsce",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uczelnie zagraniczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Starostwo rohatyńskie",
+            "institution_place": "Rohatyn"
+        },
+        {
+            "institution_name": "Dwór królewski",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Piotr Firlej"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna z Tęczyńskich"
+        },
+        {
+            "family_relation": "wuj",
+            "person": "Stanisław Gabriel Tęczyński"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Boner"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Seweryn Boner"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj Firlej"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mikołaj Firlej"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Dzikówna z Pierśni"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Barbara z Mniszchów"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Mikołaj Mniszch"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Henryk Firlej"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Jadwiga Firlej"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Mniszch"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Andrzej Firlej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Firlej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Piotr Firlej"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1545",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Karol V",
+            "person_date": "1545",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "brak danych",
+            "person_info": "sekretarz królewski"
+        },
+        {
+            "person_name": "Albrecht pruski",
+            "person_date": "brak danych",
+            "person_info": "książę pruski"
+        },
+        {
+            "person_name": "Seweryn Boner",
+            "person_date": "1546",
+            "person_info": "kasztelan biecki"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1548",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Samuel Maciejowski",
+            "person_date": "brak danych",
+            "person_info": "biskup-humanista, kanclerz"
+        },
+        {
+            "person_name": "Moryc Wachowski",
+            "person_date": "1590",
+            "person_info": "kupiec zbożowy"
+        },
+        {
+            "person_name": "Andrzej Trzycieski",
+            "person_date": "1556",
+            "person_info": "autor elegii"
+        },
+        {
+            "person_name": "Marcin Zborowski",
+            "person_date": "1562",
+            "person_info": "kasztelan krakowski"
+        },
+        {
+            "person_name": "Grzegorz Paweł",
+            "person_date": "1565",
+            "person_info": "przywódca antytrynitarzy"
+        },
+        {
+            "person_name": "Jan Chodkiewicz",
+            "person_date": "1569",
+            "person_info": "marszałek litewski"
+        },
+        {
+            "person_name": "Piotr Zborowski",
+            "person_date": "brak danych",
+            "person_info": "wojewoda sandomierski"
+        },
+        {
+            "person_name": "Stanisław Barz",
+            "person_date": "1572",
+            "person_info": "wojewoda i starosta krakowski"
+        },
+        {
+            "person_name": "Jan Chodkiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Firlej",
+            "person_date": "1572",
+            "person_info": "starosta kazimirski"
+        },
+        {
+            "person_name": "Fr. Krasiński",
+            "person_date": "1573",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Krzysztof Trecy",
+            "person_date": "1573",
+            "person_info": "minister zboru kalwińskiego w Krakowie i rektor szkoły tamże"
+        },
+        {
+            "person_name": "Beza",
+            "person_date": "1573",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bullinger",
+            "person_date": "1573",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan III",
+            "person_date": "1573",
+            "person_info": "król szwedzki"
+        },
+        {
+            "person_name": "Katarzyna Jagiellonka",
+            "person_date": "1573",
+            "person_info": "królowa szwedzka"
+        },
+        {
+            "person_name": "Mikołaj Mielecki",
+            "person_date": "1573",
+            "person_info": "wojewoda podolski"
+        },
+        {
+            "person_name": "Anzelm Gostomski",
+            "person_date": "1573",
+            "person_info": "wojewoda rawski"
+        },
+        {
+            "person_name": "Jan Kostka",
+            "person_date": "1573",
+            "person_info": "kasztelan gdański"
+        },
+        {
+            "person_name": "St. Karnkowski",
+            "person_date": "1573",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zborowski",
+            "person_date": "brak danych",
+            "person_info": "członek francuskiej partii"
+        },
+        {
+            "person_name": "Andegaweńczyk",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Walezy",
+            "person_date": "1573",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Prymas Uchański",
+            "person_date": "1573",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Mikołaj Mielecki",
+            "person_date": "1573",
+            "person_info": "senator"
+        },
+        {
+            "person_name": "Montluk",
+            "person_date": "1573",
+            "person_info": "poseł"
+        },
+        {
+            "person_name": "Piotr Zborowski",
+            "person_date": "1573",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Maksymilian",
+            "person_date": "1573",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Mateusz Siebeneycher",
+            "person_date": "1574",
+            "person_info": "drukarz"
+        },
+        {
+            "person_name": "Jan Dymitr Solikowski",
+            "person_date": "1574",
+            "person_info": "autor pisma"
+        },
+        {
+            "person_name": "Bp Krasiński",
+            "person_date": "1574",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Nuncjusz Laureo",
+            "person_date": "1574",
+            "person_info": "nuncjusz"
+        },
+        {
+            "person_name": "Piotr Zborowski",
+            "person_date": "1574",
+            "person_info": "rywal"
+        },
+        {
+            "person_name": "Kardynał Hozjusz",
+            "person_date": "1574",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1570",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Fr. Krasiński",
+            "person_date": "brak danych",
+            "person_info": "podkanclerz, biskup"
+        },
+        {
+            "person_name": "Mik. Mielecki",
+            "person_date": "brak danych",
+            "person_info": "wojewoda"
+        },
+        {
+            "person_name": "Andrzej Dudycz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Trzycieski",
+            "person_date": "1565",
+            "person_info": "autor 'Epigrammatum liber I'"
+        },
+        {
+            "person_name": "Maciej Wierzbięta",
+            "person_date": "1573",
+            "person_info": "drukarz, autor 'Krótkie opisanie wiary świętej'"
+        },
+        {
+            "person_name": "Josias Simler",
+            "person_date": "1568",
+            "person_info": "autor 'De Aeterno Dei Filio'"
+        },
+        {
+            "person_name": "Piotr Roizjusz",
+            "person_date": "brak danych",
+            "person_info": "poeta"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dąbrowica",
+            "date": "1521"
+        },
+        {
+            "place": "Lipsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Padwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Egipt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Palestyna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wormacja",
+            "date": "1545-06-1545-08"
+        },
+        {
+            "place": "Balic",
+            "date": "1546"
+        },
+        {
+            "place": "Kazimierz",
+            "date": "1552"
+        },
+        {
+            "place": "Kraków",
+            "date": "1553"
+        },
+        {
+            "place": "Bełsk",
+            "date": "1555"
+        },
+        {
+            "place": "Pozwol",
+            "date": "1557"
+        },
+        {
+            "place": "Serokomla",
+            "date": "1557"
+        },
+        {
+            "place": "Kock",
+            "date": "1557"
+        },
+        {
+            "place": "Lublin",
+            "date": "1557"
+        },
+        {
+            "place": "Lwów",
+            "date": "1557"
+        },
+        {
+            "place": "Wiślica",
+            "date": "1557"
+        },
+        {
+            "place": "Lubelskie",
+            "date": "1561"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1562"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1563/4"
+        },
+        {
+            "place": "Rohatyn",
+            "date": "1564"
+        },
+        {
+            "place": "Krakowie",
+            "date": "1567"
+        },
+        {
+            "place": "Lublin",
+            "date": "1569"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1570"
+        },
+        {
+            "place": "Knyszyn",
+            "date": "1572"
+        },
+        {
+            "place": "Środa",
+            "date": "1572"
+        },
+        {
+            "place": "Bystrzyca",
+            "date": "1572"
+        },
+        {
+            "place": "Osiek",
+            "date": "1573"
+        },
+        {
+            "place": "Łęczyca",
+            "date": "1573"
+        },
+        {
+            "place": "Kaski",
+            "date": "1573"
+        },
+        {
+            "place": "Wiślica",
+            "date": "1572-11-17"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Proszowice",
+            "date": "1573-03-02"
+        },
+        {
+            "place": "Grochów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Balicach",
+            "date": "1574-02-16"
+        },
+        {
+            "place": "Kock",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wąwelnicę",
+            "date": "1567"
+        },
+        {
+            "place": "Firlejów",
+            "date": "brak danych"
+        }
+    ]
+}

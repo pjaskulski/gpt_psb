@@ -1,0 +1,43 @@
+{
+  "Nazwisko": [
+    "Migowa"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Gancwolów"
+  ],
+  "Imię/imiona": [
+    "Jadwiga",
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "19-05-YYYY"
+  ],
+  "Miejsce urodzenia": [
+    "Będzinie"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "krypt. i pseud. M. J. M.",
+    "mig"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "I prywatny średni szkoła żeński",
+    "wydział filozoficzny",
+    "UJ",
+    "związek filaret",
+    "Związek strzelecki"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": null
+}

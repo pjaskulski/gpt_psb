@@ -1,0 +1,102 @@
+{
+    "name": "Bezprym",
+    "psb_id": "PSB-02-0002",
+    "biogram_file": "Bezprym.txt",
+    "date_of_birth": {
+        "date": "986"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1031"
+    },
+    "place_of_death": {
+        "place": "Polska"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "książę Polski",
+        "mnich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "pustelnia św. Romualda",
+            "institution_place": "Włochy koło Rawenny"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bolesław Chrobry"
+        },
+        {
+            "family_relation": "matka",
+            "person": "nieznana Węgierka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mieszko II"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Otto"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Rycheza"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Konrad II",
+            "person_date": "1030",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Rycheza",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Thietmar",
+            "person_date": "brak danych",
+            "person_info": "kronikarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Polska",
+            "date": "986-1031"
+        },
+        {
+            "place": "Włochy",
+            "date": "999"
+        },
+        {
+            "place": "Polska",
+            "date": "1025"
+        },
+        {
+            "place": "Ruś",
+            "date": "1030"
+        },
+        {
+            "place": "Niemcy",
+            "date": "1030"
+        },
+        {
+            "place": "Polska",
+            "date": "1031"
+        },
+        {
+            "place": "Czechy",
+            "date": "1031"
+        }
+    ]
+}

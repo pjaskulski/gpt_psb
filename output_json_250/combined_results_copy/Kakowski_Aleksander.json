@@ -1,0 +1,245 @@
+{
+    "name": "Aleksander Kakowski",
+    "psb_id": "PSB-11-0526",
+    "biogram_file": "Kakowski_Aleksander.txt",
+    "date_of_birth": {
+        "date": "1862-02-05"
+    },
+    "place_of_birth": {
+        "place": "Dębiny",
+        "note": "powiat przasnyski"
+    },
+    "date_of_death": {
+        "date": "1938-12-30"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Bródno",
+        "note": null
+    },
+    "functions": [
+        "arcybiskup metropolita warszawski",
+        "kardynał",
+        "prymas Królestwa Polskiego",
+        "członek Rady Regencyjnej",
+        "wikary",
+        "wykładowca prawa kanonicznego, teologii pastoralnej, homiletyki i literatury polskiej w Seminarium Duchownym w Warszawie",
+        "sekretarz w Sądzie Arcybiskupim",
+        "obrońca węzła małżeńskiego",
+        "prokurator fiskalis w sprawach karnych duchowieństwa",
+        "regens seminarium",
+        "kanonik kapituły warszawskiej",
+        "prałat",
+        "rektor Akademii Duchownej w Petersburgu",
+        "profesor prawa kanonicznego",
+        "sakrator biskupi",
+        "członek Kongregacji Sakramentów, Propagandy Wiary, Seminariów i Uniwersytetów",
+        "administrator tzw. Reverenda Fabrica di s. Pietro",
+        "kanclerz kapituły Orderu Orła Białego",
+        "organizator budowy kościołów i kaplic",
+        "organizator synodów i konferencji biskupów",
+        "inicjator Akcji Katolickiej",
+        "założyciel Katolickiego Związku Instytucji i Zakładów Wychowawczych «Caritas»",
+        "organizator działalności kleru wśród młodzieży akademickiej",
+        "budowniczy Katolickiego Domu tzw. Romy",
+        "założyciel Instytutu Wyższej Kultury Religijnej w Warszawie",
+        "założyciel Domu Pracy dla Najbiedniejszych na Bródnie i domu rekolekcyjnego w Skrzeszewach",
+        "inicjator Muzeum Archidiecezjalnego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Seminarium Duchowne",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Akademia Duchowna",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Uniwersytet Gregoriański",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Szkoła Adwokatów: Lo Studio del Concilio di Trento",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Sąd Arcybiskupi",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kapituła warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Rada Regencyjna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zjednoczenie Ludowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kongregacja Sakramentów",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Propaganda Wiary",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Seminaria i Uniwersytety",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Reverenda Fabrica di s. Pietro",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Katolicki Związek Instytucji i Zakładów Wychowawczych «Caritas»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Katolicki Dom tzw. Romy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Instytut Wyższej Kultury Religijnej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Dom Pracy dla Najbiedniejszych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Dom rekolekcyjny",
+            "institution_place": "Skrzeszewy"
+        },
+        {
+            "institution_name": "Muzeum Archidiecezjalne",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Franciszek Kakowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Paulina Ossowska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Franciszek Kakowski",
+            "person_date": "brak danych",
+            "person_info": "gospodarz, handlarz leśny"
+        },
+        {
+            "person_name": "W. Szczęśniak",
+            "person_date": "1898",
+            "person_info": "kandydat na stanowisko regensa seminarium"
+        },
+        {
+            "person_name": "S. Zdzitowiecki",
+            "person_date": "1917",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "A. J. Nowowiejski",
+            "person_date": "1917",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Z. Chełmicki",
+            "person_date": "1917",
+            "person_info": "sekretarz i szef kancelarii Rady Regencyjnej"
+        },
+        {
+            "person_name": "J. Piłsudski",
+            "person_date": "1918",
+            "person_info": "przywódca polityczny"
+        },
+        {
+            "person_name": "Achilles Ratti",
+            "person_date": "1919",
+            "person_info": "nuncjusz, późniejszy papież Pius XI"
+        },
+        {
+            "person_name": "Benedykt XV",
+            "person_date": "1919",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "E. Dalbor",
+            "person_date": "1926",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "S. Gall",
+            "person_date": "brak danych",
+            "person_info": "główny doradca Aleksandra Kakowskiego"
+        },
+        {
+            "person_name": "M. Handelsman",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dębiny",
+            "date": "1862-02-05"
+        },
+        {
+            "place": "Pułtusk",
+            "date": "1878"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1878"
+        },
+        {
+            "place": "Mentona",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1913-06-22"
+        },
+        {
+            "place": "Łowicz",
+            "date": "1913"
+        },
+        {
+            "place": "Anglia",
+            "date": "1914"
+        },
+        {
+            "place": "Skandynawia",
+            "date": "1914"
+        },
+        {
+            "place": "Finlandia",
+            "date": "1914"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "1936"
+        }
+    ]
+}

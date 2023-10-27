@@ -1,0 +1,74 @@
+{
+  "Nazwisko": [
+    "Renard"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Benedykt"
+  ],
+  "Herb": [
+    "własny"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1683"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "architekt",
+    "grafik i dyplomata"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia święty . Łukasz",
+    "akademia sztuka",
+    "akademia",
+    "akademik"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Andrzeja",
+      "target": "Jana Baptysty",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Augusta II",
+      "target": "Anny Orzelskiej",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "R-a",
+      "target": "Augustem II",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Borrominiego",
+      "target": "Carla Fontany",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "R.",
+      "target": "Berniniego",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "R.",
+      "target": "Borrominiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R.",
+      "target": "Carla Fontany",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

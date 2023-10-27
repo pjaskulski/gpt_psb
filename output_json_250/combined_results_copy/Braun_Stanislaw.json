@@ -1,0 +1,105 @@
+{
+    "name": "Stanisław Braun",
+    "psb_id": "PSB-02-0712",
+    "biogram_file": "Braun_Stanislaw.txt",
+    "date_of_birth": {
+        "date": "1859"
+    },
+    "place_of_birth": {
+        "place": "Jaszczów",
+        "note": "koło Krosna"
+    },
+    "date_of_death": {
+        "date": "1922"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "ginekolog",
+        "lekarz pomocniczy w Szpitalu św. Łazarza w Krakowie",
+        "asystent kliniki położniczo-ginekologicznej U. J.",
+        "docent położnictwa i ginekologii",
+        "właściciel zakładu położniczego",
+        "profesor nadzwyczajny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Jag.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szpital św. Łazarza",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "klinika położniczo-ginekologiczna U. J.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zakład położniczy",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Olga z Górskich"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jerzy Braun"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia Braun"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Olga z Górskich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Jaszczew",
+            "date": "1859"
+        },
+        {
+            "place": "Kraków",
+            "date": "1884"
+        },
+        {
+            "place": "Kraków",
+            "date": "1886"
+        },
+        {
+            "place": "Kraków",
+            "date": "1892"
+        },
+        {
+            "place": "Kraków",
+            "date": "1894"
+        },
+        {
+            "place": "Kraków",
+            "date": "1898"
+        },
+        {
+            "place": "Kraków",
+            "date": "1909"
+        },
+        {
+            "place": "Kraków",
+            "date": "1922"
+        }
+    ]
+}

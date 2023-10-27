@@ -1,0 +1,117 @@
+{
+    "name": "Ignacy Czajewski",
+    "psb_id": "PSB-04-0237",
+    "biogram_file": "Czajewski_Ignacy.txt",
+    "date_of_birth": {
+        "date": "1868"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1922-01-19"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Ząbki",
+        "note": "cmentarz w Ząbkach"
+    },
+    "functions": [
+        "ks.",
+        "kanonik honorowy kapituły mohylewskiej",
+        "magister teologii",
+        "kapłan",
+        "prefekt w szkołach średnich",
+        "zarządca biblioteki szkoły męskiej przy kośc. św. Katarzyny",
+        "proboszcz w Charkowie",
+        "wykładowca religii w szkołach",
+        "dziekan i proboszcz kośc. św. Piotra i Pawła",
+        "kanclerz kurii metropolitalnej w Petersburgu",
+        "rezydent przy kośc. św. Katarzyny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "seminarium duchowne",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Akademia Duchowna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szkoły średnie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "biblioteka szkoły męskiej przy kośc. św. Katarzyny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Parafia Charkowska",
+            "institution_place": "Charków"
+        },
+        {
+            "institution_name": "kościół św. Piotra i Pawła",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "C. K. O.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "P. T. P. O.W.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kuria metropolitalna",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "kościół św. Katarzyny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szpital Dzieciątka Jezus",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "cmentarz w Ząbkach",
+            "institution_place": "Ząbki"
+        },
+        {
+            "institution_name": "G. P. U.",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Anna Mar",
+            "person_date": "brak danych",
+            "person_info": "Literatka rosyjska"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Charków",
+            "date": "1905"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1911"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1916"
+        }
+    ]
+}

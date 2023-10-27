@@ -1,0 +1,39 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Natan",
+    "Spira"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1577"
+  ],
+  "Miejsce śmierci": [
+    "Grodnin"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rabin grodzieński",
+    "pisarz homiletyczny",
+    "kabalista"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Rasziego",
+      "target": "Eliasza ben Abrahama Mizrachi",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Salomon",
+      "target": "Natana Naty Spiry",
+      "name": "dzieci-krewny"
+    }
+  ]
+}

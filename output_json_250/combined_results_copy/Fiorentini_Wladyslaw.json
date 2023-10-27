@@ -1,0 +1,121 @@
+{
+    "name": "Władysław Fiorentini",
+    "psb_id": "PSB-06-0693",
+    "biogram_file": "Fiorentini_Wladyslaw.txt",
+    "date_of_birth": {
+        "date": "1820"
+    },
+    "place_of_birth": {
+        "place": "Borgo",
+        "note": "Rzeczpospolita Wenecka"
+    },
+    "date_of_death": {
+        "date": "1914-01-16"
+    },
+    "place_of_death": {
+        "place": "Wilno",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "Wilno",
+        "note": "cmentarz bernardyński"
+    },
+    "functions": [
+        "kupiec",
+        "esteta",
+        "działacz społeczny",
+        "rajca miejski",
+        "sekretarz królewski",
+        "dzierżawca ekonomii w woj. grodzieńskim",
+        "właściciel Oławy i Szwabiszek",
+        "radny miejski wileński"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Stypendium handlowe",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Rada miejska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Projekt parku",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "Franciszek Fiorentini"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Antoni Fiorentini"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Popowa"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Bazyli Popow"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Bogumiła Gizbert"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Wł. Syrokomla",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Strauss",
+            "person_date": "brak danych",
+            "person_info": "artysta fotograf"
+        },
+        {
+            "person_name": "Bazyl Popow",
+            "person_date": "brak danych",
+            "person_info": "marszałek powiatu dyneburskiego"
+        },
+        {
+            "person_name": "Bogumiła Gizbert",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Borgo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oława",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwabiszki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jęczmieniszki",
+            "date": "1900"
+        },
+        {
+            "place": "Wilno",
+            "date": "1914-01-16"
+        }
+    ]
+}

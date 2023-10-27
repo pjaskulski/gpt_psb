@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Firlej"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": [
+    "Lewart"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1521"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wojewoda krakowski i marszałek w. koronny",
+    "wybitny działacz polit"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "F-ja",
+      "target": "Karola V",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Elżbiety",
+      "target": "Zygmunta Augusta",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Zofią",
+      "target": "Seweryna Bonera z Balic",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "F.",
+      "target": "Zygmunt August",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

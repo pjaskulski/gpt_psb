@@ -1,0 +1,58 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Unolf"
+  ],
+  "Imię/imiona": [
+    "Onolf"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- DD-MM-1187"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "Włocławko"
+  ],
+  "Zawód": [
+    "Długoszowe przypisanie go do Dołęgów jest nieuzasadnione"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "O-a",
+      "target": "Wernera-Wiernierza",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Długosza",
+      "target": "Honolda-Onolda",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Długosza",
+      "target": "Unelfa",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "O-a",
+      "target": "Długosza",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "O-a",
+      "target": "Honolda-Onolda",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "O-a",
+      "target": "Unelfa",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

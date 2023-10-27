@@ -1,0 +1,76 @@
+{
+  "Nazwisko": [
+    "Szymkowicz"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Mikołaj Żmojdzin"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": [
+    "Lis"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1563"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "marszałek hospodarski",
+    "ciwun ejragolski",
+    "dzierżawca wieloński"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szymkowicz Poszuszwieński Mikołaj",
+      "target": "Mikołaj Żmojdzin",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Elżbiety Stankiewiczówny",
+      "target": "Stanka (Stanisława) Bielewicza",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Sebastiana Mikołajowicza Kęsztorta",
+      "target": "Dorotę",
+      "name": "dzieci - współmałżonek"
+    },
+    {
+      "source": "Zofię",
+      "target": "Jana Wacławowicza Bartoszewicza",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Zofię",
+      "target": "Marka Ławrynowicza Wnuczka",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "S-a",
+      "target": "Zygmunt August",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-a",
+      "target": "Mikołajem Żmojdzinem",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Jadwigi",
+      "target": "Joachimem II Hohenzollernem",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

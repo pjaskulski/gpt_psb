@@ -1,0 +1,140 @@
+{
+    "name": "Pelagia Dąbrowska",
+    "psb_id": "PSB-04-0648",
+    "biogram_file": "Dabrowska_Pelagia.txt",
+    "date_of_birth": {
+        "date": "1843-09-10"
+    },
+    "place_of_birth": {
+        "place": "Dubienka",
+        "note": "w Lubelskiem"
+    },
+    "date_of_death": {
+        "date": "1909-02-11"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "żona Jarosława",
+        "nauczycielka",
+        "ochmistrzyni w gimnazjum żeńskim",
+        "nauczycielka w szkole św. Andrzeja ss. felicjanek",
+        "nauczycielka u Serwatowskiej, Krynickiej",
+        "nauczycielka w gimnazjum Królowej Jadwigi"
+    ],
+    "institutions": [
+        {
+            "institution_name": "pensja Teresy Brzezińskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Centralny Komitet Narodowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "X pawilon",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szkoła św. Andrzeja ss. felicjanek",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "gimnazjum żeńskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "gimnazjum Królowej Jadwigi",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        { "family_relation": "mąż", 
+          "person": "Jarosław Dąbrowski" 
+        },
+        { "family_relation": "ojciec", 
+          "person": "Michał Zgliczyński" 
+        },
+        { "family_relation": "matka", 
+          "person": "Pelagia Piotrowska" 
+        },
+        { "family_relation": "ciotka", 
+          "person": "Waleria Piotrowska" 
+        },
+        { "family_relation": "ciotka", 
+          "person": "Ignacja Piotrowska" 
+        },
+        { "family_relation": "wuj", 
+          "person": "Piotr Falkenhagen-Zaleski" 
+        },
+        { "family_relation": "syn", 
+          "person": "brak danych" 
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Teresa Brzezińska",
+            "person_date": "brak danych",
+            "person_info": "właścicielka pensji"
+        },
+        {
+            "person_name": "członkowie Centralnego Komitetu Narodowego",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Trzaskowski",
+            "person_date": "brak danych",
+            "person_info": "założyciel pierwszego gimnazjum żeńskiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dubienka",
+            "date": "1843-09-10"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cytadela Warszawska",
+            "date": "1864-04-05"
+        },
+        {
+            "place": "Aradatow",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Anglia",
+            "date": "1871-05"
+        },
+        {
+            "place": "Kraków",
+            "date": "1872"
+        },
+        {
+            "place": "Jasło",
+            "date": "1873"
+        },
+        {
+            "place": "Kraków",
+            "date": "1880"
+        }
+    ]
+}

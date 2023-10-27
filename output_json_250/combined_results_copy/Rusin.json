@@ -1,0 +1,164 @@
+{
+    "name": "Mikołaj Rusin",
+    "psb_id": "PSB-33-0097",
+    "biogram_file": "Rusin.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1330-12-20",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "rajca krakowski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Rada Miasta Krakowa",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Królestwo Polskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kościół Najśw. Marii Panny",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {   
+            "family_relation":"teść", 
+            "person":"Mikołaj z Zawichostu"
+        },
+        {
+            "family_relation":"syn", 
+            "person":"Jan"
+        },
+        {
+            "family_relation":"córka", 
+            "person":"Anna"
+        },
+        {   
+            "family_relation":"żona", 
+            "person":"Helena"
+        },
+        {   
+            "family_relation":"córka", 
+            "person":"Gertruda"
+        },
+        {
+            "family_relation":"zięć", 
+            "person":"Tyczek Snel"
+        },
+        {
+            "family_relation":"synowa", 
+            "person":"Elżbieta"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Władysław Łokietek",
+            "person_date": "1320",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Sandra Snel",
+            "person_date": "1313",
+            "person_info": "mieszczanin toruński"
+        },
+        {
+            "person_name": "Jan z Enden",
+            "person_date": "1326",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jaśko, syn Eberharda",
+            "person_date": "1318",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Gwis",
+            "person_date": "1318",
+            "person_info": "wójt krakowski"
+        },
+        {
+            "person_name": "biskupi włoscy",
+            "person_date": "1326",
+            "person_info": "biskupi"
+        },
+        {
+            "person_name": "Wilusz",
+            "person_date": "brak danych",
+            "person_info": "kuśnierz"
+        },
+        {
+            "person_name": "Tyczek Snel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Pensator",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1313"
+        },
+        {
+            "place": "Kraków",
+            "date": "1319-1320"
+        },
+        {
+            "place": "Kraków",
+            "date": "1327"
+        },
+        {
+            "place": "Kraków",
+            "date": "1329-1330"
+        },
+        {
+            "place": "Kraków",
+            "date": "1320"
+        },
+        {
+            "place": "Kraków",
+            "date": "1319"
+        },
+        {
+            "place": "Kraków",
+            "date": "1325"
+        },
+        {
+            "place": "Kraków",
+            "date": "1328"
+        },
+        {
+            "place": "Kraków",
+            "date": "1318"
+        },
+        {
+            "place": "Rzym",
+            "date": "1326"
+        },
+        {
+            "place": "Ziemia Święta",
+            "date": "1330"
+        }
+    ]
+}

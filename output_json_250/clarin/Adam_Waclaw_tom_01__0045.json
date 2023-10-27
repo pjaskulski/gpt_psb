@@ -1,0 +1,46 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wacław",
+    "Adam"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1574"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "13-07-1617"
+  ],
+  "Miejsce śmierci": [
+    "Cieszynie Na Brandys"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół dominikan cieszyńskich"
+  ],
+  "Zawód": [
+    "książę cieszyński",
+    "tytułujący się także księciem górnogłogowskim",
+    "choć tego księstwa już nie posiadał",
+    "był synem Wacława Adama i drugiej jego żony",
+    "Katarzyny Sydonji",
+    "księżniczki saskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Adam Wacław",
+      "target": "Wacława Adama",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Adam Wacław",
+      "target": "Katarzyny Sydonji",
+      "name": "protagonist - matka"
+    }
+  ]
+}

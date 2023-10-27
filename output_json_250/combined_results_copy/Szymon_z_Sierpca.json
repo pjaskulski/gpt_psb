@@ -1,0 +1,158 @@
+{
+    "name": "Szymon z Sierpca",
+    "psb_id": "PSB-50-0148",
+    "biogram_file": "Szymon_z_Sierpca.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Sierpc"
+    },
+    "date_of_death": {
+        "date": "1512-07-13"
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "note": "w swoim mieszkaniu w zachodnim skrzydle Kolegium Większego"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "magister sztuk wyzwolonych",
+        "profesor Uniwersytetu Krakowskiego",
+        "bakałarz sztuk wyzwolonych",
+        "zarządca rzeczy i długów Stanisława",
+        "wykładowca na Wydz. Sztuk Wyzwolonych",
+        "rektor szkoły przy kościele p. wezw. Wszystkich Świętych",
+        "członek Wydz. Sztuk Wyzwolonych",
+        "członek Kolegium Mniejszego",
+        "senior Bursy Ubogich",
+        "prebendarz kościoła p. wezw. św. Wojciecha",
+        "dziekan Wydz. Sztuk Wyzwolonych",
+        "członek Kolegium Większego",
+        "prepozyt Kolegium Większego",
+        "pełnomocnik Uniwersytetu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Mniejsze",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Większe",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Bursa Ubogich",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kościół p. wezw. Wszystkich Świętych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kościół p. wezw. św. Wojciecha",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kolegiata p. wezw. św. Floriana",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stefan"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Aleksy z Pułtuska",
+            "person_date": "1488",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj z Obór",
+            "person_date": "1488",
+            "person_info": "bakałarz"
+        },
+        {
+            "person_name": "Paweł z Zakliczewa",
+            "person_date": "1488",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław",
+            "person_date": "1488",
+            "person_info": "osoba, która wstąpiła do krakowskiego klasztoru bernardynów pod imieniem Walerian"
+        },
+        {
+            "person_name": "Mikołaj Kopernik",
+            "person_date": "1493",
+            "person_info": "student Uniwersytetu Krakowskiego"
+        },
+        {
+            "person_name": "Wojciech z Brudzewa",
+            "person_date": "1493",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan z Głogowa",
+            "person_date": "1494",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan ze Stobnicy",
+            "person_date": "1507",
+            "person_info": "członek Kolegium Większego"
+        },
+        {
+            "person_name": "Mikołaj Pych z Pilicy",
+            "person_date": "1509",
+            "person_info": "profesor teologii i dziekan kolegiaty p. wezw. św. Floriana na Kleparzu"
+        },
+        {
+            "person_name": "Zeyfryd Bethman",
+            "person_date": "1510",
+            "person_info": "osoba, która wstrzymała czynsz z Boturzyna na rzecz Bursy Ubogich"
+        },
+        {
+            "person_name": "Adam z Łowicza",
+            "person_date": "1511",
+            "person_info": "rektor"
+        },
+        {
+            "person_name": "Mikołaj z Koprzywnicy",
+            "person_date": "1511",
+            "person_info": "prokurator"
+        },
+        {
+            "person_name": "Bernard Golthschloer",
+            "person_date": "1511",
+            "person_info": "mieszczanin krakowski"
+        },
+        {
+            "person_name": "Szymon Starowolski",
+            "person_date": "brak danych",
+            "person_info": "autor 'Laudatio almae Academiae Cracoviensis'"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Sierpc",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1485-1512"
+        }
+    ]
+}

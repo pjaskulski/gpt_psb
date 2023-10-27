@@ -1,0 +1,61 @@
+{
+  "Nazwisko": [
+    "Prastel"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Prastellanka"
+  ],
+  "Imię/imiona": [
+    "Franciszka"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1745"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "06-07-1808"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz Rakowicki"
+  ],
+  "Zawód": [
+    "przełożona prezentek w Krakowie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zgromadzenie siostra Prezentek"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Prastel (",
+      "target": "Prastellanka) Franciszka",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Prastel (",
+      "target": "Magdalena",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Prastellanka) Franciszka",
+      "target": "Magdalena",
+      "name": "wnuki - krewny"
+    },
+    {
+      "source": "P.",
+      "target": "Wojciecha Mączyńskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P.",
+      "target": "Kościuszko",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

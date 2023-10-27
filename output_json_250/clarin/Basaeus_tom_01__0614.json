@@ -1,0 +1,40 @@
+{
+  "Nazwisko": [
+    "Basaeus"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wojciech"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "z zakonu kanoników regularnych szpitalników Ducha św.",
+    "okolicznościowy pisarz łacińsko-polski XVI w. Właściwe nazwisko jego brzmiało",
+    "jak się zdaje",
+    "Basai"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "duch",
+    "uniwersytet Krakowski",
+    "uniwersytet , przyjąć"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Basaeus",
+      "target": "Wojciech",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

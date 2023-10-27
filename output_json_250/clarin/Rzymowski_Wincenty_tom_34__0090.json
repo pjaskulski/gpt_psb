@@ -1,0 +1,61 @@
+{
+  "Nazwisko": [
+    "Rzymowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wincenty"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Jan Gromnicki",
+    "Andrzej Boruta",
+    "Balbo",
+    "Her",
+    "R.",
+    "Rz."
+  ],
+  "Data urodzenia": [
+    "19-07-1883"
+  ],
+  "Miejsce urodzenia": [
+    "Kuczbork"
+  ],
+  "Data śmierci": [
+    "30-04-1950"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "dziennikarz",
+    "publicysta",
+    "pisarz",
+    "działacz polityczny",
+    "minister"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet Noworosyjskiego",
+    "polski związek postępowy",
+    "PZP",
+    "rada główny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Her",
+      "target": "Jan Gromnicki",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": ".",
+      "target": "Jan Gromnicki",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

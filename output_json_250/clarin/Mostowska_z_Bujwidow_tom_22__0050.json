@@ -1,0 +1,50 @@
+{
+  "Nazwisko": [
+    "Mostowska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Zofia"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "17-06-1890"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1962"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz Rakowicki"
+  ],
+  "Zawód": [
+    "lekarka",
+    "kierownik wytwórni szczepionek"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "UJ",
+    "spójnia",
+    "szpital imienia .",
+    "Jezus",
+    "szpital bonifrater"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Bronisława Kadera",
+      "target": "Maksymiliana Rutkowskiego",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

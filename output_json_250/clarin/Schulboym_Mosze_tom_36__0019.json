@@ -1,0 +1,51 @@
+{
+  "Nazwisko": [
+    "Schulboym"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "19-04-1830"
+  ],
+  "Miejsce urodzenia": [
+    "Jezierzanach"
+  ],
+  "Data śmierci": [
+    "24-04-1918"
+  ],
+  "Miejsce śmierci": [
+    "Wiedniu"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "językoznawca",
+    "leksykograf",
+    "tłumacz"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "haskala ("
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Jeszaajahu",
+      "target": "Izajasza",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Jeszaajahu",
+      "target": "Debory z domu Aszkenazi",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Izajasza",
+      "target": "Debory z domu Aszkenazi",
+      "name": "matka - krewny"
+    }
+  ]
+}

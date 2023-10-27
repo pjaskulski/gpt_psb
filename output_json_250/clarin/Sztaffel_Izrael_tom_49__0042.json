@@ -1,0 +1,56 @@
+{
+  "Nazwisko": [
+    "Sztaffel"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Staffel"
+  ],
+  "Imię/imiona": [
+    "Abraham",
+    "Izrael"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1814"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "09-12-1884"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "zegarmistrz",
+    "mechanik",
+    "wynalazca i konstruktor maszyn"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Cesarska Akad . nauka"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Petersburg"
+  ],
+  "Relacje": [
+    {
+      "source": "S-owi",
+      "target": "Julian Bayer",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-owi",
+      "target": "Adrian Krzyżanowski",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-owi",
+      "target": "August Bernhardt",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

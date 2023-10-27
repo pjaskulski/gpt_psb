@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Fiorentini"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Władysław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1820"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1914"
+  ],
+  "Miejsce śmierci": [
+    "Wilnie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "groba rodzinny na wileń"
+  ],
+  "Zawód": [
+    "wileński kupiec i esteta",
+    "działacz społeczny",
+    "rajca miejski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Władysław",
+      "target": "Franciszka",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Władysław",
+      "target": "Antoniego",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Anną",
+      "target": "Bazylego Popowa",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "Anną",
+      "target": "Bogumiły z Gizbertów",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+    "name": "Mosze Schulboym",
+    "psb_id": "PSB-36-0020",
+    "biogram_file": "Schulboym_Mosze.txt",
+    "date_of_birth": {
+        "date": "1830-04-19"
+    },
+    "place_of_birth": {
+        "place": "Jezierzany",
+        "note": "Galicja"
+    },
+    "date_of_death": {
+        "date": "1918-04-24"
+    },
+    "place_of_death": {
+        "place": "Wiedeń"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "językoznawca",
+        "leksykograf",
+        "tłumacz",
+        "korektor w drukarni Michała Wolfa",
+        "nauczyciel w szkole żydowskiej",
+        "inspektor nauki języka hebrajskiego w szkołach fundacji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Drukarnia Michała Wolfa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szkola żydowska fundacji barona M. Hirscha",
+            "institution_place": "Kołomyja"
+        },
+        {
+            "institution_name": "Fundacja M. Hirscha",
+            "institution_place": "Tarnopol"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jeszaajahu (Izajasz)"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Debora Aszkenazi"
+        },
+        {
+            "family_relation": "żona",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "córka",
+            "person": "nieznane"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Michał Wolf",
+            "person_date": "1870",
+            "person_info": "właściciel drukarni"
+        },
+        {
+            "person_name": "Baron M. Hirsch",
+            "person_date": "1887",
+            "person_info": "założyciel fundacji"
+        },
+        {
+            "person_name": "J. L. Ben-Zeew",
+            "person_date": "1881",
+            "person_info": "autor hebrajskiego słownika"
+        },
+        {
+            "person_name": "Arystoteles",
+            "person_date": "1877",
+            "person_info": "filozof, autor 'Etyki nikomachejskiej'"
+        },
+        {
+            "person_name": "F. Schiller",
+            "person_date": "1881",
+            "person_info": "autor 'Zbójców'"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Jezierzany",
+            "date": "1830-04-19"
+        },
+        {
+            "place": "Lwów",
+            "date": "1870-1887"
+        },
+        {
+            "place": "Kołomyja",
+            "date": "1887-1897"
+        },
+        {
+            "place": "Mikulince",
+            "date": "1897-1913"
+        },
+        {
+            "place": "Tarnopol",
+            "date": "1913-1917"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1917"
+        }
+    ]
+}

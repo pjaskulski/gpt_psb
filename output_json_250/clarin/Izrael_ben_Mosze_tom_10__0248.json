@@ -1,0 +1,70 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Izrael"
+  ],
+  "Imię/imiona": [
+    "Izrael"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1700"
+  ],
+  "Miejsce urodzenia": [
+    "Zamościu"
+  ],
+  "Data śmierci": [
+    "DD-MM-1772"
+  ],
+  "Miejsce śmierci": [
+    "Brodach"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Izrael ben Mosze",
+      "target": "Izrael z Zamościa",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "I-u",
+      "target": "Lessingiem",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "I-u",
+      "target": "Nicolai’em",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "I-owi",
+      "target": "Salomon Majmon",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "I-owi",
+      "target": "Mendelsohna",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "I-a",
+      "target": "Salomon Majmon",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "I-a",
+      "target": "Mendelsohna",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "I-a",
+      "target": "Mendelsohna",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

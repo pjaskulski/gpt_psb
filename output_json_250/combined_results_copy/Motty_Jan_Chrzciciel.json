@@ -1,0 +1,170 @@
+{
+    "name": "Jan Chrzciciel Motty",
+    "psb_id": "PSB-22-0107",
+    "biogram_file": "Motty_Jan_Chrzciciel.txt",
+    "date_of_birth": {
+        "date": "1790"
+    },
+    "place_of_birth": {
+        "place": "Paryż"
+    },
+    "date_of_death": {
+        "date": "1856-09-25"
+    },
+    "place_of_death": {
+        "place": "Poznań"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pedagog",
+        "autor podręczników",
+        "wychowawca synów Józefa Mielżyńskiego",
+        "nauczyciel języka francuskiego i przyrody w Szkole Departamentowej w Poznaniu",
+        "nauczyciel córki Elizy i synów namiestnika Antoniego Radziwiłła",
+        "kierownik szkoły żeńskiej Tekli Herwig w Poznaniu",
+        "właściciel pensjonatu dla chłopców"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkola Departamentowa",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Pensjonat dla chłopców",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Szkoła żeńska Tekli Herwig",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jean Motty"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anne-Marie Bachmann"
+        },
+        {
+            "family_relation": "krewna",
+            "person": "Louise Noizières"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Apolonia Herwig"
+        },
+        {
+            "family_relation": "teść",
+            "person": "August"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Tekla Klimicka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Marceli"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Walentyna"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Hipolit Cegielski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Prokop Mielżyński",
+            "person_date": "1806",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Mielżyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Poniński",
+            "person_date": "1812",
+            "person_info": "prefekt"
+        },
+        {
+            "person_name": "Ignacy Przybylski",
+            "person_date": "1812",
+            "person_info": "dyrektor Szkoły Departamentowej w Poznaniu"
+        },
+        {
+            "person_name": "Antoni Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "namiestnik"
+        },
+        {
+            "person_name": "Tekla Herwig",
+            "person_date": "1848",
+            "person_info": "założycielka szkoły żeńskiej w Poznaniu"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Paryż",
+            "date": "1790"
+        },
+        {
+            "place": "Malmédy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chobienice",
+            "date": "1806"
+        },
+        {
+            "place": "Miłosław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1812"
+        },
+        {
+            "place": "Lublin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1825"
+        },
+        {
+            "place": "Poznań",
+            "date": "1823"
+        },
+        {
+            "place": "Poznań",
+            "date": "1829"
+        },
+        {
+            "place": "Poznań",
+            "date": "1836"
+        }
+    ]
+}

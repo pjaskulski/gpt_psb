@@ -1,0 +1,50 @@
+{
+  "Nazwisko": [
+    "Pahr"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Baar",
+    "Bahr",
+    "Bavor",
+    "Pawer"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1510"
+  ],
+  "Miejsce urodzenia": [
+    "Bissone"
+  ],
+  "Data śmierci": [
+    "15-08-1575 --"
+  ],
+  "Miejsce śmierci": [
+    "Brzeg"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "architekt i fortyfikator"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Pahr",
+      "target": "Bahr",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Pahr",
+      "target": "Bavor",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Baar",
+      "target": "Bavor",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

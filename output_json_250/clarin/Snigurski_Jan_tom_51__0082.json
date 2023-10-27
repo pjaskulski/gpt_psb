@@ -1,0 +1,52 @@
+{
+  "Nazwisko": [
+    "Śnigurski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Snigurskij Ioann",
+    "Snihurs"
+  ],
+  "Imię/imiona": [
+    "Iwan",
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "18-05-1784"
+  ],
+  "Miejsce urodzenia": [
+    "Brześcianach"
+  ],
+  "Data śmierci": [
+    "24-09-1847"
+  ],
+  "Miejsce śmierci": [
+    "Przemyślu"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "profesor teologii uniwersytetu w Wiedniu",
+    "greckokatolicki biskup przemyski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "studium filozoficzny",
+    "generalny seminarium duchowny",
+    "Wydz . teologia katolicki",
+    "towarzysz . kapłan galicyjski obrządek greckokatolicki"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    "Lwów",
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Śnigurski Jan",
+      "target": "Snihurs’kyj Iwan",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+    "name": "Jost Ludwik Decjusz",
+    "psb_id": "PSB-05-0056",
+    "biogram_file": "Decjusz_1.txt",
+    "date_of_birth": {
+        "date": "1520",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1567-11"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dworzanin królewski",
+        "żupnik olkuski",
+        "żupnik chęciński",
+        "karbarz wielicki",
+        "zarządca mennicy krakowskiej",
+        "dostawca srebra do mennicy wileńskiej",
+        "członek komitetu Synodu w Włodzisławiu",
+        "zarządca żup olkuskich i chęcińskich",
+        "podkomorzy górniczy",
+        "wielkorządca krakowski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Mennica Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Mennica Wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Kółko Trzecieskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zbór Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Synod w Włodzisławiu",
+            "institution_place": "Włodzisław"
+        },
+        {
+            "institution_name": "Synod Kalwiński w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Żupy Olkuskie i Chęcińskie",
+            "institution_place": "Olkusz, Chęciny"
+        },
+        {
+            "institution_name": "Dwór Królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm Lubelski",
+            "institution_place": "Lublin"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jost Ludwik starszy"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna z Krupków"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Decjusz"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Ludwik Decjusz"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Konstancja, córka Piotra Konarskiego z Korytna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Anzelm Eforyn",
+            "person_date": "1527",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Jan Lutomirski",
+            "person_date": "1546",
+            "person_info": "podskarbi nadworny"
+        },
+        {
+            "person_name": "Grzegorz Paweł",
+            "person_date": "1552",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "A. Zebrzydowski",
+            "person_date": "1558",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "J. Fejgi",
+            "person_date": "brak danych",
+            "person_info": "dyrektor sztolni"
+        },
+        {
+            "person_name": "S. Boner",
+            "person_date": "1549",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Lutomirski",
+            "person_date": "1554",
+            "person_info": "podkomorzy górniczy"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Elżbieta",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Barbara Radziwiłłówna",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "M. Błeszyński",
+            "person_date": "brak danych",
+            "person_info": "wielkorządca krakowski"
+        },
+        {
+            "person_name": "P. Royziusz",
+            "person_date": "brak danych",
+            "person_info": "uczeń, poeta"
+        },
+        {
+            "person_name": "A. Trzecieski",
+            "person_date": "brak danych",
+            "person_info": "uczeń, poeta"
+        },
+        {
+            "person_name": "J. Mylius",
+            "person_date": "brak danych",
+            "person_info": "uczeń, poeta"
+        },
+        {
+            "person_name": "A. Schroeter",
+            "person_date": "brak danych",
+            "person_info": "uczeń, poeta"
+        },
+        {
+            "person_name": "B. Groicki",
+            "person_date": "brak danych",
+            "person_info": "uczeń, poeta"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1534"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wieliczka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1545"
+        },
+        {
+            "place": "Tybinga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wola Justowska",
+            "date": "1552"
+        },
+        {
+            "place": "Włodzisław",
+            "date": "1557"
+        },
+        {
+            "place": "Olkusz",
+            "date": "1549"
+        },
+        {
+            "place": "Chęciny",
+            "date": "1549"
+        },
+        {
+            "place": "Lublin",
+            "date": "1554"
+        },
+        {
+            "place": "Ziemia Sieradzka",
+            "date": "1560"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1560"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "name": "Adam Wacław",
+    "psb_id": "PSB-01-0036",
+    "biogram_file": "Adam_Waclaw.txt",
+    "date_of_birth": {
+        "date": "1574-12-12"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1617-07-13"
+    },
+    "place_of_death": {
+        "place": "Cieszyn"
+    },
+    "date_of_burial": {
+        "date": "1618-04-04"
+    },
+    "place_of_burial": {
+        "place": "Cieszyn",
+        "note": "kościół dominikanów cieszyńskich"
+    },
+    "functions": [
+        "książę cieszyński",
+        "książę górnogłogowskim",
+        "żupan trenczyński",
+        "dowódca oddziału w wojsku cesarskim",
+        "dowódca Kozaków i Wallonów",
+        "radca cesarza",
+        "najwyższy dowódca wojskowy",
+        "naczelny zarządca całego Śląska, Górnego i Dolnego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "wojsko cesarskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "dwór elektora saskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kościół dominikanów cieszyńskich",
+            "institution_place": "Cieszyn"
+        },
+        {
+            "institution_name": "muzeum",
+            "institution_place": "Cieszyn"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wacław Adam"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna Sydonja"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta Kettler"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Kettler"
+        },
+        {
+            "family_relation": "brat przyrodni",
+            "person": "Fryderyk Kazimierz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Fryderyk Wilhelm"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta Lukrecja"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Katarzyna Sydonja",
+            "person_date": "brak danych",
+            "person_info": "księżniczka saska"
+        },
+        {
+            "person_name": "Emeryk Forgach",
+            "person_date": "brak danych",
+            "person_info": "żupan trenczyński"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Rudolf II",
+            "person_date": "brak danych",
+            "person_info": "Habsburg"
+        },
+        {
+            "person_name": "Maciej",
+            "person_date": "1611",
+            "person_info": "Habsburg"
+        },
+        {
+            "person_name": "Leonard",
+            "person_date": "1614",
+            "person_info": "dominikanin"
+        },
+        {
+            "person_name": "Mik. Zebrzydowski",
+            "person_date": "1614",
+            "person_info": "wojewoda, fundator Kalwarii Zebrzydowskiej"
+        },
+        {
+            "person_name": "Fryderyk Wilhelm",
+            "person_date": "brak danych",
+            "person_info": "ostatni cieszyński Piast męski"
+        },
+        {
+            "person_name": "Elżbieta Lukrecja",
+            "person_date": "brak danych",
+            "person_info": "ostatnia Piastówna"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Cieszyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Saski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Węgry",
+            "date": "brak danych"
+        },
+        {
+            "place": "Morawy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1611"
+        },
+        {
+            "place": "Śląsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jabłonków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kalwaria Zebrzydowska",
+            "date": "1614"
+        }
+    ]
+}

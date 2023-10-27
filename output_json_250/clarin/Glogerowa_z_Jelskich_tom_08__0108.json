@@ -1,0 +1,53 @@
+{
+  "Nazwisko": [
+    "Glogerowa"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Aleksandra"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1860"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "11-04-1899"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "tykocinie"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Glogerów",
+      "target": "Adama Pługa",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "G-ej",
+      "target": "Glogerów",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "G-ej",
+      "target": "Adama Pługa",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "G-ej",
+      "target": "Antoniego Pietkiewicza",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Pług",
+      "target": "Michała Starzeńskiego",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

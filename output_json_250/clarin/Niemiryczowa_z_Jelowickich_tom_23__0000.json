@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Niemiryczowa"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Niemierzycowa"
+  ],
+  "Imię/imiona": [
+    "Antonina"
+  ],
+  "Herb": [
+    "własny"
+  ],
+  "Pseudonimy/kryptonimy": [
+    "A. Z.I.N.S.O."
+  ],
+  "Data urodzenia": [
+    "około DD-MM-1700"
+  ],
+  "Miejsce urodzenia": [
+    "Ożeninie"
+  ],
+  "Data śmierci": [
+    "DD-MM-1780"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "09-06-1755"
+  ],
+  "Miejsce pochówku": [
+    "Równ )"
+  ],
+  "Zawód": [
+    "poetka i tłumaczka",
+    "oboźna polna litewska"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "bernardynka"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Samuelowa Kałusowska",
+      "target": "Zofia Hieronimowa Jełowicka",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "N.",
+      "target": "Sowińskiego",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

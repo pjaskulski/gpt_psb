@@ -1,0 +1,45 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Dalowic",
+    "Ćmielowa",
+    "Wronowa"
+  ],
+  "Imię/imiona": [
+    "Gniewosz"
+  ],
+  "Herb": [
+    "Strzegomia"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1406"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "podkomorzy krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "G-a",
+      "target": "Opolczyka",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Jadwigi",
+      "target": "Wilhelmem",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Wilhelma",
+      "target": "Jadwigą",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

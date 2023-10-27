@@ -1,0 +1,96 @@
+{
+    "name": "Antoni Cygan",
+    "psb_id": "PSB-04-0188",
+    "biogram_file": "Cygan_Antoni.txt",
+    "date_of_birth": {
+        "date": "1830"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1895"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pedagog górnośląski",
+        "nauczyciel seminarium nauczycielskiego w Głogówku",
+        "autor podręczników szkolnych",
+        "autor części polskiej dwujęzycznego podręcznika",
+        "wydawca Zbioru pieśni polskich z melodiami na dwa i trzy głosy dla użytku szkolnego i domowego",
+        "kompozytor melodii do pieśni"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Seminarium Nauczycielskie",
+            "institution_place": "Głogówek"
+        },
+        {
+            "institution_name": "Polska Szkoła Ćwiczeń",
+            "institution_place": "Głogówek"
+        },
+        {
+            "institution_name": "Handel",
+            "institution_place": "Głogówek"
+        },
+        {
+            "institution_name": "Śląska Biblioteka Publiczna im. Józefa Piłsudskiego",
+            "institution_place": "Katowice"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Feliks Rendschmidt",
+            "person_date": "1853",
+            "person_info": "autor czytanek szkolnych"
+        },
+        {
+            "person_name": "Jan Besta",
+            "person_date": "brak danych",
+            "person_info": "kolega z pracy w Głogówku"
+        },
+        {
+            "person_name": "Kukutsch",
+            "person_date": "brak danych",
+            "person_info": "nakładca podręczników"
+        },
+        {
+            "person_name": "Handel",
+            "person_date": "brak danych",
+            "person_info": "nakładca podręczników"
+        },
+        {
+            "person_name": "Karol Hauschke",
+            "person_date": "brak danych",
+            "person_info": "kurator i profesor seminaryjny w Głogówku"
+        },
+        {
+            "person_name": "Józef Piłsudski",
+            "person_date": "brak danych",
+            "person_info": "patron Biblioteki Publicznej w Katowicach"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Głogówek",
+            "date": "1853-1894"
+        },
+        {
+            "place": "Górny Śląsk",
+            "date": "1844-1872"
+        },
+        {
+            "place": "Katowice",
+            "date": "brak danych"
+        }
+    ]
+}

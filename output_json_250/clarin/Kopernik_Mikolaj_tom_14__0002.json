@@ -1,0 +1,64 @@
+{
+  "Nazwisko": [
+    "Kopernik"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "19-02-1473"
+  ],
+  "Miejsce urodzenia": [
+    "Toruniu"
+  ],
+  "Data śmierci": [
+    "30-03-1543 --"
+  ],
+  "Miejsce śmierci": [
+    "Fromborku"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "astronom",
+    "ekonomista",
+    "lekarz",
+    "humanista",
+    "kanonik warmiński"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zakon",
+    "związek pruski",
+    "zakon święty . Dominika"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Katarzyny",
+      "target": "Janie Peckau",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Katarzyny",
+      "target": "Katarzyny «Rüdiger gente Modlibog»",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Katarzyny «Rüdiger gente Modlibog»",
+      "target": "Janie Peckau",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Watzenrodów",
+      "target": "Koperników",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

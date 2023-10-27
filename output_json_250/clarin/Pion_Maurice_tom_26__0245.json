@@ -1,0 +1,57 @@
+{
+  "Nazwisko": [
+    "Pion"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Maurice",
+    "Moris",
+    "Morys"
+  ],
+  "Data urodzenia": [
+    "11-09-1801"
+  ],
+  "Miejsce urodzenia": [
+    "Paryż"
+  ],
+  "Data śmierci": [
+    "14-02-1869"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz powązkowski"
+  ],
+  "Zawód": [
+    "tancerz",
+    "choreograf",
+    "dyrektor teatru i baletu"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "teatr narodowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Maurice",
+      "target": "Moris",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Maurice",
+      "target": "Morys",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "P.",
+      "target": "Ludwika Thierrego",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Jan Goldman",
+    "psb_id": "PSB-08-0319",
+    "biogram_file": "Goldman_Jan.txt",
+    "date_of_birth": {
+        "date": "1907-05-12"
+    },
+    "place_of_birth": {
+        "place": "Kraków"
+    },
+    "date_of_death": {
+        "date": "1942"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "romanista",
+        "właściciel firmy wydawniczej",
+        "student filologii romańskiej i angielskiej",
+        "doktor filozofii w zakresie filologii romańskiej i angielskiej",
+        "autor rozprawy doktorskiej",
+        "autor bibliografii rozumowanej filologii romańskiej w Polsce",
+        "lektor języka francuskiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "IV Gimnazjum Realne im. H. Sienkiewicza",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydział Filozoficzny UJ",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "PAU Archivum Neophilologicum",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Lektorat języka francuskiego",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Goldman"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Lea Bader"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Wędkiewicz",
+            "person_date": "1930",
+            "person_info": "profesor, promotor pracy doktorskiej Jana Goldmana"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1907-05-12"
+        },
+        {
+            "place": "Brno",
+            "date": "1913/14"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1939-1942"
+        }
+    ]
+}

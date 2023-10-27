@@ -1,0 +1,48 @@
+{
+  "Nazwisko": [
+    "Byszewska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ludwika"
+  ],
+  "Herb": [
+    "Trąby"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1792"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "z ojca Antoniego Gintowta",
+    "naówczas miecznika bełskiego"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "komisja editor . nary ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "B-a",
+      "target": "Stanisławem Augustem",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Massalskiego",
+      "target": "Joachima",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Gintowtów",
+      "target": "Repnin",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

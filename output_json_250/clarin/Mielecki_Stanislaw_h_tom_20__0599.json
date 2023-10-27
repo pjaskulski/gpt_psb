@@ -1,0 +1,84 @@
+{
+  "Nazwisko": [
+    "Mielecki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": [
+    "Gryf"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1470"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "31-01-1532 --"
+  ],
+  "Miejsce śmierci": [
+    "Krakowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół w Mielcu"
+  ],
+  "Zawód": [
+    "kasztelan zawichojski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "M-emu",
+      "target": "Anny",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Elżbietą Tęczyńską",
+      "target": "Tarnowskimi",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Elżbietą Tęczyńską",
+      "target": "Ossolińskimi",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Elżbietą Tęczyńską",
+      "target": "Ligęzami",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Elżbietą Tęczyńską",
+      "target": "Jan Tarnowski",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "M.",
+      "target": "Mikołaju Tęczyńskim",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "M-ego",
+      "target": "Mikołaja Kamienieckiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Zygmunta I",
+      "target": "Zygmunta",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Zygmunta I",
+      "target": "Władysławem",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Zygmunta",
+      "target": "Władysławem",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

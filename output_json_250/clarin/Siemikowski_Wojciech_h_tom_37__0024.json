@@ -1,0 +1,50 @@
+{
+  "Nazwisko": [
+    "Siemikowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Wojciech"
+  ],
+  "Herb": [
+    "Oksza"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1558"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "scholastyk gnieźnieński",
+    "penitencjarz polski w Rzymie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak",
+    "rota rzymski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Łaskiego",
+      "target": "Marcina Rembiewskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Farnesego",
+      "target": "Bony",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Farnesego",
+      "target": "Mikołaja Wolskiego",
+      "name": "protagonist - znacząca osoba"
+    }
+  ]
+}

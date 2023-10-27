@@ -1,0 +1,226 @@
+{
+    "name": "Jadwiga Sapieżyna",
+    "psb_id": "PSB-35-0049",
+    "biogram_file": "Sapiezyna_z_Zamoyskich_1.txt",
+    "date_of_birth": {
+        "date": "1806-07-09"
+    },
+    "place_of_birth": {
+        "place": "Podzamcze"
+    },
+    "date_of_death": {
+        "date": "1890-03-29"
+    },
+    "place_of_death": {
+        "place": "Krasiczyn"
+    },
+    "date_of_burial": {
+        "date": "1890-04-02"
+    },
+    "place_of_burial": {
+        "place": "Krasiczyn"
+    },
+    "functions": [
+        "filantropka",
+        "dama honorowa cesarzowej",
+        "przewodnicząca Towarzystwa Dobroczynności św. Wincentego a Paulo",
+        "organizatorka rozdawnictwa 'zupy rumfordzkiej'",
+        "założycielka 'domu roboczego', 'cerowni' dla sierot dziewcząt i 'małej bursy' dla chłopców",
+        "założycielka Zakładu św. Teresy, szpitala dziecięcego św. Zofii i Domu Opatrzności",
+        "organizatorka kwest, loterii fantowych, koncertów, festynów, went i bazarów",
+        "współzałożycielka Stowarzyszenia Rękodzielniczego 'Skała'",
+        "żona prezesa licznych organizacji",
+        "żona marszałka krajowego",
+        "opiekunka szpitali dla rannych powstańców",
+        "organizatorka ucieczki syna z więzienia"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Pałac Błękitny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Dobroczynności św. Wincentego a Paulo",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Zakład św. Teresy",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szpital dziecięcy św. Zofii",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Dom Opatrzności",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Towarzystwo Dobroczynności",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Stowarzyszenie Rękodzielnicze «Skała»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szpital dla rannych powstańców",
+            "institution_place": "Krasiczyn"
+        },
+        {
+            "institution_name": "Szpitale",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szpitale",
+            "institution_place": "Cieszanów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "wnuczka",
+            "person": "Adam Kazimierz Czartoryski"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Zamoyski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Zofia Czartoryska"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Celina Działyńska"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Leon Sapieha"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Władysław Zamoyski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Adam Sapieha"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Jadwiga Sapieha"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Adam Kazimierz Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Zamoyski",
+            "person_date": "brak danych",
+            "person_info": "prezes Senatu Król. Kongresowego, ordynat"
+        },
+        {
+            "person_name": "Zofia Czartoryska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Fałkowski",
+            "person_date": "brak danych",
+            "person_info": "domowy nauczyciel"
+        },
+        {
+            "person_name": "Józef Korzeniowski",
+            "person_date": "brak danych",
+            "person_info": "domowy nauczyciel"
+        },
+        {
+            "person_name": "Franciszek Lessl",
+            "person_date": "brak danych",
+            "person_info": "domowy nauczyciel"
+        },
+        {
+            "person_name": "Karol X",
+            "person_date": "1830",
+            "person_info": "król Francji"
+        },
+        {
+            "person_name": "W. Priessnitz",
+            "person_date": "1840",
+            "person_info": "twórca hydroterapii"
+        },
+        {
+            "person_name": "L. Borkowski",
+            "person_date": "brak danych",
+            "person_info": "autor pamfletu"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Podzamcze",
+            "date": "1806-07-09"
+        },
+        {
+            "place": "Maciejowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Puławy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Genewa",
+            "date": "1818/1819"
+        },
+        {
+            "place": "Paryż",
+            "date": "1830"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piskorowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Riwiera",
+            "date": "1841/1842"
+        },
+        {
+            "place": "Freiwaldau",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krasiczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Przemyśl",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1851"
+        },
+        {
+            "place": "Cieszanów",
+            "date": "brak danych"
+        }
+    ]
+}

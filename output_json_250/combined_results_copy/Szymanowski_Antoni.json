@@ -1,0 +1,415 @@
+{
+    "name": "Antoni Szymanowski",
+    "psb_id": "PSB-50-0025",
+    "biogram_file": "Szymanowski_Antoni.txt",
+    "date_of_birth": {
+        "date": "1914-08-24"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1985-10-24"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "1985-10-29"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "historyk",
+        "porucznik Armii Krajowej",
+        "dyplomata",
+        "tłumacz",
+        "bibliotekarz w Bibliotece Ordynacji Zamoyskich",
+        "bombardier w 32. dyonie artyl. lekkiej w Rembertowie",
+        "członek Związku Syndykalistów Polskich",
+        "pracownik referatu W-1 (A-1, krypt. 1631) Wydz. Informacji Biura Informacji i Propagandy (BIP) Komendy Głównej (KG) ZWZ/AK",
+        "zastępca kierownika Podwydz. «W» Aleksandra Gieysztora",
+        "członek redakcji „Biuletynu Informacyjnego” KG ZWZ/AK",
+        "członek Stronnictwa Demokratycznego",
+        "szef Podwydz. «W»",
+        "redaktor „Biuletynu Informacyjnego”",
+        "kierownik działu wydawnictw i redaktor naczelny miesięcznika „Strażnica Zachodnia”",
+        "naczelnik Wydziału w Dep. Informacji i Prasy MSZ",
+        "dyrektor Polskiego Ośrodka Informacyjnego w Nowym Jorku",
+        "naczelnik Wydz. ONZ w Dep. Międzynarodowych Organizacji MSZ",
+        "wicedyrektor, następnie p.o. dyrektora Departamentu MSZ",
+        "szef Polskiej Misji w Międzynarodowej Komisji Nadzoru i Kontroli w Wietnamie",
+        "ambasador PRL w Szwecji",
+        "dyrektor lub wicedyrektor dwóch departamentów MSZ: Europy Zachodniej oraz Wielkiej Brytanii i Ameryki",
+        "tymczasowy chargé d’affaires w Islandii",
+        "poseł"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Państwowe Gimnazjum im. Stefana Batorego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biblioteka Ordynacji Zamoyskich",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szkola Podchorążych Rezerwy Artylerii",
+            "institution_place": "Włodzimierz Wołyński"
+        },
+        {
+            "institution_name": "32. dyon artyl. lekkiej",
+            "institution_place": "Rembertów"
+        },
+        {
+            "institution_name": "Związek Syndykalistów Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biuro Informacji i Propagandy Komendy Głównej ZWZ/AK",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stronnictwo Demokratyczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Związek Zachodni",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "Departament Informacji i Prasy MSZ",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Ośrodek Informacyjny",
+            "institution_place": "Nowy Jork"
+        },
+        {
+            "institution_name": "ONZ",
+            "institution_place": "Nowy Jork"
+        },
+        {
+            "institution_name": "Polska Misja w Międzynarodowej Komisji Nadzoru i Kontroli",
+            "institution_place": "Wietnam"
+        },
+        {
+            "institution_name": "Ambasada PRL",
+            "institution_place": "Szwecja"
+        },
+        {
+            "institution_name": "Departament Europy Zachodniej MSZ",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Departament Wielkiej Brytanii i Ameryki MSZ",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chargé d’affaires w Islandii",
+            "institution_place": "Reykjavík"
+        },
+        {
+            "institution_name": "Telewizja Polska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "Michał Alfred Szymanowski"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Szymanowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Józefa Natanson"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Zofia Chądzyńska"
+        },
+        {
+            "family_relation": "siostra stryjeczna",
+            "person": "Jadwiga Kaczanowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Paulina Lucyna Potok"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Piotr Szymanowski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Szymanowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Marceli Handelsman",
+            "person_date": "1934",
+            "person_info": "prowadził seminarium mediewistyczne"
+        },
+        {
+            "person_name": "Jerzy Makowiecki",
+            "person_date": "1940",
+            "person_info": "mjr. rezerwy inż., działacz konspiracyjny Stronnictwa Demokratycznego"
+        },
+        {
+            "person_name": "Aleksander Gieysztor",
+            "person_date": "1941",
+            "person_info": "zastępca kierownika Podwydz. «W»"
+        },
+        {
+            "person_name": "Henryk Woliński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Kamiński",
+            "person_date": "1941",
+            "person_info": "kierownik redakcji „Biuletynu Informacyjnego” KG ZWZ/AK"
+        },
+        {
+            "person_name": "Jan Nowak (Zdzisław Jeziorański)",
+            "person_date": "1942",
+            "person_info": "kurier"
+        },
+        {
+            "person_name": "Władysław Sikorski",
+            "person_date": "1942",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Tymon Terlecki",
+            "person_date": "1943",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bolesław Srocki",
+            "person_date": "1944",
+            "person_info": "redaktor „Biuletynu Informacyjnego”"
+        },
+        {
+            "person_name": "Eugeniusz Szrojt",
+            "person_date": "1944",
+            "person_info": "redaktor „Biuletynu Informacyjnego”"
+        },
+        {
+            "person_name": "Modest Dobrzyński",
+            "person_date": "1944",
+            "person_info": "redaktor „Biuletynu Informacyjnego”"
+        },
+        {
+            "person_name": "Stefan Czarny",
+            "person_date": "brak danych",
+            "person_info": "współautor książki"
+        },
+        {
+            "person_name": "D. Kartun",
+            "person_date": "1953",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "S. Kennedy",
+            "person_date": "1955",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "V. Perlo",
+            "person_date": "1956",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "A. Saxton",
+            "person_date": "1953",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "H. Fast",
+            "person_date": "1954",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "O. J. Cardoso",
+            "person_date": "1970",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "P. Ustinov",
+            "person_date": "1977",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "E. Kazan",
+            "person_date": "1982",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "B. Hines",
+            "person_date": "1982",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "W. H. Robinson",
+            "person_date": "1983",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "J. Michener",
+            "person_date": "1989",
+            "person_info": "autor przetłumaczonej powieści"
+        },
+        {
+            "person_name": "I. Bergman",
+            "person_date": "1973",
+            "person_info": "autor przetłumaczonej sztuki"
+        },
+        {
+            "person_name": "B. Sköld",
+            "person_date": "1976",
+            "person_info": "autor przetłumaczonej sztuki"
+        },
+        {
+            "person_name": "E. Morgan",
+            "person_date": "1974",
+            "person_info": "autor przetłumaczonego dramatu"
+        },
+        {
+            "person_name": "M. van Loggem",
+            "person_date": "1979",
+            "person_info": "autor przetłumaczonego dramatu"
+        },
+        {
+            "person_name": "Witold Biegański",
+            "person_date": "1969",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Edmund Kosiarz",
+            "person_date": "1969",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Stanisław Jankowski",
+            "person_date": "1971",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Ryszard Frelk",
+            "person_date": "1971",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Przemysław Trzeciak",
+            "person_date": "1972",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Karol Estreicher",
+            "person_date": "1973",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Franciszek Januszkiewicz",
+            "person_date": "1973",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Alfons Klafkowski",
+            "person_date": "1973",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Stanisław Lorentz",
+            "person_date": "1974",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Ludwik Erhardt",
+            "person_date": "1975",
+            "person_info": "autor przetłumaczonej książki"
+        },
+        {
+            "person_name": "Władysław Bartoszewski",
+            "person_date": "2003",
+            "person_info": "opracował książkę „Tryptyk polsko-żydowski”"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1914-08-24"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1924"
+        },
+        {
+            "place": "Włodzimierz Wołyński",
+            "date": "1937-1938"
+        },
+        {
+            "place": "Rembertów",
+            "date": "1937-12-21"
+        },
+        {
+            "place": "Cambridge",
+            "date": "1938"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1939"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1941"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1943"
+        },
+        {
+            "place": "Gross-Born",
+            "date": "1944"
+        },
+        {
+            "place": "Sandbostel",
+            "date": "1944"
+        },
+        {
+            "place": "Katowice",
+            "date": "1945"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "1947-1951"
+        },
+        {
+            "place": "Wietnam",
+            "date": "1956-1957"
+        },
+        {
+            "place": "Szwecja",
+            "date": "1957-1964"
+        },
+        {
+            "place": "Reykjavík",
+            "date": "1975-1979"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1985-10-24"
+        }
+    ]
+}

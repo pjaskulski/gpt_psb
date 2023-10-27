@@ -1,0 +1,69 @@
+{
+  "Nazwisko": [
+    "Suchten"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Süchten",
+    "Zuchta",
+    "Zuchten"
+  ],
+  "Imię/imiona": [
+    "Aleksander"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1520"
+  ],
+  "Miejsce urodzenia": [
+    "Gdańsku"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kanonik warmiński",
+    "lekarz",
+    "alchemik",
+    "poeta"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "kościół warmiński"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Suchten",
+      "target": "Zuchta",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Suchten",
+      "target": "Zuchten) Aleksander",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Süchten",
+      "target": "Zuchta",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Süchten",
+      "target": "Zuchten) Aleksander",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Eufemii z domu Schultz",
+      "target": "Christopha",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Bartłomieja",
+      "target": "Bertolda",
+      "name": "rodzeństwo - współmałżonek"
+    }
+  ]
+}

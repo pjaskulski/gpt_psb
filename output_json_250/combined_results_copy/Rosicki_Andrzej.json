@@ -1,0 +1,119 @@
+{
+    "name": "Andrzej Rosicki",
+    "psb_id": "PSB-32-0063",
+    "biogram_file": "Rosicki_Andrzej.txt",
+    "date_of_birth": {
+        "date": "1814-10-13"
+    },
+    "place_of_birth": {
+        "place": "Władysławowo",
+        "note": "koło Konina"
+    },
+    "date_of_death": {
+        "date": "1904-01-17"
+    },
+    "place_of_death": {
+        "place": "Łódź"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Łódź",
+        "note": "cmentarz katolicki przy ul. Ogrodowej"
+    },
+    "functions": [
+        "prezydent m. Łodzi",
+        "dyrektor łódzkiego Biura Tow. Kredytowego",
+        "burmistrz Sochaczewa",
+        "założyciel Tow. Kredytowego m. Łodzi",
+        "członek Tow. Akcyjnego Wyrobów Bawełnianych J. K. Poznańskiego w Łodzi"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Biuro Tow. Kredytowego",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Prezydentura miasta Łodzi",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Burmistrzostwo Sochaczewa",
+            "institution_place": "Sochaczew"
+        },
+        {
+            "institution_name": "Tow. Kredytowe m. Łodzi",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Tow. Akcyjne Wyrobów Bawełnianych J. K. Poznańskiego",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "I Ochronka",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Walenty Rosicki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Marianna Idzikowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Robowska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Józefa Konstancja Rosicka"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Antonina Wiktoria Rosicka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Piotr Michał Rosicki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Franciszek Traeger",
+            "person_date": "1862",
+            "person_info": "poprzednik na stanowisku prezydenta miasta Łodzi"
+        },
+        {
+            "person_name": "J. K. Poznański",
+            "person_date": "brak danych",
+            "person_info": "właściciel Tow. Akcyjnego Wyrobów Bawełnianych"
+        },
+        {
+            "person_name": "Anna z Robowskich",
+            "person_date": "brak danych",
+            "person_info": "działaczka społeczna i przewodnicząca I Ochronki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Władysławowo",
+            "date": "1814-10-13"
+        },
+        {
+            "place": "Sochaczew",
+            "date": "1862"
+        },
+        {
+            "place": "Łódź",
+            "date": "1862-12-16"
+        },
+        {
+            "place": "Łódź",
+            "date": "1872"
+        }
+    ]
+}

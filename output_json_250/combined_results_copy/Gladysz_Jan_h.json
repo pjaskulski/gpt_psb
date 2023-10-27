@@ -1,0 +1,121 @@
+{
+    "name": "Jan Gładysz",
+    "psb_id": "PSB-08-0140",
+    "biogram_file": "Gladysz_Jan_h.txt",
+    "date_of_birth": {
+        "date": "druga poł. XIV w."
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "podrzędczy sądecki",
+        "bachmistrz bocheński",
+        "starosta spiski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Podrzędczy sądecki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Bachmistrzostwo bocheńskie",
+            "institution_place": "Bochnia"
+        },
+        {
+            "institution_name": "Starostwo spiskie",
+            "institution_place": "Lubowla"
+        },
+        {
+            "institution_name": "Kościół w Szymbarku",
+            "institution_place": "Szymbark"
+        },
+        {
+            "institution_name": "Dominium Ropae",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Paweł Gładysz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj Gładysz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Paweł Gładysz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Piotr Gładysz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz W.",
+            "person_date": "27 X 1359",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Łosie",
+            "date": "1359-10-27"
+        },
+        {
+            "place": "Szymbark",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ropa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zdynia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hańczowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wysowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brzyście",
+            "date": "1368"
+        },
+        {
+            "place": "Lubowla",
+            "date": "1413"
+        },
+        {
+            "place": "Gorlice",
+            "date": "1466"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sądecczyzna",
+            "date": "brak danych"
+        }
+    ]
+}

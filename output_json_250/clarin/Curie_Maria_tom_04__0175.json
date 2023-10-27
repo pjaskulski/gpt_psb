@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Curie"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "07-11-1867"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1934"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "dwa dzień później"
+  ],
+  "Zawód": [
+    "fizyczka",
+    "profesor Uniwersytetu Paryskiego"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet paryski",
+    "muzeum przemysł i rolnictwo",
+    "Société doba ’ Encouragement pour litr ’ industria Nationale"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Marii",
+      "target": "Kazimierza Dłuskiego",
+      "name": "rodzeństwo - współmałżonek"
+    }
+  ]
+}

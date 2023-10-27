@@ -1,0 +1,155 @@
+{
+    "name": "Jakub Podfilipski",
+    "psb_id": "PSB-27-0046",
+    "biogram_file": "Podfilipski_Jakub_h.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1517/1518",
+        "note": "na przełomie"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan kamieniecki",
+        "stolnik kamieniecki",
+        "komisarz królewski",
+        "członek sądu ziemskiego",
+        "członek zespołu orzekającego w sporze dotyczącym prawa użytkowania łąk pod Kamieńcem"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Komisja królewska",
+            "institution_place": "Czerwono"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Zespół orzekający",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Sąd królewski",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "brat",
+            "person": "Wiktoryn"
+        },
+        {
+            "family_relation": "żona",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jakub"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Ewa"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Mikołaj Jazłowiecki"
+        },
+        {
+            "family_relation": "stryj",
+            "person": "Wiktoryn"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bogdan",
+            "person_date": "1510",
+            "person_info": "delegat województwa mołdawskiego"
+        },
+        {
+            "person_name": "Katarzyna Czartowska",
+            "person_date": "1511",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Barbara Czartowska",
+            "person_date": "1511",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Elżbieta Herburtowa",
+            "person_date": "1513",
+            "person_info": "szlachcianka"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "1517",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Sienieński z Gołogór",
+            "person_date": "1518",
+            "person_info": "kasztelan kamieniecki"
+        },
+        {
+            "person_name": "Mikołaj Jazłowiecki",
+            "person_date": "brak danych",
+            "person_info": "kasztelan kamieniecki"
+        },
+        {
+            "person_name": "Wiktoryn",
+            "person_date": "1532",
+            "person_info": "stryj głównego bohatera"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Podfilipie",
+            "date": "1510-03-12"
+        },
+        {
+            "place": "Czerwony",
+            "date": "1510-07-12"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1511"
+        },
+        {
+            "place": "Holeniszczów",
+            "date": "1511-02-13"
+        },
+        {
+            "place": "Poznań",
+            "date": "1513"
+        },
+        {
+            "place": "Kamieniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1517-06-04"
+        }
+    ]
+}

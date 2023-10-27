@@ -1,0 +1,77 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Ezra"
+  ],
+  "Data urodzenia": [
+    "około DD-MM-1596"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1666"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pełniąc w wieku stosunkowo młodym wysoki urząd wójta",
+    "a zarazem naczelnego sędziego karaimskiego"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Radziwiłłów",
+      "target": "Jana Kazimierza",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Ezra ha-rofe",
+      "target": "Ezra lekarz",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "E.",
+      "target": "Radziwiłłów",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Ezry lekarza",
+      "target": "»",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Ezry lekarza",
+      "target": "Kazimierza«, z czego niektórzy całkiem bezpodstaw",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "»",
+      "target": "Kazimierz«",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "»",
+      "target": "Jan«",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Kazimierz«",
+      "target": "Jan«",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Casimirus",
+      "target": "Jan«",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Ezra",
+      "target": "»Jezza",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

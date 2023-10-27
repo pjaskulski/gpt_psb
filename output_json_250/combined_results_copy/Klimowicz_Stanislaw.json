@@ -1,0 +1,116 @@
+{
+    "name": "Stanisław Klimowicz",
+    "psb_id": "PSB-12-0676",
+    "biogram_file": "Klimowicz_Stanislaw.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1935",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "zecer",
+        "działacz ruchu robotniczego",
+        "współzałożyciel Koła Młodych Drukarzy",
+        "członek Zarządu Koła Młodych Drukarzy",
+        "członek Zjednoczenia Robotniczego",
+        "członek Związku Zagranicznego Socjalistów Polskich",
+        "sekretarz sekcji paryskiej Związku Zagranicznego Socjalistów Polskich",
+        "członek Zarządu Towarzystwa Pomocy Więźniom i Emigrantom Politycznym 'Czerwony Krzyż'",
+        "członek sekcji Związku Zagranicznego Socjalistów Polskich w Leodium",
+        "współorganizator Ogólnobelgijskiej Pomocy Bratniej polskich studentów",
+        "inżynier"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Koło Młodych Drukarzy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zjednoczenie Robotnicze",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Drukarnia A. Reiffa",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Tow. Ubezpieczeń New-York",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Związek Zagranicznego Socjalistów Polskich (ZZSP)",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Polska Partia Socjalistyczna (PPS)",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Tow. Pomocy Więźniom i Emigrantom Politycznym «Czerwony Krzyż»",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Socjaldemokracja Królestwa Polskiego (SDKP)",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Sekcja ZZSP",
+            "institution_place": "Leodium"
+        },
+        {
+            "institution_name": "Ogólnobelgijska Pomoc Bratnia",
+            "institution_place": "Leodium"
+        },
+        {
+            "institution_name": "Komitet Zagraniczny (KZ) PPS",
+            "institution_place": "Leodium"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "brat",
+            "person": "Paulin Klimowicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "A. Zapolski",
+            "person_date": "15 V 1892",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Reiff",
+            "person_date": "brak danych",
+            "person_info": "właściciel polskiej drukarni w Paryżu"
+        },
+        {
+            "person_name": "A. Kiełza",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "name": "Cyryl Trankwillion Stawrowiecki",
+    "psb_id": "PSB-43-0013",
+    "biogram_file": "Stawrowiecki_Cyryl_Trankwillion.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1646"
+    },
+    "place_of_death": {
+        "place": "Czernihów",
+        "note": "w monasterze Jeleckim"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "ruski pisarz religijny",
+        "teolog prawosławny",
+        "teolog unicki",
+        "archimandryta monasteru w Czernihowie",
+        "nauczyciel szkoły Lwowskiego Bractwa Stauropigialnego",
+        "nauczyciel języka greckiego i cerkiewnosłowiańskiego w wileńskiej szkole brackiej",
+        "kaznodzieja",
+        "namiestnik w prawosławnej eparchii chełmskiej",
+        "archimandryta unickiego monasteru Jeleckiego w Czernihowie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "monaster w Czernihowie",
+            "institution_place": "Czernihów"
+        },
+        {
+            "institution_name": "Akademia Zamojska",
+            "institution_place": "Zamość"
+        },
+        {
+            "institution_name": "Akademia Ostrogska",
+            "institution_place": "Ostroh"
+        },
+        {
+            "institution_name": "kolegium jezuickie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szkoła Lwowskiego Bractwa Stauropigialnego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "wileńska szkoła bracka",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "drukarnia Bractwa Stauropigialnego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "unicki monaster Jelecki",
+            "institution_place": "Czernihów"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Koreccy",
+            "person_date": "1583",
+            "person_info": "rodzina opiekunów"
+        },
+        {
+            "person_name": "Jan Kniaginicki",
+            "person_date": "brak danych",
+            "person_info": "ihumen"
+        },
+        {
+            "person_name": "Anna z Chodkiewiczów Korecka",
+            "person_date": "1615",
+            "person_info": "osoba, której poświęcono list dedykacyjny"
+        },
+        {
+            "person_name": "Samuel Korecki",
+            "person_date": "1615",
+            "person_info": "uczestnik 'awantur mołdawskich'"
+        },
+        {
+            "person_name": "Michał Wiśniowiecki",
+            "person_date": "1615",
+            "person_info": "uczestnik 'awantur mołdawskich'"
+        },
+        {
+            "person_name": "Aleksander Mohiła",
+            "person_date": "1615",
+            "person_info": "osoba osadzona na tronie hospodarskim w Jassach"
+        },
+        {
+            "person_name": "Jeremi Wiśniowiecki",
+            "person_date": "brak danych",
+            "person_info": "osoba, do której skierowano dedykację"
+        },
+        {
+            "person_name": "Aleksander Puzyna",
+            "person_date": "1618",
+            "person_info": "szlachcic ruskich, do którego skierowano wiersze na herby i dedykacje"
+        },
+        {
+            "person_name": "Iwan Jarmoliński",
+            "person_date": "1618",
+            "person_info": "szlachcic ruskich, do którego skierowano wiersze na herby i dedykacje"
+        },
+        {
+            "person_name": "Laurent Drewiński",
+            "person_date": "1618",
+            "person_info": "szlachcic ruskich, do którego skierowano wiersze na herby i dedykacje"
+        },
+        {
+            "person_name": "Jeremiasz Tyssarowski",
+            "person_date": "1614",
+            "person_info": "prawosławny biskup lwowski"
+        },
+        {
+            "person_name": "Józef",
+            "person_date": "1616",
+            "person_info": "metropolita Monembazji (Grecja)"
+        },
+        {
+            "person_name": "Jan Borecki",
+            "person_date": "brak danych",
+            "person_info": "metropolita kijowski"
+        },
+        {
+            "person_name": "Michał Romanow",
+            "person_date": "1627",
+            "person_info": "car"
+        },
+        {
+            "person_name": "Filaret",
+            "person_date": "1627",
+            "person_info": "patriarcha moskiewski"
+        },
+        {
+            "person_name": "Jeremi Wiśniowiecki",
+            "person_date": "1646",
+            "person_info": "osoba, do której skierowano dedykację"
+        },
+        {
+            "person_name": "Samuel Karol Korecki",
+            "person_date": "1646",
+            "person_info": "osoba, do której skierowano dedykację"
+        },
+        {
+            "person_name": "Tymofij Aleksandrowicz Werbycki",
+            "person_date": "brak danych",
+            "person_info": "osoba, która wydrukowała książki S-ego"
+        },
+        {
+            "person_name": "Kasjan Sakowicz",
+            "person_date": "brak danych",
+            "person_info": "konwertyta z prawosławia, augustianin"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Czernihów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stawrów",
+            "date": "1583"
+        },
+        {
+            "place": "Tarnopol",
+            "date": "1589"
+        },
+        {
+            "place": "Wilno",
+            "date": "1591"
+        },
+        {
+            "place": "Lubartów",
+            "date": "1604-1643"
+        },
+        {
+            "place": "Zamość",
+            "date": "1621-1625"
+        },
+        {
+            "place": "Lwów",
+            "date": "1615"
+        },
+        {
+            "place": "Jassy",
+            "date": "1615"
+        },
+        {
+            "place": "Rachmanów",
+            "date": "1619"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1627"
+        },
+        {
+            "place": "Putywl",
+            "date": "1627"
+        },
+        {
+            "place": "Tobolsk",
+            "date": "1627"
+        },
+        {
+            "place": "Werchoturje",
+            "date": "1627"
+        },
+        {
+            "place": "Kijów",
+            "date": "brak danych"
+        }
+    ]
+}

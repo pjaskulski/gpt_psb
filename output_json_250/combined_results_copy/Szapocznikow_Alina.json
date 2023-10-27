@@ -1,0 +1,628 @@
+{
+    "name": "Alina Szapocznikow",
+    "psb_id": "PSB-47-0025",
+    "biogram_file": "Szapocznikow_Alina.txt",
+    "date_of_birth": {"date": "1926-05-16"},
+    "place_of_birth": {"place": "Kalisz"},
+    "date_of_death": {"date": "1973-03-02"},
+    "place_of_death": {"place": "Praz-Contant"},
+    "date_of_burial": {"date": "1973-03-06"},
+    "place_of_burial": {"place": "Paryż", },
+    "functions": [
+        "rzeźbiarka",
+        "pracownica praskiej pracowni rzeźbiarza Otokara Velinskiego",
+        "współpracowniczka Bedřicha Stefana przy rekonstrukcji barokowych rzeźb",
+        "studentka Wyższej Szkoły Artystyczno-Przemysłowej w Pradze",
+        "członkini Komunistycznej Partii Czechosłowacji",
+        "studentka École Nationale Supérieure des Beaux-Arts w Paryżu",
+        "pracownica zakładów kamieniarskich J. Lerendu",
+        "pracownica Pracowni Marszałkowskiej Dzielnicy Mieszkaniowej",
+        "uczestniczka rekonstrukcji dekoracji rzeźbiarskiej kamienic",
+        "rzeźbiarka w pracowni w budynku dawnej Giełdy przy ul. Królewskiej",
+        "uczestniczka organizacji V Międzynarodowego Festiwalu Młodzieży i Studentów w Warszawie",
+        "uczestniczka Symposion Europäischer Bildhauer w St. Margarethen w Austrii",
+        "projektantka nagrobka matki na cmentarzu Powązkowskim",
+        "uczestniczka III Biennale Internazionale di Scultura w Carrarze we Włoszech",
+        "uczestniczka XXXI Biennale Sztuki w Wenecji",
+        "uczestniczka Międzynarodowego Sympozjum Rzeźby w Portorož w Jugosławii"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum św. Jadwigi",
+            "institution_place": "Pabianice"
+        },
+        {
+            "institution_name": "Auschwitz-Birkenau",
+            "institution_place": "Oświęcim"
+        },
+        {
+            "institution_name": "Bergen-Belsen",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Theresienstadt",
+            "institution_place": "Terezín"
+        },
+        {
+            "institution_name": "pracownia rzeźbiarza Otokara Velinskiego",
+            "institution_place": "Praga"
+        },
+        {
+            "institution_name": "zespół parkowo-uzdrowiskowy w Kuks",
+            "institution_place": "Hradec Kralove"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Artystyczno-Przemysłowa",
+            "institution_place": "Praga"
+        },
+        {
+            "institution_name": "Komunistyczna Partia Czechosłowacji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "École Nationale Supérieure des Beaux-Arts",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "zakłady kamieniarskie J. Lerendu",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Centralne Biuro Wystaw Artystycznych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pracownia Marszałkowskiej Dzielnicy Mieszkaniowej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pałac Kultury i Nauki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "pracownia w budynku dawnej Giełdy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wystawa Gospodarcza",
+            "institution_place": "Damaszek"
+        },
+        {
+            "institution_name": "V Międzynarodowy Festiwal Młodzieży i Studentów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Międzynarodowa Wystawa Sztuki Młodych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "pracownia ceramiczna w warszawskiej ASP",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biuro Wystaw Artystycznych Arsenał",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Galeria «Krzywego Koła»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biuro Wystaw Artystycznych",
+            "institution_place": "Sopot"
+        },
+        {
+            "institution_name": "Symposion Europäischer Bildhauer",
+            "institution_place": "St. Margarethen"
+        },
+        {
+            "institution_name": "III Wystawa Sztuki Nowoczesnej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "VII Światowy Festiwal Młodzieży i Studentów",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Biennale Młodych",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "III Biennale Internazionale di Scultura",
+            "institution_place": "Carrara"
+        },
+        {
+            "institution_name": "Międzynarodowe Sympozjum Rzeźby",
+            "institution_place": "Portorož"
+        },
+        {
+            "institution_name": "XXXI Biennale Sztuki",
+            "institution_place": "Wenecja"
+        },
+        {
+            "institution_name": "Biennale sztuki „Bronzetto”",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Galerie Lambert",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Salon de la Jeune Sculpture",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Państw. Wyższa Szkoła Sztuk Plastycznych",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Musée d’Art Moderne de la Ville",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Galeria Współczesna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Galeria Aurora",
+            "institution_place": "Genewa"
+        },
+        {
+            "institution_name": "Muz. Sztuki",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Biblioteka Polska",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Galeria «IRSA»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muzea Narodowe",
+            "institution_place": "Kraków, Poznań, Warszawa, Wrocław"
+        },
+        {
+            "institution_name": "Muzeum Sztuki",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Muzeum Warmii i Mazur",
+            "institution_place": "Olsztyn"
+        },
+        {
+            "institution_name": "Muzeum Okręgowe",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Muzeum WP",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muzeum ŻIH",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państw. Muz. Auschwitz-Birkenau",
+            "institution_place": "Oświęcim"
+        },
+        {
+            "institution_name": "Galeria Sztuki Realizmu Socjalistycznego w Muz. Zamoyskich",
+            "institution_place": "Kozłówka"
+        },
+        {
+            "institution_name": "Rijksmuseum Kröller-Müller",
+            "institution_place": "Otterlo"
+        },
+        {
+            "institution_name": "Inst. Kultury Polskiej",
+            "institution_place": "Lund"
+        },
+        {
+            "institution_name": "kamieniołom St. Margarethen",
+            "institution_place": "Austria"
+        },
+        {
+            "institution_name": "Vyšnich Rušbachach",
+            "institution_place": "Słowacja"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jakub Szapocznikow"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Regina (Ryfka) Szapocznikow"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mirosław Szapocznikow"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Ryszard Stanisławski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Piotr Stanisławski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Roman Cieślewicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Otokar Velinski",
+            "person_date": "1945-1946",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Bedřich Stefan",
+            "person_date": "1945-1946",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Josef Wágner",
+            "person_date": "1946",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paul Niclausse",
+            "person_date": "1947",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ryszard Stanisławski",
+            "person_date": "1948",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ginette Neveu",
+            "person_date": "1949",
+            "person_info": "skrzypaczka"
+        },
+        {
+            "person_name": "Pablo Picasso",
+            "person_date": "1950",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Oskar Hansen",
+            "person_date": "1951",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Bogacki",
+            "person_date": "1962",
+            "person_info": "sztukator"
+        },
+        {
+            "person_name": "Roman Cieślewicz",
+            "person_date": "1957",
+            "person_info": "grafik"
+        },
+        {
+            "person_name": "Krzysztof Teodor Toeplitz",
+            "person_date": "1957",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zofia Butrymowicz",
+            "person_date": "1957",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michel Lustre",
+            "person_date": "1957",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Tchórzewski",
+            "person_date": "1957",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Witold Gombrowicz",
+            "person_date": "1962",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "László Rajk",
+            "person_date": "1962",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pierre Restany",
+            "person_date": "1963",
+            "person_info": "krytyk sztuki"
+        },
+        {
+            "person_name": "Wojciech Fangor",
+            "person_date": "1964",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Tadeusz Brzozowski",
+            "person_date": "1964",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Tadeusz Dominik",
+            "person_date": "1964",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Jan Lebenstein",
+            "person_date": "1964",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Lucjan Mianowski",
+            "person_date": "1964",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Czesław Rzepiński",
+            "person_date": "1964",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "E. Godard",
+            "person_date": "1965",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Florence Houston-Brown",
+            "person_date": "brak danych",
+            "person_info": "właścicielka galerii"
+        },
+        {
+            "person_name": "Helen Włodarczyk",
+            "person_date": "1976",
+            "person_info": "reżyserka filmu dokumentalnego"
+        },
+        {
+            "person_name": "Krzysztof Tchórzewski",
+            "person_date": "1998",
+            "person_info": "reżyser filmu dokumentalnego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kalisz",
+            "date": "1926-05-16"
+        },
+        {
+            "place": "Pabianice",
+            "date": "1926"
+        },
+        {
+            "place": "Łódź",
+            "date": "brak danych"
+        },
+        {
+            "place": "Auschwitz-Birkenau",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bergen-Belsen",
+            "date": "brak danych"
+        },
+        {
+            "place": "Theresienstadt",
+            "date": "1943"
+        },
+        {
+            "place": "Czeski Cieszyn",
+            "date": "1945"
+        },
+        {
+            "place": "Praga",
+            "date": "1945-1946"
+        },
+        {
+            "place": "Kuks",
+            "date": "1945-1946"
+        },
+        {
+            "place": "Paryż",
+            "date": "1947"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1951"
+        },
+        {
+            "place": "Józefów",
+            "date": "1954-1992"
+        },
+        {
+            "place": "Sopot",
+            "date": "1957"
+        },
+        {
+            "place": "Damaszek",
+            "date": "1955"
+        },
+        {
+            "place": "Berlin",
+            "date": "1956"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1956"
+        },
+        {
+            "place": "Poznań",
+            "date": "1960-04"
+        },
+        {
+            "place": "Prato",
+            "date": "1960-05"
+        },
+        {
+            "place": "Rijeka",
+            "date": "1960"
+        },
+        {
+            "place": "St. Margarethen",
+            "date": "1960"
+        },
+        {
+            "place": "Waszyngton",
+            "date": "1960"
+        },
+        {
+            "place": "Wenecja",
+            "date": "1962-06"
+        },
+        {
+            "place": "Carrara",
+            "date": "1962"
+        },
+        {
+            "place": "Portorož",
+            "date": "1963"
+        },
+        {
+            "place": "Padwa",
+            "date": "1963"
+        },
+        {
+            "place": "Malakoff",
+            "date": "1965"
+        },
+        {
+            "place": "Varniacka Banja",
+            "date": "1967"
+        },
+        {
+            "place": "Vyšné Rušbachy",
+            "date": "1968"
+        },
+        {
+            "place": "Sztokholm",
+            "date": "1968"
+        },
+        {
+            "place": "Kopenhaga",
+            "date": "1968"
+        },
+        {
+            "place": "Paryż",
+            "date": "1968"
+        },
+        {
+            "place": "Quercetta",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bruksela",
+            "date": "brak danych"
+        },
+        {
+            "place": "Fontainebleau",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czechosłowacja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Malakoff",
+            "date": "1970"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "1970"
+        },
+        {
+            "place": "Jugosławia",
+            "date": "1970"
+        },
+        {
+            "place": "Carrara",
+            "date": "1970"
+        },
+        {
+            "place": "Cannes",
+            "date": "1970"
+        },
+        {
+            "place": "Mediolan",
+            "date": "1970-1971"
+        },
+        {
+            "place": "Genewa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nicea",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "1972"
+        },
+        {
+            "place": "Ceret",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rijeka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Praz-Contant",
+            "date": "1973"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1974-1975"
+        },
+        {
+            "place": "Łódź",
+            "date": "1975-1999"
+        },
+        {
+            "place": "Poznań",
+            "date": "1975"
+        },
+        {
+            "place": "Kraków",
+            "date": "1975-1998"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "1976"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1976"
+        },
+        {
+            "place": "Lund",
+            "date": "1976"
+        },
+        {
+            "place": "Białystok",
+            "date": "1977"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1978-1999"
+        },
+        {
+            "place": "Lublin",
+            "date": "1989"
+        },
+        {
+            "place": "Praga",
+            "date": "2000"
+        }
+    ]
+}

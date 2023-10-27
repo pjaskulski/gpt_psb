@@ -1,0 +1,76 @@
+{
+  "Nazwisko": [
+    "Stawrowiecki"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Stawroweckyj Kyryło Trankwilion"
+  ],
+  "Imię/imiona": [
+    "Trankwillion"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1646"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "ruski pisarz religijny",
+    "teolog prawosławny i unicki",
+    "archimandryta monasteru w Czernihowie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Akad . zamojski lub",
+    "lwowski bractwo stauropigialny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S-ego",
+      "target": "Trankwillion",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-ego",
+      "target": "Tranquilus",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Starsza literatura identyfikowała S-ego",
+      "target": "Kiryłem",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Kirył",
+      "target": "Cyryl",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "Kiryłem Konstantynowskim",
+      "target": "Tymofieja",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Kiryłem",
+      "target": "Iwana",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "S-m.",
+      "target": "S-ego",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Kirył",
+      "target": "Piotra Mohiły",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Nazwisko": [
+    "Śmieszkowic"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Gelasinus"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1520"
+  ],
+  "Miejsce urodzenia": [
+    "Lwowie"
+  ],
+  "Data śmierci": [
+    "około DD-MM-1580"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "Krakowie w kościele p"
+  ],
+  "Zawód": [
+    "profesor Uniwersytetu Krakowskiego",
+    "kierownik gimnazjum w Elblągu",
+    "rajca lwowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet krakowski",
+    "Uniw . Krak .",
+    "collegium minus",
+    "rada"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Katarzynę",
+      "target": "Zygmunta Gajslera",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Katarzynę",
+      "target": "Szymona",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Elżbietę",
+      "target": "Stanisława Bergera",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Annę",
+      "target": "Szymonem Tomaszewicem",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Barbarę",
+      "target": "Józefa Markowica",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Ś-owi",
+      "target": "Hozjusz",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

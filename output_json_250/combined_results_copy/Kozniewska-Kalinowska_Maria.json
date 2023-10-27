@@ -1,0 +1,221 @@
+{
+    "name": "Maria Koźniewska-Kalinowska",
+    "psb_id": "PSB-15-0071",
+    "biogram_file": "Kozniewska-Kalinowska_Maria.txt",
+    "date_of_birth": {
+        "date": "1875-08-25"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1968-07-26"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "nauczycielka matematyki i rysunku",
+        "malarka",
+        "członek Union Internationale des Beaux-Arts et des Lettres",
+        "członek Towarzystwa Zachęty Sztuk Pięknych",
+        "członek Polskiego Towarzystwa Artystycznego",
+        "członek Związku Polskich Artystów Plastyków"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Académie Vitty",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Académie Colarossi",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Salon Société Nationale des Beaux-Arts",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Salon des Indépendants",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Royal Academy",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Towarzystwo Zachęty Sztuk Pięknych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Salon Krywulta",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Salon F. Richlinga",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Związek Zawodowy Polskich Artystów Plastyków",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Przyjaciół Sztuk Pięknych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Warszawski Związek Zawodowy Polskich Artystów Plastyków",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Artystyczne",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Powszechna Wystawa Krajowa",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Wystawa Niezależnych",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Bazar Zachęty",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pierwsza Ogólnopolska Wystawa Plastyki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wystawa Związku Polskich Artystów Plastyków Okręgu Warszawskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Polskich Artystów Niezależnych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Artystów-Plastyków «Zachęta»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Union Internationale des Beaux-Arts et des Lettres",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Artystyczne",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Związek Polskich Artystów Plastyków",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muzeum Narodowe",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Koźniewski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Józefa z Jasiobędzkich"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Wacław Kalinowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Ludomir Benedyktowicz",
+            "person_date": "przed 1900",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Józef Pankiewicz",
+            "person_date": "przed 1902",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "A. de la Gandara",
+            "person_date": "1902-1911",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Luc Olivier-Merson",
+            "person_date": "1902-1911",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Olga Boznańska",
+            "person_date": "1902-1911",
+            "person_info": "malarka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1875-08-25"
+        },
+        {
+            "place": "Paryż",
+            "date": "1902-1911"
+        },
+        {
+            "place": "Anglia",
+            "date": "1905"
+        },
+        {
+            "place": "Londyn",
+            "date": "1905"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1911"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1929"
+        },
+        {
+            "place": "Wilno",
+            "date": "1932"
+        },
+        {
+            "place": "Lwów",
+            "date": "1936"
+        },
+        {
+            "place": "Poznań",
+            "date": "1938"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1939-1945"
+        },
+        {
+            "place": "Milanówek",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1950-1951"
+        }
+    ]
+}

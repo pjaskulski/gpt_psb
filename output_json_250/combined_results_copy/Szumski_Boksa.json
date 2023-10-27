@@ -1,0 +1,310 @@
+{
+    "name": "Boksa Szumski",
+    "psb_id": "PSB-49-0217",
+    "biogram_file": "Szumski_Boksa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1415",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "łowczy sandomierski",
+        "łowczy krakowski",
+        "starosta chęciński",
+        "rycerz pasowany",
+        "asesor na rokach sądów ziemskich krakowskiego",
+        "asesor na rokach sądów ziemskich sandomierskiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Klasztor koprzywnicki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Królewski sąd ziemski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Królewski sąd ziemski",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Starostwo chęcińskie",
+            "institution_place": "Chęciny"
+        },
+        {
+            "institution_name": "Królewskie zatwierdzenie dokumentu",
+            "institution_place": "Chęciny"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Radoszyce"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Łagów"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Biecz"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Solec"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Nowe Miasto Korczyn"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Koprzywnica"
+        },
+        {
+            "institution_name": "Sąd ziemski",
+            "institution_place": "Trzeciec"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "Jakub"
+        },
+        {
+            "family_relation": "pradziadek",
+            "person": "Jakub"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Krzesław z Szumska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan (Jaszek) Rej z Nagłowic"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Stachna h. Poraj"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Rey"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Jan Rey"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Stogniew"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Chociemir Garnka (Garnysza) z Pojałowic i Suchcic"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Mikołaj z Barczkowic"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Wisław z Kościelca"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Spytek z Tarnowa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Pielgrzym z Węgleszyna",
+            "person_date": "1384",
+            "person_info": "podkomorzy sandomierski"
+        },
+        {
+            "person_name": "Krystyn",
+            "person_date": "1384",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Władysław Jagiełło",
+            "person_date": "1393",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Bienik",
+            "person_date": "1394",
+            "person_info": "sołtys wsi Bliżyce"
+        },
+        {
+            "person_name": "Piotr Szafrańcowi z Łuczyc",
+            "person_date": "1395",
+            "person_info": "podstoli krakowski"
+        },
+        {
+            "person_name": "Dymitr z Goraja",
+            "person_date": "1398",
+            "person_info": "marszałek Królestwa"
+        },
+        {
+            "person_name": "Jasiek z Lganowa",
+            "person_date": "1398",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan z Lganowa",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Piotr Wysz",
+            "person_date": "1402",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jan Niemierza z Ożarowic",
+            "person_date": "1403",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mszczuj z Więckowic",
+            "person_date": "1411",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Spytek z Tarnowa",
+            "person_date": "1411",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Tęczyński",
+            "person_date": "1414",
+            "person_info": "kasztelan krakowski"
+        },
+        {
+            "person_name": "pleban z Trzeńca",
+            "person_date": "1415",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Szumsko",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1388-1408"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1408-1412"
+        },
+        {
+            "place": "Radoszyce",
+            "date": "1393-11-26, 1413-07-30"
+        },
+        {
+            "place": "Nowe Miasto Korczyn",
+            "date": "1394-07-24, 1405-09"
+        },
+        {
+            "place": "Niepołomice",
+            "date": "1395-07"
+        },
+        {
+            "place": "Chęciny",
+            "date": "1395-07, 1401-06"
+        },
+        {
+            "place": "Lwów",
+            "date": "1397-09-01"
+        },
+        {
+            "place": "Szczekarzów",
+            "date": "1398-07-05"
+        },
+        {
+            "place": "Biecz",
+            "date": "1399-11"
+        },
+        {
+            "place": "Solec",
+            "date": "1400-08"
+        },
+        {
+            "place": "Koprzywnica",
+            "date": "1406-03"
+        },
+        {
+            "place": "Łagów",
+            "date": "1413-08-11"
+        },
+        {
+            "place": "Nagnajów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pławowice",
+            "date": "1384"
+        },
+        {
+            "place": "Górki",
+            "date": "1384"
+        },
+        {
+            "place": "Pojałowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nagłowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wola Trzcieńska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nowa Wieś",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zdanowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Imbramowice",
+            "date": "1403"
+        },
+        {
+            "place": "Sączów",
+            "date": "1403"
+        },
+        {
+            "place": "Tarnów",
+            "date": "1411"
+        }
+    ]
+}

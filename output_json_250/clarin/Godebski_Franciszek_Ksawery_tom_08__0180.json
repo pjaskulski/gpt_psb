@@ -1,0 +1,50 @@
+{
+  "Nazwisko": [
+    "Godebski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Franciszek",
+    "Ksawery"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1801"
+  ],
+  "Miejsce urodzenia": [
+    "Frankenthal"
+  ],
+  "Data śmierci": [
+    "17-05-1869"
+  ],
+  "Miejsce śmierci": [
+    "Lwowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "liceum krzemieniecki",
+    "Uniw . Warsz .",
+    "bractwo bursz polski",
+    "ministerstwo skarb",
+    "teatr łazienkowski",
+    "sejm"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Kalisz",
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Bonieckiego",
+      "target": "Cypriana",
+      "name": "matka - krewny"
+    }
+  ]
+}

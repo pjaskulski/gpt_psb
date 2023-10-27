@@ -1,0 +1,70 @@
+{
+  "Nazwisko": [
+    "Schirmer"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Scherer",
+    "Schermar",
+    "Schermer"
+  ],
+  "Imię/imiona": [
+    "Wawrzyniec"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "około 05-09-1413"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wójt lubelski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Schirmer",
+      "target": "Schermar",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Schirmer",
+      "target": "Schermer) Wawrzyniec",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Scherer",
+      "target": "Schermar",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Scherer",
+      "target": "Schermer) Wawrzyniec",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Jan Falkenberg",
+      "target": "Katarzyny Wierzynkowej",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "S-a",
+      "target": "Jan Falkenberg",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-a",
+      "target": "Katarzyny Wierzynkowej",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Jana",
+      "target": "Leona",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

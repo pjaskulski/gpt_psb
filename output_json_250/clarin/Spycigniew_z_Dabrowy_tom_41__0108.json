@@ -1,0 +1,69 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": [
+    "Poraj"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1255 -- DD-MM-1257"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wojewoda łęczycki"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Konrada",
+      "target": "Kazimierz I",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Konrada",
+      "target": "Mściwoj",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Konrada",
+      "target": "Bogusza",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Mściwoj",
+      "target": "Konrada",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Mściwoj",
+      "target": "Bolesława Wstydliwego",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Bolesława Wstydliwego",
+      "target": "Konradem",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "S-a",
+      "target": "Kazimierz",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Kazimierza",
+      "target": "Siemowitem mazowieckim",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "Kazimierza",
+      "target": "Bolesławem Wstydliwym",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

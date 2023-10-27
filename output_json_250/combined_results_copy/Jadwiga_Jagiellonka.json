@@ -1,0 +1,166 @@
+{
+    "name": "Jadwiga Jagiellonka",
+    "psb_id": "PSB-10-0369",
+    "biogram_file": "Jadwiga_Jagiellonka.txt",
+    "date_of_birth": {
+        "date": "1457-09-21",
+        "note": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Kraków",
+        "note": "na Wawelu"
+    },
+    "date_of_death": {
+        "date": "1502-02-18",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Berghausen",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "królewna polska",
+        "księżna bawarska"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła królewiczów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Dwór królewski",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Dwór bawarski",
+            "institution_place": "Landshut"
+        },
+        {
+            "institution_name": "Zamek Burghausen",
+            "institution_place": "Burghausen"
+        },
+        {
+            "institution_name": "Klasztor benedyktynek",
+            "institution_place": "Neuburg"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Kazimierz Jagiellończyk"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Elżbieta Rakuszanka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Władysław Jagiellończyk"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Aleksander"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Zygmunt I"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Jerzy Bawarski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ludwik"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ruprecht"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Małgorzata"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Ruprecht hr. Palatynatu"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Dorota Koniecpolska",
+            "person_date": "brak danych",
+            "person_info": "wychowawczyni i ochmistrzyni Jadwigi Jagiellonki"
+        },
+        {
+            "person_name": "Jerzy z Podiebradu",
+            "person_date": "ok. 1468",
+            "person_info": "król czeski"
+        },
+        {
+            "person_name": "Maciej Korwin",
+            "person_date": "ok. 1468",
+            "person_info": "król węgierski"
+        },
+        {
+            "person_name": "Stanisław Ostroróg",
+            "person_date": "1475",
+            "person_info": "wojewoda kaliski"
+        },
+        {
+            "person_name": "Jan Czyżowski",
+            "person_date": "1475",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Wojciech Moniwid",
+            "person_date": "1475",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Anna",
+            "person_date": "1475",
+            "person_info": "księżna wdowa cieszyńska"
+        },
+        {
+            "person_name": "Fryderyk",
+            "person_date": "1475",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Albrecht Achilles",
+            "person_date": "1475",
+            "person_info": "elektor brandenburski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1457-09-21"
+        },
+        {
+            "place": "Poznań",
+            "date": "1475"
+        },
+        {
+            "place": "Wittenberg",
+            "date": "1475-10-23"
+        },
+        {
+            "place": "Landshut",
+            "date": "1475-11-14"
+        }
+    ]
+}

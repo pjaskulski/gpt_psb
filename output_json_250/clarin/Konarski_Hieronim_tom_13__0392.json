@@ -1,0 +1,43 @@
+{
+  "Nazwisko": [
+    "Konarski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Hieronim"
+  ],
+  "Herb": [
+    "Gryf"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "30-09-1700"
+  ],
+  "Miejsce urodzenia": [
+    "Żarczycach"
+  ],
+  "Data śmierci": [
+    "DD-MM-1773"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pijar",
+    "reformator szkolnictwa",
+    "pisarz polityczny"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "kolegium nazareński"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Rzym"
+  ],
+  "Relacje": [
+    {
+      "source": "K.",
+      "target": "Jana Tarły",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

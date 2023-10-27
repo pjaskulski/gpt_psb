@@ -1,0 +1,67 @@
+{
+  "Nazwisko": [
+    "Schnayder"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Edward",
+    "Jerzy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "06-08-1891"
+  ],
+  "Miejsce urodzenia": [
+    "Krzeszowice"
+  ],
+  "Data śmierci": [
+    "27-07-1974"
+  ],
+  "Miejsce śmierci": [
+    "Krakowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz Salwatorski"
+  ],
+  "Zawód": [
+    "filolog klasyczny",
+    "profesor Uniw. Łódz"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Łódz .",
+    "Uniw . Wrocł",
+    "gimnazjum święty . Jacek",
+    "Wydz . filozoficzny",
+    "UJ",
+    "I państwowy gimnazjum żeński imienia . królowa Wanda",
+    "gimnazjum imienia . Bartłomiej Nowodworski",
+    "prywatny gimnazjum żeński imienia . Helena Kaplińska",
+    "komisja filologiczny",
+    "PAU",
+    "polski czerwony krzyż",
+    "uniwersytet"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Edwarda",
+      "target": "Felicji z Krzyszkowskich",
+      "name": "matka - krewny"
+    }
+  ]
+}

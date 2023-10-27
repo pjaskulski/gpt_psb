@@ -15,7 +15,7 @@
     },
     "date_of_birth": {
         "date": "brak danych",
-        "result": false
+        "result": true
     },
     "date_of_death": {
         "date": "1475-10-21",

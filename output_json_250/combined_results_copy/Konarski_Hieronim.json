@@ -1,0 +1,484 @@
+{
+    "name": "Hieronim Konarski",
+    "psb_id": "PSB-13-0497",
+    "biogram_file": "Konarski_Hieronim.txt",
+    "date_of_birth": {
+        "date": "1700-09-30"
+    },
+    "place_of_birth": {
+        "place": "Żarczyce",
+        "note": "powiat chęciński"
+    },
+    "date_of_death": {
+        "date": "1773-08-03"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "1773-08-05"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "kościół pijarski przy ul. Długiej, później przeniesiony na Powązki"
+    },
+    "functions": [
+        "pijar",
+        "reformator szkolnictwa",
+        "pisarz polityczny",
+        "nauczyciel składni",
+        "nauczyciel poezji",
+        "nauczyciel humaniorów",
+        "nauczyciel retoryki",
+        "nauczyciel wymowy",
+        "sekretarz Jerzego Ożarowskiego",
+        "nauczyciel młodych pijarów",
+        "II asystent polskiej prowincji pijarów",
+        "I asystent prowincji pijarów",
+        "rektor kolegium pijarskiego w Warszawie",
+        "organizator kolegium szlacheckiego",
+        "prowincjał",
+        "regens Collegium Nobilium",
+        "rektor Collegium Nobilium",
+        "wizytator apostolski polskiej prowincji pijarów",
+        "guwerner młodych magnatów",
+        "piar",
+        "pierwszy asystent prowincji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "szkoła pijarska",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "pijarskie kolegium",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kolegium Nazareńskie",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Sapienza",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "drukarnia pijarów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Collegium Nobilium",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Collegium Nobilium",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "senatus consilium",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegium szlacheckie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr szkolny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kolegium pijarskie",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jerzy Konarski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Helena Czermińska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Antoni"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Stanisław Ignacy"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Ignacy"
+        },
+        {
+            "family_relation": "krewny",
+            "person": "Jan Tarło"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Cyprian Komorowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Tarła",
+            "person_date": "brak danych",
+            "person_info": "wojewoda lubelski"
+        },
+        {
+            "person_name": "Stanisław Poniatowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1733",
+            "person_info": "kandydat do tronu"
+        },
+        {
+            "person_name": "Jerzy Ożarowski",
+            "person_date": "1735",
+            "person_info": "obózny koronny"
+        },
+        {
+            "person_name": "Ludwik XV",
+            "person_date": "1735",
+            "person_info": "król Francji"
+        },
+        {
+            "person_name": "Jan Jastrzębski",
+            "person_date": "1739",
+            "person_info": "prowincjał"
+        },
+        {
+            "person_name": "Jan Humański",
+            "person_date": "1740",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Ignacy Świdziński",
+            "person_date": "1740",
+            "person_info": "wojewodzic bracławski"
+        },
+        {
+            "person_name": "Jerzy Konarski",
+            "person_date": "brak danych",
+            "person_info": "miecznik inowrocławski"
+        },
+        {
+            "person_name": "Helena Czermińska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Locke",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Karol Rollin",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Antoni Wiśniewski",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Corneille",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Racine",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Molier",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Voltaire",
+            "person_date": "brak danych",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "J. Bielski",
+            "person_date": "brak danych",
+            "person_info": "jezuita"
+        },
+        {
+            "person_name": "Augustyn Orłowski",
+            "person_date": "brak danych",
+            "person_info": "pijar"
+        },
+        {
+            "person_name": "Walenty Kamieński",
+            "person_date": "brak danych",
+            "person_info": "pijar"
+        },
+        {
+            "person_name": "Adam Komorowski",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Archinto",
+            "person_date": "brak danych",
+            "person_info": "nuncjusz"
+        },
+        {
+            "person_name": "Chelucci",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Delbecchio",
+            "person_date": "brak danych",
+            "person_info": "generał pijarski"
+        },
+        {
+            "person_name": "Ignacy Konarski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Cyprian Komorowski",
+            "person_date": "brak danych",
+            "person_info": "rektor krakowskiego domu pijarów"
+        },
+        {
+            "person_name": "Benedykt XIV",
+            "person_date": "brak danych",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Arduini",
+            "person_date": "brak danych",
+            "person_info": "generał pijarski"
+        },
+        {
+            "person_name": "Jan Tarło",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Klemens Branicki",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Broglie",
+            "person_date": "brak danych",
+            "person_info": "ambasador francuski"
+        },
+        {
+            "person_name": "Karol",
+            "person_date": "brak danych",
+            "person_info": "królewicz"
+        },
+        {
+            "person_name": "Ksawery",
+            "person_date": "brak danych",
+            "person_info": "królewicz"
+        },
+        {
+            "person_name": "Brühl",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August III",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "A. K. Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wacław Rzewuski",
+            "person_date": "marzec 1764",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Stanisław August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "G. Podoski",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Durini",
+            "person_date": "brak danych",
+            "person_info": "nuncjusz"
+        },
+        {
+            "person_name": "Ignacy Potocki",
+            "person_date": "grudzień 1772",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Elżbieta Lubomirska",
+            "person_date": "grudzień 1772",
+            "person_info": "szlachcianka"
+        },
+        {
+            "person_name": "O. Kopczyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Bielski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Waga",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paskiewicz",
+            "person_date": "1834",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pik",
+            "person_date": "1882",
+            "person_info": "żydowski kupiec"
+        },
+        {
+            "person_name": "Ł. Kurdybacha",
+            "person_date": "1959",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "J. Nowak-Dłużewski",
+            "person_date": "1955",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "W. Konopczyński",
+            "person_date": "brak danych",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "F. Nowakowski",
+            "person_date": "1882",
+            "person_info": "redaktor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Żarczyce",
+            "date": "1700-09-30"
+        },
+        {
+            "place": "Grudzyń",
+            "date": "1705"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1706"
+        },
+        {
+            "place": "Podoliniec",
+            "date": "1715-08-27"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1722-08-17"
+        },
+        {
+            "place": "Rzym",
+            "date": "1725"
+        },
+        {
+            "place": "Paryż",
+            "date": "1729"
+        },
+        {
+            "place": "Rügenwalde",
+            "date": "1735-04-30"
+        },
+        {
+            "place": "Wersal",
+            "date": "1735-06-13"
+        },
+        {
+            "place": "Kraków",
+            "date": "1736-09-17"
+        },
+        {
+            "place": "Rzeszów",
+            "date": "1737-06-23"
+        },
+        {
+            "place": "Radom",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rus",
+            "date": "1739"
+        },
+        {
+            "place": "Podole",
+            "date": "1739"
+        },
+        {
+            "place": "Francja",
+            "date": "1747"
+        },
+        {
+            "place": "Wersal",
+            "date": "1747"
+        },
+        {
+            "place": "Paryż",
+            "date": "1747-05-07"
+        },
+        {
+            "place": "Luneville",
+            "date": "1747"
+        },
+        {
+            "place": "Saksonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1764"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1770"
+        },
+        {
+            "place": "Powązki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1882"
+        }
+    ]
+}

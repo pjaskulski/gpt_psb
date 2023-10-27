@@ -1,0 +1,32 @@
+{
+  "Nazwisko": [
+    "Dekan"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Diega Uffana",
+      "target": "Abrahama Ciświckiego",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "D-owi",
+      "target": "Siarczyński",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

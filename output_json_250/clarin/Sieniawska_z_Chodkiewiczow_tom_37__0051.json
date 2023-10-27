@@ -1,0 +1,37 @@
+{
+  "Nazwisko": [
+    "Sieniawska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Eufrozyna",
+    "Anna"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1633"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "12-05-1633"
+  ],
+  "Miejsce pochówku": [
+    "kościół Dominikanów lwowskich"
+  ],
+  "Zawód": [
+    "córki Andrzeja",
+    "podkomorzego lwowskiego"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Eufemii Sienieńskiej",
+      "target": "Andrzeja",
+      "name": "matka - krewny"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Campensis"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1538"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "w mieście Kampen",
+    "od którego wziął nazwisko"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet w Lowanium",
+    "collegium Trilingue"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Janem Dantyszkiem",
+      "target": "Zygmunta I",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "Janem Dantyszkiem",
+      "target": "Karola V",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Zygmunta I",
+      "target": "Karola V",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "C-a",
+      "target": "Janem Dantyszkiem",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "C.",
+      "target": "Dantyszka",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Dantyszek",
+      "target": "Jana de Carondelet",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "C-a",
+      "target": "Dantyszek",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Petrejusa",
+      "target": "Dantyszka",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Nazwisko": [
+    "Rossi"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Piotr"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1760"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1810 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "architekt"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "R.",
+      "target": "Wawrzyniec Gucewicz",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Gucewiczem",
+      "target": "Dominika Radziwiłła",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Małgorzatą",
+      "target": "Józefa Baltazary",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "Małgorzatą",
+      "target": "Baldassari",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

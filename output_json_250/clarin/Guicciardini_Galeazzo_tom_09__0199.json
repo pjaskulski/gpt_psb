@@ -1,0 +1,66 @@
+{
+  "Nazwisko": [
+    "Guicciardini"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Galeazzo"
+  ],
+  "Herb": [
+    "Guicciardinich"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1522"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "31-07-1557"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "Włoch",
+    "budowniczy"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Galeaciusa",
+      "target": "Guicciardiniego",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Guicciardinich",
+      "target": "Montelupich",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "G-ego",
+      "target": "Montelupich",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "G-emu",
+      "target": "Stanisław Pilecki",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Barbara Kmitowa",
+      "target": "Piotrze",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "G-ego",
+      "target": "Spytek Jordan",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "G-emu",
+      "target": "Spytek Jordan",
+      "name": "ważna postać - ojciec"
+    }
+  ]
+}

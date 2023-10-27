@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Mortęski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Aquilian"
+  ],
+  "Imię/imiona": [
+    "Ludwik"
+  ],
+  "Herb": [
+    "Orlik"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1480"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wojewoda chełmiński"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "związek pruski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Fryderykiem",
+      "target": "Janem Marienau",
+      "name": "dzieci-krewny"
+    },
+    {
+      "source": "Mortęskich",
+      "target": "Janem Marienau",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "M-ego",
+      "target": "Jan Bażyński",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

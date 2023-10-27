@@ -1,0 +1,167 @@
+{
+    "name": "Jan Paweł Kozłowski",
+    "psb_id": "PSB-15-0025",
+    "biogram_file": "Kozlowski_Jan_Pawel.txt",
+    "date_of_birth": {
+        "date": "1759-06-29"
+    },
+    "place_of_birth": {
+        "place": "Kraków"
+    },
+    "date_of_death": {
+        "date": "1839-12-05"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dominikanin",
+        "profesor UJ",
+        "wykładowca w zakonnych kolegiach dominikańskich",
+        "kaznodzieja w kolegiacie WW. Świętych",
+        "lektor",
+        "bakalaureat",
+        "doktor i magister św. teologii",
+        "regens w studium krakowskim",
+        "przeor",
+        "prowincjał obydwu Galicji",
+        "prowincjał Galicji wschodniej",
+        "prowincjał prowincji polskiej",
+        "kaznodzieja katedralny",
+        "egzaminator prosynodalny",
+        "zastępca profesora",
+        "profesor aktualny",
+        "dziekan Wydziału Teologicznego",
+        "członek Tow. Naukowego Krakowskiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum Św. Anny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zakon dominikanów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szkoła Główna Koronna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Studium generalne",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegiata WW. Świętych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium dominikańskie",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Uniwersytet Jagielloński",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Naukowe Krakowskie",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wojciech Kozłowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Cecylia Kozłowska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "J. P. Woronicz",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "B. Helbinowski",
+            "person_date": "1815",
+            "person_info": "kandydat na zastępcę profesora"
+        },
+        {
+            "person_name": "Buczyński",
+            "person_date": "1815",
+            "person_info": "kandydat na zastępcę profesora"
+        },
+        {
+            "person_name": "Karol Skórkowski",
+            "person_date": "1833",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "K. Gmeinerius",
+            "person_date": "1820",
+            "person_info": "zwolennik józefinizmu"
+        },
+        {
+            "person_name": "Rousseau",
+            "person_date": "brak danych",
+            "person_info": "filozof"
+        },
+        {
+            "person_name": "Dominik Markiewicz",
+            "person_date": "brak danych",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "F. Słotwiński",
+            "person_date": "1829",
+            "person_info": "profesor Wydziału Prawa"
+        },
+        {
+            "person_name": "J. Załuski",
+            "person_date": "brak danych",
+            "person_info": "kurator uniwersytetu"
+        },
+        {
+            "person_name": "Fenelon",
+            "person_date": "brak danych",
+            "person_info": "autor rozprawy"
+        },
+        {
+            "person_name": "de Ramsay",
+            "person_date": "brak danych",
+            "person_info": "kawaler"
+        },
+        {
+            "person_name": "Teodoret",
+            "person_date": "brak danych",
+            "person_info": "biskup Cyru"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1759-06-29"
+        },
+        {
+            "place": "Rzym",
+            "date": "1783-1786"
+        },
+        {
+            "place": "Lublin",
+            "date": "1789-1794"
+        },
+        {
+            "place": "Kraków",
+            "date": "1798"
+        }
+    ]
+}

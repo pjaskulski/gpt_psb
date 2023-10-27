@@ -1,0 +1,541 @@
+{
+    "name": "Ignacy Daszyński",
+    "psb_id": "PSB-04-0623",
+    "biogram_file": "Daszynski_Ignacy.txt",
+    "date_of_birth": {
+        "date": "1866-10-26"
+    },
+    "place_of_birth": {
+        "place": "Zbaraż"
+    },
+    "date_of_death": {
+        "date": "1936-10-31"
+    },
+    "place_of_death": {
+        "place": "Bystra"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków"
+    },
+    "functions": [
+        "pisarz u adwokata",
+        "guwerner w domu ziemiańskim",
+        "organizator stowarzyszeń socjalistycznych",
+        "redaktor »Gaz. Robotniczą«",
+        "założyciel galicyjskiej partii socjalno-demokratycznej",
+        "naczelny redaktor »Naprzodu«",
+        "poseł w parlamencie wiedeńskim",
+        "przewodniczący klubu socjalistycznego",
+        "wódz polskiego socjalizmu",
+        "radny m. Krakowa",
+        "przywódca polskiego klubu socjalistycznego",
+        "komisarz wojskowy w Miechowie",
+        "wiceprezes Sekcji Zachodniej N. K. N.",
+        "wiceprezes Koła Polskiego",
+        "członek Polskiej Komisji Likwidacyjnej",
+        "premier rządu",
+        "minister spraw zagranicznych",
+        "wicepremier rządu obrony narodowej",
+        "prezes Towarzystwa Uniwersytetu Robotniczego",
+        "marszałek sejmu",
+        "marszałek demokracji"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum w Stanisławowie",
+            "institution_place": "Stanisławów"
+        },
+        {
+            "institution_name": "Uniwersytet w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Stowarzyszenie socjalistyczne 'Siła'",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Gazeta Robotnicza",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Galicyjska Partia Socjalno-Demokratyczna",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Naprzód",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Parlament w Wiedniu",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "parlament",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Koło Polskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "rada miasta Krakowa",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "partia galicyjska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Komisja Tymczasowa Skonfederowanych Stronnictw Niepodległościowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Socjalistyczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Tymczasowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Naczelna Komisja Narodowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rząd Obrony Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Komisja Likwidacyjna",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rząd Lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Towarzystwo Uniwersytetu Robotniczego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kongres Centrolewu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Legiony",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sanatorium",
+            "institution_place": "Bystra"
+        },
+        {
+            "institution_name": "Związki polityczne i zawodowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Spółdzielnie i koła oświatowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stronnictwo demokratyczne",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Ferdynand Daszyński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Kamila Daszyńska z Mierzeńskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Feliks Daszyński"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Maria Daszyńska z Paszkowskich"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Cecylia Daszyńska z Kempnerów"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Agaton Giller",
+            "person_date": "brak danych",
+            "person_info": "emigrant z 1848 i 1863 roku"
+        },
+        {
+            "person_name": "Iwan Franko",
+            "person_date": "brak danych",
+            "person_info": "przedstawiciel socjalizmu ukraińskiego"
+        },
+        {
+            "person_name": "Al. Dębski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "St. Mendelson",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wilhelm Liebknecht",
+            "person_date": "brak danych",
+            "person_info": "niemiecki socjalista"
+        },
+        {
+            "person_name": "K. Badeni",
+            "person_date": "1896",
+            "person_info": "premier"
+        },
+        {
+            "person_name": "Kaz. Badeni",
+            "person_date": "brak danych",
+            "person_info": "starosta krakowski, namiestnik Galicji"
+        },
+        {
+            "person_name": "Schönerer",
+            "person_date": "brak danych",
+            "person_info": "narodowiec niemiecki"
+        },
+        {
+            "person_name": "Wolf",
+            "person_date": "brak danych",
+            "person_info": "narodowiec niemiecki"
+        },
+        {
+            "person_name": "Abrahamowicz",
+            "person_date": "brak danych",
+            "person_info": "przewodniczący izby"
+        },
+        {
+            "person_name": "Piniński",
+            "person_date": "brak danych",
+            "person_info": "namiestnik Galicji"
+        },
+        {
+            "person_name": "Wł. Studnicki",
+            "person_date": "1898",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Pernerstorfer",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adler",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Piłsudski",
+            "person_date": "1903",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wł. Jodko",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dębski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wł. Wasilewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kramarz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wł. Tetmajer",
+            "person_date": "1911",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "W. Feldman",
+            "person_date": "1911",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Diamand",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marek",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Moraczewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Lieberman",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Żuławski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piłsudski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "St. Grabski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tisza",
+            "person_date": "brak danych",
+            "person_info": "premier węgierski"
+        },
+        {
+            "person_name": "Biliński",
+            "person_date": "brak danych",
+            "person_info": "prezes Koła"
+        },
+        {
+            "person_name": "Bobrzyński",
+            "person_date": "brak danych",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "Abrahamowicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Czernin",
+            "person_date": "brak danych",
+            "person_info": "minister spraw zagranicznych"
+        },
+        {
+            "person_name": "Seidler",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Limanowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Narutowicz",
+            "person_date": "brak danych",
+            "person_info": "prezydent"
+        },
+        {
+            "person_name": "Dreszer",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kaz. Bartl",
+            "person_date": "brak danych",
+            "person_info": "kandydat rządowy"
+        },
+        {
+            "person_name": "Montwiłł-Mirecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piłsudski",
+            "person_date": "22 IX 1929",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Prezydent Rzpltej",
+            "person_date": "brak danych",
+            "person_info": "prezydent"
+        },
+        {
+            "person_name": "Bobrzyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dmowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zbaraż",
+            "date": "1866-10-26"
+        },
+        {
+            "place": "Stanisławów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Drohobycz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Podole",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łomża",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pułtusk",
+            "date": "1889"
+        },
+        {
+            "place": "Zurych",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stany Zjednoczone",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1891"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Biała",
+            "date": "1890"
+        },
+        {
+            "place": "Borysław",
+            "date": "1904"
+        },
+        {
+            "place": "Frysztak",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zurych",
+            "date": "1893"
+        },
+        {
+            "place": "Londyn",
+            "date": "1896"
+        },
+        {
+            "place": "Kraków",
+            "date": "1904"
+        },
+        {
+            "place": "Zakopane",
+            "date": "1905"
+        },
+        {
+            "place": "Miechów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stanach Zjednoczonych",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bazylea",
+            "date": "1912"
+        },
+        {
+            "place": "Lublin",
+            "date": "1918"
+        },
+        {
+            "place": "Kraków",
+            "date": "1919-02-22"
+        },
+        {
+            "place": "Łódź",
+            "date": "1920-07"
+        },
+        {
+            "place": "Kraków-wieś",
+            "date": "brak danych"
+        },
+        {
+            "place": "Plac Trzech Krzyży",
+            "date": "brak danych"
+        },
+        {
+            "place": "Skawina",
+            "date": "1931-08-15"
+        },
+        {
+            "place": "Bystra",
+            "date": "1931"
+        },
+        {
+            "place": "Budapeszt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sztutgart",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brema",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Północna Ameryka",
+            "date": "brak danych"
+        }
+    ]
+}

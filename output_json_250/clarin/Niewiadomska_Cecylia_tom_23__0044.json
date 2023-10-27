@@ -1,0 +1,65 @@
+{
+  "Nazwisko": [
+    "Niewiadomska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Cecylia"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Aspiro C. N."
+  ],
+  "Data urodzenia": [
+    "22-11-1855"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "12-06-1925"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz powązkowski"
+  ],
+  "Zawód": [
+    "pedagog",
+    "autorka i tłumaczka powieści i opowiadań dla dzieci i młodzieży"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "warszawski gimnazjum rządowy",
+    "koł kobieta korona i Litwa",
+    "liga narodowy",
+    "towarzysz . oświata narodowy",
+    "towarzystwo",
+    "polski macierz szkolny",
+    "PMS",
+    "stowarzyszenie nauczycielstwo polski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Julii z Wernerów",
+      "target": "Romana",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Stanisławem Szoberem",
+      "target": "Bogdanem Nawroczyńskim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

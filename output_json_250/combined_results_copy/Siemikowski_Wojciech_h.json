@@ -1,0 +1,227 @@
+{
+    "name": "Wojciech Siemikowski",
+    "psb_id": "PSB-37-0029",
+    "biogram_file": "Siemikowski_Wojciech_h.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Siemkowice",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1558"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": null,
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "scholastyk gnieźnieński",
+        "penitencjarz polski w Rzymie",
+        "kanonik wieluński",
+        "proboszcz w dobrach arcybiskupich w Borszewicach",
+        "kanonik łęczycki",
+        "konsyliarz",
+        "kanonik gnieźnieński",
+        "penitencjarz polski w bazylice św. Piotra w Rzymie",
+        "prokurator wszystkich spraw królewskich w Kurii Rzymskiej",
+        "kapłan"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rota Rzymska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Bazylika św. Piotra",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Kuria Rzymska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Kapituła gnieźnieńska",
+            "institution_place": "Gniezno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Siemikowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Łaski",
+            "person_date": "brak danych",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Piotr Tomicki",
+            "person_date": "1529",
+            "person_info": "podkanclerzy"
+        },
+        {
+            "person_name": "Piotr Porębski",
+            "person_date": "1529",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin Rembiewski",
+            "person_date": "brak danych",
+            "person_info": "krewny Jana Łaskiego"
+        },
+        {
+            "person_name": "Jan Korytkowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Farnese",
+            "person_date": "brak danych",
+            "person_info": "kardynał, nepot papieża Pawła III"
+        },
+        {
+            "person_name": "Mikołaj Grzymułtowski",
+            "person_date": "1539",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Rzeczyca",
+            "person_date": "1539",
+            "person_info": "agent polski w Rzymie"
+        },
+        {
+            "person_name": "Mikołaj Wolski",
+            "person_date": "1539",
+            "person_info": "ochmistrz królowej Bony"
+        },
+        {
+            "person_name": "Jan Latalski",
+            "person_date": "1540",
+            "person_info": "arcybiskup gnieźnieński"
+        },
+        {
+            "person_name": "Piotr Gamrat",
+            "person_date": "1540",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Stanisław Łaski",
+            "person_date": "1546",
+            "person_info": "wojewoda sieradzki"
+        },
+        {
+            "person_name": "Mikołaj Dzierzgowski",
+            "person_date": "1546",
+            "person_info": "arcybiskup"
+        },
+        {
+            "person_name": "Wojciech Staroźrebski",
+            "person_date": "1546",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Samuel Maciejowski",
+            "person_date": "1546",
+            "person_info": "biskup krakowski, kanclerz"
+        },
+        {
+            "person_name": "Bartłomiej Gądkowski",
+            "person_date": "1546",
+            "person_info": "archidiakon krakowski"
+        },
+        {
+            "person_name": "Paweł III",
+            "person_date": "1549",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Jan Tarnowski",
+            "person_date": "1549",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1549",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Wawrzyniec Warmuntowski",
+            "person_date": "1550",
+            "person_info": "poseł"
+        },
+        {
+            "person_name": "Stanisław Hozjusz",
+            "person_date": "1550",
+            "person_info": "administrator diecezji pomezańskiej"
+        },
+        {
+            "person_name": "Jerzy z Tyczyna",
+            "person_date": "1551",
+            "person_info": "penitencjarz"
+        },
+        {
+            "person_name": "A. Lippomano",
+            "person_date": "1556",
+            "person_info": "nuncjusz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Siemkowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1516-05-25"
+        },
+        {
+            "place": "Borszewice",
+            "date": "przed 1522"
+        },
+        {
+            "place": "Padwa",
+            "date": "1529"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polska",
+            "date": "czerwiec 1539"
+        },
+        {
+            "place": "Wilno",
+            "date": "wrzesień 1540"
+        },
+        {
+            "place": "Makowiska",
+            "date": "1541-10-10"
+        },
+        {
+            "place": "Bądkowo",
+            "date": "1541-10-10"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1546-06-17"
+        },
+        {
+            "place": "Polska",
+            "date": "połowa 1551"
+        }
+    ]
+}

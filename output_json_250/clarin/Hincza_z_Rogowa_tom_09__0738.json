@@ -1,0 +1,77 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Henryk"
+  ],
+  "Imię/imiona": null,
+  "Herb": [
+    "Działosza"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 29-09-1473"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "podskarbi królestwa",
+    "kasztelan sandomierski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Zofią (Sońką",
+      "target": "Jagiełły",
+      "name": "współmałżonek - współmałżonek"
+    },
+    {
+      "source": "H-y",
+      "target": "Henryk",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "H-y",
+      "target": "Jakub",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Spytka z Melsztyna",
+      "target": "Zbigniewa Oleśnickiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "H-y",
+      "target": "Oleśnickiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "H-y",
+      "target": "Maleczyńska",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "H-y",
+      "target": "H.",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Maleczyńska",
+      "target": "Oleśnickiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Maleczyńska",
+      "target": "H.",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "H-y",
+      "target": "Spytek",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

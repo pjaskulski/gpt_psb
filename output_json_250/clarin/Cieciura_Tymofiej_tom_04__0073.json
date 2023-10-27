@@ -1,0 +1,53 @@
+{
+  "Nazwisko": [
+    "Cieciura"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Tymofiej"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1669 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "zwany również Ciciurą",
+    "pułkownik perejasławski",
+    "z ramienia Moskwy hetman nakaźny lewobrzeżnej Ukrainy"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Cieciura Tymofiej",
+      "target": "Ciciurą",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Wyhowskiego",
+      "target": "Puszkarem",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "C.",
+      "target": "Wyhowskim",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "C-y",
+      "target": "Jerzy Niemirycz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "C-y",
+      "target": "Daniel Wyhowski",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

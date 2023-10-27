@@ -1,0 +1,140 @@
+{
+    "name": "Jan van der Campen",
+    "psb_id": "PSB-03-0325",
+    "biogram_file": "Campen_van_der.txt",
+    "date_of_birth": {
+        "date": "1490",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Kampen",
+        "note": "Overijssel"
+    },
+    "date_of_death": {
+        "date": "1538-09-07"
+    },
+    "place_of_death": {
+        "place": "Fryburg",
+        "note": "Brysgowia"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "filolog niderlandzki",
+        "hebraista",
+        "profesor Uniwersytetu w Lowanium",
+        "tłumacz",
+        "nauczyciel",
+        "wykładowca Akademii Krakowskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet w Lowanium",
+            "institution_place": "Lowanium"
+        },
+        {
+            "institution_name": "Collegium Trilingue",
+            "institution_place": "Lowanium"
+        },
+        {
+            "institution_name": "Drukarnia Petrejusa",
+            "institution_place": "Norymberga"
+        },
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Erazm z Rotterdamu",
+            "person_date": "brak danych",
+            "person_info": "inicjator powstania Kolegium"
+        },
+        {
+            "person_name": "Jan Dantyszek",
+            "person_date": "1530",
+            "person_info": "biskup-poeta, poseł Zygmunta I do cesarza Karola V"
+        },
+        {
+            "person_name": "Jan de Carondelet",
+            "person_date": "brak danych",
+            "person_info": "arcbiskup"
+        },
+        {
+            "person_name": "Piotr Tomicki",
+            "person_date": "1534",
+            "person_info": "biskup krakowski, protektor uczonych"
+        },
+        {
+            "person_name": "kard. Aleander",
+            "person_date": "1534",
+            "person_info": "znany lingwista"
+        },
+        {
+            "person_name": "Eliasz Levita",
+            "person_date": "brak danych",
+            "person_info": "słynny hebraista"
+        },
+        {
+            "person_name": "kard. Contarini",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kampen",
+            "date": "około 1490"
+        },
+        {
+            "place": "Deventer",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "1520"
+        },
+        {
+            "place": "Lowanium",
+            "date": "1522"
+        },
+        {
+            "place": "Niemcy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Norymberga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Polska",
+            "date": "brak danych"
+        },
+        {
+            "place": "Płock",
+            "date": "wrzesień 1533"
+        },
+        {
+            "place": "Piotrków",
+            "date": "styczeń 1534"
+        },
+        {
+            "place": "Iłża",
+            "date": "styczeń 1534"
+        },
+        {
+            "place": "Kraków",
+            "date": "luty 1534"
+        },
+        {
+            "place": "Wenecja",
+            "date": "koniec maja 1534"
+        }
+    ]
+}

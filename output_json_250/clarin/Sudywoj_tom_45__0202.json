@@ -1,0 +1,43 @@
+{
+  "Nazwisko": [
+    "Sudywoj"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Sędziwój"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "02-04-1459 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan wileński",
+    "namiestnik smoleński",
+    "kanclerz wielkiego księcia"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Świdrygiełły",
+      "target": "Gudygierda",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Wolimuntowiczów",
+      "target": "Jagiełły",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Władysława Jagiełłę",
+      "target": "Jerzym Butrymem",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

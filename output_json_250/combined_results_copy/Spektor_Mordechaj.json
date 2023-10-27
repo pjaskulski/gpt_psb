@@ -1,0 +1,209 @@
+{
+    "name": "Mordechaj Spektor",
+    "psb_id": "PSB-41-0037",
+    "biogram_file": "Spektor_Mordechaj.txt",
+    "date_of_birth": {
+        "date": "1858-05-05"
+    },
+    "place_of_birth": {
+        "place": "Human",
+        "note": "gubernia kijowska"
+    },
+    "date_of_death": {
+        "date": "1925-03-15"
+    },
+    "place_of_death": {
+        "place": "Nowy Jork"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pisarz",
+        "publicysta",
+        "wydawca",
+        "współredaktor gazety 'Jidišes folksblat'",
+        "wydawca rocznika 'Der hojz-frajnd'",
+        "wydawca czasopisma 'Der familjen frajnd'",
+        "redaktor gazetek świątecznych 'Jom-tov-blettlech'",
+        "redaktor almanachów 'Der vider-kol', 'Di lantern'",
+        "redaktor dwutygodnika 'Der jud'",
+        "redaktor tygodników 'Di jidisze folkscajtung', 'Frajtag', 'Die cajt'",
+        "redaktor dziennika 'Die noje weit'",
+        "redaktor odpowiedzialny dziennika 'Unzer leben'",
+        "współpracownik dziennika 'Der moment' i 'Der frajnd'",
+        "publicysta tygodnika 'Izraelita'",
+        "wydawca pism żydowskich 'Di cajt', 'Jidišer tageblat' w Nowym Jorku"
+    ],
+    "institutions": [
+        {
+            "institution_name": "bet-hamidrasz",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "rządowa szkoła rabinów",
+            "institution_place": "Żytomierz"
+        },
+        {
+            "institution_name": "Jidišes folksblat",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Der hojz-frajnd",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Der familjen frajnd",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Jom-tov-blettlech",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Der jud",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Di jidisze folkscajtung",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Frajtag",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Die cajt",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Die noje weit",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Unzer leben",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Der moment",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Der frajnd",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Izraelita",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Di cajt",
+            "institution_place": "Nowy Jork"
+        },
+        {
+            "institution_name": "Jidišer tageblat",
+            "institution_place": "Nowy Jork"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "kramarz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "wuj",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "brat",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Izabela Frydberg"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Chaim Zelig Słonimski",
+            "person_date": "1873",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "C. Winder",
+            "person_date": "brak danych",
+            "person_info": "rosyjski matematyk i inżynier wojskowy"
+        },
+        {
+            "person_name": "E. Cwajfel",
+            "person_date": "brak danych",
+            "person_info": "żydowski pisarz"
+        },
+        {
+            "person_name": "A. Cederbaum",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ignacy Bernstein",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Icchok Lejbusz Perec",
+            "person_date": "1894",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dawid Pinski",
+            "person_date": "1894",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Chaim Dawid Hurwitz",
+            "person_date": "1902–3",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Human",
+            "date": "1858-05-05"
+        },
+        {
+            "place": "Żytomierz",
+            "date": "do 1873"
+        },
+        {
+            "place": "Winnica",
+            "date": "1878"
+        },
+        {
+            "place": "Międzybórz",
+            "date": "1881"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1887"
+        },
+        {
+            "place": "Odesa",
+            "date": "1914"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "1920-1925"
+        }
+    ]
+}

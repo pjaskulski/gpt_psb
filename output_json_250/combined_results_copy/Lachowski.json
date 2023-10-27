@@ -1,0 +1,148 @@
+{
+    "name": "Andrzej Łachowski",
+    "psb_id": "PSB-18-0120",
+    "biogram_file": "Lachowski.txt",
+    "date_of_birth": {
+        "date": "1627"
+    },
+    "place_of_birth": {
+        "place": "Mękarzów",
+        "note": "powiat lelowski"
+    },
+    "date_of_death": {
+        "date": "1691-08-06"
+    },
+    "place_of_death": {
+        "place": "Koloszwar",
+        "note": "obecnie Cluj, Rumunia"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Koloszwar",
+        "note": "główny kościół unitariański"
+    },
+    "functions": [
+        "minister ariański",
+        "organizator zboru wygnańczego w Koloszwarze",
+        "nauczyciel",
+        "minister",
+        "pomocnik Marcina Ruara",
+        "przywódca braci polskich",
+        "wykładowca w Kolegium Unitariańskim w Koloszwarze",
+        "minister autonomicznego zboru braci polskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kolegium Unitariańskie",
+            "institution_place": "Koloszwar"
+        },
+        {
+            "institution_name": "Zbór Braci Polskich",
+            "institution_place": "Koloszwar"
+        },
+        {
+            "institution_name": "Gmina Egzulantów",
+            "institution_place": "Koloszwar"
+        },
+        {
+            "institution_name": "Kościół Unitariański",
+            "institution_place": "Koloszwar"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Dawid Łachowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Maria Anna Lubieniecka"
+        },
+        {
+            "family_relation": "babcia",
+            "person": "Nieznana Moskorzowska"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Gucci"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Hieronim Moskorzowski",
+            "person_date": "brak danych",
+            "person_info": "teolog socyniański"
+        },
+        {
+            "person_name": "Jerzy Niemirycz",
+            "person_date": "1647",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin Ruar",
+            "person_date": "1652",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Teofil Morsztyn",
+            "person_date": "1661",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Piotr Taszycki",
+            "person_date": "1661",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Seweryn Morsztyn",
+            "person_date": "1662",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Servet",
+            "person_date": "1666",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zofia Gucci",
+            "person_date": "brak danych",
+            "person_info": "socynianka, pochodząca z osiadłej w Polsce rodziny włoskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mękarzów",
+            "date": "1627"
+        },
+        {
+            "place": "Kijowszczyzna",
+            "date": "1647-1651"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "1652"
+        },
+        {
+            "place": "Lusławice",
+            "date": "1653"
+        },
+        {
+            "place": "Kraków",
+            "date": "1657"
+        },
+        {
+            "place": "Rożnów",
+            "date": "1660"
+        },
+        {
+            "place": "Kluczbork",
+            "date": "1661"
+        },
+        {
+            "place": "Koloszwar",
+            "date": "1663-1691"
+        }
+    ]
+}

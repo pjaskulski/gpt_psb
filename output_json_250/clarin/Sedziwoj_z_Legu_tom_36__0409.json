@@ -1,0 +1,70 @@
+{
+  "Nazwisko": [
+    "Sędziwój"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": [
+    "Dołęga"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "15-11-1442"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kustosz krakowski",
+    "kanonik poznański"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak .",
+    "kuria rzymski",
+    "stolica apostolski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Bernardem",
+      "target": "Świętosława",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Dołęgów",
+      "target": "Pawłowi Włodkowicowi",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "S-a",
+      "target": "Marcin V",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S.",
+      "target": "Marcin V",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-a",
+      "target": "Paweł Włodkowic",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "S-a.",
+      "target": "S-a",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-a.",
+      "target": "Paweł Włodkowic",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+    "name": "Jerzy Włodzimierz Świrski",
+    "psb_id": "PSB-51-0325",
+    "biogram_file": "Swirski_Jerzy_Wlodzimierz.txt",
+    "date_of_birth": {
+        "date": "1882-04-05"
+    },
+    "place_of_birth": {
+        "place": "Kalisz"
+    },
+    "date_of_death": {
+        "date": "1959"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Londyn",
+        "note": "Brompton Cemetery"
+    },
+    "functions": [
+        "wiceadmirał",
+        "szef Kierownictwa Marynarki Wojennej RP",
+        "słuchacz Korpusu Kadetów",
+        "oficer wachtowy",
+        "młodszy nawigator",
+        "oficer nawigacyjny",
+        "zastępca attaché morskiego ambasady rosyjskiej",
+        "główny oficer nawigacyjny w sztabie Dowództwa Floty Czarnomorskiej",
+        "kapitan II rangi",
+        "kapitan I rangi",
+        "szef Głównego Sztabu Morskiego w Min. Marynarki",
+        "kierownik Ligi Odrodzenia Marynarki Polskiej",
+        "ekspert ds. morskich Sekcji Wojskowej Komitetu Narodowego Polskiego",
+        "szef sekcji organizacyjnej Dep. dla Spraw Morskich (DSM) MSWojsk",
+        "zastępca szefa DSM",
+        "dowódca Wybrzeża Morskiego",
+        "komandor",
+        "dowódca Floty",
+        "szef Kierownictwa Marynarki Wojennej",
+        "kontradmirał",
+        "wiceprezes Instytutu Historycznego im. gen. Sikorskiego w Londynie",
+        "członek Koła Generałów i Pułkowników",
+        "członek brytyjskiej loży masońskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Korpus Kadetów",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Morski Korpus Kadetów",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Flota Bałtycka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Flota Czarnomorska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Główny Sztab Morski",
+            "institution_place": "Min. Marynarki"
+        },
+        {
+            "institution_name": "Komitet Naczelny i Dowództwo Wojsk Polskich na Wschodzie",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Liga Odrodzenia Marynarki Polskiej",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Sekcja Wojskowa Komitetu Narodowego Polskiego",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Dep. dla Spraw Morskich (DSM) MSWojsk",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja (Komitet?) Budowy Portu Wojennego",
+            "institution_place": "Gdynia"
+        },
+        {
+            "institution_name": "Kierownictwo Marynarki Wojennej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Główna Ligi Morskiej i Kolonialnej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kwatera Główna Naczelnego Wodza",
+            "institution_place": "Kołomyja"
+        },
+        {
+            "institution_name": "Kierownictwo Marynarki Wojennej",
+            "institution_place": "Pińsk"
+        },
+        {
+            "institution_name": "Morski Sąd Wojenny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Misja Wojskowa",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Admiralicja brytyjska",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "ORP «Gdynia»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkola Podchorążych Marynarki Wojennej",
+            "institution_place": "Toruń"
+        },
+        {
+            "institution_name": "Kierownictwo Marynarki Wojennej RP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkoła realna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Polski Korpus Przysposobienia i Rozmieszczenia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Admiralicja",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Historyczny im. gen. Sikorskiego",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Koło Generałów i Pułkowników",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Egzekutywa Zjednoczenia Narodowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Loża masońska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Brompton Cemetery",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Kościół p. wezw. św. Michała Archanioła",
+            "institution_place": "Gdynia"
+        },
+        {
+            "institution_name": "Cmentarz Marynarki Wojennej",
+            "institution_place": "Gdynia"
+        },
+        {
+            "institution_name": "Morska Straż Graniczna",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Sztab odeskiego oddziału Morskiej Straży Granicznej",
+            "institution_place": "Odesa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Włodzimierz Świrski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Celina Świrska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Małgorzata Świrska"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Maria Konopnicka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Maria Wiercińska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Pawło Skoropadski",
+            "person_date": "1918",
+            "person_info": "hetman Państwa Ukraińskiego"
+        },
+        {
+            "person_name": "Józef Haller",
+            "person_date": "1919",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Kazimierz Porębski",
+            "person_date": "1919",
+            "person_info": "kontradmirał"
+        },
+        {
+            "person_name": "Władysław Sikorski",
+            "person_date": "1926",
+            "person_info": "generał, minister spraw wojskowych"
+        },
+        {
+            "person_name": "Józef Unrug",
+            "person_date": "1939",
+            "person_info": "kontradmirał"
+        },
+        {
+            "person_name": "Edward Rydz-Śmigły",
+            "person_date": "1939",
+            "person_info": "marszałek, Naczelny Wódz"
+        },
+        {
+            "person_name": "Ksawery Czernicki",
+            "person_date": "1939",
+            "person_info": "kontradmirał"
+        },
+        {
+            "person_name": "Karol Korytowski",
+            "person_date": "1939",
+            "person_info": "kontradmirał"
+        },
+        {
+            "person_name": "August Zaleski",
+            "person_date": "1939",
+            "person_info": "minister spraw zagranicznych"
+        },
+        {
+            "person_name": "Władysław Raczkiewicz",
+            "person_date": "1940",
+            "person_info": "Prezydent RP"
+        },
+        {
+            "person_name": "Leon Mitkiewicz",
+            "person_date": "1940",
+            "person_info": "pułkownik, szef Polskiej Misji Wojskowej w Londynie"
+        },
+        {
+            "person_name": "Bogusław Krawczyk",
+            "person_date": "1941",
+            "person_info": "komandor porucznik, dowódca ORP 'Wilk'"
+        },
+        {
+            "person_name": "Władysław Anders",
+            "person_date": "15 III 1946",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Stanisław Kopański",
+            "person_date": "15 III 1946",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Stanisław Maczek",
+            "person_date": "15 III 1946",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Klemens Rudnicki",
+            "person_date": "15 III 1946",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Józef Wiatr",
+            "person_date": "15 III 1946",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Maciej Iżycki",
+            "person_date": "15 III 1946",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "E. Bevin",
+            "person_date": "15 III 1946",
+            "person_info": "minister spraw zagranicznych Wielkiej Brytanii"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kalisz",
+            "date": "1882"
+        },
+        {
+            "place": "Dęblin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1891"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1893"
+        },
+        {
+            "place": "Petersburg",
+            "date": "1899"
+        },
+        {
+            "place": "Ateny",
+            "date": "1914"
+        },
+        {
+            "place": "Berlin",
+            "date": "1918"
+        },
+        {
+            "place": "Odesa",
+            "date": "1918"
+        },
+        {
+            "place": "Paryż",
+            "date": "1919"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1919"
+        },
+        {
+            "place": "Puck",
+            "date": "1920"
+        },
+        {
+            "place": "Gdynia",
+            "date": "1924"
+        },
+        {
+            "place": "Nicea",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1939"
+        },
+        {
+            "place": "Pińsk",
+            "date": "1939"
+        },
+        {
+            "place": "Kołomyja",
+            "date": "1939"
+        },
+        {
+            "place": "Kuty",
+            "date": "1939"
+        },
+        {
+            "place": "Bukareszt",
+            "date": "1939"
+        },
+        {
+            "place": "Modena",
+            "date": "1939"
+        },
+        {
+            "place": "Mediolan",
+            "date": "1939"
+        },
+        {
+            "place": "Paryż",
+            "date": "1939"
+        },
+        {
+            "place": "Londyn",
+            "date": "1939"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "1943"
+        },
+        {
+            "place": "Wembley",
+            "date": "brak danych"
+        },
+        {
+            "place": "Londyn",
+            "date": "1959"
+        }
+    ]
+}

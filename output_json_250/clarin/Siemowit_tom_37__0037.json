@@ -1,0 +1,35 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "IX"
+  ],
+  "Imię/imiona": [
+    "Siemowit"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "domniemany książę polański",
+    "o którym wiadomości występują tylko w podaniu o początkach dynastii piastowskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "S-a",
+      "target": "Kadłubek",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S.",
+      "target": "Piasta",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

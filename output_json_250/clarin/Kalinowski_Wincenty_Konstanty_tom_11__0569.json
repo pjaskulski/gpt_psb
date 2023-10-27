@@ -1,0 +1,53 @@
+{
+  "Nazwisko": [
+    "Kalinowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Konstanty",
+    "Wincenty"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Chamowicz",
+    "Jasko"
+  ],
+  "Data urodzenia": [
+    "21-01-1838"
+  ],
+  "Miejsce urodzenia": [
+    "Mostowlanach"
+  ],
+  "Data śmierci": [
+    "DD-MM-1864"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "działacz rewolucyjny w powstaniu styczniowym na Litwie i Białorusi"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "wydział prawo"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Chamowicz",
+      "target": "Jasko haspadar spad Wilni",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Chamowicz",
+      "target": "Wasyl Switka",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "K.",
+      "target": "Wiktor",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

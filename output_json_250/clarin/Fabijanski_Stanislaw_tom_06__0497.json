@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Fabijański"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1865"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1947"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "art"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "szkoła sztuka piękny",
+    "Meisterschuli",
+    "akademia",
+    "towarzystwo przyjaciel sztuka piękny",
+    "muzeum narodowy w Kraków",
+    "muzeum w Irkuck",
+    "muzeum w Lwów"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Marconiego",
+      "target": "Starkowskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Jabłońskiego",
+      "target": "Łuszczkiewicza",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

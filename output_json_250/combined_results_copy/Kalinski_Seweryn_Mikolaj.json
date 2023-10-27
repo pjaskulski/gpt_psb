@@ -1,0 +1,237 @@
+{
+    "name": "Seweryn Mikołaj Kaliński",
+    "psb_id": "PSB-11-0577",
+    "biogram_file": "Kalinski_Seweryn_Mikolaj.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "rotmistrz królewski",
+        "starosta bracławski",
+        "dowódca chorągwi pancernej",
+        "dzierżawca wsi Hołodki",
+        "pułkownik",
+        "posłaniec",
+        "podkomorzy bracławski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "wojsko kwarciane",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "pułk chorążego kor. Aleksandra Koniecpolskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "starostwo barskie",
+            "institution_place": "Bar"
+        },
+        {
+            "institution_name": "starostwo bracławskie",
+            "institution_place": "Bracław"
+        },
+        {
+            "institution_name": "armia szwedzka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "korpus gen. Müllera",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "klasztor jasnogórski",
+            "institution_place": "Częstochowa"
+        },
+        {
+            "institution_name": "wojsko Stefana Czarnieckiego",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Kaliński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Elżbieta Oborska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jakub Kaliński"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Marianna Wiktoria Białyńska"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "matka Marianny Wiktorii Białyńskiej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Konstanty Kaliński"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Andrzej Gołyński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Aleksander Koniecpolski",
+            "person_date": "brak danych",
+            "person_info": "chorąży koronny"
+        },
+        {
+            "person_name": "Mikołaj Potocki",
+            "person_date": "1648",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Bohdan Chmielnicki",
+            "person_date": "1648",
+            "person_info": "przywódca powstania chłopów ukraińskich"
+        },
+        {
+            "person_name": "M. Zaćwilichowski",
+            "person_date": "1648",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "P. Głowacki",
+            "person_date": "1648",
+            "person_info": "przywódca oddziałów kozackich"
+        },
+        {
+            "person_name": "Krzywonos",
+            "person_date": "1648",
+            "person_info": "przywódca oddziałów kozackich"
+        },
+        {
+            "person_name": "Marcin Kalinowski",
+            "person_date": "1652",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Wittenberg",
+            "person_date": "1655",
+            "person_info": "feldmarszałek"
+        },
+        {
+            "person_name": "Karol Gustaw",
+            "person_date": "1655",
+            "person_info": "król Szwecji"
+        },
+        {
+            "person_name": "Müller",
+            "person_date": "1655",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Jan Zbrożek",
+            "person_date": "1655",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Douglas",
+            "person_date": "1655",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "Stefan Czarniecki",
+            "person_date": "1656",
+            "person_info": "wojskowy, hetman"
+        },
+        {
+            "person_name": "Jan Sapieha",
+            "person_date": "1656",
+            "person_info": "wojskowy, hetman"
+        },
+        {
+            "person_name": "G. Silnicki",
+            "person_date": "1663",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Gołyński",
+            "person_date": "1667",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Konstanty Kaliński",
+            "person_date": "brak danych",
+            "person_info": "podkomorzy bracławski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Bar",
+            "date": "1648"
+        },
+        {
+            "place": "Ostrog",
+            "date": "1648"
+        },
+        {
+            "place": "Konstantynów",
+            "date": "1648-09-18"
+        },
+        {
+            "place": "Niedźwica",
+            "date": "1649"
+        },
+        {
+            "place": "Hołodki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Beresteczko",
+            "date": "1651"
+        },
+        {
+            "place": "Batoh",
+            "date": "1652"
+        },
+        {
+            "place": "Kraków",
+            "date": "1655-10-26"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "1655-12-17"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nisko",
+            "date": "1656-03-29"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1656"
+        }
+    ]
+}

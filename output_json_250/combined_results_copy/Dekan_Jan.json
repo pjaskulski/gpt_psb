@@ -1,0 +1,91 @@
+{
+    "name": "Jan Dekan",
+    "psb_id": "PSB-05-0068",
+    "biogram_file": "Dekan_Jan.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "mieszczanin",
+        "radny w Lesznie Wielkopolskim",
+        "tłumacz",
+        "sługa Abrahama Ciświckiego",
+        "obywatel Leszna",
+        "były radny Leszna",
+        "philomathes"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Rada Miejska",
+            "institution_place": "Leszno"
+        },
+        {
+            "institution_name": "Drukarnia Daniela Vetterusa",
+            "institution_place": "Leszno"
+        },
+        {
+            "institution_name": "Zamek w Zbąszyniu",
+            "institution_place": "Zbąszyń"
+        },
+        {
+            "institution_name": "Pałac w Grójcu Wielkopolskim",
+            "institution_place": "Grójec Wielkopolski"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Abraham Ciświcki",
+            "person_date": "brak danych",
+            "person_info": "kasztelan śremski"
+        },
+        {
+            "person_name": "Daniel Vetterus",
+            "person_date": "1643",
+            "person_info": "wydawca"
+        },
+        {
+            "person_name": "Zygmunt III",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "F. Siarczyński",
+            "person_date": "1828",
+            "person_info": "twórca legendy o Dekanie Janie"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Leszno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Antwerpia",
+            "date": "1613"
+        },
+        {
+            "place": "Zbąszyń",
+            "date": "1632"
+        },
+        {
+            "place": "Grójec Wielkopolski",
+            "date": "brak danych"
+        }
+    ]
+}

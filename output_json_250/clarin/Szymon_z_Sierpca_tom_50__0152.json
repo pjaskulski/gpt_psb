@@ -1,0 +1,47 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Szymon"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Sierpc"
+  ],
+  "Data śmierci": [
+    "13-07-1512"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "magister sztuk wyzwolonych",
+    "profesor Uniwersytetu Krakowskiego"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet krakowski",
+    "Uniw . Krak .",
+    "Wydz . sztuka wyzwolony",
+    "kolegium mały"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Mikołaja",
+      "target": "S.",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Georga von Peurbacha",
+      "target": "Wojciecha z Brudzewa",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

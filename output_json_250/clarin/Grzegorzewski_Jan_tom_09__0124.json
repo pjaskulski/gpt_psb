@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Grzegorzewski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Janko",
+    "Algra"
+  ],
+  "Data urodzenia": [
+    "około DD-MM-1850"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "15-11-1922"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "literat",
+    "slawista",
+    "orientalista"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "instytut Łazarewskim",
+    "Sokół",
+    "towarzysz . wzajemny pomoc przewodnik tatrzański"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Janko",
+      "target": "Algra",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-[
+    [
     {
         "family_relation": "ojciec",
         "person": "Stanisław Poniatowski",
@@ -43,7 +43,8 @@
     {
         "family_relation": "bratanica",
         "person": "Maria Teresa Poniatowska",
-        "result": true
+        "result": true,
+        "pj_note": "W tekście: S. nie chciał początkowo wysyłać poselstwa z podziękowaniem za traktat. Uzyskawszy przynajmniej to, że nie miało być ono wieloosobowe, zgodził się na powierzenie go marsz. w. lit. Ludwikowi Tyszkiewiczowi, mężowi swej bratanicy Marii Teresy. - ale Tyszkiewicz był żonaty z Konstancją córką Kazimierza Poniatowskiego?"
     },
     {
         "family_relation": "siostrzeniec",

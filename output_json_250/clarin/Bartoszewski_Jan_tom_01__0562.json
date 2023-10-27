@@ -1,0 +1,45 @@
+{
+  "Nazwisko": [
+    "Bartoszewski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "18-01-1852"
+  ],
+  "Miejsce urodzenia": [
+    "Lwowie"
+  ],
+  "Data śmierci": [
+    "13-12-1920"
+  ],
+  "Miejsce śmierci": [
+    "Lwowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "ksiądz gr. kat"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet lwowski",
+    "uniwersytet wiedeński",
+    "ministerstwo wiek . i O .",
+    "konsystorz Metropol .",
+    "Metropol . kapituła",
+    "Metrop ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": null
+}

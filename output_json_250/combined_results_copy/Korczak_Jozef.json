@@ -1,0 +1,155 @@
+{
+    "name": "Józef Korczak",
+    "psb_id": "PSB-14-0032",
+    "biogram_file": "Korczak_Jozef.txt",
+    "date_of_birth": {
+        "date": "1891-01-09"
+    },
+    "place_of_birth": {
+        "place": "Dąbrówka",
+        "note": "powiat janowski, ziemia lubelska"
+    },
+    "date_of_death": {
+        "date": "1920-10-18"
+    },
+    "place_of_death": {
+        "place": "Michniszki",
+        "note": "pobliżu Nowych Trok, ziemia wileńska"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "działacz niepodległościowy",
+        "poeta",
+        "członek Organizacji Młodzieży Narodowej",
+        "członek Związku Strzeleckiego",
+        "żołnierz Oddziału Lotnego Wojsk Polskich",
+        "komendant okręgu Polskiej Organizacji Wojskowej (POW)",
+        "zastępca komendanta okręgu Polskiej Organizacji Wojskowej (POW)",
+        "członek Polskiej Partii Socjalistycznej (PPS)",
+        "członek Wydziału Pogotowia Pogotowia Bojowego PPS",
+        "podporucznik Wojska Polskiego",
+        "inspektor główny Milicji Ludowej",
+        "pracownik referatu prasowego Ministerstwa Spraw Wojskowych",
+        "student Wolnej Wszechnicy Polskiej",
+        "student uniwersytetu",
+        "dowódca plutonu 201 pułku piechoty",
+        "dowódca kompanii na froncie litewsko-polskim"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Organizacja Młodzieży Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Strzelecki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Oddział Lotny Wojsk Polskich",
+            "institution_place": "Lubelszczyzna"
+        },
+        {
+            "institution_name": "Polska Organizacja Wojskowa",
+            "institution_place": "Siedlce"
+        },
+        {
+            "institution_name": "I Brygada Legionów Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Socjalistyczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Pogotowie Bojowe PPS",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wojsko Polskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Milicja Ludowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ministerstwo Spraw Wojskowych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wolna Wszechnica Polska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "201 Pułk Piechoty",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Korczak"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Rozalia Korczak"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Kazimierz Bagiński",
+            "person_date": "listopad 1914",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "gen. L. Żeligowski",
+            "person_date": "1920",
+            "person_info": "generał"
+        },
+        {
+            "person_name": "A. Strug",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Hołówka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Dąbrówka",
+            "date": "1891-01-09"
+        },
+        {
+            "place": "Siedlce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lubelszczyzna",
+            "date": "1914-11"
+        },
+        {
+            "place": "Siedlce",
+            "date": "1915-04"
+        },
+        {
+            "place": "Płock",
+            "date": "brak danych"
+        }
+    ]
+}

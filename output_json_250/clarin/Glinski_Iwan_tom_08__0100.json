@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Gliński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Iwan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- DD-MM-1522"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wojewoda kijowski",
+    "później nowogrodzki",
+    "był synem Lwa Borysowicza",
+    "a bratem rodzonym Michała",
+    "marszałka nadwornego"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Mamaj",
+      "target": "Lwa Borysowicza",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Helenę",
+      "target": "Iwana III",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Aleksandra",
+      "target": "Michał",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Szach Achmata",
+      "target": "Michał",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "G.",
+      "target": "Zygmunta I",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

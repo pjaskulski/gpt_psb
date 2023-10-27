@@ -1,0 +1,300 @@
+{
+    "name": "Marianna Ewa Puttkamerowa",
+    "psb_id": "PSB-29-0315",
+    "biogram_file": "Puttkamerowa_z_Wereszczakow.txt",
+    "date_of_birth": {
+        "date": "1799"
+    },
+    "place_of_birth": {
+        "place": "Tuhanowicze",
+        "note": "powiat nowogródzki"
+    },
+    "date_of_death": {
+        "date": "1863-12-28"
+    },
+    "place_of_death": {
+        "place": "Brażele", 
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Bieniakonie", 
+        "note": "przy kościele parafialnym"
+    },
+    "functions": [
+        "kompozytorka",
+        "nauczycielka języka francuskiego i włoskiego",
+        "nauczycielka muzyki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Antoni Wereszczak"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Franciszka z Ancutów"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Wawrzyniec Puttkamer"
+        },
+        {
+            "family_relation": "brat cioteczny",
+            "person": "Ignacy Domeyko"
+        },
+        {
+            "family_relation": "bracia",
+            "person": "Józef Wereszczak, Michał Wereszczak"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia Puttkamer"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Karolina Puttkamer"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Puttkamer"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Ksawery Deybel"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Adam Mickiewicz",
+            "person_date": "sierpień 1820",
+            "person_info": "poeta, miłość młodzieńcza"
+        },
+        {
+            "person_name": "Karolina Kowalska",
+            "person_date": "wiosna 1821",
+            "person_info": "doktorowa, romans"
+        },
+        {
+            "person_name": "Franciszek Malewski",
+            "person_date": "4 września 1821",
+            "person_info": "przyjaciel, poeta"
+        },
+        {
+            "person_name": "Józef Jeżowski",
+            "person_date": "4 września 1821",
+            "person_info": "przyjaciel"
+        },
+        {
+            "person_name": "Jan Czeczot",
+            "person_date": "28 września 1822",
+            "person_info": "przyjaciel, poeta"
+        },
+        {
+            "person_name": "Tomasz Zan",
+            "person_date": "1822",
+            "person_info": "przyjaciel, poeta"
+        },
+        {
+            "person_name": "Onufry Pietraszkiewicz",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel, skazany na pobyt w Rosji"
+        },
+        {
+            "person_name": "Marceli Szymański",
+            "person_date": "3 kwietnia 1833",
+            "person_info": "emisariusz"
+        },
+        {
+            "person_name": "Józef Szczapiński",
+            "person_date": "3 kwietnia 1833",
+            "person_info": "doktor medycyny, znajomy na emigracji we Francji"
+        },
+        {
+            "person_name": "Ignacy Domeyko",
+            "person_date": "31 października 1830",
+            "person_info": "przyjaciel, poeta"
+        },
+        {
+            "person_name": "Juliusz Słowacki",
+            "person_date": "brak danych",
+            "person_info": "poeta"
+        },
+        {
+            "person_name": "Maria Szymanowska",
+            "person_date": "1853",
+            "person_info": "pianistka, kompozytorka"
+        },
+        {
+            "person_name": "Józef Zaliwski",
+            "person_date": "3 kwietnia 1833",
+            "person_info": "generał, organizator wyprawy do kraju"
+        },
+        {
+            "person_name": "A. E. Odyniec",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt Sarnecki",
+            "person_date": "1899",
+            "person_info": "autor utworów literackich"
+        },
+        {
+            "person_name": "Krystyna Grzybowska",
+            "person_date": "1946",
+            "person_info": "autorka utworów literackich"
+        },
+        {
+            "person_name": "Aleksander Maliszewski",
+            "person_date": "1955",
+            "person_info": "autor utworów literackich"
+        },
+        {
+            "person_name": "Alina Świderska",
+            "person_date": "1955",
+            "person_info": "autorka powieści biograficznych"
+        },
+        {
+            "person_name": "Ksawery Pruszyński",
+            "person_date": "1956",
+            "person_info": "autor powieści biograficznych"
+        },
+        {
+            "person_name": "Mieczysław Jastrun",
+            "person_date": "1949",
+            "person_info": "autor powieści biograficznych"
+        },
+        {
+            "person_name": "Kazimierz Wierzyński",
+            "person_date": "1938",
+            "person_info": "autor utworów lirycznych"
+        },
+        {
+            "person_name": "Jan Lechoń",
+            "person_date": "1945",
+            "person_info": "autor utworów lirycznych"
+        },
+        {
+            "person_name": "Ryszard Krynicki",
+            "person_date": "1975",
+            "person_info": "autor utworów lirycznych"
+        },
+        {
+            "person_name": "Teodor Bujnicki",
+            "person_date": "1938",
+            "person_info": "autor parodii"
+        },
+        {
+            "person_name": "Artur Maria Swinarski",
+            "person_date": "1955",
+            "person_info": "autor parodii"
+        },
+        {
+            "person_name": "Stanisław Pigoń",
+            "person_date": "brak danych",
+            "person_info": "historyk literatury"
+        },
+        {
+            "person_name": "Maria Czapska",
+            "person_date": "brak danych",
+            "person_info": "historyk literatury"
+        },
+        {
+            "person_name": "J. Kleiner",
+            "person_date": "brak danych",
+            "person_info": "autor monografii mickiewiczowskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Tuhanowicze",
+            "date": "1799-12-24"
+        },
+        {
+            "place": "Tuhanowicze",
+            "date": "1820"
+        },
+        {
+            "place": "Tuhanowicze",
+            "date": "1821-02-02"
+        },
+        {
+            "place": "Kowno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Płużyny",
+            "date": "1821"
+        },
+        {
+            "place": "Wilno",
+            "date": "1821"
+        },
+        {
+            "place": "Bolcieniki",
+            "date": "1821"
+        },
+        {
+            "place": "Drezno",
+            "date": "1823"
+        },
+        {
+            "place": "Wilno",
+            "date": "1823"
+        },
+        {
+            "place": "Wilno",
+            "date": "1824"
+        },
+        {
+            "place": "Jaszuny",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bolcieniki",
+            "date": "1833"
+        },
+        {
+            "place": "Bolcienik-Brażele",
+            "date": "1833"
+        },
+        {
+            "place": "Wiłkomierz",
+            "date": "1839"
+        },
+        {
+            "place": "Bolcieniki",
+            "date": "1841"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brażele",
+            "date": "1863"
+        },
+        {
+            "place": "Bieniakonie",
+            "date": "1863"
+        },
+        {
+            "place": "Lozanna",
+            "date": "1839 lub 1840"
+        },
+        {
+            "place": "Splügen",
+            "date": "brak danych"
+        }
+    ]
+}

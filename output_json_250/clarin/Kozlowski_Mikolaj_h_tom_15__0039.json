@@ -1,0 +1,48 @@
+{
+  "Nazwisko": [
+    "Kozłowski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Kozłowski",
+    "Coszlowski"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": [
+    "Lis"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Kozłowy"
+  ],
+  "Data śmierci": [
+    "06-11-1443"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "profesor i rektor Uniw. Krak"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak .",
+    "wydział sztuka wyzwolić",
+    "uniwersytet praski",
+    "Uniw ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "K-ego",
+      "target": "Piotrem",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

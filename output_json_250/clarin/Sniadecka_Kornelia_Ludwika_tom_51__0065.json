@@ -1,0 +1,79 @@
+{
+  "Nazwisko": [
+    "Śniadecka"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Sadyk",
+    "Sadykowa"
+  ],
+  "Imię/imiona": [
+    "Kornelia",
+    "Ludwika"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "04-08-1802"
+  ],
+  "Miejsce urodzenia": [
+    "Wilnie"
+  ],
+  "Data śmierci": [
+    "22-02-1866"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "24-02-1866"
+  ],
+  "Miejsce pochówku": [
+    "Adampol"
+  ],
+  "Zawód": [
+    "działaczka polityczna"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "towarzysz . promienisty",
+    "Uniw . Wil ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Konstancji z Mikułowskich",
+      "target": "Jana Śniadeckiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Balińska Zofia",
+      "target": "Michałem Balińskim",
+      "name": "dzieci - współmałżonek"
+    },
+    {
+      "source": "Śniadecka Antonina",
+      "target": "Kazimierza Sulistrowskiego",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Konstancji",
+      "target": "Aleksandrem Skirmuntem (zob.",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Władimirze",
+      "target": "Waldemarem) Rimskim-Korsakowie",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Władimirze",
+      "target": "Aleksandra",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Jana Łobojkę",
+      "target": "Piotra Sławińskiego",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

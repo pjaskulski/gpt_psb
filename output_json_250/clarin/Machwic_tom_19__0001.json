@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Machwic",
+    "Otto"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Machwicz"
+  ],
+  "Imię/imiona": null,
+  "Herb": [
+    "własny"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1420"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1477"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wojewoda pomorski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zakon",
+    "Związek pruski",
+    "związek"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "M-a w.",
+      "target": "Kazimierz Jagiellończyk",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "M.",
+      "target": "Jakubem",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "M.",
+      "target": "Ścibor Bażyński",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

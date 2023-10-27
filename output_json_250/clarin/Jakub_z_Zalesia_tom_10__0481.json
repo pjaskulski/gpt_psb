@@ -1,0 +1,37 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jakub"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1495"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "profesor astronomii i astrologii",
+    "doktor medycyny",
+    "nadworny lekarz Kazimierza Jagiellończyka i dwu jego synów"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "UJ",
+    "Uniw . boloński"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Gawła",
+      "target": "Pawła z Zalesia",
+      "name": "ważna postać - rodzeństwo"
+    }
+  ]
+}

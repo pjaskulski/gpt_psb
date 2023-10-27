@@ -1,0 +1,180 @@
+{
+    "name": "Jan Rudzki-Wężyk",
+    "psb_id": "PSB-33-0038",
+    "biogram_file": "Rudzki-Wezyk_Jan.txt",
+    "date_of_birth": {
+        "date": "1792-03-11"
+    },
+    "place_of_birth": {
+        "place": "Witkowice",
+        "note": "powiat sochaczewski"
+    },
+    "date_of_death": {
+        "date": "1874-01-31"
+    },
+    "place_of_death": {
+        "place": "Florencja"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Florencja",
+        "note": "cmentarz przy kościele San Miniato al Monte"
+    },
+    "functions": [
+        "malarz",
+        "rzeźbiarz",
+        "architekt",
+        "złotnik",
+        "znawca sztuki",
+        "sekretarz w ministerstwie",
+        "adiunkt w Dyrekcji Funduszów Edukacyjnych",
+        "asesor w Najwyższej Izbie Obrachunkowej",
+        "radca w Towarzystwie Kredytowym Ziemskim",
+        "inżynier",
+        "publicysta"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Liceum w Warszawie",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Akademia św. Łukasza",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Ministerstwo WRiOP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dyrekcja Funduszów Edukacyjnych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Najwyższa Izba Obrachunkowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Kredytowe Ziemskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Przyjaciół Sztuk Pięknych",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Onufry Rudzki-Wężyk"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Tekla Rudzka-Wężyk"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Franciszka Rudzka-Wężyk"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Alfred Rudzki-Wężyk"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Juliusz Rudzki-Wężyk"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Kostka Potocki",
+            "person_date": "brak danych",
+            "person_info": "minister WRiOP"
+        },
+        {
+            "person_name": "Aleksander Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Robert Wendler",
+            "person_date": "1840",
+            "person_info": "kierownik wytwórni fajansu"
+        },
+        {
+            "person_name": "Pius IX",
+            "person_date": "1848",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Izabela Starzyńska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Fredro",
+            "person_date": "1865",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Witkowice",
+            "date": "1792-03-11"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Egipt",
+            "date": "brak danych"
+        },
+        {
+            "place": "Raj",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sławsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Węglewo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Konin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hamburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Drezno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1870-1871"
+        },
+        {
+            "place": "Florencja",
+            "date": "brak danych"
+        }
+    ]
+}

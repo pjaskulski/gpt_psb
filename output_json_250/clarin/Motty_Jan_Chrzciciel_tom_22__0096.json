@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Motty"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Jean-Baptiste"
+  ],
+  "Imię/imiona": [
+    "Chrzciciel",
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1790"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "25-09-1856"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pedagog i autor podręczników"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "szkoła departamentowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "francuski"
+  ],
+  "Relacje": [
+    {
+      "source": "Motty",
+      "target": "Jan Chrzciciel",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Motty",
+      "target": "Jean-Baptiste",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Mielżyńskich",
+      "target": "Józefa Ponińskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Elizy",
+      "target": "Antoniego Radziwiłła",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

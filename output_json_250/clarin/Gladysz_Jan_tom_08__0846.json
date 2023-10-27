@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Gładysz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1762"
+  ],
+  "Miejsce urodzenia": [
+    "Babimośt"
+  ],
+  "Data śmierci": [
+    "21-05-1830"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "miejscowy cmentarz ewangelickim"
+  ],
+  "Zawód": [
+    "malarz"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Edwarda",
+      "target": "Atanazego Raczyńskich",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Correggia",
+      "target": "Claude Josepha Verneta",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Antoniego",
+      "target": "Adelajdy Lesznowskich",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

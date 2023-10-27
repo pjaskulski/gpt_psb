@@ -1,0 +1,39 @@
+{
+  "Nazwisko": [
+    "Dyjakiewicz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Gabriel"
+  ],
+  "Herb": [
+    "Leszczyc"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1660"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1724"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "jednota Litewski",
+    "archiwum synod wileński"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Dyjakiewicz",
+      "target": "Gabriel",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

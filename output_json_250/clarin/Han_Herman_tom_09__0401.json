@@ -1,0 +1,40 @@
+{
+  "Nazwisko": [
+    "Han"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Hahn",
+    "Haan"
+  ],
+  "Imię/imiona": [
+    "Herman"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1574"
+  ],
+  "Miejsce urodzenia": [
+    "Nysie Na Śląsk"
+  ],
+  "Data śmierci": [
+    "około DD-MM-1628"
+  ],
+  "Miejsce śmierci": [
+    "Chojnicach"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "malarz gdański"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Han (Hahn,",
+      "target": "Haan) Herman",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

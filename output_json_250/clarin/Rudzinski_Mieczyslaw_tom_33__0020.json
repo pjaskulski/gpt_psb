@@ -1,0 +1,62 @@
+{
+  "Nazwisko": [
+    "Rudziński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Mieczysław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "16-04-1887"
+  ],
+  "Miejsce urodzenia": [
+    "Werki"
+  ],
+  "Data śmierci": [
+    "DD-MM-1940"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "adwokat",
+    "obrońca w sprawach politycznych"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "związek polski młodzież",
+    "komitet pomoc Ofiara Wojna",
+    "okręgowy rada adwokacki",
+    "centralny sąd partyjny",
+    "zrzeszenie prawnik socjalista w Warszawa",
+    "zrzeszyć",
+    "sąd koleżeński",
+    "liga prawo człowiek i obywatel",
+    "prezydium",
+    "okręgowy rada adwokacki w Warszawa",
+    "rada konsultacyjny",
+    "Beirat"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    "Moskwa",
+    null,
+    "Kraków",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Wacławem Barcikowskim",
+      "target": "Mieczysława Mastka",
+      "name": "protagonist - znacząca osoba"
+    }
+  ]
+}

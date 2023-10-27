@@ -1,0 +1,75 @@
+{
+  "Nazwisko": [
+    "Koene-Jaski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Geschke",
+    "Jaschke"
+  ],
+  "Imię/imiona": [
+    "Paweł"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1492"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "09-07-1564"
+  ],
+  "Miejsce śmierci": [
+    "Gdańsku"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kupiec gdański",
+    "właściciel firmy bursztynowej"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "rada miejski",
+    "rada gdański"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Wincenty Anholt",
+      "target": "Jerzy Bork",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Wincenty Anholt",
+      "target": "Albrechtem pruskim",
+      "name": "dzieci - współmałżonek"
+    },
+    {
+      "source": "Jerzy Bork",
+      "target": "Albrechtem pruskim",
+      "name": "dzieci - współmałżonek"
+    },
+    {
+      "source": "K.-J-m",
+      "target": "Grzegorzem Koene-Jaskim",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "K.-J-m",
+      "target": "Grzegorzem von Berk",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Grzegorzem Koene-Jaskim",
+      "target": "Grzegorzem von Berk",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Albrechtem",
+      "target": "Koene-Jaskich",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

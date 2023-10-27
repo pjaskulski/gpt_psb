@@ -1,0 +1,140 @@
+{
+    "name": "Antoni Kamieński",
+    "psb_id": "PSB-11-0623",
+    "biogram_file": "Kamienski_Antoni_h.txt",
+    "date_of_birth": {
+        "date": "1795"
+    },
+    "place_of_birth": {
+        "place": "Ludwiszczy",
+        "note": "powiat krzemieniecki"
+    },
+    "date_of_death": {
+        "date": "1862-11-08"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "działacz kulturalny",
+        "student prawa w wołyńskim Sądzie Głównym",
+        "podsędek sądu w Starym Konstantynowie",
+        "kurator gimnazjum w Równem",
+        "organizator i redaktor materiałów do historii T. Czackiego i założonych przezeń szkół krzemienieckich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Liceum Wołyńskie",
+            "institution_place": "Krzemieniec"
+        },
+        {
+            "institution_name": "Sąd Główny",
+            "institution_place": "Wołyń"
+        },
+        {
+            "institution_name": "Sąd",
+            "institution_place": "Stary Konstantynów"
+        },
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Równe"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Kamieński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Barbara Kuczabska"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Feliks Czacki"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Franciszka Czarnocka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Kamieński"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Juliusz Kamieński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "K. Kaczkowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik"
+        },
+        {
+            "person_name": "K. Sienkiewicz",
+            "person_date": "brak danych",
+            "person_info": "współpracownik"
+        },
+        {
+            "person_name": "A. Słowikowski",
+            "person_date": "brak danych",
+            "person_info": "współpracownik"
+        },
+        {
+            "person_name": "E. Iwanowski",
+            "person_date": "1895",
+            "person_info": "osoba, która sporządziła kopię dzieła"
+        },
+        {
+            "person_name": "D. Mieczkowski",
+            "person_date": "1862",
+            "person_info": "osoba, która opisała zbiór portretów"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Ludwiszcza",
+            "date": "1795"
+        },
+        {
+            "place": "Krzemieniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stary Konstantynów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Równe",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kołki",
+            "date": "po 1850"
+        },
+        {
+            "place": "Kijów",
+            "date": "1860, 1862"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1860"
+        },
+        {
+            "place": "Poznań",
+            "date": "1860"
+        },
+        {
+            "place": "Paryż",
+            "date": "1860"
+        }
+    ]
+}

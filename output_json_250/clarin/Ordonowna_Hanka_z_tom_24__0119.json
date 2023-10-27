@@ -1,0 +1,63 @@
+{
+  "Nazwisko": [
+    "Ordonówna"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Hanka",
+    "Maria",
+    "Anna"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "25-09-1902"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "09-09-1950"
+  ],
+  "Miejsce śmierci": [
+    "Bejrucie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz polski"
+  ],
+  "Zawód": [
+    "była córką Władysława Pietruszyńskiego",
+    "inżyniera",
+    "i Heleny Bieńkowskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "szkoła baletowy",
+    "teatr Wielki",
+    "teatr współczesny",
+    "czerwony krzyż"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Ordonówna Hanka",
+      "target": "Tyszkiewiczowa) z Pietrusińskich",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Ordonówna Hanka",
+      "target": "Pietruszyńskich",
+      "name": "wnuki - krewny"
+    },
+    {
+      "source": "Ordonówna Hanka",
+      "target": "Maria Anna",
+      "name": "krewny-współmałżonek"
+    }
+  ]
+}

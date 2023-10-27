@@ -1,0 +1,89 @@
+{
+  "Nazwisko": [
+    "Rotundus"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Augustyn"
+  ],
+  "Herb": [
+    "Rola"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1520"
+  ],
+  "Miejsce urodzenia": [
+    "Wieluniu"
+  ],
+  "Data śmierci": [
+    "20-03-1582"
+  ],
+  "Miejsce śmierci": [
+    "Wilnie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "katedra Św. Jana"
+  ],
+  "Zawód": [
+    "wójt wileński",
+    "prawnik",
+    "pisarz polityczny i apologeta katolicyzmu"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia Lubrańskiego",
+    "Uniw . Krak ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Janiciusa",
+      "target": "Andrzeja Krzyckiego",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Stanisława Hozjusza",
+      "target": "Marcina Kromera",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Antoninem",
+      "target": "Elżbietą Habsburżanką",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Janiciusem",
+      "target": "Elżbietą Habsburżanką",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Antoninem",
+      "target": "Janiciusa",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Antoninem",
+      "target": "Elżbietą Habsburżanką",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Janiciusa",
+      "target": "Zygmunta Augusta",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Janiciusa",
+      "target": "Elżbietą Habsburżanką",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Zygmunta Augusta",
+      "target": "Elżbietą Habsburżanką",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

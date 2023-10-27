@@ -1,0 +1,81 @@
+{
+  "Nazwisko": [
+    "Rehbinder"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Rechbinder",
+    "Rebinder",
+    "Rhebinder",
+    "Rubinder",
+    "Rybender"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Jędrzej Rybiński",
+    "Andrzej Rehbiński"
+  ],
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Inflant"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Rehbinder",
+      "target": "Rebinder",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Rehbinder",
+      "target": "Rhebinder",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Rehbinder",
+      "target": "Rubinder",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Rehbinder",
+      "target": "Rybender",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Rehbinder",
+      "target": "Andrzej Jerzy",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Jerzy Andrzej",
+      "target": "Andrzej Jerzy",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Jędrzej Rybiński",
+      "target": "Andrzej Rehbiński",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Stenflychta",
+      "target": "Stanisława Leszczyńskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Andrzej Rehbiński",
+      "target": "Stanisława",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "R-a",
+      "target": "Jana Zielińskiego",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

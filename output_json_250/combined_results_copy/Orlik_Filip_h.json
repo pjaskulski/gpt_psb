@@ -1,0 +1,617 @@
+{
+    "name": "Filip Orlik",
+    "psb_id": "PSB-24-0147",
+    "biogram_file": "Orlik_Filip_h.txt",
+    "date_of_birth": {
+        "date": "1672-10-22"
+    },
+    "place_of_birth": {
+        "place": "Kosucie"
+    },
+    "date_of_death": {
+        "date": "1742-05-24"
+    },
+    "place_of_death": {
+        "place": "Jassy"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Jassy",
+        "note": "pogrzeb odbył się na koszt hospodara"
+    },
+    "functions": [
+        "hetman kozacki",
+        "pisarz konsystorski metropolii kijowskiej",
+        "starszy kancelista",
+        "generalny pisarz",
+        "dyplomata",
+        "hetman na Zaporożu i Prawobrzeżu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Akademia Mohylańska",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "kancelaria hetmańska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "konsystorz metropolii kijowskiej",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Szwedzka dyplomacja",
+            "institution_place": "Sztokholm"
+        },
+        {
+            "institution_name": "Francuska dyplomacja",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Kolegium w Stanisławowie",
+            "institution_place": "Stanisławów"
+        },
+        {
+            "institution_name": "Gwardia saska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kongres w Soissons",
+            "institution_place": "Soissons"
+        },
+        {
+            "institution_name": "Dwór carski",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Dwór wiedeński",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Dwór w Hanowerze",
+            "institution_place": "Hanower"
+        },
+        {
+            "institution_name": "Dwór w Chambord",
+            "institution_place": "Chambord"
+        },
+        {
+            "institution_name": "Dwór w Wersalu",
+            "institution_place": "Wersal"
+        },
+        {
+            "institution_name": "Porta",
+            "institution_place": "Stambuł"
+        },
+        {
+            "institution_name": "Rzym",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Klasztory w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kongres w Brunszwiku",
+            "institution_place": "Brunszwik"
+        },
+        {
+            "institution_name": "Rezydencja rosyjska w Wiedniu",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Poselstwo rosyjskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Księstwo holsztyńskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Księstwo saskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Księstwo macedońskie",
+            "institution_place": "Serez"
+        },
+        {
+            "institution_name": "Księstwo bułgarskie",
+            "institution_place": "Adrianopol"
+        },
+        {
+            "institution_name": "Księstwo rumuńskie",
+            "institution_place": "Bukareszt"
+        },
+        {
+            "institution_name": "Księstwo mołdawskie",
+            "institution_place": "Jassy"
+        },
+        {
+            "institution_name": "Księstwo bułgarskie",
+            "institution_place": "Widyn"
+        },
+        {
+            "institution_name": "brak danych",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stefan Orlik"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Irena Orlik"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna Hercyk"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Paweł Hercyk"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Grzegorz Hercyk"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Grzegorz Orlik"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał Orlik"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jakub Orlik"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anastazja Orlik"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Barbara Orlik"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Marta Orlik"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Maryna Orlik"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Katarzyna Orlik"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "J. Stenflycht"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Andrzej Dzierżanowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stefan Jaworski",
+            "person_date": "brak danych",
+            "person_info": "metropolita riazański"
+        },
+        {
+            "person_name": "Jan Mazepa",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Anna Dolska",
+            "person_date": "1705",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tomasz Załęski",
+            "person_date": "1707",
+            "person_info": "jezuita"
+        },
+        {
+            "person_name": "Karol XII",
+            "person_date": "brak danych",
+            "person_info": "król szwedzki"
+        },
+        {
+            "person_name": "P. Puchot Des Alleurs",
+            "person_date": "brak danych",
+            "person_info": "ambasador francuski u Porty"
+        },
+        {
+            "person_name": "Józef Potocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Dominik Lubomirski",
+            "person_date": "1712",
+            "person_info": "podkomorzy koronny"
+        },
+        {
+            "person_name": "Dewlet Girej",
+            "person_date": "1712",
+            "person_info": "chan"
+        },
+        {
+            "person_name": "Jan Sapieha",
+            "person_date": "1712",
+            "person_info": "starosta bobrujski"
+        },
+        {
+            "person_name": "Abdy Pasza",
+            "person_date": "1713",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "1713",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał Rogowski",
+            "person_date": "1712",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Jan Koniecpolski",
+            "person_date": "1712",
+            "person_info": "wojewoda sieradzki"
+        },
+        {
+            "person_name": "Stanisław Rzewuski",
+            "person_date": "1712",
+            "person_info": "hetman polny koronny"
+        },
+        {
+            "person_name": "Piotr Lamar",
+            "person_date": "1712",
+            "person_info": "poseł Augusta II na Krym"
+        },
+        {
+            "person_name": "Fryderyk Heski",
+            "person_date": "1719",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Henryk Flemming",
+            "person_date": "1720",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Poniatowski",
+            "person_date": "1720",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "G. Dołgoruki",
+            "person_date": "1720",
+            "person_info": "poseł carski"
+        },
+        {
+            "person_name": "A. Bernstorff",
+            "person_date": "brak danych",
+            "person_info": "minister"
+        },
+        {
+            "person_name": "P. Jagużyński",
+            "person_date": "brak danych",
+            "person_info": "rezydent rosyjski w Wiedniu"
+        },
+        {
+            "person_name": "Flemming",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. K. Manteuffel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "ks. Waniewski",
+            "person_date": "brak danych",
+            "person_info": "ksiądz, dawny przyjaciel i konfident"
+        },
+        {
+            "person_name": "Karol Fryderyk",
+            "person_date": "brak danych",
+            "person_info": "książę holsztyński"
+        },
+        {
+            "person_name": "T. Nachimowski",
+            "person_date": "brak danych",
+            "person_info": "wysłannik Orlika"
+        },
+        {
+            "person_name": "Adam Mikołaj Sieniawski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Katarzyna I",
+            "person_date": "brak danych",
+            "person_info": "caryca"
+        },
+        {
+            "person_name": "A. Mienszykow",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "D. Apostoł",
+            "person_date": "brak danych",
+            "person_info": "hetman"
+        },
+        {
+            "person_name": "Jan Sapieha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Krzysztof Urbanowicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Stuart",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Albani",
+            "person_date": "brak danych",
+            "person_info": "kardynał"
+        },
+        {
+            "person_name": "Benedykt XIII",
+            "person_date": "brak danych",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Stanisław Leszczyński",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Ludwik XV",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "L. de Villeneuve",
+            "person_date": "brak danych",
+            "person_info": "ambasador francuski"
+        },
+        {
+            "person_name": "Konstantin Maurocordato",
+            "person_date": "brak danych",
+            "person_info": "hospodar"
+        },
+        {
+            "person_name": "Józef Rakoczy",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "B. Münnich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. Stenflychta",
+            "person_date": "brak danych",
+            "person_info": "szwedzki generał"
+        },
+        {
+            "person_name": "Andrzej Dzierżanowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kosucie",
+            "date": "1672-10-22"
+        },
+        {
+            "place": "Chocim",
+            "date": "1673"
+        },
+        {
+            "place": "Kijów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Połtawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hadziacz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Starodub",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czernihowszczyzna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wołyń",
+            "date": "1705"
+        },
+        {
+            "place": "Baturyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bendery",
+            "date": "brak danych"
+        },
+        {
+            "place": "Raszków",
+            "date": "1711-02-12"
+        },
+        {
+            "place": "Biała Cerkiew",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chwastów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dniestr",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oczaków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stambuł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Adrianopol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chocim",
+            "date": "1713"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1713-10"
+        },
+        {
+            "place": "Demotyka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stralsund",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szwecja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kristianstad",
+            "date": "1715"
+        },
+        {
+            "place": "Bender",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sztokholm",
+            "date": "1720-10-22"
+        },
+        {
+            "place": "Greifswald",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hanower",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brunszwik",
+            "date": "brak danych"
+        },
+        {
+            "place": "Praga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Syców",
+            "date": "1721"
+        },
+        {
+            "place": "Wieruszów",
+            "date": "1721"
+        },
+        {
+            "place": "Oszmiana",
+            "date": "brak danych"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brzeg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1721-05-02 do 1722-02-27"
+        },
+        {
+            "place": "Serezu",
+            "date": "brak danych"
+        },
+        {
+            "place": "Saloniki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stanisławów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chocim",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kauszany",
+            "date": "1734"
+        },
+        {
+            "place": "Widynia",
+            "date": "1738"
+        },
+        {
+            "place": "Jassy",
+            "date": "1739"
+        },
+        {
+            "place": "Bukareszt",
+            "date": "1739"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        }
+    ]
+}

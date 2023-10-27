@@ -1,0 +1,477 @@
+{
+    "name": "Aleksandra Śląska",
+    "psb_id": "PSB-50-0267",
+    "biogram_file": "Slaska.txt",
+    "date_of_birth": {
+        "date": "1925-11-04"
+    },
+    "place_of_birth": {
+        "place": "Katowice"
+    },
+    "date_of_death": {
+        "date": "1989-09-18"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski, grób rodzinny (kw. 339—III—5)"
+    },
+    "functions": [
+        "aktorka teatralna",
+        "aktorka filmowa",
+        "reżyser",
+        "pedagog",
+        "opiekunka radczyni Valerie von Pesić",
+        "studentka Szkoły Dramatycznej przy Teatrze Miejskim",
+        "studentka Studia Aktorskiego przy Teatrze Miejskim im. Juliusza Słowackiego w Krakowie",
+        "studentka Państw. Szkoły Dramatycznej (PSD) w Krakowie",
+        "aktorka Miejskich Teatrów Dramatycznych",
+        "aktorka Teatru Współczesnym",
+        "aktorka Teatru Polskiego Radia",
+        "aktorka Teatru Ateneum",
+        "aktorka Teatru Narodowym",
+        "asystentka Władysława Krasnowieckiego, rektora Państw. Wyższej Szkoły Teatralnej (PWST) w Warszawie",
+        "aktorka Teatru Telewizji",
+        "aktorka Kabaretu Starszych Panów w Polskim Radiu",
+        "aktorka Teatru Telewizji Südwestfunk (RFN)",
+        "aktorka w dubbingu",
+        "aktorka",
+        "starszy wykładowca w PWST w Warszawie",
+        "reżyserka",
+        "członek rady Wyższego Szkolnictwa Artystycznego",
+        "profesor nadzwyczajny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Preussische Staatseisenbahnen",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dyrekcja Okręgowa Kolei Państwowych",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "PKP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Polek",
+            "institution_place": "Gliwice"
+        },
+        {
+            "institution_name": "Szkoła Powszechna św. Jadwigi",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "Miejskie Gimnazjum i Liceum Żeńskie",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "Szkoła Dramatyczna przy Teatrze Miejskim",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "Studio Aktorskie przy Teatrze Miejskim im. Juliusza Słowackiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Państwowa Szkoła Dramatyczna",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Miejskie Teatry Dramatyczne",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Stary Teatr",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Państwowa Wyższa Szkoła Teatralna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Współczesny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Polskiego Radia",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Ateneum",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Narodowy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Telewizji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kabaret Starszych Panów w Polskim Radiu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Telewizji Südwestfunk",
+            "institution_place": "RFN"
+        },
+        {
+            "institution_name": "IV Międzynarodowy Festiwal Telewizyjny",
+            "institution_place": "Praga"
+        },
+        {
+            "institution_name": "Komitet ds. Radia i Telewizji",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Ateneum",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "PWST",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wyższe Szkolnictwo Artystyczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Galeria Artystyczna Katowic",
+            "institution_place": "Katowice"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Edmund Wąsik"
+        },
+        {
+            "family_relation": "siostra przyrodnia",
+            "person": "Bożena Jewasińska Naturska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Olgierd Edmund Wąsik"
+        },
+        {
+            "family_relation": "krewna",
+            "person": "Eugenia Deutsch"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Czesław Michał Górski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Szczęsny Tadeusz Górski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Janusz Warmiński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Eugenia Deutsch",
+            "person_date": "1943",
+            "person_info": "daleka krewna"
+        },
+        {
+            "person_name": "Valerie von Pesić",
+            "person_date": "1943",
+            "person_info": "radczyni, przy której pracowała"
+        },
+        {
+            "person_name": "Aleksander Widera",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Karbowski",
+            "person_date": "brak danych",
+            "person_info": "wykładowca"
+        },
+        {
+            "person_name": "Władysław Woźnik",
+            "person_date": "brak danych",
+            "person_info": "wykładowca"
+        },
+        {
+            "person_name": "Wiesław Gorecki",
+            "person_date": "brak danych",
+            "person_info": "wykładowca"
+        },
+        {
+            "person_name": "Jerzy Leszczyński",
+            "person_date": "brak danych",
+            "person_info": "aktor"
+        },
+        {
+            "person_name": "Aleksander Zelwerowicz",
+            "person_date": "brak danych",
+            "person_info": "aktor"
+        },
+        {
+            "person_name": "Ludwik Solski",
+            "person_date": "brak danych",
+            "person_info": "aktor"
+        },
+        {
+            "person_name": "Erwin Axer",
+            "person_date": "1949",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Władysław Krasnowiecki",
+            "person_date": "1955",
+            "person_info": "rektor Państw. Wyższej Szkoły Teatralnej"
+        },
+        {
+            "person_name": "Tadeusz Aleksandrowicz",
+            "person_date": "1956",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Wanda Nadzinowa",
+            "person_date": "1956",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Janusz Warmiński",
+            "person_date": "1958",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Andrzej Munk",
+            "person_date": "1961",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Konrad Swinarski",
+            "person_date": "1960",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Zofia Dybowska-Aleksandrowicz",
+            "person_date": "1960",
+            "person_info": "reżyserka dubbingu"
+        },
+        {
+            "person_name": "Jerzy Rakowiecki",
+            "person_date": "1959",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Jerzy Markuszewski",
+            "person_date": "1963",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Jerzy Kreczmar",
+            "person_date": "1964",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Andrzej Wajda",
+            "person_date": "1963",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Andrzej Trzos-Rastawiecki",
+            "person_date": "1965",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Janusz Majewski",
+            "person_date": "1967",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Ireneusz Kanicki",
+            "person_date": "1965",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Jerzy Gruza",
+            "person_date": "1966",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Gustaw Holoubek",
+            "person_date": "1968",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Kazimierz Dejmek",
+            "person_date": "1969",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Tatiana Samojłowa",
+            "person_date": "1968",
+            "person_info": "rosyjska aktorka"
+        },
+        {
+            "person_name": "A. Zarchi",
+            "person_date": "1968",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Zygmunt Kałużyński",
+            "person_date": "1968",
+            "person_info": "krytyk filmowy"
+        },
+        {
+            "person_name": "E. Albee",
+            "person_date": "1970",
+            "person_info": "autor komedii 'Wszystko w ogrodzie'"
+        },
+        {
+            "person_name": "Lesiewicz",
+            "person_date": "1971",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Wojciech Solarz",
+            "person_date": "1972",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Maciej Prus",
+            "person_date": "1972",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Holoubek",
+            "person_date": "1973",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Lidia Zamkow",
+            "person_date": "1974",
+            "person_info": "reżyserka"
+        },
+        {
+            "person_name": "Jan Świderski",
+            "person_date": "1974",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Glenda Jackson",
+            "person_date": "1973",
+            "person_info": "aktorka"
+        },
+        {
+            "person_name": "Prus",
+            "person_date": "1973",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Warmiński",
+            "person_date": "1977",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "P. Hacks",
+            "person_date": "1978",
+            "person_info": "autor monodramu 'Rozmowa w domu państwa Stein o nieobecnym panu von Goethe'"
+        },
+        {
+            "person_name": "Zbigniew Kopalko",
+            "person_date": "1979",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Gerard Zalewski",
+            "person_date": "1979",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "M. Günther",
+            "person_date": "1979",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Halina Auderska",
+            "person_date": "1980",
+            "person_info": "scenarzystka"
+        },
+        {
+            "person_name": "Majewski",
+            "person_date": "1980",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "A. Osiecka",
+            "person_date": "1980",
+            "person_info": "autorka"
+        },
+        {
+            "person_name": "Marek Koterski",
+            "person_date": "1984",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Wojciech Młynarski",
+            "person_date": "1987",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Tadeusz Rittner",
+            "person_date": "1987",
+            "person_info": "autor 'Lato'"
+        },
+        {
+            "person_name": "Y. Mishima",
+            "person_date": "1988",
+            "person_info": "autor 'Madame de Sade'"
+        },
+        {
+            "person_name": "Maniewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Katowice",
+            "date": "1925-11-04"
+        },
+        {
+            "place": "Winiary",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gliwice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Głuchołazy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1943"
+        },
+        {
+            "place": "Kraków",
+            "date": "1945-1946"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1949"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1989-09-18"
+        }
+    ]
+}

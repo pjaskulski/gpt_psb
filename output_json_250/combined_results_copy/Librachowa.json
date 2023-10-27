@@ -1,0 +1,254 @@
+{
+    "name": "Maria Librachowa",
+    "psb_id": "PSB-17-0258",
+    "biogram_file": "Librachowa.txt",
+    "date_of_birth": {
+        "date": "1878-11-02"
+    },
+    "place_of_birth": {
+        "place": "Zbiroż",
+        "note": "powiat rypiński"
+    },
+    "date_of_death": {
+        "date": "1955-03-14"
+    },
+    "place_of_death": {
+        "place": "Łódź"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "psycholog",
+        "pedagog",
+        "profesor Wolnej Wszechnicy Polskiej",
+        "profesor Uniwersytetu Łódzkiego",
+        "działaczka społeczna",
+        "członek Polskiej Partii Socjalistycznej (PPS)-Lewicy",
+        "guwernantka",
+        "nauczycielka",
+        "doktor filozofii i pedagogiki",
+        "doktor nauk pedologicznych",
+        "docent",
+        "profesor tytularny psychologii pedagogicznej",
+        "członek Komisji Pedagogicznej Min. Wyznań Rel. i Oświecenia Publ.",
+        "członek Wydziału Pedagogicznego ZNP",
+        "redaktor pisma „Praca Szkolna”",
+        "profesor nadzwyczajny psychologii pedagogicznej",
+        "kierownik Zakładu Psychologii Pedagogicznej",
+        "wiceprzewodnicząca Łódzkiego Tow. Psychologicznego",
+        "profesor Uniwersytetu",
+        "członek korespondent Łódzkiego Towarzystwa Naukowego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Wolna Wszechnica Polska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Łódzki",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Polska Partia Socjalistyczna (PPS)-Lewica",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet Latający",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Kursów Naukowych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet w Brukseli",
+            "institution_place": "Bruksela"
+        },
+        {
+            "institution_name": "Państwowe Seminarium Nauczycielskie im. E. Orzeszkowej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państwowe Pedagogium im. S. Konarskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Komisja Pedagogiczna Min. Wyznań Rel. i Oświecenia Publ.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Polskiego Nauczycielstwa Szkół Powszechnych (ZPNSP)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Nauczycielstwa Polskiego (ZNP)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Oświaty Demokratycznej „Nowe Tory”",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wolna Wszechnica Polska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Łódzkie Towarzystwo Naukowe",
+            "institution_place": "Łódź"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bolesław Lipski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Julia Karnkowska"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Ludwik Librach"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Krystyna Selmowiczowa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zuzanna Morawska",
+            "person_date": "brak danych",
+            "person_info": "prowadziła pensję, w której Maria się kształciła"
+        },
+        {
+            "person_name": "W. Smoleński",
+            "person_date": "brak danych",
+            "person_info": "pedagog"
+        },
+        {
+            "person_name": "S. Kramsztyk",
+            "person_date": "brak danych",
+            "person_info": "pedagog"
+        },
+        {
+            "person_name": "T. Korzon",
+            "person_date": "brak danych",
+            "person_info": "pedagog"
+        },
+        {
+            "person_name": "L. Krzywicki",
+            "person_date": "brak danych",
+            "person_info": "pedagog"
+        },
+        {
+            "person_name": "A. Mahrburg",
+            "person_date": "brak danych",
+            "person_info": "wykładowca na Uniwersytecie Latającym"
+        },
+        {
+            "person_name": "S. Sempołowska",
+            "person_date": "1905",
+            "person_info": "współpracowniczka w pomocy więźniom politycznym"
+        },
+        {
+            "person_name": "T. Rechniewski",
+            "person_date": "brak danych",
+            "person_info": "redaktor tygodników PPS-Lewicy"
+        },
+        {
+            "person_name": "J. Joteyko",
+            "person_date": "1909",
+            "person_info": "polska uczona, pod której kierunkiem Maria studiowała psychologię"
+        },
+        {
+            "person_name": "J. W. Dawid",
+            "person_date": "brak danych",
+            "person_info": "pionier nauk pedologicznych na gruncie polskim"
+        },
+        {
+            "person_name": "A. Szycówna",
+            "person_date": "brak danych",
+            "person_info": "pionier nauk pedologicznych na gruncie polskim"
+        },
+        {
+            "person_name": "H. Selmowiczówna",
+            "person_date": "brak danych",
+            "person_info": "współautorka książki dla nauczycieli"
+        },
+        {
+            "person_name": "H. Gnoińska",
+            "person_date": "brak danych",
+            "person_info": "współautorka podręczników"
+        },
+        {
+            "person_name": "J. Smulikowski",
+            "person_date": "1932",
+            "person_info": "działacz sanacyjny w ZNP"
+        },
+        {
+            "person_name": "A. Hamaide",
+            "person_date": "1926",
+            "person_info": "autor książki Metoda Decroly, do której Maria napisała przedmowę"
+        },
+        {
+            "person_name": "S. Karpowicz",
+            "person_date": "1929",
+            "person_info": "autor pism, do których wyboru Maria była redaktorem"
+        },
+        {
+            "person_name": "Krzyżem Komandorskim Odrodzenia Polski",
+            "person_date": "brak danych",
+            "person_info": "odznaczenie"
+        },
+        {
+            "person_name": "Łódzkie Towarzystwo Naukowe",
+            "person_date": "1948",
+            "person_info": "organizacja naukowa"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zbiroż",
+            "date": "1878-11-02"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Pilaszkowo",
+            "date": "1905-10-01"
+        },
+        {
+            "place": "Bruksela",
+            "date": "1908-1913"
+        },
+        {
+            "place": "Rzym",
+            "date": "1926-09-28 - 1926-10-02"
+        },
+        {
+            "place": "Genewa",
+            "date": "1929-07-25 - 1929-08-03"
+        },
+        {
+            "place": "Wilno",
+            "date": "1931-07-04 - 1931-07-08"
+        },
+        {
+            "place": "Łódź",
+            "date": "1946"
+        }
+    ]
+}

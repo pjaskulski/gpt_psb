@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Przewóska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Czesława",
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "23-11-1920"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz powązkowski"
+  ],
+  "Zawód": [
+    "pseud. i krypt. Helia",
+    "M. Cz. P.",
+    "M. Cz. Przew"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Sorbona",
+    "Collège de France"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Dominika Augusta",
+      "target": "Leontyny z Doliwa-Klimeckich",
+      "name": "matka - krewny"
+    }
+  ]
+}

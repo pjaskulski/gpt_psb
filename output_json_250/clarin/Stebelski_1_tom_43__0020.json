@@ -1,0 +1,120 @@
+{
+  "Nazwisko": [
+    "Stebelski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Stebelskij",
+    "Władymir"
+  ],
+  "Imię/imiona": [
+    "Włodzimierz"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Aleksander Dym",
+    "Bogdan iz Podola",
+    "Bojan",
+    "Fidibus",
+    "Iwan Iskra",
+    "Maska",
+    "Mgła",
+    "Pius Dezyderiusz",
+    "Roman Zero",
+    "Ruslan",
+    "Satyr",
+    "Sławycz",
+    "Wołodymir iz-pod Galicza",
+    "Wołodymirko St.",
+    "Wołodko St.",
+    "Wołodko Ste."
+  ],
+  "Data urodzenia": [
+    "31-08-YYYY"
+  ],
+  "Miejsce urodzenia": [
+    "Magierowie"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "pole"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Lwow .",
+    "gubernium lwowski",
+    "ruski rada główny",
+    "sąd obwodowy w Stanisławów",
+    "sąd powiatowy w Chrzanów",
+    "sąd obwodowy w Nowy Sącz",
+    "sąd krajowy wysoki w Kraków",
+    "minuta . sprawiedliwość",
+    "sąd krajowy w Kraków",
+    "« Akademiczeskij"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Aleksander Dym",
+      "target": "Bogdan iz Podola",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Mgła",
+      "target": "Pius Dezyderiusz",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Pius Dezyderiusz",
+      "target": "Roman Zero",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Ruslan",
+      "target": "Satyr",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Sławycz",
+      "target": "Wołodymir iz-pod Galicza",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Wołodymir iz-pod Galicza",
+      "target": "Wołodymirko St.",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "STB",
+      "target": "STB..",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-ego",
+      "target": "Jarosław",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-ego",
+      "target": "Uhr-Stebelski",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-ego",
+      "target": "Ignacego Daszyńskiego",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

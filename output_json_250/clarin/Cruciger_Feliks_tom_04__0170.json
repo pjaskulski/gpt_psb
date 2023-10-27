@@ -1,0 +1,79 @@
+{
+  "Nazwisko": [
+    "Cruciger"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szczęsny"
+  ],
+  "Imię/imiona": [
+    "Feliks"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1563"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pierwszy superintendent zborów kalwińskich w Małopolsce"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet krakowski",
+    "jednota"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Cruciger Feliks (Szczęsny",
+      "target": "Krzyżak",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Stankar",
+      "target": "Marcin",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Stankar",
+      "target": "Jakub Silvius",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Melchior",
+      "target": "Jakub Silvius",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Melanchtona",
+      "target": "Bucera",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Ostroroga",
+      "target": "Jerzy Izrael",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "C-em",
+      "target": "Izraelowi",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "C-em",
+      "target": "Ostrorogiem",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "C.",
+      "target": "Stanisław Szafraniec",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

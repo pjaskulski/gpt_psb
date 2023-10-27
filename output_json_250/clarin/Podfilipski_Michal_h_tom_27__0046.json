@@ -1,0 +1,36 @@
+{
+  "Nazwisko": [
+    "Podfilipski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Michał"
+  ],
+  "Herb": [
+    "Ciołek"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1515"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1562 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rotmistrz obrony potocznej",
+    "stolnik halicki"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "P-ego",
+      "target": "Pretwicza",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

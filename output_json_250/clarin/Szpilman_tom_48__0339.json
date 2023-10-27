@@ -1,0 +1,71 @@
+{
+  "Nazwisko": [
+    "Szpilman"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Wolf"
+  ],
+  "Imię/imiona": [
+    "Władysław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Al Legro",
+    "Wiktor Karwiński"
+  ],
+  "Data urodzenia": [
+    "05-12-1911"
+  ],
+  "Miejsce urodzenia": [
+    "Sosnowcu"
+  ],
+  "Data śmierci": [
+    "06-07-2000"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": [
+    "14-07-2000"
+  ],
+  "Miejsce pochówku": [
+    "cmentarz Wojskowy na Powązkach"
+  ],
+  "Zawód": [
+    "pianista",
+    "kompozytor"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "teatr polski w",
+    "męski szkoła handlowy",
+    "gimnazjum Tomasz płocki",
+    "wysoki szkoła muzyczny imienia . Fryderyka Chopin",
+    "berliński wysoki szkoła muzyczny",
+    "Berliner Musikhochschule"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szpilman",
+      "target": "Spielman) Władysław (Wolf",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Al Legro",
+      "target": "Wiktor Karwiński",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Reginę",
+      "target": "Henryka",
+      "name": "rodzeństwo - współmałżonek"
+    }
+  ]
+}

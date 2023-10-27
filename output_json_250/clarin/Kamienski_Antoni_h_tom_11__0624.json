@@ -1,0 +1,53 @@
+{
+  "Nazwisko": [
+    "Kamieński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Antoni"
+  ],
+  "Herb": [
+    "Jastrzębiec"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1795"
+  ],
+  "Miejsce urodzenia": [
+    "Ludwiszczach"
+  ],
+  "Data śmierci": [
+    "08-11-1862"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "działacz kulturalny na Wołyniu"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "liceum wołyński",
+    "sąd główny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Feliks Czacki",
+      "target": "Tadeusza",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "K-emu",
+      "target": "Iwanowskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K.",
+      "target": "Franciszką Czarnocką",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

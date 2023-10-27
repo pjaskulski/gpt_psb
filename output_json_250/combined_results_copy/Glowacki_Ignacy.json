@@ -1,0 +1,130 @@
+{
+    "name": "Ignacy Głowacki",
+    "psb_id": "PSB-08-0171",
+    "biogram_file": "Glowacki_Ignacy.txt",
+    "date_of_birth": {
+        "date": "ok. 1770"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "po 1815"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "legionista",
+        "kapitan W.P.",
+        "oberfajerwerker (starszy ogniomistrz)",
+        "podporucznik rzeczywisty artylerii legionowej",
+        "porucznik artylerii",
+        "kapitan 6 p. jazdy galicyjsko-francuskiej",
+        "kapitan III klasy Korpusu weteranów i inwalidów"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Legiony Dąbrowskiego",
+            "institution_place": "Włochy"
+        },
+        {
+            "institution_name": "Artyleria Legionowa",
+            "institution_place": "Rimini"
+        },
+        {
+            "institution_name": "VI batalion piechoty legionowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "6 pułk jazdy galicyjsko-francuskiej",
+            "institution_place": "Podole"
+        },
+        {
+            "institution_name": "Korpus weteranów i inwalidów",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "A. Trzecieski",
+            "person_date": "1809",
+            "person_info": "pułkownik"
+        },
+        {
+            "person_name": "Szubert",
+            "person_date": "1801",
+            "person_info": "kpt."
+        },
+        {
+            "person_name": "Wojciech Bartosz Głowacki",
+            "person_date": "brak danych",
+            "person_info": "bohater spod Racławic"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Wołoszczyzna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Konstantynopol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Algieria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Liworno",
+            "date": "1797-12-01"
+        },
+        {
+            "place": "Rimini",
+            "date": "1798-02-06"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mantua",
+            "date": "1799"
+        },
+        {
+            "place": "Leoben",
+            "date": "brak danych"
+        },
+        {
+            "place": "Graz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Podole",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zaleszczyki",
+            "date": "1809-06-05"
+        },
+        {
+            "place": "Tarnów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ostrołęka",
+            "date": "brak danych"
+        }
+    ]
+}

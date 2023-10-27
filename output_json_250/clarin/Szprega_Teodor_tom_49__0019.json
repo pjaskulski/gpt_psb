@@ -1,0 +1,57 @@
+{
+  "Nazwisko": [
+    "Szpręga"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Sprenga",
+    "Spręga"
+  ],
+  "Imię/imiona": [
+    "Teodor"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "01-11-1833"
+  ],
+  "Miejsce urodzenia": [
+    "Czersko"
+  ],
+  "Data śmierci": [
+    "26-07-1911"
+  ],
+  "Miejsce śmierci": [
+    "Osiecznej"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "plac przed kościołem"
+  ],
+  "Zawód": [
+    "reformat",
+    "misjonarz",
+    "komisarz generalny w Poznańskiem"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zakon brat mały w Prow . Reformat niepokalany począć NMP",
+    "Prow . Rekolektów krzyż święty",
+    "trzeci zakon"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szpręga (Sprenga",
+      "target": "Spręga) Teodor",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Szpręga (Sprenga",
+      "target": "Anastazy",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

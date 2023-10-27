@@ -1,0 +1,61 @@
+{
+  "Nazwisko": [
+    "Radziejowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": [
+    "Junosza"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1503"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1567"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół w Mszczonowie w kaplicy grobowej przodków ; w testamencie oblatowanym w konsystorzu warszawskim czynił swym spadkobiercą bratanka"
+  ],
+  "Zawód": [
+    "kasztelan gostyniński"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "R.",
+      "target": "Stanisławem",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "R-ego",
+      "target": "Ponikiewskiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-ego",
+      "target": "Jan",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "R-ego",
+      "target": "Bony",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Krzysztofa",
+      "target": "Mikołaja Szydłowieckich",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

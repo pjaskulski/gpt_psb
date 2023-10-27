@@ -1,0 +1,76 @@
+{
+  "Nazwisko": [
+    "Szembek"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szenbeck",
+    "Schömbek",
+    "Schönbegk"
+  ],
+  "Imię/imiona": [
+    "Bartłomiej"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 12-02-1569"
+  ],
+  "Miejsce śmierci": [
+    "Lwowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kupiec i rajca krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "rada miejski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szembek",
+      "target": "Schömbek",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Szembek",
+      "target": "Schönbegk",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Szembek",
+      "target": "Bartłomiej",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Henryka",
+      "target": "Henryk VII",
+      "name": "dzieci-krewny"
+    },
+    {
+      "source": "Piotr Schoenberg",
+      "target": "Maksymiliana I",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Piotra",
+      "target": "Bartłomieja",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Piotra",
+      "target": "Zygmunta I",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Stanisławem Ridtem",
+      "target": "Pawła Dziszy",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

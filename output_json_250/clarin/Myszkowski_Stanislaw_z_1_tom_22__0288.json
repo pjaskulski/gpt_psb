@@ -1,0 +1,84 @@
+{
+  "Nazwisko": [
+    "Myszkowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": [
+    "Jastrzębiec"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "06-06-1570 --"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz ewangelicki w Krakowie ; grób jego został zniszczony podczas zaburzeń wyznaniowych w r"
+  ],
+  "Zawód": [
+    "krajczy kor.",
+    "starosta malborski",
+    "kasztelan sandomierski",
+    "starosta generalny i wojewoda krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zakon kawaler mieczowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Zuzanny Łaskiej",
+      "target": "Jana Łaskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Zygmunta Augusta",
+      "target": "Barbarą Radziwiłłówną",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Myszkowskich",
+      "target": "Zygmunta Augusta",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Myszkowskich",
+      "target": "Barbarą Radziwiłłówną",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Zygmunta Augusta",
+      "target": "Jadwigi Kościeleckiej",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Zygmunta Augusta",
+      "target": "Sewerynie Bonerze",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Jadwigi Kościeleckiej",
+      "target": "Sewerynie Bonerze",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Zygmunta Augusta",
+      "target": "Katarzyną",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "M.",
+      "target": "Stanisława Hozjusza",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Rudzki-Wężyk"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "11-03-1792"
+  ],
+  "Miejsce urodzenia": [
+    "Witkowicach"
+  ],
+  "Data śmierci": [
+    "DD-MM-1874 --"
+  ],
+  "Miejsce śmierci": [
+    "Pau"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz przy kościele San Miniato al Monte"
+  ],
+  "Zawód": [
+    "malarz",
+    "rzeźbiarz",
+    "architekt",
+    "złotnik",
+    "znawca sztuki"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia święty . Łukasz",
+    "Uniw . Warsz",
+    "uniwersytet",
+    "WRiOP",
+    "dyrekcja fundusz edukacyjny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Rzym",
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "R.-W.",
+      "target": "Aleksandra Potockiego",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

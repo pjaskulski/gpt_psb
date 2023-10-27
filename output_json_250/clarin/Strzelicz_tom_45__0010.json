@@ -1,0 +1,80 @@
+{
+  "Nazwisko": [
+    "Strzelicz"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Strzalic",
+    "Stralic",
+    "Strelic"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1365"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1421"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "mieszczanin krakowski",
+    "ławnik",
+    "rajca",
+    "wójt dziedziczny Nowego Sącza"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Strzelicz",
+      "target": "Mikołaj",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "S-owi",
+      "target": "Jadwiga",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-em",
+      "target": "Janem Czatirwangiem",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-em",
+      "target": "Urszulą",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-em",
+      "target": "Dorocie",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "S-a",
+      "target": "Janem Czatirwangiem",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "S-a",
+      "target": "Urszulą",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "S-a",
+      "target": "Dorocie",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Bonifacego IX",
+      "target": "Jadwigi",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

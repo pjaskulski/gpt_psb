@@ -1,0 +1,84 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Bezprym"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-0986"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1031"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Mieszko",
+      "target": "Konradem II",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Ottona",
+      "target": "Konradem II",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "B-a",
+      "target": "Mieszko",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "B-a",
+      "target": "Konradem II",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "B.",
+      "target": "Ottona",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Mieszka II",
+      "target": "Konrad",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Mieszka II",
+      "target": "Bezprymem",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "B-wi",
+      "target": "Mieszko",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "B-a",
+      "target": "Mieszko II",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "B.",
+      "target": "Konrada II",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Rychezy",
+      "target": "Mieszkiem II",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Mieszka",
+      "target": "Ottona",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

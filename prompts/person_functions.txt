@@ -1,14 +1,16 @@
 Na podstawie podanego tekstu biografii wyszukaj wszystkie urzędy i funkcje (zawody)
 pełnione przez głównego bohatera/bohaterkę. Uwzględnij formalne funkcje, zawody i urzędy, ale tylko te
-związane z głównym bohaterem/bohaterką, inne zignoruj.
+pełnione przez głównego bohatera/bohaterkę, funkcje czy urzędy innych osób występujących w biogramie pomiń.
 Wynik przedstaw w formie listy obiektów JSON zawierających pola:
-"role_or_office": funkcja, urząd pełnione przez bohatera/bohaterkę
+"role_or_office": funkcja, urząd pełnione przez bohatera/bohaterkę.
 
 Przykład 1.
 Tekst: "Soderini Carlos (ok. 1557–1591), kupiec i bankier.
-Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
+Był jednym z pięciu synów Niccola, urzędnika celnego na Pomorzu, i Annaleny Ricasoli, młodszym
 bratem Bernarda. W młodości poróżował po Europie. Początkowo pracował w składzie drewna,
-później przez kilka lat pełnił rolę skarbnika rodu Potockich, był też podkomorzym na dworze kanclerza Ossolińskiego. "
+później przez kilka lat pełnił rolę skarbnika rodu Potockich, był też pod koniec kariery podkomorzym na dworze kanclerza Ossolińskiego. 
+Odwiedził wówczas swego brata, będącego poborcą podatkowym na sąsiednim dworze.
+"
 Wynik:
 [{"role_or_office":"kupiec"},
  {"role_or_office":"bankier"},

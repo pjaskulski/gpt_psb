@@ -1,0 +1,299 @@
+{
+    "name": "Leonard Sowiński",
+    "psb_id": "PSB-41-0006",
+    "biogram_file": "Sowinski_Leonard.txt",
+    "date_of_birth": {
+        "date": "1831-11-07"
+    },
+    "place_of_birth": {
+        "place": "Berezówka",
+        "note": "powiat lityński na Podolu"
+    },
+    "date_of_death": {
+        "date": "1887-12-23"
+    },
+    "place_of_death": {
+        "place": "Steckowce",
+        "note": "na Ukrainie"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "poeta",
+        "publicysta",
+        "wykładowca języka polskiego w gimnazjum żytomierskim",
+        "rozjemca ziemski",
+        "członek Zarządu niejawnego Polskiego Tow. Pomocy Naukowej dla ziem Wołynia, Podola i Ukrainy",
+        "redaktor adresu do Aleksandra II",
+        "współpracownik „Gazety Warszawskiej”",
+        "współpracownik „Kuriera Warszawskiego”",
+        "współpracownik „Tygodnika Ilustrowanego”",
+        "współpracownik „Kłosów”",
+        "współpracownik „Echa”",
+        "współpracownik „Wieńca”",
+        "guwernantka",
+        "nauczyciel",
+        "pisarz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła powiatowa",
+            "institution_place": "Międzyboże"
+        },
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Żytomierz"
+        },
+        {
+            "institution_name": "Uniw. Kijowski",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Tow. Rolnicze",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Polskie Tow. Pomocy Naukowej dla ziem Wołynia, Podola i Ukrainy",
+            "institution_place": "Kijów"
+        },
+        {
+            "institution_name": "Gimnazjum żytomierskie",
+            "institution_place": "Żytomierz"
+        },
+        {
+            "institution_name": "Gazeta Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kurier Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Tygodnik Ilustrowany",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kłosy",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Echo",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wieniec",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Krakowski Teatr",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Teatr Miejski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Narodowa",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan Wincenty"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Pelagia z Pawlickich"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Bona z Rościszewskich"
+        },
+        {
+            "family_relation": "syn",
+            "person": "nieznane imię"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Henryk Jabłoński",
+            "person_date": "brak danych",
+            "person_info": "przyszły poeta"
+        },
+        {
+            "person_name": "Apolinare Zagórski",
+            "person_date": "brak danych",
+            "person_info": "autor 'Gawęd naukowych'"
+        },
+        {
+            "person_name": "Seweryn Goszczyński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Bohdan Zaleski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Joachim Lelewel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam Honoré Kirkor",
+            "person_date": "1859",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Apollo Korzeniowski",
+            "person_date": "1861",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Włodzimierz Antonowicz",
+            "person_date": "1860",
+            "person_info": "przywódca radykalnej grupy chłopomańskiej"
+        },
+        {
+            "person_name": "M. Iwaniszew",
+            "person_date": "1860",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Groza",
+            "person_date": "1860-1861",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Pietkiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Zdanowicz",
+            "person_date": "brak danych",
+            "person_info": "wileński nauczyciel"
+        },
+        {
+            "person_name": "Wojciech",
+            "person_date": "1880",
+            "person_info": "stryj, mieszkał we Francji"
+        },
+        {
+            "person_name": "Teofil Lenartowicz",
+            "person_date": "brak danych",
+            "person_info": "mieszkał we Florencji"
+        },
+        {
+            "person_name": "Wiktor Gomulicki",
+            "person_date": "brak danych",
+            "person_info": "autor powieści 'Ciury'"
+        },
+        {
+            "person_name": "Władysław Bryda",
+            "person_date": "brak danych",
+            "person_info": "opracował Wybór poezyj S-ego"
+        },
+        {
+            "person_name": "Roman Taborski",
+            "person_date": "1961",
+            "person_info": "opracował nowe wydanie Wspomnień szkolnych i uniwersyteckich"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Berezówka",
+            "date": "1831-11-07"
+        },
+        {
+            "place": "Międzyboż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żytomierz",
+            "date": "1842-1847"
+        },
+        {
+            "place": "Austria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Belgia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Saksonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bruksela",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kijów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Horodło",
+            "date": "1861-10-10"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kursk",
+            "date": "1862-11"
+        },
+        {
+            "place": "Szczygr",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1867"
+        },
+        {
+            "place": "Steckowce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wola Gałęzowska",
+            "date": "1870-1871"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Florencja",
+            "date": "brak danych"
+        }
+    ]
+}

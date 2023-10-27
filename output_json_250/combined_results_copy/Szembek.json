@@ -1,0 +1,356 @@
+{
+    "name": "Bartłomiej Szembek",
+    "psb_id": "PSB-48-0019",
+    "biogram_file": "Szembek.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Stendal",
+        "note": "Brandenburgia"
+    },
+    "date_of_death": {
+        "date": "1569-02-12",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz przy kościele Mariackim"
+    },
+    "functions": [
+        "kupiec",
+        "rajca krakowski",
+        "ławnik",
+        "członek Rady Miejskiej",
+        "posłowie na sejm",
+        "egzekutor testamentu",
+        "członek rady urzędującej",
+        "kupiec i przedsiębiorca górniczy"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Bractwo Wniebowzięcia NMP przy kościele Mariackim",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rada Miejska Krakowa",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sąd Wyższy Prawa Magdeburskiego na Zamku krakowskim",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sejmik województwa krakowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szpital Świętego Ducha",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kopalnia ołowiu",
+            "institution_place": "Działoszyn"
+        },
+        {
+            "institution_name": "Sztolnia Ostowicka",
+            "institution_place": "Olkusz"
+        },
+        {
+            "institution_name": "Uniwersytet w Sienie",
+            "institution_place": "Siena"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "Gerlach Schoenbegk"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Bartłomiej Szembek"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Adelajda Dudischin"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Henryk Szembek"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Krzysztof Elbing"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Stanisław Szembek"
+        },
+        {
+            "family_relation": "bratanica",
+            "person": "Ewa Szembek"
+        },
+        {
+            "family_relation": "bratanica",
+            "person": "Anna Szembek"
+        },
+        {
+            "family_relation": "bratanica",
+            "person": "Elżbieta Szembek"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Małgorzata Elbingówna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Katarzyna Schilling"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Stanisław Schilling"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Bartłomiej Szembek"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Mikołaj Szembek"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Szembek"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Szembek"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Małgorzata Szembek"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Elżbieta Szembek"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Jadwiga Szembek"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Agnieszka Szembek"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Lichtenberg"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Baptysta Cecchi"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jost Paczek"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Fryderyk Paczek"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jerzy Schilkr"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Mikołaj Koźla",
+            "person_date": "1542",
+            "person_info": "późniejszy rajca krakowski i dzierżawca ceł na Rusi"
+        },
+        {
+            "person_name": "Paweł Dziszy",
+            "person_date": "1542",
+            "person_info": "kupiec z Chęcin"
+        },
+        {
+            "person_name": "Stanisław Tęczyński",
+            "person_date": "1557",
+            "person_info": "wojewoda krakowski"
+        },
+        {
+            "person_name": "Andrzej",
+            "person_date": "1553",
+            "person_info": "pisarz miejski w Kamieńcu Podolskim"
+        },
+        {
+            "person_name": "Jakub",
+            "person_date": "1556",
+            "person_info": "bakałarz"
+        },
+        {
+            "person_name": "Stefan Jakob",
+            "person_date": "1560",
+            "person_info": "Ormianin, partner handlowy"
+        },
+        {
+            "person_name": "Dawid Lazarowicz",
+            "person_date": "1560",
+            "person_info": "Ormianin, partner handlowy"
+        },
+        {
+            "person_name": "Ilko Karpowicz",
+            "person_date": "1554",
+            "person_info": "ruski kupiec"
+        },
+        {
+            "person_name": "Lenart Kuncz",
+            "person_date": "brak danych",
+            "person_info": "rzeźnik"
+        },
+        {
+            "person_name": "Wincenty Hempl",
+            "person_date": "brak danych",
+            "person_info": "właściciel domu i jatki rzeźniczej"
+        },
+        {
+            "person_name": "Stanisław Bonar",
+            "person_date": "1561",
+            "person_info": "dłużnik"
+        },
+        {
+            "person_name": "Dorota Bonar",
+            "person_date": "1561",
+            "person_info": "dłużnik"
+        },
+        {
+            "person_name": "Stanisław Wilczkowicz",
+            "person_date": "1561",
+            "person_info": "dłużnik"
+        },
+        {
+            "person_name": "Marcin",
+            "person_date": "1563",
+            "person_info": "serwitor krakowskiej rodziny Schillingów"
+        },
+        {
+            "person_name": "Anna",
+            "person_date": "1563",
+            "person_info": "serwitor krakowskiej rodziny Schillingów"
+        },
+        {
+            "person_name": "Stanisław Karwie",
+            "person_date": "brak danych",
+            "person_info": "zmarły dłużnik"
+        },
+        {
+            "person_name": "Jan Kossus",
+            "person_date": "1551",
+            "person_info": "kanonik poznański"
+        },
+        {
+            "person_name": "Fryderyk Szmalc",
+            "person_date": "1561",
+            "person_info": "ławnik Sądu Wyższego Prawa Magdeburskiego na Zamku krakowskim"
+        },
+        {
+            "person_name": "Jan Spigler",
+            "person_date": "1561",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Gastgieb",
+            "person_date": "1561",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Paczek",
+            "person_date": "1561",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jadwiga Paczkowa",
+            "person_date": "1561",
+            "person_info": "wdowa po Janie Paczku"
+        },
+        {
+            "person_name": "Spytek Wawrzyńcowi Jordan",
+            "person_date": "1561",
+            "person_info": "wojewoda krakowski"
+        },
+        {
+            "person_name": "Erazem Aichler",
+            "person_date": "1564",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Albert Hohenzollern",
+            "person_date": "1568",
+            "person_info": "margrabia brandenburski"
+        },
+        {
+            "person_name": "Fryderyk Hohenzollern",
+            "person_date": "1568",
+            "person_info": "margrabia brandenburski"
+        },
+        {
+            "person_name": "Walerian Pernus",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Hallenberger",
+            "person_date": "1568",
+            "person_info": "faktor Bartłomieja Szembeka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Stendal",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1535"
+        },
+        {
+            "place": "Kraków",
+            "date": "1544"
+        },
+        {
+            "place": "Rzeszów",
+            "date": "1557"
+        },
+        {
+            "place": "Kamieniec Podolski",
+            "date": "1553"
+        },
+        {
+            "place": "Poznań",
+            "date": "1560"
+        },
+        {
+            "place": "Parczew",
+            "date": "1564"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1564"
+        },
+        {
+            "place": "Olkusz",
+            "date": "1568"
+        },
+        {
+            "place": "Działoszyn",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+  "Nazwisko": [
+    "Patruus"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Jan Patruus"
+  ],
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1538"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "introligator",
+    "księgarz i nakładca"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "kapituła poznański"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Patruus",
+      "target": "Jan Patruus",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Patruus",
+      "target": "Jan «",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Patruus",
+      "target": "»",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Melchiora i",
+      "target": "Michaela Lotterów",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "P-a",
+      "target": "Lotterami",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+    "name": "Kolumba Białecka",
+    "psb_id": "PSB-02-0007",
+    "biogram_file": "Bialecka_Kolumba.txt",
+    "date_of_birth": {
+        "date": "1838-08-23"
+    },
+    "place_of_birth": {
+        "place": "Jaśniszcze",
+        "note": "koło Podkamienia w powiecie brodzkim"
+    },
+    "date_of_death": {
+        "date": "1887-03-18"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": null
+    },
+    "functions": [
+        "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce",
+        "zakonnica",
+        "nauczycielka w szkołach powszechnych",
+        "fundatorka klasztoru w Bielinach",
+        "fundatorka klasztoru w Tyczynie",
+        "fundatorka klasztoru w Rawie Ruskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "klasztor Sacré Coeur",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "zgromadzenie ss. dominikanek III Zakonu regularnego",
+            "institution_place": "Polska"
+        },
+        {
+            "institution_name": "zakon dominikanek",
+            "institution_place": "Nancy"
+        },
+        {
+            "institution_name": "macierzysty dom zakonu",
+            "institution_place": "Wielowies"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Bieliny"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Tyczyn"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Rawa Ruska"
+        },
+        {
+            "institution_name": "zgromadzenie",
+            "institution_place": "Stany Zjednoczone, Chicago"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Franciszek"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna Ernestyna z Radziejowskich"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Wincenty Jandel",
+            "person_date": "brak danych",
+            "person_info": "generał zakonu oo. dominikanów"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Jaśniszcze",
+            "date": "1838-08-23"
+        },
+        {
+            "place": "Lwów",
+            "date": "1850"
+        },
+        {
+            "place": "Nancy",
+            "date": "1858"
+        },
+        {
+            "place": "Polska",
+            "date": "1859"
+        },
+        {
+            "place": "Wielowies",
+            "date": "1861"
+        },
+        {
+            "place": "Francja",
+            "date": "1869"
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "name": "Henryk Drzewiecki",
+    "psb_id": "PSB-05-0568",
+    "biogram_file": "Drzewiecki_Henryk.txt",
+    "date_of_birth": {
+        "date": "1873"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1937"
+    },
+    "place_of_death": {
+        "place": "Wyszków",
+        "note": "nad Bugiem"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "artysta śpiewak",
+        "doktor praw",
+        "autor rozpraw w zakresie historii notariatu w Polsce",
+        "pierwszy tenor liryczny opery we Lwowie",
+        "sędzia okręgowy w Radomiu",
+        "rejent"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Konserwatorium",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Opera",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Opera",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sąd Okręgowy",
+            "institution_place": "Radom"
+        },
+        {
+            "institution_name": "Izba Notarialna",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Gabl",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel śpiewu"
+        },
+        {
+            "person_name": "Cotogni",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel śpiewu"
+        },
+        {
+            "person_name": "Barbacin",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel śpiewu"
+        },
+        {
+            "person_name": "Tadeusz Pawlikowski",
+            "person_date": "1901-1902",
+            "person_info": "dyrektor opery we Lwowie"
+        },
+        {
+            "person_name": "Erazm Dłuski",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Henryk Skirmunt",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Puccini",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Bizet",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Verdi",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Gounod",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Massenet",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Moniuszko",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Czajkowski",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Mascagni",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Bellini",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Wagner",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Auber",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Rubinstein",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1873"
+        },
+        {
+            "place": "Wyszków",
+            "date": "1937-10-04"
+        },
+        {
+            "place": "Radom",
+            "date": "brak danych"
+        },
+        {
+            "place": "Petersburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wenecja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mediolan",
+            "date": "brak danych"
+        },
+        {
+            "place": "Livorno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Modena",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1901-1902"
+        }
+    ]
+}

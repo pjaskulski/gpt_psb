@@ -1,0 +1,129 @@
+{
+    "name": "Jan Farurej",
+    "psb_id": "PSB-06-0547",
+    "biogram_file": "Farurej_Jan_z.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1453"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "rycerz",
+        "sługa Zygmunta Luksemburskiego",
+        "wojownik w bitwie pod Grunwaldem",
+        "uczestnik turnieju w Budzie",
+        "świadek na przywileju jedlneńskim",
+        "uczestnik konfederacji korczyńskiej",
+        "possessionatus na Węgrzech",
+        "posiadacz wsi Osobnica"
+    ],
+    "institutions": [
+        {
+            "institution_name": "służba u Zygmunta Luksemburskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "dwór królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "turniej w Budzie",
+            "institution_place": "Buda"
+        },
+        {
+            "institution_name": "konfederacja korczyńska",
+            "institution_place": "Korczyn"
+        },
+        {
+            "institution_name": "tron węgierski",
+            "institution_place": "Węgry"
+        },
+        {
+            "institution_name": "wyprawa warneńska",
+            "institution_place": "Warna"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Zawisza Czarny"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Piotr Kruczek"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Zawisza"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Piotr"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stefan"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zygmunt Luksemburski",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jagiełło",
+            "person_date": "1410",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Władysław III",
+            "person_date": "1440",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Głowacz z Oleśnicy",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Garbów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bośnia",
+            "date": "1408"
+        },
+        {
+            "place": "Grunwald",
+            "date": "1410"
+        },
+        {
+            "place": "Buda",
+            "date": "1412"
+        },
+        {
+            "place": "Jedlnia",
+            "date": "1430"
+        }
+    ]
+}

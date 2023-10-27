@@ -1,0 +1,60 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "biskup krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Gedko",
+      "target": "Wincentego",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Gedko",
+      "target": "Gedeona",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Wojsław",
+      "target": "Władysława Hermana",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Wojsław",
+      "target": "Bolesława Krzywoustego",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "G-ki",
+      "target": "Wojsław",
+      "name": "protagonist - dziadek/babcia"
+    },
+    {
+      "source": "G-ki",
+      "target": "Władysława Hermana",
+      "name": "protagonist - dziadek/babcia"
+    },
+    {
+      "source": "G-ki",
+      "target": "Bolesława Krzywoustego",
+      "name": "protagonist - dziadek/babcia"
+    },
+    {
+      "source": "G-ki",
+      "target": "Wojsława",
+      "name": "protagonist - dziadek/babcia"
+    }
+  ]
+}

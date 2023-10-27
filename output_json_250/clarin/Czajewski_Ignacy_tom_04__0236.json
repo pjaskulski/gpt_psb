@@ -1,0 +1,47 @@
+{
+  "Nazwisko": [
+    "Czajewski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ignacy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1868"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1922"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz w Ząbkach"
+  ],
+  "Zawód": [
+    "ks.",
+    "kanonik honorowy kapituły mohylewskiej",
+    "po ukończeniu seminarium duchownego w Petersburgu wstąpił do Akademii Duch"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia Duch .",
+    "C . K . O .",
+    "P . T . P . O . W",
+    "G . P . ustawa ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Petersburg",
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Cz-a",
+      "target": "Krylenko",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

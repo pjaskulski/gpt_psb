@@ -1,0 +1,66 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Siemowit"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1446"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "05-07-1461"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "04-01-1462"
+  ],
+  "Miejsce pochówku": [
+    "katedra płocki"
+  ],
+  "Zawód": [
+    "książę mazowiecki na Płocku",
+    "Rawie",
+    "Sochaczewie",
+    "Gostyninie",
+    "Płońsku",
+    "Zawkrzu",
+    "Wiźnie i Bełzie"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Władysław I",
+      "target": "Annę",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Władysław I",
+      "target": "Siemowita",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S.",
+      "target": "Władysława I",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Jan z Nieborowa",
+      "target": "Ninogniew Kryski",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "S-a",
+      "target": "Anny",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "S-a",
+      "target": "Władysława",
+      "name": "protagonist - znacząca osoba"
+    }
+  ]
+}

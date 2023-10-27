@@ -1,0 +1,51 @@
+{
+  "Nazwisko": [
+    "Robel"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Zygmunt",
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "28-08-1886"
+  ],
+  "Miejsce urodzenia": [
+    "Krakowie"
+  ],
+  "Data śmierci": [
+    "24-05-1962"
+  ],
+  "Miejsce śmierci": [
+    "Krakowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz Rakowicki"
+  ],
+  "Zawód": [
+    "biochemik",
+    "toksykolog sądowy",
+    "wykładowca na UJ",
+    "kierownik Instytutu Ekspertyz Sądowych w Krakowie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "UJ",
+    "instytut ekspertyza sądowy w",
+    "III gimnazjum imienia . Sobieski",
+    "wydział filozoficzny",
+    "zakład chemia lekarski",
+    "R"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": null
+}

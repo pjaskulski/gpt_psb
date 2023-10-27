@@ -1,0 +1,161 @@
+{
+    "name": "Robert Quest",
+    "psb_id": "PSB-29-0351",
+    "biogram_file": "Quest_Robert.txt",
+    "date_of_birth": {
+        "date": "1874-01-13"
+    },
+    "place_of_birth": {
+        "place": "Lwów"
+    },
+    "date_of_death": {
+        "date": "1942-09-17"
+    },
+    "place_of_death": {
+        "place": "Opawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Rövensdorf"
+    },
+    "functions": [
+        "lekarz",
+        "pediatra",
+        "urzędnik Banku Krajowego we Lwowie",
+        "działacz Tow. Tatrzańskiego",
+        "asystent kliniki dziecięcej we Wrocławiu",
+        "ordynariusz szpitala zakaźnego we Lwowie",
+        "prymariusz oddziału internistycznego Szpitala Dziecięcego im. Św. Zofii we Lwowie",
+        "współpracownik zakładu patologii ogólnej i doświadczalnej Uniw. Lwow.",
+        "wykładowca na Uniw. Lwow.",
+        "organizator kolonii dziecięcych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Bank Krajowy",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Tow. Tatrzańskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gimnazjum",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Uniwersytet",
+            "institution_place": "Graz"
+        },
+        {
+            "institution_name": "Klinika Dziecięca",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Szpital Zakaźny",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Szpital Dziecięcy im. Św. Zofii",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Zakład Patologii Ogólnej i Doświadczalnej Uniw. Lwow.",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Uniw. Lwow.",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kolonie Dziecięce",
+            "institution_place": "Szczawnica"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "dziadek",
+            "person": "nieznane"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Rudolf Quest"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Emilia Mannowa"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Kazimierz"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Roman"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Tadeusz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "T. Escherich",
+            "person_date": "1900-1902",
+            "person_info": "lekarz, pediatra"
+        },
+        {
+            "person_name": "M. Pfaundler",
+            "person_date": "1900-1902",
+            "person_info": "lekarz, pediatra"
+        },
+        {
+            "person_name": "A. Czerny",
+            "person_date": "1902-1905",
+            "person_info": "lekarz, pediatra"
+        },
+        {
+            "person_name": "Kazimierz Mann",
+            "person_date": "brak danych",
+            "person_info": "malarz zakopiański"
+        },
+        {
+            "person_name": "Roman Mann",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Mann",
+            "person_date": "brak danych",
+            "person_info": "profesor biochemii i fizjologii w Cambridge"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1874-01-13"
+        },
+        {
+            "place": "Rövensdorf",
+            "date": "brak danych"
+        },
+        {
+            "place": "Graz",
+            "date": "1900"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1902-1905"
+        },
+        {
+            "place": "Lwów",
+            "date": "1906-1913"
+        },
+        {
+            "place": "Lwów",
+            "date": "1913"
+        }
+    ]
+}

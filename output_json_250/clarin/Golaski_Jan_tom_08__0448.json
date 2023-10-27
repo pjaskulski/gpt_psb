@@ -1,0 +1,43 @@
+{
+  "Nazwisko": [
+    "Gołaski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Goławski"
+  ],
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "04-02-1745"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1807"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rektor kolegium pijarskiego w Radziejowie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "KEN",
+    "Ken",
+    "collegium Nobilium"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "G.",
+      "target": "Teodora Wagę",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

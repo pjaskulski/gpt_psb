@@ -1,0 +1,61 @@
+{
+  "Nazwisko": [
+    "Szapocznikow"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Alina"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "16-05-1926"
+  ],
+  "Miejsce urodzenia": [
+    "Kalisz"
+  ],
+  "Data śmierci": [
+    "25-01-1973"
+  ],
+  "Miejsce śmierci": [
+    "Praz"
+  ],
+  "Data pochówku": [
+    "06-03-1973"
+  ],
+  "Miejsce pochówku": [
+    "Paryż na cmentarzu Montmartre"
+  ],
+  "Zawód": [
+    "rzeźbiarka"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "gimnazjum święty . Jadwiga",
+    "muza . sztuka w Łódź",
+    "wysoki szkoła artystyczny - przemysłowy",
+    "École Nationale Supérieure des Beaux - Arts"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    "Praga",
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S.",
+      "target": "Szapocznik",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Szapocznik",
+      "target": "Szapocznikow",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Otokara Velinskiego",
+      "target": "Bedřichem Stefanem",
+      "name": "krewny-współmałżonek"
+    }
+  ]
+}

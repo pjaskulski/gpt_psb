@@ -1,0 +1,80 @@
+{
+  "Nazwisko": [
+    "Spettowa"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Janczyszyn-Spettowa"
+  ],
+  "Imię/imiona": [
+    "Stanisława",
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "12-02-1902"
+  ],
+  "Miejsce urodzenia": [
+    "Lwowie"
+  ],
+  "Data śmierci": [
+    "03-07-1994"
+  ],
+  "Miejsce śmierci": [
+    "Dom Pomoc Społeczny"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "lekarz",
+    "neuroradiolog",
+    "profesor Akademii Medycznej w Krakowie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia medyczny w Kraków",
+    "Wydz . lekarski",
+    "UJK",
+    "państwo . szpital powszechny",
+    "klinika choroba nerwowy i umysłowy",
+    "lwowski medyczny instytut",
+    "Lwiwśkij medycznyj instytut",
+    "oddział farmaceutyczny",
+    "szpital powszechny w",
+    "Inst . rentgenologia",
+    "państwowy Medyczno - przyrodniczy Kursa zawodowy",
+    "Staatliche Medizinisch - Naturwissenschaftliche Fachkurse Lemberg",
+    "klinika medyczny",
+    "klinika Neurologiczno - psychiatryczny",
+    "UJ",
+    "akademia medyczny",
+    "AM",
+    "klinika neurochirurgia"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Spettowa (Janczyszyn-Spettowa",
+      "target": "Stanisława Maria",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

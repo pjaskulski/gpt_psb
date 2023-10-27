@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Dzierżek"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Natalia"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1861"
+  ],
+  "Miejsce urodzenia": [
+    "Kotiużanach Na Podole"
+  ],
+  "Data śmierci": [
+    "30-12-1931"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "literatka",
+    "artystka-malarka",
+    "działaczka społeczna"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "szkoła sztuka piękny",
+    "Sokołów"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Prażmowską",
+      "target": "Konieczką",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Prażmowską",
+      "target": "Jabłońskim",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Konieczką",
+      "target": "Jabłońskim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

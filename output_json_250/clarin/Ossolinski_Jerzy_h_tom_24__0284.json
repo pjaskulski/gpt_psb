@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Ossoliński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jerzy"
+  ],
+  "Herb": [
+    "Topór"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "15-12-1595"
+  ],
+  "Miejsce urodzenia": [
+    "Sandomierzu"
+  ],
+  "Data śmierci": [
+    "DD-MM-1650"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół kolegiacki w Klimontowie"
+  ],
+  "Zawód": [
+    "podskarbi nadworny",
+    "wojewoda sandomierski",
+    "podkanclerzy",
+    "potem kanclerz koronny"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "stan generalny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Anny z Firlejów",
+      "target": "Maksymiliana",
+      "name": "współmałżonek - krewny"
+    }
+  ]
+}

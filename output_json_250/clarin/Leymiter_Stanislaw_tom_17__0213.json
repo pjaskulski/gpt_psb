@@ -1,0 +1,77 @@
+{
+  "Nazwisko": [
+    "Leymiter"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1462"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz mariacki"
+  ],
+  "Zawód": [
+    "kupiec i rajca krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "L-a",
+      "target": "Mikołaj",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "L-a",
+      "target": "Benigna",
+      "name": "protagonist - matka"
+    },
+    {
+      "source": "L-a",
+      "target": "Wita Stwosza",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Zofią",
+      "target": "Jana Tesznara",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "Zofii",
+      "target": "Agnieszkę",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Zofii",
+      "target": "Katarzynę",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Agnieszkę",
+      "target": "Katarzynę",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Zofii Leymiterowej",
+      "target": "Jan Tesznar",
+      "name": "współmałżonek - krewny"
+    },
+    {
+      "source": "Zofii Leymiterowej",
+      "target": "Mikołaj Leymiter",
+      "name": "współmałżonek - krewny"
+    }
+  ]
+}

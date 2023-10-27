@@ -1,0 +1,76 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Edward"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1843"
+  ],
+  "Miejsce urodzenia": [
+    "Lwowie"
+  ],
+  "Data śmierci": [
+    "16-01-1914"
+  ],
+  "Miejsce śmierci": [
+    "Lwowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "lekarz-akuszer",
+    "prezydent Izby Lekarskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "izba lekarski",
+    "wydział lekarski",
+    "instytut Medyka -",
+    "chirurgiczny",
+    "oddział ginekologiczny",
+    "zakład położniczy",
+    "izba wschodni - galicyjski",
+    "izba",
+    "lekarz .",
+    "kasa",
+    "dla chory lekarz",
+    "towarzysz . lekarz galicyjski",
+    "fundusz wdowa i sierota po lekarz",
+    "towarzysz . opieka szpitalny nad dziecko",
+    "lwowski towarzysz . lekarski",
+    "towarzysz . ginekologiczny w",
+    "krajowy",
+    "rada",
+    "zdrowie"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    "Czerniowce",
+    "Lwów",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Webera",
+      "target": "Adama Czyżewicza",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

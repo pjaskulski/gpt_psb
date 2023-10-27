@@ -1,0 +1,133 @@
+{
+    "name": "Ewa Felińska",
+    "psb_id": "PSB-06-0592",
+    "biogram_file": "Felinska_Ewa.txt",
+    "date_of_birth": {
+        "date": "1793-12-26"
+    },
+    "place_of_birth": {
+        "place": "Uznoha",
+        "note": "powiat słucki, Litwa"
+    },
+    "date_of_death": {
+        "date": "1859-12-20"
+    },
+    "place_of_death": {
+        "place": "Wojutyn",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": null
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": null
+    },
+    "functions": [
+        "autorka powieści i pamiętników",
+        "opiekunka dzieci",
+        "dzierżawczyni majątku",
+        "pisarka",
+        "gospodyni domowa",
+        "właścicielka gospodarstwa"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Tygodnik Petersburski",
+            "institution_place": "Petersburg"
+        },
+        {
+            "institution_name": "Athenaeum",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Bibl. Warsz.",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Zawadzki",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Zygmunt Wendorff"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Zofia Wendorff"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Gerard F."
+        },
+        {
+            "family_relation": "brat męża",
+            "person": "Alojzy F."
+        },
+        {
+            "family_relation": "syn",
+            "person": "Zygmunt Szczęsny Feliński"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Paulina Felińska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "M. Grabowski",
+            "person_date": "1843",
+            "person_info": "osoba, która oceniła talent literacki Ewy Felińskiej"
+        },
+        {
+            "person_name": "Kraszewski",
+            "person_date": "brak danych",
+            "person_info": "osoba, która oceniła rękopis Ewy Felińskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Uznoha",
+            "date": "1793-12-26"
+        },
+        {
+            "place": "powiat łucki",
+            "date": "1831"
+        },
+        {
+            "place": "Galicja",
+            "date": "1831"
+        },
+        {
+            "place": "Wojutyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krzemieniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1838"
+        },
+        {
+            "place": "Kijów",
+            "date": "1838"
+        },
+        {
+            "place": "Berezowo",
+            "date": "1839-1841"
+        },
+        {
+            "place": "Saratów",
+            "date": "1841-1844"
+        },
+        {
+            "place": "Wojutyn",
+            "date": "1859-12-20"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+  "Nazwisko": [
+    "Łachowski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Lachowski",
+    "Lachovius"
+  ],
+  "Imię/imiona": [
+    "Andrzej"
+  ],
+  "Herb": [
+    "Pilawa"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1627"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "06-08-1691"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "był synem ubożejącego szlachcica Dawida",
+    "dziedzica części Mękarzowa",
+    "Wilkowa i Raszkowa",
+    "oraz Marii Anny Lubienieckiej h. Rola"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Łachowski (Lachowski",
+      "target": "Lachovius) Andrzej z Moskorzowa",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Morsztynami",
+      "target": "Dawid",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Morsztynami",
+      "target": "Hieronima Moskorzowskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Dawid",
+      "target": "Hieronima Moskorzowskiego",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

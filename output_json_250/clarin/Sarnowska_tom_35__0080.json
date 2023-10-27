@@ -1,0 +1,64 @@
+{
+  "Nazwisko": [
+    "Sarnowska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Lubicz",
+    "Lubicz-Sarnowska"
+  ],
+  "Data urodzenia": [
+    "13-10-1891"
+  ],
+  "Miejsce urodzenia": [
+    "Lublinie"
+  ],
+  "Data śmierci": [
+    "25-04-1958"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "również aktora i dyrektora teatrów"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "warszawski teatr rządowy",
+    "teatr miejski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Sarnowska, zamężna Mühsam",
+      "target": "Stanisława",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Lubicz",
+      "target": "Lubicz-Sarnowska",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Lubicz",
+      "target": "Wojewodzianki",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Lubicz",
+      "target": "Lucjana Rydla",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Wojewodzianki",
+      "target": "Lucjana Rydla",
+      "name": "ważna postać - współmałżonek"
+    }
+  ]
+}

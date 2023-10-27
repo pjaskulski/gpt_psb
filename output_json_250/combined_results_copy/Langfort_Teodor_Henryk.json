@@ -1,0 +1,93 @@
+{
+    "name": "Teodor Henryk Langfort",
+    "psb_id": "PSB-16-0509",
+    "biogram_file": "Langfort_Teodor_Henryk.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "inżynier",
+        "kartograf",
+        "oficer regimentu w batalionie Skarbu Kor",
+        "pomocnik przy robotach hydrauliczno-melioracyjnych",
+        "kwatermistrz regimentu w batalionie Skarbu Kor",
+        "kapitan regimentu pieszego 16",
+        "major w regimentie pieszego 16"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Regiment w batalionie Skarbu Kor.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Skarbowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Archiwum Akt Dawnych (Dział Kartografii)",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "major de Woyten",
+            "person_date": "1776",
+            "person_info": "major"
+        },
+        {
+            "person_name": "Roman",
+            "person_date": "1819",
+            "person_info": "inżynier, kierownik robót"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "brak danych",
+            "date": "brak danych"
+        },
+        {
+            "place": "Liwiec",
+            "date": "1776"
+        },
+        {
+            "place": "Wkra",
+            "date": "1776"
+        },
+        {
+            "place": "Pilica",
+            "date": "1776"
+        },
+        {
+            "place": "Wisła",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warta",
+            "date": "1790"
+        },
+        {
+            "place": "Sieradz",
+            "date": "1790"
+        },
+        {
+            "place": "Siemiątki",
+            "date": "1790"
+        }
+    ]
+}

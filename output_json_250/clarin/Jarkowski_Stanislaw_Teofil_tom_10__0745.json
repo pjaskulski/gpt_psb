@@ -1,0 +1,58 @@
+{
+  "Nazwisko": [
+    "Jarkowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław",
+    "Teofil"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "05-11-1882"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1947"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "dziennikarz i badacz prasy"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "II gimnazjum filologiczny",
+    "wydział filologiczny",
+    "Uniw . Warsz .",
+    "akademia handlowy",
+    "wydział filozoficzny",
+    "towarzysz . literat i dziennikarz polski",
+    "komitet obywatelski miasto . stary . Warszawa",
+    "komisja prasowy",
+    "rada główny opiekuńczy",
+    "towarzysz"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Teofila",
+      "target": "Klementyny Strupeźnickiej",
+      "name": "matka - krewny"
+    }
+  ]
+}

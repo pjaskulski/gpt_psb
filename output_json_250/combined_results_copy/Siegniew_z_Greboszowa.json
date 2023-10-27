@@ -1,0 +1,176 @@
+{
+    "name": "Sięgniew z Gręboszowa",
+    "psb_id": "PSB-37-0204",
+    "biogram_file": "Siegniew_z_Greboszowa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1372-11-06"
+    },
+    "place_of_death": {
+        "place": "Śląsk",
+        "note": null
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "podkanclerzy krakowski",
+        "prepozyt kolegiaty św. Michała na zamku krakowskim",
+        "poseł Kazimierza Wielkiego",
+        "kanonik krakowskiej kapituły katedralnej",
+        "kapelan Karola IV",
+        "prepozyt wrocławski",
+        "archidiakon opolski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet w Bolonii",
+            "institution_place": "Bolonii"
+        },
+        {
+            "institution_name": "Dwór Kazimierza Wielkiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegiata św. Michała na zamku krakowskim",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kapituła św. Floriana w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kuria papieska",
+            "institution_place": "Awinion"
+        },
+        {
+            "institution_name": "Kapituła wrocławska",
+            "institution_place": "Wrocław"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation":"ojciec", 
+            "person":"Włost"
+        },
+        {   
+            "family_relation":"brat", 
+            "person":"Jakub"
+        },
+        {
+            "family_relation":"brat", 
+            "person":"Witek"
+        },
+        {
+            "family_relation":"brat", 
+            "person":"Dzierżek"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Dzierżek Mędrostka",
+            "person_date": "brak danych",
+            "person_info": "prawdopodobnie przyszły kanonik kapituły św. Floriana w Krakowie"
+        },
+        {
+            "person_name": "Kazimierz Wielki",
+            "person_date": "1333",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Piotr Szyrzyk z Fałkowa",
+            "person_date": "1333",
+            "person_info": "poprzednik Sięgniewa na stanowisku podkanclerzego"
+        },
+        {
+            "person_name": "Jan Luksemburski",
+            "person_date": "1337",
+            "person_info": "król Czech"
+        },
+        {
+            "person_name": "Karol IV",
+            "person_date": "1356",
+            "person_info": "cesarz rzymski"
+        },
+        {
+            "person_name": "Innocenty VI",
+            "person_date": "1357",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Jan Jura",
+            "person_date": "1360",
+            "person_info": "poseł królewski"
+        },
+        {
+            "person_name": "Bodzęta",
+            "person_date": "1351",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jan z Poznania",
+            "person_date": "1360",
+            "person_info": "biskup poznański"
+        },
+        {
+            "person_name": "Urban V",
+            "person_date": "1362",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Jakub z Paczkowa",
+            "person_date": "brak danych",
+            "person_info": "prepozyt wrocławski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gręboszów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1333-06-30"
+        },
+        {
+            "place": "Wielkopolska",
+            "date": "1337"
+        },
+        {
+            "place": "Kujawy",
+            "date": "1337"
+        },
+        {
+            "place": "Inowrocław",
+            "date": "1337"
+        },
+        {
+            "place": "Poznań",
+            "date": "1337"
+        },
+        {
+            "place": "Praga",
+            "date": "1341"
+        },
+        {
+            "place": "Awinion",
+            "date": "1357"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1362"
+        },
+        {
+            "place": "Opole",
+            "date": "1368"
+        }
+    ]
+}

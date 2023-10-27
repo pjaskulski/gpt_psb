@@ -1,0 +1,166 @@
+{
+    "name": "Bartosz Charbinowski",
+    "psb_id": "PSB-03-0428",
+    "biogram_file": "Charbinowski_Bartosz.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Charbinowice",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "podkomorzy sandomierski",
+        "cześnik krakowski",
+        "starosta lubelski",
+        "posłowie",
+        "starosta podolski",
+        "podczaszy sandomierski",
+        "biskup krakowski",
+        "starosta podol.",
+        "ochmistrz dworu królowej Anny",
+        "rzecznik królewski",
+        "przedchorągiewny rycerz chorągwi małopolskiej",
+        "chorąży sandomierski",
+        "podczaszy lwowski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Podkomorzy sandomierski",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Cześnik krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Starosta lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Starosta podolski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biskupstwo krakowskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Ochmistrz dworu królowej Anny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Chorąży sandomierski",
+            "institution_place": "Sandomierz"
+        },
+        {
+            "institution_name": "Podczaszy lwowski",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Włodko"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Halszka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Piotr"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Stanisław"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "żona",
+            "person": "bratanica Piotra Wysza"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "nieznane imię"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Włodko",
+            "person_date": "brak danych",
+            "person_info": "cześnik krakowski, starosta lubelski"
+        },
+        {
+            "person_name": "Piotr Wysz",
+            "person_date": "brak danych",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Anna",
+            "person_date": "około 1414",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Wojciech Jastrzębiec",
+            "person_date": "1420",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Mikołaj Synowiec",
+            "person_date": "1410",
+            "person_info": "rycerz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Charbinowice",
+            "date": "XIII wiek"
+        },
+        {
+            "place": "Kraków",
+            "date": "1365-1383"
+        },
+        {
+            "place": "Lublin",
+            "date": "1383-1391"
+        },
+        {
+            "place": "Podole",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ogrodzieńce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wierzchosławice",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Krumhausen"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Gabriel"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "14-09-1614"
+  ],
+  "Miejsce urodzenia": [
+    "Gdańsku"
+  ],
+  "Data śmierci": [
+    "DD-MM-1685"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "burmistrz i burgrabia królewski w Gdańsku"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "gimnazjum akademicki w Gdańsk",
+    "komisja wojenny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Joachima",
+      "target": "Gertrudy Schumann",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Jerzym von Boemeln",
+      "target": "Jerzym Lubomirskim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

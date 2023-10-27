@@ -1,0 +1,56 @@
+{
+  "Nazwisko": [
+    "Stawska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Paulina"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "29-10-1855"
+  ],
+  "Miejsce urodzenia": [
+    "Toruniu"
+  ],
+  "Data śmierci": [
+    "04-11-1934"
+  ],
+  "Miejsce śmierci": [
+    "Krakowie"
+  ],
+  "Data pochówku": [
+    "06-11-1934"
+  ],
+  "Miejsce pochówku": [
+    "kaplik matka Boskiej Bolesnej przy kościele Niepokalanego Serca NMP przy ul. Smoleńsk"
+  ],
+  "Zawód": [
+    "przełożona generalna felicjanek"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zgromadzenie siostra Felicjanek",
+    "prowincja ofiarować NMP",
+    "Catholic University of America",
+    "Kapit . generalny"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Kraków",
+    null,
+    null,
+    "Kraków"
+  ],
+  "Relacje": [
+    {
+      "source": "Stawska Paulina",
+      "target": "Maria Bonawentura",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Pydynkowskiej",
+      "target": "Kajetany Jankiewicz",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+    "name": "Falęta",
+    "psb_id": "PSB-06-0519",
+    "biogram_file": "Faleta.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "dziekan katedry w Gnieźnie",
+        "kandydat książęcy na biskupstwo w Poznaniu",
+        "biskup"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Katedra w Gnieźnie",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Biskupstwo w Poznaniu",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Kapituła poznańska",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Kuria papieska",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Biskupstwo wrocławskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Kapituła katedralna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dziekania gnieźnieńska",
+            "institution_place": "Gniezno"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Bogufał III",
+            "person_date": "1264",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Pietrzyk",
+            "person_date": "1264",
+            "person_info": "prepozyt kapituły poznańskiej"
+        },
+        {
+            "person_name": "Janusz",
+            "person_date": "1265/7",
+            "person_info": "arcbiskup gnieźnieński"
+        },
+        {
+            "person_name": "Bolesław Pobożny",
+            "person_date": "1265/7",
+            "person_info": "książę Wielkopolski"
+        },
+        {
+            "person_name": "Jan",
+            "person_date": "1265/7",
+            "person_info": "archidiakon, elekt kapituły poznańskiej"
+        },
+        {
+            "person_name": "Klemens IV",
+            "person_date": "1265/7",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Baszko-Godysław",
+            "person_date": "1267",
+            "person_info": "kustosz, delegat kapituły poznańskiej"
+        },
+        {
+            "person_name": "Mikołaj",
+            "person_date": "1267",
+            "person_info": "kapelan papieża, scholastyk krakowski, kanonik wrocławski"
+        },
+        {
+            "person_name": "Gosław",
+            "person_date": "1283",
+            "person_info": "dziekan gnieźnieński"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gniezno",
+            "date": "1262"
+        },
+        {
+            "place": "Poznań",
+            "date": "1265/7"
+        },
+        {
+            "place": "Pyzdry",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

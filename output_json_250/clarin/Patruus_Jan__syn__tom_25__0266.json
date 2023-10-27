@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Patruus"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1500"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "19-04-1583"
+  ],
+  "Miejsce śmierci": [
+    "Poznaniu"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "katedra poznański"
+  ],
+  "Zawód": [
+    "introligator",
+    "księgarz",
+    "nakładca poznański"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Konrada Krügera",
+      "target": "Jana Rhama",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Wawrzyńca",
+      "target": "Adama Milbacha",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Mikołaja Gencza",
+      "target": "Adama Milbacha",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

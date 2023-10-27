@@ -1,0 +1,68 @@
+{
+  "Nazwisko": [
+    "Kakowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Aleksander"
+  ],
+  "Herb": [
+    "Kościesza"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "05-02-1862"
+  ],
+  "Miejsce urodzenia": [
+    "Dębina"
+  ],
+  "Data śmierci": [
+    "30-12-1938"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "arcybiskup metropolita warszawski",
+    "kardynał",
+    "prymas Królestwa Polskiego",
+    "członek Rady Regencyjnej"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "rada regencyjny",
+    "seminarium duchowny",
+    "Warszawa",
+    "akademia duchowny",
+    "Petersburg",
+    "wydział prawny",
+    "uniwersytet gregoriański",
+    "szkoła",
+    "adwokat",
+    "kongregacja soborowy",
+    "seminarium duchowny w Warszawa",
+    "sąd arcybiskupi",
+    "akademia duchowny w Petersburg"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    "Pułtusk",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "polski",
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Franciszek",
+      "target": "Paulina z Ossowskich",
+      "name": "protagonist - matka"
+    }
+  ]
+}

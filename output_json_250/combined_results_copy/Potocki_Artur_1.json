@@ -1,0 +1,382 @@
+{
+    "name": "Artur Potocki",
+    "psb_id": "PSB-27-0514",
+    "biogram_file": "Potocki_Artur_1.txt",
+    "date_of_birth": {
+        "date": "1850-06-14"
+    },
+    "place_of_birth": {
+        "place": "Krzeszowice"
+    },
+    "date_of_death": {
+        "date": "1890-03-26"
+    },
+    "place_of_death": {
+        "place": "Krzeszowice"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Krzeszowice",
+        "note": "groby rodzinne w kościele krzeszowickim"
+    },
+    "functions": [
+        "konserwatywny polityk galicyjski",
+        "sekretarz polskiego Tow. Literacko-Słowiańskiego",
+        "prezes polskiego Tow. Literacko-Słowiańskiego",
+        "sekretarz Kółka Towarzyskiego Akademików Wrocławskich Narodowości Polskiej",
+        "porucznik",
+        "administrator majątków własnych oraz dóbr krewnych",
+        "członek honorowy Tow. Przemysłowców Polskich we Wrocławiu",
+        "prezes Komitetu Wystawy Krajowej Rolniczo-Przemysłowej oraz Sztuk Pięknych w Krakowie",
+        "szambelan cesarski",
+        "dożywotni członek Izby Panów",
+        "poseł do Sejmu Krajowego",
+        "sprawozdawca i przewodniczący komisji budżetowej",
+        "sprawozdawca i przewodniczący komisji rybackiej",
+        "członek Wydziału Rady Powiatowej w Chrzanowie",
+        "marszałek powiatu chrzanowskiego",
+        "właściciel drukarni",
+        "członek Komitetu Tow. Rolniczego w Krakowie",
+        "prezes Tow. Rolniczego w Krakowie",
+        "członek Rady Nadzorczej Tow. Wzajemnych Ubezpieczeń w Krakowie",
+        "prezes Tow. Wzajemnych Ubezpieczeń w Krakowie",
+        "członek rad nadzorczych Länderbanku w Wiedniu",
+        "członek rad nadzorczych Banku Galicyjskiego dla Handlu i Przemysłu w Krakowie",
+        "członek rad nadzorczych Galicyjskiego Tow. Kredytowego Ziemskiego w Krakowie",
+        "członek Wydziału Galicyjskiego Tow. Łowieckiego",
+        "członek Tow. Rybackiego w Krakowie",
+        "członek honorowy Galicyjskiego Tow. Leśnego",
+        "członek Ornitologische Verein w Wiedniu",
+        "członek Rady Nadzorczej Macierzy Polskiej",
+        "przewodniczący Komitetu powodziowego",
+        "członek krakowskiej Rady Miejskiej",
+        "członek Tow. Dobroczynności",
+        "członek Arcybractwa Miłosierdzia i Banku Pobożnego",
+        "założyciel Tow. dla Upiększania Krakowa i Okolicy",
+        "członek Tow. Sztuk Pięknych w Krakowie",
+        "członek Wydziału Tow. Tatrzańskiego",
+        "członek Zarządu Tow. Muzycznego w Krakowie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum Św. Anny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet Wrocławski",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Towarzystwo Literacko-Słowiańskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Kółko Towarzyskiego Akademików Wrocławskich Narodowości Polskiej",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Towarzystwo Przemysłowców Polskich",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Komitet Wystawy Krajowej Rolniczo-Przemysłowej oraz Sztuk Pięknych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "„Czas”",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Wydział Rady Powiatowej w Chrzanowie",
+            "institution_place": "Chrzanów"
+        },
+        {
+            "institution_name": "Sejm Krajowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Rolnicze",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Wzajemnych Ubezpieczeń",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Länderbank",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Bank Galicyjski dla Handlu i Przemysłu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Galicyjskie Towarzystwo Kredytowe Ziemskie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Galicyjskie Towarzystwo Łowieckie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Rybackie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Galicyjskie Towarzystwo Leśne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ornitologische Verein",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Komitet Galicyjski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Nadzorcza Macierzy Polskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet powodziowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Miejska w Krakowie",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Dobroczynności",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Arcybractwo Miłosierdzia i Bank Pobożny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo dla Upiększania Krakowa i Okolicy",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Sztuk Pięknych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Tatrzańskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Muzyczne",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Adam Potocki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna Branicka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Andrzej Potocki"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Róża Lubomirska"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Eugeniusz Lubomirski"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Róża Zamoyska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Róża Potocka"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia Potocka"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Maciej Radziwiłł"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Zdzisław Tarnowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Franciszek Kluczycki",
+            "person_date": "1 VII 1880",
+            "person_info": "właściciel drukarni"
+        },
+        {
+            "person_name": "Franciszek Józef",
+            "person_date": "1880",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Rudolf",
+            "person_date": "brak danych",
+            "person_info": "arcyksiążę"
+        },
+        {
+            "person_name": "Władysław Czartoryski",
+            "person_date": "1887",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Czartoryski",
+            "person_date": "1887",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Adam Sapieha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef I. Kraszewski",
+            "person_date": "1882",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mikołaj Zyblikiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kazimierz Grocholski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Matejko",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Józef Hakowski",
+            "person_date": "1883",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Leon XIII",
+            "person_date": "1888",
+            "person_info": "papież"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Krzeszowice",
+            "date": "1850-06-14"
+        },
+        {
+            "place": "Kraków",
+            "date": "1864-1868"
+        },
+        {
+            "place": "Krzeszowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łańcut",
+            "date": "brak danych"
+        },
+        {
+            "place": "Biała Cerkiew",
+            "date": "1863"
+        },
+        {
+            "place": "Paryż",
+            "date": "1868-1869"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1870"
+        },
+        {
+            "place": "Třeboň",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mędrzechów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Staszów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Biała Cerkiew",
+            "date": "brak danych"
+        },
+        {
+            "place": "Buczacz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1873"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1887"
+        },
+        {
+            "place": "Chrzanów",
+            "date": "1875"
+        },
+        {
+            "place": "Kraków",
+            "date": "1880"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1888"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1880"
+        },
+        {
+            "place": "Kraków",
+            "date": "1876"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1883"
+        },
+        {
+            "place": "Kraków",
+            "date": "1884"
+        },
+        {
+            "place": "Kraków",
+            "date": "1881"
+        },
+        {
+            "place": "Kraków",
+            "date": "1888"
+        }
+    ]
+}

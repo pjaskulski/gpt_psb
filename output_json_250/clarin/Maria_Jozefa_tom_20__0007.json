@@ -1,0 +1,52 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Józefa",
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "08-12-1699"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "17-11-1757"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "królowa polska",
+    "żona Augusta III"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "liga święty"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    "Wiedeń"
+  ],
+  "Relacje": [
+    {
+      "source": "Maria Józefa",
+      "target": "Augusta III",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "M-i J-ie",
+      "target": "Leopolda I",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "M-i J-y",
+      "target": "August II",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Małżeństwo M-i J-y",
+      "target": "Fryderykiem Augustem",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

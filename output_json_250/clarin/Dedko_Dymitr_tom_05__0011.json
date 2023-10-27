@@ -1,0 +1,59 @@
+{
+  "Nazwisko": [
+    "Dedko"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "wybitny bojar Rusi halickiej",
+    "jeden z dygnitarzy Bolesława Jerzego",
+    "świadkujący w dokumentach Trojdenowicza"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Dedko Dymitr",
+      "target": "Bolesława Jerzego",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Dedko Dymitr",
+      "target": "Trojdenowicza",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Bolesława Jerzego",
+      "target": "Kazimierzowi W",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "D-ka",
+      "target": "Trojdenowicza",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Kazimierzem",
+      "target": "Dymitrem",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "D.",
+      "target": "Kazimierzem",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "D.",
+      "target": "Dymitrem",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

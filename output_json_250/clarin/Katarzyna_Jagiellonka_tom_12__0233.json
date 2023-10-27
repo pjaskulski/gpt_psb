@@ -1,0 +1,57 @@
+{
+  "Nazwisko": [
+    "Jagiellonka"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Katarzyna"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "01-11-1526"
+  ],
+  "Miejsce urodzenia": [
+    "Krakowie"
+  ],
+  "Data śmierci": [
+    "16-09-1583"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "DD-01-1583"
+  ],
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "królowa Szwecji"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "K.",
+      "target": "Bona",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Anny",
+      "target": "Batorego",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Zygmunta Augusta",
+      "target": "Barbarą Radziwiłłówną",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Katarzyna",
+      "target": "Barbarą Radziwiłłówną",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Anną",
+      "target": "Zofia",
+      "name": "rodzeństwo - współmałżonek"
+    }
+  ]
+}

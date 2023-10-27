@@ -1,0 +1,135 @@
+{
+    "name": "Przezdrzew z Ostrowa",
+    "psb_id": "PSB-29-0028",
+    "biogram_file": "Przezdrzew_z_Ostrowa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1344",
+        "note": "między 1341 a 1344"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan kruszwicki",
+        "sędzia brzeski kujawski",
+        "podkomorzy brzeski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kasztelania kruszwicka",
+            "institution_place": "Kruszwica"
+        },
+        {
+            "institution_name": "Kasztelania michałowska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kasztelania dzbarska",
+            "institution_place": "Mogilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "brat",
+            "person": "Gerward"
+        },
+        {
+            "family_relation": "wuj",
+            "person": "Maciej z Gołańczy"
+        },
+        {
+            "family_relation": "ojciec",
+            "person": "Maciej z Ostrowa"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan z Ostrowa"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Grzymisław z Procynia"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Ryszewko z Procynia"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Tomisław z Procynia"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Paweł z Procynia"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Przezdrzew"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Władysław Łokietek",
+            "person_date": "przed 1300",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Gerward",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Mikołaj z Woli",
+            "person_date": "1344",
+            "person_info": "kasztelan kruszwicki"
+        },
+        {
+            "person_name": "Grzymisław z Procynia",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tomisław z Procynia",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paweł z Procynia",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Ostrowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kujawy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Świecie",
+            "date": "1300-1306"
+        },
+        {
+            "place": "Uniejów",
+            "date": "1339-03-11"
+        },
+        {
+            "place": "Gniezno",
+            "date": "1339-04-10"
+        }
+    ]
+}

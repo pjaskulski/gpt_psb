@@ -1,0 +1,60 @@
+{
+  "Nazwisko": [
+    "Świrski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Włodzimierz",
+    "Jerzy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "05-04-1882"
+  ],
+  "Miejsce urodzenia": [
+    "Kalisz"
+  ],
+  "Data śmierci": [
+    "12-06-1959"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "Brompton Cemetery w Londynie"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "kierownictwo marynarka wojenny",
+    "korpus kadet",
+    "Moskwa",
+    "morski korpus kadet",
+    "flota bałtycki",
+    "flota czarnomorski",
+    "dowództwo flota czarnomorski",
+    "główny sztab morski",
+    "minuta . marynarka",
+    "komitet naczelny i dowództwo wojsko polski na Wschód",
+    "liga odrodzenie marynarka Polski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Celiny z Wasiłowskich",
+      "target": "Włodzimierza",
+      "name": "matka - krewny"
+    }
+  ]
+}

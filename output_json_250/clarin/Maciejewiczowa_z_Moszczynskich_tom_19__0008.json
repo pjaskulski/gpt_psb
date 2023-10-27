@@ -1,0 +1,57 @@
+{
+  "Nazwisko": [
+    "Maciejewiczowa"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Kazimiera",
+    "Julia"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1863"
+  ],
+  "Miejsce urodzenia": [
+    "Teklinowie"
+  ],
+  "Data śmierci": [
+    "15-01-1937"
+  ],
+  "Miejsce śmierci": [
+    "Wilnie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "Rossie"
+  ],
+  "Zawód": [
+    "nauczycielka",
+    "organizatorka szkolnictwa polskiego w Wilnie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "szkoła handlowy",
+    "towarzysz . wzajemny pomoc nauczycielka i wychowawczyni w Wilno",
+    "stowarzyszenie nauczycielstwo polski",
+    "gimnazjum imienia . Eliza Orzeszkowa",
+    "liceum imienia . filomat",
+    "związek praca obywatelski kobieta",
+    "Ruś Biała"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Maciejewiczowa z Moszczyńskich",
+      "target": "Julia Kazimiera",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

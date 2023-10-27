@@ -1,0 +1,38 @@
+{
+  "Nazwisko": [
+    "Podfilipski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jakub"
+  ],
+  "Herb": [
+    "Ciołek"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "około DD-MM-1518"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan kamieniecki"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Katarzyny",
+      "target": "Barbary Czartowskich",
+      "name": "krewny-współmałżonek"
+    },
+    {
+      "source": "Niesiecki",
+      "target": "Uruski",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

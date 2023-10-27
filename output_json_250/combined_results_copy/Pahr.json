@@ -1,0 +1,165 @@
+{
+    "name": "Jakub Pahr",
+    "psb_id": "PSB-25-0012",
+    "biogram_file": "Pahr.txt",
+    "date_of_birth": {
+        "date": "ok. 1510"
+    },
+    "place_of_birth": {
+        "place": "Bissone",
+        "note": "nad jeziorem Lugano, w kantonie Tessyn"
+    },
+    "date_of_death": {
+        "date": "1575-08-15"
+    },
+    "place_of_death": {
+        "place": "Brzeg"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "architekt",
+        "fortyfikator",
+        "nadworny architekt Jerzego II, księcia legnicko-brzeskiego",
+        "kierownik budowy książęcego zamku w Brzegu",
+        "kierownik grupy włoskich murarzy i kamieniarzy",
+        "budowniczy gmachu książęcego gimnazjum w Brzegu",
+        "budowniczy zamku królewskiego w Warszawie",
+        "budowniczy ratusza w Brzegu",
+        "organizator i kierownik robót budowlanych"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zamek Piastów świdnickich",
+            "institution_place": "Bolków"
+        },
+        {
+            "institution_name": "Książęcy zamek",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "Szkoła parafialna",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "Książęce gimnazjum",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "Zamek królewski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Ratusz",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "Fortyfikacje miejskie",
+            "institution_place": "Oława"
+        },
+        {
+            "institution_name": "Fortyfikacje miejskie",
+            "institution_place": "Wrocław"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "bratanek",
+            "person": "Joachim"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Franciszek"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Bernard Niuron"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Lukrecja"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Krzysztof"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dominik"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Baptysta"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jakub von Salza",
+            "person_date": "1539",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Jerzy II",
+            "person_date": "1543",
+            "person_info": "książę legnicko-brzeski"
+        },
+        {
+            "person_name": "Antoni di Teodoro",
+            "person_date": "1547",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Jan Baptysta Quadro",
+            "person_date": "1569",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Bernard Niuron",
+            "person_date": "1570",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "K. Bimler",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Bissone",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dolny Śląsk",
+            "date": "1539"
+        },
+        {
+            "place": "Bolków",
+            "date": "1539-1540"
+        },
+        {
+            "place": "Brzeg",
+            "date": "1543-1575"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1569"
+        },
+        {
+            "place": "Oława",
+            "date": "1543"
+        },
+        {
+            "place": "Prudnik",
+            "date": "1564"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        }
+    ]
+}

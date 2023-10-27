@@ -1,0 +1,133 @@
+{
+    "name": "Natalia Dzierżek",
+    "psb_id": "PSB-06-0214",
+    "biogram_file": "Dzierzek_Natalia.txt",
+    "date_of_birth": {
+        "date": "1861"
+    },
+    "place_of_birth": {
+        "place": "Kotiużany",
+        "note": "na Podolu"
+    },
+    "date_of_death": {
+        "date": "1931-12-30"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "literatka",
+        "artystka-malarka",
+        "działaczka społeczna",
+        "nauczycielka muzyki i języków obcych",
+        "studentka Szkoły Sztuk Pięknych",
+        "redaktorka pisemka »Ogniwo«",
+        "nauczycielka rysunku",
+        "pisarka",
+        "poetka",
+        "autorka pod pseudonimem Jerzy Orwicz"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła Sztuk Pięknych",
+            "institution_place": "Odesa"
+        },
+        {
+            "institution_name": "Gazeta Świąteczna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kurier Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Kronika Rolnicza",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Henryk Nieczuja-Dzierżek"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Maria Nieczuja-Dzierżek"
+        },
+        {
+            "family_relation": "siostra matki",
+            "person": "Henryk Piątkowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Mariusz Zaruski",
+            "person_date": "1895",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bromirski",
+            "person_date": "1895",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Gasztowt",
+            "person_date": "1895",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Prażmowska",
+            "person_date": "1895",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Konieczka",
+            "person_date": "1895",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jabłoński",
+            "person_date": "1895",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Tadeusz Gałecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Teresa z Wołowskich Prażmowska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jerzy Orwicz",
+            "person_date": "brak danych",
+            "person_info": "pseudonim Natalii Dzierżek"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kotiużany",
+            "date": "1861"
+        },
+        {
+            "place": "Odesa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Archangielsk",
+            "date": "1895-1898"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1899-1931"
+        }
+    ]
+}

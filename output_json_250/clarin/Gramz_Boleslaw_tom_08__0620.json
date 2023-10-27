@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Gramz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Bolesław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "04-04-1904"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1943"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kapelan W.P.",
+    "proboszcz w Idołcie k. Drui",
+    "uczestnik konspiracji"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "W",
+    ". P .",
+    "gimnazjum święty . Katarzyna",
+    "seminarium duchowny w",
+    "wydział teologiczny",
+    "Uniw . Stefan Batory",
+    "fundusz kultura narodowy",
+    "6 . pułk piechota",
+    "I . dywizja"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Wilno",
+    null,
+    null
+  ],
+  "Relacje": null
+}

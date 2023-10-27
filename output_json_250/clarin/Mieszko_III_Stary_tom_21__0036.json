@@ -1,0 +1,44 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stary"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1126"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 20-04-1202"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Salomei",
+      "target": "Henryka",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "M-wi",
+      "target": "Konrada III",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Albrechtem Niedźwiedziem",
+      "target": "Władysława Wygnańca",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "M-a",
+      "target": "Fryderyk Barbarossa",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

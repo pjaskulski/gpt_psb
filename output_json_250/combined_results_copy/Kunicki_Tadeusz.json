@@ -1,0 +1,198 @@
+{
+    "name": "Tadeusz Kunicki",
+    "psb_id": "PSB-16-0198",
+    "biogram_file": "Kunicki_Tadeusz.txt",
+    "date_of_birth": {
+        "date": "1919-10-22"
+    },
+    "place_of_birth": {
+        "place": "Lwów"
+    },
+    "date_of_death": {
+        "date": "1967-12-19"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "generał brygady W. P.",
+        "kursant III Leningradzkiej Szkoły Artylerii",
+        "podporucznik",
+        "dowódca plutonu w I Warszawskiej Brygadzie Artylerii",
+        "szef zwiadu dywizjonu",
+        "szef sztabu 34 p. artylerii lekkiej",
+        "dowódca pułku artylerii",
+        "szef sztabu brygady artylerii",
+        "szef sztabu dywizji artylerii przełamania",
+        "zastępca szefa sztabu Dowództwa Artylerii W. P.",
+        "zastępca dowódcy Artylerii W. P.",
+        "dowódca artylerii Pomorskiego Okręgu Wojskowego",
+        "szef Zarządu Sztabu Generalnego",
+        "szef Artylerii W. P.",
+        "szef Misji Polskiej przy Międzynarodowej Komisji Nadzoru i Kontroli w Korei",
+        "pracownik Głównego Inspektoratu Szkolenia Min. Obrony Narodowej",
+        "członek Polskiej Partii Robotniczej",
+        "członek Polskiej Zjednoczonej Partii Robotniczej",
+        "zastępca komendanta Wojskowej Akademii Politycznej im. F. Dzierżyńskiego do spraw szkolenia operacyjnego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "XII Państwowe Gimnazjum i Liceum",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Akademia Medyczno-Weterynaryjna",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Armia Radziecka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Oficerska Szkoła Artylerii",
+            "institution_place": "Szaumiani"
+        },
+        {
+            "institution_name": "III Leningradzka Szkoła Artylerii",
+            "institution_place": "Kostroma"
+        },
+        {
+            "institution_name": "I Warszawska Brygada Artylerii im. gen. J. Bema",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "34 p. artylerii lekkiej 12 dyw. piechoty",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centrum Wyszkolenia Artylerii",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Dowództwo Artylerii W. P.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Pomorski Okręg Wojskowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zarząd Sztabu Generalnego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Misja Polska przy Międzynarodowej Komisji Nadzoru i Kontroli",
+            "institution_place": "Korea"
+        },
+        {
+            "institution_name": "Główny Inspektorat Szkolenia Min. Obrony Narodowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Partia Robotnicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Zjednoczona Partia Robotnicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Akademia Sztabu Generalnego",
+            "institution_place": "Moskwa"
+        },
+        {
+            "institution_name": "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Kunicki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Józefa Winkler"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Chroma"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "gen. J. Bem",
+            "person_date": "1944",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "gen. broni K. Świerczewski",
+            "person_date": "1950-1951",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lwów",
+            "date": "1919-10-22"
+        },
+        {
+            "place": "Lwów",
+            "date": "1939-1940"
+        },
+        {
+            "place": "Szaumiani",
+            "date": "1940"
+        },
+        {
+            "place": "Kutaisi",
+            "date": "1943-08-22"
+        },
+        {
+            "place": "Kostroma",
+            "date": "1943"
+        },
+        {
+            "place": "Turia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bug",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dęblin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Puławy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warecko-Magnuszew",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wał Pomorski",
+            "date": "brak danych"
+        },
+        {
+            "place": "Korea",
+            "date": "1960-1961"
+        }
+    ]
+}

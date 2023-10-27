@@ -1,0 +1,57 @@
+{
+  "Nazwisko": [
+    "Poniatowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław",
+    "August"
+  ],
+  "Herb": [
+    "Ciołek"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "17-01-1732"
+  ],
+  "Miejsce urodzenia": [
+    "Wołczynie"
+  ],
+  "Data śmierci": [
+    "12-02-1798"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "król polski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . królewiecki"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Stanisław Antoni",
+      "target": "Stanisława Poniatowskiego",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "S-a.",
+      "target": "Keyserlingka",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-owi",
+      "target": "Jan Łukasz Toux de Salverte",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "S.",
+      "target": "Piotr Śliwicki",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

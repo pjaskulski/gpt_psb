@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Pociej"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Aleksander"
+  ],
+  "Herb": [
+    "Waga"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1770"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kaplica grobowy Pociejów w kościele dominikańskim Św. Ducha w Wilnie"
+  ],
+  "Zawód": [
+    "wojewoda trocki"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Antoni",
+      "target": "Stanisławowi Leszczyńskiemu",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "P",
+      "target": "Leszczyńskiemu",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "P.",
+      "target": "Marcin Matuszewicz",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Ludwikowi",
+      "target": "Michała Czartoryskiego",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Szymona Sirucia",
+      "target": "P.",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

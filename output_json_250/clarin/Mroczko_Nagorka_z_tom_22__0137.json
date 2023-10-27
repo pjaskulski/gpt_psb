@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Nagórka"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Mroczko"
+  ],
+  "Herb": [
+    "Bolesta"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1423"
+  ],
+  "Miejsce śmierci": [
+    "Rzym"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kanonik płocki",
+    "rektor uniwersytetu w Pradze"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "studium prawo"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Kazimierz Wielki",
+      "target": "Innocentego VI",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Piotr",
+      "target": "Bernarda",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Piotr",
+      "target": "Imisława Wrońskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "M-kiem",
+      "target": "Jakuba",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

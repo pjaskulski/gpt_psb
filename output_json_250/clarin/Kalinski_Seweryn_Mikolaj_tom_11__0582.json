@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Kaliński"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Mikołaj",
+    "Seweryn"
+  ],
+  "Herb": [
+    "Topór"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1663 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rotmistrz królewski i starosta bracławski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Stanisława",
+      "target": "Elżbiety z Oborskich",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Zaćwilichowski",
+      "target": "Koniecpolskiego",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Müllera",
+      "target": "Janem Zbrożkiem",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

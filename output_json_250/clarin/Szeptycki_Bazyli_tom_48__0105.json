@@ -1,0 +1,61 @@
+{
+  "Nazwisko": [
+    "Szeptycki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Bazyli"
+  ],
+  "Herb": [
+    "własny"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "03-02-1647"
+  ],
+  "Miejsce urodzenia": [
+    "Woszczańca"
+  ],
+  "Data śmierci": [
+    "05-04-1715"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "15-07-1715"
+  ],
+  "Miejsce pochówku": [
+    "krypć katedralny lwowskiego soboru św. Jura"
+  ],
+  "Zawód": [
+    "archimandryta uniowski",
+    "unicki biskup lwowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "ławra"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Szeptycki Bazyli",
+      "target": "Barlaam",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Ewy z Lityńskich",
+      "target": "Bazylego",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Ewy z Lityńskich",
+      "target": "Zofii z Pokulińskich",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Wniebowzięcia (",
+      "target": ") Matki Boskiej",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

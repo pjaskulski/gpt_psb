@@ -1,0 +1,331 @@
+{
+    "name": "Majer Szapira",
+    "psb_id": "PSB-47-0020",
+    "biogram_file": "Szapira.txt",
+    "date_of_birth": {
+        "date": "1887-02-24",
+        "note": "lub 1887-03-03"
+    },
+    "place_of_birth": {
+        "place": "Suczawa",
+        "note": "na Bukowinie"
+    },
+    "date_of_death": {
+        "date": "1933-10-27"
+    },
+    "place_of_death": {
+        "place": "Lublin"
+    },
+    "date_of_burial": {
+        "date": "1933-10-29"
+    },
+    "place_of_burial": {
+        "place": "Jerozolima",
+        "note": "cmentarz Har ha-Menuuchot"
+    },
+    "functions": [
+        "rabin",
+        "działacz oświatowy",
+        "poseł na Sejm Rzeczypospolitej Polskiej",
+        "kierownik Dep. Oświaty w Oddziale Galicji Wschodniej «Agudy»",
+        "członek Komitetu Ratunkowego",
+        "kierownik komitetu ds. edukacji polskiej «Agudy»",
+        "rabin w Sanoku",
+        "redaktor czasopisma „Eszkol”",
+        "przewodniczący polskiej «Agudy»",
+        "poseł w Klubie Posłów i Senatorów «Szlomej Emunej Israel»",
+        "rabin w Glinianach",
+        "rabin w Piotrkowie Trybunalskim",
+        "prezes Komitetu Wykonawczego «Agudy»",
+        "rektor Jesziwy Mędrców Lublina",
+        "główny rabin (nadrabin) lubelski",
+        "przewodniczący Kolegium Rabinackiego przy Min. WRiOP"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Stowarzyszenie Żydów Religijnych «Tiferet Hadas»",
+            "institution_place": "Tarnopol"
+        },
+        {
+            "institution_name": "Agudat Israel (Związek Izraela)",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "Szkoła elementarna talmud-tora Bnei Tora",
+            "institution_place": "Gliniany"
+        },
+        {
+            "institution_name": "Kasa zapomogowo-pożyczkowa",
+            "institution_place": "Gliniany"
+        },
+        {
+            "institution_name": "Towarzystwo opieki nad ubogimi chorymi Bikur Cholim",
+            "institution_place": "Gliniany"
+        },
+        {
+            "institution_name": "Jesziwa",
+            "institution_place": "Gliniany"
+        },
+        {
+            "institution_name": "Dep. Oświaty w Oddziale Galicji Wschodniej «Agudy»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Agudat Rabbonim Galitzo’im (Stow. Rabinów Galicyjskich)",
+            "institution_place": "Tarnopol"
+        },
+        {
+            "institution_name": "Komitet Ratunkowy",
+            "institution_place": "Tarnopol"
+        },
+        {
+            "institution_name": "Kursy talmudyczne",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "«Aguda»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Stowarzyszenie Talmud-Tora",
+            "institution_place": "Sanok"
+        },
+        {
+            "institution_name": "Jesziwa",
+            "institution_place": "Sanok"
+        },
+        {
+            "institution_name": "Klub Posłów i Senatorów «Szlomej Emunej Israel»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Organizacja Syjonistów-Ortodoksów «Mizrachi»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "I Światowy Kongres «Agudy»",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Komitet Budowy Wyższej Szkoły Religijnej «Keren Hatora»",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Jesziwat Chachmej Lublin (Jesziwa Mędrców Lublina)",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Bank Gospodarstwa Krajowego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegium Rabinackie przy Min. WRiOP",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Zarząd Lubelskiej Gminy Wyznaniowej",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Jesziwa Mędrców Lublina",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Nowy Cmentarz Żydowski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Cmentarz Har ha-Menuuchot",
+            "institution_place": "Jerozolima"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jakub Szamszon"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Margula Szor"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Samuel Izaak Szor"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Abraham"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Małka Towa"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jakub Breitman"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Szalom z Suchostawu",
+            "person_date": "1894",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Szalom Moskowicz",
+            "person_date": "1903",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Szalom Mordechaj Szwadron",
+            "person_date": "brak danych",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Icchak Szmelkes",
+            "person_date": "brak danych",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Izrael z Wiśnicza",
+            "person_date": "brak danych",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Majer Arak z Buczacza",
+            "person_date": "brak danych",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Arie Lejb Horowitz",
+            "person_date": "brak danych",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Abraham Mendel Steinberg",
+            "person_date": "brak danych",
+            "person_info": "rabin"
+        },
+        {
+            "person_name": "Jakub Breitman",
+            "person_date": "1906",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Zagórny-Marynowski",
+            "person_date": "1923",
+            "person_info": "minister komunikacji"
+        },
+        {
+            "person_name": "Izaak Lewin",
+            "person_date": "1924",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Elim Klaczkin",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Szmul Ajchenbaum",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mojżesz Szczarański",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Elim Aron Kirszenbaum",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Szulim Szternfinkel",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mojżesz Ajzenberg",
+            "person_date": "1923",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "S. Ajchenbaum",
+            "person_date": "1924",
+            "person_info": "przemysłowiec"
+        },
+        {
+            "person_name": "Antoni Remiszewski",
+            "person_date": "1930",
+            "person_info": "wojewoda lubelski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Suczawa",
+            "date": "1887-02-24"
+        },
+        {
+            "place": "Monasterzyska",
+            "date": "1894"
+        },
+        {
+            "place": "Brzeżany",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tarnopol",
+            "date": "1906"
+        },
+        {
+            "place": "Gliniany",
+            "date": "1910"
+        },
+        {
+            "place": "Katowice",
+            "date": "1912-05-27"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Frankfurt nad Menem",
+            "date": "1918"
+        },
+        {
+            "place": "Sanok",
+            "date": "1920"
+        },
+        {
+            "place": "Kraków",
+            "date": "1921"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1922"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1923"
+        },
+        {
+            "place": "Lublin",
+            "date": "1923"
+        },
+        {
+            "place": "Piotrków Trybunalski",
+            "date": "1924"
+        },
+        {
+            "place": "Nowy Jork",
+            "date": "1926-10"
+        },
+        {
+            "place": "Jerozolima",
+            "date": "1958"
+        }
+    ]
+}

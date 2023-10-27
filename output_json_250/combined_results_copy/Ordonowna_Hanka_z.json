@@ -1,0 +1,386 @@
+{
+    "name": "Hanka Ordonówna",
+    "psb_id": "PSB-24-0127",
+    "biogram_file": "Ordonowna_Hanka_z.txt",
+    "date_of_birth": {
+        "date": "1902-09-25"
+    },
+    "place_of_birth": {
+        "place": "Warszawa",
+        "note": "?"
+    },
+    "date_of_death": {
+        "date": "1950-09-09"
+    },
+    "place_of_death": {
+        "place": "Bejrut"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Bejrut",
+        "note": "cmentarz polski"
+    },
+    "functions": [
+        "pieśniarka",
+        "aktorka",
+        "tancerka",
+        "pracownica Czerwonego Krzyża",
+        "aktorka filmowa",
+        "autorka tekstów piosenek",
+        "członek Związku Artystów Scen Polskich",
+        "członek Związku Autorów i Kompozytorów Scenicznych",
+        "pracownica teatru",
+        "dyrektor teatru",
+        "projektantka kostiumów",
+        "autorka poezji",
+        "pracownica Komitetu Opieki Społecznej",
+        "opiekunka sierocińca",
+        "malarka",
+        "autorka artykułów",
+        "autorka szkiców"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkola Baletowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Wielki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Czarny Kot",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Teatr Współczesny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatrzyk Sfinks",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatrzyk Wesoły Ul",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Teatrzyk Miraż",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Czerwony Krzyż",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Ul",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kabaret Stańczyk",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Qui Pro Quo",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Konserwatorium Paryskie",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Teatrzyk Banda",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatrzyk Hollywood",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatrzyk Wielka Rewia",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatrzyk Cyrulik Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Wintergarten",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Teatr Elizeum",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr im. Słowackiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Związek Artystów Scen Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Autorów i Kompozytorów Scenicznych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatrzyk Tip Top",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Polski na Pohulance",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Teatr Lutnia",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Polski Teatr Dramatyczny",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Komitet Opieki Społecznej",
+            "institution_place": "Taszkent"
+        },
+        {
+            "institution_name": "Sierociniec Polski",
+            "institution_place": "Aszhabad"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Władysław Pietruszyński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Helena Bieńkowska"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Michał Tyszkiewicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Igo Sym",
+            "person_date": "1934-1935",
+            "person_info": "aktor"
+        },
+        {
+            "person_name": "Juliusz Osterwa",
+            "person_date": "1933",
+            "person_info": "dyrektor teatru"
+        },
+        {
+            "person_name": "K. I. Gałczyński",
+            "person_date": "1936",
+            "person_info": "autor tekstów"
+        },
+        {
+            "person_name": "Henryk Gold",
+            "person_date": "brak danych",
+            "person_info": "dyrygent"
+        },
+        {
+            "person_name": "Wiktor Emanuel",
+            "person_date": "brak danych",
+            "person_info": "król Włoch"
+        },
+        {
+            "person_name": "Feliks Parnell",
+            "person_date": "1937",
+            "person_info": "baletmistrz"
+        },
+        {
+            "person_name": "Sergiusz Konter",
+            "person_date": "1940",
+            "person_info": "akompaniator"
+        },
+        {
+            "person_name": "Pommer",
+            "person_date": "1940",
+            "person_info": "akompaniator"
+        },
+        {
+            "person_name": "Aleksander Maliszewski",
+            "person_date": "1940",
+            "person_info": "autor tekstów piosenek"
+        },
+        {
+            "person_name": "Władysław Anders",
+            "person_date": "1941",
+            "person_info": "generał, dowódca armii"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1902-09-25"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "1916-1917"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1917-1918"
+        },
+        {
+            "place": "Lublin",
+            "date": "1919"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1919-1920"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1923"
+        },
+        {
+            "place": "Paryż",
+            "date": "1926"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Toruń",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łódź",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1932-1937"
+        },
+        {
+            "place": "Palestyna",
+            "date": "1933"
+        },
+        {
+            "place": "Egipt",
+            "date": "1933"
+        },
+        {
+            "place": "Stany Zjednoczone",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łotwa",
+            "date": "1934-1935"
+        },
+        {
+            "place": "Ateny",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ryga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Berlin",
+            "date": "1937"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1939"
+        },
+        {
+            "place": "Stany Zjednoczone",
+            "date": "1939"
+        },
+        {
+            "place": "Wilno",
+            "date": "1940"
+        },
+        {
+            "place": "Moskwa",
+            "date": "1941"
+        },
+        {
+            "place": "Uzbekistan",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tockoje",
+            "date": "brak danych"
+        },
+        {
+            "place": "Taszkient",
+            "date": "brak danych"
+        },
+        {
+            "place": "Aszhabad",
+            "date": "brak danych"
+        },
+        {
+            "place": "Indie",
+            "date": "1942"
+        },
+        {
+            "place": "Haiffa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bejrut",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jerozolima",
+            "date": "1944"
+        }
+    ]
+}

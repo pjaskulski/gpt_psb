@@ -1,0 +1,128 @@
+{
+    "name": "Jaśko Kuropatwa",
+    "psb_id": "PSB-16-0263",
+    "biogram_file": "Kuropatwa_Jasko_z.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1421",
+        "note": "przed"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kasztelan zawichojski",
+        "starosta",
+        "łowczy",
+        "sędzia ziemski lubelski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Kanonik krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kustosz gnieźnieński",
+            "institution_place": "Gniezno"
+        },
+        {
+            "institution_name": "Łożniczy królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Starosta",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Łowczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sędzia ziemski lubelski",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Kasztelan zawichojski",
+            "institution_place": "Zawichost"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Przybek z Grodziny i Opatkowic"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Machna z Mokrska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Piotr"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Przybek"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "Pakosz ze Żmigrodu"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Elżbieta z Widuchowej"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Kuropatwa z Łańcuchowa"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jadat",
+            "person_date": "1413",
+            "person_info": "bojar litewski"
+        },
+        {
+            "person_name": "Elżbieta z Widuchowej",
+            "person_date": "1421",
+            "person_info": "wdowa po Jaśku Kuropatwie"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Grodziny",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żmigród",
+            "date": "1397"
+        },
+        {
+            "place": "Łańcuchów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "1403"
+        },
+        {
+            "place": "Zawichost",
+            "date": "1412-1417"
+        },
+        {
+            "place": "Widuchowa",
+            "date": "1421"
+        }
+    ]
+}

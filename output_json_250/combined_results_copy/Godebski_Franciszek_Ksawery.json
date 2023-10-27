@@ -1,0 +1,385 @@
+{
+    "name": "Franciszek Ksawery Godebski",
+    "psb_id": "PSB-08-0241",
+    "biogram_file": "Godebski_Franciszek_Ksawery.txt",
+    "date_of_birth": {
+        "date": "1801"
+    },
+    "place_of_birth": {
+        "place": "Frankenthal",
+        "note": "Palatynat Nadreński, wg Bonieckiego w Monachium"
+    },
+    "date_of_death": {
+        "date": "1869-05-17"
+    },
+    "place_of_death": {
+        "place": "Lwów"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "pisarz",
+        "tłumacz utworów scenicznych",
+        "działacz polityczny",
+        "akademik",
+        "aplikant w namiestnictwie",
+        "aplikant w ministerstwie skarbu",
+        "redaktor tygodnika 'Wanda'",
+        "współwydawca tygodnika mód 'Warszawianin'",
+        "poseł łucki",
+        "członek doraźnych komisji",
+        "redaktor 'Orła Białego'",
+        "wydawca 'Gazety Narodowej'",
+        "członek Towarzystwa Litewskiego i Ziem Ruskich",
+        "wykładowca kursu historii i statystyki Polski",
+        "kustosz w Bibliotece Królewskiej wersalskiej",
+        "wiceprezes Rady Administracyjnej Szkoły Batignollskiej",
+        "członek rady Hotelu Lambert",
+        "bibliotekarz Ossolineum",
+        "administrator 'Trybuny Ludu'",
+        "wykładowca literatury polskiej w Szkole Batignollskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "szkoła kadecka",
+            "institution_place": "Kalisz"
+        },
+        {
+            "institution_name": "Liceum Krzemienieckie",
+            "institution_place": "Krzemieniec"
+        },
+        {
+            "institution_name": "Uniw. Warsz.",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Bractwo Burszów Polskich",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "namiestnictwo",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "ministerstwo skarbu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gazeta Literacka",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pszczółka Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Warszawianin",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Łazienkowski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Orzeł Biały",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Gazeta Narodowa",
+            "institution_place": "Zakroczym"
+        },
+        {
+            "institution_name": "Towarzystwo Litewskie i Ziem Ruskich",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Szkola Artylerii",
+            "institution_place": "Bourges"
+        },
+        {
+            "institution_name": "Biblioteka Królewska",
+            "institution_place": "Wersal"
+        },
+        {
+            "institution_name": "Tow. Wychowania Narodowego i Szkoła Polska",
+            "institution_place": "Batignolles"
+        },
+        {
+            "institution_name": "Hotel Lambert",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Trybuna Ludu",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Szkoła Batignollska",
+            "institution_place": "Batignolles"
+        },
+        {
+            "institution_name": "Ossolineum",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Cyprian Godebski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Justyna Godfrinon"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "St. Worcel",
+            "person_date": "kwiecień 1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "M. Czacki",
+            "person_date": "kwiecień 1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Narc. Olizar",
+            "person_date": "kwiecień 1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Krępowiecki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Skrzynecki",
+            "person_date": "brak danych",
+            "person_info": "wódz"
+        },
+        {
+            "person_name": "Ksawery Branicki",
+            "person_date": "1849",
+            "person_info": "finansista"
+        },
+        {
+            "person_name": "A. Mickiewicz",
+            "person_date": "1849",
+            "person_info": "redaktor"
+        },
+        {
+            "person_name": "Lelewel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Szajnocha",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "A. Bielowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "W. Pol",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "T. Lenartowicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludw. Osiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "gen. W. Krasiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "F. Dmochowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Mickiewicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Odyńc",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Damse",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Józef Stefani",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Karol Kurpiński",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Boïeldieu",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Delavigne",
+            "person_date": "brak danych",
+            "person_info": "autor"
+        },
+        {
+            "person_name": "Ponsard",
+            "person_date": "brak danych",
+            "person_info": "autor"
+        },
+        {
+            "person_name": "Kotzebue",
+            "person_date": "brak danych",
+            "person_info": "autor"
+        },
+        {
+            "person_name": "Mayerbeer",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Rossini",
+            "person_date": "brak danych",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Fr. Belcour",
+            "person_date": "1866",
+            "person_info": "oficer francuski"
+        },
+        {
+            "person_name": "ks. Józef Poniatowski",
+            "person_date": "1863",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "E. Quinet",
+            "person_date": "brak danych",
+            "person_info": "historyk francuski"
+        },
+        {
+            "person_name": "J. Michelet",
+            "person_date": "brak danych",
+            "person_info": "historyk francuski"
+        },
+        {
+            "person_name": "Menzel",
+            "person_date": "brak danych",
+            "person_info": "autor historii powszechnej"
+        },
+        {
+            "person_name": "Heine",
+            "person_date": "brak danych",
+            "person_info": "autor literatury współczesnej"
+        },
+        {
+            "person_name": "Ludwik Plater",
+            "person_date": "1848",
+            "person_info": "hrabia"
+        },
+        {
+            "person_name": "A. Czartoryski",
+            "person_date": "1854",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "W. Sowiński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Frankenthal",
+            "date": "1801"
+        },
+        {
+            "place": "Żoliborz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kalisz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krzemieniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kidry",
+            "date": "brak danych"
+        },
+        {
+            "place": "Osowa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rafałówka",
+            "date": "1831-04"
+        },
+        {
+            "place": "Czerewacha",
+            "date": "1831-04"
+        },
+        {
+            "place": "Kowel",
+            "date": "1831-05-01"
+        },
+        {
+            "place": "Zakroczym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bourges",
+            "date": "1833-03"
+        },
+        {
+            "place": "Paryż",
+            "date": "1833-01-26"
+        },
+        {
+            "place": "Wersal",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bruksela",
+            "date": "1838"
+        },
+        {
+            "place": "Louvain",
+            "date": "1849"
+        },
+        {
+            "place": "Lwów",
+            "date": "1858"
+        }
+    ]
+}

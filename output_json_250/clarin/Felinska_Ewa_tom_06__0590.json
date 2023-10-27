@@ -1,0 +1,38 @@
+{
+  "Nazwisko": [
+    "Felińska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ewa"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "26-12-1793"
+  ],
+  "Miejsce urodzenia": [
+    "Uznoha"
+  ],
+  "Data śmierci": [
+    "DD-MM-1859"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Felińska Ewa",
+      "target": "Zygmunta Wendorffa",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Felińska Ewa",
+      "target": "Zofii z Sągajłłów",
+      "name": "protagonist - matka"
+    }
+  ]
+}

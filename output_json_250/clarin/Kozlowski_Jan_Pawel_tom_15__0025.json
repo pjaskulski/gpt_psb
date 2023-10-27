@@ -1,0 +1,60 @@
+{
+  "Nazwisko": [
+    "Kozłowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Paweł",
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "29-06-1759"
+  ],
+  "Miejsce urodzenia": [
+    "Krakowie"
+  ],
+  "Data śmierci": [
+    "05-12-1839"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "w rodzinie mieszczańskiej jako syn Wojciecha i Cecylii"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "UJ",
+    "gimnazjum święty . Anna",
+    "szkoła główny koronny",
+    "wyżej wymieniony . Świętych",
+    "wydział teologiczny",
+    "uniwersytet"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Kozłowski Jan Paweł",
+      "target": "Mateusz",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "K-ego",
+      "target": "Woronicz",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "K-ego",
+      "target": "Kościoła, m.",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

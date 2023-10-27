@@ -1,0 +1,266 @@
+{
+    "name": "Stanisław Cielątko z Liszyna",
+    "psb_id": "PSB-42-0040",
+    "biogram_file": "Stanislaw_Cielatko_z.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Liszyn",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1451",
+        "note": "przed 2 XI"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "prawnik",
+        "profesor Uniwersytetu Krakowskiego",
+        "rektor Uniwersytetu Krakowskiego",
+        "scholastyk sandomierski",
+        "doktor dekretów",
+        "zastępca konserwatora praw i przywilejów Uniwersytetu Krakowskiego",
+        "komisarz arcybiskupa gnieźnieńskiego",
+        "kanonik przemyski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Kanonistów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Jurystów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Katedra Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Klasztor Dominikanów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kościół parafialny p. wezw. Wniebowzięcia NMP",
+            "institution_place": "Jasło"
+        },
+        {
+            "institution_name": "Katedra Przemyska",
+            "institution_place": "Przemyśl"
+        },
+        {
+            "institution_name": "Kolegiata NMP",
+            "institution_place": "Sandomierz"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Cielątko z Liszyna"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "bratanica",
+            "person": "Małgorzata Marta"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Mikołaj Cikowski"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Piotr Cikowski z Mikluszowic"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław z Przechowa",
+            "person_date": "1429",
+            "person_info": "dziekan"
+        },
+        {
+            "person_name": "Jakub z Zaborowa",
+            "person_date": "1442",
+            "person_info": "kanonik krakowski"
+        },
+        {
+            "person_name": "Jan z Dąbrówki",
+            "person_date": "1442",
+            "person_info": "doktor dekretów"
+        },
+        {
+            "person_name": "Dominik",
+            "person_date": "1442",
+            "person_info": "opat mogilski"
+        },
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "1442",
+            "person_info": "bp krakowski"
+        },
+        {
+            "person_name": "Tomasz Strzempiński",
+            "person_date": "1443",
+            "person_info": "doktor teologii"
+        },
+        {
+            "person_name": "Jan Elgot",
+            "person_date": "1445",
+            "person_info": "doktor dekretów"
+        },
+        {
+            "person_name": "Rafał ze Skawiny",
+            "person_date": "1444",
+            "person_info": "oficjał generalny"
+        },
+        {
+            "person_name": "Piotr Szafrańiec z Pieskowej Skały",
+            "person_date": "1444",
+            "person_info": "woj. krakowski"
+        },
+        {
+            "person_name": "Bogdał",
+            "person_date": "1446",
+            "person_info": "opat tyniecki"
+        },
+        {
+            "person_name": "Benedykt Hesse z Krakowa",
+            "person_date": "1449",
+            "person_info": "kanonik krakowski"
+        },
+        {
+            "person_name": "Jan z Kęt",
+            "person_date": "1449",
+            "person_info": "kanonik krakowski"
+        },
+        {
+            "person_name": "Michał z Szydłowa",
+            "person_date": "1449",
+            "person_info": "członek Kolegium Jurystów"
+        },
+        {
+            "person_name": "Jerzy z Michmicza",
+            "person_date": "1449",
+            "person_info": "bakałarz dekretów i kanonik raciborski"
+        },
+        {
+            "person_name": "Paweł z Krakowa",
+            "person_date": "1450",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Izajasz Boner",
+            "person_date": "1450",
+            "person_info": "augustianin"
+        },
+        {
+            "person_name": "Wincenty Kot z Dębna",
+            "person_date": "1450",
+            "person_info": "arcbp. gnieźnieński"
+        },
+        {
+            "person_name": "Władysław Oporowski",
+            "person_date": "1450",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Dziekanowski",
+            "person_date": "1450",
+            "person_info": "kanonik krakowski i pleban w Starym Brzesku"
+        },
+        {
+            "person_name": "Jakub Parkosz z Żurawic",
+            "person_date": "1450",
+            "person_info": "doktor dekretów"
+        },
+        {
+            "person_name": "Jan Klathe z Krakowa",
+            "person_date": "1440",
+            "person_info": "paśnik"
+        },
+        {
+            "person_name": "Anna",
+            "person_date": "1440",
+            "person_info": "wdowa po paśniku Janie Klathe z Krakowa"
+        },
+        {
+            "person_name": "Wojciech",
+            "person_date": "1441",
+            "person_info": "katedralista z Kazimierza"
+        },
+        {
+            "person_name": "Jan z Czyżowa",
+            "person_date": "1448",
+            "person_info": "kaszt. i star. krakowski"
+        },
+        {
+            "person_name": "Piotr Mokrski z Komorników",
+            "person_date": "1448",
+            "person_info": "burgrabia krakowski"
+        },
+        {
+            "person_name": "Piotr Cikowski z Mikluszowic",
+            "person_date": "1451",
+            "person_info": "podsędek krakowski"
+        },
+        {
+            "person_name": "Mikołaj V",
+            "person_date": "1451",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Wojciech Rytwiański",
+            "person_date": "1451",
+            "person_info": "kanonik gnieźnieński"
+        },
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1451",
+            "person_info": "król"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Liszyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1429"
+        },
+        {
+            "place": "Jaśle",
+            "date": "1443-1448"
+        },
+        {
+            "place": "Stary Brzesko",
+            "date": "1450"
+        },
+        {
+            "place": "Przemyśl",
+            "date": "brak danych"
+        }
+    ]
+}

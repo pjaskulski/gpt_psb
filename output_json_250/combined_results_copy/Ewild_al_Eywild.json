@@ -1,0 +1,136 @@
+{
+    "name": "Jan Ewild",
+    "psb_id": "PSB-06-0476",
+    "biogram_file": "Ewild_al_Eywild.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "brak danych"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "bojar litewski",
+        "szlachcic litewski"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Unia Horodelska",
+            "institution_place": "Horodło"
+        },
+        {
+            "institution_name": "Zakon Krzyżowy",
+            "institution_place": "Królewiec"
+        },
+        {
+            "institution_name": "Wielkie Księstwo Litewskie",
+            "institution_place": "Lida"
+        },
+        {
+            "institution_name": "Akta Wileńskie",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec adopcyjny",
+            "person": "Stanisław Brzeski"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Eynur Eywild"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Dowgird Eywiltowicz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Daszko Eywiltowicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Brzeski",
+            "person_date": "1413",
+            "person_info": "adoptował Jana Ewild do rodu Ciołków"
+        },
+        {
+            "person_name": "Eywild",
+            "person_date": "1390",
+            "person_info": "bojar na Żmudzi"
+        },
+        {
+            "person_name": "Witołd",
+            "person_date": "1409",
+            "person_info": "wspomina o Jawilcie w liście do wójta żmudzkiego"
+        },
+        {
+            "person_name": "Dowgird Eywiltowicz",
+            "person_date": "połowa XV w.",
+            "person_info": "otrzymał od wielkiego księcia Kazimierza ziemię we włości lidzkiej"
+        },
+        {
+            "person_name": "Daszko Eywiltowicz",
+            "person_date": "połowa XV w.",
+            "person_info": "otrzymał od wielkiego księcia Kazimierza ziemię we włości lidzkiej"
+        },
+        {
+            "person_name": "Kazimierz",
+            "person_date": "połowa XV w.",
+            "person_info": "wielki książę, który nadał ziemię Dowgirdowi i Daszce Eywiltowiczom"
+        },
+        {
+            "person_name": "Kojałowicz",
+            "person_date": "brak danych",
+            "person_info": "autor Herbarza (Compendium)"
+        },
+        {
+            "person_name": "Wojdyła Kuszolowicz",
+            "person_date": "brak danych",
+            "person_info": "adoptowany w Horodle do rodu Biała tj. Trzaska"
+        },
+        {
+            "person_name": "Jan Eywild",
+            "person_date": "1764",
+            "person_info": "szlachcic litewski"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Horodło",
+            "date": "1413"
+        },
+        {
+            "place": "Litwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Żmudź",
+            "date": "brak danych"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1390"
+        },
+        {
+            "place": "Lida",
+            "date": "XV w."
+        },
+        {
+            "place": "Wilno",
+            "date": "1764"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+  "Nazwisko": [
+    "Sapieżyna"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Elżbieta"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1734"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1800"
+  ],
+  "Miejsce śmierci": [
+    "Kodć"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "Kodć"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Sapieżyna z Branickich",
+      "target": "Elżbieta",
+      "name": "dzieci - współmałżonek"
+    },
+    {
+      "source": "Jana Sapiehę",
+      "target": "Piotra",
+      "name": "współmałżonek - rodzice"
+    },
+    {
+      "source": "S-ą",
+      "target": "Franciszkiem Ksawerym",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "S-ą",
+      "target": "Marcin Matuszewicz",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

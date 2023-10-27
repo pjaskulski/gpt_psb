@@ -1,0 +1,197 @@
+{
+    "name": "Karolina Kliszewska",
+    "psb_id": "PSB-12-0685",
+    "biogram_file": "Kliszewska_z_Wesolowskich.txt",
+    "date_of_birth": {
+        "date": "1867"
+    },
+    "place_of_birth": {
+        "place": "Frysztak"
+    },
+    "date_of_death": {
+        "date": "1927-11-09"
+    },
+    "place_of_death": {
+        "place": "Katowice"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "śpiewaczka operetkowa",
+        "śpiewaczka operowa",
+        "aktorka trupy Henryka Lasockiego",
+        "aktorka teatru polsko-ruskiego w Nowym Sączu i Złoczowie",
+        "właścicielka zespołu teatralnego",
+        "śpiewaczka w teatrze lwowskim",
+        "aktorka w Teatrze Lwowskim",
+        "aktorka w teatrze objazdowym A. Lelewicza i H. Lasockiego",
+        "reżyserka",
+        "nauczycielka śpiewu",
+        "aktorka w Teatrze Polskim w Katowicach"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Scena Jürgensa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Trupa Henryka Lasockiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Lasockiego",
+            "institution_place": "Tarnów"
+        },
+        {
+            "institution_name": "Teatr Lasockiego",
+            "institution_place": "Rzeszów"
+        },
+        {
+            "institution_name": "Teatr Lasockiego",
+            "institution_place": "Nowy Sącz"
+        },
+        {
+            "institution_name": "Teatr Lasockiego",
+            "institution_place": "Sanok"
+        },
+        {
+            "institution_name": "Teatr Lasockiego",
+            "institution_place": "Stanisławów"
+        },
+        {
+            "institution_name": "Teatr J. Biberowicza",
+            "institution_place": "Nowy Sącz"
+        },
+        {
+            "institution_name": "Teatr J. Biberowicza",
+            "institution_place": "Złoczów"
+        },
+        {
+            "institution_name": "Zespół teatralny",
+            "institution_place": "Krosno"
+        },
+        {
+            "institution_name": "Teatr lwowski",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Teatr «Nowy»",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Lwowski",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Teatr objazdowy A. Lelewicza i H. Lasockiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Śląski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr Polski",
+            "institution_place": "Katowice"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "mąż",
+            "person": "Antoni Kliszewski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "H. Majeranowska",
+            "person_date": "brak danych",
+            "person_info": "nauczycielka"
+        },
+        {
+            "person_name": "M. Szlezygierowa",
+            "person_date": "brak danych",
+            "person_info": "nauczycielka"
+        },
+        {
+            "person_name": "Lamperi",
+            "person_date": "brak danych",
+            "person_info": "nauczyciel"
+        },
+        {
+            "person_name": "Jürgens",
+            "person_date": "brak danych",
+            "person_info": "właściciel amatorskiej sceny"
+        },
+        {
+            "person_name": "Henryk Lasocki",
+            "person_date": "1883",
+            "person_info": "właściciel trupy teatralnej"
+        },
+        {
+            "person_name": "J. Biberowicz",
+            "person_date": "1887–90",
+            "person_info": "właściciel teatru"
+        },
+        {
+            "person_name": "W. Szymanowski",
+            "person_date": "1892",
+            "person_info": "reżyser teatrów warszawskich"
+        },
+        {
+            "person_name": "A. Lelewicz",
+            "person_date": "1895–6",
+            "person_info": "właściciel teatru objazdowego"
+        },
+        {
+            "person_name": "H. Lasocki",
+            "person_date": "1895–6",
+            "person_info": "właściciel teatru objazdowego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Frysztak",
+            "date": "1867"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Tarnów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzeszów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Nowy Sącz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sanok",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stanisławów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Złoczów",
+            "date": "1887-1890"
+        },
+        {
+            "place": "Krosno",
+            "date": "1890-1891"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1893"
+        }
+    ]
+}

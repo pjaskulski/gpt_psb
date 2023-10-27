@@ -1,0 +1,178 @@
+{
+    "name": "Maria Czesława Przewóska",
+    "psb_id": "PSB-29-0025",
+    "biogram_file": "Przewoska_Maria_Czeslawa.txt",
+    "date_of_birth": {
+        "date": "1868-11-29"
+    },
+    "place_of_birth": {
+        "place": "Siedlce",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1938-11-23"
+    },
+    "place_of_death": {
+        "place": "Warszawa",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "literatka",
+        "publicystka",
+        "studentka na Sorbonie",
+        "członek Międzynarodowej Ligi Wychowawczej",
+        "członek Ogniska Badań Ezoterycznych i Metapsychicznych",
+        "członek zarządu Konfederacji Polska",
+        "założycielka Ogniska Uświadomienia Narodowego",
+        "nauczycielka prywatna",
+        "członek Towarzystwa Literatów i Dziennikarzy Polskich",
+        "przewodnicząca sekcji spraw ekonomicznych w Towarzystwie Literatów i Dziennikarzy Polskich",
+        "członek Towarzystwa Ochrony Kobiet",
+        "członek stowarzyszenia Trzeźwość"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła średnia",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Gazeta Świąteczna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sorbona",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Collège de France",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Międzynarodowa Liga Wychowawcza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ognisko Badań Ezoterycznych i Metapsychicznych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Konfederacja Polska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Ognisko Uświadomienia Narodowego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Towarzystwo Literatów i Dziennikarzy Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Towarzystwo Ochrony Kobiet",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Trzeźwość",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Dominik August Przewóski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Leontyna Doliwa-Klimecka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Edward Przewóski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Maria z Mireckich Loevy",
+            "person_date": "1889–91",
+            "person_info": "działaczka we francuskim ruchu emancypacji kobiet"
+        },
+        {
+            "person_name": "Cecylia Śniegocka",
+            "person_date": "lata dziewięćdziesiąte XIX wieku",
+            "person_info": "współpracowała z nią w tajnej pracy oświatowej"
+        },
+        {
+            "person_name": "Eliza Orzeszkowa",
+            "person_date": "1905",
+            "person_info": "pisarka, z którą prowadziła korespondencję"
+        },
+        {
+            "person_name": "Mieczysław Geniusz",
+            "person_date": "ok. 1906",
+            "person_info": "wywarł silny wpływ na jej poglądy"
+        },
+        {
+            "person_name": "Czesław Oraczewski",
+            "person_date": "1919",
+            "person_info": "ksiądz, współzałożyciel organizacji Konfederacja Polska"
+        },
+        {
+            "person_name": "Janina Żyrkiewiczowa",
+            "person_date": "brak danych",
+            "person_info": "gospodyni salonu teozofów w Warszawie"
+        },
+        {
+            "person_name": "Józef Kotarbiński",
+            "person_date": "1932",
+            "person_info": "napisał przedmowę do jej tomu poezji"
+        },
+        {
+            "person_name": "Zdzisław Dębicki",
+            "person_date": "1932",
+            "person_info": "stworzył sylwetkę autorki do jej tomu poezji"
+        },
+        {
+            "person_name": "Zygmunt Krasiński",
+            "person_date": "brak danych",
+            "person_info": "poeta, którego twórczość miała duży wpływ na P."
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Siedlce",
+            "date": "1868-11-29"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "1889-1891"
+        },
+        {
+            "place": "Kijów",
+            "date": "1893"
+        },
+        {
+            "place": "Paryż",
+            "date": "1900"
+        },
+        {
+            "place": "Kraków",
+            "date": "1910"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1927-1935"
+        }
+    ]
+}

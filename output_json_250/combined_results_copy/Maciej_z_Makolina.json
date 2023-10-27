@@ -1,0 +1,197 @@
+{
+    "name": "Maciej z Mąkolina",
+    "psb_id": "PSB-19-0027",
+    "biogram_file": "Maciej_z_Makolina.txt",
+    "date_of_birth": {
+        "date": "1498",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Mąkolino",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1576-12-30"
+    },
+    "place_of_death": {
+        "place": "Pułtusk",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Pułtusk",
+        "note": "kolegiata"
+    },
+    "functions": [
+        "sekretarz królowej Bony",
+        "sekretarz Zygmunta Augusta",
+        "domownik sekretarza łacińskiego Jana Lewickiego",
+        "kanonik sądecki",
+        "kanonik kolegiaty Św. Michała na Wawelu",
+        "pleban w Kalinówce",
+        "altarzysta św. Doroty w katedrze krakowskiej",
+        "pleban w Młodzieszynie",
+        "kanonik łęczycki",
+        "pleban w Sochaczewie",
+        "kanonik kolegiaty Św. Jerzego na Wawelu",
+        "pleban w Nurze i Makowie",
+        "kanonik pułtuski",
+        "kanonik wileński",
+        "prepozyt trocki",
+        "kanonik płocki",
+        "kantor płocki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Biskupstwo płockie",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Dwór królowej Bony",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kancelaria króla Zygmunta Augusta",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kolegiata Św. Michała na Wawelu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegiata Św. Jerzego na Wawelu",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Katedra krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Katedra płocka",
+            "institution_place": "Płock"
+        },
+        {
+            "institution_name": "Kolegiata w Pułtusku",
+            "institution_place": "Pułtusk"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Hukleja"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna z Kośnińskich"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Filip"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mikołaj"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Zygmunt"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Paweł"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Michał Kalecki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Andrzej Krzycki",
+            "person_date": "1527",
+            "person_info": "biskup płocki"
+        },
+        {
+            "person_name": "Bona Sforza",
+            "person_date": "brak danych",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "ok. 1547",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Lewicki",
+            "person_date": "brak danych",
+            "person_info": "sekretarz łaciński królowej Bony"
+        },
+        {
+            "person_name": "biskup Dantyszki",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Michał Kalecki",
+            "person_date": "brak danych",
+            "person_info": "bratanek, syn Jana"
+        },
+        {
+            "person_name": "Paweł",
+            "person_date": "1568",
+            "person_info": "brat Macieja"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Mąkolino",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mejszagola",
+            "date": "1533"
+        },
+        {
+            "place": "Kalinówka",
+            "date": "1534"
+        },
+        {
+            "place": "Kraków",
+            "date": "1537"
+        },
+        {
+            "place": "Młodzieszyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sochaczew",
+            "date": "1540-1563"
+        },
+        {
+            "place": "Nur",
+            "date": "1544-1576"
+        },
+        {
+            "place": "Maków",
+            "date": "1544-1576"
+        },
+        {
+            "place": "Troki",
+            "date": "1548"
+        },
+        {
+            "place": "Płock",
+            "date": "1557-1576"
+        },
+        {
+            "place": "Kaleczyce",
+            "date": "1533"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+  "Nazwisko": [
+    "Sokołowska-Łuszczewska"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Halina"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "30-12-1895"
+  ],
+  "Miejsce urodzenia": [
+    "Żytomierz"
+  ],
+  "Data śmierci": [
+    "17-11-1970"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "miejscowy cmentarz paraf"
+  ],
+  "Zawód": [
+    "aktorka",
+    "reżyser",
+    "dyrektor teatru",
+    "pedagog"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "szkoła dramatyczny ( klasa dykcja i deklamacja",
+    "Warszawski towarzysz . muzyczny",
+    "teatr polski",
+    "nowy teatr polski",
+    "teatr dramatyczny w wiek . ksiądz . Pozn .",
+    "teatr miejski w Lublin",
+    "teatr miejski",
+    "teatr objazdowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Osterwę",
+      "target": "Stefana Jaracza",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Osterwę",
+      "target": "Rychłowskiemu",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Wyspiańskiego",
+      "target": "Słowackiego",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "S-iej-Ł-iej",
+      "target": "Słowackiego",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

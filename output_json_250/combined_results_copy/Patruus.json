@@ -1,0 +1,96 @@
+{
+    "name": "Jan Patruus ojciec",
+    "psb_id": "PSB-25-0276",
+    "biogram_file": "Patruus.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1538",
+        "note": "w 1. poł."
+    },
+    "place_of_death": {
+        "place": "Poznań"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "introligator",
+        "księgarz",
+        "nakładca"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Firma drukarska Melchiora i Michaela Lotterów",
+            "institution_place": "Lipsk"
+        },
+        {
+            "institution_name": "Kapituła Poznańska",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "syn",
+            "person": "Jan Patruus"
+        },
+        {
+            "family_relation": "żona",
+            "person": "nieznana"
+        },
+        {
+            "family_relation": "córka",
+            "person": "nieznana"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Melchior Lotter",
+            "person_date": "1526",
+            "person_info": "właściciel firmy drukarskiej"
+        },
+        {
+            "person_name": "Michael Lotter",
+            "person_date": "1526",
+            "person_info": "właściciel firmy drukarskiej"
+        },
+        {
+            "person_name": "Jan Latalski",
+            "person_date": "1533",
+            "person_info": "biskup"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Norymberga",
+            "date": "brak danych"
+        },
+        {
+            "place": "Koło",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1513"
+        },
+        {
+            "place": "Chwaliszewo",
+            "date": "1520"
+        },
+        {
+            "place": "Lipsk",
+            "date": "1526"
+        }
+    ]
+}

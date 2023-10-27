@@ -1,0 +1,269 @@
+{
+    "name": "Anastazy Szpręga",
+    "psb_id": "PSB-49-0019",
+    "biogram_file": "Szprega_Teodor.txt",
+    "date_of_birth": {
+        "date": "1833-11-01"
+    },
+    "place_of_birth": {
+        "place": "Czersk",
+        "note": "powiat chojnicki"
+    },
+    "date_of_death": {
+        "date": "1911-07-26"
+    },
+    "place_of_death": {
+        "place": "Osieczna"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Osieczna",
+        "note": "plac przed kościołem"
+    },
+    "functions": [
+        "reformat",
+        "misjonarz",
+        "komisarz generalny w Poznańskiem",
+        "wykładowca historii Kościoła w studium seminaryjnym w Miejskiej Górce",
+        "wicemagister nowicjatu",
+        "kaznodzieja",
+        "dyrektor Trzeciego Zakonu",
+        "gwardian",
+        "gwardian i dyrektor domu księży demerytów w Osiecznej",
+        "kaznodzieja w Zamartem i Miejskiej Górce",
+        "misjonarz apostolski",
+        "kapelan sióstr franciszkanek oraz ambasady austro-węgierskiej",
+        "wikariusz w Kurzętniku",
+        "wikariusz w Zblewie",
+        "wikariusz parafii w Miejskiej Górce",
+        "wikariusz parafii w Dubinie",
+        "zastępca prowincjała",
+        "komisarz generalny",
+        "dyrektor domu księży demerytów w Osiecznej",
+        "zastępca proboszcza parafii w Drzeczkowie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "gimnazjum katolickie",
+            "institution_place": "Chojnice"
+        },
+        {
+            "institution_name": "Zakon Braci Mniejszych",
+            "institution_place": "Wejherowo"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Łąki"
+        },
+        {
+            "institution_name": "Prow. Rekolektów Krzyża Świętego",
+            "institution_place": "Westfalia"
+        },
+        {
+            "institution_name": "studium seminaryjne",
+            "institution_place": "Miejska Górka"
+        },
+        {
+            "institution_name": "dom księży demerytów",
+            "institution_place": "Osieczna"
+        },
+        {
+            "institution_name": "klasztor przy kościele NMP (zwanej Draperis)",
+            "institution_place": "Stambuł"
+        },
+        {
+            "institution_name": "ambasada austro-węgierska",
+            "institution_place": "Stambuł"
+        },
+        {
+            "institution_name": "kościół zakonny",
+            "institution_place": "Goruszki"
+        },
+        {
+            "institution_name": "parafia",
+            "institution_place": "Dubinie"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Osieczna"
+        },
+        {
+            "institution_name": "parafia",
+            "institution_place": "Drzeczkowo"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Ignacy Szpręga"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna Sabiniarz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jerzy Jeschke",
+            "person_date": "1858",
+            "person_info": "chełmiński biskup pomocniczy"
+        },
+        {
+            "person_name": "Pacyfik Bydłowski",
+            "person_date": "brak danych",
+            "person_info": "były prowincjał Prow. Reformatów Niepokalanego Poczęcia NMP i definitor generalny zakonu"
+        },
+        {
+            "person_name": "Bernardyn Dal Vago",
+            "person_date": "brak danych",
+            "person_info": "generał reformatów"
+        },
+        {
+            "person_name": "Leon XIII",
+            "person_date": "1881",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Michał Ławrynowicz",
+            "person_date": "brak danych",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Roger Binkowski",
+            "person_date": "1889",
+            "person_info": "prowincjał"
+        },
+        {
+            "person_name": "Alojzy Canali",
+            "person_date": "1890",
+            "person_info": "generał reformatów"
+        },
+        {
+            "person_name": "Florian Stablewski",
+            "person_date": "1900",
+            "person_info": "arcybiskup gnieźnieński i poznański"
+        },
+        {
+            "person_name": "Euzebiusz Stateczny",
+            "person_date": "1904",
+            "person_info": "o. Euzebiusz Stateczny"
+        },
+        {
+            "person_name": "Dionizy Schuler",
+            "person_date": "1906",
+            "person_info": "generał zakonu"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Czersk",
+            "date": "1833-11-01"
+        },
+        {
+            "place": "Chojnice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wejherowo",
+            "date": "1856-05-05"
+        },
+        {
+            "place": "Łąki",
+            "date": "1857-05-06"
+        },
+        {
+            "place": "Miejska Górka",
+            "date": "1861-09-02"
+        },
+        {
+            "place": "Wejherowo",
+            "date": "1862"
+        },
+        {
+            "place": "Osieczna",
+            "date": "1865-07"
+        },
+        {
+            "place": "Zamarte",
+            "date": "1870"
+        },
+        {
+            "place": "Miejska Górka",
+            "date": "1870"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1872-05"
+        },
+        {
+            "place": "Triest",
+            "date": "1872-05"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1872-05"
+        },
+        {
+            "place": "Adampol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "1879-07-05"
+        },
+        {
+            "place": "Miejska Górka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stambuł",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kurzętnik",
+            "date": "1884"
+        },
+        {
+            "place": "Zblewo",
+            "date": "1885-01"
+        },
+        {
+            "place": "Miejska Górka",
+            "date": "1887-07"
+        },
+        {
+            "place": "Goruszki",
+            "date": "1887-07"
+        },
+        {
+            "place": "Dubinie",
+            "date": "1887-09-05"
+        },
+        {
+            "place": "Miejska Górka",
+            "date": "1888-04-01"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        },
+        {
+            "place": "Asyż",
+            "date": "1895-05-16"
+        },
+        {
+            "place": "Osieczna",
+            "date": "1900-10-01"
+        },
+        {
+            "place": "Drzeczkowo",
+            "date": "1900-10-09"
+        },
+        {
+            "place": "Rzym",
+            "date": "1903-05"
+        }
+    ]
+}

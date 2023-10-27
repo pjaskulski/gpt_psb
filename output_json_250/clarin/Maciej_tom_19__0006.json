@@ -1,0 +1,44 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Maciej"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "około DD-MM-1268"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "notariusz kancelarii księcia wielkopolskiego Bolesława Pobożnego"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "M.",
+      "target": "Bolesław Pobożny",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "M-a",
+      "target": "Bolesława Pobożnego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "M-a",
+      "target": "Przemysła II",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "M-a",
+      "target": "Przemysła II",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

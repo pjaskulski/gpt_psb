@@ -1,0 +1,65 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ludwik"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1311"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "06-12-1385 -- 06-12-1398"
+  ],
+  "Miejsce śmierci": [
+    "Brzeg"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół kolegiacki"
+  ],
+  "Zawód": [
+    "książę na Brzegu i Lubinie"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Małgorzaty",
+      "target": "Wacława II",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Wacław",
+      "target": "Bolesława (Bolka) II",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "L-a",
+      "target": "L.",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "L-a",
+      "target": "Wacława",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "L.",
+      "target": "Wacława",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "L-a",
+      "target": "Karolowi IV",
+      "name": "protagonist - przybrany rodzic"
+    },
+    {
+      "source": "L-a",
+      "target": "Katarzyna",
+      "name": "protagonist - przybrany rodzic"
+    }
+  ]
+}

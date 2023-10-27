@@ -1,0 +1,26 @@
+Na podstawie podanego tekstu wyszukaj wszystkich krewnych lub powinowatych głównego
+bohatera/bohaterki tekstu. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka,
+brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, szwagier,
+szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa.
+Wynik przedstaw w formie listy obiektów JSON zawierających pola:
+family relation: rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki)
+person: nazwa (imię i nazwisko osoby związanej relacją z bohaterem)
+Wypisz tylko rodzaje pokrewieństwa, które występują w tekście.
+Jeżeli w tekście nie ma żadnych informacji o pokrewieństwach głównego bohatera napisz: "brak danych".
+Weż pod uwagę, że główny bohater/bohaterka tekstu może w dalszej części tekstu występować w formie skrótu od pierwszej litery nazwiska np. S.
+
+Przykład 1
+Tekst: "Soderini Carlo (ok. 1537–1581), kupiec i bankier. Był jednym z pięciu synów
+Niccola i Annaleny Ricasoli, młodszym bratem Bernarda (zob.).
+Jego bratanicą była Małgorzata Anna, żona Winfrida de Loeve. S. ożenił się z Joanną,
+córką burgrabiego krakowskiego Adama Kurozwęckiego."
+Wynik:
+[{"family_relation":"ojciec", "person":"Niccola Ricasoli"},
+ {"family_relation":"matka": "person":"Annalena Ricasoli"},
+ {"family_relation":"brat": "person":"Bernard"},
+ {"family_relation":"bratanica": "person":"Małgorzata Anna"},
+ {"family_relation":"żona": "person":"Joanna"},
+ {"family_relation":"teść": "person":"Adam Kurozwęcki"}
+]
+
+Tekst:

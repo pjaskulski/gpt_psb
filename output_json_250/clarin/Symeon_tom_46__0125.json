@@ -1,0 +1,106 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Simēon",
+    "Simeon",
+    "Simon",
+    "Szymon",
+    "Lehaci",
+    "Lehacy"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1584"
+  ],
+  "Miejsce urodzenia": [
+    "Zamościu"
+  ],
+  "Data śmierci": [
+    "05-02-1639 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kleryk",
+    "kopista",
+    "pisarz",
+    "podróżnik"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Symeon",
+      "target": "Simon",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Symeon",
+      "target": "Szymon) Lehac‘",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Simēon",
+      "target": "Simon",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Simēon",
+      "target": "Szymon) Lehac‘",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Mardyrosowicz",
+      "target": "Mardyryssowicz",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Mardyrosowicz",
+      "target": "Mardiroszowicz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Mardyrosowicz",
+      "target": "Martirosowicz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Mardyrosowicz",
+      "target": "Martirosi",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Mardyrosowicz",
+      "target": "Mardirosoghlu",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Dowlat",
+      "target": "Dżuhar",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Dżuhar",
+      "target": "Rypsymę",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Dżuhar",
+      "target": "Howannesa",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Der Hagopa <",
+      "target": "Jakuba",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Amidy (Diyarbakiru",
+      "target": "Grigora (Grzegorza) XIII Syrapiona",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

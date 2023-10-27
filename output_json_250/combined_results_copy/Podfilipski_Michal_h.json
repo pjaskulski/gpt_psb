@@ -1,0 +1,314 @@
+{
+    "name": "Michał Podfilipski",
+    "psb_id": "PSB-27-0047",
+    "biogram_file": "Podfilipski_Michal_h.txt",
+    "date_of_birth": {
+        "date": "ok. 1515"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1562",
+        "note": "pod koniec"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "rotmistrz obrony potocznej",
+        "stolnik halicki",
+        "towarzysz z pocztem sześciokonnym",
+        "porucznik",
+        "rotmistrz",
+        "posł województwa podolskiego na sejm warszawski",
+        "sędzia ziemski kamieniecki"
+    ],
+    "institutions": [
+        {
+            "institution_name": "obrona potoczna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chorągiew Jerzego Jazłowieckiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chorągiew Mikołaja Iskrzyckiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chorągiew Macieja Włodka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chorągiew Mikołaja Sieniawskiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chorągiew Bernarda Pretwicza",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "chorągiew Pawła Secygniowskiego",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "sejm warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "sejm krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "sejm piotrkowski",
+            "institution_place": "Piotrków Trybunalski"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wiktoryn Podfilipski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Szarawska"
+        },
+        {
+            "family_relation": "krewny",
+            "person": "Jerzy Jazłowiecki"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Marcin Podfilipski"
+        },
+        {
+            "family_relation": "brat cioteczny",
+            "person": "Jan Szarawski alias Sliadkowski"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Natalia z Orzechowskich"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Sebastian Podfilipski"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Podfilipski"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Katarzyna Podfilipska"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Stanisław Orzechowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jerzy Jazłowiecki",
+            "person_date": "1535",
+            "person_info": "krewny"
+        },
+        {
+            "person_name": "Mikołaj Iskrzycki",
+            "person_date": "1535",
+            "person_info": "podkomorzy i starosta kamieniecki"
+        },
+        {
+            "person_name": "Maciej Włodek",
+            "person_date": "1537",
+            "person_info": "doświadczony rotmistrz"
+        },
+        {
+            "person_name": "Mikołaj Sieniawski",
+            "person_date": "1540",
+            "person_info": "hetman polny koronny"
+        },
+        {
+            "person_name": "Jerzy Jazłowiecki",
+            "person_date": "1542",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bernard Pretwicz",
+            "person_date": "1543",
+            "person_info": "starosta barski"
+        },
+        {
+            "person_name": "Paweł Secygniowski",
+            "person_date": "1552",
+            "person_info": "rotmistrz"
+        },
+        {
+            "person_name": "Maciej Włodek",
+            "person_date": "1552",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Lapusneanu",
+            "person_date": "1552",
+            "person_info": "hospodar"
+        },
+        {
+            "person_name": "Stanisław Radecki",
+            "person_date": "1540",
+            "person_info": "poprzedni właściciel wsi Biela"
+        },
+        {
+            "person_name": "Jan Skoroszewski",
+            "person_date": "1540",
+            "person_info": "poprzedni właściciel Brzeżan"
+        },
+        {
+            "person_name": "Lasota",
+            "person_date": "1540",
+            "person_info": "poprzedni właściciel Paniowca"
+        },
+        {
+            "person_name": "Wasyl Dachnowicz Jarmoliński",
+            "person_date": "1540",
+            "person_info": "poprzedni właściciel Roziczna"
+        },
+        {
+            "person_name": "Bakon",
+            "person_date": "1540",
+            "person_info": "poprzedni właściciel Stepankowców"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "1556/7",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Lech Koraczewski",
+            "person_date": "1542",
+            "person_info": "poprzedni właściciel wsi Hlebów"
+        },
+        {
+            "person_name": "Sebastian Bydłowski",
+            "person_date": "1562",
+            "person_info": "następca na stanowisku stolnika halickiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kamieniec Podolski",
+            "date": "czerwiec 1540"
+        },
+        {
+            "place": "Trembowla",
+            "date": "jesień 1540"
+        },
+        {
+            "place": "Lebedyn",
+            "date": "lato 1542"
+        },
+        {
+            "place": "Bracław",
+            "date": "22-09-1542"
+        },
+        {
+            "place": "Oczaków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Widów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "27-06-brak danych"
+        },
+        {
+            "place": "Bracław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kamieniec",
+            "date": "październik 1556"
+        },
+        {
+            "place": "Trembowla",
+            "date": "1-06-1558"
+        },
+        {
+            "place": "Smotrycz",
+            "date": "wiosna i lato 1559"
+        },
+        {
+            "place": "Kraków",
+            "date": "luty 1540"
+        },
+        {
+            "place": "Biela",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brzeżany",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szczepanikowce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paniowiec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Roziczna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stepankowce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Fredrowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Surża",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kadyjowce",
+            "date": "brak danych"
+        },
+        {
+            "place": "Werbka",
+            "date": "1542"
+        },
+        {
+            "place": "Michałkowce",
+            "date": "1542"
+        },
+        {
+            "place": "Szarawka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Worworczińce",
+            "date": "maj 1543"
+        },
+        {
+            "place": "Iwankowce",
+            "date": "1546"
+        },
+        {
+            "place": "Czarny Ostrów",
+            "date": "1546"
+        }
+    ]
+}

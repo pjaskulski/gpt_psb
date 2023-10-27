@@ -1,0 +1,48 @@
+{
+  "Nazwisko": [
+    "Niesiołowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Kazimierz",
+    "Ignacy"
+  ],
+  "Herb": [
+    "Korzbok"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1676"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "28-04-1752 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan smoleński",
+    "wierszopis"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "trybunał",
+    "trybunał skarbowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "N-ego",
+      "target": "Niesiołowskich",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Augustem II",
+      "target": "Stanisławem Leszczyńskim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

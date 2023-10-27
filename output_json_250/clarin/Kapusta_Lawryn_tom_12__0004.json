@@ -1,0 +1,79 @@
+{
+  "Nazwisko": [
+    "Kapusta"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "XVII"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "setnik i dyplomata kozacki w czasie powstania Bohdana Chmielnickiego"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Chmielnickiego",
+      "target": "Tymosza Chmielnickiego",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Chmielnickiego",
+      "target": "Fominem",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "K-y",
+      "target": "Strieszniewa",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-y",
+      "target": "Briedichina",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-y",
+      "target": "Fominie",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Buturlina",
+      "target": "Chmielnickiego",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "K-y",
+      "target": "Chmielnickim",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "K-y",
+      "target": "Buturlinem",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Chmielnicki",
+      "target": "Piotra Parcewicza",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "K-ę",
+      "target": "Chmielnicki",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "K-ę",
+      "target": "Piotra Parcewicza",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

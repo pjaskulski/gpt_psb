@@ -1,0 +1,249 @@
+{
+    "name": "Jerzy Swach",
+    "psb_id": "PSB-46-0067",
+    "biogram_file": "Swach.txt",
+    "date_of_birth": {
+        "date": "1668-04-11"
+    },
+    "place_of_birth": {
+        "place": "Daczycy",
+        "note": "na Morawach"
+    },
+    "date_of_death": {
+        "date": "1747-01-13"
+    },
+    "place_of_death": {
+        "place": "Poznań",
+        "note": "macierzysty klasztor"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Poznań",
+        "note": "macierzysty klasztor"
+    },
+    "functions": [
+        "franciszkanin",
+        "malarz",
+        "snycerz",
+        "nadworny malarz króla Jana III Sobieskiego",
+        "nauczyciel w szkole malarskiej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "zakon franciszkanów konwentualnych",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "szkoła malarska Jerzego Eleutera Siemiginowskiego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "kościół Franciszkanów",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "kościół Cystersów",
+            "institution_place": "Ląd"
+        },
+        {
+            "institution_name": "kościół pocysterski",
+            "institution_place": "Tarnów Pałucki"
+        },
+        {
+            "institution_name": "klasztor Franciszkanów",
+            "institution_place": "Kalisz"
+        },
+        {
+            "institution_name": "klasztor Franciszkanów",
+            "institution_place": "Pyzdry"
+        },
+        {
+            "institution_name": "kościół p. wezw. św. Stanisława Biskupa",
+            "institution_place": "Żerków"
+        },
+        {
+            "institution_name": "kolegiata łowicka",
+            "institution_place": "Łowicz"
+        },
+        {
+            "institution_name": "kościół Franciszkanów",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kościół p. wezw. św. Franciszka Ksawerego",
+            "institution_place": "Krasnystaw"
+        },
+        {
+            "institution_name": "kościół",
+            "institution_place": "Krosno"
+        },
+        {
+            "institution_name": "kościół",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "kościół filipinów",
+            "institution_place": "Studzianna"
+        },
+        {
+            "institution_name": "kościół p. wezw. Podwyższenia Krzyża Świętego",
+            "institution_place": "Wełna"
+        },
+        {
+            "institution_name": "kościół cysterek",
+            "institution_place": "Owińska"
+        },
+        {
+            "institution_name": "klasztor Jezuitów",
+            "institution_place": "Jarosław"
+        },
+        {
+            "institution_name": "kościół Reformatów",
+            "institution_place": "Szamotuły"
+        },
+        {
+            "institution_name": "kościół p. wezw. Najświętszej Krwi Pana Jezusa",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Udalryk (Oldrzych)"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Katarzyna"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Karol Antoni"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jerzy Eleuter Siemiginowski",
+            "person_date": "koniec lat osiemdziesiątych XVII wieku",
+            "person_info": "nadworny malarz króla Jana III Sobieskiego"
+        },
+        {
+            "person_name": "Maciej Radomicki",
+            "person_date": "1717",
+            "person_info": "fundator kościoła p. wezw. św. Stanisława Biskupa w Żerkowie"
+        },
+        {
+            "person_name": "Stanisław Szembek",
+            "person_date": "1718",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Michał Radziejowski",
+            "person_date": "brak danych",
+            "person_info": "kardynał"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Daczycy",
+            "date": "1668-04-11"
+        },
+        {
+            "place": "Poznań",
+            "date": "1686"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilanów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ląd",
+            "date": "1711"
+        },
+        {
+            "place": "Tarnów Pałucki",
+            "date": "1712"
+        },
+        {
+            "place": "Kalisz",
+            "date": "1715-1720"
+        },
+        {
+            "place": "Pyzdry",
+            "date": "1716"
+        },
+        {
+            "place": "Żerków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łowicz",
+            "date": "1718"
+        },
+        {
+            "place": "Kraków",
+            "date": "1720"
+        },
+        {
+            "place": "Ląd",
+            "date": "1722"
+        },
+        {
+            "place": "Krasnystaw",
+            "date": "1723"
+        },
+        {
+            "place": "Krosno",
+            "date": "1726"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1727"
+        },
+        {
+            "place": "Studzianna",
+            "date": "1727"
+        },
+        {
+            "place": "Wełna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jarosław",
+            "date": "1731"
+        },
+        {
+            "place": "Poznań",
+            "date": "1733"
+        },
+        {
+            "place": "Pyzdry",
+            "date": "1733"
+        },
+        {
+            "place": "Szamotuły",
+            "date": "przed 1735"
+        },
+        {
+            "place": "Poznań",
+            "date": "1735"
+        },
+        {
+            "place": "Poznań",
+            "date": "1747-01-13"
+        }
+    ]
+}

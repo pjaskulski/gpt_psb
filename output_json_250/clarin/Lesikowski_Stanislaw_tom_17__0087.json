@@ -1,0 +1,75 @@
+{
+  "Nazwisko": [
+    "Lesikowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Las"
+  ],
+  "Data urodzenia": [
+    "21-01-1906"
+  ],
+  "Miejsce urodzenia": [
+    "Tuchola"
+  ],
+  "Data śmierci": [
+    "około DD-MM-1944"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kapitan",
+    "działacz Armii Krajowej",
+    "więzień Stutthofu"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "armia krajowy",
+    "seminarium nauczycielski w Tuchola",
+    "66 pan . piechota",
+    "rząd",
+    "demokratyczny",
+    "Polska",
+    "Armia krajowy",
+    "AK",
+    "inspektorat AK « hurtownia »",
+    "inspektorat « hurtownia »",
+    "Szyszka",
+    "wojskowy służba kobieta"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Soból",
+      "target": "L-ego",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "L-ego",
+      "target": "Stefania",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Stefania",
+      "target": "Soból",
+      "name": "protagonist - współmałżonek"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Potocki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Artur"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "14-06-1850"
+  ],
+  "Miejsce urodzenia": [
+    "Krzeszowice"
+  ],
+  "Data śmierci": [
+    "26-03-1890"
+  ],
+  "Miejsce śmierci": [
+    "Krzeszowice"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "groba rodzinny w kościele krzeszowickim"
+  ],
+  "Zawód": [
+    "konserwatywny polityk galicyjski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "gimnazjum święty . Anna",
+    "towarzysz . literacko - słowiański",
+    "kółko towarzyski akademik wrocławski narodowość polski",
+    "współka myśliwski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    "polski",
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Adamem Sapiehą",
+      "target": "Konstantym Branickim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

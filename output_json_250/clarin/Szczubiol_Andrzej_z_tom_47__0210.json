@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Szczubioł"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Andrzej"
+  ],
+  "Herb": [
+    "Wężyk"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1406"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1457"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan gostyniński i płocki",
+    "wojewoda rawski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Stefana",
+      "target": "Szczepana",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "S-a",
+      "target": "Mikołaj",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Siemowita IV",
+      "target": "Władysławem Jagiełłą",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

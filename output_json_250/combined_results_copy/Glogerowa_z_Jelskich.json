@@ -1,0 +1,87 @@
+{
+    "name": "Aleksandra Glogerowa",
+    "psb_id": "PSB-08-0112",
+    "biogram_file": "Glogerowa_z_Jelskich.txt",
+    "date_of_birth": {
+        "date": "1860",
+        "note": "w połowie lipca"
+    },
+    "place_of_birth": {
+        "place": "Zamość",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1899-04-11"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Tykocin",
+        "note": "brak danych"
+    },
+    "functions": [
+        "pisarka",
+        "tłumaczka"
+    ],
+    "institutions": [
+        {
+            "institution_name": "pensja wizytek polskich",
+            "institution_place": "Paryż"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Jelski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Helena Kałęczyńska"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Zygmunt Gloger"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zygmunt Gloger",
+            "person_date": "1883",
+            "person_info": "historyk i etnograf"
+        },
+        {
+            "person_name": "Adam Pług",
+            "person_date": "brak danych",
+            "person_info": "autor pośmiertnego wspomnienia o Glogerowej"
+        },
+        {
+            "person_name": "Michał Starzeński",
+            "person_date": "brak danych",
+            "person_info": "starosta brański w czasach Stan. Aug. Poniatowskiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zamość",
+            "date": "1860"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jeżewo",
+            "date": "1883"
+        },
+        {
+            "place": "Tykocin",
+            "date": "1899-04-11"
+        }
+    ]
+}

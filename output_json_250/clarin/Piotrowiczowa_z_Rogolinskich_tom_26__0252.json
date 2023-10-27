@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Piotrowiczowa"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1839"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1863"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "28-02-1863"
+  ],
+  "Miejsce pochówku": [
+    "Radogoszczy"
+  ],
+  "Zawód": [
+    "uczestniczka powstania styczniowego"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "wydział Wojna rząd narodowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Piotrowiczowie",
+      "target": "Józefa Sawickiego",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Piotrowiczowie",
+      "target": "Józefa Dworzaczka",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

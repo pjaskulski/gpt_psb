@@ -1,0 +1,705 @@
+{
+    "name": "Jerzy Ossoliński",
+    "psb_id": "PSB-24-0292",
+    "biogram_file": "Ossolinski_Jerzy_h.txt",
+    "date_of_birth": {
+        "date": "1595-12-15"
+    },
+    "place_of_birth": {
+        "place": "Sandomierz"
+    },
+    "date_of_death": {
+        "date": "1650-08-09"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Klimontów",
+        "note": "kościół kolegiacki"
+    },
+    "functions": [
+        "podskarbi nadworny",
+        "wojewoda sandomierski",
+        "podkanclerzy",
+        "kanclerz koronny",
+        "sługa rękodajny królewicza",
+        "marszałek sejmu",
+        "podstoli koronny",
+        "deputat do rokowań pokojowych ze Szwedami",
+        "starosta radoszycki",
+        "starosta adzelski",
+        "posł do Rzymu",
+        "książę",
+        "książę Rzeszy Niemieckiej",
+        "poseł województwa sandomierskiego",
+        "marszałek izby",
+        "deputat do rokowań ze Szwedami",
+        "legat",
+        "namiestnik królewski",
+        "poseł królewski",
+        "starosta lubomelski",
+        "opiekun syna królowej Cecylii Renaty",
+        "marszałek w. kor.",
+        "starosta pucki",
+        "starosta bolemowski",
+        "regimentarz",
+        "starosta lubelski",
+        "naczelny dowódca zebranych wojsk",
+        "dyplomata",
+        "starosta"
+    ],
+    "institutions": [
+        {
+            "institution_name": "kolegium jezuickie",
+            "institution_place": "Pułtusk"
+        },
+        {
+            "institution_name": "kolegium jezuickie",
+            "institution_place": "Graz"
+        },
+        {
+            "institution_name": "kolegium trójjęzycznego",
+            "institution_place": "Lowanium"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "dwór królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "kancelaria koronna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "Altmark"
+        },
+        {
+            "institution_name": "kolegiata Św. Jana",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sejm koronacyjny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "dwór papieski",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "dwór cesarski",
+            "institution_place": "Ratyzbona"
+        },
+        {
+            "institution_name": "sejm Rzeszy",
+            "institution_place": "Ratyzbona"
+        },
+        {
+            "institution_name": "sejm",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "senat",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "komora celna",
+            "institution_place": "Wisła"
+        },
+        {
+            "institution_name": "sąd sejmowy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "szkoła ariańska",
+            "institution_place": "Raków"
+        },
+        {
+            "institution_name": "starostwo lubomelskie",
+            "institution_place": "Luboml"
+        },
+        {
+            "institution_name": "starostwo puckie",
+            "institution_place": "Puck"
+        },
+        {
+            "institution_name": "starostwo bolemowskie",
+            "institution_place": "Bole"
+        },
+        {
+            "institution_name": "kościół Św. Jana",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "księstwo opolskie",
+            "institution_place": "Opole"
+        },
+        {
+            "institution_name": "księstwo raciborskie",
+            "institution_place": "Racibórz"
+        },
+        {
+            "institution_name": "Starostwo Lubelskie",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Kolegium Jezuickie",
+            "institution_place": "Bydgoszcz"
+        },
+        {
+            "institution_name": "Klasztor Kamedułów",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Klasztor Jasnogórski",
+            "institution_place": "Częstochowa"
+        },
+        {
+            "institution_name": "Kościół Kolegiacki",
+            "institution_place": "Klimontów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Zbigniew Ossoliński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna z Firlejów"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Maksymilian Ossoliński"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Krzysztof Ossoliński"
+        },
+        {
+            "family_relation": "opiekunka",
+            "person": "Jadwiga Młodnicka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Izabela Daniłowicz"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Mikołaj Daniłowicz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Franciszek Ossoliński"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Urszula Ossolińska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Helena Tekla Ossolińska"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna Teresa Ossolińska"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Samuel Kalinowski"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Aleksander Lubomirski"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Zygmunt Denhoff"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jadwiga Młodnicka",
+            "person_date": "1600",
+            "person_info": "opiekunka"
+        },
+        {
+            "person_name": "Gerard Corselius",
+            "person_date": "1613",
+            "person_info": "wykładowca"
+        },
+        {
+            "person_name": "Eryk Puteanus",
+            "person_date": "1613",
+            "person_info": "wykładowca"
+        },
+        {
+            "person_name": "Abraham Bzowski",
+            "person_date": "1616",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Władysław IV Waza",
+            "person_date": "1617",
+            "person_info": "królewicz, późniejszy król Polski"
+        },
+        {
+            "person_name": "Stanisław Kazanowski",
+            "person_date": "1617",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Karol Chodkiewicz",
+            "person_date": "1617",
+            "person_info": "hetman wielki litewski"
+        },
+        {
+            "person_name": "Mikołaj Daniłowicz",
+            "person_date": "1620",
+            "person_info": "podskarbi koronny"
+        },
+        {
+            "person_name": "Janusz Ostrogski",
+            "person_date": "1620",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Jakub I",
+            "person_date": "1621",
+            "person_info": "król Anglii"
+        },
+        {
+            "person_name": "Chrystian IV",
+            "person_date": "1621",
+            "person_info": "król Danii"
+        },
+        {
+            "person_name": "Jan Tęczyński",
+            "person_date": "1621",
+            "person_info": "kasztelan wojnicki"
+        },
+        {
+            "person_name": "Zygmunt III Waza",
+            "person_date": "1632",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Urszula Meierin",
+            "person_date": "1632",
+            "person_info": "faworyta króla Zygmunta III Wazy"
+        },
+        {
+            "person_name": "Jakub Zadzik",
+            "person_date": "1633",
+            "person_info": "dysydent"
+        },
+        {
+            "person_name": "Jerzy Wilhelm",
+            "person_date": "1633",
+            "person_info": "poseł elektora"
+        },
+        {
+            "person_name": "Stefan della Bella",
+            "person_date": "brak danych",
+            "person_info": "artysta"
+        },
+        {
+            "person_name": "Ferdynand II",
+            "person_date": "brak danych",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Katarzyna Medici",
+            "person_date": "brak danych",
+            "person_info": "księżniczka"
+        },
+        {
+            "person_name": "Walerian Magni",
+            "person_date": "1636",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Gerard Denhoff",
+            "person_date": "1637",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jakub Sienieński",
+            "person_date": "1638",
+            "person_info": "właściciel Rakowa"
+        },
+        {
+            "person_name": "Aleksander Lubomirski",
+            "person_date": "1638",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Jerzy Wilhelm",
+            "person_date": "1639",
+            "person_info": "elektor brandenburski"
+        },
+        {
+            "person_name": "Adam Kazanowski",
+            "person_date": "1639",
+            "person_info": "rywal na dworze"
+        },
+        {
+            "person_name": "Jan Lipski",
+            "person_date": "brak danych",
+            "person_info": "protegowany przez Ossolińskiego"
+        },
+        {
+            "person_name": "Kazanowski",
+            "person_date": "brak danych",
+            "person_info": "marszałek dworu królowej"
+        },
+        {
+            "person_name": "Kasper Denhoff",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Herman Booth",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Fryderyk Wilhelm",
+            "person_date": "1641",
+            "person_info": "elektor"
+        },
+        {
+            "person_name": "Piotr Gembicki",
+            "person_date": "brak danych",
+            "person_info": "kanclerz"
+        },
+        {
+            "person_name": "Stanisław Baranowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "K. Denhoff",
+            "person_date": "1640",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Łukasz Opaliński",
+            "person_date": "1643",
+            "person_info": "marszałek w. kor."
+        },
+        {
+            "person_name": "Krzysztof Opaliński",
+            "person_date": "1646",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwika Maria Gonzaga",
+            "person_date": "1646",
+            "person_info": "królowa"
+        },
+        {
+            "person_name": "Jan Leszczyński",
+            "person_date": "1645",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. B. Tiepolo",
+            "person_date": "1647",
+            "person_info": "poseł wenecki"
+        },
+        {
+            "person_name": "Władysław IV",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Adam Kisiel",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Bohdan Chmielnicki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "brak danych",
+            "person_info": "królewicz"
+        },
+        {
+            "person_name": "Karol Ferdynand",
+            "person_date": "brak danych",
+            "person_info": "biskup"
+        },
+        {
+            "person_name": "Jan Kazimierz",
+            "person_date": "1649",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Andrzej Leszczyński",
+            "person_date": "brak danych",
+            "person_info": "podkanclerz koronny"
+        },
+        {
+            "person_name": "Chmielnicki",
+            "person_date": "1649",
+            "person_info": "przywódca powstania kozackiego"
+        },
+        {
+            "person_name": "Jarema Wiśniowiecki",
+            "person_date": "1649",
+            "person_info": "szlachcic, wojskowy"
+        },
+        {
+            "person_name": "Piotr Gembicki",
+            "person_date": "brak danych",
+            "person_info": "pieczętarz"
+        },
+        {
+            "person_name": "Leibniz",
+            "person_date": "1669",
+            "person_info": "filozof, matematyk"
+        },
+        {
+            "person_name": "Krzysztof Opaliński",
+            "person_date": "1650",
+            "person_info": "poeta, polityk"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Sandomierz",
+            "date": "1595-12-15"
+        },
+        {
+            "place": "Pułtusk",
+            "date": "1604"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1607"
+        },
+        {
+            "place": "Graz",
+            "date": "1607"
+        },
+        {
+            "place": "Lowanium",
+            "date": "1613"
+        },
+        {
+            "place": "Anglia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Holandia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Francja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "1614"
+        },
+        {
+            "place": "Orlean",
+            "date": "1615"
+        },
+        {
+            "place": "Burgundia",
+            "date": "1615"
+        },
+        {
+            "place": "Turyn",
+            "date": "1615"
+        },
+        {
+            "place": "Wenecja",
+            "date": "1615"
+        },
+        {
+            "place": "Padwa",
+            "date": "1615"
+        },
+        {
+            "place": "Bolonia",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Neapol",
+            "date": "brak danych"
+        },
+        {
+            "place": "Florencja",
+            "date": "brak danych"
+        },
+        {
+            "place": "Austria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Morawy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1616"
+        },
+        {
+            "place": "Poznań",
+            "date": "1621"
+        },
+        {
+            "place": "Szczecin",
+            "date": "1621"
+        },
+        {
+            "place": "Lubeka",
+            "date": "1621"
+        },
+        {
+            "place": "Brema",
+            "date": "1621"
+        },
+        {
+            "place": "Antwerpia",
+            "date": "1621"
+        },
+        {
+            "place": "Vlissingen",
+            "date": "1621"
+        },
+        {
+            "place": "Gravesend",
+            "date": "1621"
+        },
+        {
+            "place": "Londyn",
+            "date": "1621"
+        },
+        {
+            "place": "Ratyzbona",
+            "date": "1636"
+        },
+        {
+            "place": "Praga",
+            "date": "1636"
+        },
+        {
+            "place": "Linz",
+            "date": "1636"
+        },
+        {
+            "place": "Augsburg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piława",
+            "date": "1637"
+        },
+        {
+            "place": "Baden",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ossolin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Grodno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szczytno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Raków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Piława",
+            "date": "brak danych"
+        },
+        {
+            "place": "Toruń",
+            "date": "1645"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ukraina",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1646"
+        },
+        {
+            "place": "Zbaraż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sokal",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zborów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lublin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1639-1642"
+        },
+        {
+            "place": "Ossolin",
+            "date": "1635"
+        },
+        {
+            "place": "Klimontów",
+            "date": "1643-1650"
+        },
+        {
+            "place": "Bydgoszcz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Jasna Góra",
+            "date": "brak danych"
+        }
+    ]
+}

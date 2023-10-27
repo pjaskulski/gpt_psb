@@ -1,0 +1,74 @@
+{
+    "name": "Bartłomiej Fuzorius",
+    "psb_id": "PSB-07-0278",
+    "biogram_file": "Fuzorius_Bartlomiej.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Nowy Sącz"
+    },
+    "date_of_death": {
+        "date": "1637"
+    },
+    "place_of_death": {
+        "place": "Nowy Sącz"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Nowy Sącz",
+        "note": "wielki kapłański grób kolegiaty"
+    },
+    "functions": [
+        "kustosz kolegiaty nowosądeckiej",
+        "oficjał kolegiaty nowosądeckiej",
+        "wikariusz",
+        "fundator na cele religijne",
+        "penitencjariusz",
+        "pożyczkodawca",
+        "stypendysta"
+    ],
+    "institutions": [
+        {
+            "institution_name": "kolegiata nowosądecka",
+            "institution_place": "Nowy Sącz"
+        },
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Kapitulna",
+            "institution_place": "Lwów"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Stanisław Lwowczyk"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Wojciech Łopacki",
+            "person_date": "1632",
+            "person_info": "rajca miejski, balwierz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Nowy Sącz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kamionka Wielka",
+            "date": "brak danych"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "name": "Maria Dynowska",
+    "psb_id": "PSB-06-0093",
+    "biogram_file": "Dynowska_Maria.txt",
+    "date_of_birth": {
+        "date": "1872-09-29"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1938-05-03"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "profesor",
+        "dyrektor Szkoły Technicznej kolei terespolskiej",
+        "nauczycielka na tajnych kursach",
+        "założycielka »sali zajęć« dla chłopców z ulicy",
+        "nauczycielka języka i literatury polskiej dla nauczycieli szkół powszechnych",
+        "wykładowczyni literatury polskiej na tajnych kompletach dla inteligencji",
+        "autorka rozpraw naukowych",
+        "autorka szkiców literackich",
+        "autorka podręcznika do historii literatury polskiej",
+        "autorka korespondencji Józefa Ignacego Kraszewskiego i Leopolda Kronenberga",
+        "autorka książek dla dzieci i młodzieży",
+        "autorka słuchowisk radiowych dla dzieci",
+        "autorka Skarbiec poezji polskiej, antologii obrazków dramatycznych dla scen oświatowych",
+        "redaktorka Polskiego Słownika Biograficznego",
+        "członkini Stronnictwa Narodowego",
+        "sekretarka redakcji »Roku Polskiego«",
+        "wiceprzewodnicząca Narodowej Organizacji Kobiet",
+        "kandydatka do Sejmu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła Techniczna kolei terespolskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Uniwersytet Latający",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Sala zajęć",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pamiętnik Literacki",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polski Słownik Biograficzny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stronnictwo Narodowe",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rok Polski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Narodowa Organizacja Kobiet",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Henryk"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Franciszka Brudnicka"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Jadwiga"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Henryk Dynowski",
+            "person_date": "brak danych",
+            "person_info": "profesor gimnazjum IV w Warszawie"
+        },
+        {
+            "person_name": "Franciszka Brudnicka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Antoni Bądzkiewicz",
+            "person_date": "brak danych",
+            "person_info": "profesor, polonista"
+        },
+        {
+            "person_name": "P. Chmielowski",
+            "person_date": "brak danych",
+            "person_info": "uczeń warszawski"
+        },
+        {
+            "person_name": "Karolina Stolzenwald",
+            "person_date": "1904-1905",
+            "person_info": "znana działaczka i filantropka warszawska"
+        },
+        {
+            "person_name": "Jadwiga Dynowska",
+            "person_date": "brak danych",
+            "person_info": "malarka"
+        },
+        {
+            "person_name": "Józef Ignacy Kraszewski",
+            "person_date": "1929",
+            "person_info": "pisarz"
+        },
+        {
+            "person_name": "Leopold Kronenberg",
+            "person_date": "1929",
+            "person_info": "bankier, filantrop, mecenas sztuki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1872-09-29"
+        },
+        {
+            "place": "Kraków",
+            "date": "1906"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1909-1913"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

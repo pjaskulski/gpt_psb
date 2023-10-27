@@ -1,0 +1,51 @@
+{
+  "Nazwisko": [
+    "Słupecki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Kazimierz"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "04-03-1782"
+  ],
+  "Miejsce urodzenia": [
+    "Zakroczymiu"
+  ],
+  "Data śmierci": [
+    "DD-MM-1832"
+  ],
+  "Miejsce śmierci": [
+    "Paryż"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "tamtejszy cmentarz parafialnym"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "WP",
+    "Ritz",
+    "2 . pułk piechota",
+    "ksiądz . Warsz .",
+    "2 . Poczta_Polska",
+    "7"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Heleny z Turczyńskich",
+      "target": "Antoniny Heleny",
+      "name": "matka - krewny"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Nazwisko": [
+    "Sapieha"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Fryderyk",
+    "Jan"
+  ],
+  "Herb": [
+    "Lis"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1618"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "03-06-1664"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół Bernardyn we Lwowie"
+  ],
+  "Zawód": [
+    "bratem oboźnego lit"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak .",
+    "kolegium nowodworski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S.",
+      "target": "Marka Wagnera",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "S-y",
+      "target": "Paweł Potocki",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-y",
+      "target": "S.",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S.",
+      "target": "Paweł Potocki",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

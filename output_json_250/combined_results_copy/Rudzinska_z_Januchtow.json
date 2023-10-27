@@ -1,0 +1,93 @@
+{
+    "name": "Kamila Anna Rudzińska",
+    "psb_id": "PSB-33-0007",
+    "biogram_file": "Rudzinska_z_Januchtow.txt",
+    "date_of_birth": {
+        "date": "1943-07-17"
+    },
+    "place_of_birth": {
+        "place": "Kielce"
+    },
+    "date_of_death": {
+        "date": "1975-04-04"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Wólka Węglowa"
+    },
+    "functions": [
+        "historyk",
+        "socjolog literatury",
+        "starszy asystent w Pracowni Badań Kultury Współczesnej PAN",
+        "sekretarz naukowy Pracowni Badań Kultury Współczesnej PAN",
+        "sekretarz naukowy Pracowni Badań Kultury Literackiej IBL",
+        "adiunkt",
+        "wykładowca na Wydziale Filologicznym Uniwersytetu im. M. Curie-Sklodowskiej w Lublinie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Liceum im. Jana Śniadeckiego",
+            "institution_place": "Kielce"
+        },
+        {
+            "institution_name": "Uniwersytet Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Instytut Badań Literackich PAN",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pracownia Badań Kultury Współczesnej PAN",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Pracownia Badań Kultury Literackiej IBL",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wydział Filologiczny Uniwersytetu im. M. Curie-Sklodowskiej",
+            "institution_place": "Lublin"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Tadeusz Januchta"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Zenaida Karaś"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Roman Rudziński"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stefan Żółkiewski",
+            "person_date": "brak danych",
+            "person_info": "inspirator zainteresowań Kamili Rudzińskiej"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kielce",
+            "date": "1943-07-17"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1960-1965"
+        },
+        {
+            "place": "Lublin",
+            "date": "1962-1968"
+        }
+    ]
+}

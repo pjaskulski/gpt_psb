@@ -1,0 +1,430 @@
+{
+    "name": "Ludwik I",
+    "psb_id": "PSB-18-0062",
+    "biogram_file": "Ludwik_I.txt",
+    "date_of_birth": {
+        "date": "1311",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1398-12-06",
+        "note": "między"
+    },
+    "place_of_death": {
+        "place": "Brzeg"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Brzeg",
+        "note": "kościół kolegiacki"
+    },
+    "functions": [
+        "książę na Brzegu i Lubinie",
+        "współrządca",
+        "pan Lubina",
+        "książę Brzegu",
+        "opiekun małoletnich synów księcia Henryka VIII",
+        "rozjemca w sporach między książętami",
+        "rozjemca w sporach między różnymi instytucjami",
+        "właściciel większej części posiadłości rodowych książęcej linii brzesko-legnickiej",
+        "fundator kościoła kolegiackiego w Legnicy",
+        "fundator kaplicy zamkowej pod wezwaniem Św. Jadwigi",
+        "fundator kolegiaty Św. Jadwigi",
+        "fundator budynków mieszkalnych dla członków kolegiaty",
+        "fundator kaplicy pod wezwaniem Św. Jadwigi",
+        "finansista prac przy budowie kościoła parafialnego w Brzegu pod wezwaniem Św. Mikołaja",
+        "kolekcjoner naczyń, szat i ozdób związanych z liturgią, relikwiarzy, zbioru pereł, jaspisów, cennych kamieni i gemm w metalowych oprawach",
+        "dziekan kolegium kanoników przy kościele Św. Jadwigi w Brzegu",
+        "rektor szkoły przy kolegiacie",
+        "kustosz kolegiaty",
+        "sekretarz osobisty księcia",
+        "twórca i właściciel biblioteki prywatnej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "księstwo na Brzegu i Lubinie",
+            "institution_place": "Brzeg i Lubin"
+        },
+        {
+            "institution_name": "księstwo legnickie",
+            "institution_place": "Legnica"
+        },
+        {
+            "institution_name": "księstwo głogowskie",
+            "institution_place": "Głogów"
+        },
+        {
+            "institution_name": "księstwo wrocławskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "księstwo świdnicko-jaworskie",
+            "institution_place": "Świdnica i Jawor"
+        },
+        {
+            "institution_name": "księstwo niemodlińskie",
+            "institution_place": "Niemodlin"
+        },
+        {
+            "institution_name": "księstwo brzesko-legnickie",
+            "institution_place": "Brzeg i Legnica"
+        },
+        {
+            "institution_name": "biskupstwo wrocławskie",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "biskupstwo kujawskie",
+            "institution_place": "Kujawy"
+        },
+        {
+            "institution_name": "biskupstwo lubuskie",
+            "institution_place": "Lubusz"
+        },
+        {
+            "institution_name": "Kuria papieska",
+            "institution_place": "Awinion"
+        },
+        {
+            "institution_name": "zamek w Lubiniu",
+            "institution_place": "Lubin"
+        },
+        {
+            "institution_name": "kościół kolegiacki w Legnicy",
+            "institution_place": "Legnica"
+        },
+        {
+            "institution_name": "zamek książęcy w Brzegu",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "kolegiata Św. Jadwigi w Brzegu",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "kościół parafialny Św. Mikołaja w Brzegu",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "kaplica Św. Jadwigi pod Byczyną",
+            "institution_place": "Byczyna"
+        },
+        {
+            "institution_name": "kolegium kanoników przy kościele Św. Jadwigi",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "szkoła przy kolegiacie",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "Akademia Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Biblioteka Uniwersytecka",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "kościół kolegiacki",
+            "institution_place": "Brzeg"
+        },
+        {
+            "institution_name": "klasztor trzebnicki",
+            "institution_place": "Trzebnica"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bolesław II"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Małgorzata"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Wacław I"
+        },
+        {
+            "family_relation": "krewny",
+            "person": "Bolesław II"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Henryk VIII"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Ruprecht"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Wacław II"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Agnieszka"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Henryk II"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Henryk VIII"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Wacław"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Małgorzata"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Jadwiga"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Katarzyna"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bolesław II",
+            "person_date": "1342",
+            "person_info": "książę brzesko-legnicki"
+        },
+        {
+            "person_name": "Bolesław (Bolko) II",
+            "person_date": "1345",
+            "person_info": "książę świdnicki"
+        },
+        {
+            "person_name": "Karol IV",
+            "person_date": "1357",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "Katarzyna",
+            "person_date": "1358",
+            "person_info": "macocha"
+        },
+        {
+            "person_name": "Bolko II świdnicki",
+            "person_date": "1359",
+            "person_info": "książę świdnicki"
+        },
+        {
+            "person_name": "Henryk VIII",
+            "person_date": "1397",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Jan luksemburski",
+            "person_date": "1331",
+            "person_info": "król czeski"
+        },
+        {
+            "person_name": "Wacław IV",
+            "person_date": "1382",
+            "person_info": "król czeski"
+        },
+        {
+            "person_name": "Władysław Jagiełło",
+            "person_date": "1389",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Władysław opolski",
+            "person_date": "1396",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Podusza",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Czambor",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Kurczątko",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Kwas",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Liszka",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Mlecz",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Graba",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Kalinka",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Gęba",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Broda",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "Kozioł",
+            "person_date": "brak danych",
+            "person_info": "rycerz"
+        },
+        {
+            "person_name": "biskup wrocławski",
+            "person_date": "24 I 1371",
+            "person_info": "biskup wrocławski"
+        },
+        {
+            "person_name": "papież",
+            "person_date": "17 XI 1371",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Piotr Podusza",
+            "person_date": "brak danych",
+            "person_info": "pierwszy dziekan kolegiatu w Brzegu"
+        },
+        {
+            "person_name": "Mikołaj Pruzia",
+            "person_date": "brak danych",
+            "person_info": "artysta, autor miniatur w 'Legenda obrazowa o życiu św. Jadwigi'"
+        },
+        {
+            "person_name": "Mikołaj z Poznania",
+            "person_date": "brak danych",
+            "person_info": "prawnik i teolog, były notariusz cesarski"
+        },
+        {
+            "person_name": "Jan ze Środy",
+            "person_date": "brak danych",
+            "person_info": "humanista, współpracownik Karola IV"
+        },
+        {
+            "person_name": "Karol IV",
+            "person_date": "brak danych",
+            "person_info": "cesarz"
+        },
+        {
+            "person_name": "K. Jażdżewski",
+            "person_date": "brak danych",
+            "person_info": "kustosz"
+        },
+        {
+            "person_name": "Piotr z Byczyny",
+            "person_date": "1384–5",
+            "person_info": "członek kolegiaty brzeskiej, prawdopodobny autor 'Chronica principum Poloniae'"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Brzeg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lubin",
+            "date": "1345"
+        },
+        {
+            "place": "Legnica",
+            "date": "1345"
+        },
+        {
+            "place": "Złotoryja",
+            "date": "1345"
+        },
+        {
+            "place": "Chojnów",
+            "date": "1345"
+        },
+        {
+            "place": "Niemcza",
+            "date": "1392"
+        },
+        {
+            "place": "Kluczbork",
+            "date": "brak danych"
+        },
+        {
+            "place": "Byczyna",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wołczyn",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oława",
+            "date": "brak danych"
+        },
+        {
+            "place": "Karlštejn",
+            "date": "1359"
+        },
+        {
+            "place": "Głogów",
+            "date": "1397"
+        },
+        {
+            "place": "Wrocław",
+            "date": "brak danych"
+        },
+        {
+            "place": "Awinion",
+            "date": "1365"
+        },
+        {
+            "place": "Lubin",
+            "date": "1349-1358"
+        },
+        {
+            "place": "Byczyna",
+            "date": "ok. 1383"
+        },
+        {
+            "place": "Lubin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Akwizgran",
+            "date": "1964"
+        },
+        {
+            "place": "Poznań",
+            "date": "brak danych"
+        }
+    ]
+}

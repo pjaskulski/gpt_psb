@@ -1,0 +1,467 @@
+{
+    "name": "Symeon Lehac’i",
+    "psb_id": "PSB-46-0129",
+    "biogram_file": "Symeon.txt",
+    "date_of_birth": {
+        "date": "1584",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Zamość"
+    },
+    "date_of_death": {
+        "date": "1639",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "śpiewak kościelny (dypir-diak)",
+        "kleryk",
+        "kopista",
+        "pisarz",
+        "podróżnik",
+        "sekretarz wardapeta Mygyrdicza z Charberdu",
+        "kierownik szkoły przy katedrze ormiańskiej w Lwowie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła",
+            "institution_place": "Zamość"
+        },
+        {
+            "institution_name": "Klasztor św. Jerzego",
+            "institution_place": "Charberd"
+        },
+        {
+            "institution_name": "Klasztor Świętego Znaku",
+            "institution_place": "Cowk"
+        },
+        {
+            "institution_name": "Klasztor św. Jakuba",
+            "institution_place": "Jerozolima"
+        },
+        {
+            "institution_name": "Hospicjum ormiańskie przy kościele św. Marii Egipcjanki",
+            "institution_place": "Rzym"
+        },
+        {
+            "institution_name": "Ormiańskie hospicjum przy kościele Świętego Krzyża",
+            "institution_place": "Wenecja"
+        },
+        {
+            "institution_name": "Szkoła przy katedrze ormiańskiej",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kościół Matki Bożej",
+            "institution_place": "Bursa"
+        },
+        {
+            "institution_name": "Katedra Ormiańska",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kongregacja Rozkrzewiania Wiary",
+            "institution_place": "Rzym"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mardyros"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Dowlat-chatun"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Dżuhar"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Rypsyma"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Howannes"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anastazja"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jaśko Kieworowicz"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Zofia Serebkowicz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Der Hagop z Tokatu",
+            "person_date": "brak danych",
+            "person_info": "ksiądz"
+        },
+        {
+            "person_name": "Barsegh",
+            "person_date": "1605",
+            "person_info": "ormiański abp. Amidy (Diyarbakiru)"
+        },
+        {
+            "person_name": "Garabed",
+            "person_date": "1606",
+            "person_info": "abp. lwowski"
+        },
+        {
+            "person_name": "Grigora Kesaracego",
+            "person_date": "1609",
+            "person_info": "ormiański patriarcha Stambułu"
+        },
+        {
+            "person_name": "Mowses z Dżulfy",
+            "person_date": "1609",
+            "person_info": "mnich, późniejszy katolikos eczmiadzyński"
+        },
+        {
+            "person_name": "Mygyrdicz z Charberdu",
+            "person_date": "1609",
+            "person_info": "wardapet"
+        },
+        {
+            "person_name": "Melkised",
+            "person_date": "1611",
+            "person_info": "newirag katolikosa eczmiadzyńskiego"
+        },
+        {
+            "person_name": "Zakaria z Wanu",
+            "person_date": "1611",
+            "person_info": "wardapet"
+        },
+        {
+            "person_name": "Paweł V",
+            "person_date": "1612",
+            "person_info": "papież"
+        },
+        {
+            "person_name": "Ghukas",
+            "person_date": "1617",
+            "person_info": "bp."
+        },
+        {
+            "person_name": "Grigora Tatewacego",
+            "person_date": "1617",
+            "person_info": "bp. Grzegorza z Tatewu"
+        },
+        {
+            "person_name": "Howannes z Ajntabu",
+            "person_date": "1617",
+            "person_info": "katolikos Sis"
+        },
+        {
+            "person_name": "Maghakia",
+            "person_date": "1616",
+            "person_info": "wardapet"
+        },
+        {
+            "person_name": "Grzegorz Jakubowicz",
+            "person_date": "1628",
+            "person_info": "malarz ormiański"
+        },
+        {
+            "person_name": "Mikołaj Torosowicz",
+            "person_date": "brak danych",
+            "person_info": "abp. unicki"
+        },
+        {
+            "person_name": "Mowses III",
+            "person_date": "brak danych",
+            "person_info": "newirag katolikosa eczmiadzyńskiego"
+        },
+        {
+            "person_name": "Chaczadur z Cezarei",
+            "person_date": "brak danych",
+            "person_info": "bp. isfahański"
+        },
+        {
+            "person_name": "Wartan",
+            "person_date": "25 XII",
+            "person_info": "ormiański teolog z XIII w."
+        },
+        {
+            "person_name": "Torosowicz",
+            "person_date": "1630–4",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Nigola",
+            "person_date": "brak danych",
+            "person_info": "autor Historii"
+        },
+        {
+            "person_name": "Melkised",
+            "person_date": "brak danych",
+            "person_info": "katolikos eczmiadzyński"
+        },
+        {
+            "person_name": "Akinian N.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Hakobyan V.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Hovhannisyan A.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Madoyan A.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Darbinian M. O.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Roncaglia M. D.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Z. Kościów",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        },
+        {
+            "person_name": "Daškevič J.",
+            "person_date": "XX w.",
+            "person_info": "badacz i wydawca Notatek Symeona"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zamość",
+            "date": "1584"
+        },
+        {
+            "place": "Lwów",
+            "date": "1605"
+        },
+        {
+            "place": "Suczawa",
+            "date": "1608-02-25"
+        },
+        {
+            "place": "Jassy",
+            "date": "1608"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1608-09-20"
+        },
+        {
+            "place": "Efez",
+            "date": "1609"
+        },
+        {
+            "place": "Manisa",
+            "date": "1609"
+        },
+        {
+            "place": "Smyrna",
+            "date": "1609"
+        },
+        {
+            "place": "Gallipoli",
+            "date": "1609"
+        },
+        {
+            "place": "Nicea",
+            "date": "1609"
+        },
+        {
+            "place": "Nikomedia",
+            "date": "1609"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1611-05"
+        },
+        {
+            "place": "Spalato",
+            "date": "1611-07-21"
+        },
+        {
+            "place": "Wenecja",
+            "date": "1611-10"
+        },
+        {
+            "place": "Ankona",
+            "date": "1611"
+        },
+        {
+            "place": "Loreto",
+            "date": "1611"
+        },
+        {
+            "place": "Rzym",
+            "date": "1611"
+        },
+        {
+            "place": "Wenecja",
+            "date": "1612-05-31"
+        },
+        {
+            "place": "Tire",
+            "date": "1612"
+        },
+        {
+            "place": "Bursa",
+            "date": "1612"
+        },
+        {
+            "place": "Marzwan",
+            "date": "1612"
+        },
+        {
+            "place": "Amazja",
+            "date": "1612"
+        },
+        {
+            "place": "Tokat",
+            "date": "1612"
+        },
+        {
+            "place": "Sebastia",
+            "date": "1612"
+        },
+        {
+            "place": "Malatya",
+            "date": "1612"
+        },
+        {
+            "place": "Charberd",
+            "date": "1612"
+        },
+        {
+            "place": "Balu",
+            "date": "1612"
+        },
+        {
+            "place": "Musz",
+            "date": "1612"
+        },
+        {
+            "place": "Amida",
+            "date": "1612"
+        },
+        {
+            "place": "Argin",
+            "date": "1612"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1612"
+        },
+        {
+            "place": "Gallipoli",
+            "date": "1616-08-25"
+        },
+        {
+            "place": "Rodos",
+            "date": "1616-08-25"
+        },
+        {
+            "place": "Aleksandria",
+            "date": "1616-08-25"
+        },
+        {
+            "place": "Kair",
+            "date": "1616-08-25"
+        },
+        {
+            "place": "Jerozolima",
+            "date": "1616-11-05"
+        },
+        {
+            "place": "Betlejem",
+            "date": "1617-01-16"
+        },
+        {
+            "place": "Jerozolima",
+            "date": "1617-05-03"
+        },
+        {
+            "place": "Damaszek",
+            "date": "1617"
+        },
+        {
+            "place": "Aleppo",
+            "date": "1617"
+        },
+        {
+            "place": "Cezarea",
+            "date": "1617"
+        },
+        {
+            "place": "Smyrna",
+            "date": "1617"
+        },
+        {
+            "place": "Stambuł",
+            "date": "1617"
+        },
+        {
+            "place": "Lwów",
+            "date": "1618"
+        },
+        {
+            "place": "Zamość",
+            "date": "1619"
+        },
+        {
+            "place": "Lwów",
+            "date": "1623"
+        },
+        {
+            "place": "Rohatyn",
+            "date": "1625"
+        },
+        {
+            "place": "Lwów",
+            "date": "1624-09-04"
+        },
+        {
+            "place": "Toruń",
+            "date": "1628"
+        },
+        {
+            "place": "Lwów",
+            "date": "1630-11-04"
+        },
+        {
+            "place": "Bursa",
+            "date": "1635-06-21"
+        },
+        {
+            "place": "Lwów",
+            "date": "1635-12-25"
+        }
+    ]
+}

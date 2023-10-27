@@ -1,0 +1,71 @@
+{
+  "Nazwisko": [
+    "Kunicki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Tadeusz"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "22-10-1919"
+  ],
+  "Miejsce urodzenia": [
+    "Lwowie"
+  ],
+  "Data śmierci": [
+    "19-12-1967"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "W . P",
+    "XII państwowy gimnazjum i liceum w Lwów",
+    "akademia Medyczno - weterynaryjny",
+    "armia radziecki",
+    "oficerski szkoła artyleria",
+    "zakaukaski",
+    "okręg wojskowy",
+    "III leningradzki szkoła artyleria",
+    "I warszawski brygada artyleria imienia",
+    "34 pan . artyleria lekki",
+    "12 dywizja . piechota",
+    "centrum",
+    "wyszkolenie artyleria",
+    "akademia",
+    "sztab generalny imienia . generał",
+    "dowództwo artyleria W . P .",
+    "artyleria W . P"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Szaumiani",
+    "Szaumiani",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Stanisława",
+      "target": "Józefy z Winklerów",
+      "name": "matka - krewny"
+    }
+  ]
+}

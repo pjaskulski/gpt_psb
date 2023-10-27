@@ -1,0 +1,63 @@
+{
+  "Nazwisko": [
+    "Kuropatwa"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jaśko"
+  ],
+  "Herb": [
+    "Śreniawa"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- DD-MM-1421"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan zawichojski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Kuropatwa",
+      "target": "Jaśko",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Okolski",
+      "target": "Niesiecki",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Niesiecki",
+      "target": "Uruski",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Machnie z Mokrska",
+      "target": "Pakosza",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Boniecki",
+      "target": "Niesiecki",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Niesiecki",
+      "target": "Okolski",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Paprocki",
+      "target": "Uruski",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

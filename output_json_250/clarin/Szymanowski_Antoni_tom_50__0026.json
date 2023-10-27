@@ -1,0 +1,123 @@
+{
+  "Nazwisko": [
+    "Szymanowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Antoni"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Brun",
+    "Borowski",
+    "Brz",
+    "Brzeski",
+    "Brzeski Leon",
+    "Bielicki",
+    "Baliński",
+    "M.B.",
+    "Jan Aleksandrowicz"
+  ],
+  "Data urodzenia": [
+    "24-08-1914"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "24-10-1985"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": [
+    "29-10-1985"
+  ],
+  "Miejsce pochówku": [
+    "cmentarz powązkowski"
+  ],
+  "Zawód": [
+    "historyk",
+    "porucznik Armii Krajowej",
+    "dyplomata",
+    "tłumacz"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "armia krajowy",
+    "państwo . gimnazjum on . Stefan Batory",
+    "23 . Warsz . drużyna harcerski imienia . Bolesława Chrobry",
+    "Wydz . humanistyczny",
+    "Uniw . Warsz .",
+    "biblioteka ordynacja Zamoyski",
+    "szkoła podchorąży rezerwa artyleria",
+    "32 . dyon artyl . lekki",
+    "41 . dyon artyl . lekki",
+    "związek syndykalista polski",
+    "wolność i lud"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Brun",
+      "target": "Borowski",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Brun",
+      "target": "Brz",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Brun",
+      "target": "Brzeski",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Brun",
+      "target": "Brzeski Leon",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Brun",
+      "target": "Bielicki",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Brun",
+      "target": "Baliński",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Józefy Natanson",
+      "target": "Henryka",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Zofię",
+      "target": "Zofia Chądzyńska",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Zofię",
+      "target": "Włodzimierzem Kaczanowskim",
+      "name": "krewny-współmałżonek"
+    },
+    {
+      "source": "Jadwigę",
+      "target": "Włodzimierzem Kaczanowskim",
+      "name": "krewny-współmałżonek"
+    }
+  ]
+}

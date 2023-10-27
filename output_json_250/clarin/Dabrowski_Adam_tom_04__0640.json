@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Dąbrowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Adam"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1848"
+  ],
+  "Miejsce urodzenia": [
+    "Zaklikowie"
+  ],
+  "Data śmierci": [
+    "DD-MM-1920"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rejent w Odessie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "komitet polski",
+    "Piotrogr",
+    "towarzystwo pomoc Ofiara Wojna",
+    "oddział pomoc jeniec cywilny i wojskowy",
+    "P . O . W .",
+    "Pol . komitet Pom . of . wojna"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Jordana",
+      "target": "Weroniki z Paszkowskich",
+      "name": "matka - krewny"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Maciej"
+  ],
+  "Herb": [
+    "Kotwicz"
+  ],
+  "Pseudonimy/kryptonimy": [
+    "Kalecki"
+  ],
+  "Data urodzenia": [
+    "około DD-MM-1498"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1576"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kolegiat w Pułtusku"
+  ],
+  "Zawód": [
+    "wójta w Mąkolinie",
+    "wsi biskupów płockich w ziemi wyszogrodzkiej na Mazowszu",
+    "i Anny z Kośnińskich"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Maciej",
+      "target": "Kalecki",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Bony",
+      "target": "Zygmunta Augusta",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Ukleji",
+      "target": "Anny z Kośnińskich",
+      "name": "protagonist - współmałżonek"
+    },
+    {
+      "source": "Krzyckich",
+      "target": "Filipem",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "Krzyckich",
+      "target": "Janem",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Krzyckich",
+      "target": "Mikołajem",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Krzyckich",
+      "target": "Zygmuntem",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Krzyckich",
+      "target": "Pawłem",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Bony",
+      "target": "Mikołaj",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "M-a",
+      "target": "Bonę",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

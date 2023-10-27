@@ -1,0 +1,58 @@
+{
+  "Nazwisko": [
+    "Spektor"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Mordche"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": [
+    "Emes",
+    "Emeser",
+    "Lamedvovnik"
+  ],
+  "Data urodzenia": [
+    "05-05-1858"
+  ],
+  "Miejsce urodzenia": [
+    "Humaniu"
+  ],
+  "Data śmierci": [
+    "15-03-1925"
+  ],
+  "Miejsce śmierci": [
+    "Nowy Jork"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pisarz",
+    "publicysta",
+    "wydawca"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Spektor Mordechaj (",
+      "target": "Mordche)",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Emes",
+      "target": "Emeser",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Emes",
+      "target": "Lamedvovnik",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Emeser",
+      "target": "Lamedvovnik",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

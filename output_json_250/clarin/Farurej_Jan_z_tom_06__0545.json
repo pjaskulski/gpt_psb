@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Farurej"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1453"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Zawiszą",
+      "target": "Zygmunta Luksemburskiego",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "F-ja",
+      "target": "Zygmunt Luksemburski",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Zawiszy",
+      "target": "Elżbiety",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Piotrze Kruczku",
+      "target": "Elżbiety",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Władysława III",
+      "target": "Zawisza",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Altmann",
+      "target": "Boniecki",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

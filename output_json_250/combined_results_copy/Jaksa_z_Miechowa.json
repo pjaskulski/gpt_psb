@@ -1,0 +1,147 @@
+{
+    "name": "Jaksa z Miechowa",
+    "psb_id": "PSB-10-0419",
+    "biogram_file": "Jaksa_z_Miechowa.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1176",
+        "note": "około"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "możnowładca małopolski",
+        "fundator klasztoru bożogrobców z Miechowa",
+        "ofiarodawca licznych majątków na rzecz klasztoru benedyktyńskiego w Sieciechowie",
+        "ofiarodawca na rzecz klasztorów premonstrantek w Krzyżanowicach i na Zwierzyńcu pod Krakowem",
+        "fundator klasztoru premonstrantek na Zwierzyńcu pod Krakowem",
+        "pan potężnych włości"
+    ],
+    "institutions": [
+        {
+            "institution_name": "klasztor bożogrobców",
+            "institution_place": "Miechów"
+        },
+        {
+            "institution_name": "klasztor benedyktyński",
+            "institution_place": "Sieciechów"
+        },
+        {
+            "institution_name": "klasztor premonstrantek",
+            "institution_place": "Krzyżanowice"
+        },
+        {
+            "institution_name": "klasztor premonstrantek",
+            "institution_place": "Zwierzyniec pod Krakowem"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Jan Długosz",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Monach",
+            "person_date": "1198",
+            "person_info": "patriarcha kościoła Zmartwychwstania w Jerozolimie"
+        },
+        {
+            "person_name": "Bolesław Wstydliwy",
+            "person_date": "1252",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Piotr Włostowic",
+            "person_date": "brak danych",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Wincenty Kadłubek",
+            "person_date": "brak danych",
+            "person_info": "historyk"
+        },
+        {
+            "person_name": "Świętosław",
+            "person_date": "ok. 1170",
+            "person_info": "wielmoża małopolski"
+        },
+        {
+            "person_name": "Bolesław Kędzierzawy",
+            "person_date": "ok. 1170",
+            "person_info": "książę"
+        },
+        {
+            "person_name": "Kazimierz Sprawiedliwy",
+            "person_date": "ok. 1170",
+            "person_info": "książę"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Miechów",
+            "date": "1163"
+        },
+        {
+            "place": "Zagorzyce",
+            "date": "1163"
+        },
+        {
+            "place": "Komorów",
+            "date": "1163"
+        },
+        {
+            "place": "Jerozolima",
+            "date": "1198"
+        },
+        {
+            "place": "Sieciechów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krzyżanowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zwierzyniec",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lubelskie",
+            "date": "1252"
+        },
+        {
+            "place": "Kobylniki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kowale",
+            "date": "brak danych"
+        },
+        {
+            "place": "Suchorowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Zabierzów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Bibice",
+            "date": "brak danych"
+        }
+    ]
+}

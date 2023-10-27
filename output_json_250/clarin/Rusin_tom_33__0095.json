@@ -1,0 +1,45 @@
+{
+  "Nazwisko": [
+    "Rusin"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Ruthenus"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "20-12-1330 --"
+  ],
+  "Miejsce śmierci": [
+    "Ziemi Święty"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rajca krakowski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Jaśkowi",
+      "target": "Eberharda",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Jaśkowi",
+      "target": "Piotra Gwisa",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Eberharda",
+      "target": "Piotra Gwisa",
+      "name": "ważna postać - ojciec"
+    }
+  ]
+}

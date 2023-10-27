@@ -1,0 +1,41 @@
+{
+  "Nazwisko": [
+    "Białecka"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Róża"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "23-08-1838"
+  ],
+  "Miejsce urodzenia": [
+    "Jaśniszczach"
+  ],
+  "Data śmierci": [
+    "18-03-1887"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "założycielka zgromadzenia ss. dominikanek III Zakonu regularnego w Polsce"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "III zakon",
+    "Sacré Coeur"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Świątek Fr.",
+      "target": "Marji Kolumby Białeckiej",
+      "name": "protagonist - wnuki"
+    }
+  ]
+}

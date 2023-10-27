@@ -1,0 +1,50 @@
+{
+  "Nazwisko": [
+    "Słowicki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Józef"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1803"
+  ],
+  "Miejsce urodzenia": [
+    "Rostoka"
+  ],
+  "Data śmierci": [
+    "DD-MM-1847"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "emigrant",
+    "publicysta"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Warsz",
+    "16 . Poczta_Polska liniowy",
+    "2 . Poczta_Polska",
+    "komisja centralny Polak",
+    "towarzysz . demokratyczny polski",
+    "TDP",
+    "sekcja TDP",
+    "komisja korespondencyjny",
+    "centralizacja"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Poitiers",
+    null
+  ],
+  "Relacje": null
+}

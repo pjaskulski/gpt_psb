@@ -1,0 +1,101 @@
+{
+  "Nazwisko": [
+    "Śląska"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Śląska-Wąsikówna",
+    "Śląska-Wąsik",
+    "Śląska-Górska"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "04-11-YYYY"
+  ],
+  "Miejsce urodzenia": [
+    "Katowicach"
+  ],
+  "Data śmierci": [
+    "18-09-1989"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz powązkowski w grobie rodzinnym"
+  ],
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "POW Górny Śląsk",
+    "dyrekcja okręgowy koleja państwo .",
+    "PKP",
+    "sejm",
+    "towarzysz . Polek w Gliwice",
+    "szkoła powszechny święty . Jadwiga",
+    "miejski gimnazjum i liceum żeński",
+    "armia Czerwony",
+    "szkoła dramatyczny przy teatr miejski",
+    "studio",
+    "aktorski",
+    "teatr miejski imienia .",
+    "Juliusz Słowacki",
+    "państwo . szkoła dramatyczny",
+    "PSD"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Śląska",
+      "target": "Śląska-Wąsik",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Śląska",
+      "target": "Śląska-Górska",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Śląska-Wąsikówna",
+      "target": "Śląska-Wąsik",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Śląska-Wąsikówna",
+      "target": "Śląska-Górska",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Heleny z Masłowskich",
+      "target": "Janie Jewasińskim",
+      "name": "ważna postać - współmałżonek"
+    },
+    {
+      "source": "Bożenę Jewasińską",
+      "target": "Naturską",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Eugenii Deutsch, z domu Taczanowskiej",
+      "target": "Valerie von Pesić",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

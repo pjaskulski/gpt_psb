@@ -1,0 +1,512 @@
+{
+    "name": "Paweł Szczerbic",
+    "psb_id": "PSB-47-0199",
+    "biogram_file": "Szczerbic.txt",
+    "date_of_birth": {
+        "date": "1552",
+        "note": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1609-03-30"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "krużganki kościoła p. wezw. Świętej Trójcy (Dominikanów)"
+    },
+    "functions": [
+        "prawnik",
+        "pisarz",
+        "syndyk lwowski",
+        "sekretarz królewski",
+        "tłumacz",
+        "autor dzieł prawniczych",
+        "nauczyciel na dworze Firlejów",
+        "pisarz m. Lwowa",
+        "właściciel drukarni",
+        "dworzanin królewski",
+        "notariusz w kancelarii królewskiej",
+        "pisarz dekretowy",
+        "honorowy sekretarz królewski",
+        "asesor w sądzie koronnym",
+        "tłumacz traktatów filozoficznych",
+        "doktor nauk prawnych",
+        "subdiakon",
+        "diakon",
+        "prezbiter",
+        "kanonik warszawski",
+        "członek Arcybractwa Miłosierdzia w Krakowie",
+        "prepozyt sandomierski",
+        "delegat diecezji krakowskiej do rozmów między stanami duchownym i świeckim",
+        "prowizor Jana Koryckiego z Korczyna",
+        "właściciel kamienicy",
+        "wójt w Częstochowie",
+        "wójt w Olkuszu",
+        "wójt w Wieliczce",
+        "landwójt",
+        "dzierżawca wójtostwa",
+        "wójt wielicki",
+        "dziedzic wsi Garlicza Górna"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rada Miejska Lwowa",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Drukarnia",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kancelaria królewska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sąd asesorski kor.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Tryb. Kor.",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Arcybractwo Miłosierdzia",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sąd asesorski i sąd relacyjny",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Diecezja krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sejm",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Synod diecezjalny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Synod prowincjonalny",
+            "institution_place": "Piotrków"
+        },
+        {
+            "institution_name": "Kancelaria Królewska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Rada Miejska",
+            "institution_place": "Częstochowa"
+        },
+        {
+            "institution_name": "Dwór Królewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sąd Ławniczy",
+            "institution_place": "Wieliczka"
+        },
+        {
+            "institution_name": "Komora Krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kościół p. wezw. Świętej Trójcy (Dominikanów)",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sejm Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Biblioteka Jagiellońska",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Paweł Szczerbic"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Szczerbic"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Szczerbic"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Marcin Fox"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Paweł Fetter"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan Fetter"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna Fetterówna"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Magdalena Szczerbic"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Anna Szczerbic"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Dorota"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Stanisław Czymerman"
+        },
+        {
+            "family_relation": "synowa",
+            "person": "Anna Trembecka"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Marianna"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Dorota"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Zofia"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan Tarnowski",
+            "person_date": "brak danych",
+            "person_info": "hetman koronny"
+        },
+        {
+            "person_name": "Dionizy Stuba",
+            "person_date": "brak danych",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Marcin Konig",
+            "person_date": "brak danych",
+            "person_info": "zwany Karczmarzem"
+        },
+        {
+            "person_name": "Stanisław Czymerman",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Paweł Fetter",
+            "person_date": "brak danych",
+            "person_info": "złotnik"
+        },
+        {
+            "person_name": "Józef Fox",
+            "person_date": "brak danych",
+            "person_info": "złotnik"
+        },
+        {
+            "person_name": "Florian Siebenburger",
+            "person_date": "brak danych",
+            "person_info": "płatnerz"
+        },
+        {
+            "person_name": "Mikołaj Firlej",
+            "person_date": "brak danych",
+            "person_info": "wojewoda krakowski"
+        },
+        {
+            "person_name": "Stanisław Anserinus",
+            "person_date": "1577",
+            "person_info": "notariusz lwowski"
+        },
+        {
+            "person_name": "Mikołaj Mielecki",
+            "person_date": "1577",
+            "person_info": "wojewoda podolski"
+        },
+        {
+            "person_name": "Wojciech Stefanowski",
+            "person_date": "1578",
+            "person_info": "malarz lwowski"
+        },
+        {
+            "person_name": "Stanisław",
+            "person_date": "1578",
+            "person_info": "cieśla krakowski"
+        },
+        {
+            "person_name": "Stefan Batory",
+            "person_date": "1579",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jan Zamoyski",
+            "person_date": "1578",
+            "person_info": "kanclerz koronny"
+        },
+        {
+            "person_name": "Mikołaj Jaskier",
+            "person_date": "brak danych",
+            "person_info": "pisarz miejski krakowski"
+        },
+        {
+            "person_name": "Stanisław Karnkowski",
+            "person_date": "1585",
+            "person_info": "arcybiskup gnieźnieński"
+        },
+        {
+            "person_name": "Jan Rybiński",
+            "person_date": "1593",
+            "person_info": "sekretarz toruński"
+        },
+        {
+            "person_name": "Justus Lipsius",
+            "person_date": "brak danych",
+            "person_info": "filozof"
+        },
+        {
+            "person_name": "Jan Firlej",
+            "person_date": "brak danych",
+            "person_info": "podskarbi wielki koronny"
+        },
+        {
+            "person_name": "Józef Sołtykowicz",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Dawid Hilchen",
+            "person_date": "1604",
+            "person_info": "pisarz ziemski wendeński"
+        },
+        {
+            "person_name": "Jan Łaski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Przyłuski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Herburta",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zygmunt I",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Zygmunt August",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Zygmunt III",
+            "person_date": "brak danych",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Lipsjusz",
+            "person_date": "1608",
+            "person_info": "autor traktatu"
+        },
+        {
+            "person_name": "Jan Korycki",
+            "person_date": "13 III 1609",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Hanus Henle",
+            "person_date": "ok. 1595",
+            "person_info": "lwowianin"
+        },
+        {
+            "person_name": "Jan Zapala",
+            "person_date": "30 XII 1578",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Podczaszy",
+            "person_date": "1591",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wojciech Krucki",
+            "person_date": "1595",
+            "person_info": "pisarz kancelarii królewskiej"
+        },
+        {
+            "person_name": "Paweł Sękowski",
+            "person_date": "1596",
+            "person_info": "dworzanin królewski"
+        },
+        {
+            "person_name": "Andrzej Gostwicki",
+            "person_date": "1598",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walentemu Skalski",
+            "person_date": "1599",
+            "person_info": "sztygar"
+        },
+        {
+            "person_name": "Piotr Ciekliński",
+            "person_date": "20 V 1604",
+            "person_info": "poeta i sekretarz królewski"
+        },
+        {
+            "person_name": "Stanisław Korzeński",
+            "person_date": "1611",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Florian Groth",
+            "person_date": "1614",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Anna Trembecka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jost Cyrus-Sobolewski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1527"
+        },
+        {
+            "place": "Starodub",
+            "date": "brak danych"
+        },
+        {
+            "place": "Smoleńsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Chocim",
+            "date": "brak danych"
+        },
+        {
+            "place": "Węgry",
+            "date": "brak danych"
+        },
+        {
+            "place": "Włochy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1577"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1579"
+        },
+        {
+            "place": "Wilno",
+            "date": "1581"
+        },
+        {
+            "place": "Lublin",
+            "date": "1582"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1607"
+        },
+        {
+            "place": "Piotrków",
+            "date": "1609"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "1589"
+        },
+        {
+            "place": "Malbork",
+            "date": "1590"
+        },
+        {
+            "place": "Chruszczobród",
+            "date": "1591"
+        },
+        {
+            "place": "Wieliczka",
+            "date": "1595"
+        },
+        {
+            "place": "Bełz",
+            "date": "1604"
+        },
+        {
+            "place": "Chełm",
+            "date": "1604"
+        },
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wieliczka",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1609-02-26"
+        },
+        {
+            "place": "Garlica Górna",
+            "date": "1611"
+        }
+    ]
+}

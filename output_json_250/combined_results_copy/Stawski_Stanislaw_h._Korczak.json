@@ -1,0 +1,140 @@
+{
+    "name": "Stanisław Stawski",
+    "psb_id": "PSB-43-0017",
+    "biogram_file": "Stawski_Stanislaw_h._Korczak.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1490/1491"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "kanonik wileński",
+        "biskup łucki",
+        "sędzia",
+        "notariusz publiczny imperiali auctoritate",
+        "scriba causarum",
+        "doradca w. ks. lit. Kazimierza Jagiellończyka"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydz. Sztuk Wyzwolonych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kapit. wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "biskupstwo łuckie",
+            "institution_place": "Łuck"
+        },
+        {
+            "institution_name": "oficjalat diec. łuckiej",
+            "institution_place": "Janów"
+        },
+        {
+            "institution_name": "konsystorz",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "sąd",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Jakub ze Stawów"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Mikołaj"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Paweł Holszański",
+            "person_date": "1522",
+            "person_info": "biskup łucki"
+        },
+        {
+            "person_name": "Jerzy z Giedroyciów",
+            "person_date": "1469-78",
+            "person_info": "student"
+        },
+        {
+            "person_name": "Jan Fijałek",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcin Krzeszowski",
+            "person_date": "1483",
+            "person_info": "biskup łucki"
+        },
+        {
+            "person_name": "Mikołaj Latowski",
+            "person_date": "1483",
+            "person_info": "penitencjarz"
+        },
+        {
+            "person_name": "Kazimierz Jagiellończyk",
+            "person_date": "1483",
+            "person_info": "książę litewski"
+        },
+        {
+            "person_name": "Mikołaj",
+            "person_date": "1484",
+            "person_info": "notariusz publiczny imperiali auctoritate, scriba causarum"
+        },
+        {
+            "person_name": "Bogusław",
+            "person_date": "1490",
+            "person_info": "książę zachodniopomorski"
+        },
+        {
+            "person_name": "Anna",
+            "person_date": "1490",
+            "person_info": "królewna"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Stawy",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1469-1478"
+        },
+        {
+            "place": "Wilno",
+            "date": "1478"
+        },
+        {
+            "place": "Łuck",
+            "date": "1483-1490/1"
+        },
+        {
+            "place": "Janów Podlaski",
+            "date": "1484"
+        }
+    ]
+}

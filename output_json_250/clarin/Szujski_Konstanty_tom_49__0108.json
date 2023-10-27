@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Szujski"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szuyski"
+  ],
+  "Imię/imiona": [
+    "Konstanty",
+    "Jan"
+  ],
+  "Herb": [
+    "Pogoń Ruska"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "22-01-1695 -- 31-01-1695"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "Brześciu Lit"
+  ],
+  "Zawód": [
+    "kniaź",
+    "pisarz wielki litewski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Annę",
+      "target": "Stefanem Rusieckim",
+      "name": "rodzeństwo - współmałżonek"
+    },
+    {
+      "source": "Andrzeja Kotowicza",
+      "target": "S.",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

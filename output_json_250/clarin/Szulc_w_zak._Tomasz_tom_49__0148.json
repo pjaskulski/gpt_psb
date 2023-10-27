@@ -1,0 +1,44 @@
+{
+  "Nazwisko": [
+    "Szulc"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szulc-Prątnicki"
+  ],
+  "Imię/imiona": [
+    "Tomasz"
+  ],
+  "Herb": [
+    "Prątnicki"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1642"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1705"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "dominikanin",
+    "przeor",
+    "pisarz religijny"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "S-owi",
+      "target": "Kazimierz Jurgiewicz",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "S-a",
+      "target": "Rajmunda Kaweckiego",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+    "name": "Mikołaj Kozłowski",
+    "psb_id": "PSB-15-0029",
+    "biogram_file": "Kozlowski_Mikolaj_h.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Kozłów",
+        "note": "powiat miechowski"
+    },
+    "date_of_death": {
+        "date": "1443"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "profesor Uniwersytetu Krakowskiego",
+        "rektor Uniwersytetu Krakowskiego",
+        "uczestnik soboru bazylejskiego",
+        "komornik sądu ziemskiego krakowskiego",
+        "bakałarz sztuk wyzwolonych",
+        "mistrz",
+        "bakałarz teologii",
+        "wicekanclerz Uniwersytetu Krakowskiego",
+        "bakałarz sentencjonariusz",
+        "baccalarius formatus",
+        "opiekun dzieci brata Piotra",
+        "doktor teologii",
+        "kanonik poznański",
+        "kanonik kolegiaty Św. Floriana w Krakowie",
+        "kanonik krakowski",
+        "reprezentant biskupa krakowskiego na soborze w Bazylei",
+        "generalny komisarz na Polskę dla głoszenia odpustów",
+        "pleban w Zagościu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Praski",
+            "institution_place": "Praga"
+        },
+        {
+            "institution_name": "Uniwersytet Krakowski",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kuria",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Kolegiata Św. Floriana",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Sobór w Bazylei",
+            "institution_place": "Bazylea"
+        },
+        {
+            "institution_name": "Kuria biskupia",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mszczuj"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Piotr"
+        },
+        {
+            "family_relation": "siostrzeniec",
+            "person": "dzieci Piotra"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Hieronim z Pragi",
+            "person_date": "1398",
+            "person_info": "spalony na soborze w Konstancji"
+        },
+        {
+            "person_name": "Jan z Ziembic",
+            "person_date": "brak danych",
+            "person_info": "mistrz praski"
+        },
+        {
+            "person_name": "Jan Hus",
+            "person_date": "1402",
+            "person_info": "dziekan"
+        },
+        {
+            "person_name": "Mikołaj z Pyzdr",
+            "person_date": "1410/1",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Mikołaj Łukasz z Wielkiego Koźmina",
+            "person_date": "1412",
+            "person_info": "napisał dla K. szkic 'Principium do Biblii'"
+        },
+        {
+            "person_name": "M. Markowski",
+            "person_date": "brak danych",
+            "person_info": "przypisuje K. pełnienie funkcji wicekanclerza Uniw. Krak."
+        },
+        {
+            "person_name": "Piotr Lombard",
+            "person_date": "1420",
+            "person_info": "autor 'Sentencji'"
+        },
+        {
+            "person_name": "Andrzej Łaskarz z Gosławic",
+            "person_date": "1424",
+            "person_info": "bp poznański"
+        },
+        {
+            "person_name": "Stanisław Ciołek",
+            "person_date": "1426",
+            "person_info": "bp, kandydat króla"
+        },
+        {
+            "person_name": "Zbigniew Oleśnicki",
+            "person_date": "1426",
+            "person_info": "bp krakowski"
+        },
+        {
+            "person_name": "Andrzej z Kokorzyna",
+            "person_date": "1431",
+            "person_info": "uczestnik dysputy z posłami husyckimi"
+        },
+        {
+            "person_name": "Franciszek z Brzegu",
+            "person_date": "1431",
+            "person_info": "uczestnik dysputy z posłami husyckimi"
+        },
+        {
+            "person_name": "Jan Elgot",
+            "person_date": "1431",
+            "person_info": "uczestnik dysputy z posłami husyckimi"
+        },
+        {
+            "person_name": "Benedykt Hesse z Krakowa",
+            "person_date": "1431",
+            "person_info": "uczestnik dysputy z posłami husyckimi"
+        },
+        {
+            "person_name": "Jakub z Paradyża",
+            "person_date": "1431",
+            "person_info": "uczestnik dysputy z posłami husyckimi"
+        },
+        {
+            "person_name": "Eliasz z Wąwolnicy",
+            "person_date": "1431",
+            "person_info": "uczestnik dysputy z posłami husyckimi"
+        },
+        {
+            "person_name": "Franciszek z Brzegu",
+            "person_date": "1432",
+            "person_info": "zmarły profesor teologii Uniw. Krak."
+        },
+        {
+            "person_name": "Tomasz Strzempiński",
+            "person_date": "1432",
+            "person_info": "rektor uniwersytetu"
+        },
+        {
+            "person_name": "Paweł z Kłobucka",
+            "person_date": "1432",
+            "person_info": "rzecznik interesów profesorów"
+        },
+        {
+            "person_name": "Andrzej z Buku",
+            "person_date": "1432",
+            "person_info": "gospodarz narady"
+        },
+        {
+            "person_name": "Tomasz Strzempiński",
+            "person_date": "1433",
+            "person_info": "delegat arcbpa gnieźnieńskiego na soborze w Bazylei"
+        },
+        {
+            "person_name": "Jan Oczko",
+            "person_date": "1433",
+            "person_info": "prepozyt bożogrobców miechowskich na soborze w Bazylei"
+        },
+        {
+            "person_name": "Michał Koyer",
+            "person_date": "1433",
+            "person_info": "skryptor bazylejski"
+        },
+        {
+            "person_name": "Władysław Jagiełło",
+            "person_date": "1434",
+            "person_info": "król, zmarły"
+        },
+        {
+            "person_name": "Stanisław Ciołek",
+            "person_date": "1434",
+            "person_info": "organizator nabożeństwa za zmarłego króla"
+        },
+        {
+            "person_name": "Bolesław Śmiały",
+            "person_date": "brak danych",
+            "person_info": "król, wspomniany w kazaniu K."
+        },
+        {
+            "person_name": "Mirosław, syn Kiełcza z Brudzewa",
+            "person_date": "brak danych",
+            "person_info": "potencjalny następca bp poznańskiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kozłów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Praga",
+            "date": "1398-09-14"
+        },
+        {
+            "place": "Buk",
+            "date": "1401-07-04"
+        },
+        {
+            "place": "Kraków",
+            "date": "1404"
+        },
+        {
+            "place": "Januszowice",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1424-10-21"
+        },
+        {
+            "place": "Bazylea",
+            "date": "1433-07-31"
+        },
+        {
+            "place": "Wiślica",
+            "date": "1433-08-03"
+        },
+        {
+            "place": "Nowy Sącz",
+            "date": "1437-02-15"
+        },
+        {
+            "place": "Słomniki",
+            "date": "1443-11-04"
+        },
+        {
+            "place": "Zagość",
+            "date": "brak danych"
+        },
+        {
+            "place": "Ulinie",
+            "date": "brak danych"
+        }
+    ]
+}

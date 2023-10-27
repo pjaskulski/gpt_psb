@@ -1,0 +1,179 @@
+{
+    "name": "Marcin Słonkowic",
+    "psb_id": "PSB-39-0019",
+    "biogram_file": "Slonkowic.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "Słonkowo",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1658-05-08"
+    },
+    "place_of_death": {
+        "place": "Kraków",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "1658-05-11"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "brak danych"
+    },
+    "functions": [
+        "profesor Uniwersytetu Krakowskiego",
+        "docent na Wydziale Filozoficznym Uniwersytetu Krakowskiego",
+        "nauczyciel w kolonii akademickiej we Lwowie",
+        "rektor szkoły we Lwowie",
+        "senior bursy Jagiellońskiej (Ubogich)",
+        "profesor Kolegium Większego",
+        "prowizor Kolegium Większego",
+        "dziekan Wydziału Filozoficznego Uniwersytetu Krakowskiego",
+        "profesor królewski języka hebrajskiego",
+        "bibliotekarz na uniwersytecie w Padwie",
+        "doktor medycyny",
+        "kanonik w kolegiacie św. Floriana",
+        "strażnik zbiorów bibliotecznych Kolegium Większego",
+        "profesor Wydziału Teologicznego Uniwersytetu Krakowskiego",
+        "bakałarz teologii"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kolonia akademicka",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Kolegium Mniejsze w Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "bursa Jagiellońska (Ubogich)",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Większe",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "katedra filozofii z fundacji Grzegorza Prewancjusza Władysławskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydz. Filozoficzny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "kolegium św. Floriana",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "biblioteka Kolegium Większego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Mniejsze",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kolegium Władysławowskiego",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Wydz. Teologiczny",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "uniwersytet w Padwie",
+            "institution_place": "Padwa"
+        },
+        {
+            "institution_name": "Wydz. Lekarski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "bursa Filozofów",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "biblioteka Jana Brożka",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "metryka Wydz. Filozoficznego",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Wojciech Słonkowic"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Jan T. Józefowicz",
+            "person_date": "brak danych",
+            "person_info": "kronikarz lwowski"
+        },
+        {
+            "person_name": "Wacław Zamoyski",
+            "person_date": "1645",
+            "person_info": "kasztelan lwowski"
+        },
+        {
+            "person_name": "Stanisław Różycki",
+            "person_date": "1650",
+            "person_info": "rektor"
+        },
+        {
+            "person_name": "Piotr Gembicki",
+            "person_date": "1650",
+            "person_info": "biskup krakowski"
+        },
+        {
+            "person_name": "Jakub Górski",
+            "person_date": "1651",
+            "person_info": "rektor"
+        },
+        {
+            "person_name": "Joachim Speroniusz",
+            "person_date": "1655",
+            "person_info": "prowizor"
+        },
+        {
+            "person_name": "Marcin Radymiński",
+            "person_date": "1655",
+            "person_info": "profesor"
+        },
+        {
+            "person_name": "Jan Brożek",
+            "person_date": "1658",
+            "person_info": "właściciel biblioteki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Słonkowo",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraków",
+            "date": "1626/7, 1633, 1645, 1650, 1654, 1655"
+        },
+        {
+            "place": "Lwów",
+            "date": "1640-1643, 1641, 1642"
+        },
+        {
+            "place": "Padwa",
+            "date": "1652, 1654"
+        }
+    ]
+}

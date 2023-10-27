@@ -1,0 +1,163 @@
+{
+    "name": "Gabriel Krumhausen",
+    "psb_id": "PSB-15-0401",
+    "biogram_file": "Krumhausen_Gabriel.txt",
+    "date_of_birth": {
+        "date": "1614-09-14"
+    },
+    "place_of_birth": {
+        "place": "Gdańsk"
+    },
+    "date_of_death": {
+        "date": "1685-04-09"
+    },
+    "place_of_death": {
+        "place": "Gdańsk"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "burmistrz Gdańska",
+        "burgrabia królewski w Gdańsku",
+        "student prawa na uniwersytecie w Strasburgu",
+        "sekretarz gdańskich władz miejskich",
+        "ławnik",
+        "rajca",
+        "sędzia",
+        "prezydent Gdańska",
+        "administrator Helem",
+        "administrator Żuław",
+        "członek Komisji Wojennej",
+        "inspektor kancelarii i archiwum",
+        "protoscholarcha",
+        "burgrabia królewski",
+        "przewodniczący poselstw gdańskich",
+        "członek delegacji prowadzącej tajne obrady z królem i senatorami",
+        "członek komisji dla zlikwidowania konfliktu spowodowanego wyznaczeniem komisarzy królewskich",
+        "kolekcjoner",
+        "darczyńca Biblioteki Rady Miasta"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum Akademickie",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Uniwersytet w Strasburgu",
+            "institution_place": "Strasburg"
+        },
+        {
+            "institution_name": "Komisja Wojenna",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Biblioteka Rady Miasta",
+            "institution_place": "Gdańsk"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Joachim Krumhausen"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Gertruda Schumann"
+        },
+        {
+            "family_relation": "dziadek",
+            "person": "Stanisław Bornbach"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Joachim Krumhausen"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Konstancja Falcke"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Michał Behm",
+            "person_date": "1646",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wincenty Fabrycius",
+            "person_date": "1659",
+            "person_info": "syndyk"
+        },
+        {
+            "person_name": "Jerzy von Boemeln",
+            "person_date": "brak danych",
+            "person_info": "burmistrz"
+        },
+        {
+            "person_name": "Jerzy Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Jan III",
+            "person_date": "1677",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Henryk Nimsgarten",
+            "person_date": "1651",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Joachim",
+            "person_date": "1661",
+            "person_info": "członek i kwatermistrz Kwartału Wysokiego, ławnik"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Gdańsk",
+            "date": "1614-09-14"
+        },
+        {
+            "place": "Łobżenica",
+            "date": "1630-1632"
+        },
+        {
+            "place": "Strasburg",
+            "date": "1640"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1646"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1648"
+        },
+        {
+            "place": "Kraków",
+            "date": "1649"
+        },
+        {
+            "place": "Toruń",
+            "date": "1649"
+        },
+        {
+            "place": "Malbork",
+            "date": "1650"
+        },
+        {
+            "place": "Helem",
+            "date": "1666-1682"
+        },
+        {
+            "place": "Żuławy",
+            "date": "1683"
+        }
+    ]
+}

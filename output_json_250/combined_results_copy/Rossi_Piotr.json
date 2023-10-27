@@ -1,0 +1,184 @@
+{
+    "name": "Piotr Rossi",
+    "psb_id": "PSB-32-0104",
+    "biogram_file": "Rossi_Piotr.txt",
+    "date_of_birth": {
+        "date": "1760",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "Rzym",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1810",
+        "note": "po"
+    },
+    "place_of_death": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "architekt",
+        "pomiarowiec",
+        "projektant",
+        "wykonawca",
+        "architekt gub. wileńskiej",
+        "delegat magistratu do reperacji młyna miejskiego w Wilnie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Król Stanisław August",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Władze kościelne",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Magistrat",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Kościół kamedułów",
+            "institution_place": "Pożajście"
+        },
+        {
+            "institution_name": "Kościół Św. Ignacego",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Kościół Św. Kazimierza",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Kościół w Podbrzeziu",
+            "institution_place": "Podbrzezie"
+        },
+        {
+            "institution_name": "Pałac Dominika Radziwiłła",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Kaplica Matki Boskiej przy Ostrej Bramie",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Gubernia wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Browar przy placu Kossakowskich",
+            "institution_place": "Antokol"
+        },
+        {
+            "institution_name": "Młyn miejski",
+            "institution_place": "Wilno"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Andrzej Rossi"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Małgorzata Baltazary"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Józef Baltazary"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Andrzej Rossi"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Kornel Rossi"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Klemens Rossi"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Izabella Rossi"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Feliksa Rossi"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław August",
+            "person_date": "1791",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Katarzyna II",
+            "person_date": "1794",
+            "person_info": "cesarzowa Rosji"
+        },
+        {
+            "person_name": "Augustyn Kossakowski",
+            "person_date": "1798",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Wawrzyniec Gucewicz",
+            "person_date": "brak danych",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Dominik Radziwiłł",
+            "person_date": "brak danych",
+            "person_info": "szlachcic"
+        },
+        {
+            "person_name": "Karol Schildhaus",
+            "person_date": "1810",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "Hermanowski",
+            "person_date": "1810",
+            "person_info": "mechanik"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Rzym",
+            "date": "1760"
+        },
+        {
+            "place": "Wilno",
+            "date": "1790"
+        },
+        {
+            "place": "Bakszta",
+            "date": "1791"
+        },
+        {
+            "place": "Pożajście",
+            "date": "1792"
+        },
+        {
+            "place": "Podbrzezie",
+            "date": "1798"
+        },
+        {
+            "place": "Ostra Brama",
+            "date": "1798-1799"
+        }
+    ]
+}

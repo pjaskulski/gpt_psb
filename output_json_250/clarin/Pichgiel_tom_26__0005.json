@@ -1,0 +1,100 @@
+{
+  "Nazwisko": [
+    "Pichgiel"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Pichel",
+    "Piechel",
+    "Pichelÿ"
+  ],
+  "Imię/imiona": [
+    "Christian"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1652"
+  ],
+  "Miejsce urodzenia": [
+    "Lublina"
+  ],
+  "Data śmierci": [
+    "29-09-1700"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kaplica cech złotników w kościele Najśw. Maryi Panny w Gdańsku"
+  ],
+  "Zawód": [
+    "złotnik gdański"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "muzeum narodowy ("
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Pichgiel",
+      "target": "Piechel",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Pichgiel",
+      "target": "Pichelÿ) Christian starszy",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Pichel",
+      "target": "Pichelÿ) Christian starszy",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Ephraim Pewes",
+      "target": "Gotfried Baur",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "P-a",
+      "target": "Ephraim Pewes",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P-a",
+      "target": "Gotfried Baur",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P-a",
+      "target": "Matthias Pichgiel",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P-a",
+      "target": "Georg Jantzen",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P-a",
+      "target": "Christian Pichgiel",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "P-a",
+      "target": "P-a",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Georg Jantzen",
+      "target": "Christian Pichgiel",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Georg Jantzen",
+      "target": "P-a",
+      "name": "protagonist - krewny"
+    }
+  ]
+}

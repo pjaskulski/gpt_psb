@@ -1,0 +1,165 @@
+{
+    "name": "Stanisław Fabijański",
+    "psb_id": "PSB-06-0498",
+    "biogram_file": "Fabijanski_Stanislaw.txt",
+    "date_of_birth": {
+        "date": "1865"
+    },
+    "place_of_birth": {
+        "place": "Paryż"
+    },
+    "date_of_death": {
+        "date": "1947-02-13"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "artysta malarz",
+        "rzeźbiarz",
+        "student Szkoły Sztuk Pięknych w Krakowie",
+        "student Akademii w Monachium"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Szkoła Sztuk Pięknych (Meisterschuli)",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Akademia",
+            "institution_place": "Monachium"
+        },
+        {
+            "institution_name": "Towarzystwo Przyjaciół Sztuk Pięknych",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Zachęta",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muzeum Narodowe",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Muzeum",
+            "institution_place": "Irkuck"
+        },
+        {
+            "institution_name": "Muzeum",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Powszechna Wystawa Krajowa",
+            "institution_place": "Poznań"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Erazm Rudolf Fabijański"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Lucyna Odrowąż Sypniewska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Marconi",
+            "person_date": "1880",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Starkowski",
+            "person_date": "brak danych",
+            "person_info": "rzeźbiarz"
+        },
+        {
+            "person_name": "Szynalewski",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Jabłoński",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Łuszczkiewicz",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Cynk",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Loeffler",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Matejko",
+            "person_date": "1883",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Wagner",
+            "person_date": "1888",
+            "person_info": "malarz"
+        },
+        {
+            "person_name": "Foch",
+            "person_date": "brak danych",
+            "person_info": "marszałek"
+        },
+        {
+            "person_name": "Anna Jasińska",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Boecklin",
+            "person_date": "1931",
+            "person_info": "malarz"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Paryż",
+            "date": "1865"
+        },
+        {
+            "place": "Lwów",
+            "date": "1880"
+        },
+        {
+            "place": "Kraków",
+            "date": "1883"
+        },
+        {
+            "place": "Monachium",
+            "date": "1888"
+        },
+        {
+            "place": "Przecław",
+            "date": "1889"
+        },
+        {
+            "place": "Irkuck",
+            "date": "brak danych"
+        },
+        {
+            "place": "Poznań",
+            "date": "1929"
+        }
+    ]
+}

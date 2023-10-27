@@ -1,0 +1,52 @@
+{
+  "Nazwisko": [
+    "Sokołowski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Marcin"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1670"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1736"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "złotnik"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "kapituła"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S-emu",
+      "target": "Stanisława Szembeka",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S-m",
+      "target": "Szembeka",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "S-m",
+      "target": "Michała Radziejowskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Szembeka",
+      "target": "Michała Radziejowskiego",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

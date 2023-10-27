@@ -1,0 +1,344 @@
+{
+    "name": "Kazimierz Słupecki",
+    "psb_id": "PSB-39-0065",
+    "biogram_file": "Slupecki_Kazimierz.txt",
+    "date_of_birth": {
+        "date": "1782-03-04"
+    },
+    "place_of_birth": {
+        "place": "Zakroczym"
+    },
+    "date_of_death": {
+        "date": "1832-12-16"
+    },
+    "place_of_death": {
+        "place": "Falęcin"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Falęcin",
+        "note": "tamtejszy cmentarz parafialny"
+    },
+    "functions": [
+        "generał brygady WP",
+        "powstaniec 1830/31 r.",
+        "wojskowy pruski",
+        "podoficer 2. Pułku Piechoty Ks. Warsz.",
+        "podporucznik",
+        "porucznik",
+        "kapitan",
+        "szef batalionu 18. pp",
+        "major 2. Pułku Piechoty Liniowej",
+        "podpułkownik",
+        "dowódca 2. ppl.",
+        "pułkownik",
+        "wicedyrektor Komisariatu Ubiorczego Wojska",
+        "dyrektor Komisariatu Ubiorczego Wojska",
+        "generał brygady",
+        "żołnierz wojska pruskiego"
+    ],
+    "institutions": [
+        {
+            "institution_name": "wojsko pruskie",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "2. Pułk Piechoty Ks. Warsz.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "7. kompania",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "18. pp",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "1. Pułk Piechoty Lit.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "loża rytu szkockiego «Świątynia Izis»",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "2. Pułk Piechoty Liniowej",
+            "institution_place": "Sandomierskiem"
+        },
+        {
+            "institution_name": "Komisariatu Ubiorczego Wojska",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisji Rozpoznawczej nominacji oficerskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komitet Rozpoznawczy",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sąd Wojenny Nadzwyczajny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja do przejrzenia papierów osobom o spisek przeciw ojczyźnie obwinionym",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Komisja Rządowa Wojny",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "pułk piechoty «Ritz»",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Tomasz Słupecki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Helena Turczyńska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Klemens Jan Słupecki"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Józef Franciszek Słupecki"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Antonina Helena Słupecka"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Wiktoria Słupecka"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Franciszek Leopold Lafonataine"
+        },
+        {
+            "family_relation": "szwagierka",
+            "person": "Zofia Hauke"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Helena Słupecka"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Wiktoria Augustowska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Stanisław Potocki",
+            "person_date": "1809",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Joanna Żubrowa",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Antoni Sapieha",
+            "person_date": "1809",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Aleksander Chodkiewicz",
+            "person_date": "1812",
+            "person_info": "płk"
+        },
+        {
+            "person_name": "Stanisław Wojczyński",
+            "person_date": "1830",
+            "person_info": "gen. dyw."
+        },
+        {
+            "person_name": "Józef Chłopicki",
+            "person_date": "1830",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Michał Radziwiłł",
+            "person_date": "1831",
+            "person_info": "ks."
+        },
+        {
+            "person_name": "Jan Skrzynecki",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Andrzej Ruttié",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Amancjusz Żarczyński",
+            "person_date": "1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Julian U. Niemcewicz",
+            "person_date": "1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Zofia Hauke",
+            "person_date": "1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Krukowiecki",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Józef Hurtig",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Antoni Jankowski",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Antoni Sałacki",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Ludwik Bukowski",
+            "person_date": "1831",
+            "person_info": "gen."
+        },
+        {
+            "person_name": "Jan Krysiński",
+            "person_date": "1831",
+            "person_info": "płk."
+        },
+        {
+            "person_name": "Wacław Tokarz",
+            "person_date": "1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marek Tarczyński",
+            "person_date": "1831",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Jaszowski",
+            "person_date": "1832",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "J. C. A. Lessl",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zakroczym",
+            "date": "1782-03-04"
+        },
+        {
+            "place": "Królewiec",
+            "date": "1806"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1806-12-07"
+        },
+        {
+            "place": "Preussisch Eylau",
+            "date": "1807-02-10"
+        },
+        {
+            "place": "Grudziądz",
+            "date": "1807-04-30"
+        },
+        {
+            "place": "Zamość",
+            "date": "1809-05-18"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1809"
+        },
+        {
+            "place": "Wrzawy",
+            "date": "1809-06-12"
+        },
+        {
+            "place": "Modlin",
+            "date": "1813"
+        },
+        {
+            "place": "Sandomierskie",
+            "date": "1815-02-18"
+        },
+        {
+            "place": "Falęcin",
+            "date": "1826"
+        },
+        {
+            "place": "Końskie",
+            "date": "1830-11"
+        },
+        {
+            "place": "Kielce",
+            "date": "1830"
+        },
+        {
+            "place": "Chęciny",
+            "date": "1830"
+        },
+        {
+            "place": "Radzymin",
+            "date": "1830-12"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1830-12-27"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "1831-06-29"
+        },
+        {
+            "place": "Wolbórz",
+            "date": "1831-06-29"
+        },
+        {
+            "place": "Płock",
+            "date": "1831-06-29"
+        },
+        {
+            "place": "Berlin",
+            "date": "1831-09-23"
+        },
+        {
+            "place": "Falęcin",
+            "date": "brak danych"
+        }
+    ]
+}

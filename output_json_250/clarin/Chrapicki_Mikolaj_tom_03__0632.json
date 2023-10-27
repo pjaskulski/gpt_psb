@@ -1,0 +1,68 @@
+{
+  "Nazwisko": [
+    "Chrapicki"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Crapicz",
+    "Crapitz"
+  ],
+  "Imię/imiona": [
+    "Mikołaj"
+  ],
+  "Herb": [
+    "Rola"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1514"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "kościół pofranciszkański w Lubawie"
+  ],
+  "Zawód": [
+    "kanonik warmiński",
+    "następnie bp chełmiński",
+    "toruńczyk",
+    "pochodził z rodziny patrycjuszowskiej",
+    "która oprócz posiadłości miejskich",
+    "podobnie jak Watzelrodowie i i.",
+    "dzierżyła także dobra ziemskie"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet koloński"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Chrapicki (Crapicz,",
+      "target": "Crapitz) Mikołaj,",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Ch",
+      "target": "Nicolaus de Thoron",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Ch-go",
+      "target": "Alberta Bischoffa",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Ch-go",
+      "target": "Watzelrodego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Watzelrodego",
+      "target": "Jan Konopacki",
+      "name": "protagonist - znacząca osoba"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+    "name": "Jadwiga Stańczakowa",
+    "psb_id": "PSB-42-0152",
+    "biogram_file": "Stanczakowa_ze_Strancmanow.txt",
+    "date_of_birth": {
+        "date": "1919-09-27"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1996-05-29"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Powązkowski"
+    },
+    "functions": [
+        "dziennikarka",
+        "poetka",
+        "autorka prozy autobiograficznej",
+        "lama buddyjski",
+        "reporterka",
+        "spikerka radiowa",
+        "redaktorka",
+        "redaktor naczelny miesięcznika brajlowskiego dla niewidomych 'Pochodnia'",
+        "członek Polskiego Związku Niewidomych",
+        "członek Polskiego Towarzystwa Psychotronicznego",
+        "członek Związku Literatów Polskich",
+        "członek Stowarzyszenia Pisarzy Polskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gimnazjum Janiny Tymińskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Nauk Politycznych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Głos Ludu",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Gdańska Rozgłośnia Radiowa",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Głos Wybrzeża",
+            "institution_place": "Gdańsk"
+        },
+        {
+            "institution_name": "Polski Związek Niewidomych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Pochodnia",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Nasz Świat",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Świerszczyk",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Muz. Literatury w W.",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "B. Narod.",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polskie Towarzystwo Psychotroniczne",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Literatów Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Stowarzyszenie Pisarzy Polskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralny Związek Spółdzielni Niewidomych",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Instytut Badań Literackich Polskiej Akademii Nauk",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Adolf Strancman/Franciszek Kotarbiński"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Maria Weinfeld/Helena Kotarbińska"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Jan"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Zdzisław Stańczak"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Anna"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Tadeusz Sobolewski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Zdzisław Stańczak",
+            "person_date": "1942",
+            "person_info": "kolega ze studiów, później dziennikarz"
+        },
+        {
+            "person_name": "Miron Białoszewski",
+            "person_date": "1969",
+            "person_info": "poeta, przyjaciel"
+        },
+        {
+            "person_name": "Szi Taoni",
+            "person_date": "1989",
+            "person_info": "guru, nadał S-ej godność lamy"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1919-09-27"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1937"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1940"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1942"
+        },
+        {
+            "place": "Józefów",
+            "date": "1944"
+        },
+        {
+            "place": "Otwock",
+            "date": "1944"
+        },
+        {
+            "place": "Lublin",
+            "date": "1944"
+        },
+        {
+            "place": "Sopot",
+            "date": "brak danych"
+        },
+        {
+            "place": "Gdańsk-Wrzeszcz",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1952"
+        }
+    ]
+}

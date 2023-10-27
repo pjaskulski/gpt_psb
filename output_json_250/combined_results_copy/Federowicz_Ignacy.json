@@ -1,0 +1,142 @@
+{
+    "name": "Ignacy Federowicz",
+    "psb_id": "PSB-06-0557",
+    "biogram_file": "Federowicz_Ignacy.txt",
+    "date_of_birth": {
+        "date": "1836-04-24"
+    },
+    "place_of_birth": {
+        "place": "Czechy",
+        "note": "pod Zduńską Wolą"
+    },
+    "date_of_death": {
+        "date": "1913-06-02"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "ks.",
+        "paulin",
+        "kaznodzieja klasztoru w Leśniowie pod Żarkami",
+        "prokurator klasztoru",
+        "magister nowicjatu",
+        "przeor",
+        "administrator parafii na Skałce",
+        "kustosz generalny zakonu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "szkoła powiatowa",
+            "institution_place": "Wieluń"
+        },
+        {
+            "institution_name": "zakon oo. paulinów",
+            "institution_place": "Częstochowa"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Leśniów"
+        },
+        {
+            "institution_name": "Jasna Góra",
+            "institution_place": "Częstochowa"
+        },
+        {
+            "institution_name": "klasztor",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "parafia",
+            "institution_place": "Skałka"
+        },
+        {
+            "institution_name": "kościół",
+            "institution_place": "Skałka"
+        },
+        {
+            "institution_name": "klasztor oo. paulinów",
+            "institution_place": "Nagy-Levard"
+        },
+        {
+            "institution_name": "klasztor św. Krzyża",
+            "institution_place": "Węgry"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Federowicz"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Aniela Wilczyńska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "K. Knaus",
+            "person_date": "1888",
+            "person_info": "architekt"
+        },
+        {
+            "person_name": "A. Mikołajewski",
+            "person_date": "1888",
+            "person_info": "artysta malujący polichromie"
+        },
+        {
+            "person_name": "Niedzielski",
+            "person_date": "1888",
+            "person_info": "projektant polichromii"
+        },
+        {
+            "person_name": "Tola Certowiczówna",
+            "person_date": "1895",
+            "person_info": "artysta rzeźbiarka"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Czechy",
+            "date": "1836-04-24"
+        },
+        {
+            "place": "Wieluń",
+            "date": "1854"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "1854-1856"
+        },
+        {
+            "place": "Włocławek",
+            "date": "1860"
+        },
+        {
+            "place": "Leśniów",
+            "date": "1860-1864"
+        },
+        {
+            "place": "Częstochowa",
+            "date": "1864"
+        },
+        {
+            "place": "Kraków",
+            "date": "1869-1879"
+        },
+        {
+            "place": "Kraków",
+            "date": "1875"
+        },
+        {
+            "place": "Kraków",
+            "date": "1879"
+        }
+    ]
+}

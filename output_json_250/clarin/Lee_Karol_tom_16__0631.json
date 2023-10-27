@@ -1,0 +1,43 @@
+{
+  "Nazwisko": [
+    "Lee"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Charles"
+  ],
+  "Imię/imiona": [
+    "Karol"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1731"
+  ],
+  "Miejsce urodzenia": [
+    "Dernhall"
+  ],
+  "Data śmierci": [
+    "DD-MM-1782"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "adiutant Stanisława Augusta",
+    "generał rewolucji amerykańskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Lee Karol (Charles)",
+      "target": "Stanisława Augusta",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Czartoryskich",
+      "target": "L.",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

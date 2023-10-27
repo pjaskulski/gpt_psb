@@ -1,0 +1,84 @@
+{
+  "Nazwisko": [
+    "Górecka"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ludwika"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1815"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "20-04-1900"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "filantropka",
+    "ofiarodawczyni na cele nauki i sztuki"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia umiejętność w Kraków",
+    "akademia umiejętność",
+    "akademia"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Jan Hanusz",
+      "target": "Stefan Ramułt",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Bolesław Erzepki",
+      "target": "Adam Kryński",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Bolesław Erzepki",
+      "target": "Władysław Niedźwiedzki",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Bolesław Erzepki",
+      "target": "Jan Rozwadowski",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Bolesław Erzepki",
+      "target": "Józef Rostafiński",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Adam Kryński",
+      "target": "Władysław Niedźwiedzki",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Kazimierz Nitsch",
+      "target": "Jan Rozwadowski",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Kazimierz Nitsch",
+      "target": "Józef Rostafiński",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Kazimierz Nitsch",
+      "target": "Jan Łoś",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

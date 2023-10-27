@@ -1,0 +1,75 @@
+{
+    "name": "Izrael ben Mosze",
+    "psb_id": "PSB-10-0252",
+    "biogram_file": "Izrael_ben_Mosze.txt",
+    "date_of_birth": {
+        "date": "1700"
+    },
+    "place_of_birth": {
+        "place": "Zamość",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1772"
+    },
+    "place_of_death": {
+        "place": "Brody",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "pionier żydowskiego oświecenia (Haskali) w Polsce",
+        "matematyk",
+        "nauczyciel"
+    ],
+    "institutions": [
+        {
+            "institution_name": "gmina zamojska",
+            "institution_place": "Zamość"
+        },
+        {
+            "institution_name": "brak danych",
+            "institution_place": "Berlin"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Mojżesz Mendelsohn",
+            "person_date": "brak danych",
+            "person_info": "uczeń Izraela, późniejszy ideolog oświecenia Żydów niemieckich"
+        },
+        {
+            "person_name": "Lessing",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel Izraela"
+        },
+        {
+            "person_name": "Nicolai",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel Izraela"
+        },
+        {
+            "person_name": "Salomon Majmon",
+            "person_date": "brak danych",
+            "person_info": "współczesny Izraelowi, podkreślał wpływ Izraela na Mendelsohna"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Zamość",
+            "date": "1700"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        }
+    ]
+}

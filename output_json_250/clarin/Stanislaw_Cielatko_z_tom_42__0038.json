@@ -1,0 +1,46 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Liszin",
+    "Lyszino"
+  ],
+  "Imię/imiona": [
+    "Stanisław"
+  ],
+  "Herb": [
+    "Ciołek"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "-- 02-11-1451"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "prawnik",
+    "profesor i rektor Uniwersytetu Krakowskiego",
+    "scholastyk sandomierski"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "uniwersytet krakowski",
+    "Uniw . Krak .",
+    "Wydz . Artium",
+    "Wydz . prawo"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "S-a",
+      "target": "Mikołaj",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Aloe"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "d’Aloy"
+  ],
+  "Imię/imiona": [
+    "Franciszek"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1759"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "DD-MM-1821 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": [
+    "Wielki wschód narodowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "A.",
+      "target": "Potockich",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Potockiemu",
+      "target": "Bułhakowa",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Bułhakowa",
+      "target": "Potockiego",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Ignacy Działyński",
+      "target": "Ignacym Potockim",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

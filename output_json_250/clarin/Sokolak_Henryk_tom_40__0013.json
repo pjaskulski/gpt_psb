@@ -1,0 +1,59 @@
+{
+  "Nazwisko": [
+    "Sokolak"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Henryk"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "16-12-1916"
+  ],
+  "Miejsce urodzenia": [
+    "Zgrobelicach"
+  ],
+  "Data śmierci": [
+    "09-12-1984"
+  ],
+  "Miejsce śmierci": [
+    "Warszawa"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "cmentarz Komunalny na Powązkach w Warszawie"
+  ],
+  "Zawód": [
+    "działacz komunistyczny",
+    "pracownik służb bezpieczeństwa i wywiadu",
+    "dyplomata"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Szkoła podchorąży rezerwa Piechota",
+    "57 . Poczta_Polska",
+    "związek nauczycielstwo polski",
+    "ZNP",
+    "29 . Poczta_Polska",
+    "SS",
+    "międzynarodowy komitet obozowy",
+    "MKO"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Sokolak Henryk",
+      "target": "Mikołajczak",
+      "name": "protagonist - rodzeństwo"
+    }
+  ]
+}

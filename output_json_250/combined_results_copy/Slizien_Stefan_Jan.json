@@ -1,0 +1,510 @@
+{
+    "name": "Stefan Jan Ślizień",
+    "psb_id": "PSB-51-0014",
+    "biogram_file": "Slizien_Stefan_Jan.txt",
+    "date_of_birth": {
+        "date": "1650",
+        "note": "około"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1707-04-02"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Łukiszki",
+        "note": "kościół Dominikanów pod wezwaniem św. św. Filipa i Jakuba pod Wilnem"
+    },
+    "functions": [
+        "referendarz litewski",
+        "wierszopis",
+        "sekretarz królewski",
+        "poseł od króla Jana III",
+        "podstarości",
+        "sekretarz JKM",
+        "pisarz ziemski oszmiański",
+        "towarzysz do chorągwi husarskiej",
+        "poseł na sejm 1695 r.",
+        "poseł na sejm konwokacyjny 1696 r.",
+        "poseł na sejm koronacyjny króla Augusta II",
+        "konsyliarz Kociełła",
+        "deputat do Tryb. Głównego Lit.",
+        "sekretarz Konfederacji stanów lit.",
+        "szef kancelarii republikantów",
+        "komisarz z pow. słonimskiego",
+        "regent kancelarii Wiśniowieckiego",
+        "rotmistrz chorągwi węgierskiej w armii lit.",
+        "deputat do sądów konfederackich",
+        "marszałek Trybunału",
+        "referendarz lit.",
+        "substytut marszałka",
+        "kupiec"
+    ],
+    "institutions": [
+        {
+            "institution_name": "kolegium jezuickie",
+            "institution_place": "Lublin"
+        },
+        {
+            "institution_name": "Akademia Wileńska",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Trybunał Główny Litewski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Konfederacja stanów litewskich",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kancelaria republikantów",
+            "institution_place": "Różana"
+        },
+        {
+            "institution_name": "Kancelaria Wiśniowieckiego",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Chorągiew węgierska w armii litewskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Trybunał Główny Litewski",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Muz. Krajoznawczy",
+            "institution_place": "Słonim"
+        },
+        {
+            "institution_name": "Białoruska Biblioteka Narodowa",
+            "institution_place": "Mińsk"
+        },
+        {
+            "institution_name": "Narodowy Arch. Historyczny Białorusi",
+            "institution_place": "Grodno"
+        },
+        {
+            "institution_name": "Kościół Dominikanów p. wezw. św. św. Filipa i Jakuba",
+            "institution_place": "Łukiszki pod Wilnem"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Aleksander Kazimierz Ślizień"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Teodora z Mieleszków"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Michał Ignacy Bruno Ślizień"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Hanna Kociełłówna"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Adam Jerzy Kociełło"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Teodora"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Aleksander"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Michał Adam Ślizień"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Róża Ślizień"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Stefan Antoni Wołodkowicz"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jerzy Antoni Rogala Iwanowski"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Teresa Ewa Ślizień"
+        },
+        {
+            "family_relation": "wnuk",
+            "person": "Stefan Ignacy Ślizień"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Andrzej Modrzewski",
+            "person_date": "1672",
+            "person_info": "podczaszy sieradzki"
+        },
+        {
+            "person_name": "Jan Sobieski",
+            "person_date": "1672",
+            "person_info": "hetman wielki koronny"
+        },
+        {
+            "person_name": "Jan Potocki",
+            "person_date": "1673",
+            "person_info": "wojewoda bracławski"
+        },
+        {
+            "person_name": "Mikołaj Hieronim Sieniawski",
+            "person_date": "1673",
+            "person_info": "chorąży koronny"
+        },
+        {
+            "person_name": "Aleksander Hilary Połubiński",
+            "person_date": "1674",
+            "person_info": "marszałek wielki litewski"
+        },
+        {
+            "person_name": "Andrzej H. Połubiński",
+            "person_date": "1676",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Marcjan Bogusław Rymkiewicz Polski",
+            "person_date": "1678",
+            "person_info": "starosta oszmiański"
+        },
+        {
+            "person_name": "Stanisław Antoni Szczuka",
+            "person_date": "1687",
+            "person_info": "regent kancelarii mniejszej koronnej"
+        },
+        {
+            "person_name": "Rymkiewicz Polski",
+            "person_date": "1688",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Michał Kazimierz Kociełło",
+            "person_date": "1696",
+            "person_info": "kasztelan witebski"
+        },
+        {
+            "person_name": "Leon Kazimierz Ogiński",
+            "person_date": "1696",
+            "person_info": "podstoli litewski"
+        },
+        {
+            "person_name": "Krzysztof Despot Zenowicz",
+            "person_date": "1696",
+            "person_info": "marszałek oszmiański"
+        },
+        {
+            "person_name": "Kazimierz Jan Sapieha",
+            "person_date": "1694",
+            "person_info": "wojewoda wileński i hetman wielki litewski"
+        },
+        {
+            "person_name": "Michał Radziejowski",
+            "person_date": "1694",
+            "person_info": "prymas"
+        },
+        {
+            "person_name": "Konstanty Kazimierz Brzostowski",
+            "person_date": "1694",
+            "person_info": "biskup wileński"
+        },
+        {
+            "person_name": "Andrzej Kazimierz Kryszpin Kirszensztein",
+            "person_date": "1695",
+            "person_info": "marszałek sejmu"
+        },
+        {
+            "person_name": "Wincenty Kazimierz Łamiński",
+            "person_date": "1698",
+            "person_info": "horodniczy oszmiański"
+        },
+        {
+            "person_name": "Michał Serwacy Wiśniowiecki",
+            "person_date": "1701",
+            "person_info": "pułkownik generalny litewski"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "1701",
+            "person_info": "król Polski"
+        },
+        {
+            "person_name": "Sapiehowie",
+            "person_date": "1701/2",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wiśniowiecki",
+            "person_date": "1703",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "August II",
+            "person_date": "1704",
+            "person_info": "król"
+        },
+        {
+            "person_name": "Jakub Henryk Flemming",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Kryszpin Kirszensztein",
+            "person_date": "1705",
+            "person_info": "wojewoda witebski"
+        },
+        {
+            "person_name": "Jerzy Bauzendorff Kęsowski",
+            "person_date": "1700",
+            "person_info": "stolnikowic upicki"
+        },
+        {
+            "person_name": "Gedeon Michał Frąckiewicz Radzimiński",
+            "person_date": "1695",
+            "person_info": "chorąży nadworny litewski"
+        },
+        {
+            "person_name": "Adam Jerzy Kociełł",
+            "person_date": "1682",
+            "person_info": "wojski starodubowski"
+        },
+        {
+            "person_name": "Aleksander Szwykowski",
+            "person_date": "brak danych",
+            "person_info": "chorąży nowogródzki"
+        },
+        {
+            "person_name": "Katarzyna Giblówna",
+            "person_date": "brak danych",
+            "person_info": "mieszczka wileńska"
+        },
+        {
+            "person_name": "Dawid Szwykowski",
+            "person_date": "1698",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stefan Antoni Wołodkowicz",
+            "person_date": "1715",
+            "person_info": "podsędek miński"
+        },
+        {
+            "person_name": "Jerzy Antoni Rogala Iwanowski",
+            "person_date": "1731",
+            "person_info": "podstoli wiłkomierski, starosta wiślicki"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Lublin",
+            "date": "1667"
+        },
+        {
+            "place": "Radruż",
+            "date": "1672-10-07"
+        },
+        {
+            "place": "Komarno",
+            "date": "1672-10-09"
+        },
+        {
+            "place": "Petranka",
+            "date": "1672-10-14"
+        },
+        {
+            "place": "Chocim",
+            "date": "1673-11-11"
+        },
+        {
+            "place": "Litwa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "1674"
+        },
+        {
+            "place": "Brześć Litewski",
+            "date": "1675-02-02"
+        },
+        {
+            "place": "Żurawno",
+            "date": "1676-09-29 - 1676-10-14"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Oszmiana",
+            "date": "1678-02-02"
+        },
+        {
+            "place": "Grodno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Dubienka",
+            "date": "1694-08-09"
+        },
+        {
+            "place": "Różana",
+            "date": "1701-01"
+        },
+        {
+            "place": "Olkieniki",
+            "date": "1700-11-18"
+        },
+        {
+            "place": "Wilno",
+            "date": "1703-03-05/1703-03-15"
+        },
+        {
+            "place": "Sandomierz",
+            "date": "1704-05-30"
+        },
+        {
+            "place": "Pińsk",
+            "date": "1705-02-09"
+        },
+        {
+            "place": "Dziewiątkowicze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Słonim",
+            "date": "brak danych"
+        },
+        {
+            "place": "Mińsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Urzecze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krasnystaw",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kostyki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kniahinin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Studzionki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Motyki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Słoboda Borowiki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Przysłan",
+            "date": "brak danych"
+        },
+        {
+            "place": "Olesiewicze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Krewo",
+            "date": "1701"
+        },
+        {
+            "place": "Stajki",
+            "date": "1700"
+        },
+        {
+            "place": "Hajany",
+            "date": "1700"
+        },
+        {
+            "place": "Białorucze",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wilno",
+            "date": "brak danych"
+        },
+        {
+            "place": "Łukiszki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Merecz",
+            "date": "1695/1697"
+        },
+        {
+            "place": "Wilno",
+            "date": "1693"
+        },
+        {
+            "place": "Ostaszyn Dołmatowski",
+            "date": "1698"
+        },
+        {
+            "place": "Burdziewicze",
+            "date": "1698"
+        },
+        {
+            "place": "Unichów",
+            "date": "1698"
+        },
+        {
+            "place": "Wyszków",
+            "date": "1698"
+        },
+        {
+            "place": "Księdzowszczyzna",
+            "date": "1698"
+        },
+        {
+            "place": "Rukawczyce",
+            "date": "1698"
+        },
+        {
+            "place": "Kaczujcie",
+            "date": "1698"
+        },
+        {
+            "place": "Kaszczycy",
+            "date": "1698"
+        },
+        {
+            "place": "Wilno",
+            "date": "1698"
+        },
+        {
+            "place": "Nowogródek",
+            "date": "1698"
+        }
+    ]
+}

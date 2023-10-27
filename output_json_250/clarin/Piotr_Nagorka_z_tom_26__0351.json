@@ -1,0 +1,77 @@
+{
+  "Nazwisko": [
+    "Nagórka"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Piotr"
+  ],
+  "Herb": [
+    "Bolesta"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1361"
+  ],
+  "Miejsce śmierci": [
+    "Awinionie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kanonik poznański i płocki",
+    "poseł Kazimierza Wielkiego do Awinionu"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "kuria awinioński",
+    "kuria papieski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Bernardowi",
+      "target": "Kazimierza Wielkiego",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "P-owi",
+      "target": "Innocenty VI",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "P-owi",
+      "target": "Kazimierza Wielkiego",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "P.",
+      "target": "Kazimierza Wielkiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Innocentego VI",
+      "target": "Mroczki",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "P-a",
+      "target": "Innocentego VI",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "P-a",
+      "target": "Mroczki",
+      "name": "protagonist - rodzeństwo"
+    },
+    {
+      "source": "Mroczko Nagórka",
+      "target": "Kaczmarczyk Z.",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

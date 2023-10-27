@@ -1,0 +1,70 @@
+{
+  "Nazwisko": [
+    "Dogrumowa"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Teresa",
+    "Maria"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Holandia"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Dogrumowa Maria Teresa",
+      "target": "D’Ogrumow",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Dogrumowa Maria Teresa",
+      "target": "Ugriumow",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "D’Ogrumow",
+      "target": "Ugriumow",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Sussonowi",
+      "target": "Ryxa",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Komarzewskiego",
+      "target": "Ryxa",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "D-owa",
+      "target": "Komarzewskiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "D-owa",
+      "target": "Ryxa",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Adam Czartoryski",
+      "target": "Branickim",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Adam Czartoryski",
+      "target": "Tyzenhauzem",
+      "name": "ważna postać - krewny"
+    }
+  ]
+}

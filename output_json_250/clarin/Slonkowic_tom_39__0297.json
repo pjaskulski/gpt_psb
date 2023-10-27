@@ -1,0 +1,72 @@
+{
+  "Nazwisko": [
+    "Słonkowic"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Słomkiewicz",
+    "Słonkowicz"
+  ],
+  "Imię/imiona": [
+    "Marcin"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Słonkowie"
+  ],
+  "Data śmierci": [
+    "DD-MM-1658"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "11-05-1658"
+  ],
+  "Miejsce pochówku": [
+    "Krakowie"
+  ],
+  "Zawód": [
+    "profesor Uniw. Krak"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Uniw . Krak",
+    "Uniw . Krak .",
+    "Wydz . filozoficzny",
+    "kolegium mały",
+    "kolegium duży"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Słonkowic",
+      "target": "Słomkiewicz",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Słonkowic",
+      "target": "Słonkowicz) Marcin",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "Słomkiewicz",
+      "target": "Słonkowicz) Marcin",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Marcinem Niechrostem",
+      "target": "Jana",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "S-a",
+      "target": "Józef Łukaszewicz",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

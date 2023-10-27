@@ -1,0 +1,54 @@
+{
+  "Nazwisko": [
+    "Leżeński"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Leżyński"
+  ],
+  "Imię/imiona": [
+    "Tomasz"
+  ],
+  "Herb": [
+    "Nałęcz"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "około DD-MM-1603"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1675"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": [
+    "wąchocku"
+  ],
+  "Zawód": [
+    "biskup łucki"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "Akad . Krak .",
+    "akademia zamojski",
+    "akademia",
+    "trybunał List do Koryntian ."
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "L.",
+      "target": "Jerzego Lubomirskiego",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "L-ego",
+      "target": "Lubomirski",
+      "name": "protagonist - dzieci"
+    }
+  ]
+}

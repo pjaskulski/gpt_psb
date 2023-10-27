@@ -1,0 +1,58 @@
+{
+  "Nazwisko": [
+    "Ewild"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "który pieczęć swą z tym herbem przywiesił do aktu unii"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "zakon krzyżowy"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Ciołków",
+      "target": "Stanisława Brzeskiego",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "Ewild",
+      "target": "Eywildów",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Eywild",
+      "target": "Eynurem",
+      "name": "ważna postać - rodzeństwo"
+    },
+    {
+      "source": "Dowgird",
+      "target": "Daszko Eywiltowicze",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Kojałowicz",
+      "target": "Wojdyłą Kuszolowiczem",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Czuszulowicz",
+      "target": "Wojdyłą Kuszolowiczem",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

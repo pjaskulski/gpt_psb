@@ -1,0 +1,271 @@
+{
+    "name": "Maria Curie",
+    "psb_id": "PSB-04-0176",
+    "biogram_file": "Curie_Maria.txt",
+    "date_of_birth": {
+        "date": "1867-11-07"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1934-07-04"
+    },
+    "place_of_death": {
+        "place": "Paryż"
+    },
+    "date_of_burial": {
+        "date": "1934-07-06"
+    },
+    "place_of_burial": {
+        "place": "Sceaux",
+        "note": "pod Paryżem"
+    },
+    "functions": [
+        "fizyczka",
+        "profesor Uniwersytetu Paryskiego",
+        "nauczycielka domowa",
+        "nauczycielka domowa w Szczukach",
+        "profesor Miejskiej Szkoły Fizyki i Chemii w Paryżu",
+        "nauczycielka w École Normale Supérieure dla dziewcząt w Sèvres",
+        "profesor fizyki w Uniwersytecie",
+        "kierowniczka pracowni",
+        "kierownik Instytutu Radowego",
+        "kierownik pracowni radiologicznej",
+        "specjalista w roentgenologii",
+        "organizator stacji roentgenowskich",
+        "członek Akademii Medycyny"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniwersytet Paryski",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "pensja J. Sikorskiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "gimnazjum rządowe",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "uniwersytet latający",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Muzeum Przemysłu i Rolnictwa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Société d’Encouragement pour l’Industrie Nationale",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Miejska Szkoła Fizyki i Chemii",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Szkoła Fizyki i Chemii",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Institut de France",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "École Normale Supérieure",
+            "institution_place": "Sèvres"
+        },
+        {
+            "institution_name": "Uniwersytet w Sorbonie",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Akademia Nauk w Stockholmie",
+            "institution_place": "Sztokholm"
+        },
+        {
+            "institution_name": "Royal Institution",
+            "institution_place": "Londyn"
+        },
+        {
+            "institution_name": "Instytut Pasteura",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Sorbona",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Instytut Radowy",
+            "institution_place": "Paryż"
+        },
+        {
+            "institution_name": "Towarzystwo Naukowe",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Marie Curie Radium Found",
+            "institution_place": "Ameryka"
+        },
+        {
+            "institution_name": "Fundacja Curie",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Izba Deputowanych",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Senat",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Akademia Nauk",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Akademia Medycyny",
+            "institution_place": "Francja"
+        },
+        {
+            "institution_name": "Instytut Radowy",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Władysław Skłodowski"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Bronisława Skłodowska"
+        },
+        {
+            "family_relation": "ciotka",
+            "person": "J. J. Boguski"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Bronisława Dłuska"
+        },
+        {
+            "family_relation": "brat cioteczny",
+            "person": "Boguski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Kazimierz Dłuski"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Piotr Curie"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Irena Joliot-Curie"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Ewa"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Fryderyk Joliot"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "J. Sikorska",
+            "person_date": "brak danych",
+            "person_info": "nauczycielka"
+        },
+        {
+            "person_name": "Józef Kowalski",
+            "person_date": "1894",
+            "person_info": "fizyk, profesor Uniwersytetu we Fryburgu szwajcarskim"
+        },
+        {
+            "person_name": "Piotr Curie",
+            "person_date": "1894",
+            "person_info": "profesor Miejskiej Szkoły Fizyki i Chemii w Paryżu"
+        },
+        {
+            "person_name": "Becquerel",
+            "person_date": "brak danych",
+            "person_info": "fizyk"
+        },
+        {
+            "person_name": "Roux",
+            "person_date": "1909",
+            "person_info": "bakteriolog, dyrektor Instytutu Pasteura"
+        },
+        {
+            "person_name": "J. J. Boguski",
+            "person_date": "brak danych",
+            "person_info": "fizyk"
+        },
+        {
+            "person_name": "Mrs Meloney",
+            "person_date": "1921",
+            "person_info": "organizatorka komitetu 'Marie Curie Radium Found'"
+        },
+        {
+            "person_name": "Newlands",
+            "person_date": "brak danych",
+            "person_info": "twórca układu periodycznego"
+        },
+        {
+            "person_name": "Lothar Meyer",
+            "person_date": "brak danych",
+            "person_info": "twórca układu periodycznego"
+        },
+        {
+            "person_name": "Mendelejew",
+            "person_date": "brak danych",
+            "person_info": "twórca układu periodycznego"
+        },
+        {
+            "person_name": "Ostwald",
+            "person_date": "brak danych",
+            "person_info": "fizyk, energetyk"
+        },
+        {
+            "person_name": "Pasteur",
+            "person_date": "1874",
+            "person_info": "naukowiec, otrzymał rentę od rządu francuskiego"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1867-11-07"
+        },
+        {
+            "place": "Szczuki",
+            "date": "brak danych"
+        },
+        {
+            "place": "Paryż",
+            "date": "brak danych"
+        },
+        {
+            "place": "Sèvres",
+            "date": "1900"
+        },
+        {
+            "place": "Joachimstal",
+            "date": "brak danych"
+        },
+        {
+            "place": "Stockholm",
+            "date": "1902"
+        },
+        {
+            "place": "Sceaux",
+            "date": "1934"
+        }
+    ]
+}

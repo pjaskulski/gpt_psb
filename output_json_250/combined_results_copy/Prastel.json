@@ -1,0 +1,77 @@
+{
+    "name": "Franciszka Magdalena Prastel",
+    "psb_id": "PSB-28-0164",
+    "biogram_file": "Prastel.txt",
+    "date_of_birth": {
+        "date": "1745"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1808-07-06"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "place": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz Rakowicki"
+    },
+    "functions": [
+        "przełożona prezentek w Krakowie",
+        "kierowniczka szkoły"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Zgromadzenie Sióstr Prezentek",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Szkoła dla dziewcząt",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kościół Św. Jana",
+            "institution_place": "Kraków"
+        }
+    ],
+    "relations": null,
+    "significant_people": [
+        {
+            "person_name": "Tadeusz Kościuszko",
+            "person_date": "1775",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Walenty Pruski",
+            "person_date": "brak danych",
+            "person_info": "ksiądz kanonik"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "1763-05-21"
+        },
+        {
+            "place": "Kraków",
+            "date": "1775"
+        },
+        {
+            "place": "Kraków",
+            "date": "1794-03-24"
+        },
+        {
+            "place": "Kraków",
+            "date": "1781-09-16"
+        },
+        {
+            "place": "Kraków",
+            "date": "1801"
+        }
+    ]
+}

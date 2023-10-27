@@ -1,0 +1,55 @@
+{
+  "Nazwisko": [
+    "Suryn"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Władysław",
+    "Eliasz"
+  ],
+  "Herb": [
+    "własny"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "17-09-1687 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "pułkownik wolontariuszy litewskich",
+    "podstarości mścisławski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Włodzimierza",
+      "target": "Andrzejem Podbipiętą",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Janusza Radziwiłła",
+      "target": "Jakowa Czerkasskiego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "S.",
+      "target": "Obodyńskim",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "S.",
+      "target": "Mikołaj Szemiot",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Sapiehy",
+      "target": "Karola X Gustawa",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

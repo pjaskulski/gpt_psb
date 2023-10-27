@@ -1,0 +1,59 @@
+{
+  "Nazwisko": [
+    "Grabski"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Kazimierz",
+    "Jan"
+  ],
+  "Herb": [
+    "Wczele"
+  ],
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1723"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "kasztelan nakielski"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Anna Konradzka",
+      "target": "Wojciechu Wilczyńskim",
+      "name": "współmałżonek - współmałżonek"
+    },
+    {
+      "source": "Marianną Łakińską",
+      "target": "Zdzychowskim",
+      "name": "współmałżonek - współmałżonek"
+    },
+    {
+      "source": "Macieja",
+      "target": "Stanisława",
+      "name": "dzieci-krewny"
+    },
+    {
+      "source": "Estreicher",
+      "target": "Niesiecki",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Estreicher",
+      "target": "Żychliński",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "Niesiecki",
+      "target": "Żychliński",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

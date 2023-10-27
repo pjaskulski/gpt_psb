@@ -1,0 +1,130 @@
+{
+    "name": "Stanisław Leymiter",
+    "psb_id": "PSB-17-0236",
+    "biogram_file": "Leymiter_Stanislaw.txt",
+    "date_of_birth": {
+        "date": "brak danych"
+    },
+    "place_of_birth": {
+        "place": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1462-01-15"
+    },
+    "place_of_death": {
+        "place": "Kraków"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "Kraków",
+        "note": "cmentarz mariacki"
+    },
+    "functions": [
+        "kupiec",
+        "rajca krakowski",
+        "ławnik",
+        "podwójt w ławie krakowskiej",
+        "członek rady miejskiej",
+        "burmistrz",
+        "właściciel kramu na rynku krakowskim",
+        "wierzyciel",
+        "właściciel domów w Krakowie"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Ława krakowska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Rada miejska",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Kram na rynku",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Uniw. Krak.",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Spółka handlowa",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Mikołaj Leymiter"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Benigna Leymiter"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Zofia Tesznar"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Jan Tesznar"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Jan Wierzynki"
+        },
+        {
+            "family_relation": "szwagier",
+            "person": "Mikołaj Kreidler"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Jan Leymiter"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Stanisław Leymiter"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Barbara Leymiter"
+        },
+        {
+            "family_relation": "córka",
+            "person": "Benigna Leymiter"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Wincenty Beck"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Jan Tretkop"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Mikołaj Kreidler",
+            "person_date": "1461",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Andrzej Tenczyński",
+            "person_date": "1461",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Wit Stwosz",
+            "person_date": "1481",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Kraków",
+            "date": "brak danych"
+        }
+    ]
+}

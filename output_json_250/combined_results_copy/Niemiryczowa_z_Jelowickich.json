@@ -1,0 +1,234 @@
+{
+    "name": "Antonina Niemiryczowa",
+    "psb_id": "PSB-23-0002",
+    "biogram_file": "Niemiryczowa_z_Jelowickich.txt",
+    "date_of_birth": {
+        "date": "ok. 1700"
+    },
+    "place_of_birth": {
+        "place": "Ożenin",
+        "note": "brak danych"
+    },
+    "date_of_death": {
+        "date": "1780",
+        "note": "brak danych"
+    },
+    "place_of_death": {
+        "place": "Lwów",
+        "note": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych",
+        "note": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych",
+        "note": "brak danych"
+    },
+    "functions": [
+        "poetka",
+        "tłumaczka",
+        "oboźna polna litewska",
+        "chorążego wiskiego",
+        "stolnika",
+        "chorążego owruckiego",
+        "oboźnego polnego litewskiego",
+        "kustosz lwowski",
+        "kanonik lwowski",
+        "proboszcz glinieński",
+        "proboszcz rodatycki",
+        "starosta nowosielecki",
+        "generał-adiutant królewski",
+        "rotmistrz kawalerii narodowej"
+    ],
+    "institutions": [
+        {
+            "institution_name": "klasztor Bernardynek",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Akademia Zamojska",
+            "institution_place": "Zamość"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Józef Jełowicki"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Konstancja z Żorzewskich"
+        },
+        {
+            "family_relation": "babcia",
+            "person": "Zofia Hieronimowa Jełowicka"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Franciszek Jełowicki"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Karol Józef Niemirycz"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Władysław Niemirycz"
+        },
+        {
+            "family_relation": "teściowa",
+            "person": "Ludwika Skorczycka"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Fryderyk Niemirycz"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Bonawentura Niemirycz"
+        },
+        {
+            "family_relation": "zięć",
+            "person": "Henryk Niemirycz"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Józef Jełowicki",
+            "person_date": "brak danych",
+            "person_info": "miecznik (1692), a następnie łowczy wołyński"
+        },
+        {
+            "person_name": "Konstancja z Żorzewskich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Hieronim Maciej",
+            "person_date": "brak danych",
+            "person_info": "kanonik lwowski"
+        },
+        {
+            "person_name": "Franciszek Jełowicki",
+            "person_date": "1724",
+            "person_info": "starosta nowosielecki"
+        },
+        {
+            "person_name": "Samuel Łubkowski",
+            "person_date": "brak danych",
+            "person_info": "płk wojska"
+        },
+        {
+            "person_name": "Józef Aleksander Jabłonowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Józef Andrzej Załuski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Jan Daniel Janocki",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Franciszka Urszula Radziwiłłowa",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Elżbieta Drużbacka",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Stanisław Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "właściciel Śmilańszczyzny"
+        },
+        {
+            "person_name": "Józef Lubomirski",
+            "person_date": "brak danych",
+            "person_info": "właściciel Śmilańszczyzny"
+        },
+        {
+            "person_name": "Jan Bogusz",
+            "person_date": "1753",
+            "person_info": "miecznik miński"
+        },
+        {
+            "person_name": "Walenty Maciej Tepper",
+            "person_date": "1774",
+            "person_info": "profesor retoryki w Akademii Zamojskiej"
+        },
+        {
+            "person_name": "Fryderyk Niemirycz",
+            "person_date": "brak danych",
+            "person_info": "kustosz lwowski, kanonik lwowski, proboszcz glinieński i rodatycki w Równem"
+        },
+        {
+            "person_name": "Bonawentura Niemirycz",
+            "person_date": "brak danych",
+            "person_info": "starosta nowosielecki"
+        },
+        {
+            "person_name": "Aniela Honorata z Krzuckich",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Henryk Niemirycz",
+            "person_date": "brak danych",
+            "person_info": "generał-adiutant królewski (1770), rotmistrz kawalerii narodowej (1787)"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Ożenin",
+            "date": "ok. 1700"
+        },
+        {
+            "place": "Lwów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        },
+        {
+            "place": "Rzym",
+            "date": "brak danych"
+        },
+        {
+            "place": "Czerniechów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Kraska Dąbrowa",
+            "date": "1745"
+        },
+        {
+            "place": "Derezna",
+            "date": "1749"
+        },
+        {
+            "place": "Uniewinnieni",
+            "date": "1734"
+        },
+        {
+            "place": "Horoszki",
+            "date": "1748"
+        },
+        {
+            "place": "Złotyjów",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wysokie",
+            "date": "1753"
+        }
+    ]
+}

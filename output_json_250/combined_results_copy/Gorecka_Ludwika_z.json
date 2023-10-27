@@ -1,0 +1,162 @@
+{
+    "name": "Ludwika Górecka",
+    "psb_id": "PSB-08-0571",
+    "biogram_file": "Gorecka_Ludwika_z.txt",
+    "date_of_birth": {
+        "date": "1815"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1900-04-20"
+    },
+    "place_of_death": {
+        "place": "brak danych"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "filantropka",
+        "ofiarodawczyni na cele nauki i sztuki",
+        "budowniczka"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Pensja żeńska Z. Wilczyńskiej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Przytułek Św. Franciszka Salezego",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Akademia Umiejętności",
+            "institution_place": "Kraków"
+        },
+        {
+            "institution_name": "Towarzystwo Zachęty Sztuk Pięknych",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Gmina augsburska",
+            "institution_place": "brak danych"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Bogumił"
+        },
+        {
+            "family_relation": "mąż",
+            "person": "Górecki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Z. Wilczyńska",
+            "person_date": "brak danych",
+            "person_info": "prowadząca pensję żeńską"
+        },
+        {
+            "person_name": "J. Niemcewicz",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel ojca"
+        },
+        {
+            "person_name": "S. Staszic",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel ojca"
+        },
+        {
+            "person_name": "F. S. Dmochowski",
+            "person_date": "brak danych",
+            "person_info": "przyjaciel ojca"
+        },
+        {
+            "person_name": "N. Żmichowska",
+            "person_date": "brak danych",
+            "person_info": "autorka, działaczka ruchu kobiecego"
+        },
+        {
+            "person_name": "M. Ilnicka",
+            "person_date": "brak danych",
+            "person_info": "autorka, działaczka ruchu kobiecego"
+        },
+        {
+            "person_name": "S. Duchińska",
+            "person_date": "brak danych",
+            "person_info": "autorka, działaczka ruchu kobiecego"
+        },
+        {
+            "person_name": "Jan Karłowicz",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Jan Hanusz",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Stefan Ramułt",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Bolesław Erzepki",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Adam Kryński",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Władysław Niedźwiedzki",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Kazimierz Nitsch",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Jan Rozwadowski",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Józef Rostafiński",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "Jan Łoś",
+            "person_date": "1879-1919",
+            "person_info": "językoznawca, laureat nagrody"
+        },
+        {
+            "person_name": "B. Linde",
+            "person_date": "1896",
+            "person_info": "poprzedni mieszkaniec domu przy ul. Królewskiej 17"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1815"
+        },
+        {
+            "place": "Warszawa",
+            "date": "brak danych"
+        }
+    ]
+}

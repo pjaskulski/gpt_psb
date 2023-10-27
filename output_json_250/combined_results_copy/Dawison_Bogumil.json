@@ -1,0 +1,218 @@
+{
+    "name": "Bogumił Dawison",
+    "psb_id": "PSB-04-0641",
+    "biogram_file": "Dawison_Bogumil.txt",
+    "date_of_birth": {
+        "date": "1818-05-15"
+    },
+    "place_of_birth": {
+        "place": "Warszawa"
+    },
+    "date_of_death": {
+        "date": "1872-02-01"
+    },
+    "place_of_death": {
+        "place": "Drezno"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "artysta dramatyczny",
+        "pisarczyk u sekwestratora",
+        "kaligraf",
+        "przepisywacz w »Gazecie Warszawskiej«",
+        "dziennikarz",
+        "student szkoły dramatycznej",
+        "aktor teatrów rządowych",
+        "aktor teatru wileńskiego",
+        "tłumacz komedii",
+        "aktor teatru lwowskiego",
+        "aktor Thaliatheater w Hamburgu",
+        "aktor Burg-teatrze w Wiedniu",
+        "aktor sceny drezdeńskiej",
+        "aktor teatru niemieckiego w Poznaniu",
+        "aktor na scenach amerykańskich"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Gazeta Warszawska",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Szkoła Dramatyczna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Wielki",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Rozmaitości",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Wileński",
+            "institution_place": "Wilno"
+        },
+        {
+            "institution_name": "Teatr Lwowski",
+            "institution_place": "Lwów"
+        },
+        {
+            "institution_name": "Burg-teatr",
+            "institution_place": "Wiedeń"
+        },
+        {
+            "institution_name": "Thaliatheater",
+            "institution_place": "Hamburg"
+        },
+        {
+            "institution_name": "Teatr Drezdeński",
+            "institution_place": "Drezno"
+        },
+        {
+            "institution_name": "Teatr Niemiecki",
+            "institution_place": "Poznań"
+        },
+        {
+            "institution_name": "Teatr Warszawski",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "żona",
+            "person": "Wanda Ostoja-Starzewska"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Bonawentura Kudlicz",
+            "person_date": "1836",
+            "person_info": "kierownik szkoły dramatycznej"
+        },
+        {
+            "person_name": "Schmidkoff",
+            "person_date": "1838",
+            "person_info": "dyrektor teatru wileńskiego"
+        },
+        {
+            "person_name": "J. N. Kamiński",
+            "person_date": "1840",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "L. Schneider",
+            "person_date": "brak danych",
+            "person_info": "aktor berliński"
+        },
+        {
+            "person_name": "Chéri Maurice",
+            "person_date": "brak danych",
+            "person_info": "dyrektor Thaliatheater w Hamburgu"
+        },
+        {
+            "person_name": "Wanda Ostoja-Starzewska",
+            "person_date": "1848",
+            "person_info": "aktorka teatru lwowskiego"
+        },
+        {
+            "person_name": "Emil Devrient",
+            "person_date": "brak danych",
+            "person_info": "aktor, rywal"
+        },
+        {
+            "person_name": "Alfred de Vigny",
+            "person_date": "1859",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "panna Jacobi",
+            "person_date": "1859",
+            "person_info": "uczennica Schumanna i Mendelssohna"
+        },
+        {
+            "person_name": "J. Komorowski",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Warszawa",
+            "date": "1818-05-15"
+        },
+        {
+            "place": "Wilno",
+            "date": "1838-10"
+        },
+        {
+            "place": "Mińsk",
+            "date": "brak danych"
+        },
+        {
+            "place": "Lwów",
+            "date": "1840"
+        },
+        {
+            "place": "Wiedeń",
+            "date": "1841"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1846"
+        },
+        {
+            "place": "Oława",
+            "date": "brak danych"
+        },
+        {
+            "place": "Szczecin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Brzeg",
+            "date": "brak danych"
+        },
+        {
+            "place": "Hamburg",
+            "date": "1847-02-13"
+        },
+        {
+            "place": "Polska",
+            "date": "1848-05"
+        },
+        {
+            "place": "Berlin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Monachium",
+            "date": "brak danych"
+        },
+        {
+            "place": "Drezno",
+            "date": "1852"
+        },
+        {
+            "place": "Poznań",
+            "date": "1854"
+        },
+        {
+            "place": "Paryż",
+            "date": "1859"
+        },
+        {
+            "place": "Ameryka",
+            "date": "1866"
+        },
+        {
+            "place": "Drezno",
+            "date": "1872-02-01"
+        }
+    ]
+}

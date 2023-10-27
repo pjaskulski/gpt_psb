@@ -1,0 +1,42 @@
+{
+  "Nazwisko": [
+    "Federowicz"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Ignacy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "24-04-1836"
+  ],
+  "Miejsce urodzenia": [
+    "Czechy Pod Zduńska Wola"
+  ],
+  "Data śmierci": [
+    "02-06-1913"
+  ],
+  "Miejsce śmierci": [
+    "Krakowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "syn Aleksandra i Anieli Wilczyńskiej",
+    "mieszczan wieluńskich"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "paulin"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Aleksandra",
+      "target": "Anieli Wilczyńskiej",
+      "name": "matka - krewny"
+    }
+  ]
+}

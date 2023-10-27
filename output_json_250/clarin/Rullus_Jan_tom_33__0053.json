@@ -1,0 +1,132 @@
+{
+  "Nazwisko": [
+    "Rullus"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Jan"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Krakowie"
+  ],
+  "Data śmierci": [
+    "DD-MM-1532"
+  ],
+  "Miejsce śmierci": [
+    "Wrocławiu"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "humanista",
+    "pedagog",
+    "bibliofil"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "R-a",
+      "target": "Sebastian Puschel",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Leonard Cox",
+      "target": "Walentego Ecka",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "R-owi",
+      "target": "Walentego Ecka",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "R-owi",
+      "target": "Leonard Cox",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-owi",
+      "target": "Filipa Melanchtona",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-owi",
+      "target": "Erazma z Rotterdamu",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-owi",
+      "target": "R.",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Erazma z Rotterdamu",
+      "target": "Walentego Ecka",
+      "name": "rodzeństwo - dzieci"
+    },
+    {
+      "source": "R.",
+      "target": "Walentego Ecka",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "R.",
+      "target": "Leonard Cox",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Erazma",
+      "target": "Andrzej Trzecieski",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Erazma",
+      "target": "Jan Antoninus",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Erazma",
+      "target": "Anzelm Ephorinus",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Erazma",
+      "target": "Jost Ludwik Decjusz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Ecka",
+      "target": "Erazma z Rotterdamu",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "R-owi",
+      "target": "Jan Lang",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "R-owi",
+      "target": "Jerzy Werner",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "R-owi",
+      "target": "Andrzej Schroeter",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "R-owi",
+      "target": "Jan Wencki",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Jan Wencki",
+      "target": "Wawrzyniec Just",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

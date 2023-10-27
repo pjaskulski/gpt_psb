@@ -1,0 +1,80 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": [
+    "Storrada",
+    "Świętosława"
+  ],
+  "Imię/imiona": null,
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-0968 -- DD-MM-0972"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1016 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Sygryda",
+      "target": "Storrada",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Sygryda",
+      "target": "Świętosława",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Storrada",
+      "target": "Świętosława",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "S-zie",
+      "target": "Thietmara",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Adama Bremeńskiego",
+      "target": "Swena Estridssona",
+      "name": "ważna postać - ojciec"
+    },
+    {
+      "source": "S-y",
+      "target": "Adama Bremeńskiego",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "S-y",
+      "target": "S.",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "Dobrawy",
+      "target": "Mieszka I",
+      "name": "matka - krewny"
+    },
+    {
+      "source": "Mieszka I",
+      "target": "Oswalda Balzera",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Sygrydą",
+      "target": "Mieszka I",
+      "name": "protagonist - ojciec"
+    },
+    {
+      "source": "Sygrydą",
+      "target": "Oswalda Balzera",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

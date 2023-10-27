@@ -1,0 +1,49 @@
+{
+  "Nazwisko": [
+    "Drzewiecki"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Henryk"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "DD-MM-1873"
+  ],
+  "Miejsce urodzenia": [
+    "Warszawa"
+  ],
+  "Data śmierci": [
+    "04-10-1937"
+  ],
+  "Miejsce śmierci": [
+    "Wyszkowie"
+  ],
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "artysta śpiewak",
+    "doktor praw",
+    "autor rozpraw w zakresie historii notariatu w Polsce"
+  ],
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Gounoda",
+      "target": "Masseneta",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Masseneta",
+      "target": "Moniuszki",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Mascagniego",
+      "target": "Belliniego",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}

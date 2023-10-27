@@ -14,8 +14,8 @@
     "date_of_birth": {
         "date": "brak danych",
         "note": "przed 1229",
-        "result": false,
-        "pj_note": "właściwa inf. jest wyciągnięta w dodatkowej notatce"
+        "result": true,
+        "pj_note": "ale właściwa inf. jest wyciągnięta w dodatkowej notatce"
     },
     "date_of_death": {
         "date": "1292",

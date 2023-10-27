@@ -1,0 +1,47 @@
+{
+  "Nazwisko": [
+    "Swach"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szwach"
+  ],
+  "Imię/imiona": [
+    "Jerzy"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "11-04-1668"
+  ],
+  "Miejsce urodzenia": [
+    "Daczycach Na Morawe"
+  ],
+  "Data śmierci": [
+    "13-01-1747"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "franciszkanin",
+    "malarz",
+    "snycerz"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "franciszkanin",
+    "cysters",
+    "franciszkan"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Swach (Szwach) Jerzy",
+      "target": "Adam",
+      "name": "protagonist - ojciec"
+    }
+  ]
+}

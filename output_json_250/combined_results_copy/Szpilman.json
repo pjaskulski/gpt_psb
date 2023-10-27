@@ -1,0 +1,880 @@
+{
+    "name": "Władysław Szpilman",
+    "psb_id": "PSB-48-0343",
+    "biogram_file": "Szpilman.txt",
+    "date_of_birth": {
+        "date": "1911-12-05"
+    },
+    "place_of_birth": {
+        "place": "Sosnowiec"
+    },
+    "date_of_death": {
+        "date": "2000-07-06"
+    },
+    "place_of_death": {
+        "place": "Warszawa"
+    },
+    "date_of_burial": {
+        "date": "2000-07-14"
+    },
+    "place_of_burial": {
+        "place": "Warszawa",
+        "note": "cmentarz Wojskowy na Powązkach"
+    },
+    "functions": [
+        "pianista",
+        "kompozytor",
+        "kierownik Redakcji Muzyki Lekkiej (potem Rozrywkowej) w Polskim Radiu",
+        "dyrektor muzyczny Polskiego Radia",
+        "kierownik Redakcji Muzyki Rozrywkowej w PR",
+        "członek Związku Autorów i Kompozytorów Rozrywkowych",
+        "prezes Związku Polskich Autorów i Kompozytorów (ZPAiK)",
+        "członek Związku Kompozytorów Polskich (ZKP)",
+        "kierownik artystyczny «Kwintetu Warszawskiego»"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Teatr Polski",
+            "institution_place": "Katowice"
+        },
+        {
+            "institution_name": "Męska Szkoła Handlowa (Gimnazjum Tomasza Płockiego)",
+            "institution_place": "Sosnowiec"
+        },
+        {
+            "institution_name": "Wyższa Szkoła Muzyczna im. Fryderyka Chopina",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Berlińska Wyższa Szkoła Muzyczna (Berliner Musikhochschule)",
+            "institution_place": "Berlin"
+        },
+        {
+            "institution_name": "Polskie Radio (PR)",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Syrena Record",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr [Marii] Malickiej",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Cyrulik Warszawski",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Państwowa Wyższa Szkoła Filmowa",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Młodego Widza",
+            "institution_place": "Wrocław"
+        },
+        {
+            "institution_name": "Społeczny Komitet Radiofonizacji Kraju",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Polska Kronika Filmowa",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Puchar Zlotu Młodych Przodowników",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Związek Kompozytorów Polskich (ZKP)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatr im. Stefana Jaracza",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Teatr Syrena",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Teatr Polski Bielsko–Cieszyn",
+            "institution_place": "Bielsko-Biała"
+        },
+        {
+            "institution_name": "Związek Polskich Autorów i Kompozytorów (ZPAiK)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Kwintet Warszawski",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Teatry Dolnośląskie Jelenia Góra–Wałbrzych",
+            "institution_place": "Jelenia Góra"
+        },
+        {
+            "institution_name": "Operetka w Łodzi",
+            "institution_place": "Łódź"
+        },
+        {
+            "institution_name": "Akademia Fonograficzna",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "Boosey & Hawkes",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Universal Music",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Sony Classical",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Uniwersytet Leuphana",
+            "institution_place": "Lüneburg"
+        },
+        {
+            "institution_name": "Polskie Radio",
+            "institution_place": "Warszawa"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Samuel Szpilman"
+        },
+        {
+            "family_relation": "matka",
+            "person": "Estera Rapaport"
+        },
+        {
+            "family_relation": "bratanek",
+            "person": "Reuwen Szpilman"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Regina Szpilman"
+        },
+        {
+            "family_relation": "brat",
+            "person": "Henryk Szpilman"
+        },
+        {
+            "family_relation": "siostra",
+            "person": "Halina Szpilman"
+        },
+        {
+            "family_relation": "kuzyn",
+            "person": "Michael Taube"
+        },
+        {
+            "family_relation": "żona",
+            "person": "Hania Grzecznarowska"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Andrzej Szpilman"
+        },
+        {
+            "family_relation": "syn",
+            "person": "Krzysztof Szpilman"
+        },
+        {
+            "family_relation": "teść",
+            "person": "Józef Grzecznarowski"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Samuel Szpilman",
+            "person_date": "brak danych",
+            "person_info": "skrzypek w zespole operowym Teatru Polskiego w Katowicach"
+        },
+        {
+            "person_name": "Ester Szpilman",
+            "person_date": "brak danych",
+            "person_info": "nauczycielka gry na fortepianie oraz pianistka w zespole teatru w Sosnowcu"
+        },
+        {
+            "person_name": "Reuwen Szpilman",
+            "person_date": "brak danych",
+            "person_info": "skrzypek i dyrygent orkiestr wojskowych"
+        },
+        {
+            "person_name": "Józef Śmidowicz",
+            "person_date": "1928",
+            "person_info": "profesor w klasie fortepianu"
+        },
+        {
+            "person_name": "Michał Biernacki",
+            "person_date": "1928",
+            "person_info": "profesor teorii i kontrapunktu"
+        },
+        {
+            "person_name": "Henryk Szeryng",
+            "person_date": "1932",
+            "person_info": "skrzypek"
+        },
+        {
+            "person_name": "F. Schreker",
+            "person_date": "1932",
+            "person_info": "dyrektor Berlińskiej Wyższej Szkoły Muzycznej"
+        },
+        {
+            "person_name": "L. Kreutzer",
+            "person_date": "1932",
+            "person_info": "profesor gry na fortepianie"
+        },
+        {
+            "person_name": "Arthur Schnabel",
+            "person_date": "1932",
+            "person_info": "pianista"
+        },
+        {
+            "person_name": "Roman Totenberg",
+            "person_date": "brak danych",
+            "person_info": "skrzypek"
+        },
+        {
+            "person_name": "Ida Händel",
+            "person_date": "brak danych",
+            "person_info": "skrzypek"
+        },
+        {
+            "person_name": "Bronisław Gimpel",
+            "person_date": "brak danych",
+            "person_info": "skrzypek"
+        },
+        {
+            "person_name": "Konrad Winawer",
+            "person_date": "brak danych",
+            "person_info": "skrzypek"
+        },
+        {
+            "person_name": "Tadeusz Wroński",
+            "person_date": "brak danych",
+            "person_info": "skrzypek"
+        },
+        {
+            "person_name": "Emanuel Feuermann",
+            "person_date": "brak danych",
+            "person_info": "wiolonczelista"
+        },
+        {
+            "person_name": "Aleksander Michałowski",
+            "person_date": "1933",
+            "person_info": "profesor gry na fortepianie"
+        },
+        {
+            "person_name": "Fryderyk Járosy",
+            "person_date": "1935",
+            "person_info": "muzyk, jubilat"
+        },
+        {
+            "person_name": "Tadeusz Sygietyński",
+            "person_date": "brak danych",
+            "person_info": "muzyk"
+        },
+        {
+            "person_name": "Henryk Bojm",
+            "person_date": "1934",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Jerzy Ryba",
+            "person_date": "1936",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "D. Niccodemi",
+            "person_date": "1936",
+            "person_info": "autor sztuki"
+        },
+        {
+            "person_name": "Karol Szymanowski",
+            "person_date": "1937",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Roman Jasiński",
+            "person_date": "1938",
+            "person_info": "kierownik"
+        },
+        {
+            "person_name": "Juliusz Gardan",
+            "person_date": "1938",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Maria Rodziewiczówna",
+            "person_date": "1938",
+            "person_info": "autorka powieści"
+        },
+        {
+            "person_name": "Tadeusz Dołęga-Mostowicz",
+            "person_date": "1939",
+            "person_info": "autor powieści"
+        },
+        {
+            "person_name": "S. Rachmaninow",
+            "person_date": "1939",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Kazimierz Serocki",
+            "person_date": "1940",
+            "person_info": "uczeń"
+        },
+        {
+            "person_name": "Szymon Pullman",
+            "person_date": "1941",
+            "person_info": "dyrygent żydowskiej orkiestry symfonicznej"
+        },
+        {
+            "person_name": "Władysław Szlengel",
+            "person_date": "1941",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Wiera Gran",
+            "person_date": "1941",
+            "person_info": "piosenkarka"
+        },
+        {
+            "person_name": "Artur Goldfeder",
+            "person_date": "1941",
+            "person_info": "pianista"
+        },
+        {
+            "person_name": "Leon Boruński",
+            "person_date": "1942",
+            "person_info": "chory pianista"
+        },
+        {
+            "person_name": "Andrzej Bogucki",
+            "person_date": "1943",
+            "person_info": "aktor i piosenkarz"
+        },
+        {
+            "person_name": "Czesław Lewicki",
+            "person_date": "1943",
+            "person_info": "dyrygent"
+        },
+        {
+            "person_name": "Eugenia Umińska",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Witold Lutosławski",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Edmund Rudnicki",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Piotr Perkowski",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Helena Lewicka",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Maria Krasnodębska",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Irena Sendlerowa",
+            "person_date": "1943",
+            "person_info": "osoba udzielająca wsparcia"
+        },
+        {
+            "person_name": "Wilm Hosenfeld",
+            "person_date": "1944",
+            "person_info": "porucznik niemiecki"
+        },
+        {
+            "person_name": "Jerzy Waldorff",
+            "person_date": "1946",
+            "person_info": "opracował pamiętniki"
+        },
+        {
+            "person_name": "Jerzy Andrzejewski",
+            "person_date": "1945",
+            "person_info": "autor scenariusza filmu"
+        },
+        {
+            "person_name": "Czesław Miłosz",
+            "person_date": "1945",
+            "person_info": "autor scenariusza filmu"
+        },
+        {
+            "person_name": "Jerzy Zarzycki",
+            "person_date": "1950",
+            "person_info": "reżyser"
+        },
+        {
+            "person_name": "Stefan Sapiński",
+            "person_date": "1949",
+            "person_info": "reżyser etiudy filmowej"
+        },
+        {
+            "person_name": "Józef Wasilewski",
+            "person_date": "1949",
+            "person_info": "aktor"
+        },
+        {
+            "person_name": "Kazimierz Winkler",
+            "person_date": "1951",
+            "person_info": "autor słów do pieśni"
+        },
+        {
+            "person_name": "Maria Lasek",
+            "person_date": "1951",
+            "person_info": "autorka słów do pieśni"
+        },
+        {
+            "person_name": "Roman Sadowski",
+            "person_date": "1951",
+            "person_info": "autor słów do pieśni"
+        },
+        {
+            "person_name": "Hanna Januszewska",
+            "person_date": "1950",
+            "person_info": "autorka słów do piosenek"
+        },
+        {
+            "person_name": "Władysław Broniewski",
+            "person_date": "1950",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "E. Szwarz",
+            "person_date": "1948",
+            "person_info": "autor sztuki"
+        },
+        {
+            "person_name": "Elżbieta Kalinowicz",
+            "person_date": "1948",
+            "person_info": "reżyserka"
+        },
+        {
+            "person_name": "Prokofiew",
+            "person_date": "1948",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "I. Berlin",
+            "person_date": "1950",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "G. Gershwin",
+            "person_date": "1950",
+            "person_info": "kompozytor"
+        },
+        {
+            "person_name": "Lucyna Krzemieniecka",
+            "person_date": "brak danych",
+            "person_info": "autorka słów do piosenek"
+        },
+        {
+            "person_name": "Leopold Lewin",
+            "person_date": "brak danych",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Andrzej Braun",
+            "person_date": "1952",
+            "person_info": "autor słów do wodewilu"
+        },
+        {
+            "person_name": "Tadeusz Kubiak",
+            "person_date": "1952",
+            "person_info": "autor słów do wodewilu"
+        },
+        {
+            "person_name": "Artur Międzyrzecki",
+            "person_date": "1952",
+            "person_info": "autor słów do wodewilu"
+        },
+        {
+            "person_name": "Jan Piasecki",
+            "person_date": "1953",
+            "person_info": "autor wodewilów"
+        },
+        {
+            "person_name": "Stanisław Ziembicki",
+            "person_date": "brak danych",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Kazimierz Wajda",
+            "person_date": "brak danych",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Eugeniusz Żytomirski",
+            "person_date": "brak danych",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Stanisław Ryszard Dobrowolski",
+            "person_date": "1951",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Konstanty Ildefons Gałczyński",
+            "person_date": "brak danych",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Zdzisław Gozdawa",
+            "person_date": "1954",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Edward Fiszer",
+            "person_date": "1954",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Bronisław Brok",
+            "person_date": "1958",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Ludwik Starski",
+            "person_date": "brak danych",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Bogusław Choiński",
+            "person_date": "1959",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Jan Gałkowski",
+            "person_date": "1959",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Jerzy Jurandot",
+            "person_date": "1961",
+            "person_info": "autor słów do piosenek"
+        },
+        {
+            "person_name": "Jerzy Gert",
+            "person_date": "1951",
+            "person_info": "współpracownik przy tworzeniu muzyki do filmu"
+        },
+        {
+            "person_name": "Jerzy Bossak",
+            "person_date": "1951",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Joanna Rojewska",
+            "person_date": "1953",
+            "person_info": "reżyserka filmu"
+        },
+        {
+            "person_name": "J. Mach",
+            "person_date": "1958",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Leopold Beck",
+            "person_date": "1954",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Jan Huszcza",
+            "person_date": "1954",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Stefania Domańska",
+            "person_date": "1954",
+            "person_info": "reżyserka spektaklu"
+        },
+        {
+            "person_name": "Jurandot",
+            "person_date": "1959",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Marian Wyrzykowski",
+            "person_date": "1959",
+            "person_info": "reżyser spektaklu"
+        },
+        {
+            "person_name": "Włodzimierz Mass",
+            "person_date": "1959",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Michał Czerwiński",
+            "person_date": "1959",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Andrzej Uramowicz",
+            "person_date": "1959",
+            "person_info": "reżyser spektaklu"
+        },
+        {
+            "person_name": "Szymon Zakrzewski",
+            "person_date": "1961",
+            "person_info": "współorganizator Międzynarodowego Festiwalu Piosenki w Sopocie"
+        },
+        {
+            "person_name": "Gimple",
+            "person_date": "1962",
+            "person_info": "członek 'Kwintetu Warszawskiego'"
+        },
+        {
+            "person_name": "Stefan Kamas",
+            "person_date": "1962",
+            "person_info": "członek 'Kwintetu Warszawskiego'"
+        },
+        {
+            "person_name": "Aleksander Ciechański",
+            "person_date": "1962",
+            "person_info": "członek 'Kwintetu Warszawskiego'"
+        },
+        {
+            "person_name": "Paweł Malarewski",
+            "person_date": "1963",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Zuzanna Łozińska",
+            "person_date": "1963",
+            "person_info": "reżyserka spektaklu"
+        },
+        {
+            "person_name": "B. Thomas",
+            "person_date": "1964",
+            "person_info": "autor spektaklu"
+        },
+        {
+            "person_name": "Henryk Cajzel",
+            "person_date": "1964",
+            "person_info": "reżyser spektaklu"
+        },
+        {
+            "person_name": "Ryszard Jaworski",
+            "person_date": "1994",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Marek Drążewski",
+            "person_date": "2004",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Roman Polański",
+            "person_date": "2002",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Adrien Brody",
+            "person_date": "2003",
+            "person_info": "aktor grający Szpilmana w filmie"
+        },
+        {
+            "person_name": "Wiera Gran",
+            "person_date": "2010",
+            "person_info": "osoba oskarżająca Szpilmana o służbę w policji żydowskiej w getcie"
+        },
+        {
+            "person_name": "Krystian Zimerman",
+            "person_date": "2001",
+            "person_info": "autor wstępu do utworów orkiestrowych Szpilmana"
+        },
+        {
+            "person_name": "Janusz Nasfeter",
+            "person_date": "1977",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Jerzy Domaradzki",
+            "person_date": "1981",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Feliks Falk",
+            "person_date": "1981",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Janusz Zaorski",
+            "person_date": "1988",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Borys Lankosz",
+            "person_date": "2009",
+            "person_info": "reżyser filmu"
+        },
+        {
+            "person_name": "Jan Kidawa-Błoński",
+            "person_date": "2010",
+            "person_info": "reżyser filmu"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Sosnowiec",
+            "date": "1911-12-05"
+        },
+        {
+            "place": "Katowice",
+            "date": "1926"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1932"
+        },
+        {
+            "place": "Berlin",
+            "date": "1932-1933"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1933"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1936"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1939"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1940"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1942"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1944"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1945"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1946"
+        },
+        {
+            "place": "Szwecja",
+            "date": "1946"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1947"
+        },
+        {
+            "place": "Wrocław",
+            "date": "1948"
+        },
+        {
+            "place": "Paryż",
+            "date": "1948"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1949"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1951"
+        },
+        {
+            "place": "ZSRR",
+            "date": "1951"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1952"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1954"
+        },
+        {
+            "place": "RFN",
+            "date": "1957"
+        },
+        {
+            "place": "Sopot",
+            "date": "1961"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1962"
+        },
+        {
+            "place": "Jelenia Góra",
+            "date": "1963"
+        },
+        {
+            "place": "Łódź",
+            "date": "1964"
+        },
+        {
+            "place": "Hamburg",
+            "date": "1986"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1994"
+        },
+        {
+            "place": "Berlin",
+            "date": "1998"
+        },
+        {
+            "place": "Warszawa",
+            "date": "2000"
+        },
+        {
+            "place": "Berlin",
+            "date": "2000"
+        },
+        {
+            "place": "Szwajcaria",
+            "date": "brak danych"
+        },
+        {
+            "place": "Cannes",
+            "date": "2002"
+        },
+        {
+            "place": "Lüneburg",
+            "date": "2005"
+        },
+        {
+            "place": "Warszawa",
+            "date": "2011"
+        }
+    ]
+}

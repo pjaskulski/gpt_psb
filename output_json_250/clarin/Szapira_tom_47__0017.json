@@ -1,0 +1,46 @@
+{
+  "Nazwisko": [
+    "Szapira"
+  ],
+  "Warianty nazwiska (oboczności)": [
+    "Szapiro",
+    "Meir"
+  ],
+  "Imię/imiona": [
+    "Majer"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": [
+    "24-02-1887"
+  ],
+  "Miejsce urodzenia": null,
+  "Data śmierci": [
+    "DD-MM-1933 --"
+  ],
+  "Miejsce śmierci": null,
+  "Data pochówku": [
+    "29-10-1933"
+  ],
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "rabin",
+    "działacz oświatowy",
+    "poseł na Sejm Rzeczypospolitej Polskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "sejm",
+    "stowarzyszenie . Żyd religijny « Tiferet Hadas »"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null,
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Małką Tową",
+      "target": "Jakuba Breitmana",
+      "name": "współmałżonek - rodzice"
+    }
+  ]
+}

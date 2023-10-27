@@ -1,0 +1,138 @@
+{
+    "name": "Józef Słowicki",
+    "psb_id": "PSB-39-0040",
+    "biogram_file": "Slowicki_Jozef.txt",
+    "date_of_birth": {
+        "date": "1803"
+    },
+    "place_of_birth": {
+        "place": "Rostoka",
+        "note": "obwód krasnostawski"
+    },
+    "date_of_death": {
+        "date": "1847"
+    },
+    "place_of_death": {
+        "place": "Zagrzeb"
+    },
+    "date_of_burial": {
+        "date": "brak danych"
+    },
+    "place_of_burial": {
+        "place": "brak danych"
+    },
+    "functions": [
+        "powstaniec 1830/31 r.",
+        "emigrant",
+        "publicysta",
+        "student Uniw. Warsz",
+        "magister praw",
+        "ochotnik do wojska",
+        "podporucznik w 16. pp liniowej",
+        "sekretarz Komisji Centralnej Polaków w dep. des Landes",
+        "członek Tow. Demokratycznego Polskiego",
+        "członek redakcji „Demokraty Polskiego”",
+        "członek Centralizacji TDP",
+        "ekspedytor parowozów w lokomotywowni w Cherbourgu"
+    ],
+    "institutions": [
+        {
+            "institution_name": "Uniw. Warsz",
+            "institution_place": "Warszawa"
+        },
+        {
+            "institution_name": "16. pp liniowej",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "zakład awinioński",
+            "institution_place": "Awinion"
+        },
+        {
+            "institution_name": "Komisja Centralna Polaków w dep. des Landes",
+            "institution_place": "Mont-de-Marsan"
+        },
+        {
+            "institution_name": "Tow. Demokratycznego Polskiego (TDP)",
+            "institution_place": "brak danych"
+        },
+        {
+            "institution_name": "Centralizacja TDP",
+            "institution_place": "Poitiers"
+        },
+        {
+            "institution_name": "lokomotywownia",
+            "institution_place": "Cherbourg"
+        },
+        {
+            "institution_name": "więzienie",
+            "institution_place": "Zagrzeb"
+        }
+    ],
+    "relations": [
+        {
+            "family_relation": "ojciec",
+            "person": "Józef Słowicki"
+        }
+    ],
+    "significant_people": [
+        {
+            "person_name": "Władysław Podczaski",
+            "person_date": "1833",
+            "person_info": "pułkownik, związany ze stronnictwem ks. Adama Czartoryskiego"
+        },
+        {
+            "person_name": "Adam Czartoryski",
+            "person_date": "brak danych",
+            "person_info": "książę, polityk"
+        },
+        {
+            "person_name": "Henryk Kamieński",
+            "person_date": "brak danych",
+            "person_info": "brak danych"
+        },
+        {
+            "person_name": "Ludwik Mierosławski",
+            "person_date": "1846",
+            "person_info": "emigrant, powstaniec"
+        }
+    ],
+    "places_related_to": [
+        {
+            "place": "Rostoka",
+            "date": "1803"
+        },
+        {
+            "place": "Lublin",
+            "date": "brak danych"
+        },
+        {
+            "place": "Warszawa",
+            "date": "1831-09-06/1831-09-07"
+        },
+        {
+            "place": "Brodnica",
+            "date": "1831-10-05"
+        },
+        {
+            "place": "Awinion",
+            "date": "1832-05"
+        },
+        {
+            "place": "Bergerac",
+            "date": "1833-03"
+        },
+        {
+            "place": "Mont-de-Marsan",
+            "date": "1833-05-01"
+        },
+        {
+            "place": "Poitiers",
+            "date": "brak danych"
+        },
+        {
+            "place": "Wersal",
+            "date": "1840-11-15"
+        }
+    ]
+}

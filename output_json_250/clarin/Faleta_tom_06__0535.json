@@ -1,0 +1,97 @@
+{
+  "Nazwisko": null,
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Falęta"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Mazowsza"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": null,
+  "Nazwa instytucji (z nagłówka)": null,
+  "Lokalizacja instytucji (z nagłówka)": null,
+  "Relacje": [
+    {
+      "source": "Bogufała III",
+      "target": "Janusz",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Bogufała III",
+      "target": "Heleny-Jolanty",
+      "name": "protagonist - matka"
+    },
+    {
+      "source": "Pietrzyka",
+      "target": "Janusz",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Pietrzyka",
+      "target": "Bolesława Pobożnego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Pietrzyka",
+      "target": "Falęty",
+      "name": "krewny-współmałżonek"
+    },
+    {
+      "source": "Janusz",
+      "target": "Bolesława Pobożnego",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Janusz",
+      "target": "Falęty",
+      "name": "krewny-współmałżonek"
+    },
+    {
+      "source": "Bolesława Pobożnego",
+      "target": "Heleny-Jolanty",
+      "name": "ojciec - współmałżonek"
+    },
+    {
+      "source": "Heleny-Jolanty",
+      "target": "Falęty",
+      "name": "ojciec - współmałżonek"
+    },
+    {
+      "source": "Klemensa IV",
+      "target": "Falęcie",
+      "name": "protagonist - wnuki"
+    },
+    {
+      "source": "F-ty",
+      "target": "Janusza",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "F-ty",
+      "target": "Jan",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "F-ty",
+      "target": "Klemens IV",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "F-ty",
+      "target": "Mikołaja",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Klemens IV",
+      "target": "Mikołaja",
+      "name": "ważna postać - dzieci"
+    }
+  ]
+}

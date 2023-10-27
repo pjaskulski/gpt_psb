@@ -1,0 +1,77 @@
+{
+  "Nazwisko": [
+    "Cox"
+  ],
+  "Warianty nazwiska (oboczności)": null,
+  "Imię/imiona": [
+    "Leonard"
+  ],
+  "Herb": null,
+  "Pseudonimy/kryptonimy": null,
+  "Data urodzenia": null,
+  "Miejsce urodzenia": [
+    "Tham"
+  ],
+  "Data śmierci": null,
+  "Miejsce śmierci": null,
+  "Data pochówku": null,
+  "Miejsce pochówku": null,
+  "Zawód": [
+    "Anglik",
+    "humanista-pedagog",
+    "profesor Akademii Krakowskiej"
+  ],
+  "Nazwa instytucji (z nagłówka)": [
+    "akademia krakowski"
+  ],
+  "Lokalizacja instytucji (z nagłówka)": [
+    null
+  ],
+  "Relacje": [
+    {
+      "source": "Cox",
+      "target": "Cockes) Leonard",
+      "name": "protagonist - krewny"
+    },
+    {
+      "source": "Jana Stöfflera",
+      "target": "Melanchtona",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Hieronima",
+      "target": "Erazma Rotterdamczyka",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Hallera",
+      "target": "Hieronima",
+      "name": "protagonist - dzieci"
+    },
+    {
+      "source": "C-a",
+      "target": "Marii królowej węgierskiej",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "C-a",
+      "target": "Jan Henckel",
+      "name": "protagonist - znacząca osoba"
+    },
+    {
+      "source": "Vietora",
+      "target": "Hadriana de Castello",
+      "name": "ważna postać - krewny"
+    },
+    {
+      "source": "Morusa",
+      "target": "Melanchtona",
+      "name": "ważna postać - dzieci"
+    },
+    {
+      "source": "Wergilego",
+      "target": "Cycerona",
+      "name": "rodzeństwo - dzieci"
+    }
+  ]
+}
