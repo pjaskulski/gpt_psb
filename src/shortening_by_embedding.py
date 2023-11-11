@@ -59,8 +59,9 @@ if __name__ == '__main__':
     query_text = "miejsce urodzenia, miejsce śmierci (gdzie zmarł), miejsce pochówku / pogrzebu, data urodzenia (kiedy się urodził), data śmierci (kiedy zmarł) - na przykład z podanego w biogramie zakresu lat (1790-1800), data pochówku, pogrzebu"
     query_path = Path("..") / 'emb_psb_250' / 'basic_query.pkl'
 
-    #query_text = "wyszukaj wszystkich krewnych lub powinowatych głównego bohatera/bohaterki tekstu. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka, brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, szwagier, szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa."
-    #query_path = Path("..") / 'emb_psb_250' / 'relations_query.pkl'
+    query_text = "wyszukaj wszystkich krewnych lub powinowatych głównego bohatera/bohaterki tekstu. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka, brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, szwagier, szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa."
+    query_path = Path("..") / 'emb_psb_250' / 'relations_query.pkl'
+    
     if os.path.exists(query_path):
         with open(query_path, "rb") as pkl_file:
             query_embedding = pickle.load(file=pkl_file, encoding='utf-8')
@@ -80,7 +81,7 @@ if __name__ == '__main__':
         sent, sent_vector = value
         similarity = cosine_similarity(query_embedding, sent_vector)
         sent_similarity.append((sent, similarity, key))
-        print(similarity, sent)
+        print(f'{similarity}@{sent}')
 
     # sortowanie wg podobieństwa
     sent_similarity.sort(key=lambda x: x[1], reverse=True)
@@ -105,7 +106,7 @@ if __name__ == '__main__':
         output_text += b_item[0].replace('\n',' ') + ' '
 
     # skrócony biogram
-    print(output_text)
+    #print(output_text)
 
     # czas wykonania programu
     end_time = time.time()

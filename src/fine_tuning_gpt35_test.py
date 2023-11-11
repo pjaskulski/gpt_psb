@@ -16,13 +16,15 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 openai.api_key = OPENAI_API_KEY
 
 
-psb_data = Path("..") / "data_fine_tuning" / "psb_data.jsonl"
+#psb_data = Path("..") / "data_fine_tuning" / "psb_data.jsonl"
+psb_data = Path("..") / "data_fine_tuning" / "ahp.jsonl"
 
 file_data = openai.File.create(
     file=open(psb_data, 'r', encoding='utf-8'),
     purpose='fine-tune',
 )
 
+print('Wczytywanie pliku...')
 time.sleep(30)  # czas na wczytanie pliku przez OpenAI
 
 file_id = file_data['id']
