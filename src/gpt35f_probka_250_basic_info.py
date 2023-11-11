@@ -1,4 +1,4 @@
-""" analiza próbki 250 biogramów - funkcje, urzędy """
+""" analiza próbki 250 biogramów - informacje podstawowe """
 import os
 import sys
 import json
@@ -19,13 +19,14 @@ from tenacity import (
 USE_API = True
 
 # maksymalna wielkość odpowiedzi
-OUTPUT_TOKENS = 2200
-# maksymalna liczba tokenów w treści biogramu
-MAX_TOKENS = 5000
+OUTPUT_TOKENS = 400
 
-# ceny gpt-4 w dolarach
-INPUT_PRICE_GPT4 = 0.03
-OUTPUT_PRICE_GPT4 = 0.06
+# wielkość kontekstu dla modelu GPT-3.5-turbo
+MODEL_TOKENS = 4096
+
+# ceny gpt-3.5-turbo (fine-tuning) w dolarach
+INPUT_PRICE_GPT3F = 0.012
+OUTPUT_PRICE_GPT3F = 0.016
 
 # api key
 env_path = Path(".") / ".env"
@@ -36,45 +37,41 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 
 openai.api_key = OPENAI_API_KEY
 
+# lista słów kluczowych do skracania
+words = ['ur.', 'zm.', 'um.', 'urodzony', 'urodzona', 'urodzić', 'umrzeć', 'śmierć',
+         'pochowany', 'pochowana', 'pogrzeb', 'pochówek', 'cmentarz', 'grobowiec',
+         'grób', 'zemrzeć']
 
-def get_text_parts(text:str, max_tokens:int) -> list:
-    """zwraca podzielony tekst w formie listy, tak by każda część
-    mieściła się w ograniczeniach tokenów"""
 
-    # sprawdzenie czy tekst jest na tyle duży że trzeba go podzielić
-    size_of_text = count_tokens(text)
-    if size_of_text < max_tokens:
-        return [text]
+def short_version(text:str, first:int=10, last:int=10, words=[]) -> str:
+    """ proste skracanie biogramów - określona liczba początkowych i końcowych zdań
+        plus zdania zawierające słowa kluczowe z listy words
+    """
+    result = text
 
     doc = nlp(text)
     sentences = [sent.text for sent in doc.sents]
+    if len(sentences) > first + last:
+        select_data = []
+        # pierwsze {first} zdań
+        select_data = sentences[0:first]
 
-    # pierwsze dwa zdania trafiają do każdej części by model wiedział kogo dotyczy tekst
-    select_data = sentences[0:2]
-    start_text = ' '.join(select_data)
-    start_tokens = count_tokens(start_text)
+        # zdania ze środka ze słowami kluczowymi
+        for i in range(first, len(sentences) - last):
+            sent_doc = nlp(sentences[i])
+            for token in sent_doc:
+                if token.lemma_ in words:
+                    select_data.append(sentences[i])
+                    break
 
-    lista = []
-    # przygotowanie partii tekstu mieszczącego się w ograniczeniach
-    part_text = start_text
-    part_tokens = start_tokens
+        # ostatnie {last} zdań
+        select_data += sentences[len(sentences) - last:]
+        result = ' '.join(select_data)
 
-    for i in range(2,len(sentences)):
-        sent_tokens = count_tokens(sentences[i])
-        if part_tokens + sent_tokens > max_tokens:
-            lista.append(part_text)
-            part_text = start_text
-            part_tokens = start_tokens
-
-        part_text += ' ' + sentences[i]
-        part_tokens += sent_tokens
-
-    lista.append(part_text)
-
-    return lista
+    return result
 
 
-def count_tokens(text:str, model:str = "gpt-4") -> int:
+def count_tokens(text:str, model:str = "gpt-3.5-turbo") -> int:
     """ funkcja zlicza tokeny """
     num_of_tokens = 0
     enc = tiktoken.encoding_for_model(model)
@@ -109,14 +106,14 @@ def get_answer(prompt:str='', text:str='', model:str='gpt-4') -> str:
         prompt_tokens = response['usage']['prompt_tokens']
         completion_tokens = response['usage']['completion_tokens']
 
-    except Exception as api_error:
-        print(api_error)
+    except Exception as request_error:
+        print(request_error)
         sys.exit(1)
 
     return result, prompt_tokens, completion_tokens
 
 
-def format_result(text: str) -> dict:
+def format_result(text: str) -> tuple:
     """ poprawianie i formatowanie wyniku zwróconego przez LLM """
     text = text.strip()
     if text.startswith("Wynik:"):
@@ -126,24 +123,18 @@ def format_result(text: str) -> dict:
     elif text.lower().strip() == 'brak danych.':
         text = '{"result": "brak danych"}'
 
-    if 'w podanym tekście nie ma informacji' in text.lower():
-        text = '{"result": "brak danych"}'
-    elif 'w podanym tekście brak informacji' in text.lower():
-        text = '{"result": "brak danych"}'
-
     if not '[' in text:
         text = '[' + text + ']'
 
-    if text.endswith('},\n]'):
-        text = text.replace('},\n]', '}\n]')
-
     try:
         data = json.loads(text)
+        format_result = True
     except json.decoder.JSONDecodeError as json_err:
         print(json_err.msg, '\n', text)
-        sys.exit(1)
+        format_result = False
+        data = text
 
-    return data
+    return format_result, data
 
 
 # ------------------------------------------------------------------------------
@@ -154,18 +145,21 @@ if __name__ == '__main__':
     else:
         print('Uruchomiono w trybie testowym, bez użycia API (to nie kosztuje).')
 
-    total_price_gpt4 = 0
+    total_price_gpt35 = 0
     total_tokens = 0
 
     # spacy do podziału tekstu na zdania
-    nlp = spacy.load('pl_core_news_lg')
+    nlp = spacy.load('pl_core_news_md')
 
-    # szablon zapytania o funkcje i urzędy
-    prompt_path = Path("..") / "prompts" / "person_functions.txt"
+    # szablon zapytania o podstawowe informacje na temat postaci
+    prompt_path = Path("..") / "prompts_35ft" / "person_basic.txt"
     with open(prompt_path, 'r', encoding='utf-8') as f:
-        prompt_template = f.read()
+        prompt = f.read()
 
-    prompt_size = count_tokens(prompt_template)
+    PROMPT_TOKENS = count_tokens(prompt)
+
+    # maksymalna liczba tokenów w treści biogramu
+    MAX_TOKENS = MODEL_TOKENS - PROMPT_TOKENS - OUTPUT_TOKENS
 
     # dane z pliku tekstowego
     data_folder = Path("..") / "data_psb_250"
@@ -186,62 +180,64 @@ if __name__ == '__main__':
 
         # nazwa pliku bez ścieżki
         data_file_name = os.path.basename(data_file)
-        # ścieżka do pliku wyjściowego
-        output_path = Path("..") / 'output_json_250' / 'functions' / data_file_name.replace('.txt','.functions.json')
+        output_path = Path("..") / 'output_35ft_json_250' / 'basic' / data_file_name.replace('.txt','.json')
         if os.path.exists(output_path):
-            print(f'Plik {data_file_name.replace(".txt",".functions.json")} z wynikiem przetwarzania już istnieje, pomijam...')
+            print(f'Plik {data_file_name.replace(".txt",".json")} z wynikiem przetwarzania już istnieje, pomijam...')
             continue
 
-        # tekst dłuższych biogramów jest dzielony
-        texts_from_file = get_text_parts(text_from_file, MAX_TOKENS)
+        # weryfikacja liczby tokenów
+        tokens_in_data = count_tokens(text_from_file)
+        # skracanie za długich biogramów
+        if tokens_in_data > MAX_TOKENS:
+            # bardzo długie biogramy mogą mieć dodatkowe akapity tekstu już po
+            # informacji o śmierci bohatera/bohaterki biogramu, stąd więcej ostatnich zdań
+            if tokens_in_data > 50000:
+                last_sent = 35
+            else:
+                last_sent = 15
 
-        # przetwarzanie modelem gpt-4
+            text_from_file = short_version(text_from_file, first=10, last=last_sent, words=words)
+
+        # przetwarzanie modelem gpt-3.5-turbo po fine-tuningu
+        model = 'ft:gpt-3.5-turbo-0613:personal::7tiu4gBL'
         if USE_API:
-            # rzeczywiste przetwarzanie przez model
-            llm_prompt_tokens = llm_compl_tokens = 0
-            llm_dict = []
-
-            for i, part_of_text in enumerate(texts_from_file):
-                print(f'Przetwarzanie: {data_file_name} ({i + 1}/{len(texts_from_file)}) {prompt_size + count_tokens(part_of_text)} tokenów')
-                # przetwarzanie tekstu przez openai api (gpt-4)
-                p_llm_result, p_llm_prompt_tokens, p_llm_compl_tokens = get_answer(prompt_template,
-                                                                                       part_of_text,
-                                                                                       model='gpt-4')
-                p_llm_dict = format_result(p_llm_result)
-                for p_item in p_llm_dict:
-                    if p_item not in llm_dict:
-                        llm_dict.append(p_item)
-
-                llm_prompt_tokens += p_llm_prompt_tokens
-                llm_compl_tokens += p_llm_compl_tokens
-
+            llm_result, llm_prompt_tokens, llm_compl_tokens = get_answer(prompt, text_from_file, model=model)
         else:
             # tryb testowy
-            llm_prompt_tokens = count_tokens((len(texts_from_file) * prompt_template) + ' '.join(texts_from_file))
+            llm_prompt_tokens = count_tokens(text_from_file) + PROMPT_TOKENS
             llm_compl_tokens = 120 # przeciętna liczba tokenów w odpowiedzi
             llm_result = """Wynik:
-                            [{"role_or_office":"kupiec"},
-                             {"role_or_office":"bankier"}
-                            ]
+                            {
+                            "place_of_birth":"Władysławowo",
+                            "place_of_death":"Łódź",
+                            "place_of_burial":{"place": "Łódź", "note": "cmentarz katolicki przy ul. Ogrodowej"},
+                            "date_of_birth":{"date":"1814-10-13"},
+                            "date_of_death":{"date":"1904-01-17"},
+                            "date_of_burial":"brak danych"
+                            }
                         """
-            llm_dict = format_result(llm_result)
+
+        json_ok, llm_dict = format_result(llm_result)
 
         # zapis do pliku json
         with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(llm_dict, f, indent=4, ensure_ascii=False)
+            if json_ok:
+                json.dump(llm_dict, f, indent=4, ensure_ascii=False)
+            else:
+                f.write(llm_dict)
 
         # obliczenie kosztów
-        price_gpt4 = (((llm_prompt_tokens/1000) * INPUT_PRICE_GPT4) +
-                      ((llm_compl_tokens/1000) * OUTPUT_PRICE_GPT4))
-        print(f'Biogram: {data_file_name} ({llm_prompt_tokens}, {llm_compl_tokens}), koszt: {price_gpt4:.2f}')
+        price_gpt35 = (((llm_prompt_tokens/1000) * INPUT_PRICE_GPT3F) +
+                      ((llm_compl_tokens/1000) * OUTPUT_PRICE_GPT3F))
+        print(f'Biogram: {data_file_name} ({llm_prompt_tokens}), koszt: {price_gpt35:.2f}')
 
-        total_price_gpt4 += price_gpt4
+        total_price_gpt35 += price_gpt35
         total_tokens += (llm_prompt_tokens + llm_compl_tokens)
 
         # przerwa między requestami
         time.sleep(0.25)
 
-    print(f'Razem koszt: {total_price_gpt4:.2f} $, tokenów: {total_tokens}')
+    print(f'Razem koszt: {total_price_gpt35:.2f} $, tokenów: {total_tokens}')
 
     # czas wykonania programu
     end_time = time.time()
