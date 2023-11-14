@@ -1,8 +1,9 @@
-Based on the given text, search for close relatives or affinities of the main character/heroine of the text. Possible kinship types: father, mother, son, daughter, brother, sister, wife, husband.
-Present the result as a list of JSON objects containing the fields:
+Based on the given text, search for close relatives or affinities of the main character/heroine of the text. Possible kinship types: father, mother, son, daughter, brother, sister, wife, husband, father-in-law, mother-in-law, grandfather, grandmother, grandson, granddaughter, brother-in-law,
+sister-in-law, nephew, niece, cousin, son-in-law, daughter-in-law.
+Present the result as a JSON object with a 'relations' field that contains a list of JSON objects containing the fields:
 - family relation: type of relationship (who the person was to the hero/heroine)
 - person: name (name of the person related to the hero)
-List only the kinship types that appear in the text. If there is no information about the main character's kinship in the text write: "no data". 
+List only the kinship types that appear in the text. If there is no information about the main character's kinship in the text write: {"relations": null}. 
 Return JSON object only, stick to the JSON structure described.
 Provide your answers in Polish.
 ###
@@ -15,19 +16,27 @@ Result:
 {"relations":[{"family_relation":"ojciec", "person":"Niccola Ricasoli"},
  {"family_relation":"matka", "person":"Annalena Ricasoli"},
  {"family_relation":"brat", "person":"Bernard"},
- {"family_relation":"żona", "person":"Joanna"}
+ {"family_relation":"żona", "person":"Joanna"},
+ {"family_relation":"teść", "person":"Adam Kurozwęcki"}
 ]}
 ###
 Example 2.
 Text: "Otwinowski Jerzy (ok. 1637–1690), chorąży podolski. Jego ojcem był Władysław,
 sędzia kujawski, matką zaś Joanna z Radziwiłłów, rodzeństwa nie miał. Z małżeństwa z Anną z Osolińskich
-córką Henryka, miał dwoje dzieci: syna Gerwazego - miecznika krakowskiego i córkę Marię zamężną z Janem Wolskim z Kręcimierza"
+córką Henryka, miał dwoje dzieci: syna Gerwazego - miecznika krakowskiego i córkę Marię zamężną z Janem Wolskim z Kręcimierza.
+W 1667 roku dowodził wraz z kuzynem Janem Radziwiłłem królewskimi chorągwiami pancernymi."
 Result:
 {"relations":[{"family_relation":"ojciec", "person":"Władysław Otwinowski"},
  {"family_relation":"matka", "person":"Joanna z Radziwiłłów"},
  {"family_relation":"żona", "person":"Anna z Osolińskich"},
  {"family_relation":"syn", "person":"Gerwazy Otwinowski"},
- {"family_relation":"córka", "person":"Maria Wolska"}
+ {"family_relation":"córka", "person":"Maria Wolska"},
+ {"family_relation":"kuzyn", "person":"Jan Radziwiłł"}
 ]}
+###
+Example 3.
+Text: "Poniewiska Joanna (ok. 1607–1685), poetka i pisarka."
+Result:
+{"relations": null}
 ###
 Text:

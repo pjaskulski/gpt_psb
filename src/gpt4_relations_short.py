@@ -6,7 +6,6 @@ import sys
 import json
 import time
 from datetime import datetime
-import shutil
 from pathlib import Path
 from dotenv import load_dotenv
 import tiktoken
@@ -22,17 +21,14 @@ from tenacity import (
 MODEL = 'gpt-4-1106-preview'
 
 # maksymalna wielkość odpowiedzi
-OUTPUT_TOKENS = 400
+OUTPUT_TOKENS = 1000
 # wielkość angielskiego promptu to ok 900 tokenow, model gpt-4 obsługuje do 8000 tokenów
 # model gt-4-1106 - 128 tys.
 MODEL_TOKENS = 128000
-# prompt dla basic_info to około 1000 tokenów
+# prompt dla relations to około 700 tokenów
+PROMPT_TOKENS = 700
 # maksymalna liczba tokenów w treści biogramu
-MAX_TOKENS = MODEL_TOKENS - 1000 - OUTPUT_TOKENS
-
-# ceny gpt-4 w dolarach
-# INPUT_PRICE_GPT = 0.03
-# OUTPUT_PRICE_GPT = 0.06
+MAX_TOKENS = MODEL_TOKENS - PROMPT_TOKENS - OUTPUT_TOKENS
 
 # ceny gpt-4-1106-preview w dolarach
 INPUT_PRICE_GPT = 0.01
@@ -40,9 +36,9 @@ OUTPUT_PRICE_GPT = 0.03
 
 
 # api key
-#env_path = Path(".") / ".env"
+env_path = Path(".") / ".env"
 # api key
-env_path = Path(".") / ".env_ihpan"
+#env_path = Path(".") / ".env_ihpan"
 
 load_dotenv(dotenv_path=env_path)
 
@@ -102,25 +98,11 @@ def get_answer(prompt:str='', text:str='', model:str=MODEL) -> str:
 
 
 def format_result(text: str) -> tuple:
-    """ poprawianie i formatowanie wyniku zwróconego przez LLM """
+    """ poprawianie i weryfikacja wyniku zwróconego przez LLM """
     text = text.strip()
 
     try:
         data = json.loads(text)
-        # weryfikacja zawartości json
-        if not "place_of_birth" in data:
-            data["place_of_birth"] = None
-        if not "place_of_death" in data:
-            data["place_of_death"] = None
-        if not "place_of_burial" in data:
-            data["place_of_burial"] = None
-        if not "date_of_birth" in data:
-            data["date_of_birth"] = None
-        if not "date_of_death" in data:
-            data["date_of_death"] = None
-        if not "date_of_burial" in data:
-            data["date_of_burial"] = None
-
         result = True
     except json.decoder.JSONDecodeError as json_err:
         print(json_err.msg, '\n', text)
@@ -139,20 +121,12 @@ if __name__ == '__main__':
     total_tokens = 0
 
     # szablon zapytania o podstawowe informacje na temat postaci
-    prompt_path = Path("..") / "prompts" / "person_basic_en.txt"
+    prompt_path = Path("..") / "prompts" / "person_relations_en.txt"
     with open(prompt_path, 'r', encoding='utf-8') as f:
         prompt = f.read()
 
-    # dane z próbki testowej
-    test_folder = Path("..") / "short_250" / "basic"
-    test_file_list = test_folder.glob('*.txt')
-    test_collection = {}
-    for test_file in test_file_list:
-        test_file_name = os.path.basename(test_file)
-        test_collection[test_file_name] = test_file
-
     tom = 'tom_01'
-    data_folder = Path("..") / "data_psb" / "short" / tom
+    data_folder = Path("..") / "data_psb" / "short_relations" / tom
     data_file_list = data_folder.glob('*.txt')
 
     # pomiar czasu wykonania
@@ -162,20 +136,12 @@ if __name__ == '__main__':
         # nazwa pliku bez ścieżki
         data_file_name = os.path.basename(data_file)
 
-        # czy nie był to plik już przetwarzany w teście
-        if data_file_name in test_collection:
-            source_file = Path("..") / "output_short_json_250" / "basic_gpt4" / data_file_name.replace('.txt', '.json')
-            target_file = Path("..") / "output_psb" / "basic" / tom / data_file_name.replace('.txt', '.json')
-            shutil.copyfile(source_file, target_file)
-            # skoro wyniki były gotowe to skrypt przechodzi do następnego pliku
-            continue
-
         # wczytanie tekstu z podanego pliku
         text_from_file = ''
         with open(data_file, 'r', encoding='utf-8') as f:
             text_from_file = f.read().strip()
 
-        output_path = Path("..") / 'output_psb' / 'basic' / tom / data_file_name.replace('.txt','.json')
+        output_path = Path("..") / 'output_psb' / 'relations' / tom / data_file_name.replace('.txt','.json')
         if os.path.exists(output_path):
             print(f'Plik {data_file_name.replace(".txt",".json")} z wynikiem przetwarzania już istnieje, pomijam...')
             continue
