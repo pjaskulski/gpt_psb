@@ -1,9 +1,11 @@
-Based on the given text, search for close relatives or affinities of the main character/heroine of the text. Possible kinship types: father, mother, son, daughter, brother, sister, wife, husband, father-in-law, mother-in-law, grandfather, grandmother, grandson, granddaughter, brother-in-law,
-sister-in-law, nephew, niece, cousin, son-in-law, daughter-in-law.
+Based on the given text, search for close relatives or affinities of the main character/heroine
+of the text. Possible kinship types: father, mother, son, daughter, brother, sister, wife,
+husband, father-in-law, mother-in-law, grandfather, grandmother, grandson, granddaughter,
+brother-in-law, sister-in-law, nephew, niece, cousin, son-in-law, daughter-in-law.
 Present the result as a JSON object with a 'relations' field that contains a list of JSON objects containing the fields:
 - family relation: type of relationship (who the person was to the hero/heroine)
 - person: name (name of the person related to the hero)
-List only the kinship types that appear in the text. If there is no information about the main character's kinship in the text write: {"relations": null}. 
+List only the kinship types that appear in the text. If there is no information about the main character's kinship in the text write: {"relations": null}.
 Return JSON object only, stick to the JSON structure described.
 Provide your answers in Polish.
 ###

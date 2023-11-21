@@ -2,11 +2,13 @@ Na podstawie podanego tekstu wyszukaj wszystkich krewnych lub powinowatych głó
 bohatera/bohaterki tekstu. Możliwe rodzaje pokrewieństwa: ojciec, matka, syn, córka,
 brat, siostra, żona, mąż, teść, teściowa, dziadek, babcia, wnuk, wnuczka, szwagier,
 szwagierka, siostrzeniec, siostrzenica, bratanek, bratanica, kuzyn, kuzynka, zięć, synowa.
-Wynik przedstaw w formie listy obiektów JSON zawierających pola:
-family relation: rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki)
-person: nazwa (imię i nazwisko osoby związanej relacją z bohaterem)
+Wynik przedstaw w formie listy obiektu JSON zawierającego pole 'relations' z listą obiektów JSON
+składających się z pól:
+- 'family relation': rodzaj pokrewieństwa (kim osoba była dla bohatera/bohaterki)
+- 'person': nazwa (imię i nazwisko osoby związanej relacją z bohaterem)
 Wypisz tylko rodzaje pokrewieństwa, które występują w tekście.
-Jeżeli w tekście nie ma żadnych informacji o pokrewieństwach głównego bohatera napisz: "brak danych".
+Jeżeli w tekście nie ma żadnych informacji o pokrewieństwach głównego bohatera zwróć pustą wartość: {"relations": null}.
+Zwróć tylko obiekt JSON, trzymaj się opisanej struktury JSON.
 ###
 Przykład 1
 Tekst: "Soderini Carlo (ok. 1537–1581), kupiec i bankier. Był jednym z pięciu synów
@@ -22,4 +24,25 @@ Wynik:
  {"family_relation":"teść", "person":"Adam Kurozwęcki"}
 ]}
 ###
-Tekst:
+Przykład 2.
+Text: "Otwinowski Jerzy (ok. 1637–1690), chorąży podolski. Jego ojcem był Władysław,
+sędzia kujawski, matką zaś Joanna z Radziwiłłów, rodzeństwa nie miał. Z małżeństwa z Anną z Osolińskich
+córką Henryka, miał dwoje dzieci: syna Gerwazego - miecznika krakowskiego i córkę Marię zamężną z Janem Wolskim z Kręcimierza.
+Z drugiego małżeństwa z Hanną z Wieczorkiewiczów dzieci nie posiadał.
+W 1667 roku dowodził wraz z kuzynem Janem Radziwiłłem królewskimi chorągwiami pancernymi."
+Wynik:
+{"relations":[{"family_relation":"ojciec", "person":"Władysław Otwinowski"},
+ {"family_relation":"matka", "person":"Joanna z Radziwiłłów"},
+ {"family_relation":"żona", "person":"Anna z Osolińskich"},
+ {"family_relation":"syn", "person":"Gerwazy Otwinowski"},
+ {"family_relation":"córka", "person":"Maria Wolska"},
+ {"family_relation":"żona", "person":"Hanna z Wieczorkiewiczów"},
+ {"family_relation":"kuzyn", "person":"Jan Radziwiłł"}
+]}
+###
+Przykład 3.
+Text: "Poniewiska Joanna (ok. 1607–1685), poetka i pisarka."
+Result:
+{"relations": null}
+###
+Wynik:

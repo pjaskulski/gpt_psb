@@ -1,10 +1,11 @@
-""" analiza biogramów PSB - informacje podstawowe - GPT4
+""" analiza biogramów PSB - instytucje, osoby, miejsca - GPT4
 (ang. prompt, nowe skrócone biogramy)
 """
 import os
 import sys
 import json
 import time
+import shutil
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
@@ -25,15 +26,10 @@ OUTPUT_TOKENS = 1000
 # wielkość angielskiego promptu to ok 900 tokenow, model gpt-4 obsługuje do 8000 tokenów
 # model gt-4-1106 - 128 tys.
 MODEL_TOKENS = 128000
-# prompt dla relations to obecnie około 1100 tokenów
-PROMPT_TOKENS = 1100
-# maksymalna liczba tokenów w treści biogramu
-MAX_TOKENS = MODEL_TOKENS - PROMPT_TOKENS - OUTPUT_TOKENS
 
 # ceny gpt-4-1106-preview w dolarach
 INPUT_PRICE_GPT = 0.01
 OUTPUT_PRICE_GPT = 0.03
-
 
 # api key
 env_path = Path(".") / ".env"
@@ -60,7 +56,7 @@ def count_tokens(text:str, model:str = "gpt-4") -> int:
     return num_of_tokens
 
 
-@retry(wait=wait_random_exponential(min=10, max=60), stop=stop_after_attempt(6))
+@retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
 def get_answer_with_backoff(**kwargs):
     """ add exponential backoff to requests using the tenacity library """
     client = OpenAI()
@@ -115,33 +111,59 @@ def format_result(text: str) -> tuple:
 # ------------------------------------------------------------------------------
 if __name__ == '__main__':
 
+    # pomiar czasu wykonania
+    start_time = time.time()
+
     print('UWAGA: uruchomiono w trybie realnego przetwarzania z wykorzystaniem API - to kosztuje!')
 
     total_price_gpt4 = 0
     total_tokens = 0
 
-    # szablon zapytania o podstawowe informacje na temat postaci
-    prompt_path = Path("..") / "prompts" / "person_relations_v2.txt"
+    # szablon zapytania o 5 kategorii informacji na temat postaci
+    prompt_path = Path("..") / "prompts" / "person_inst_pers_place_func_rel_v1.txt"
     with open(prompt_path, 'r', encoding='utf-8') as f:
         prompt = f.read()
 
+    # prompt dla instytucji, osób i miejsc
+    PROMPT_TOKENS = count_tokens(prompt)
+    # maksymalna liczba tokenów w treści biogramu
+    MAX_TOKENS = MODEL_TOKENS - PROMPT_TOKENS - OUTPUT_TOKENS
+
+    # folder z tomem PSB
     tom = 'tom_01'
-    data_folder = Path("..") / "data_psb" / "short_relations" / tom
+    data_folder = Path("..") / "data_psb" / "full" / tom
     data_file_list = data_folder.glob('*.txt')
 
-    # pomiar czasu wykonania
-    start_time = time.time()
+    # utworzenie katalogu na wyniki jeżeli nie istnieje
+    if not os.path.isdir(Path("..") / 'data_psb' / 'full' / tom ):
+        os.mkdir(Path("..") / 'data_psb' / 'full' / tom )
+
+    # dane z próbki testowej
+    test_folder = Path("..") / "short_250" / "basic"
+    test_file_list = test_folder.glob('*.txt')
+    test_collection = {}
+    for test_file in test_file_list:
+        test_file_name = os.path.basename(test_file)
+        test_collection[test_file_name] = test_file
 
     for data_file in data_file_list:
         # nazwa pliku bez ścieżki
         data_file_name = os.path.basename(data_file)
+
+        # czy nie był to plik już przetwarzany w teście
+        if data_file_name in test_collection:
+            source_file = Path("..") / "output_json_250" / "combined_results" / data_file_name.replace('.txt', '.json')
+            target_file = Path("..") / "output_psb" / "full" / tom / data_file_name.replace('.txt', '.json')
+            shutil.copyfile(source_file, target_file)
+            # skoro wyniki były gotowe to skrypt przechodzi do następnego pliku
+            continue
 
         # wczytanie tekstu z podanego pliku
         text_from_file = ''
         with open(data_file, 'r', encoding='utf-8') as f:
             text_from_file = f.read().strip()
 
-        output_path = Path("..") / 'output_psb' / 'relations' / tom / data_file_name.replace('.txt','.json')
+        output_path = Path("..") / 'output_psb' / 'full' / tom / data_file_name.replace('.txt','.json')
         if os.path.exists(output_path):
             print(f'Plik {data_file_name.replace(".txt",".json")} z wynikiem przetwarzania już istnieje, pomijam...')
             continue
@@ -152,7 +174,7 @@ if __name__ == '__main__':
             print(f'Biogram przekracza ograniczenia modelu: {data_file_name}')
             continue
 
-        # przetwarzanie modelem gpt-4
+        # przetwarzanie modelem gpt-4-1106
         llm_result, llm_prompt_tokens, llm_compl_tokens = get_answer(prompt, text_from_file, model=MODEL)
         json_ok, llm_dict = format_result(llm_result)
 
