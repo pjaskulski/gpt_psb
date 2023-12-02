@@ -1,0 +1,42 @@
+From the given text of the biography of a historical figure, extract information about the relatives and affinities of the main character/heroine of the biography.
+Present the result as a list of JSON object with field:
+- 'relations': relatives or affinities of the main character/heroine of the text, containing a list of objects consisting of fields: 
+ -- 'family relation': type of relationship (possible types of relationship to the protagonist/heroine of the text: father, mother, son, daughter, brother, sister, wife, husband, father-in-law, mother-in-law, grandfather, grandmother, grandson, granddaughter, brother-in-law, sister-in-law, brother-in-law, sister-in-law, nephew, niece, nephew, cousin, cousin-in-law, son-in-law, daughter-in-law, if the protagonist is Albrecht's grandson then write 'grandfather: 'Albrecht' etc.), 
+ -- 'person': name (the name of a person related by relation to the hero, representatives of the aristocracy may not have a surname but only a first name or several first names), 
+ -- 'note': optional additional information about the person who is a relative of the hero/heroine. 
+List only kinship types that occur in the text, if there is no information about the main character's kinship return blank: {"relations": null}.
+The main character/heroine of the biography may appear in the text as an initial of the surname or first name e.g. S. Present the results in Polish.
+###
+Example 1.
+Text: "Soderini Carlos (ok. 1557–1591), kupiec i bankier. Był jednym z pięciu synów Niccola i Annaleny Ricasoli, młodszym
+bratem Bernarda (zob.). Jego siostrą przyrodnią była Małgorzata Anna, żona Winfrida de Loeve. S. ożenił się z Joanną, córką burgrabiego krakowskiego Adama Kurozwęckiego."
+Result:
+{
+"relations":[{"family_relation":"ojciec", "person":"Niccola Ricasoli"},
+            {"family_relation":"matka", "person":"Annalena Ricasoli"},
+            {"family_relation":"brat", "person":"Bernard"},
+            {"family_relation":"siostra", "person":"Małgorzata Anna", "note":"siostra przyrodnia, żona Winfrida de Loeve"},
+            {"family_relation":"żona", "person":"Joanna"},
+            {"family_relation":"teść", "person":"Adam Kurozwęcki", "note": "burgrabia krakowski"}   
+          ]
+}
+###
+Example 2.
+Text: "Kowalski Eugeniusz (1830-1900), inżynier, dziennikarz."
+Result:
+{
+"relations": null
+}
+###
+Example 3.
+Text: "Leopold II (1650-1713), książę pruski, generał wojsk cesarskich. Urodził się 15 VII w Berlinie, jako syn Fryderyka Wilhelma i Zofii Anzbach. W 1701 roku został niespodziewanie spadkobiercą pruskiego tytułu książęcego. Ożenił się wówczas z Anna, księżniczką brunszwicką. Miał z tego związku syna, Zygfryda Ludwika."
+Result:
+{
+"relations": [{"family_relation":"ojciec", "person":"Fryderyk Wilhelm"},
+              {"family_relation":"matka", "person":"Zofii Anzbach"},
+              {"family_relation":"żona", "person":"Anna", "note": "księżniczka brunszwicka"},
+              {"family_relation":"syn", "person":"Zygfryd Ludwik"}
+             ]
+}
+###
+Text:
