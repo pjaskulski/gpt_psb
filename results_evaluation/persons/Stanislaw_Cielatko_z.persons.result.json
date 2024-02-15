@@ -3,28 +3,28 @@
         "name": "Stanisław z Przechowa",
         "date": "1429",
         "info": "dziekan",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Jakub z Zaborowa",
         "date": "1442",
         "info": "kanonik krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Dąbrówki",
         "date": "1442",
         "info": "doktor dekretów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dominik",
         "date": "1442",
         "info": "opat mogilski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
@@ -38,168 +38,168 @@
         "name": "Tomasz Strzempiński",
         "date": "1443",
         "info": "doktor teologii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Elgot",
         "date": "1445",
         "info": "doktor dekretów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Rafał ze Skawiny",
         "date": "1444",
         "info": "oficjał generalny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Szafrańiec z Pieskowej Skały",
         "date": "1444",
         "info": "woj. krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogdał",
         "date": "1446",
         "info": "opat tyniecki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Benedykt Hesse z Krakowa",
         "date": "1449",
         "info": "kanonik krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Kęt",
         "date": "1449",
         "info": "kanonik krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał z Szydłowa",
         "date": "1449",
         "info": "członek Kolegium Jurystów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy z Michmicza",
         "date": "1449",
         "info": "bakałarz dekretów i kanonik raciborski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł z Krakowa",
         "date": "1450",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Izajasz Boner",
         "date": "1450",
         "info": "augustianin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wincenty Kot z Dębna",
         "date": "1450",
         "info": "arcbp. gnieźnieński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Oporowski",
         "date": "1450",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Dziekanowski",
         "date": "1450",
         "info": "kanonik krakowski i pleban w Starym Brzesku",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub Parkosz z Żurawic",
         "date": "1450",
         "info": "doktor dekretów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Klathe z Krakowa",
         "date": "1440",
         "info": "paśnik",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Anna",
         "date": "1440",
         "info": "wdowa po paśniku Janie Klathe z Krakowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech",
         "date": "1441",
         "info": "katedralista z Kazimierza",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Czyżowa",
         "date": "1448",
         "info": "kaszt. i star. krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Mokrski z Komorników",
         "date": "1448",
         "info": "burgrabia krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Cikowski z Mikluszowic",
         "date": "1451",
         "info": "podsędek krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to teść bratanicy bohatera (?)"
     },
     {
         "name": "Mikołaj V",
         "date": "1451",
         "info": "papież",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Wojciech Rytwiański",
         "date": "1451",
         "info": "kanonik gnieźnieński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca bohatera na prebendzie scholastyka sandomierskiego"
     },
     {
         "name": "Kazimierz Jagiellończyk",
         "date": "1451",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     }
 ]
