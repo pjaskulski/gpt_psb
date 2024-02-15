@@ -3,70 +3,70 @@
         "name": "Waleria Giewartowska",
         "date": "brak danych",
         "info": "prowadziła tajne klasy pensji",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Franciszek Gallego",
         "date": "brak danych",
         "info": "właściciel składów aptecznych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dawała lekcje prywatne, m. in. w domu właściciela składów aptecznych Franciszka Gallego"
     },
     {
         "name": "Kasylda Kulikowska",
         "date": "lata dziewięćdziesiąte XIX w.",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Szober",
         "date": "1906",
         "info": "współpracownik przy organizacji sekcji języka polskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogdan Nawroczyński",
         "date": "1906",
         "info": "współpracownik przy organizacji sekcji języka polskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Cecylia Bogucka",
         "date": "1906",
         "info": "współpracownik przy organizacji sekcji języka polskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ignacy Chrzanowski",
         "date": "brak danych",
         "info": "współautor Programu nauki języka polskiego i literatury polskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maria Dzierżanowska",
         "date": "brak danych",
         "info": "współpracownik przy opracowywaniu podręczników",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jadwiga Warnkówna",
         "date": "brak danych",
         "info": "współpracownik przy opracowywaniu podręczników",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zofia Bukowiecka",
         "date": "brak danych",
         "info": "osoba, której imieniem nazwano Koło w PMS",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "pełniąc m. in. funkcję prezesa Koła im. Zofii Bukowieckiej"
     }
 ]

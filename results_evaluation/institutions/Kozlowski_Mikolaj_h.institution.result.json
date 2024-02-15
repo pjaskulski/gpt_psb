@@ -1,0 +1,38 @@
+[
+    {
+        "institution": "Uniwersytet Praski",
+        "place_of_institution": "Praga",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Uniwersytet Krakowski",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kuria",
+        "place_of_institution": "Poznań",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kolegiata Św. Floriana",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Sobór w Bazylei",
+        "place_of_institution": "Bazylea",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kuria biskupia",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    }
+]

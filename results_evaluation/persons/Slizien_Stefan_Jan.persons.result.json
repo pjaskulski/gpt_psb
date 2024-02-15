@@ -3,224 +3,224 @@
         "name": "Andrzej Modrzewski",
         "date": "1672",
         "info": "podczaszy sieradzki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "służył prawdopodobnie pod dowództwem"
     },
     {
         "name": "Jan Sobieski",
         "date": "1672",
         "info": "hetman wielki koronny",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uczestniczył w jesienno-zimowej wyprawie hetmana w. kor. Jana Sobieskiego na czambuły tatarskie"
     },
     {
         "name": "Jan Potocki",
         "date": "1673",
         "info": "wojewoda bracławski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "być może służył w pułku woj. bracławskiego Jana Potockiego"
     },
     {
         "name": "Mikołaj Hieronim Sieniawski",
         "date": "1673",
         "info": "chorąży koronny",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Uczestniczył w wyprawie korpusu chorążego kor. Mikołaja Hieronima Sieniawskiego do Mołdawii"
     },
     {
         "name": "Aleksander Hilary Połubiński",
         "date": "1674",
         "info": "marszałek wielki litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dedykował marszałkowi w. lit. Aleksandrowi Hilaremu Połubińskiemu poemat, służył w jego chorągwi pancernej"
     },
     {
         "name": "Andrzej H. Połubiński",
         "date": "1676",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Marcjan Bogusław Rymkiewicz Polski",
         "date": "1678",
         "info": "starosta oszmiański",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "mianował Ś-a podstarościm"
     },
     {
         "name": "Stanisław Antoni Szczuka",
         "date": "1687",
         "info": "regent kancelarii mniejszej koronnej",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "oferował regentowi kancelarii mniejszej kor. Stanisławowi Antoniemu Szczuce 100 fl."
     },
     {
         "name": "Rymkiewicz Polski",
         "date": "1688",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Michał Kazimierz Kociełło",
         "date": "1696",
         "info": "kasztelan witebski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leon Kazimierz Ogiński",
         "date": "1696",
         "info": "podstoli litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Krzysztof Despot Zenowicz",
         "date": "1696",
         "info": "marszałek oszmiański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Jan Sapieha",
         "date": "1694",
         "info": "wojewoda wileński i hetman wielki litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Radziejowski",
         "date": "1694",
         "info": "prymas",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konstanty Kazimierz Brzostowski",
         "date": "1694",
         "info": "biskup wileński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Kazimierz Kryszpin Kirszensztein",
         "date": "1695",
         "info": "marszałek sejmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wincenty Kazimierz Łamiński",
         "date": "1698",
         "info": "horodniczy oszmiański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Serwacy Wiśniowiecki",
         "date": "1701",
         "info": "pułkownik generalny litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "August II",
         "date": "1701",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "tylko: reprezentował w r. 1697 pow. oszmiański na sejmie koronacyjnym króla Augusta II"
     },
     {
         "name": "Sapiehowie",
         "date": "1701/2",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest konkretna osoba"
     },
     {
         "name": "Wiśniowiecki",
         "date": "1703",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "pełnił funkcję regenta kancelarii Wiśniowieckiego"
     },
     {
         "name": "August II",
         "date": "1704",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Jakub Henryk Flemming",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zaprotestował przeciw nominacji nieindygeny lit. Jakuba Henryka Flemminga"
     },
     {
         "name": "Kryszpin Kirszensztein",
         "date": "1705",
         "info": "wojewoda witebski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Po śmierci 15 IX woj. witebskiego Kryszpina Kirszenszteina był jednym z kandydatów na wakujący urząd senatorski"
     },
     {
         "name": "Jerzy Bauzendorff Kęsowski",
         "date": "1700",
         "info": "stolnikowic upicki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gedeon Michał Frąckiewicz Radzimiński",
         "date": "1695",
         "info": "chorąży nadworny litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Jerzy Kociełł",
         "date": "1682",
         "info": "wojski starodubowski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść bohatera"
     },
     {
         "name": "Aleksander Szwykowski",
         "date": "brak danych",
         "info": "chorąży nowogródzki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść bohatera"
     },
     {
         "name": "Katarzyna Giblówna",
         "date": "brak danych",
         "info": "mieszczka wileńska",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teściowa bohatera"
     },
     {
         "name": "Dawid Szwykowski",
         "date": "1698",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to szwagier"
     },
     {
         "name": "Stefan Antoni Wołodkowicz",
         "date": "1715",
         "info": "podsędek miński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Jerzy Antoni Rogala Iwanowski",
         "date": "1731",
         "info": "podstoli wiłkomierski, starosta wiślicki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     }
 ]

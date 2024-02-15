@@ -1,0 +1,296 @@
+[
+    {
+        "institution": "Gimnazjum",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Uniwersytet Noworosyjski",
+        "place_of_institution": "Odesa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Przegląd Społeczny",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Społeczeństwo",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Prawda",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Myśl Niepodległa",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Polski Związek Postępowy",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Związek Patriotów",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Polska Partia Socjalistyczna-Frakcja Rewolucyjna",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Klub Państwowców Polskich",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Stronnictwo Niezawisłości Narodowej",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Poselstwo RP przy Kwirynale",
+        "place_of_institution": "Włochy",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Robotnik",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Polska Akademia Literatury",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kurier Poranny",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Czerwona Pomoc w Polsce",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Związek Nauczycielstwa Polskiego",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Ilustrowany Kurier Codzienny",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Bezpartyjny Blok Współpracy z Rządem",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Prosto z mostu",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Akademia",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Ministerstwo Spraw Wewnętrznych",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Klub Demokratyczny",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Komitet Organizacyjny Klubu Demokratycznego",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Zarząd Klubu Demokratycznego",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Komisja Redakcyjna Stronnictwa Demokratycznego",
+        "place_of_institution": "Lwów",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Rada Naczelna Stronnictwa Demokratycznego",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Komisja Polityczna Stronnictwa Demokratycznego",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Wielka Loża Narodowa Polski",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Czarno na białem",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Dziennik Ludowy",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Almanach Literacki",
+        "place_of_institution": "Lwów",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Prawda Wileńska",
+        "place_of_institution": "Wilno",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Armia Czerwona",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Krajowa Rada Narodowa",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Polski Komitet Wyzwolenia Narodowego",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Resort Kultury i Sztuki",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Związek Zawodowy Literatów Polskich",
+        "place_of_institution": "Lublin",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Polska Partia Robotnicza",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Stronnictwo Polskiej Demokracji",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Krakowski Okręg Stronnictwa Demokratycznego",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Centralny Komitet Stronnictwa Demokratycznego",
+        "place_of_institution": "Warszawa",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Sejm Ustawodawczy",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Rząd Tymczasowy",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Ministerstwo Kultury i Sztuki",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Ministerstwo Spraw Zagranicznych",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Tymczasowy Rząd Jedności Narodowej",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Zgromadzenie Ogólne ONZ",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Epoka",
+        "place_of_institution": "brak danych",
+        "result": null,
+        "pj_note": ""
+    }
+]

@@ -164,91 +164,91 @@
         "name": "Grzegorz Paweł z Brzezin",
         "date": "1562-1563",
         "info": "zwolennik Jerzego Blandraty",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Był jednym z inicjatorów organizowanych w l. 1562–3 spotkań ze zwolennikami ... Grzegorza Pawła z Brzezin - to nie oznacza, że go spotkał "
     },
     {
         "name": "Jakub Górski",
         "date": "1563",
         "info": "katolicki teolog",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dedykował Myszkowskiemu pracę polemiczną - czy to wystarczy na związek z M.? - uznałem że tak"
     },
     {
         "name": "Hieronim Filipowski",
         "date": "brak danych",
         "info": "arianin",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "arianin, podejmował próby porozumienia z Myszkowskim"
     },
     {
         "name": "Piotr Zborowski",
         "date": "1568",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "H. Bullinger",
         "date": "1568",
         "info": "teolog",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szymon Teofil Turnowski",
         "date": "1570",
         "info": "przedstawiciel braci czeskich",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Beza",
         "date": "brak danych",
         "info": "teolog",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "ks. Albrecht",
         "date": "brak danych",
         "info": "patron polskiego luteranizmu",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w 1556 r. dwukrotnie posłował do ks. Albrechta"
     },
     {
         "name": "Stanisław Sarnicki",
         "date": "brak danych",
         "info": "kalwinista, sympatyk luteranizmu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt August",
         "date": "brak danych",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Z początkiem maja 1564 udało mu się wyjednać od Zygmunta Augusta..."
     },
     {
         "name": "Jan Mylius",
         "date": "1563-1568",
         "info": "poeta",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w wierszu Jana Myliusa, skierowanym do obu Myszkowskich..."
     },
     {
         "name": "Fryderyk III",
         "date": "1568, 1570",
         "info": "elektor Palatynatu",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "kontakty M-ego z elektorem Palatynatu Fryderykiem III..."
     },
     {
         "name": "Andrzej Dudycz",
         "date": "brak danych",
         "info": "agent cesarski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dość bliskie stosunki M-ego z cesarskim agentem Andrzejem Dudyczem..."
     }
 ]

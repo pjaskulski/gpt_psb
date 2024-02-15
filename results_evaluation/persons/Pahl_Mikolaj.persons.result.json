@@ -3,28 +3,28 @@
         "name": "Konstanty Ferber",
         "date": "brak danych",
         "info": "burmistrz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to ojczym - czy to krewny czy znacząca postać?"
     },
     {
         "name": "Jan Czirenberg",
         "date": "1637",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ferdynand II",
         "date": "1631",
         "info": "cesarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna von Thielen",
         "date": "1625",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to żona bohatera"
     }
 ]

@@ -3,252 +3,252 @@
         "name": "Edward Raczyński",
         "date": "1797",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater namalował portret tej osoby"
     },
     {
         "name": "Atanazy Raczyński",
         "date": "1797",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater namalował portret tej osoby"
     },
     {
         "name": "Pechwell",
         "date": "1800",
         "info": "inspektor galerii",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater namalował portret tej osoby"
     },
     {
         "name": "Claude Joseph Vernet",
         "date": "1803",
         "info": "malarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater namalował kopię obrazu Vernet-a"
     },
     {
         "name": "Antoni Lesznowski",
         "date": "1811",
         "info": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "bohater namalował portret tej osoby"
     },
     {
         "name": "Adelajda Lesznowska",
         "date": "1811",
         "info": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "bohater namalował portret tej osoby"
     },
     {
         "name": "Edward Raczyński",
         "date": "1809",
         "info": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "bohater namalował portret tej osoby"
     },
     {
         "name": "A. Blank",
         "date": "1833",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urządził już po śmierci bohatera"
     },
     {
         "name": "Albina Gładysz",
         "date": "1836",
         "info": "malarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to córka bohatera"
     },
     {
         "name": "A. Oleszczyński",
         "date": "brak danych",
         "info": "staloryt",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "L. Letronne",
         "date": "1822",
         "info": "litograf",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stanisław Staszic",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "wykonał kopię wizerunku Staszica"
     },
     {
         "name": "Ester Raczyńska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Marcin Szymanowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Konstancja Dmuszewska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Rozalia Osińska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Teofila Sołtykowa",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Feliks Łubieński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Franciszek Nakwaski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Jerzy Wilczewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Karol Woyda",
         "date": "1819",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Józef Elsner",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Kasztelan Tymowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Katarzyna Raczyńska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał portret"
     },
     {
         "name": "Oficer rosyjski",
         "date": "1813",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest konkretna osoba"
     },
     {
         "name": "Marceli Bacciarelli",
         "date": "1821",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "wykonał kopię autoportretu Baciarellego"
     },
     {
         "name": "Fryderyka Bacciarelli",
         "date": "1821",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "wykonał kopię z portretu innego malarza"
     },
     {
         "name": "Fryderyka Bacciarelli",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Józef Poniatowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "namalował obraz historyczny z Poniatowskim, brak inf. o bezpośrednim kontakcie"
     },
     {
         "name": "Napoleon",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "namalował obraz historyczny, brak inf. o bezpośrednim kontakcie"
     },
     {
         "name": "Kazimierz",
         "date": "brak danych",
         "info": "święty",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kunegunda",
         "date": "brak danych",
         "info": "święta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stanisław",
         "date": "brak danych",
         "info": "święty",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Cecylia",
         "date": "brak danych",
         "info": "święta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jadwiga",
         "date": "1824",
         "info": "święta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "P. Michałowski",
         "date": "1829",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

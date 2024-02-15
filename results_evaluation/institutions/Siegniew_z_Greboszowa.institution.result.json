@@ -1,0 +1,38 @@
+[
+    {
+        "institution": "Uniwersytet w Bolonii",
+        "place_of_institution": "Bolonii",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Dwór Kazimierza Wielkiego",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kolegiata św. Michała na zamku krakowskim",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kapituła św. Floriana w Krakowie",
+        "place_of_institution": "Kraków",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kuria papieska",
+        "place_of_institution": "Awinion",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "institution": "Kapituła wrocławska",
+        "place_of_institution": "Wrocław",
+        "result": null,
+        "pj_note": ""
+    }
+]

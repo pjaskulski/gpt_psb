@@ -3,28 +3,28 @@
         "name": "Swidger",
         "date": "brak danych",
         "info": "biskup kruszwicki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na biskupstwie kruszwickim"
     },
     {
         "name": "Werner-Wiernierz",
         "date": "brak danych",
         "info": "biskup włocławski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w tekście nie widać związku z bohaterem"
     },
     {
         "name": "Leszek Bolesławowic",
         "date": "1185",
         "info": "książę",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "za jego staraniem książę Leszek Bolesławowic w r. 1185 obdarzył hojnie kapitułę włocławską"
     },
     {
         "name": "Stefan",
         "date": "1178",
         "info": "biskup",
         "result": null,
-        "pj_note": ""
+        "pj_note": "następca"
     }
 ]

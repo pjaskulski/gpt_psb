@@ -3,245 +3,245 @@
         "name": "St. Worcel",
         "date": "kwiecień 1831",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Czacki",
         "date": "kwiecień 1831",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Narc. Olizar",
         "date": "kwiecień 1831",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Krępowiecki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Skrzynecki",
         "date": "brak danych",
         "info": "wódz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Ksawery Branicki",
         "date": "1849",
         "info": "finansista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Mickiewicz",
         "date": "1849",
         "info": "redaktor",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lelewel",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "K. Szajnocha",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Bielowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "W. Pol",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Lenartowicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludw. Osiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "gen. W. Krasiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Dmochowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mickiewicz",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Odyńc",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Damse",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dorabiał partytury do sztuk bohatera"
     },
     {
         "name": "Józef Stefani",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dorabiał partytury do sztuk bohatera"
     },
     {
         "name": "Karol Kurpiński",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dorabiał partytury do sztuk bohatera"
     },
     {
         "name": "Boïeldieu",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dorabiał partytury do sztuk bohatera"
     },
     {
         "name": "Delavigne",
         "date": "brak danych",
         "info": "autor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater tylko tłumaczył dzieła tej osoby"
     },
     {
         "name": "Ponsard",
         "date": "brak danych",
         "info": "autor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater tylko tłumaczył dzieła tej osoby"
     },
     {
         "name": "Kotzebue",
         "date": "brak danych",
         "info": "autor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater tylko tłumaczył dzieła tej osoby"
     },
     {
         "name": "Mayerbeer",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater dorabiał libretta do oper"
     },
     {
         "name": "Rossini",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohater dorabiał libretta do oper"
     },
     {
         "name": "Fr. Belcour",
         "date": "1866",
         "info": "oficer francuski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "ks. Józef Poniatowski",
         "date": "1863",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "E. Quinet",
         "date": "brak danych",
         "info": "historyk francuski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Zażyłe stosunki łączyły G-ego z historykami franc."
     },
     {
         "name": "J. Michelet",
         "date": "brak danych",
         "info": "historyk francuski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Zażyłe stosunki łączyły G-ego z historykami franc."
     },
     {
         "name": "Menzel",
         "date": "brak danych",
         "info": "autor historii powszechnej",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Heine",
         "date": "brak danych",
         "info": "autor literatury współczesnej",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Ludwik Plater",
         "date": "1848",
         "info": "hrabia",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Czartoryski",
         "date": "1854",
         "info": "książę",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1854 Czartoryski powołał G-ego do rady mającej na celu informować emigrację o aktualnych pociągnięciach Hotelu Lambert"
     },
     {
         "name": "W. Sowiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "wyraził opinię o bohaterze?"
     }
 ]

@@ -3,210 +3,210 @@
         "name": "Siemowit IV",
         "date": "1416",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Jagiełło",
         "date": "1416",
         "info": "król Polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Ćwiklina",
         "date": "1416",
         "info": "podkomorzy płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Abraham z Pliszczyna",
         "date": "brak danych",
         "info": "kasztelan gostyniński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na urzędzie kaszt. gostynińskiego"
     },
     {
         "name": "Michał Kuchmeister",
         "date": "1421",
         "info": "wielki mistrz zakonu krzyżackiego",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "...był wysłany jako poseł do Malborka..., co może oznaczać że spotkał mistrza, ale nie musi"
     },
     {
         "name": "Siemowit V",
         "date": "1422",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Goworek z Woli i Wałowic",
         "date": "1424",
         "info": "podskarbi książęcy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zofia Holszańska",
         "date": "1424",
         "info": "królowa Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w Krakowie uczestniczył w koronacji Zofii Holszańskiej, przebywając w otoczeniu królewskim"
     },
     {
         "name": "Jakub z Kurdwanowa",
         "date": "1424",
         "info": "biskup płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Sieciech z Oraczewic",
         "date": "1424",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksandra",
         "date": "1426",
         "info": "księżna-wdowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Światłydzień z Gośliny",
         "date": "1428",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca bohatera na urzędzie starosty"
     },
     {
         "name": "Sasin Gęba z Trębek",
         "date": "1432",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik bohatera na urzędzie kaszt. płockiego"
     },
     {
         "name": "Adam z Życka",
         "date": "1432",
         "info": "kasztelan gostyniński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca bohatera na kaszt. gostynińskiej"
     },
     {
         "name": "Władysław I",
         "date": "1435",
         "info": "książę mazowiecki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Pawłowski",
         "date": "1438",
         "info": "biskup płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław IV",
         "date": "1438",
         "info": "książę czerski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Giżycki",
         "date": "1446",
         "info": "biskup płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Bniński",
         "date": "1446",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Krystyn z Roszków",
         "date": "1438",
         "info": "łowczy gostyniński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan",
         "date": "1446",
         "info": "mieszczanin płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Siemowit VI",
         "date": "brak danych",
         "info": "książę",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "spłacał pożyczki które S. udzielił księciu Władysławowi I"
     },
     {
         "name": "Jan Kwaczała z Nieborowa",
         "date": "1457",
         "info": "wojewoda rawski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "następca S. na urzędzie wojewody rawskiego"
     },
     {
         "name": "Maciej",
         "date": "1427",
         "info": "duchowny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to syn bohatera"
     },
     {
         "name": "Stanisław Pawłowski",
         "date": "1427",
         "info": "biskup płocki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Szymon Gostyński z Ciechomic",
         "date": "1437",
         "info": "rycerz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to syn bohatera"
     },
     {
         "name": "Ścibor z Sąchocina",
         "date": "1437",
         "info": "marszałek księcia mazowieckiego Janusza I",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść bohatera"
     },
     {
         "name": "Marcin V",
         "date": "1428",
         "info": "papież",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan z Koziebród",
         "date": "1452",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wystąpił ... jako świadek dokumentu ks. Władysława I dla Jana z Koziebród"
     },
     {
         "name": "Niemierza z Nieborowa",
         "date": "1461",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

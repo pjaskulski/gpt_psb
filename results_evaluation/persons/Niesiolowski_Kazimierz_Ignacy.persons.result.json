@@ -3,70 +3,70 @@
         "name": "Fryderyk August",
         "date": "1697",
         "info": "elektor saski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "oddał głos na Fryderyka Augusta, elektora saskiego"
     },
     {
         "name": "Adam Sieniawski",
         "date": "brak danych",
         "info": "chorąży",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "udał się z chorągwią Adama Sieniawskiego na Podole"
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "popierał Piasta"
     },
     {
         "name": "Antoni Poniński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przyłączył się do tzw. konfederacji Antoniego Ponińskiego"
     },
     {
         "name": "August III",
         "date": "1734",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1734 August ofiarował mu woj. mścisławskie"
     },
     {
         "name": "A. H. de Fleury",
         "date": "brak danych",
         "info": "kardynał",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "nie skąpił cierpkich uwag kardynałowi A. H. de Fleury"
     },
     {
         "name": "Michał Radziwiłł",
         "date": "1737",
         "info": "hetman polny litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w mowach do Birona i do carowej występował w imieniu hetmana polnego lit. Michała Radziwiłła"
     },
     {
         "name": "Fryderyk Chrystian",
         "date": "ok. 1736",
         "info": "królewicz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "został pułkownikiem husarskim znaku królewicza Fryderyka Chrystiana"
     },
     {
         "name": "L. A. Duperon de Castera",
         "date": "1750",
         "info": "agent francuski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "agent francuski, wymienia N-ego w r. 1750 wśród senatorów przyjaznych Potockim"
     },
     {
         "name": "Jan Woyno",
         "date": "brak danych",
         "info": "podczaszy nowogrodzki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to poprzedni mąż żony bohatera biogramu"
     }
 ]
