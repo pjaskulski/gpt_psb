@@ -3,161 +3,161 @@
         "name": "Jan III Sobieski",
         "date": "1694",
         "info": "król Polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Radziejowski",
         "date": "1696",
         "info": "prymas",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Stanisław Radziwiłł",
         "date": "1695",
         "info": "podkanclerzy litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "czy to nie krewny?"
     },
     {
         "name": "Zygmunt Billewicz",
         "date": "1699",
         "info": "ciwun wieszwiański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Wołk Łaniewski",
         "date": "1699",
         "info": "dzierżawca kowieński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik XIV",
         "date": "1700",
         "info": "król Francji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub Dunin",
         "date": "1700",
         "info": "regent kancelarii koronnej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Mierzejewski",
         "date": "1701",
         "info": "porucznik chorągwi pancernej",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater został obrany przez szlachtę nowogródzką rotmistrzem powiatowej chorągwi pancernej"
     },
     {
         "name": "Fryderyk I",
         "date": "1701",
         "info": "król Prus",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ślub odbył się 18 IX 1704 w Berlinie, w obecności króla Fryderyka I"
     },
     {
         "name": "Papież Klemens XI",
         "date": "1701",
         "info": "papież",
         "result": null,
-        "pj_note": ""
+        "pj_note": "R. otrzymał m. in. list gratulacyjny od papieża Klemensa XI"
     },
     {
         "name": "Filip V",
         "date": "1701",
         "info": "król Hiszpanii",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "R. był także w Madrycie na dworze Filipa V"
     },
     {
         "name": "Fryderyk I",
         "date": "1704",
         "info": "król Prus",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Stanisław Leszczyński",
         "date": "1708",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zdecydował się na spotkanie ze Stanisławem Leszczyńskim"
     },
     {
         "name": "August II",
         "date": "1706",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "R. wysłał gratulacje dla Augusta II"
     },
     {
         "name": "Piotr I",
         "date": "1707",
         "info": "car Rosji",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w zasadzie brak bezpośredniego związku: przybył R. do Warszawy chcąc się spotkać z Piotrem I, ale ponieważ car już był wyjechał, konferował z ministrami rosyjskimi."
     },
     {
         "name": "Michał Wiśniowiecki",
         "date": "1707",
         "info": "szlachcic, więzień cara Piotra I",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "domagał się od cara Piotra I uwolnienia Michała Wiśniowieckiego."
     },
     {
         "name": "N. Spinola",
         "date": "1710",
         "info": "nuncjusz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "związek dosyć pośredni: wyznaczony został na jednego z deputatów do rozpatrzenia przedłożonych przez nuncjusza N. Spinolę postulatów dotyczących stosunków z Rzymem"
     },
     {
         "name": "Ludwik Pociej",
         "date": "1719",
         "info": "hetman wielki litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pośrednio: przegrał w Trybunale sprawę z Piekarskim, protegowanym hetmana Ludwika Pocieja, który przy pomocy hetmana zajechał dobra R-a"
     },
     {
         "name": "Marianna z Dowmont Siesickich",
         "date": "1721",
         "info": "wdowa po bracie",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to powinowata"
     },
     {
         "name": "Krzysztof Zawisza",
         "date": "brak danych",
         "info": "szlachcic",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Bezskutecznie ubiegał się o wakujące ... star. brasławskie po Krzysztofie Zawiszy"
     },
     {
         "name": "Derengowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zanegowała ojcostwo R-a względem ich dzieci, które rzekomo miała mieć z niejakim Derengowskim"
     },
     {
         "name": "Henryka Dorota z Przebendowskich",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to żona postaci"
     },
     {
         "name": "Franciszek Bieliński",
         "date": "1730",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to kolejny mąż żony bohatera"
     }
 ]
