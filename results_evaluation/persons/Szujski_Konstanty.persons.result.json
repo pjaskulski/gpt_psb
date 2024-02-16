@@ -3,140 +3,140 @@
         "name": "Stefan Rusiecki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to szwagier"
     },
     {
         "name": "Stanisław Cieciszowski",
         "date": "brak danych",
         "info": "kasztelan liwski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ojczym"
     },
     {
         "name": "Michał Kazimierz Radziwiłł",
         "date": "brak danych",
         "info": "wojewoda wileński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Kotowicz",
         "date": "brak danych",
         "info": "pisarz wielki litewski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Piotr Doroszenko",
         "date": "brak danych",
         "info": "Kozak",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wybrany został do komisji do rokowań o ugodę z Kozakami Piotra Doroszenki"
     },
     {
         "name": "Michał Chanenka",
         "date": "brak danych",
         "info": "hetman kozacki",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jerzy Grabiński",
         "date": "brak danych",
         "info": "podkomorzy wendeński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Korybut Wiśniowiecki",
         "date": "1669",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Dawid Żębocki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Benedykt Paweł Sapieha",
         "date": "brak danych",
         "info": "podskarbi litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Hoderman",
         "date": "18 VI 1676",
         "info": "nadzorca mennicy bydgoskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Eliasz Michał Rymwid",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Józef Bogusław Słuszka",
         "date": "brak danych",
         "info": "kasztelan wileński i hetman polny litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan III Sobieski",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wojciech Szujski",
         "date": "1674",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "krewny?"
     },
     {
         "name": "Stefan Szujski",
         "date": "1678",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "krewny?"
     },
     {
         "name": "Kazimierz Jan Sapieha",
         "date": "1676",
         "info": "wojewoda połocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Fryderyk Sapieha",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść postaci"
     },
     {
-        "name": "Jan Karol Kopci",
+        "name": "Jan Karol Kopeć",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść postaci"
     },
     {
         "name": "Karol Stanisław Łużecki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku z postacią: to poprzedni mąż czwartej żony bohatera biogramu"
     }
 ]

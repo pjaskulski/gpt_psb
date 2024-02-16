@@ -3,140 +3,161 @@
         "name": "Stanisław Kossakowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Władimir Rimski-Korsakow",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Aleksander Domeyko",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Łobojko",
         "date": "brak danych",
         "info": "profesor Uniw. Wil.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Sławiński",
         "date": "brak danych",
         "info": "profesor Uniw. Wil.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Mickiewicz",
         "date": "brak danych",
         "info": "poeta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Franciszek Malewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Chodźko",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antoni Edward Odyniec",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Juliusz Słowacki",
         "date": "1826-1827",
         "info": "poeta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michaił Woroncow",
         "date": "1833",
         "info": "gubernator Odessy",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Elżbieta Woroncow z Branickich",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Benedykt Niepokojczycki",
         "date": "brak danych",
         "info": "kpt. wojsk rosyjskich",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Gorbanow",
         "date": "1841",
         "info": "zaprzyjaźniony tłumacz z Dep. Górniczego w Petersburgu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. P. Butieniew",
         "date": "1842",
         "info": "rosyjski poseł w Stambule",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Czajkowski",
         "date": "1842",
         "info": "agent polityczny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż bohaterki"
     },
     {
         "name": "Namik Kemal Zia Pasza",
         "date": "1863",
         "info": "teoretyk przebudowy państwa otomańskiego w duchu liberalnym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Franciszek Sokulski",
         "date": "1863",
         "info": "agent Rządu Narodowego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Jordan",
         "date": "1863",
         "info": "agent Rządu Narodowego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt Miłkowski",
         "date": "1863",
         "info": "płk.",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Władysław Mickiewicz",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Juliusz Kleiner",
         "date": "brak danych",
         "info": "badacz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Czesław Miłosz",
         "date": "1997",
         "info": "poeta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
