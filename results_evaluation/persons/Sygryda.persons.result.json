@@ -3,161 +3,161 @@
         "name": "Thietmar z Merseburga",
         "date": "brak danych",
         "info": "kronikarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Adam Bremeński",
         "date": "2. poł. XI w.",
         "info": "kronikarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Swen Estridsson",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Eryk (VIII) Zwycięski (Segersäll)",
         "date": "między 980 a 985",
         "info": "król Szwecji i Danii",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż postaci"
     },
     {
         "name": "Swen Widłobrody",
         "date": "995 lub 996",
         "info": "król Danii",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż postaci"
     },
     {
         "name": "Saxo Gramatyk",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Oswald Balzer",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "I. Steenstrup",
         "date": "brak danych",
         "info": "badacz duński",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Olaf Tryggvason",
         "date": "997/8",
         "info": "król norweski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Snorri Sturlason",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Harald II",
         "date": "brak danych",
         "info": "król Danii i Anglii",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kanut Wielki",
         "date": "brak danych",
         "info": "król Anglii, Danii i Norwegii",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Swen Estrydsen",
         "date": "brak danych",
         "info": "król Danii",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Selma Lagerlöf",
         "date": "brak danych",
         "info": "pisarka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Carl Grimberg",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Frans G. Bengtsson",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Verner von Heidenstam",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jöran Mjöberg",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Józef Ignacy Kraszewski",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Antoni Gołubiew",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Karol Bunsch",
         "date": "brak danych",
         "info": "pisarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jadwiga Żylińska",
         "date": "brak danych",
         "info": "pisarka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Maria Rawska-Mrożkiewicz",
         "date": "brak danych",
         "info": "pisarka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
