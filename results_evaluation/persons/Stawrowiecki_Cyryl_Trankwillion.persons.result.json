@@ -3,133 +3,133 @@
         "name": "Koreccy",
         "date": "1583",
         "info": "rodzina opiekunów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest konkretna osoba"
     },
     {
         "name": "Jan Kniaginicki",
         "date": "brak danych",
         "info": "ihumen",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna z Chodkiewiczów Korecka",
         "date": "1615",
         "info": "osoba, której poświęcono list dedykacyjny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Samuel Korecki",
         "date": "1615",
         "info": "uczestnik 'awantur mołdawskich'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Wiśniowiecki",
         "date": "1615",
         "info": "uczestnik 'awantur mołdawskich'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Mohiła",
         "date": "1615",
         "info": "osoba osadzona na tronie hospodarskim w Jassach",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jeremi Wiśniowiecki",
         "date": "brak danych",
         "info": "osoba, do której skierowano dedykację",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Puzyna",
         "date": "1618",
-        "info": "szlachcic ruskich, do którego skierowano wiersze na herby i dedykacje",
-        "result": null,
+        "info": "szlachcic ruski, do którego skierowano wiersze na herby i dedykacje",
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Iwan Jarmoliński",
         "date": "1618",
-        "info": "szlachcic ruskich, do którego skierowano wiersze na herby i dedykacje",
-        "result": null,
+        "info": "szlachcic ruski, do którego skierowano wiersze na herby i dedykacje",
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Laurent Drewiński",
         "date": "1618",
-        "info": "szlachcic ruskich, do którego skierowano wiersze na herby i dedykacje",
-        "result": null,
+        "info": "szlachcic ruski, do którego skierowano wiersze na herby i dedykacje",
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jeremiasz Tyssarowski",
         "date": "1614",
         "info": "prawosławny biskup lwowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef",
         "date": "1616",
         "info": "metropolita Monembazji (Grecja)",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Borecki",
         "date": "brak danych",
         "info": "metropolita kijowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Romanow",
         "date": "1627",
         "info": "car",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "związek dość pośredni: car kazał spalić książki bohatera"
     },
     {
         "name": "Filaret",
         "date": "1627",
         "info": "patriarcha moskiewski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "związek dość pośredni: patriarcha kazał spalić książki bohatera"
     },
     {
         "name": "Jeremi Wiśniowiecki",
         "date": "1646",
         "info": "osoba, do której skierowano dedykację",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Samuel Karol Korecki",
         "date": "1646",
         "info": "osoba, do której skierowano dedykację",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tymofij Aleksandrowicz Werbycki",
         "date": "brak danych",
         "info": "osoba, która wydrukowała książki S-ego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kasjan Sakowicz",
         "date": "brak danych",
         "info": "konwertyta z prawosławia, augustianin",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale false: przypisuje (niesłusznie) S-emu również utwory w języku polskim: skierowaną przeciw konwertycie z prawosławia, augustianinowi Kasjanowi Sakowiczowi pracę polemiczną"
     }
 ]

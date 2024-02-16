@@ -3,161 +3,168 @@
         "name": "Władysław",
         "date": "1440",
         "info": "książę cieszyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Przemek",
         "date": "1440",
         "info": "książę cieszyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub z Blohotic",
         "date": "1442",
         "info": "młynarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wacław",
         "date": "1442",
         "info": "książę cieszyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Włodek",
         "date": "1442",
         "info": "książę cieszyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolko",
         "date": "1442",
         "info": "książę cieszyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Przemysł",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Zbigniew Oleśnicki",
         "date": "brak danych",
         "info": "biskup krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "S. świadkował na dokumentach sprzedaży Siewierza bpowi krakowskiemu Zbigniewowi Oleśnickiemu"
     },
     {
         "name": "Eufemia",
         "date": "1447",
         "info": "księżna",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pośrednio: był w gronie ziemian, którzy zatwierdzili podział majątków pozostałych po księżnej Eufemii"
     },
     {
         "name": "Jan Czapka",
         "date": "1447",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wchodził w skład sądu polubownego w sprawie pretensji Jana Czapka wobec króla Kazimierza Jagiellończyka"
     },
     {
         "name": "Kazimierz Jagiellończyk",
         "date": "1447",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wchodził w skład sądu polubownego w sprawie pretensji Jana Czapka wobec króla Kazimierza Jagiellończyka ... Kazimierz Jagiellończyk nadał mu ... w tenute ziemię oświęcimską"
     },
     {
         "name": "Bolesław",
         "date": "1449",
         "info": "książę cieszyński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wraz z ks. cieszyńskim Bolesławem rozsądził spór"
     },
     {
         "name": "Mikołaj z Vladenina",
         "date": "1449",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "rozsądził spór w kwestii finansowej między królem a Mikołajem z Vladenina"
     },
     {
         "name": "Przemek",
         "date": "1452",
         "info": "książę toszecki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przy jego pośrednictwie zawarto rozejm między ks. toszeckim Przemkiem i ks. oświęcimskim Janem, a podkomorzym krakowskim Piotrem Szafrańcem"
     },
     {
         "name": "Jan",
         "date": "1452",
         "info": "książę oświęcimski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przy jego pośrednictwie zawarto rozejm między ks. toszeckim Przemkiem i ks. oświęcimskim Janem, a podkomorzym krakowskim Piotrem Szafrańcem"
     },
     {
         "name": "Piotr Szafrańiec",
         "date": "1452",
         "info": "podkomorzy krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przy jego pośrednictwie zawarto rozejm między ks. toszeckim Przemkiem i ks. oświęcimskim Janem, a podkomorzym krakowskim Piotrem Szafrańcem"
     },
     {
         "name": "Jan Synowiec",
         "date": "1457",
         "info": "dworzanin królewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dzierżawę ziemi oświęcimskiej z rąk S-a wykupił dworzanin królewski Jan Synowiec"
     },
     {
         "name": "Jan z Czyżowa",
         "date": "1456",
         "info": "starosta krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "monarcha zaciągnął u S-a i jego synów nowe zobowiązania finansowe na kwotę 600 fi., co poręczyli star. krakowski Jan z Czyżowa"
     },
     {
         "name": "Jakub Dembiński",
         "date": "1468",
         "info": "kasztelan krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "posłował ... w towarzystwie kaszt. krakowskiego Jakuba Dembińskiego "
     },
     {
         "name": "Stanisław Ostroróg",
         "date": "1468",
         "info": "wojewoda kaliski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "posłował ... w towarzystwie woj. kaliskiego Stanisława Ostroroga "
     },
     {
         "name": "Stanisław Wątróbka",
         "date": "1469",
         "info": "kasztelan sądecki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wraz z kaszt. sądeckim Stanisławem Wątróbką ... odbył misję do Czech"
     },
     {
         "name": "Jerzy z Podiebradu",
         "date": "1469",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Szaszowski",
         "date": "1468",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "król ... zezwolił mu oraz Janowi Szaszowskiemu na wykupienie z rąk J. Dembińskiego wsi Osiek i Brzeszcze"
     },
     {
         "name": "Mikołaj Myszkowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "[wsi Lipnik] ... zrzekł się S. już w r.n. na rzecz Mikołaja Myszkowskiego"
     }
 ]
