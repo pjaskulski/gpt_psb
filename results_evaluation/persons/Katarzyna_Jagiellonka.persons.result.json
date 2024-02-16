@@ -3,189 +3,196 @@
         "name": "Zygmunt I",
         "date": "brak danych",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ojciec postaci"
     },
     {
         "name": "Bona Sforza",
         "date": "brak danych",
         "info": "królowa",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to matka postaci"
     },
     {
         "name": "Zofia Jagiellonka",
         "date": "brak danych",
         "info": "księżna brunszwicka",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to siostra postaci"
     },
     {
         "name": "Anna Jagiellonka",
         "date": "brak danych",
         "info": "królowa Polski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to siostra postaci"
     },
     {
         "name": "Barbara Radziwiłłówna",
         "date": "brak danych",
         "info": "królowa Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w związku z małżeństwem Zygmunta Augusta z Barbarą Radziwiłłówną, Katarzyna opuściła razem z matką i siostrami Kraków"
     },
     {
         "name": "Zygmunt August",
         "date": "brak danych",
         "info": "król",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to brat postaci"
     },
     {
         "name": "Gustaw I Waza",
         "date": "brak danych",
         "info": "król Szwecji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Albrecht Hohenzollern",
         "date": "brak danych",
         "info": "książę Prus",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ferdynand Habsburg",
         "date": "brak danych",
         "info": "arcyksiążę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Iwan Groźny",
         "date": "1560",
         "info": "car Rosji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Sukin",
         "date": "1560",
         "info": "poseł cara Rosji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan III Waza",
         "date": "1561",
         "info": "król Szwecji",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż postaci"
     },
     {
         "name": "Eryk XIV Waza",
         "date": "brak danych",
         "info": "król Szwecji",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to szwagier postaci"
     },
     {
         "name": "Dośka",
         "date": "brak danych",
         "info": "karliczka na dworze Katarzyny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Baśka",
         "date": "brak danych",
         "info": "karliczka na dworze Katarzyny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jöran Persson",
         "date": "brak danych",
         "info": "prokurator i prawa ręka króla Eryka XIV",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt III Waza",
         "date": "1566",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to syn postaci"
     },
     {
         "name": "Stefan Batory",
         "date": "brak danych",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "mąż siostry postaci"
     },
     {
         "name": "D. Alaman",
         "date": "brak danych",
         "info": "poseł polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "K. Warszewicki",
         "date": "brak danych",
         "info": "poseł polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antoni Possevino",
         "date": "brak danych",
         "info": "poseł papieski",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Stanisław Warszewicki",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "S. Hozjusz",
         "date": "brak danych",
         "info": "kardynał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Kromer",
         "date": "brak danych",
         "info": "arcybiskup gnieźnieński i prymas Polski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale infromacja o osobie jest całkowicie błędna"
     },
     {
         "name": "A. Hahr",
         "date": "brak danych",
         "info": "historyk sztuki",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Szarffenberg",
         "date": "1570",
         "info": "wydawca",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie miał osobistego związku z postacią, wydał książkę o postaci"
     },
     {
         "name": "M. Kromer",
         "date": "1570",
         "info": "autor 'Historii prawdziwej o przygodzie żałosnej książęcia Finlandzkiego Jana i królewny Katarzyny'",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Willem Boy",
         "date": "brak danych",
         "info": "nadworny rzeźbiarz króla",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wykonał pomnik nagrobny postaci"
     }
 ]
