@@ -3,175 +3,196 @@
         "name": "Szymon Maricjusz (Marycjusz) z Pilzna",
         "date": "1538/9",
         "info": "nauczyciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Lubodzieski",
         "date": "brak danych",
         "info": "kanclerz bp. chełmiński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Stanisław Hozjusz",
         "date": "brak danych",
         "info": "bp. warmiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Kromer",
         "date": "1551",
         "info": "pośrednik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Ocieski",
         "date": "1552",
         "info": "podkanclerzy kor.",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Rafał Mstowski",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Jan z Trzciany",
         "date": "1554",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Sylwester Roguski",
         "date": "1556",
         "info": "lekarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Kochanowski",
         "date": "brak danych",
         "info": "poeta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Patrycy Nidecki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Warszewicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "A. Barzy",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "name": "Marian Leżeński",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Jan Wysocki",
         "date": "1558",
         "info": "opat lądzki i internuncjusz królewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maciej Drzewiecki",
         "date": "1558",
         "info": "kanonik krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Zaborowski",
         "date": "1558",
         "info": "proboszcz sandomierski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Tomża",
         "date": "1564",
         "info": "obalony hospodar mołdawski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Iwan Moczuga",
         "date": "1564",
         "info": "urzędnik Stefana Tomży",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Petra Spanczuka",
         "date": "1564",
         "info": "urzędnik Stefana Tomży",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Zaleski",
         "date": "1566",
         "info": "rajca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "G. F. Commendoni",
         "date": "1564",
         "info": "nuncjusz papieski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Skarga",
         "date": "1566",
         "info": "kanonik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech",
         "date": "1567",
-        "info": "rajca, bakałarz",
-        "result": null,
+        "info": "rajca [lwowski], bakałarz",
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Batory",
         "date": "1577",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Batory",
         "date": "brak danych",
         "info": "władca",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Paweł Szczerbic",
         "date": "brak danych",
         "info": "autor 'Speculum Saxonum…'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Roizjusz",
         "date": "1557",
         "info": "autor 'Chiliastichon'",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku, pisał o postaci"
     },
     {
         "name": "Jan Cynerski Rachtamowicz",
         "date": "1637",
         "info": "autor 'Professor academicus...'",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku, pisał o postaci"
     }
 ]
