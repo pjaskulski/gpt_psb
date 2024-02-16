@@ -3,196 +3,217 @@
         "name": "Mikołaj Koźla",
         "date": "1542",
         "info": "późniejszy rajca krakowski i dzierżawca ceł na Rusi",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Dziszy",
         "date": "1542",
         "info": "kupiec z Chęcin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Tęczyński",
         "date": "1557",
         "info": "wojewoda krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej",
         "date": "1553",
         "info": "pisarz miejski w Kamieńcu Podolskim",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub",
         "date": "1556",
         "info": "bakałarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Jakob",
         "date": "1560",
         "info": "Ormianin, partner handlowy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dawid Lazarowicz",
         "date": "1560",
         "info": "Ormianin, partner handlowy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ilko Karpowicz",
         "date": "1554",
         "info": "ruski kupiec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lenart Kuncz",
         "date": "brak danych",
         "info": "rzeźnik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wincenty Hempl",
         "date": "brak danych",
         "info": "właściciel domu i jatki rzeźniczej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Bonar",
         "date": "1561",
         "info": "dłużnik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dorota Bonar",
         "date": "1561",
         "info": "dłużnik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Wilczkowicz",
         "date": "1561",
         "info": "dłużnik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin",
         "date": "1563",
         "info": "serwitor krakowskiej rodziny Schillingów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna",
         "date": "1563",
         "info": "serwitor krakowskiej rodziny Schillingów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Karwie",
         "date": "brak danych",
         "info": "zmarły dłużnik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Kossus",
         "date": "1551",
         "info": "kanonik poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk Szmalc",
         "date": "1561",
         "info": "ławnik Sądu Wyższego Prawa Magdeburskiego na Zamku krakowskim",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Spigler",
         "date": "1561",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub Gastgieb",
         "date": "1561",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Paczek",
         "date": "1561",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jadwiga Paczkowa",
         "date": "1561",
         "info": "wdowa po Janie Paczku",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Spytek Wawrzyńcowi Jordan",
         "date": "1561",
         "info": "wojewoda krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Erazem Aichler",
         "date": "1564",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Albert Hohenzollern",
         "date": "1568",
         "info": "margrabia brandenburski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "miał uzyskać od Zygmunta Augusta indygenat z rekomendacji margrabiów brandenburskich, Alberta i Fryderyka Hohenzollernów"
     },
     {
         "name": "Fryderyk Hohenzollern",
         "date": "1568",
         "info": "margrabia brandenburski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "miał uzyskać od Zygmunta Augusta indygenat z rekomendacji margrabiów brandenburskich, Alberta i Fryderyka Hohenzollernów"
     },
     {
         "name": "Walerian Pernus",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub Hallenberger",
         "date": "1568",
         "info": "faktor Bartłomieja Szembeka",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Katarzyna Kuczerówna",
+        "date": "1561",
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "name": "Wolfang Klein",
+        "date": "1561",
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "name": "Zygmunt August",
+        "date": "1568",
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
