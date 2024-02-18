@@ -1,5 +1,7 @@
 [
- {"result": true,
+ {
+  "name": "brak danych",
+  "result": true,
   "pj_note": "brak znaczących osób, występują krewni"
  }
 ]
