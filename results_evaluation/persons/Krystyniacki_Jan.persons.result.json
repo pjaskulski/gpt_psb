@@ -3,35 +3,35 @@
         "name": "Mathiae Sarbievii",
         "date": "1876",
         "info": "autor manuskryptu",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "M. Tulliusz Cicero",
         "date": "1883",
         "info": "autor tekstu tłumaczonego przez Jana Kochanowskiego",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Kochanowski",
         "date": "1883",
         "info": "tłumacz tekstu M. Tulliusza Cicerona",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Maciej Kazimierz Sarbiewski",
         "date": "1886",
         "info": "autor pieśni",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "św. Jan Chryzostom",
         "date": "1886",
         "info": "autor tekstu tłumaczonego na język polski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

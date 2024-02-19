@@ -3,42 +3,49 @@
         "name": "Jakub von Salza",
         "date": "1539",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Joachima von Salza",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Jerzy II",
         "date": "1543",
         "info": "książę legnicko-brzeski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antoni di Teodoro",
         "date": "1547",
         "info": "architekt",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Baptysta Quadro",
         "date": "1569",
         "info": "architekt",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bernard Niuron",
         "date": "1570",
         "info": "architekt",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "aczkolwiek z dalszej części tekstu wynika że to szwagier bohatera (?)"
     },
     {
         "name": "K. Bimler",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

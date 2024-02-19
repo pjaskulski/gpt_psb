@@ -3,28 +3,35 @@
         "name": "K. Kaczkowski",
         "date": "brak danych",
         "info": "współpracownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Feliks Czacki",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "K. Sienkiewicz",
         "date": "brak danych",
         "info": "współpracownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Słowikowski",
         "date": "brak danych",
         "info": "współpracownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "E. Iwanowski",
         "date": "1895",
         "info": "osoba, która sporządziła kopię dzieła",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {

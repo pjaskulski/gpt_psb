@@ -3,42 +3,49 @@
         "name": "A. Sedlag",
         "date": "1836",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. Waldeck",
         "date": "1848",
         "info": "poseł",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Klingenberg",
         "date": "1848",
         "info": "ksiądz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Pomieczyński",
         "date": "1848",
         "info": "ksiądz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol Richter",
         "date": "1848",
         "info": "ksiądz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maciej Mielżyński",
         "date": "1849",
         "info": "brak danych",
-        "result": null,
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "name": "Michał Pokrzywnicki",
+        "date": null,
+        "info": null,
+        "result": false,
         "pj_note": ""
     }
 ]
