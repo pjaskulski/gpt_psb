@@ -3,14 +3,14 @@
         "name": "Bolesław Pobożny",
         "date": "brak danych",
         "info": "książę wielkopolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Przemysł II",
         "date": "brak danych",
         "info": "król Polski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "po odejściu M-a z kancelarii nazwa ta zanikła, pojawiła się na powrót sporadycznie w tytulaturze Przemysła II"
     }
 ]

@@ -3,14 +3,14 @@
         "name": "Piotr Korejwa",
         "date": "brak danych",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ebiełow",
         "date": "brak danych",
         "info": "generał gubernator",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

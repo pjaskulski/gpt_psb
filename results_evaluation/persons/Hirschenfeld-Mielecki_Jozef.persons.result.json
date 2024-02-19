@@ -3,21 +3,21 @@
         "name": "T. Berg",
         "date": "1863",
         "info": "namiestnik",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "związek jest dość pośredni: po wrześniowym zamachu na namiestnika T. Berga, dokonanym z okna tegoż gimnazjum, H. wraz z dwoma kolegami uciekł w szeregi powstańcze"
     },
     {
         "name": "Rogoziński",
         "date": "1882",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Łucja-Małgorzata",
         "date": "brak danych",
         "info": "nazwa statku",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest osoba"
     }
 ]

@@ -3,14 +3,14 @@
         "name": "gen. J. Bem",
         "date": "1944",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "objął stanowisko dowódcy plutonu w I Warszawskiej Brygadzie Artylerii im. gen. J. Bema"
     },
     {
         "name": "gen. broni K. Świerczewski",
         "date": "1950-1951",
         "info": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "studiował w Akademii Sztabu Generalnego im. gen. broni K. Świerczewskiego"
     }
 ]

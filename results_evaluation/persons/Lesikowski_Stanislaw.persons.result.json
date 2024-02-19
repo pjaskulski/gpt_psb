@@ -3,14 +3,14 @@
         "name": "Jan Szalewski",
         "date": "brak danych",
         "info": "kapitan, lider grupy 'Szyszek'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adolf Hitler",
         "date": "1942",
         "info": "dyktator Niemiec, cel nieudanego zamachu",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przygotowywał zamach na linii kolejowej Chojnice–Tczew na pociąg, w którym miał przejeżdżać Hitler z Berlina do Prus Wschodnich"
     }
 ]

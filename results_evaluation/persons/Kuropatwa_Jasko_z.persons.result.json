@@ -3,14 +3,14 @@
         "name": "Jadat",
         "date": "1413",
         "info": "bojar litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Elżbieta z Widuchowej",
         "date": "1421",
         "info": "wdowa po Jaśku Kuropatwie",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to żona bohatera"
     }
 ]

@@ -3,21 +3,21 @@
         "name": "Melchior Lotter",
         "date": "1526",
         "info": "właściciel firmy drukarskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michael Lotter",
         "date": "1526",
         "info": "właściciel firmy drukarskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Latalski",
         "date": "1533",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
