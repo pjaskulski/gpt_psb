@@ -2,7 +2,7 @@
     {
         "name": "major de Woyten",
         "date": "1776",
-        "info": "major",
+        "info": "true",
         "result": null,
         "pj_note": ""
     },
@@ -10,7 +10,7 @@
         "name": "Roman",
         "date": "1819",
         "info": "inżynier, kierownik robót",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "być może korzystał z map opracowanych przez L."
     }
 ]
