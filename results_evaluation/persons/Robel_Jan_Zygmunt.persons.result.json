@@ -3,14 +3,14 @@
         "name": "Leon Marchlewski",
         "date": "brak danych",
         "info": "kierownik Zakładu Chemii Lekarskiej UJ, bliski współpracownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Olbrycht",
         "date": "1940",
         "info": "osoba, która zaproponowała Robelowi objęcie funkcji kierownika Oddziału Chemicznego Instytutu Medycyny Sądowej i Kryminalistyki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

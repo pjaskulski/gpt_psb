@@ -3,21 +3,28 @@
         "name": "Andrzej III",
         "date": "1290",
         "info": "król Węgier",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż bohaterki"
     },
     {
         "name": "Teodor",
         "date": "1290",
         "info": "podkanclerzy, proboszcz z Fehervar",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "prowadził negocjacje w sprawie ślubu bohaterki"
     },
     {
         "name": "Wacław III",
         "date": "1298",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to narzeczony córki bohaterki"
+    },
+    {
+        "name": "Jerzy Baksa",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

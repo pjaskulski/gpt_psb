@@ -3,21 +3,21 @@
         "name": "Jan Miga",
         "date": "1914",
         "info": "dziennikarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Anatol Stern",
         "date": "1938",
         "info": "scenarzysta",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Kiepura",
         "date": "brak danych",
         "info": "tenor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

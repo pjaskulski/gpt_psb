@@ -3,21 +3,21 @@
         "name": "A. Trzecieski",
         "date": "1809",
         "info": "pułkownik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Szubert",
         "date": "1801",
         "info": "kpt.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Bartosz Głowacki",
         "date": "brak danych",
         "info": "bohater spod Racławic",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Obecność G-ego w Legionach stała się przyczyną mylnej wersji, już u współczesnych, że służył w nich Wojciech Bartosz Głowacki, bohater spod Racławic"
     }
 ]
