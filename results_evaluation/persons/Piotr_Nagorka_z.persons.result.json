@@ -10,28 +10,28 @@
         "name": "Imisław Wroński",
         "date": "1359",
         "info": "elekt płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Innocenty VI",
         "date": "1359",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Jura",
         "date": "1360",
         "info": "posłaniec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Buska",
         "date": "1360",
         "info": "posłaniec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

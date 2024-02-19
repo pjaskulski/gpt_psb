@@ -3,28 +3,28 @@
         "name": "Mojżesz Mendelsohn",
         "date": "brak danych",
         "info": "uczeń Izraela, późniejszy ideolog oświecenia Żydów niemieckich",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Lessing",
         "date": "brak danych",
         "info": "przyjaciel Izraela",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Nicolai",
         "date": "brak danych",
         "info": "przyjaciel Izraela",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Salomon Majmon",
         "date": "brak danych",
         "info": "współczesny Izraelowi, podkreślał wpływ Izraela na Mendelsohna",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
