@@ -3,35 +3,35 @@
         "name": "Michał Wolf",
         "date": "1870",
         "info": "właściciel drukarni",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Baron M. Hirsch",
         "date": "1887",
         "info": "założyciel fundacji",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "J. L. Ben-Zeew",
         "date": "1881",
         "info": "autor hebrajskiego słownika",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Arystoteles",
         "date": "1877",
         "info": "filozof, autor 'Etyki nikomachejskiej'",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "F. Schiller",
         "date": "1881",
         "info": "autor 'Zbójców'",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

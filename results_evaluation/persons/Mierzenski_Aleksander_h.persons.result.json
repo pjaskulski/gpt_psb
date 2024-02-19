@@ -3,35 +3,35 @@
         "name": "Zbigniew Morsztyn",
         "date": "1654",
         "info": "podkomendny, poeta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Janusz Radziwiłł",
         "date": "1654",
         "info": "hetman",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Magnus de la Gardie",
         "date": "1655",
         "info": "szwedzki dowódca wojskowy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogusław Radziwiłł",
         "date": "1655",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wincenty Gosiewski",
         "date": "1657",
         "info": "hetman polny koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

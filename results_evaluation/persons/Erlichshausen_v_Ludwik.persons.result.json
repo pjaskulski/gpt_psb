@@ -3,35 +3,35 @@
         "name": "Paweł Russdorf",
         "date": "1436–9",
         "info": "wielki mistrz krzyżacki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kasper Nostyc",
         "date": "brak danych",
         "info": "zaciężny żołnierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Burchard Nachwall",
         "date": "1457",
         "info": "Czech, zaciężny żołnierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Legendorf (Mgowski)",
         "date": "1464",
         "info": "biskup warmiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Jagiellończyk",
         "date": "1466",
         "info": "król Polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
