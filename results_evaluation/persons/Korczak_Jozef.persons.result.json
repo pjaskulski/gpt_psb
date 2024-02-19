@@ -3,28 +3,28 @@
         "name": "Kazimierz Bagiński",
         "date": "listopad 1914",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "gen. L. Żeligowski",
         "date": "1920",
         "info": "generał",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "A. Strug",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "(?) napisał przedmowę do tomu wierszy bohatera"
     },
     {
         "name": "T. Hołówka",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "(?) napisał życiorys bohatera do jego tomu wierszy"
     }
 ]

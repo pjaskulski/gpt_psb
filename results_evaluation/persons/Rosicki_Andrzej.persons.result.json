@@ -3,21 +3,21 @@
         "name": "Franciszek Traeger",
         "date": "1862",
         "info": "poprzednik na stanowisku prezydenta miasta Łodzi",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. K. Poznański",
         "date": "brak danych",
         "info": "właściciel Tow. Akcyjnego Wyrobów Bawełnianych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater był akcjonariuszem a Poznański prezesem zarządu towarzystwa"
     },
     {
         "name": "Anna z Robowskich",
         "date": "brak danych",
         "info": "działaczka społeczna i przewodnicząca I Ochronki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to żona bohatera"
     }
 ]
