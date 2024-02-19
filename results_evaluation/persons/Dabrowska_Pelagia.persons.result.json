@@ -3,21 +3,21 @@
         "name": "Teresa Brzezińska",
         "date": "brak danych",
         "info": "właścicielka pensji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "członkowie Centralnego Komitetu Narodowego",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie są konkretne osoby"
     },
     {
         "name": "Trzaskowski",
         "date": "brak danych",
         "info": "założyciel pierwszego gimnazjum żeńskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -3,21 +3,21 @@
         "name": "Zygmunt Gloger",
         "date": "1883",
         "info": "historyk i etnograf",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż bohaterki"
     },
     {
         "name": "Adam Pług",
         "date": "brak danych",
         "info": "autor pośmiertnego wspomnienia o Glogerowej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Starzeński",
         "date": "brak danych",
         "info": "starosta brański w czasach Stan. Aug. Poniatowskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "bohaterka zajmowała się tłumaczeniem jego wspomnień"
     }
 ]

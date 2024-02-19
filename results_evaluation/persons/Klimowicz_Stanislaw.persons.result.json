@@ -3,21 +3,21 @@
         "name": "A. Zapolski",
         "date": "15 V 1892",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Reiff",
         "date": "brak danych",
         "info": "właściciel polskiej drukarni w Paryżu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Kiełza",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -3,21 +3,21 @@
         "name": "Raisa Mirska Kłobocka",
         "date": "1680",
         "info": "chorążyna mińska",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "jako pierwszy stypendysta z funduszu Raisy Mirskiej Kłobockiej"
     },
     {
         "name": "Krasiński",
         "date": "1689",
         "info": "wojewoda płocki, właściciel dóbr węgrowskich",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Niewierski",
         "date": "1689",
         "info": "superintendent wileński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść bohatera"
     }
 ]

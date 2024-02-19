@@ -3,21 +3,21 @@
         "name": "Bronisław Kader",
         "date": "1918-1920",
         "info": "asystent w klinice chirurgicznej UJ",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "nieścisłość: to bohaterka byłą asystentką Kadera"
     },
     {
         "name": "Maksymilian Rutkowski",
         "date": "1918-1920",
         "info": "asystent w klinice chirurgicznej UJ",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "nieścisłość: to bohaterka byłą asystentką Rutkowskiego"
     },
     {
         "name": "K. Hładij",
         "date": "1929-1932",
         "info": "chirurg i współpracownik w Szpitalu Bonifratrów w Krakowie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
