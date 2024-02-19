@@ -3,28 +3,35 @@
         "name": "K. Knaus",
         "date": "1888",
         "info": "architekt",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "ks. bp Dunajewski",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "A. Mikołajewski",
         "date": "1888",
         "info": "artysta malujący polichromie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Niedzielski",
         "date": "1888",
         "info": "projektant polichromii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tola Certowiczówna",
         "date": "1895",
         "info": "artysta rzeźbiarka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

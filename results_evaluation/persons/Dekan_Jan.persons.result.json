@@ -3,28 +3,28 @@
         "name": "Abraham Ciświcki",
         "date": "brak danych",
         "info": "kasztelan śremski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Daniel Vetterus",
         "date": "1643",
         "info": "wydawca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt III",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "F. Siarczyński",
         "date": "1828",
         "info": "twórca legendy o Dekanie Janie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

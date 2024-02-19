@@ -3,28 +3,28 @@
         "name": "Władysław Podczaski",
         "date": "1833",
         "info": "pułkownik, związany ze stronnictwem ks. Adama Czartoryskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Czartoryski",
         "date": "brak danych",
         "info": "książę, polityk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Henryk Kamieński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Ludwik Mierosławski",
         "date": "1846",
         "info": "emigrant, powstaniec",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Znajdował się na liście 51 emigrantów znalezioną przy aresztowanym Ludwiku Mierosławskim."
     }
 ]

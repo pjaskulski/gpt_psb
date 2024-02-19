@@ -3,28 +3,28 @@
         "name": "ks. Jordan",
         "date": "brak danych",
         "info": "prowincjał pijarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "ks. Reszczyński",
         "date": "brak danych",
         "info": "prowincjał pijarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "ks. Franciszek Salezy Jezierski",
         "date": "brak danych",
         "info": "wizytator KEN",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "ks. Teodor Waga",
         "date": "brak danych",
         "info": "prowincjał pijarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

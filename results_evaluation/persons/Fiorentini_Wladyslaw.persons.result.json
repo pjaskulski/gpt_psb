@@ -3,28 +3,35 @@
         "name": "Wł. Syrokomla",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Bolesław Rusiecki",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Aleksander Strauss",
         "date": "brak danych",
         "info": "artysta fotograf",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bazyl Popow",
         "date": "brak danych",
         "info": "marszałek powiatu dyneburskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść bohatera"
     },
     {
         "name": "Bogumiła Gizbert",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teściowa bohatera"
     }
 ]

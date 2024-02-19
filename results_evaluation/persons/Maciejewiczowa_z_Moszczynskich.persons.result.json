@@ -3,28 +3,28 @@
         "name": "Stefania Świda",
         "date": "1900",
         "info": "uczennica",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Julia Rodziewicz",
         "date": "brak danych",
         "info": "prezeska Stowarzyszenia Nauczycielstwa Polskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Kościałkowski",
         "date": "brak danych",
         "info": "dyrektor męskiej szkoły",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Eliza Orzeszkowa",
         "date": "brak danych",
         "info": "patronka żeńskiego gimnazjum",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

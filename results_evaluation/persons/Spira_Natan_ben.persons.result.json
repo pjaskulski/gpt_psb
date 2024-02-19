@@ -3,28 +3,28 @@
         "name": "Dawid Gans",
         "date": "brak danych",
         "info": "astronom i matematyk",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewny bohatera"
     },
     {
         "name": "I. Duran",
         "date": "brak danych",
         "info": "autor modlitewnika",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Raszi",
         "date": "brak danych",
         "info": "autor komentarza do Pięcioksięgu Mojżesza",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Eliasz ben Abraham Mizrachi",
         "date": "brak danych",
         "info": "autor komentarza do Pięcioksięgu Mojżesza",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
