@@ -3,42 +3,42 @@
         "name": "Stanisław Kostka Potocki",
         "date": "brak danych",
         "info": "minister WRiOP",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Potocki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk Robert Wendler",
         "date": "1840",
         "info": "kierownik wytwórni fajansu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Pius IX",
         "date": "1848",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Izabela Starzyńska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Fredro",
         "date": "1865",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "wykonał medal pamiątkowy z popiersiem Aleksandra Fredry"
     }
 ]
