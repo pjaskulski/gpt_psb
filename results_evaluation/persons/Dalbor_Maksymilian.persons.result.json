@@ -3,49 +3,49 @@
         "name": "hr. Mielżyński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "hr. Szembek",
         "date": "brak danych",
         "info": "hrabia",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wężyk",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "gen. Edm. Taczanowski",
         "date": "brak danych",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Landowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Żychliński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "hr. Włodz. Dzieduszycki",
         "date": "brak danych",
         "info": "hrabia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
