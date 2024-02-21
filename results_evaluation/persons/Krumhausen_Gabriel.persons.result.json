@@ -3,49 +3,49 @@
         "name": "Michał Behm",
         "date": "1646",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wincenty Fabrycius",
         "date": "1659",
         "info": "syndyk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy von Boemeln",
         "date": "brak danych",
         "info": "burmistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Lubomirski",
         "date": "brak danych",
         "info": "marszałek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan III",
         "date": "1677",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk Nimsgarten",
         "date": "1651",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - to poprzedni mąż żony bohatera"
     },
     {
         "name": "Joachim",
         "date": "1661",
         "info": "członek i kwatermistrz Kwartału Wysokiego, ławnik",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to brat bohatera"
     }
 ]

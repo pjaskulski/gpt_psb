@@ -3,42 +3,42 @@
         "name": "Leon Sternbach",
         "date": "1918",
         "info": "promotor pracy doktorskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gustaw Przychocki",
         "date": "1936/37",
         "info": "profesor, którego zastępował na UJ",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Daniela Gromska",
         "date": "brak danych",
         "info": "współpracownik przy tłumaczeniu dzieł Teofrasta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Felicja Teresa z Kęszyckich",
         "date": "1925",
         "info": "żona, historyczka i pedagog",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to żona bohatera"
     },
     {
         "name": "Edward Schnayder",
         "date": "brak danych",
         "info": "syn, geograf, pracownik B. Jag.",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to syn bohatera"
     },
     {
         "name": "Janina Smorawińska",
         "date": "brak danych",
         "info": "córka, farmaceutka",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to córka bohatera"
     }
 ]
