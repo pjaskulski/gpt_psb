@@ -3,63 +3,63 @@
         "name": "Mariusz Zaruski",
         "date": "1895",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bromirski",
         "date": "1895",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gasztowt",
         "date": "1895",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Prażmowska",
         "date": "1895",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konieczka",
         "date": "1895",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jabłoński",
         "date": "1895",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Gałecki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Teresa z Wołowskich Prażmowska",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Orwicz",
         "date": "brak danych",
         "info": "pseudonim Natalii Dzierżek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

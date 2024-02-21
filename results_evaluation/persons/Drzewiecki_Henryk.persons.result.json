@@ -3,126 +3,126 @@
         "name": "Gabl",
         "date": "brak danych",
         "info": "nauczyciel śpiewu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Cotogni",
         "date": "brak danych",
         "info": "nauczyciel śpiewu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Barbacin",
         "date": "brak danych",
         "info": "nauczyciel śpiewu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Pawlikowski",
         "date": "1901-1902",
         "info": "dyrektor opery we Lwowie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Erazm Dłuski",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "grał w operze autorstwa Dłuskiego"
     },
     {
         "name": "Henryk Skirmunt",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "grał w operze autorstwa Skirmunta"
     },
     {
         "name": "Puccini",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bizet",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Verdi",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Gounod",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Massenet",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Moniuszko",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Czajkowski",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Mascagni",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bellini",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wagner",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Auber",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Rubinstein",
         "date": "brak danych",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

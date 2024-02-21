@@ -3,63 +3,63 @@
         "name": "Bogufał III",
         "date": "1264",
         "info": "biskup",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na biskupstwie poznańskim"
     },
     {
         "name": "Pietrzyk",
         "date": "1264",
         "info": "prepozyt kapituły poznańskiej",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "kontrkandydat"
     },
     {
         "name": "Janusz",
         "date": "1265/7",
         "info": "arcbiskup gnieźnieński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław Pobożny",
         "date": "1265/7",
         "info": "książę Wielkopolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan",
         "date": "1265/7",
         "info": "archidiakon, elekt kapituły poznańskiej",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "kontrkandydat"
     },
     {
         "name": "Klemens IV",
         "date": "1265/7",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Baszko-Godysław",
         "date": "1267",
         "info": "kustosz, delegat kapituły poznańskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj",
         "date": "1267",
         "info": "kapelan papieża, scholastyk krakowski, kanonik wrocławski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zajął miejsce bohatera na biskupstwie poznańskim"
     },
     {
         "name": "Gosław",
         "date": "1283",
         "info": "dziekan gnieźnieński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca "
     }
 ]
