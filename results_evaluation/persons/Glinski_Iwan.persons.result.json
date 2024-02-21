@@ -3,70 +3,70 @@
         "name": "Aleksander Jagiellończyk",
         "date": "1492",
         "info": "wielki książę litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Hlebowicz",
         "date": "1492",
         "info": "namiestnik smoleński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dymitr Putiatycz",
         "date": "1505",
         "info": "knyaz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Szach Achmat",
         "date": "1501",
         "info": "chan zawołżański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk saski",
         "date": "1503",
         "info": "wielki mistrz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt I",
         "date": "1506",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "O. Gasztołd",
         "date": "1508",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wasyl",
         "date": "1508",
         "info": "wielki książę Moskiewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikita Guba Mokłokow",
         "date": "1508",
         "info": "poseł",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "K. Ostrogski",
         "date": "brak danych",
         "info": "kniaź",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

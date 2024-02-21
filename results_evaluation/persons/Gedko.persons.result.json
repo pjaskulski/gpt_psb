@@ -3,70 +3,70 @@
         "name": "Bolesław Kędzierzawy",
         "date": "1166",
         "info": "książę, pan Krakowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jaksy",
         "date": "brak danych",
         "info": "spiskowiec przeciw rządom Bolesława Kędzierzawego",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pozostał G. wierny i nie dał się wciągnąć do spisku Jaksy i Świętosława"
     },
     {
         "name": "Świętosław",
         "date": "brak danych",
         "info": "spiskowiec przeciw rządom Bolesława Kędzierzawego",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pozostał G. wierny i nie dał się wciągnąć do spisku Jaksy i Świętosława"
     },
     {
         "name": "Mieszko Stary",
         "date": "brak danych",
         "info": "wielki książę w Krakowie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Sprawiedliwy",
         "date": "1177",
         "info": "książę, powołany na tron krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander III",
         "date": "1181",
         "info": "papież",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Lucjusz III",
         "date": "1184",
         "info": "papież",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Idzi",
         "date": "1184",
         "info": "wysłannik papieża Lucjusza III, późniejszy biskup Modeny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Pełka",
         "date": "1186",
         "info": "następca G-ki, biskup krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca bohatera"
     },
     {
         "name": "Rajnald",
         "date": "brak danych",
         "info": "legat papieski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -3,126 +3,126 @@
         "name": "Z. Wilczyńska",
         "date": "brak danych",
         "info": "prowadząca pensję żeńską",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nazwa szkoły i jej właścicielka, brak informacji o bezpośrednim związku z bohaterką"
     },
     {
         "name": "J. Niemcewicz",
         "date": "brak danych",
         "info": "przyjaciel ojca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Staszic",
         "date": "brak danych",
         "info": "przyjaciel ojca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "F. S. Dmochowski",
         "date": "brak danych",
         "info": "przyjaciel ojca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "N. Żmichowska",
         "date": "brak danych",
         "info": "autorka, działaczka ruchu kobiecego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Ilnicka",
         "date": "brak danych",
         "info": "autorka, działaczka ruchu kobiecego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Duchińska",
         "date": "brak danych",
         "info": "autorka, działaczka ruchu kobiecego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Karłowicz",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Hanusz",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stefan Ramułt",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bolesław Erzepki",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Adam Kryński",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Władysław Niedźwiedzki",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Nitsch",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Rozwadowski",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Józef Rostafiński",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Łoś",
         "date": "1879-1919",
         "info": "językoznawca, laureat nagrody",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "B. Linde",
         "date": "1896",
         "info": "poprzedni mieszkaniec domu przy ul. Królewskiej 17",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ojciec bohaterki"
     }
 ]
