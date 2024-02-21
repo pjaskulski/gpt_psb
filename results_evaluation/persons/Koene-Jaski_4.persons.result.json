@@ -3,49 +3,49 @@
         "name": "Wincenty Anholt",
         "date": "18 XII 1533",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Bork",
         "date": "18 XII 1533",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Albrecht Pruski",
         "date": "18 XII 1533",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Grzegorz Koene-Jaski",
         "date": "28 I 1546",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "syn?"
     },
     {
         "name": "Grzegorz von Berk",
         "date": "28 I 1546",
         "info": "mieszczanin gdański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Henryk von Achden",
         "date": "28 I 1546",
         "info": "mieszczanin z Antorf",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol V",
         "date": "20 VI 1554",
         "info": "cesarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
