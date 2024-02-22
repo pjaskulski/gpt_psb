@@ -3,56 +3,63 @@
         "name": "Karol Ferdynand",
         "date": "brak danych",
         "info": "królewicz, biskup płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Kazimierz",
         "date": "1657",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bogusław Radziwiłł",
         "date": "1657",
         "info": "szlachcic",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "od r. 1657 był w służbie u Bogusława Radziwiłła"
     },
     {
         "name": "Iwan Chowański",
         "date": "1660",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Ludwika Karolina Radziwiłłówna",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Paweł Ricaut",
         "date": "1678",
         "info": "autor 'Monarchii tureckiej'",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "A. Sajkowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Michał Bodier",
         "date": "brak danych",
         "info": "autor 'Żywota Mahometa' i 'Opisania Alkoranu'",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zbigniew Morsztyn",
         "date": "brak danych",
         "info": "poeta ariański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
