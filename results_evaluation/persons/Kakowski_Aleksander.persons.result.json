@@ -3,77 +3,77 @@
         "name": "Franciszek Kakowski",
         "date": "brak danych",
         "info": "gospodarz, handlarz leśny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ojciec postaci"
     },
     {
         "name": "W. Szczęśniak",
         "date": "1898",
         "info": "kandydat na stanowisko regensa seminarium",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "S. Zdzitowiecki",
         "date": "1917",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. J. Nowowiejski",
         "date": "1917",
         "info": "biskup",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Z. Chełmicki",
         "date": "1917",
         "info": "sekretarz i szef kancelarii Rady Regencyjnej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Piłsudski",
         "date": "1918",
         "info": "przywódca polityczny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Achilles Ratti",
         "date": "1919",
         "info": "nuncjusz, późniejszy papież Pius XI",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Benedykt XV",
         "date": "1919",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "E. Dalbor",
         "date": "1926",
         "info": "kardynał",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na funkcji kanclerza Orderu Orła Białego"
     },
     {
         "name": "S. Gall",
         "date": "brak danych",
         "info": "główny doradca Aleksandra Kakowskiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Handelsman",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
