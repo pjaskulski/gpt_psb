@@ -3,70 +3,70 @@
         "name": "Edward Jurgens",
         "date": "1861",
         "info": "przyjaciel",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tomasz Winnicki",
         "date": "1862",
         "info": "naczelnik policji warszawskiej z ramienia Komitetu Centralnego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Bobrowski",
         "date": "1863",
         "info": "naczelnik miasta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konstanty",
         "date": "1863",
         "info": "w. ks.",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "bohater przechwycił poufną korespondencję w. ks. Konstantego"
     },
     {
         "name": "Paulucci",
         "date": "1863",
         "info": "oberpolicmajster",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Buciłowska",
         "date": "1863",
         "info": "gospodyni",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Trepow",
         "date": "1863",
         "info": "następca Paulucciego na stanowisku oberpolicmajstra",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Oskar Awejde",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "oskarżał bohatera"
     },
     {
         "name": "Zdzisław Janczewski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "oskarżał bohatera"
     },
     {
         "name": "Hermani",
         "date": "1863",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

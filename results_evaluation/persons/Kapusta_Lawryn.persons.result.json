@@ -3,77 +3,77 @@
         "name": "Bohdan Chmielnicki",
         "date": "1653",
         "info": "hetman",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fedorowicz",
         "date": "1653",
         "info": "były dowódca załogi kozackiej w Suczawie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Iwan Fomin",
         "date": "1653",
         "info": "posel moskiewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Strieszniew",
         "date": "1653",
         "info": "posel carski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Briedichin",
         "date": "1653",
         "info": "posel carski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Repnin-Oboleński",
         "date": "1653",
         "info": "poseł rosyjski do Polski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Buturlin",
         "date": "1653",
         "info": "wielki poseł",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Parcewicz",
         "date": "1656",
         "info": "posel cesarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy II Rakoczy",
         "date": "1657",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Reniger",
         "date": "1657",
         "info": "rezydent cesarski w Turcji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Harasim Kapłoński",
         "date": "1660",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
