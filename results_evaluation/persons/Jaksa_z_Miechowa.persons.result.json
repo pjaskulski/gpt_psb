@@ -3,56 +3,56 @@
         "name": "Jan Długosz",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Monach",
         "date": "1198",
         "info": "patriarcha kościoła Zmartwychwstania w Jerozolimie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bolesław Wstydliwy",
         "date": "1252",
         "info": "książę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Piotr Włostowic",
         "date": "brak danych",
         "info": "książę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wincenty Kadłubek",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Świętosław",
         "date": "ok. 1170",
         "info": "wielmoża małopolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bolesław Kędzierzawy",
         "date": "ok. 1170",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Sprawiedliwy",
         "date": "ok. 1170",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -3,112 +3,112 @@
         "name": "Jan Kuropatwa",
         "date": "1431",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ważna osoba dla brata bohatera"
     },
     {
         "name": "Fedor ks. Korybutowicz",
         "date": "1431",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ważna osoba dla brata bohatera"
     },
     {
         "name": "Spytek z Melsztyna",
         "date": "1439",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zbigniew Oleśnicki",
         "date": "1439",
         "info": "biskup krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Jagiellończyk",
         "date": "1442",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Jagiellończyk",
         "date": "1447",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub Dembiński",
         "date": "1460",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca na urzędzie podskarbiego"
     },
     {
         "name": "Jan Tęczyński",
         "date": "1461",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Tęczyński",
         "date": "1461",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk II",
         "date": "1455",
         "info": "margrabia brandenburski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Bażyński",
         "date": "1453",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Rutger v. Birken",
         "date": "1453",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Koniecpolski",
         "date": "1454",
         "info": "kanclerz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Czyżowski",
         "date": "1454",
         "info": "kasztelan krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bartłomiej Gruszczyński",
         "date": "brak danych",
         "info": "kasztelan kaliski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan",
         "date": "brak danych",
         "info": "arcybiskup",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
