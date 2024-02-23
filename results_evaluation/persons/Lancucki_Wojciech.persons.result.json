@@ -3,77 +3,77 @@
         "name": "M. Łubieński",
         "date": "1641",
         "info": "prymas",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "W. Szołdrski",
         "date": "brak danych",
         "info": "uczeń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "W. Kotulecki",
         "date": "1658",
         "info": "panegirysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Rudzki",
         "date": "1658",
         "info": "panegirysta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Makowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Kucharski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Jurkowski",
         "date": "1659",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Trzebicki",
         "date": "brak danych",
         "info": "biskup krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Sobieski",
         "date": "1671",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "P. Gembicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "związek z bohaterem niejasny: w czasie praktyki w konsystorzu P. Gembickiego"
     },
     {
         "name": "M. Oborski",
         "date": "brak danych",
         "info": "sufragan",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
