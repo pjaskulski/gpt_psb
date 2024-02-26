@@ -3,126 +3,126 @@
         "name": "Zuzanna Morawska",
         "date": "brak danych",
         "info": "prowadziła pensję, w której Maria się kształciła",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "name": "W. Smoleński",
         "date": "brak danych",
         "info": "pedagog",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Kramsztyk",
         "date": "brak danych",
         "info": "pedagog",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Korzon",
         "date": "brak danych",
         "info": "pedagog",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "L. Krzywicki",
         "date": "brak danych",
         "info": "pedagog",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Mahrburg",
         "date": "brak danych",
         "info": "wykładowca na Uniwersytecie Latającym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "S. Sempołowska",
         "date": "1905",
         "info": "współpracowniczka w pomocy więźniom politycznym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "T. Rechniewski",
         "date": "brak danych",
         "info": "redaktor tygodników PPS-Lewicy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Joteyko",
         "date": "1909",
         "info": "polska uczona, pod której kierunkiem Maria studiowała psychologię",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. W. Dawid",
         "date": "brak danych",
         "info": "pionier nauk pedologicznych na gruncie polskim",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "A. Szycówna",
         "date": "brak danych",
         "info": "pionier nauk pedologicznych na gruncie polskim",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "H. Selmowiczówna",
         "date": "brak danych",
         "info": "współautorka książki dla nauczycieli",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "H. Gnoińska",
         "date": "brak danych",
         "info": "współautorka podręczników",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. Smulikowski",
         "date": "1932",
         "info": "działacz sanacyjny w ZNP",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "A. Hamaide",
         "date": "1926",
         "info": "autor książki Metoda Decroly, do której Maria napisała przedmowę",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku?"
     },
     {
         "name": "S. Karpowicz",
         "date": "1929",
         "info": "autor pism, do których wyboru Maria była redaktorem",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku?"
     },
     {
         "name": "Krzyżem Komandorskim Odrodzenia Polski",
         "date": "brak danych",
         "info": "odznaczenie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Łódzkie Towarzystwo Naukowe",
         "date": "1948",
         "info": "organizacja naukowa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

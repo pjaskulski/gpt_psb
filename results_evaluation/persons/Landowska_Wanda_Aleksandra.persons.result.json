@@ -3,49 +3,49 @@
         "name": "A. Michałowski",
         "date": "1895",
         "info": "nauczyciel w Konserwatorium Warszawskim",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "H. Urban",
         "date": "1896",
         "info": "nauczyciel kompozycji w Berlinie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Karłowicz",
         "date": "1896",
         "info": "student kompozycji w Berlinie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "H. Lew",
         "date": "brak danych",
         "info": "pisarz i znawca folkloru hebrajskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż bohaterki"
     },
     {
         "name": "M. de Falla",
         "date": "1926",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "F. Poulenc",
         "date": "1927",
         "info": "kompozytor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "E. Grieg",
         "date": "brak danych",
         "info": "kompozytor, wpływ na twórczość L.",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -3,91 +3,91 @@
         "name": "Kazimierz Jagiellończyk",
         "date": "1446",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Eryk pomorski",
         "date": "1448",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Gabriel Bażyński",
         "date": "1451",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub z Osieczka",
         "date": "1451",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ścibor Bażyński",
         "date": "1454",
         "info": "naczelny wódz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł z Nowej Wsi",
         "date": "1454",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Hieronim Lando",
         "date": "1463",
         "info": "legat papieski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł Legendorf",
         "date": "1464",
         "info": "biskup warmiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Tungen",
         "date": "1473",
         "info": "biskup warmiński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Eryk II",
         "date": "1474",
         "info": "książę pomorski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Jan Kurozwęcki",
         "date": "1476",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ścibor Bażyński",
         "date": "1476",
         "info": "starosta generalny",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Fabian Legendorf",
         "date": "1478",
         "info": "opiekun dzieci M.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
