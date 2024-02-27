@@ -3,56 +3,56 @@
         "name": "August II",
         "date": "1719",
         "info": "król polski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to teść bohaterki"
     },
     {
         "name": "Teodor Czartoryski",
         "date": "1750",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antoni Grzegorzewski",
         "date": "1750",
         "info": "oficjał warszawski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol VI",
         "date": "1740",
         "info": "cesarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Karol VII",
         "date": "1741",
         "info": "cesarz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "de Valory",
         "date": "brak danych",
         "info": "poseł francuski w Berlinie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Teodor Lubomirski",
         "date": "1745",
         "info": "wojewoda krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Maksymilian III Józef",
         "date": "brak danych",
         "info": "elektor bawarski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohaterki"
     }
 ]

@@ -3,49 +3,49 @@
         "name": "Andrzej Krzycki",
         "date": "1527",
         "info": "biskup płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bona Sforza",
         "date": "brak danych",
         "info": "królowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt August",
         "date": "ok. 1547",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Lewicki",
         "date": "brak danych",
         "info": "sekretarz łaciński królowej Bony",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "biskup Dantyszki",
         "date": "brak danych",
         "info": "biskup",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "choć błędna odmiana nazwiska"
     },
     {
         "name": "Michał Kalecki",
         "date": "brak danych",
         "info": "bratanek, syn Jana",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewny bohatera"
     },
     {
         "name": "Paweł",
         "date": "1568",
         "info": "brat Macieja",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to brat bohatera"
     }
 ]
