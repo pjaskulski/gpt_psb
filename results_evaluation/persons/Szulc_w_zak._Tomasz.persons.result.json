@@ -3,63 +3,63 @@
         "name": "Tomasz Jan Szulc-Prątnicki",
         "date": "brak danych",
         "info": "prepozyt i kanonik chełmiński, archiprezbiter elbląski, proboszcz lubawski oraz oficjał i wizytator diec. chełmińskiej",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewny bohatera"
     },
     {
         "name": "Kazimierz Jurgiewicz",
         "date": "brak danych",
         "info": "student",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Tomasz Mdzewski",
         "date": "1690",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "konkurent do urzędu"
     },
     {
         "name": "Rajmund Kawecki",
         "date": "brak danych",
         "info": "przeor-elekt klasztoru w Chełmnie",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na urzędzie przeora"
     },
     {
         "name": "Piotr Rostkowski",
         "date": "brak danych",
         "info": "opat mogilski i kanonik warmiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Jerzy Kunigk",
         "date": "brak danych",
         "info": "kanonik pułtuski i kustosz kapit. warmińskiej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tomasz Szulc-Prątnicki",
         "date": "brak danych",
         "info": "proboszcz chełmiński i lubawski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wawrzyniec Teleżyński",
         "date": "brak danych",
         "info": "historyk zakonny",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Franciszek Nowowiejski",
         "date": "brak danych",
         "info": "dominikanin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

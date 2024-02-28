@@ -3,70 +3,70 @@
         "name": "Jerzy Jeschke",
         "date": "1858",
         "info": "chełmiński biskup pomocniczy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Pacyfik Bydłowski",
         "date": "brak danych",
         "info": "były prowincjał Prow. Reformatów Niepokalanego Poczęcia NMP i definitor generalny zakonu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bernardyn Dal Vago",
         "date": "brak danych",
         "info": "generał reformatów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leon XIII",
         "date": "1881",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Ławrynowicz",
         "date": "brak danych",
         "info": "ksiądz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Roger Binkowski",
         "date": "1889",
         "info": "prowincjał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Alojzy Canali",
         "date": "1890",
         "info": "generał reformatów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Florian Stablewski",
         "date": "1900",
         "info": "arcybiskup gnieźnieński i poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Euzebiusz Stateczny",
         "date": "1904",
         "info": "o. Euzebiusz Stateczny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dionizy Schuler",
         "date": "1906",
         "info": "generał zakonu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

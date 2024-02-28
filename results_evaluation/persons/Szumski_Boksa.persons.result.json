@@ -3,98 +3,98 @@
         "name": "Pielgrzym z Węgleszyna",
         "date": "1384",
         "info": "podkomorzy sandomierski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Krystyn",
         "date": "1384",
         "info": "rycerz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Władysław Jagiełło",
         "date": "1393",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bienik",
         "date": "1394",
         "info": "sołtys wsi Bliżyce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Szafrańcowi z Łuczyc",
         "date": "1395",
         "info": "podstoli krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Dymitr z Goraja",
         "date": "1398",
         "info": "marszałek Królestwa",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Jasiek z Lganowa",
         "date": "1398",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Lganowa",
         "date": "brak danych",
         "info": "rycerz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to raczej powtórzenie"
     },
     {
         "name": "Piotr Wysz",
         "date": "1402",
         "info": "biskup krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Niemierza z Ożarowic",
         "date": "1403",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mszczuj z Więckowic",
         "date": "1411",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Spytek z Tarnowa",
         "date": "1411",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Tęczyński",
         "date": "1414",
         "info": "kasztelan krakowski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "pleban z Trzeńca",
         "date": "1415",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Ale to nie jest osoba znana z imienia"
     }
 ]
