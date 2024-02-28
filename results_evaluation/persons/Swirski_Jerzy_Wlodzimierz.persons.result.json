@@ -3,133 +3,133 @@
         "name": "Pawło Skoropadski",
         "date": "1918",
         "info": "hetman Państwa Ukraińskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Józef Haller",
         "date": "1919",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Porębski",
         "date": "1919",
         "info": "kontradmirał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Sikorski",
         "date": "1926",
         "info": "generał, minister spraw wojskowych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Unrug",
         "date": "1939",
         "info": "kontradmirał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Edward Rydz-Śmigły",
         "date": "1939",
         "info": "marszałek, Naczelny Wódz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Ksawery Czernicki",
         "date": "1939",
         "info": "kontradmirał",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Karol Korytowski",
         "date": "1939",
         "info": "kontradmirał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "August Zaleski",
         "date": "1939",
         "info": "minister spraw zagranicznych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Raczkiewicz",
         "date": "1940",
         "info": "Prezydent RP",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leon Mitkiewicz",
         "date": "1940",
         "info": "pułkownik, szef Polskiej Misji Wojskowej w Londynie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogusław Krawczyk",
         "date": "1941",
         "info": "komandor porucznik, dowódca ORP 'Wilk'",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Anders",
         "date": "15 III 1946",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Kopański",
         "date": "15 III 1946",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Maczek",
         "date": "15 III 1946",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Klemens Rudnicki",
         "date": "15 III 1946",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Wiatr",
         "date": "15 III 1946",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Maciej Iżycki",
         "date": "15 III 1946",
         "info": "generał",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "E. Bevin",
         "date": "15 III 1946",
         "info": "minister spraw zagranicznych Wielkiej Brytanii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -3,154 +3,154 @@
         "name": "Stanisław Potocki",
         "date": "1809",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Joanna Żubrowa",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Aleksander Antoni Sapieha",
         "date": "1809",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Aleksander Chodkiewicz",
         "date": "1812",
         "info": "płk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stanisław Wojczyński",
         "date": "1830",
         "info": "gen. dyw.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Chłopicki",
         "date": "1830",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Radziwiłł",
         "date": "1831",
         "info": "ks.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Skrzynecki",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Ruttié",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Amancjusz Żarczyński",
         "date": "1831",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Julian U. Niemcewicz",
         "date": "1831",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zofia Hauke",
         "date": "1831",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to szwagierka bohatera"
     },
     {
         "name": "Jan Krukowiecki",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Hurtig",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antoni Jankowski",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Antoni Sałacki",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik Bukowski",
         "date": "1831",
         "info": "gen.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Krysiński",
         "date": "1831",
         "info": "płk.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wacław Tokarz",
         "date": "1831",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Marek Tarczyński",
         "date": "1831",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Józef Jaszowski",
         "date": "1832",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "J. C. A. Lessl",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to kolejny mąż żony bohatera"
     }
 ]
