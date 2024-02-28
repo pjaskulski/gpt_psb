@@ -3,84 +3,84 @@
         "name": "Jakub z Kurdwanowa",
         "date": "między 22 VI 1390 a 18 VI 1393",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to wuj bohatera"
     },
     {
         "name": "Bodzęta, syn Jana z Jankowa",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Wysza",
         "date": "3 II 1397",
         "info": "biskup krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Drozd",
         "date": "4 X t.r.",
         "info": "dziedzic Janowic",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Mojczy",
         "date": "6 II 1400",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Strzeszkowica",
         "date": "3 VII 1404",
         "info": "kanonik i oficjał poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Arnold",
         "date": "brak danych",
         "info": "kanonik poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Łaskarzyca",
         "date": "28 VI 1418",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin z Młodujewa",
         "date": "28 VI 1418",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wojciech Jastrzębiec",
         "date": "brak danych",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł z Czechowa",
         "date": "21 VII 1419",
         "info": "kanonik gnieźnieński i włocławski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca na urzędzie"
     },
     {
         "name": "Tomasz Diako",
         "date": "21 VII 1419",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca na urzędzie"
     }
 ]

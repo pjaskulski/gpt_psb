@@ -3,98 +3,112 @@
         "name": "Zygmunt August",
         "date": "brak danych",
         "info": "Król",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "Zygmunt Stary",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Joachim II Hohenzollern",
         "date": "1535",
         "info": "elektor brandenburski",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "name": "królewna Jadwiga",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "name": "Andrzej Mackowicz",
         "date": "1537",
         "info": "pisarz dworów i włości hospodarskich",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Gradowski",
         "date": "1553",
         "info": "pomierczy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "M. Połaski",
         "date": "1553",
         "info": "pomierczy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Hrehory Ościk",
         "date": "1557",
         "info": "kasztelan wileński",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wasyl Tyszkiewicz",
         "date": "1558",
         "info": "wojewoda podlaski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Iwan IV Groźny",
         "date": "1559",
         "info": "car",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Chodkiewicz",
         "date": "1559",
         "info": "stolnik litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Hieronim Chodkiewicz",
         "date": "1561",
         "info": "starosta żmudzki",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Wojciechowicz Kmita",
         "date": "1561",
         "info": "marszałek hospodarski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Grzegorz Chodkiewicz",
         "date": "1562",
         "info": "kasztelan trocki i hetman polny litewski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca na funkcji sprawcy star. żmudzkiego "
     },
     {
         "name": "Bogdan Mitkowicz",
         "date": "1556",
         "info": "pisarz dworów i włości ziemi żmudzkiej oraz ciwun Małych Dyrwian",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewny, stryj bohatera"
     },
     {
         "name": "Jakub Secygniowski",
         "date": "1565",
         "info": "rotmistrz jazdy",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
