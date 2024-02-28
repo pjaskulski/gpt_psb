@@ -3,63 +3,63 @@
         "name": "Władysław Łokietek",
         "date": "1320",
         "info": "król Polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Sandra Snel",
         "date": "1313",
         "info": "mieszczanin toruński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błędna odmiana imienia"
     },
     {
         "name": "Jan z Enden",
         "date": "1326",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jaśko, syn Eberharda",
         "date": "1318",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Gwis",
         "date": "1318",
         "info": "wójt krakowski",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "biskupi włoscy",
         "date": "1326",
         "info": "biskupi",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wilusz",
         "date": "brak danych",
         "info": "kuśnierz",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "to teść syna bohatera ?"
     },
     {
         "name": "Tyczek Snel",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Stanisław Pensator",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to mąż wnuczki bohatera?"
     }
 ]

@@ -3,34 +3,34 @@
         "name": "Piast",
         "date": "brak danych",
         "info": "książęcy rataj",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to ojciec bohatera"
     },
     {
         "name": "Popiel",
         "date": "brak danych",
         "info": "miejscowy władca",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Długosz",
         "date": "brak danych",
         "info": "kronikarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Juliusz Słowacki",
         "date": "brak danych",
         "info": "poeta, dramaturg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wincenty Budzyński",
         "date": "brak danych",
-        "info": "pisarz",
+        "info": "false",
         "result": null,
         "pj_note": ""
     },
@@ -38,14 +38,14 @@
         "name": "Mieczysław Romanowski",
         "date": "brak danych",
         "info": "poeta, dramaturg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Feliks Płażek",
         "date": "brak danych",
         "info": "pisarz, dramaturg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
