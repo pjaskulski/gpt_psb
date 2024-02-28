@@ -3,140 +3,140 @@
         "name": "Bonifacy IX",
         "date": "1396",
         "info": "papież",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uzyskał od papieża Bonifacego IX dla siebie i Jadwigi odpust zupełny"
     },
     {
         "name": "Mikołaj Bochner",
         "date": "1392",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jurzy Seydil",
         "date": "1392",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Freiberg",
         "date": "1400",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Vochsczagil",
         "date": "1400",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Rudolf",
         "date": "1401",
         "info": "kupiec toruński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Seidilafter",
         "date": "1393",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Anna",
         "date": "1395",
         "info": "wdowa po Mikołaju Bochnerze",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Falkirberg",
         "date": "1395",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kasow",
         "date": "1398",
         "info": "wdowa po Stefanie Newweysie",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale chyba niepoprawna odmiana, w tekście: jako pełnomocnik pani Kasowi"
     },
     {
         "name": "Marcin Schram",
         "date": "1409",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Filip z Brzezinki",
         "date": "1419",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Bochner",
         "date": "1396",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Koszyk",
         "date": "1396",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Jagiełło",
         "date": "1405",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Fryderyk",
         "date": "1409",
         "info": "wójt",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Katarzyna Trewtylowa",
         "date": "1415",
         "info": "wdowa po wójcie Mikołaju Trewtylu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub sołtys z Cietrzewiny",
         "date": "1416",
         "info": "sołtys",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Kosień",
         "date": "1420",
         "info": "mieszczanin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Klemens",
         "date": "brak danych",
         "info": "wójt z Ciężkowic",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     }
 ]
