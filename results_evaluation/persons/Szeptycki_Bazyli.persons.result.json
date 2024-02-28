@@ -3,112 +3,112 @@
         "name": "Jan Kazimierz",
         "date": "1668",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Korybut Wiśniowiecki",
         "date": "1672",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Szumlański",
         "date": "1677",
         "info": "prawosławny biskup lwowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan III Sobieski",
         "date": "1680",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Cyprian Żochowski",
         "date": "1680",
         "info": "unicki metropolita kijowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Stefan Trombetti",
         "date": "1707",
         "info": "prefekt lwowskiego kolegium teatynów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Cyryl Szumlański",
         "date": "1708",
         "info": "bazylianin, oficjał halicki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Leon Kiszka",
         "date": "1708",
         "info": "protoarchimandryta zakonu bazylianów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "N. Spinolli",
         "date": "1708",
         "info": "nuncjusz apostolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "August II",
         "date": "1709",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Winnicki",
         "date": "1710",
         "info": "unicki metropolita",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Skarbek",
         "date": "1712",
         "info": "rzymskokatolicki arcybiskup lwowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Szembek",
         "date": "1713",
         "info": "kanclerz koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Adam Sieniawski",
         "date": "1713",
         "info": "hetman wielki koronny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Atanazy Antoni",
         "date": "1713",
         "info": "krewny Szeptyckiego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "B. Odescalchi",
         "date": "1713",
         "info": "nuncjusz apostolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
