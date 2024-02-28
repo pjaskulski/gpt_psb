@@ -3,112 +3,112 @@
         "name": "Mieszko Stary",
         "date": "1153",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zbylut",
         "date": "1153",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Tadeusz Wojciechowski",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Benedykt",
         "date": "1187-1193",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Celestyn III",
         "date": "1193",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł",
         "date": "1218",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Cherubin",
         "date": "1172",
         "info": "biskup poznański",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na urzędzie biskupa"
     },
     {
         "name": "Jan Długosz",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Stefan",
         "date": "1156",
         "info": "biskup poznański",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "być może poprzednik na urzędzie biskupa"
     },
     {
         "name": "Władysław Semkowicz",
         "date": "1910",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Bernard",
         "date": "1164",
         "info": "biskup poznański",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "być może poprzednik na urzędzie biskupa"
     },
     {
         "name": "K. Maleczyński",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Z. Kozłowska-Budkowa",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "G. Sappok",
         "date": "brak danych",
         "info": "historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Nowacki",
         "date": "brak danych",
         "info": "ksiądz, historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Wincenty Kadłubek",
         "date": "1180",
         "info": "biskup krakowski, historyk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
