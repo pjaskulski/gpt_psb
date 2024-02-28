@@ -80,14 +80,14 @@
         "name": "Zofia Butrymowicz",
         "date": "1957",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": "wykonała portret"
     },
     {
         "name": "Michel Lustre",
         "date": "1957",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": "wykonała portret"
     },
     {
@@ -171,8 +171,8 @@
         "name": "Florence Houston-Brown",
         "date": "brak danych",
         "info": "właścicielka galerii",
-        "result": null,
-        "pj_note": "false"
+        "result": false,
+        "pj_note": ""
     },
     {
         "name": "Helen Włodarczyk",

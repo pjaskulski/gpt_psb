@@ -73,8 +73,8 @@
         "name": "Jakub z Paczkowa",
         "date": "brak danych",
         "info": "prepozyt wrocławski",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "konkurent do urzędu prepozyta"
     },
     {
         "name": "Jan Pakosławic",
