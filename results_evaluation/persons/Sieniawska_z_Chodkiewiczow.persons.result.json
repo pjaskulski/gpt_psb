@@ -3,77 +3,77 @@
         "name": "Jakub Sobieski",
         "date": "1618",
         "info": "wojewodzic lubelski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Prokop Sieniawski",
         "date": "1623",
         "info": "chorąży kor.",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Krzysztof Radziwiłł",
         "date": "brak danych",
         "info": "hetman polny lit.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Stanisław Sapieha",
         "date": "brak danych",
         "info": "marszałek w. lit.",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to dalszy krewny bohaterki"
     },
     {
         "name": "Wiktoryn Kuropatnicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt Świrski",
         "date": "brak danych",
         "info": "podsędek ziemski halicki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Cedrowski",
         "date": "brak danych",
         "info": "urzędnik Radziwiłła",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Wierciński",
         "date": "1628",
         "info": "arendarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Krzysztof Franciszek Chwalibogowski",
         "date": "1628",
         "info": "autor poematu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kaspar Mikołaj Borkowski",
         "date": "1632",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj Sieniawski",
         "date": "1633",
         "info": "podczaszy kor.",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to szwagier bohaterki"
     }
 ]

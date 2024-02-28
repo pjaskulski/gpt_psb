@@ -3,70 +3,70 @@
         "name": "Dzierżek Mędrostka",
         "date": "brak danych",
         "info": "prawdopodobnie przyszły kanonik kapituły św. Floriana w Krakowie",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to brat bohatera"
     },
     {
         "name": "Kazimierz Wielki",
         "date": "1333",
         "info": "król Polski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Piotr Szyrzyk z Fałkowa",
         "date": "1333",
         "info": "poprzednik Sięgniewa na stanowisku podkanclerzego",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Luksemburski",
         "date": "1337",
         "info": "król Czech",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Karol IV",
         "date": "1356",
         "info": "cesarz rzymski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Innocenty VI",
         "date": "1357",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Jura",
         "date": "1360",
         "info": "poseł królewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bodzęta",
         "date": "1351",
         "info": "biskup krakowski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Poznania",
         "date": "1360",
         "info": "biskup poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Urban V",
         "date": "1362",
         "info": "papież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
@@ -75,5 +75,19 @@
         "info": "prepozyt wrocławski",
         "result": null,
         "pj_note": ""
+    },
+    {
+        "name": "Jan Pakosławic",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "name": "Jan Rzeszowski",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

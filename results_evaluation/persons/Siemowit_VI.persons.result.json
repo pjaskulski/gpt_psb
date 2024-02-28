@@ -3,77 +3,77 @@
         "name": "Konrad von Erlichshausen",
         "date": "1446",
         "info": "wielki mistrz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Paweł Giżycki",
         "date": "1455",
         "info": "biskup płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Prędota z Żelaznej i Trzciany",
         "date": "1455",
         "info": "wojewoda płocki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan z Nieborowa",
         "date": "1455",
         "info": "wojewoda rawski i bełski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ninogniew Kryski",
         "date": "1455",
         "info": "sędzia wyszogrodzki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Goliasz z Łęgu",
         "date": "1455",
         "info": "marszałek dworu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Racibor z Golejewa",
         "date": "1458",
         "info": "kanclerz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jakub z Kłobukowa",
         "date": "1456",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł z Bedlska",
         "date": "1456",
         "info": "pisarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Małgorzata",
         "date": "1459",
         "info": "stryjenka książąt",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewna bohatera"
     },
     {
         "name": "Gotard z Rybna",
         "date": "1461",
         "info": "kasztelan sochaczewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

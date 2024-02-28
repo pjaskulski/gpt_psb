@@ -3,98 +3,98 @@
         "name": "Giuseppe Imperiali",
         "date": "1704",
         "info": "kardynał, protektor Renarda",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Francesco Pignatelli",
         "date": "przed 1708",
         "info": "kardynał, nuncjusz w Polsce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Domenico Maria Muratori",
         "date": "1708",
         "info": "malarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Filippo Barigioni",
         "date": "1711",
         "info": "rzymski architekt",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Francesco Ferrari",
         "date": "1712",
         "info": "rzymski architekt",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Szembek",
         "date": "1718",
         "info": "kanclerz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Angelelli",
         "date": "1718",
         "info": "markiz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Matthäus Daniel Pöppelmann",
         "date": "1719",
         "info": "architekt",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "name": "Anna z Sanguszków Radziwiłłowa",
         "date": "1721",
         "info": "księżna",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "J. D. Jauch",
         "date": "1721",
         "info": "architekt",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "name": "P. Lagnasco",
         "date": "1725",
         "info": "przedstawiciel Saksonii w Rzymie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Maria Klementyna Sobieska-Stuart",
         "date": "1725",
         "info": "królowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Domenico Cioli",
         "date": "1725",
         "info": "architekt",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Kowalczyk",
         "date": "brak danych",
         "info": "historyk sztuki",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

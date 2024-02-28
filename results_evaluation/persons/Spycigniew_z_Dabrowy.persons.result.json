@@ -3,63 +3,63 @@
         "name": "Konrad I",
         "date": "przed 1247",
         "info": "książę mazowiecki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mściwoj",
         "date": "1245–7",
         "info": "bliski współpracownik ks. Konrada",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik bohatera na urzędzie wojewody łęczyckiego"
     },
     {
         "name": "Bogusza z Lubania",
         "date": "24 VI 1247",
         "info": "bliski współpracownik ks. Konrada",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik bohatera na urzędzie wojewody łęczyckiego"
     },
     {
         "name": "Bolesław Wstydliwy",
         "date": "brak danych",
         "info": "książę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Zdzisław",
         "date": "19 VIII 1254",
         "info": "kasztelan włocławski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogusza z Lubania",
         "date": "16 IX 1257",
         "info": "wojewoda łęczycki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "name": "Przemysł II",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Leszek Czarny",
         "date": "brak danych",
         "info": "książę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Władysław Łokietek",
         "date": "brak danych",
         "info": "król",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -3,63 +3,70 @@
         "name": "Paweł Holszański",
         "date": "1522",
         "info": "biskup łucki",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jerzy z Giedroyciów",
         "date": "1469-78",
         "info": "student",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Jan Fijałek",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Marcin Krzeszowski",
         "date": "1483",
         "info": "biskup łucki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprzednik na urzędzie biskupa"
     },
     {
         "name": "Mikołaj Latowski",
         "date": "1483",
         "info": "penitencjarz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Jagiellończyk",
         "date": "1483",
         "info": "książę litewski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mikołaj",
         "date": "1484",
         "info": "notariusz publiczny imperiali auctoritate, scriba causarum",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Bogusław",
         "date": "1490",
         "info": "książę zachodniopomorski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     },
     {
         "name": "Anna",
         "date": "1490",
         "info": "królewna",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
+    },
+    {
+        "name": "Jan, syn Mikołaja",
+        "date": null,
+        "info": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
