@@ -3,70 +3,70 @@
         "name": "ks. Józef Wolski",
         "date": "brak danych",
         "info": "proboszcz Rymanowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "dr Ignacy Bielecki",
         "date": "brak danych",
         "info": "lekarz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "bp Bazyl Maściuch",
         "date": "brak danych",
         "info": "biskup greckokatolicki Łemkowszczyzny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Tchórznicki",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Jerzy Skrzyszowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Stanisław Grabiński",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Andrzej Potworowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Kazimierz Mańkowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Jerzy Stojowski",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Jerzy Potocki",
         "date": "1932",
         "info": "archeolog, pracownik naukowy Instytutu Historii Kultury Materialnej PAN w Krakowie, taternik i alpinista",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to wnuk bohatera"
     }
 ]

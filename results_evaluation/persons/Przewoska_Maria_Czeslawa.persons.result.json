@@ -3,63 +3,63 @@
         "name": "Maria z Mireckich Loevy",
         "date": "1889–91",
         "info": "działaczka we francuskim ruchu emancypacji kobiet",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Cecylia Śniegocka",
         "date": "lata dziewięćdziesiąte XIX wieku",
         "info": "współpracowała z nią w tajnej pracy oświatowej",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Eliza Orzeszkowa",
         "date": "1905",
         "info": "pisarka, z którą prowadziła korespondencję",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Mieczysław Geniusz",
         "date": "ok. 1906",
         "info": "wywarł silny wpływ na jej poglądy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Czesław Oraczewski",
         "date": "1919",
         "info": "ksiądz, współzałożyciel organizacji Konfederacja Polska",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Janina Żyrkiewiczowa",
         "date": "brak danych",
         "info": "gospodyni salonu teozofów w Warszawie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Józef Kotarbiński",
         "date": "1932",
         "info": "napisał przedmowę do jej tomu poezji",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "true, bowiem tom wydany za życia bohaterki"
     },
     {
         "name": "Zdzisław Dębicki",
         "date": "1932",
         "info": "stworzył sylwetkę autorki do jej tomu poezji",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "true, bowiem tom wydany za życia bohaterki"
     },
     {
         "name": "Zygmunt Krasiński",
         "date": "brak danych",
         "info": "poeta, którego twórczość miała duży wpływ na P.",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
