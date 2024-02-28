@@ -3,98 +3,98 @@
         "name": "Wilhelm Gnapheus",
         "date": "1535–9",
         "info": "humanista, zwolennik reformacji",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Dantyszka",
         "date": "1539",
         "info": "bp. warmiński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Pietro Bembo",
         "date": "1541",
         "info": "włoski humanista",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Albrecht Hohenzollern",
         "date": "1545",
         "info": "książę",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Andrzej Górka",
         "date": "1547",
         "info": "kasztelan poznański",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Sabinus",
         "date": "1547",
         "info": "rektor uniw. w Królewcu",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Fryderyk Staphylus",
         "date": "1550",
         "info": "rektor",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Felix Koning Polyphemus",
         "date": "brak danych",
         "info": "bibliotekarz ks. Albrechta",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Otto Henryk",
         "date": "1549",
         "info": "palatyn reński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Schütz Toxites",
         "date": "1549",
         "info": "uczeń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Wilhelm Rascalon",
         "date": "1549",
         "info": "uczeń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt August",
         "date": "1557",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Marcin Knust",
         "date": "1567",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Johann von Seebach",
         "date": "brak danych",
         "info": "właściciel majątku w Saksonii",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
