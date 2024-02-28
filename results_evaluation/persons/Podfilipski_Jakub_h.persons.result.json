@@ -3,56 +3,56 @@
         "name": "Bogdan",
         "date": "1510",
         "info": "delegat województwa mołdawskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "zawarł porozumienie z delegatami woj. mołdawskiego"
     },
     {
         "name": "Katarzyna Czartowska",
         "date": "1511",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Barbara Czartowska",
         "date": "1511",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Elżbieta Herburtowa",
         "date": "1513",
         "info": "szlachcianka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt I",
         "date": "1517",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jan Sienieński z Gołogór",
         "date": "1518",
         "info": "kasztelan kamieniecki",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca bohatera na urzędzie kasztelana kamienieckiego"
     },
     {
         "name": "Mikołaj Jazłowiecki",
         "date": "brak danych",
         "info": "kasztelan kamieniecki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Wiktoryn",
         "date": "1532",
         "info": "stryj głównego bohatera",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to brat bohatera"
     }
 ]
