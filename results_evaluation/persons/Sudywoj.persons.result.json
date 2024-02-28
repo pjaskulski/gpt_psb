@@ -3,126 +3,126 @@
         "name": "Krystyn Ościk",
         "date": "1431",
         "info": "kasztelan wileński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Paweł von Russdorf",
         "date": "1431",
         "info": "wielki mistrz krzyżacki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Władysław Jagiełło",
         "date": "1432",
         "info": "król",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Jerzy Butrym",
         "date": "1432",
         "info": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Zygmunt Kiejstutowicz",
         "date": "1432",
         "info": "wielki książę Litwy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Kazimierz Jagiellończyk",
         "date": "1440",
         "info": "król, wielki książę Litwy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Kieżgajłowicz",
         "date": "1441",
         "info": "kanclerz Wielkiego Księstwa Litewskiego",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to bratanek"
     },
     {
         "name": "Jan Gasztołd",
         "date": "1441",
         "info": "wojewoda wileński",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "name": "Heidenreich Vinke von Overberg",
         "date": "1445",
         "info": "mistrz inflancki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Konrad von Erlichshausen",
         "date": "brak danych",
         "info": "wielki mistrz krzyżacki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Ludwik von Erlichshausen",
         "date": "1459",
         "info": "wielki mistrz krzyżacki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "name": "Michał Kieżgajłowicz",
         "date": "1459",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to powtórzenie i to bratanek"
     },
     {
         "name": "Wojciech Janowicz Moniwid",
         "date": "1461",
         "info": "kasztelan wileński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca na urzędzie"
     },
     {
         "name": "Stanko Mordas",
         "date": "1463",
         "info": "starosta kowieński",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następca na urzędzie"
     },
     {
         "name": "Jan Wiażewicz",
         "date": "brak danych",
         "info": "wojewoda trocki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to zięć bohatera"
     },
     {
         "name": "Michał Kieżgajło",
         "date": "brak danych",
         "info": "kanclerz litewski i wojewoda wileński",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewny"
     },
     {
         "name": "Jan Kieżgajło",
         "date": "brak danych",
         "info": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to krewny"
     },
     {
         "name": "Maciej",
         "date": "1459",
         "info": "altarzysta Sudywoja Wolimuntowicza",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak bezpośredniego związku"
     }
 ]
