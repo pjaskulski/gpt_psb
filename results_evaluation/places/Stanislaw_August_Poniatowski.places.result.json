@@ -2,85 +2,85 @@
     {
         "place": "Wołczyn",
         "date": "1732-01-17",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1733",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamieniec Podolski",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1739",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Akwizgran",
         "date": "1744-06-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kassel",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Drezno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wołczyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "1750",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1752",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łubnice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wschowa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Radom",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przemysl",
         "date": "1753-03",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
@@ -92,421 +92,421 @@
     {
         "place": "Anhalt-Zerbst",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1755-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wschowa",
         "date": "1755-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1756-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1758",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1758",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1762",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "1763-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1764-02-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1764-09-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1764-11-25",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Haga",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Stambuł",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bar",
         "date": "1768-02",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1771-11-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1772",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Radom",
         "date": "1767-05",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Marymont",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Konieczna",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Preszów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Anglia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Austria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Rosja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Prusy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kaniów",
         "date": "1787-03-24",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chwastów",
         "date": "1787",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Korsuń",
         "date": "1787-05-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Białystok",
         "date": "1793-05-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Londyn",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Utrecht",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Ostrołęka",
         "date": "1794-03-12",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "1795-01-12",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1797-03-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "1797-04-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Karlsbad",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Mołdawia",
         "date": "1796-04-13",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Zaleszczyki",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Belweder",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kamieniec Podolski",
         "date": "1770-1772",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kozienice",
         "date": "1788",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Miedziana Góra",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Dębnik",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Szczakowa",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Hamburg",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kliwia",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zamek Ujazdowski",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Łazienki",
         "date": "1782",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? czy to miejscowość?"
     },
     {
         "place": "Pomarańczarnia",
         "date": "1788",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest miejscowość"
     },
     {
         "place": "Wyspa",
         "date": "1785",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Austria",
         "date": "1779",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Zamek Warszawski",
         "date": "1784",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to nie miejscowość"
     },
     {
         "place": "Ujazdów",
         "date": "1766-1769",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ujazdów",
         "date": "1764",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Golędzinów",
         "date": "1764",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Skaryszew",
         "date": "1780",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wołczyn",
         "date": "1938-07-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1990",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
