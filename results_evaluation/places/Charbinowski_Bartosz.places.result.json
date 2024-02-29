@@ -1,0 +1,44 @@
+[
+    {
+        "place": "Charbinowice",
+        "date": "XIII wiek",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1365-1383",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lublin",
+        "date": "1383-1391",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Podole",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Sandomierz",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Ogrodzieńce",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wierzchosławice",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "place": "Krzeszowice",
+        "date": "1891-08-06",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1910",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Jarosław",
+        "date": "1916-1921",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1939-1945",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Łódź",
+        "date": "1946-1953",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wrocław",
+        "date": "1953",
+        "result": null,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "place": "Warszawa",
+        "date": "1879-07-05",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Berlin",
+        "date": "1896",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Paryż",
+        "date": "1900",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wrocław",
+        "date": "1912",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bazylea",
+        "date": "1919",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Saint-Leu la Forêt",
+        "date": "1925",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Nowy Jork",
+        "date": "1941",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lakeville",
+        "date": "1959-08-16",
+        "result": null,
+        "pj_note": ""
+    }
+]

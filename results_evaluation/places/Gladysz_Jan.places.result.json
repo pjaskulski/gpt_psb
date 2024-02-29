@@ -1,0 +1,62 @@
+[
+    {
+        "place": "Babimost",
+        "date": "1762",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Poznań",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Borek",
+        "date": "1799",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Chobienice",
+        "date": "1797",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Drezno",
+        "date": "1800",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Francja",
+        "date": "1803",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Płock",
+        "date": "1810",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1809-1830",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Osiek",
+        "date": "1824",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Nowe Miasto nad Pilicą",
+        "date": "1829",
+        "result": null,
+        "pj_note": ""
+    }
+]

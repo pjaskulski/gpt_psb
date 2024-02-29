@@ -1,0 +1,50 @@
+[
+    {
+        "place": "Jaszczew",
+        "date": "1859",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1884",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1886",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1892",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1894",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1898",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1909",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1922",
+        "result": true,
+        "pj_note": ""
+    }
+]

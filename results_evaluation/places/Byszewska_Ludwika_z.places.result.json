@@ -1,0 +1,62 @@
+[
+    {
+        "place": "Warszawa",
+        "date": "1773",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Rudka",
+        "date": "1774",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Mierzwica",
+        "date": "1774",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Fajsławice",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lachowicze",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Wilno",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Grodno",
+        "date": "1793",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lisa",
+        "date": "1792",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Brańsk",
+        "date": "1792",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1799",
+        "result": true,
+        "pj_note": ""
+    }
+]

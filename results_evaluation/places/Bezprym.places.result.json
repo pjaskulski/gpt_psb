@@ -1,0 +1,44 @@
+[
+    {
+        "place": "Polska",
+        "date": "986-1031",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Włochy",
+        "date": "999",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Polska",
+        "date": "1025",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Ruś",
+        "date": "1030",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Niemcy",
+        "date": "1030",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Polska",
+        "date": "1031",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Czechy",
+        "date": "1031",
+        "result": false,
+        "pj_note": ""
+    }
+]

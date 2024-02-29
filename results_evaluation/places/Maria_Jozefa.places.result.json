@@ -1,0 +1,92 @@
+[
+    {
+        "place": "Wiedeń",
+        "date": "1719-08-20",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Zielona Góra",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Szprotawa",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Polska",
+        "date": "1734-01",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Drezno",
+        "date": "1741-01",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Chełm",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1750",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Hanower",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Francja",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Prusy",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bawaria",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Anglia",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Holandia",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Berlin",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Czechy",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    }
+]

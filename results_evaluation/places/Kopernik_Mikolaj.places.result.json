@@ -1,0 +1,392 @@
+[
+    {
+        "place": "Toruń",
+        "date": "1473-02-19",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Nysa",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Otmuchów",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Ząbkowice",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wrocław",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Zgorzelec",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1367",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lwów",
+        "date": "1439",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": "1448",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bydgoszcz",
+        "date": "1469",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Sławkowo",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Grudziądz",
+        "date": "1453",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Łasin",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Malbork",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Chełmno",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Włocławek",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Frombork",
+        "date": "1507",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Rzym",
+        "date": "1501-1519",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bolonia",
+        "date": "1498-1501",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Padwa",
+        "date": "1503-01-10",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bolonia",
+        "date": "1496-1501",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Rzym",
+        "date": "1500",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warmia",
+        "date": "1501",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Padwa",
+        "date": "1501-1503",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Ferrara",
+        "date": "1503-05-31",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Toruń",
+        "date": "1504",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": "1504",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Malbork",
+        "date": "1506",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Elbląg",
+        "date": "1507",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Sztum",
+        "date": "1512",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Poznań",
+        "date": "1510",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1507",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lidzbark",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Frombork",
+        "date": "1512",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Olsztyn",
+        "date": "1516-1541",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Pieniężno",
+        "date": "1516-1541",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Frombork",
+        "date": "1521-08",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Grudziądz",
+        "date": "1521-07-25",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Elbląg",
+        "date": "1529-02-14",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Malbork",
+        "date": "1528-05-09",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bolonia",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Frombork",
+        "date": "1510",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Elbląg",
+        "date": "1519",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lidzbark",
+        "date": "1529",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Padwa",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Elbląg",
+        "date": "1532",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": "1526",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lubawa",
+        "date": "1539",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Królewiec",
+        "date": "1541",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Olsztyn",
+        "date": "1531",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wrocław",
+        "date": "1538",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": "1540",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bazylea",
+        "date": "1541",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Frombork",
+        "date": "1540-1543",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wittenberg",
+        "date": "1541",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Norymberga",
+        "date": "1543",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Praga",
+        "date": "1953",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Upsala",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Berlin",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Getynga",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gniezno",
+        "date": "1873-1875",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Braniewo",
+        "date": "1873",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Strasburg",
+        "date": "1574",
+        "result": null,
+        "pj_note": ""
+    }
+]

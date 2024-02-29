@@ -1,0 +1,74 @@
+[
+    {
+        "place": "Wilno",
+        "date": "1535-04-14",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1535",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Żmudź",
+        "date": "1537",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Połaski",
+        "date": "1553",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Upickie",
+        "date": "1557-10-20 do 1558-05-10",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wielońskie",
+        "date": "1558-12",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Moskwa",
+        "date": "1559-02-16 do 1559-03-03",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Bowsk",
+        "date": "1559",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Poszuszwie",
+        "date": "1556",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Nadroszleński",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kojranowo",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wilno",
+        "date": "1563-04-16",
+        "result": null,
+        "pj_note": ""
+    }
+]

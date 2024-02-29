@@ -1,0 +1,44 @@
+[
+    {
+        "place": "Warszawa",
+        "date": "1867-11-07",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Szczuki",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Paryż",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Sèvres",
+        "date": "1900",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Joachimstal",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Stockholm",
+        "date": "1902",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Sceaux",
+        "date": "1934",
+        "result": null,
+        "pj_note": ""
+    }
+]

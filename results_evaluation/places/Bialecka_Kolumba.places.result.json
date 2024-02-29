@@ -1,0 +1,56 @@
+[
+  {
+    "place": "Jaśniszcze",
+    "date": "1838-08-23",
+    "result": true,
+    "pj_note": ""
+  },
+  {
+    "place": "Lwów",
+    "date": "1850",
+    "result": true,
+    "pj_note": ""
+  },
+  {
+    "place": "Nancy",
+    "date": "1858",
+    "result": true,
+    "pj_note": ""
+  },
+  {
+    "place": "Polska",
+    "date": "1859",
+    "result": false,
+    "pj_note": ""
+  },
+  {
+    "place": "Wielowies",
+    "date": "1861",
+    "result": true,
+    "pj_note": ""
+  },
+  {
+    "place": "Francja",
+    "date": "1869",
+    "result": false,
+    "pj_note": ""
+  },
+  {
+    "place": "Bieliny",
+    "date": null,
+    "result": false,
+    "pj_note": "brak: przyjęła fundację klasztoru w Bielinach (1870), w Tyczynie (1878), w Rawie Ruskiej (1885)"
+  },
+  {
+    "place": "Tyczyn",
+    "date": null,
+    "result": false,
+    "pj_note": "brak: przyjęła fundację klasztoru w Bielinach (1870), w Tyczynie (1878), w Rawie Ruskiej (1885)"
+  },
+  {
+    "place": "Rawa Ruska",
+    "date": null,
+    "result": false,
+    "pj_note": "brak: przyjęła fundację klasztoru w Bielinach (1870), w Tyczynie (1878), w Rawie Ruskiej (1885)"
+  }
+]

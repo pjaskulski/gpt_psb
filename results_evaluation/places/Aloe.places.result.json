@@ -1,0 +1,50 @@
+[
+    {
+        "place": "Warszawa",
+        "date": "1759",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1821",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Rzym",
+        "date": "1783",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Berlin",
+        "date": "1789",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1794",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1795",
+        "result": false,
+        "pj_note": "? - nie ma wprost powiązania Warszawy z tą datą, choć najpewniej przebywał w mieście"
+    },
+    {
+        "place": "Warszawa",
+        "date": "1807",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1816",
+        "result": true,
+        "pj_note": ""
+    }
+]

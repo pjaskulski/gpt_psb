@@ -1,0 +1,62 @@
+[
+    {
+        "place": "Warszawa",
+        "date": "1919-09-27",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1937",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1940",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1942",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Józefów",
+        "date": "1944",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Otwock",
+        "date": "1944",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Lublin",
+        "date": "1944",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Sopot",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Gdańsk-Wrzeszcz",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1952",
+        "result": null,
+        "pj_note": ""
+    }
+]

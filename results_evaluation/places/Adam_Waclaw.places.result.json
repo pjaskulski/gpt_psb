@@ -1,0 +1,50 @@
+[
+    {
+        "place": "Cieszyn",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Saski",
+        "date": "brak danych",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Węgry",
+        "date": "brak danych",
+        "result": false,
+        "pj_note": "kraj"
+    },
+    {
+        "place": "Morawy",
+        "date": "brak danych",
+        "result": false,
+        "pj_note": "kraj"
+    },
+    {
+        "place": "Wrocław",
+        "date": "1611",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Śląsk",
+        "date": "brak danych",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Jabłonków",
+        "date": "brak danych",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Kalwaria Zebrzydowska",
+        "date": "1614",
+        "result": true,
+        "pj_note": ""
+    }
+]

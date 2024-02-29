@@ -1,0 +1,62 @@
+[
+    {
+        "place": "Gręboszów",
+        "date": "brak danych",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1333-06-30",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wielkopolska",
+        "date": "1337",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Kujawy",
+        "date": "1337",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Inowrocław",
+        "date": "1337",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Poznań",
+        "date": "1337",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Praga",
+        "date": "1341",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Awinion",
+        "date": "1357",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Wrocław",
+        "date": "1362",
+        "result": null,
+        "pj_note": ""
+    },
+    {
+        "place": "Opole",
+        "date": "1368",
+        "result": null,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "place": "Szczebrzeszyn",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1554",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lublin",
+        "date": "1569-05-20",
+        "result": false,
+        "pj_note": ""
+    },
+    {
+        "place": "Sandomierz",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    }
+]

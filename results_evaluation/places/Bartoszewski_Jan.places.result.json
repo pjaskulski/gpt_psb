@@ -1,0 +1,44 @@
+[
+    {
+        "place": "Lwów",
+        "date": "1852-01-18",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Wiedeń",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lwów",
+        "date": "1879-1883",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lwów",
+        "date": "1883-1884",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lwów",
+        "date": "1885",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lwów",
+        "date": "1895",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Lwów",
+        "date": "1905",
+        "result": true,
+        "pj_note": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place": "Wilno",
+        "date": "1818-10-13",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Petersburg",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Paryż",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "brak danych",
+        "result": true,
+        "pj_note": ""
+    }
+]
