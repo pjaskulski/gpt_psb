@@ -2,451 +2,451 @@
     {
         "place": "Wołyń",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Łuck",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ostróg",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1632-1634",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Włochy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Niemcy",
         "date": "1638-1639",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Hiszpania",
         "date": "1638-1639",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Francja",
         "date": "1644-1645",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Lwów",
         "date": "1642-10-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1640-02-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zaporoże",
         "date": "1648",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Żółte Wody",
         "date": "1648-04-29 - 1648-05-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kniażymi Bajraki",
         "date": "1648-05-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Daira",
         "date": "1648-09-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Perekop",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ochmatów",
         "date": "1652",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1652",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żurawno",
         "date": "1653-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gliniany",
         "date": "1653-05-23",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żurawno",
         "date": "1653-06-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1653-07-24",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tajkury",
         "date": "1654-01-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krym",
         "date": "1654-02",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Gródek Jagielloński",
         "date": "1655-09-29",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kolbuszowa",
         "date": "1655-10-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brześć Litewski",
         "date": "1655-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Prusy",
         "date": "1655-12",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Bydgoszcz",
         "date": "1660-04-21",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kłecko",
         "date": "1660-05-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1660-07-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Baranów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zamość",
         "date": "1656-02-26",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jarosław",
         "date": "1656-03-15",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Nisko",
         "date": "1656-03-28",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Skole",
         "date": "1657-07-25 - 1657-07-31",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1657-11 - 1658-12-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Golub",
         "date": "1658-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grudziądz",
         "date": "1658-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1658",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kotelnia",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chmielnik",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Dubno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mohylew",
         "date": "1660-02-19",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lachowce",
         "date": "1660-09-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stary Konstantynów",
         "date": "1660-09-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lubar",
         "date": "1660-09-14",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cudnów",
         "date": "1660-09-27",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zamość",
         "date": "1660-07-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jędrzejów",
         "date": "1662-07",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1658",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Woronków",
         "date": "1663-11-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Baryszpol",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ostrz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Woroneż",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Sośnica",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Nowe Młyny",
         "date": "1663-03-14",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Biała Cerkiew",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Korsuń",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Koblin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Dorohostaje Małe",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kodeń",
         "date": "1659",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Żuława",
         "date": "1659",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brześć Litewski",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ciecierzyn",
         "date": "1655",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Czarnobyl",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamieniec",
         "date": "1658-03-03",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Czeczersk",
         "date": "1662-12-05",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Owrucz",
         "date": "1659-10-17",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Dołhe Hołoszko",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żabczyce",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żurawno",
         "date": "1664-06-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1664-06-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
