@@ -2,337 +2,343 @@
     {
         "place": "Sandomierz",
         "date": "1595-12-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pułtusk",
         "date": "1604",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1607",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Graz",
         "date": "1607",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lowanium",
         "date": "1613",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Anglia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Holandia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Francja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Paryż",
         "date": "1614",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Orlean",
         "date": "1615",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Burgundia",
         "date": "1615",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Turyn",
         "date": "1615",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wenecja",
         "date": "1615",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Padwa",
         "date": "1615",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolonia",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Neapol",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Florencja",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Austria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Morawy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kraków",
         "date": "1616",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczecin",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lubeka",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brema",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Antwerpia",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Vlissingen",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gravesend",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Londyn",
         "date": "1621",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ratyzbona",
         "date": "1636",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "1636",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Linz",
         "date": "1636",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Augsburg",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piława",
         "date": "1637",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Baden",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ossolin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczytno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Raków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Piława",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1645",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ukraina",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
+    },
+    {
+        "place": "Wiedeń",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: W Wiedniu przyjmował O-ego niezwykle życzliwie cesarz Ferdynand II"
     },
     {
         "place": "Kraków",
         "date": "1646",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zbaraż",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Sokal",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Zborów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1639-1642",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ossolin",
         "date": "1635",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Klimontów",
         "date": "1643-1650",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bydgoszcz",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? Był O. nadto współfundatorem kolegium jezuickiego w Bydgoszczy"
     },
     {
         "place": "Jasna Góra",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

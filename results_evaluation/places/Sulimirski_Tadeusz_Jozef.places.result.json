@@ -2,71 +2,71 @@
     {
         "place": "Kobylany",
         "date": "1898-04-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kaukaz",
         "date": "1900-1905",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Chyrów",
         "date": "1905",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1910",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Birmingham",
         "date": "1913",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Synowodzko",
         "date": "1917",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rarańcza",
         "date": "1918",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Tustanowice",
         "date": "1918",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Galicja Wschodnia",
         "date": "1919",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Radziechów",
         "date": "1920",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
-        "place": "Halle",
+        "place": "true",
         "date": "brak danych",
         "result": null,
         "pj_note": ""
@@ -74,271 +74,271 @@
     {
         "place": "Warszawa",
         "date": "1933",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "ZSRR",
         "date": "1934",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wysok",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Wysock?"
     },
     {
         "place": "Komarów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kołpec",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zaborów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sarniki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rokitno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rumunia",
         "date": "1939",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Francja",
         "date": "1939",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Coëtquidan",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Serignan",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Campénéac",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Thoiré",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Vichy",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Saint-Jean-de-Luz",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Plymouth",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Liverpool",
         "date": "1940",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dokładniej: w obozach pod Liverpoolem"
     },
     {
         "place": "Crawford",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Blaigowrie",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Edynburg",
         "date": "1940",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wygłaszał liczne odczyty na uniwersytetach w Edynburgu i Glasgow"
     },
     {
         "place": "Glasgow",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wygłaszał liczne odczyty na uniwersytetach w Edynburgu i Glasgow"
     },
     {
         "place": "Londyn",
         "date": "1941",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale raczej z inną datą: Po utworzeniu w r. 1947 Polish University College w Londynie ... prowadził wykłady z socjologii"
     },
     {
         "place": "Hanower",
         "date": "1945",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Marburg",
         "date": "1954",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Dorchester",
         "date": "1949",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oxford",
         "date": "1949",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w Dorchester koło Oxfordu"
     },
     {
         "place": "Paryż",
         "date": "1950",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cambridge",
         "date": "1953-1955",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Groźny",
         "date": "1900-1905",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Londyn",
         "date": "1955-1959",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zakres dat niewłaściwy"
     },
     {
         "place": "Nowy Jork",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "ZSRR",
         "date": "1961-1964",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Europa Wschodnia",
         "date": "1961-1964",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Lublana",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Monachium",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sztokholm",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kopenhaga",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Heidelberg",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zurych",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Werona",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Padwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin Wschodni",
         "date": "1970-08",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kurdystan",
         "date": "1975",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "USA",
         "date": "1968-1969",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]

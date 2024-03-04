@@ -2,349 +2,349 @@
     {
         "place": "Kalisz",
         "date": "1926-05-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pabianice",
         "date": "1926",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Auschwitz-Birkenau",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bergen-Belsen",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Theresienstadt",
         "date": "1943",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Czeski Cieszyn",
         "date": "1945",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? podała S. jako miejsce urodzenia Czeski Cieszyn"
     },
     {
         "place": "Praga",
         "date": "1945-1946",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kuks",
         "date": "1945-1946",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1947",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1951",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Józefów",
         "date": "1954-1992",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Sopot",
         "date": "1957",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Damaszek",
         "date": "1955",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "1956",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Wiedeń",
         "date": "1956",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1960-04",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Prato",
         "date": "1960-05",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Rijeka",
         "date": "1960",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "St. Margarethen",
         "date": "1960",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Waszyngton",
         "date": "1960",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wenecja",
         "date": "1962-06",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Carrara",
         "date": "1962",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Portorož",
         "date": "1963",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Padwa",
         "date": "1963",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Malakoff",
         "date": "1965",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Varniacka Banja",
         "date": "1967",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Vyšné Rušbachy",
         "date": "1968",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sztokholm",
         "date": "1968",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma informacji o osobistym pobycie S., jedynie o wystawieniu prac"
     },
     {
         "place": "Kopenhaga",
         "date": "1968",
         "result": null,
-        "pj_note": ""
+        "pj_note": "nie ma informacji o osobistym pobycie S., jedynie o wystawieniu prac"
     },
     {
         "place": "Paryż",
         "date": "1968",
         "result": null,
-        "pj_note": ""
+        "pj_note": "true"
     },
     {
         "place": "Quercetta",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bruksela",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma informacji o osobistym pobycie S., jedynie o wystawieniu prac"
     },
     {
         "place": "Fontainebleau",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma informacji o osobistym pobycie S., jedynie o wystawieniu prac"
     },
     {
         "place": "Czechosłowacja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Malakoff",
         "date": "1970",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowy Jork",
         "date": "1970",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jugosławia",
         "date": "1970",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Carrara",
         "date": "1970",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cannes",
         "date": "1970",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Mediolan",
         "date": "1970-1971",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Genewa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nicea",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "1972",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Ceret",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rijeka",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praz-Contant",
         "date": "1973",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1974-1975",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1975-1999",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1975",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1975-1998",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bydgoszcz",
         "date": "1976",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1976",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lund",
         "date": "1976",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Białystok",
         "date": "1977",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1978-1999",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1989",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "2000",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
