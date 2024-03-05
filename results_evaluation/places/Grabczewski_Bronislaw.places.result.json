@@ -2,295 +2,295 @@
     {
         "place": "Kownatowo",
         "date": "1855-01-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krepsztach",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Syberia",
         "date": "1863",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kongresówka",
         "date": "1868",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ameryka Południowa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Azja Środkowa",
         "date": "1875",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Ałajskie",
         "date": "1877",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Samarkand",
         "date": "1878",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Margelan",
         "date": "1880",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Fergana",
         "date": "1885",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to miejsce druku sprawozdania z podróży G."
     },
     {
         "place": "Tian-szan",
         "date": "1885",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kaszgaria",
         "date": "1885",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Jangihisar",
         "date": "1885",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jarkend",
         "date": "1885",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "obecnie Shache"
     },
     {
         "place": "Guma",
         "date": "1885",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chotan",
         "date": "1885",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Takla Makan",
         "date": "1885",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "pustynia"
     },
     {
         "place": "Afganistan",
         "date": "1888",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Baltit",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hindukusz",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Indus",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Raskem Daria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Pamir",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Czarkum",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kafiristan",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Tybet",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Ladak",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "region?"
     },
     {
         "place": "Kilian",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Polu",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Tiznaf",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Jarkend-Daria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Osz",
         "date": "1890",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj?"
     },
     {
         "place": "Gulcza",
         "date": "1893",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Gülczö, Kirgistan"
     },
     {
         "place": "Kaszgar",
         "date": "1893",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Tałdik",
         "date": "1893",
         "result": null,
-        "pj_note": ""
+        "pj_note": "przełęcz"
     },
     {
         "place": "Kuantung",
         "date": "1900",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Port Artur",
         "date": "1903",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Astrachań",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "był gubernatorem astrachańskim"
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hiszpania",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Charbin",
         "date": "1907",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1910",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Anapa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Suez",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Colombo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Japonia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Londyn",
         "date": "1920",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Polska",
         "date": "1920",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]

@@ -2,289 +2,289 @@
     {
         "place": "Lublin",
         "date": "1667",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Radruż",
         "date": "1672-10-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Komarno",
         "date": "1672-10-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petranka",
         "date": "1672-10-14",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chocim",
         "date": "1673-11-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Litwa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wilno",
         "date": "1674",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brześć Litewski",
         "date": "1675-02-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żurawno",
         "date": "1676-09-29 - 1676-10-14",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oszmiana",
         "date": "1678-02-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Dubienka",
         "date": "1694-08-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Różana",
         "date": "1701-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Olkieniki",
         "date": "1700-11-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1703-03-05/1703-03-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sandomierz",
         "date": "1704-05-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pińsk",
         "date": "1705-02-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Dziewiątkowicze",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Słonim",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mińsk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Urzecze",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krasnystaw",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Kostyki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kniahinin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Studzionki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Motyki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Słoboda Borowiki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przysłan",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Olesiewicze",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krewo",
         "date": "1701",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stajki",
         "date": "1700",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hajany",
         "date": "1700",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Białorucze",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łukiszki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Merecz",
         "date": "1695/1697",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1693",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Ostaszyn Dołmatowski",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Burdziewicze",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Unichów",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wyszków",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Księdzowszczyzna",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Rukawczyce",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kaczujcie",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kaszczycy",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Nowogródek",
         "date": "1698",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
