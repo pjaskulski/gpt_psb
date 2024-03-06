@@ -2,235 +2,235 @@
     {
         "place": "Dąbrowica",
         "date": "1521",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipsk",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Padwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Egipt",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Palestyna",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wormacja",
         "date": "1545-06-1545-08",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Balic",
         "date": "1546",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kazimierz",
         "date": "1552",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1553",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wybrany posłem z województwa sandomierskiego na sejm krakowski"
     },
     {
         "place": "Bełsk",
         "date": "1555",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Pozwol",
         "date": "1557",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Serokomla",
         "date": "1557",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kock",
         "date": "1557",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1557",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1557",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wiślica",
         "date": "1557",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lubelskie",
         "date": "1561",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "1562",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1563/4",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rohatyn",
         "date": "1564",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Krakowie",
         "date": "1567",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1569",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Na pamiętnym sejmie lubelskim w r. 1569 marszałek brał czynny udział w urzeczywistnieniu unii."
     },
     {
         "place": "Sandomierz",
         "date": "1570",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie pojechał w r. 1570 do Sandomierza na synod"
     },
     {
         "place": "Knyszyn",
         "date": "1572",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Środa",
         "date": "1572",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Bystrzyca",
         "date": "1572",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Osiek",
         "date": "1573",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łęczyca",
         "date": "1573",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kaski",
         "date": "1573",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiślica",
         "date": "1572-11-17",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data nieprawidłowa"
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Proszowice",
         "date": "1573-03-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grochów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Balicach",
         "date": "1574-02-16",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błędna odmiana"
     },
     {
         "place": "Kock",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wąwelnicę",
         "date": "1567",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błędna odmiana"
     },
     {
         "place": "Firlejów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
