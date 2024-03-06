@@ -2,151 +2,151 @@
     {
         "place": "Mazowsze",
         "date": "1501-1524",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Zakroczym",
         "date": "1516-07-26",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1516-11-25",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Maków",
         "date": "1516",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1517",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Połock",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brasław",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1518-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zakroczym",
         "date": "1518",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Puszcza Zagajnica",
         "date": "1518-07",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1519-12-21",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pisz",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Ełk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Liw",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cisek",
         "date": "1523-04-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stanisławów",
         "date": "1523",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zambrów",
         "date": "1523-06-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grabowo",
         "date": "1523-06-24",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ciechanów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łomża",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Serock",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zakroczym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Buda",
         "date": "1523-02-28",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Podole",
         "date": "1524-06",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "1524-08-08",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
