@@ -2,205 +2,235 @@
     {
         "place": "Warszawa",
         "date": "1828-12-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1830-1831",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piskorowice",
         "date": "1832",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krasiczyn",
         "date": "1836",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Freiwaldau",
         "date": "1839-1841",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Opawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Riwiera",
         "date": "1841-1842",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Lwów",
         "date": "1844",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Londyn",
         "date": "1847",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1848",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szkocja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Bilcze",
         "date": "1859",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Zamierzał wtedy przenieść się do Bilcza na Podole"
     },
     {
         "place": "Teofilpol",
         "date": "1856, 1860",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Peszt",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1861",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Poznań",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Kobylanka",
+        "date": null,
+        "result": false,
+        "pj_note": true
+    },
+    {
+        "place": "Lwów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak aresztowano S-ę i osadzono w więzieniu «u Karmelitów» we Lwowie."
     },
     {
         "place": "Bukareszt",
         "date": "1864-03-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Marsylia",
         "date": "1864-03-25",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Paryż",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Drezno",
         "date": "1864-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Heidelberg",
         "date": "1865-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przemyśl",
         "date": "1867",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Złoczów",
         "date": "1868",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brody",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wogezach",
         "date": "1870",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Włochy",
         "date": "1877-05",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Poznań",
         "date": "1877-06",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "czerwiec w Poznańskiem"
     },
     {
         "place": "Wiedeń",
         "date": "1877-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wenecja",
         "date": "1878-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przemyśl",
         "date": "1883",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "1881, 1888",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krasiczyn",
         "date": "1886, 1888",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hnilice",
         "date": "1883",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Reichenhall w Bawarii",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

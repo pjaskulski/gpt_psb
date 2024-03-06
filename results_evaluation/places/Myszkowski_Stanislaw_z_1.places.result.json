@@ -2,199 +2,199 @@
     {
         "place": "Wilno",
         "date": "1546-04-12",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1549-02-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Słomniki",
         "date": "1550-02-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "1562-01-12",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? prawdopodobnie, ale data błędna"
     },
     {
         "place": "Nowe Miasto Korczyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1563-04-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "1563-04-14",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Wilno",
         "date": "1563-07-20",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1565-08-09",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "zaczął pełnić funkcję starosty krakowskiego"
     },
     {
         "place": "Tykocin",
         "date": "1566",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1569-03-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łęczyca",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Inowłodz",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lubochnia",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzeczyca",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Budziszowice",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ryczywół",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bestwina",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Jawiszowice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żebraczy",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cisowska Nowa Wola",
         "date": "1563",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pstrągowa",
         "date": "1563",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Komorowice",
         "date": "1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Biertułtowice",
         "date": "1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kleszczowa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żarnowiec",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Olsztyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wierzchowiska",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Będzin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1563",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data raczej błędna?"
     },
     {
         "place": "Sandomierz",
         "date": "1570-04-09/1570-04-14",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1570-04-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
