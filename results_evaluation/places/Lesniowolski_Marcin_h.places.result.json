@@ -2,181 +2,193 @@
     {
         "place": "Kraków",
         "date": "1562",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolonia",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "1566",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Neapol",
         "date": "1566",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Padwa",
         "date": "1567",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "1573",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Roszella",
         "date": "1573",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szwecja",
         "date": "1583",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "1582",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1582",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kalmar",
         "date": "1587",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1588",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "1588",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Brześć Litewski",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Lublin",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Zamość",
         "date": "1589",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1589",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1589",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1589",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rewel",
         "date": "1589",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Inflanty",
         "date": "1589",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Jędrzejów",
         "date": "1590",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1590",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zamość",
         "date": "1590",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1590",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łosice",
         "date": "1557",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Mazowsze",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Obory",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1589",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Szczebrzeszyn",
         "date": "1589",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
