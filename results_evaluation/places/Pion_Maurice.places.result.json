@@ -2,163 +2,163 @@
     {
         "place": "Paryż",
         "date": "1801-09-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1818-06-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1825",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nancy",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kalisz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1826-10-19",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1833",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1834-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1843",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mińsk Litewski",
         "date": "1844-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mińsk Litewski",
         "date": "1845-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1845",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kalisz",
         "date": "1847",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mohylew",
         "date": "1848",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "1848",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kiszyniów",
         "date": "1849",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Odesa",
         "date": "1849",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żytomierz",
         "date": "1850",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Charków",
         "date": "1850",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "1851",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "1852",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "1856",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamieniec Podolski",
         "date": "1858",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
