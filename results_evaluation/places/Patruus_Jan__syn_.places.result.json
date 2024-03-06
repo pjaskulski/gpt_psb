@@ -2,169 +2,169 @@
     {
         "place": "Poznań",
         "date": "ok. 1500-1583",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipsk",
         "date": "1557, 1558",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wittenberga",
         "date": "1557, 1558",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chwaliszewo",
         "date": "1538-1539",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łęczyca",
         "date": "od 1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1573",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gniezno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1558-1567",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kalisz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Drohiczyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Kolonia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Moguncja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Frankfurt nad Menem",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Metz",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Norymberga",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Bazylea",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Wenecja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Merseburg",
         "date": "1564",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Moguncja",
         "date": "1555",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku, chodzi o kontakty handlowe bohatera"
     },
     {
         "place": "Wrocław",
         "date": "1567",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Ingolsztat",
         "date": "1560",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Dylindze",
         "date": "1572, 1581",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lipsk",
         "date": "1563",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
