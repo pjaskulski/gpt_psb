@@ -2,163 +2,181 @@
     {
         "place": "Kamieniec Podolski",
         "date": "czerwiec 1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Trembowla",
         "date": "jesień 1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lebedyn",
         "date": "lato 1542",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bracław",
         "date": "22-09-1542",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oczaków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Widów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "27-06-brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bracław",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamieniec",
         "date": "październik 1556",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Trembowla",
         "date": "1-06-1558",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Smotrycz",
         "date": "wiosna i lato 1559",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Kraków",
         "date": "luty 1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Biela",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeżany",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczepanikowce",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paniowiec",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Roziczna",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stepankowce",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Fredrowice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Surża",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kadyjowce",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Werbka",
         "date": "1542",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Michałkowce",
         "date": "1542",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szarawka",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Worworczińce",
         "date": "maj 1543",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Iwankowce",
         "date": "1546",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Czarny Ostrów",
         "date": "1546",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Suchodołów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Mikitiniec",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Prosiątkowa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

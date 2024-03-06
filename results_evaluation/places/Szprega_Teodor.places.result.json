@@ -2,163 +2,175 @@
     {
         "place": "Czersk",
         "date": "1833-11-01",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Ur. 1 XI w Czersku"
     },
     {
         "place": "Chojnice",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "S. uczył się w gimnazjum katolickim w Chojnicach"
     },
     {
         "place": "Wejherowo",
         "date": "1856-05-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Po odbyciu nowicjatu w Wejherowie"
     },
     {
         "place": "Łąki",
         "date": "1857-05-06",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": " złożył 6 V 1857 profesję i podjął studia filozoficzno-teologiczne w klasztorze w Łąkach"
     },
     {
         "place": "Miejska Górka",
         "date": "1861-09-02",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "został 2 IX 1861 wykładowcą historii Kościoła w studium seminaryjnym w Miejskiej Górce"
     },
     {
         "place": "Wejherowo",
         "date": "1862",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1862 przeniesiono go do Wejherowa, gdzie objął funkcje wicemagistra nowicjatu"
     },
     {
         "place": "Osieczna",
         "date": "1865-07",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W poł. lipca 1865 został gwardianem i dyrektorem domu księży demerytów w Osiecznej koło Leszna"
     },
     {
         "place": "Zamarte",
         "date": "1870",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Od r. 1870 był kaznodzieją w Zamartem (pow. chojnicki) i Miejskiej Górce."
     },
     {
         "place": "Miejska Górka",
         "date": "1870",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Od r. 1870 był kaznodzieją w Zamartem (pow. chojnicki) i Miejskiej Górce."
     },
     {
         "place": "Wiedeń",
         "date": "1872-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "udał się S. przez Wiedeń i Triest do Stambułu"
     },
     {
         "place": "Triest",
         "date": "1872-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "udał się S. przez Wiedeń i Triest do Stambułu"
     },
     {
         "place": "Stambuł",
         "date": "1872-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "udał się S. przez Wiedeń i Triest do Stambułu"
     },
     {
         "place": "Adampol",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "dojeżdżał z posługą kapłańską do polskiej osady Adampol"
     },
     {
         "place": "Rzym",
         "date": "1879-07-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "5 VII t.r. w Rzymie przyjął na audiencji papież Leon XIII"
     },
     {
         "place": "Miejska Górka",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "zaproponował S-emu powrót i zamieszkanie z nim w Miejskiej Górce. S. wrócił jednak do Stambułu"
     },
     {
         "place": "Stambuł",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "S. wrócił jednak do Stambułu"
     },
     {
         "place": "Kurzętnik",
         "date": "1884",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W poł. marca 1884 uzyskał ją i 13 VI t.r. opuścił Stambuł. S. został wikariuszem w Kurzętniku"
     },
     {
         "place": "Zblewo",
         "date": "1885-01",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "następnie w styczniu 1885 w Zblewie"
     },
     {
         "place": "Miejska Górka",
         "date": "1887-07",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Od lipca 1887 był wikariuszem parafii w Miejskiej Górce"
     },
     {
         "place": "Goruszki",
         "date": "1887-07",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Od lipca 1887 był wikariuszem parafii w Miejskiej Górce z obowiązkiem zamieszkania przy kościele zakonnym na Goruszkach"
     },
     {
         "place": "Dubinie",
         "date": "1887-09-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W okresie 5 IX 1887 — 1 IV 1888 zastępował wikariusza parafii w Dubinie"
     },
     {
         "place": "Miejska Górka",
         "date": "1888-04-01",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "po czym wrócił do Miejskiej Górki"
     },
     {
         "place": "Poznań",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Wydał w Poznaniu, przetłumaczone na język polski: „Regułę Trzeciego Zakonu S. O. Franciszka”"
     },
     {
         "place": "Asyż",
         "date": "1895-05-16",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W dn. 16 V — 3 VI 1895 uczestniczył S. w kongregacji generalnej w Asyżu"
+    },
+    {
+        "place": "Stambuł",
+        "date": null,
+        "result": false,
+        "pj_note": "brak:  w rezultacie S. ponownie wyjechał do Stambułu"
     },
     {
         "place": "Osieczna",
         "date": "1900-10-01",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Stablewski odzyskał zamknięty w r. 1874 klasztor w Osiecznej i urządził w nim ponownie dom księży demerytów, mianował 1 X t.r. S-ę jego dyrektorem"
     },
     {
         "place": "Drzeczkowo",
         "date": "1900-10-09",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "S. od 9 X 1900 do 23 V 1902 zastępował równocześnie proboszcza parafii w Drzeczkowie"
     },
     {
         "place": "Rzym",
         "date": "1903-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Na przełomie maja i czerwca 1903 uczestniczył w kapit. generalnej zakonu w Rzymie"
+    },
+    {
+        "place": "Osieczna",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: Zmarł 26 VII 1911 w Osiecznej"
     }
 ]
