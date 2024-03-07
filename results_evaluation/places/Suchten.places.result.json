@@ -2,151 +2,157 @@
     {
         "place": "Gdańsk",
         "date": "1520",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Elbląg",
         "date": "1535-1539",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Frombork",
         "date": "1539-09-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lowanium",
         "date": "1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "1541",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ferrara",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolonia",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Padwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Królewiec",
         "date": "1545",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Królewiec",
         "date": "1546",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Królewiec",
         "date": "1547",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Weinheim",
         "date": "1549",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1554",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1557",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Padwa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Wilno",
         "date": "1561",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Królewiec",
         "date": "1563",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kolonia",
         "date": "1567",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Strasburg",
         "date": "1570",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Speyer",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale to nie jest polska wersja nazwy?"
     },
     {
         "place": "Kolonia",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Śląsk",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Saksonia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Nadrenia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Saksonia",
         "date": "między 1576 a 1590",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]
