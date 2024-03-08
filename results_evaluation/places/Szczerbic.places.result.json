@@ -2,20 +2,20 @@
     {
         "place": "Kraków",
         "date": "1527",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca bohatera biogramu"
     },
     {
         "place": "Starodub",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca bohatera biogramu"
     },
     {
         "place": "Smoleńsk",
         "date": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "dotyczy ojca bohatera biogramu"
     },
     {
         "place": "Chocim",
@@ -26,109 +26,115 @@
     {
         "place": "Węgry",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca bohatera biogramu"
     },
     {
         "place": "Włochy",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1577",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wisznia",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Warszawa",
         "date": "1579",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1581",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1582",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sandomierz",
         "date": "1607",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Dn. 1 II 1607 został prepozytem sandomierskim"
     },
     {
         "place": "Piotrków",
         "date": "1609",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "choć data chyba niewłaściwa"
     },
     {
         "place": "Częstochowa",
         "date": "1589",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "posiadał prawa do wójtostwa w Częstochowie"
     },
     {
         "place": "Malbork",
         "date": "1590",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? uzyskał 18 IV 1590 od Zygmunta III dożywotnie nadanie 18 łanów ziemi w pobliżu Malborka"
     },
     {
         "place": "Chruszczobród",
         "date": "1591",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wieliczka",
         "date": "1595",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bełz",
         "date": "1604",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Chełm",
         "date": "1604",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wieliczka",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna"
     },
     {
         "place": "Warszawa",
         "date": "1609-02-26",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna"
     },
     {
         "place": "Garlica Górna",
         "date": "1611",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna"
     }
 ]
