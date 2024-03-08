@@ -2,133 +2,133 @@
     {
         "place": "Berezówka",
         "date": "1831-11-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Międzyboż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żytomierz",
         "date": "1842-1847",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Austria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Włochy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Francja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Belgia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Saksonia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bruksela",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Horodło",
         "date": "1861-10-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamieniec Podolski",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kursk",
         "date": "1862-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczygr",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1867",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Steckowce",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wola Gałęzowska",
         "date": "1870-1871",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - W r. 1875 wydał S., również w Poznaniu, sygnowane pierwszą literą nazwiska, dwa tomy Poezji,"
     },
     {
         "place": "Florencja",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
