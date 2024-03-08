@@ -2,121 +2,127 @@
     {
         "place": "Rogowo",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "z Rogowa"
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przebywał na dworze królewskim"
     },
     {
         "place": "Chęciny",
         "date": "1427",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Węgry",
         "date": "1442",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Brzeźnica",
         "date": "1419",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - posiadał wraz z braćmi, nadaną im na własność, tenutę brzeźnicką"
+    },
+    {
+        "place": "Grotniki",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Radom",
         "date": "1440",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał starostwo radomskie"
     },
     {
         "place": "Rozprza",
         "date": "1443",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "został kasztelanem rozpierskim"
     },
     {
         "place": "Nieszawa",
         "date": "1452",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powierzono mu pograniczne starostwo nieszawskie"
     },
     {
         "place": "Sieradz",
         "date": "1453",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał kasztelanię sieradzką, starostwo inowrocławskie i tenutę pyzdrską"
     },
     {
         "place": "Inowrocław",
         "date": "1453",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał kasztelanię sieradzką, starostwo inowrocławskie i tenutę pyzdrską"
     },
     {
         "place": "Pyzdry",
         "date": "1453",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał kasztelanię sieradzką, starostwo inowrocławskie i tenutę pyzdrską"
     },
     {
         "place": "Parczew",
         "date": "1453",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1453",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1455",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sandomierz",
         "date": "1461",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał kasztelanię sandomierską"
     },
     {
         "place": "Działoszyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Radoszyce",
         "date": "1462",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zwoleń",
         "date": "1462",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Koło",
         "date": "1463",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gołub",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zapisał mu 1000 zł węg. na dochodach Gołubia"
     }
 ]
