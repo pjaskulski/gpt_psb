@@ -2,145 +2,145 @@
     {
         "place": "Szumsko",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Boksa z Szumska, ... Oprócz Szumska, gdzie posiadał także część prawa patronatu tamtejszego kościoła parafialnego"
     },
     {
         "place": "Kraków",
         "date": "1388-1408",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "występował wielokrotnie jako asesor na rokach sądów ziemskich: krakowskiego (1388—1408), ...pojawiając się od czasu do czasu w orszaku władcy: w marcu 1403 w Krakowie"
     },
     {
         "place": "Sandomierz",
         "date": "1408-1412",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "występował wielokrotnie jako asesor na rokach sądów ziemskich: krakowskiego (1388—1408) i sandomierskiego (1408—12)"
     },
     {
         "place": "Radoszyce",
         "date": "1393-11-26, 1413-07-30",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "26 XI 1393 w Radoszycach został wymieniony jako łowczy sandomierski , 30 VII 1413 był w otoczeniu króla w Radoszycach"
     },
     {
         "place": "Nowe Miasto Korczyn",
         "date": "1394-07-24, 1405-09",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "24 VII r.n. [1393] w Nowym Mieście Korczynie świadkował..., pojawiając się od czasu do czasu w orszaku władcy: ... we wrześniu 1405 w Nowym Mieście Korczynie"
     },
     {
         "place": "Niepołomice",
         "date": "1395-07",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W lipcu 1395 był obecny w otoczeniu króla w Niepołomicach"
     },
     {
         "place": "Chęciny",
         "date": "1395-07, 1401-06",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pod koniec tego miesiąca [lipiec 1395] w Chęcinach uczestniczył w zawarciu kontraktu lokacyjnego wsi Zawada..., w czerwcu t.r. [1401] w Chęcinach S. został nazwany rycerzem pasowanym"
     },
     {
         "place": "Lwów",
         "date": "1397-09-01",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "jako łowczy krakowski świadkował we Lwowie 1 IX t.r. [1397]"
     },
     {
         "place": "Szczekarzów",
         "date": "1398-07-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "5 VII 1398 został wymieniony w dyplomie królewskim wystawionym we wsi Szczekarzów, niedaleko Kazimierzy Wielkiej"
     },
     {
         "place": "Biecz",
         "date": "1399-11",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W listopadzie 1399 przebywał wraz z monarchą w Bieczu"
     },
     {
         "place": "Solec",
         "date": "1400-08",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W listopadzie 1399 przebywał wraz z monarchą w Bieczu, natomiast w sierpniu r.n. w Solcu."
     },
     {
         "place": "Koprzywnica",
         "date": "1406-03",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pojawiając się od czasu do czasu w orszaku władcy: ... w marcu 1406 w Koprzywnicy."
     },
     {
         "place": "Łagów",
         "date": "1413-08-11",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "u boku monarchy pojawił się 11 VIII t.r. w Łagowie"
     },
     {
         "place": "Nagnajów",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "miał być może w ziemi sandomierskiej Nagnajów koło Baranowa Sandomierskiego"
     },
     {
         "place": "Pławowice",
         "date": "1384",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1384 ... określony jako dziedzic Pławowic koło Proszowic i Górki"
     },
     {
         "place": "Górki",
         "date": "1384",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "W r. 1384 ... określony jako dziedzic Pławowic koło Proszowic i Górki"
     },
     {
         "place": "Pojałowice",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dzięki małżeństwu S. wszedł w posiadanie części Pojałowic..."
     },
     {
         "place": "Nagłowice",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dzięki małżeństwu S. wszedł w posiadanie części ... Nagłowic"
     },
     {
         "place": "Wola Trzcieńska",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dzięki małżeństwu S. wszedł w posiadanie części ... Woli Trzcieńskiej"
     },
     {
         "place": "Nowa Wieś",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dzięki małżeństwu S. wszedł w posiadanie części ... Nowej Wsi"
     },
     {
         "place": "Zdanowice",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Dzięki małżeństwu S. wszedł w posiadanie części ... Zdanowicz - błędna odmiana?"
     },
     {
         "place": "Imbramowice",
         "date": "1403",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "S. miał też część w Imbramowicach, którą w r. 1403 zastawił..."
     },
     {
         "place": "Sączów",
         "date": "1403",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wraz z żoną w r.n. sprzedał Janowi Niemierzy z Ożarowic wieś Sączów - błąd w dacie?, zdanie wcześniejsze zaczyna się od W r. 1402 ... ale później pada jeszcze data 1403, więc tu chodzi chyba o 1404?"
     },
     {
         "place": "Tarnów",
         "date": "1411",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w r. 1411 ręczył na sumę 330 grzywien, wraz z Mszczujem z Więckowic, za Spytka z Tarnowa - Tarnów nie jest związany z S."
     }
 ]

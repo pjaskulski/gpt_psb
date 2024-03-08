@@ -2,25 +2,25 @@
     {
         "place": "Ciechomice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kozłów Szlachecki",
         "date": "1407-06-30",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Otrzymał wówczas Kozłów nad Bzurą (obecnie Kozłów Szlachecki)"
     },
     {
         "place": "Jasieniec",
         "date": "1407-06-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Złota",
         "date": "1407-06-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
@@ -32,115 +32,115 @@
     {
         "place": "Ćmiszewo",
         "date": "1407-06-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łącko",
         "date": "1412-06-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wola Łącka",
         "date": "1412-06-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bielsko",
         "date": "1417-06-17",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku: wystąpił w dokumencie książęcym z 17 VI 1417, potwierdzającym sprzedaż wójtostwa w Bielsku"
     },
     {
         "place": "Malbork",
         "date": "1421-05-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mełno",
         "date": "1422-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Parczew",
         "date": "1424-02-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1424-03-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Płock",
         "date": "1424-09-27",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sójki",
         "date": "1424-11-30",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pośrednio"
     },
     {
         "place": "Goślina",
         "date": "1429-06-13",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wiskitki",
         "date": "1434-12-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sochaczew",
         "date": "1434-12-15",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Brześć Kujawski",
         "date": "1435-12-31",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilków",
         "date": "1439-07-26",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sierochowo",
         "date": "ok. 1417",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Komadzyń",
         "date": "ok. 1417",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Dębsk Stary",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nieborów",
         "date": "1457-09-10",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
