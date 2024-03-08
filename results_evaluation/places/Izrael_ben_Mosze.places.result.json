@@ -2,13 +2,19 @@
     {
         "place": "Zamość",
         "date": "1700",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Brody",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

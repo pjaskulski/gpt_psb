@@ -2,13 +2,13 @@
     {
         "place": "Racibórz",
         "date": "1840",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

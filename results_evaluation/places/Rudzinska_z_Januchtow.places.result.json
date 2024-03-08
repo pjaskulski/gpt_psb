@@ -2,19 +2,31 @@
     {
         "place": "Kielce",
         "date": "1943-07-17",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1960-1965",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1962-1968",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Paryż",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Frankfurt nad Menem",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

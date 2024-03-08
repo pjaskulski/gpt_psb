@@ -2,13 +2,13 @@
     {
         "place": "Troki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,19 +2,19 @@
     {
         "place": "Poznań",
         "date": "XII w.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łekno",
         "date": "1153",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dokument Zbyluta dla klasztoru cystersów w Łeknie z 1153 r. wymienia wśród pieczęci świadków przynależną «Radvano cancellario»"
     },
     {
         "place": "Kostrzyn",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

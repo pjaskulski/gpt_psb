@@ -2,13 +2,13 @@
     {
         "place": "Sierpc",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1485-1512",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,13 +2,19 @@
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Leodium",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
