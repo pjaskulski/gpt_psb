@@ -1,110 +1,116 @@
-[
+    [
     {
         "place": "Warszawa",
         "date": "1818-05-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1838-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mińsk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1840",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1841",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1846",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oława",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczecin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeg",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hamburg",
         "date": "1847-02-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Polska",
         "date": "1848-05",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Monachium",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Drezno",
         "date": "1852",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1854",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1859",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Ameryka",
         "date": "1866",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Drezno",
         "date": "1872-02-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
