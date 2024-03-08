@@ -2,145 +2,151 @@
     {
         "place": "Mszczonów",
         "date": "1517",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kampinos",
         "date": "1517",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Zatorem",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Płońsk",
         "date": "1517",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1517",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1529",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Królewiec",
         "date": "1531",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Turcja",
         "date": "1532",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Sochaczew",
         "date": "1533",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rawie",
         "date": "1539",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bydgoszcz",
         "date": "1550",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Włocławek",
         "date": "1553",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Mszczonów",
         "date": "1554",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Guzów",
         "date": "1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ingolstadt",
         "date": "1561",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Włochy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kapinos",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1566",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "W sejmie lubelskim 1566 r. nie uczestniczył"
     },
     {
         "place": "Radziejowice",
         "date": "1548",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków",
         "date": "1548",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sochaczew",
         "date": "1563",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mszczonów",
         "date": "1563",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nieporęt",
         "date": "1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
