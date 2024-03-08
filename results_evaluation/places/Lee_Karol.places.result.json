@@ -2,121 +2,121 @@
     {
         "place": "Dernhall",
         "date": "1731",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ameryka",
         "date": "1755-1761",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Portugalia",
         "date": "1762/3",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Illinois",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Polska",
         "date": "1765",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Stambuł",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Anglia",
         "date": "1766",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Floryda",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Rosja",
         "date": "1768",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Paryż",
         "date": "1768",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chocim",
         "date": "1769",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Węgry",
         "date": "1769",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Boston",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowy Jork",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "New Jersey",
         "date": "1776",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "New York",
         "date": "1776",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Valley Forge",
         "date": "1778",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Filadelfia",
         "date": "1782",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,121 +2,121 @@
     {
         "place": "Tuhanowicze",
         "date": "1799-12-24",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tuhanowicze",
         "date": "1820",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tuhanowicze",
         "date": "1821-02-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kowno",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Płużyny",
         "date": "1821",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1821",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolcieniki",
         "date": "1821",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Drezno",
         "date": "1823",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1823",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1824",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jaszuny",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolcieniki",
         "date": "1833",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolcienik-Brażele",
         "date": "1833",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiłkomierz",
         "date": "1839",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bolcieniki",
         "date": "1841",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brażele",
         "date": "1863",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bieniakonie",
         "date": "1863",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lozanna",
         "date": "1839 lub 1840",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Splügen",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

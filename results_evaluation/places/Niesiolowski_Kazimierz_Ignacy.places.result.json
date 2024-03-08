@@ -2,121 +2,127 @@
     {
         "place": "Pomorze",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "ziemia przemyska",
         "date": "1697",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Podole",
         "date": "1698",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Brzeżany",
         "date": "1698",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tarnogród",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Wziął czynny udział w konfederacji tarnogrodzkiej"
     },
     {
         "place": "Brześć",
         "date": "1716",
         "result": null,
-        "pj_note": ""
+        "pj_note": "? - w r. 1716 posłował na komisję brzeską"
     },
     {
         "place": "Krasnystaw",
         "date": "1716",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mozyrz",
         "date": "1722",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Mińsk",
         "date": "1724",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wybrano go deputatem pow. mozyrskiego na Trybunał w Mińsku"
     },
     {
         "place": "województwo nowogródzkie",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kraków",
         "date": "1734",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "województwo mścisławskie",
         "date": "1734",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Petersburg",
         "date": "1737",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "1738",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1738",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "posła z Inflant królewskich na sejm warszawski"
     },
     {
         "place": "Smoleńsk",
         "date": "1738",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał kasztelanię smoleńską"
     },
     {
         "place": "Pińsk",
         "date": "1743",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Nieśwież",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "województwo wileńskie",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Supraśl",
         "date": "1783",
         "result": null,
         "pj_note": ""
+    },
+    {
+        "place": "Woroneża",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
