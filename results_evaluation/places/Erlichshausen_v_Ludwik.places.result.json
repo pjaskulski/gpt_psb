@@ -2,91 +2,98 @@
     {
         "place": "Szwabia",
         "date": "ok. 1410",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Leszki",
         "date": "1440",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grabin",
         "date": "1441-10-14",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipienek",
         "date": "1442-1446",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gniew",
         "date": "1446-1450",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Malbork",
         "date": "1454-1457",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chojnice",
         "date": "1454",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Szczecinek",
         "date": "1457",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Świbowiny",
         "date": "1457",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "chciał udać się do zastawionej Brandenburczykom Świbowiny "
     },
     {
         "place": "Gniew",
         "date": "1457",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Królewiec",
         "date": "1457",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Frombork",
         "date": "1462",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1463",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Gdańszczanie i elblążanie pobili go też na Zalewie (1463)"
     },
     {
         "place": "Elbląg",
         "date": "1463",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Gdańszczanie i elblążanie pobili go też na Zalewie (1463)"
     },
     {
         "place": "Chełmno",
         "date": "1466-09-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Królewiec",
+        "date": null,
+        "result": false,
+        "pj_note": "Po powrocie do Królewca zapadł ciężko na zdrowiu i zmarł 4 IV 1467; pochowany został w tumie w Królewcu."
     }
+
 ]

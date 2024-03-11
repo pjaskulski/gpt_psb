@@ -2,91 +2,97 @@
     {
         "place": "Woszczańce",
         "date": "1647-02-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Maniawa",
         "date": "1664-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wicyń",
         "date": "1701",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1677-09-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1680-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1694-12-16/1694-12-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sambor",
         "date": "1710-06-15",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": " W cerkwi Zbawiciela (Spasa) pod Samborem S. został 15 VI wyświęcony na biskupa"
     },
     {
         "place": "Szczurzec",
         "date": "1709",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - nadał statut bractwu przy cerkwi Narodzenia Matki Boskiej w Szczyrcu pod Lwowem"
     },
     {
         "place": "Śniatyn",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zatwierdził prawa członków bractwa przy cerkwi Wniebowstąpienia Pańskiego w Śniatyniu"
     },
     {
         "place": "Kamieniec Podolski",
         "date": "1712-08",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "objął S. katedrę Świętej Trójcy w Kamieńcu Podolskim"
     },
     {
         "place": "Uniów",
         "date": "1711-08",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kołomyja",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Tłumacz",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Ugorniki",
         "date": "1710-04",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Poczajów",
         "date": "1712-06-29",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Uniów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: S. zmarł 5 IV 1715 (wg Trombettiego 4 IV) w Uniowie"
     }
 ]

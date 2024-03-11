@@ -2,91 +2,91 @@
     {
         "place": "Nysa",
         "date": "1574-07-20",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeg",
         "date": "1572, 1582",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1597, 1612, 1614",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Strzyża Górna",
         "date": "1622",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chojnice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oliwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pelplin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Czersk",
         "date": "1610",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Braniewo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Klackenberg",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Trebnica",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Jar",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Bobrowo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brodnica",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Prągowo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
