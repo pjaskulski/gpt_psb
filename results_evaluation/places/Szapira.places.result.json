@@ -2,92 +2,98 @@
     {
         "place": "Suczawa",
         "date": "1887-02-24",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Monasterzyska",
         "date": "1894",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeżany",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tarnopol",
         "date": "1906",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gliniany",
         "date": "1910",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Katowice",
         "date": "1912-05-27",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Frankfurt nad Menem",
         "date": "1918",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sanok",
         "date": "1920",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1921",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - bezskutecznie kandydował na urząd rabina gminnego (nadrabina?) w Krakowie"
     },
     {
         "place": "Warszawa",
         "date": "1922",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1923",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1923",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Piotrków Trybunalski",
         "date": "1924",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowy Jork",
         "date": "1926-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Lublin",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: S. zmarł po krótkiej chorobie 27 X 1933 w Lublinie"
     },
     {
         "place": "Jerozolima",

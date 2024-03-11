@@ -2,97 +2,109 @@
     {
         "place": "Czechowo",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - był synem Wincentego (zm. 10 X 1556), dziedzica Czechowa i Jarząbkowa"
     },
     {
         "place": "Jarząbkowo",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - był synem Wincentego (zm. 10 X 1556), dziedzica Czechowa i Jarząbkowa"
     },
     {
         "place": "Kraków",
         "date": "1524",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1524",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Włochy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Poznań",
         "date": "1537-1544",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kaliska",
         "date": "1549",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - jeżeli już to powinno być 'Kalisz': Przed r. 1549 dostał prepozyturę w kolegiacie kaliskiej"
     },
     {
         "place": "Kielce",
         "date": "1549",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - dostał prepozyturę w kolegiacie kaliskiej, kanonię kielecką"
     },
     {
         "place": "Sądecka",
         "date": "1549",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - Nowy Sącz?: dostał prepozyturę w kolegiacie kaliskiej, kanonię kielecką, archidiakonię sądecką"
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "W synodzie tym, który po zmianie miejsca i terminu odbył się 2 III w Warszawie"
     },
     {
         "place": "Tarnów",
         "date": "1561",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1565",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sądowa Wisznia",
         "date": "1566",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1566",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Obroszyn",
         "date": "1568",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "We wrześniu 1568 dostał od króla w dożywocie wsie Obroszyn i Olenczyce w star. lwowskim"
     },
     {
         "place": "Olenczyce",
         "date": "1568",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "We wrześniu 1568 dostał od króla w dożywocie wsie Obroszyn i Olenczyce w star. lwowskim"
     },
     {
         "place": "Dunajów",
         "date": "brak danych",
         "result": null,
         "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": null,
+        "result": false,
+        "pj_note": "w październiku 1573 był (wg informacji Andrzeja Dudycza) w Krakowie ... Był w Krakowie także w lutym 1574"
     }
 ]
