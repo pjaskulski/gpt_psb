@@ -2,85 +2,91 @@
     {
         "place": "Laskowo-Głuchy",
         "date": "1825-03-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1835-1842",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Paryż",
         "date": "1848",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "1848",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Drezno",
         "date": "1848",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Marsylia",
         "date": "1849",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Awinion",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Werona",
         "date": "1857",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1857",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Vichy",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wrocław",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: uciekł do Wrocławia, gdzie zmarł 6 V 1864"
     }
 ]
