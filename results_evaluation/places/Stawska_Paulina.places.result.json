@@ -2,91 +2,97 @@
     {
         "place": "Toruń",
         "date": "1855-10-29",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1883",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Iwonicz",
         "date": "1884-10-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Morawica",
         "date": "1885-10-04 - 1889",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sokal",
         "date": "1891-1893",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowe Miasto nad Pilicą",
         "date": "1889",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Detroit",
         "date": "1894-06-30 - 1908",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Waszyngton",
         "date": "1917",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: Po zakończeniu wojny wróciła do Krakowa ... Zmarła 4 XI 1934 w Krakowie"
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "McKeesport",
         "date": "1921",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa-Wawer",
         "date": "1922",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Coraopolis",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to inna nazwa McKeesport"
     },
     {
         "place": "Tyńiec",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błąd w nazwie"
     }
 ]

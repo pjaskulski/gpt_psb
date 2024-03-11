@@ -2,97 +2,109 @@
     {
         "place": "Żytomierz",
         "date": "1895-12-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1913",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijów",
         "date": "1914",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1919",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1923-1925",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bydgoszcz",
         "date": "1925-1927",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w l. 1925–7 w bydgoskim Teatrze Miejskim"
     },
     {
         "place": "Gdańsk",
         "date": "1929",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdynia",
         "date": "1929",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ravensbrück",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1945",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: W lipcu t.r. rozpoczęła pracę w Wydz. Kultury i Sztuki w Gdańsku na stanowisku starszego bibliotekarza."
     },
     {
         "place": "Gniezno",
         "date": "1949",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kalisz",
         "date": "1952-1954",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1954-1957",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gniezno",
         "date": "1957-1965",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Skolimów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: W r. 1966 zamieszkała w Schronisku Artystów Weteranów Scen Polskich w Skolimowie"
     }
 ]
