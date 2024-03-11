@@ -2,85 +2,85 @@
     {
         "place": "Czernihów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stawrów",
         "date": "1583",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Niewykluczone, że nazwisko S-ego jest związane ze wsią Stawrów"
     },
     {
         "place": "Tarnopol",
         "date": "1589",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Starsza literatura identyfikowała S-ego z Kiryłem, nauczycielem szkoły Lwowskiego Bractwa Stauropigialnego, który w r. 1589 w Tarnopolu przemawiał po grecku"
     },
     {
         "place": "Wilno",
         "date": "1591",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lubartów",
         "date": "1604-1643",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - S. bywał również identyfikowany z ... mieszkającym w l. 1604–43 w Lubartowie"
     },
     {
         "place": "Zamość",
         "date": "1621-1625",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - S. bywał również identyfikowany ... z pełniącym w l. 1621–5 funkcję kaznodziei w Zamościu znawcą greki i łaciny Kiryłem"
     },
     {
         "place": "Lwów",
         "date": "1615",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "we Lwowie wydał S. anonimowy psałterz"
     },
     {
         "place": "Jassy",
         "date": "1615",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rachmanów",
         "date": "1619",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - miejsce wydania kazań S."
     },
     {
         "place": "Moskwa",
         "date": "1627",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "tam palono dzieła S."
     },
     {
         "place": "Putywl",
         "date": "1627",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "tam palono dzieła S."
     },
     {
         "place": "Tobolsk",
         "date": "1627",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "tam palono dzieła S."
     },
     {
         "place": "Werchoturje",
         "date": "1627",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "tam palono dzieła S."
     },
     {
         "place": "Kijów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

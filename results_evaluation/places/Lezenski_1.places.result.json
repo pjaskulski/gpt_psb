@@ -2,85 +2,91 @@
     {
         "place": "Leżenice",
         "date": "1603",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Graz",
         "date": "1616-1619",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ingolstadt",
         "date": "1616-1619",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1633",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sandomierz",
         "date": "1633",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "został archidiakonem sandomierskim"
     },
     {
         "place": "Łęczyca",
         "date": "1640",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał prepozyturę łęczycką oraz został mianowany kanonikiem warszawskim"
     },
     {
         "place": "Warszawa",
         "date": "1640",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał prepozyturę łęczycką oraz został mianowany kanonikiem warszawskim"
     },
     {
         "place": "Wąchock",
         "date": "1648",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Chełm",
         "date": "1657",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Zamość",
         "date": "1663",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łuck",
         "date": "1667",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - przeszedł L. na biskupstwo łuckie"
     },
     {
         "place": "Rawa",
         "date": "1665",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Palczyn",
         "date": "1665",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1673",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wąchock",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: Zmarł w r. 1675; został pochowany w Wąchocku."
     }
 ]
