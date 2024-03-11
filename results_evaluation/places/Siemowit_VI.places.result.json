@@ -2,85 +2,85 @@
     {
         "place": "Zadubce",
         "date": "1448",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeźnica",
         "date": "1448",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Horodło",
         "date": "1448",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bełz",
         "date": "1456-02-29",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "książęta przebywali w ziemi bełskiej"
     },
     {
         "place": "Busk",
         "date": "1456-02-29",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rawa",
         "date": "1456-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiźnia",
         "date": "1456-05",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błąd w nazwie"
     },
     {
         "place": "Czerwińsk",
         "date": "1457-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Płock",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gostynin",
         "date": "1459-07-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grochale",
         "date": "1459-08-21",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sokal",
         "date": "1460-12-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hrebenne",
         "date": "1458-09-09",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Sanniki",
         "date": "1461-12-31",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
