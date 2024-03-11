@@ -2,97 +2,103 @@
     {
         "place": "Lublin",
         "date": "1716-07-26",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Prużany",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sielce",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kowno",
         "date": "1736-09",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Jako starosta kowieński P. we wrześniu 1736 prosił hetmana Michała Radziwiłła o ulgi w podatkach wojskowych dla zubożałego miasta."
     },
     {
         "place": "Witebsk",
         "date": "1739-03-31",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to urząd a nie miejscowość: został kasztelanem witebskim"
     },
     {
         "place": "Troki",
         "date": "1740-06-10",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to urząd a nie miejscowość: został kasztelanem witebskim"
     },
     {
         "place": "Wschowa",
         "date": "1742-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "1744",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Jako senatorski deputat do konstytucji na sejmie grodzieńskim 1744 r."
     },
     {
         "place": "Wieloń",
         "date": "1745-08",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "prosił w sierpniu 1745 o starostwo wielońskie (bez efektu)"
     },
     {
         "place": "Rohaczew",
         "date": "1724",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "P. był starostą rohaczewskim (1724)"
     },
     {
         "place": "Olkieniki",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "P. był starostą rohaczewskim (1724), olkienickim (dyplom przed 26 III 1731)"
     },
     {
         "place": "Oteśnie",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "był statostą"
     },
     {
         "place": "Kazimierz Pac",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to osoba a nie miejscowość"
     },
     {
         "place": "Kadzina",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pisał się panem na Kadzinie i Ostrownie"
     },
     {
         "place": "Ostrowno",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pisał się panem na Kadzinie i Ostrownie"
     },
     {
         "place": "Bochoty",
         "date": "1732",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wilno",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: pochowano go w kaplicy grobowej Pociejów w kościele dominikańskim Św. Ducha w Wilnie"
     }
 ]
