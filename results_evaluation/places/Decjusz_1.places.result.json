@@ -2,79 +2,85 @@
     {
         "place": "Kraków",
         "date": "1534",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Włochy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wieliczka",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "objął urząd karbarza wielickiego"
     },
     {
         "place": "Wilno",
         "date": "1545",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tybinga",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy brata bohatera"
     },
     {
         "place": "Wola Justowska",
         "date": "1552",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Włodzisław",
         "date": "1557",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Olkusz",
         "date": "1549",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "objął zarząd żup olkuskich i chęcińskich"
     },
     {
         "place": "Chęciny",
         "date": "1549",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "objął zarząd żup olkuskich i chęcińskich"
     },
     {
         "place": "Lublin",
         "date": "1554",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - 13 IV 1554 na sejmie lubelskim otrzymał po J. Lutomirskim urząd podkomorzego górniczego"
     },
     {
         "place": "Ziemia Sieradzka",
         "date": "1560",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wrocław",
         "date": "1560",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wilno",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: w r. 1556/7 do Wilna celem odebrania rachunku z mennicy"
     }
 ]
