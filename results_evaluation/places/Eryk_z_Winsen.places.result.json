@@ -2,79 +2,79 @@
     {
         "place": "Hildesheim",
         "date": "1378",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przemyśl",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krosno",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie ma bezpośredniego związku"
     },
     {
         "place": "Sanok",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Łańcut",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Radymno",
         "date": "1384",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzozów",
         "date": "1384",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Domaradz",
         "date": "1384",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Równe",
         "date": "1384",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cergowa",
         "date": "1384",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzeszów",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Budzie",
         "date": "1384",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
