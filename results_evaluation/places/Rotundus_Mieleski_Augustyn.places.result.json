@@ -2,79 +2,91 @@
     {
         "place": "Wieluń",
         "date": "ok. 1520",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "ok. 1534",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wittenberga",
         "date": "1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warta",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Włochy",
         "date": "1544-1546",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Padwa",
         "date": "1544-1546",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolonia",
         "date": "1544-1546",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ferrara",
         "date": "1544-1546",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1551",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Lublin",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Warszawa",
         "date": "1571",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1572",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1574",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wilno",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: R. zmarł w Wilnie 20 III 1582"
     }
 ]
