@@ -2,79 +2,85 @@
     {
         "place": "Lwów",
         "date": "1919-10-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1939-1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szaumiani",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kutaisi",
         "date": "1943-08-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kostroma",
         "date": "1943",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Turia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Bug",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Dęblin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Puławy",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warecko-Magnuszew",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "walczył ... w operacji warszawskiej - to zbyt duża interpretacja"
     },
     {
         "place": "Wał Pomorski",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Korea",
         "date": "1960-1961",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
+    },
+    {
+        "place": "Moskwa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: W l. 1962–4 studiował w Akademii Sztabu Generalnego w Moskwie."
     }
 ]

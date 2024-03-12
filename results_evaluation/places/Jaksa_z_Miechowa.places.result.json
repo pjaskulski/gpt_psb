@@ -2,79 +2,79 @@
     {
         "place": "Miechów",
         "date": "1163",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zagorzyce",
         "date": "1163",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Komorów",
         "date": "1163",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jerozolima",
         "date": "1198",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Sieciechów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krzyżanowice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zwierzyniec",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lubelskie",
         "date": "1252",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kobylniki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kowale",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Suchorowice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zabierzów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bibice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
