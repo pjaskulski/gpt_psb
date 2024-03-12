@@ -2,79 +2,85 @@
     {
         "place": "Warszawa",
         "date": "1807-06-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ryki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kurowo",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "chyba Kurów?"
     },
     {
         "place": "Włochy",
         "date": "1838-1839",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Austria",
         "date": "1838-1839",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wiedeń",
         "date": "1838-1839",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - pracował wtedy przy regulacji Dunaju pod Wiedniem"
     },
     {
         "place": "Augustów",
         "date": "1839-1841",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to raczej nadinterpretacja: W l. 1839–41 pracował przy budowie Kanału Augustowskiego"
     },
     {
         "place": "Niemcy",
         "date": "1841-1844",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Belgia",
         "date": "1841-1844",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Holandia",
         "date": "1841-1844",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Francja",
         "date": "1841-1844",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Anglia",
         "date": "1841-1844",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: K. zmarł 4 VI 1877 r. w Warszawie."
     }
 ]
