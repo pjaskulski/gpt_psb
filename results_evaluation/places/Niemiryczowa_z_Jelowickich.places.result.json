@@ -2,67 +2,67 @@
     {
         "place": "Ożenin",
         "date": "ok. 1700",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Czerniechów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraska Dąbrowa",
         "date": "1745",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Derezna",
         "date": "1749",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Uniewinnieni",
         "date": "1734",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Horoszki",
         "date": "1748",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Złotyjów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wysokie",
         "date": "1753",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

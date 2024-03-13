@@ -2,67 +2,67 @@
     {
         "place": "Łódź",
         "date": "1906-02-26",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1921",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1922-05-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1923-12-21",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sieradz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łęczyca",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1923",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wronek",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale błędna odmiana"
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1928-01",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
