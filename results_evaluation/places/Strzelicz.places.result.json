@@ -2,73 +2,73 @@
     {
         "place": "Kraków",
         "date": "1390",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1392",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nysa",
         "date": "1392",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1401",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowy Sącz",
         "date": "1404",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sosnowice",
         "date": "1419",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Falkowa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jamnica",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamionka",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kunów",
         "date": "1416",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mystków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cietrzewina",
         "date": "1416",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
