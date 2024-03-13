@@ -2,73 +2,73 @@
     {
         "place": "Druck",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mamaj",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Zadnieprze",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Moskwa",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Perejasław Zaleski",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mołodeczno",
         "date": "1388",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Psków",
         "date": "1389",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowogród Wielki",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Litwa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Briańsk",
         "date": "1399",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Worsklą",
         "date": "1399",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna odmiana nazwy"
     },
     {
         "place": "Połock",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

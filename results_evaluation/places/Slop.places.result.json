@@ -2,73 +2,85 @@
     {
         "place": "Dębowiec",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cieszyn",
         "date": "1440",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Boguszowice",
         "date": "1442-04-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Siewierz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Hradiszte",
         "date": "1450",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oświęcim",
         "date": "1456",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Wałek",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Gliwice",
         "date": "1457-02-21",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bogumin",
         "date": "ok. 1464",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ołomuniec",
         "date": "1468-07-05",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Osiek",
         "date": "1468-06-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeszcze",
         "date": "1468-06-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipnik",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Dwie Kozy (Kozy)",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
