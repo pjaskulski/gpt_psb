@@ -2,67 +2,79 @@
     {
         "place": "Paryż",
         "date": "1863-10-08",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijowszczyzna",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1903",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "miejsce pobytu męża bohaterki"
     },
     {
         "place": "Nieśwież",
         "date": "1904",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data zbyt wczesna: Wybuch pierwszej wojny światowej zastał R-ą w Nieświeżu"
     },
     {
         "place": "Olivetto",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Biała Cerkiew",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Nieśwież",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Rzym",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

@@ -2,67 +2,67 @@
     {
         "place": "Stopnica",
         "date": "1372",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kurzelów",
         "date": "między 22 VI 1390 a 18 VI 1393",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - objął S. dziekanię kurzelowską"
     },
     {
         "place": "Kazimierz",
         "date": "między 22 VI 1390 a 18 VI 1393",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kruszwica",
         "date": "1393",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "otrzymał prowizję na kanonię kruszwicką"
     },
     {
         "place": "Poznań",
         "date": "1395",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1397",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Łuczyce",
         "date": "1397",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Żyrków",
         "date": "1397",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Radolin",
         "date": "1400",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Starczanowo",
         "date": "1404",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Gołuszyce",
         "date": "1406",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
