@@ -2,67 +2,74 @@
     {
         "place": "Dzierzążnia",
         "date": "1896-04-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przewodowo",
         "date": "1901",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pułtusk",
         "date": "1906",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zamość",
         "date": "1923",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1934",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pruszków",
         "date": "1944-10-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Turbacz",
         "date": "1944-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1945-01-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1945-01-24",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1945-02-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bydgoszcz",
         "date": "1945-03-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
+
 ]
