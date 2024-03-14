@@ -2,61 +2,61 @@
     {
         "place": "Pułnuszki",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Ojciec jego Stefan był dziedzicem folwarku Pułnuszki"
     },
     {
         "place": "Dubinki",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Słuck",
         "date": "1680",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wstąpił w r. 1680 do gimnazjum słuckiego"
     },
     {
         "place": "Królewiec",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lejda",
         "date": "1683-1686",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zejmy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Po roku pracy duszpasterskiej w zborze zejmelskim"
     },
     {
         "place": "Węgrów",
         "date": "1689-1724",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "otrzymał stanowisko ministra zboru w Węgrowi"
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna D."
     },
     {
         "place": "Frankfurt nad Odrą",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna D."
     }
 ]

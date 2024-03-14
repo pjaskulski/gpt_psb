@@ -2,61 +2,61 @@
     {
         "place": "Bydgoszcz",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kłecko",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Środa Wielkopolska",
         "date": "1688-05-17",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1694-1695",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "deputatem na trybunał koronny z województwa poznańskiego"
     },
     {
         "place": "Nakło nad Notecią",
         "date": "1695",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Sędzią grodzkim nakielskim był"
     },
     {
         "place": "Kalisz",
         "date": "1699",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "posłował na sejm z województwa kaliskiego"
     },
     {
         "place": "Lublin",
         "date": "1703",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "obrany z województwa poznańskiego posłem na sejm lubelski, został wraz z innymi posłami dwóch województw wielkopolskich usunięty z izby poselskiej pod zarzutem nieważności wyboru"
     },
     {
         "place": "Środa Wielkopolska",
         "date": "1703-07-09",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nakło nad Notecią",
         "date": "1708-1714",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - został ok. r. 1708 kasztelanem nakielskim"
     },
     {
         "place": "Wałcz",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - został G. sędzią surogatorem grodzkim wałeckim"
     }
 ]

@@ -2,61 +2,61 @@
     {
         "place": "Dąbrowa Zielona",
         "date": "przed 1247",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rogaczew",
         "date": "przed 1247",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Maluszyce",
         "date": "przed 1247",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tarlino",
         "date": "przed 1247",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krzepczów",
         "date": "1248",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Inowłodz",
         "date": "1249-12",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kruszwica",
         "date": "1254-08-19",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sławsk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Dziarnowo",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Trzemiętowo",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

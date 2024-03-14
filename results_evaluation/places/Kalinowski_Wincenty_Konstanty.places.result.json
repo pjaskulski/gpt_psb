@@ -2,61 +2,61 @@
     {
         "place": "Mostowlany",
         "date": "1838-01-21",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jakuszówka",
         "date": "1850",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "folwark nabyty przez ojca K."
     },
     {
         "place": "Świsłocz",
         "date": "1850-1855",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1861",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kiejdanach",
         "date": "1862-07-30",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna odmiana"
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Królestwo",
         "date": "1863-02-01",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]
