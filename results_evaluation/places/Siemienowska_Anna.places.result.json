@@ -2,55 +2,55 @@
     {
         "place": "Albertynie",
         "date": "1908-07-27",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna odmiana"
     },
     {
         "place": "Łuck",
         "date": "przed 1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łuck",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łuck",
         "date": "1941-1942",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łuck",
         "date": "1942-01-01 do 1944-01-30",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kowelskie",
         "date": "1944-03-29",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kijów",
         "date": "1944-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Republika Autonomiczna Komi",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "1955 lub 1956",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

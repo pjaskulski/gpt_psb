@@ -2,55 +2,55 @@
     {
         "place": "Leżajsk",
         "date": "1828-12-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzeszów",
         "date": "1841-1846",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przemyśl",
         "date": "1847-1848, 1849-1851",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1851-1855, 1968",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna druga data występuje w biogramie"
     },
     {
         "place": "Drohobycz",
         "date": "1863",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bułgaria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Turcja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Palestyna",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Grecja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]

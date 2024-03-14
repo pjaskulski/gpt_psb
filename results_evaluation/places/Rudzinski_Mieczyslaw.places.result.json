@@ -2,49 +2,49 @@
     {
         "place": "Werki",
         "date": "1887-04-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "gub. archangielska",
         "date": "1911",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kaukaz",
         "date": "1916",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Gruzja",
         "date": "po listopadzie 1917",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Armenia",
         "date": "po listopadzie 1917",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Azerbejdżan",
         "date": "po listopadzie 1917",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
@@ -52,5 +52,17 @@
         "date": "1931-05-23/1931-05-25",
         "result": null,
         "pj_note": ""
+    },
+    {
+        "place": "Sachsenhausen",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Dachau",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

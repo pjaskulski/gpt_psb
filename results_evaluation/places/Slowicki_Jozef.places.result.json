@@ -2,55 +2,73 @@
     {
         "place": "Rostoka",
         "date": "1803",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1831-09-06/1831-09-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brodnica",
         "date": "1831-10-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Awinion",
         "date": "1832-05",
         "result": null,
-        "pj_note": ""
+        "pj_note": "S. udał się na emigrację i znalazł się w zakładzie awiniońskim w maju 1832"
     },
     {
         "place": "Bergerac",
         "date": "1833-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mont-de-Marsan",
         "date": "1833-05-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poitiers",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wersal",
         "date": "1840-11-15",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Hawr",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: Prawdopodobnie w r. 1843 S. przeniósł się do Hawru"
+    },
+    {
+        "place": "Cherbourg",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: miał pracować jako ekspedytor parowozów w lokomotywowni w Cherbourgu"
+    },
+    {
+        "place": "Zagrzeb",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: osadzony w więzieniu w Zagrzebiu"
     }
 ]
