@@ -2,61 +2,73 @@
     {
         "place": "Frysztak",
         "date": "1867",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Tarnów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzeszów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowy Sącz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sanok",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stanisławów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Złoczów",
         "date": "1887-1890",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Krosno",
         "date": "1890-1891",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1893",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Katowice",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

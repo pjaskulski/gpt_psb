@@ -2,61 +2,61 @@
     {
         "place": "Dubienka",
         "date": "1843-09-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Cytadela Warszawska",
         "date": "1864-04-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Aradatow",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W komunie paryskiej brała czynny udział."
     },
     {
         "place": "Anglia",
         "date": "1871-05",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kraków",
         "date": "1872",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jasło",
         "date": "1873",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1880",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

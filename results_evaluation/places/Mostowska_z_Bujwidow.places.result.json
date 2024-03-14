@@ -2,61 +2,73 @@
     {
         "place": "Warszawa",
         "date": "1890-06-17",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1908-1914",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Drohobycz",
         "date": "1922-1924",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1924-1929",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1929-1932",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1932-1951",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zwierzyniec",
         "date": "1939",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oświęcim",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zaangażowała się z synami w tajną produkcję i konspiracyjny przerzut surowicy przeciwtężcowej, szczepionki przeciw czerwonce i tyfusowi plamistemu do obozów w Oświęcimiu, Pustkowie i Majdanku"
     },
     {
         "place": "Pustków",
         "date": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "zaangażowała się z synami w tajną produkcję i konspiracyjny przerzut surowicy przeciwtężcowej, szczepionki przeciw czerwonce i tyfusowi plamistemu do obozów w Oświęcimiu, Pustkowie i Majdanku"
     },
     {
         "place": "Majdanek",
         "date": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "zaangażowała się z synami w tajną produkcję i konspiracyjny przerzut surowicy przeciwtężcowej, szczepionki przeciw czerwonce i tyfusowi plamistemu do obozów w Oświęcimiu, Pustkowie i Majdanku"
+    },
+    {
+        "place": "Gródek nad Dunajcem",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Olsztyn",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
