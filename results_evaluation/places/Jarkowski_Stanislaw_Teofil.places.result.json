@@ -2,55 +2,55 @@
     {
         "place": "Warszawa",
         "date": "1882-11-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipsk",
         "date": "1905",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szwajcaria",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "1911",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "1922",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to możliwe, ale jest jednak nadinterpretacją"
     },
     {
         "place": "Olsztyn",
         "date": "1934",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to miejsce druku publikacji"
     },
     {
         "place": "Berlin",
         "date": "1937",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to miejsce druku publikacji"
     }
 ]

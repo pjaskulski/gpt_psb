@@ -2,55 +2,61 @@
     {
         "place": "Hołuzja",
         "date": "1901-05-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "1909",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1919",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wołyń",
         "date": "1939",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Otrębusy",
         "date": "1944",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzuchnia",
         "date": "1944",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Podkowa Leśna",
         "date": "1944",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1945",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczecin",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

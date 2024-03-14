@@ -2,55 +2,55 @@
     {
         "place": "Mozyr",
         "date": "1694",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Litwa",
         "date": "1700",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Rosja",
         "date": "1703",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Warszawa",
         "date": "1703",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "od schyłku t.r. przebywał w Warszawie"
     },
     {
         "place": "Saksonia",
         "date": "1706",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Biesiady",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zasław",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "miał ... w zastawie znaczne dobra zasławskie"
     },
     {
         "place": "Włodawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1732",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

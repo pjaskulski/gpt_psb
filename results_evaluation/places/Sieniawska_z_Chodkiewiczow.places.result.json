@@ -2,55 +2,55 @@
     {
         "place": "Szkłów",
         "date": "1623",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowa Mysz",
         "date": "1627",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gołogóry",
         "date": "1627",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeżany",
         "date": "1627",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Koniuchy",
         "date": "1627",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1628",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - stawiała S. na kwietniowych okazowaniach pod Lwowem poczet konny"
     },
     {
         "place": "Hussaków",
         "date": "1631",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - S. obdarowała klasztor Karmelitów w Hussakowie"
     },
     {
         "place": "Kraków",
         "date": "1631",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowa Sieniawa",
         "date": "1628",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

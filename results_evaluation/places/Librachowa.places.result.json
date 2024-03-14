@@ -2,49 +2,49 @@
     {
         "place": "Zbiroż",
         "date": "1878-11-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pilaszkowo",
         "date": "1905-10-01",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bruksela",
         "date": "1908-1913",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "1926-09-28 - 1926-10-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Genewa",
         "date": "1929-07-25 - 1929-08-03",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1931-07-04 - 1931-07-08",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1946",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
