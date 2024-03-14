@@ -2,61 +2,61 @@
     {
         "place": "Stendal",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1535",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1544",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzeszów",
         "date": "1557",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Bywał na jarmarkach rzeszowskich"
     },
     {
         "place": "Kamieniec Podolski",
         "date": "1553",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Miał kontakty handlowe w Kamieńcu Podolskim"
     },
     {
         "place": "Poznań",
         "date": "1560",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Parczew",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1564",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Olkusz",
         "date": "1568",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Działoszyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,61 +2,61 @@
     {
         "place": "Gręboszów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1333-06-30",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "występuje w źródłach od 30 VI 1333 jako podkanclerzy dworu Kazimierza Wielkiego, czyli podkanclerzy krakowski"
     },
     {
         "place": "Wielkopolska",
         "date": "1337",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kujawy",
         "date": "1337",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Inowrocław",
         "date": "1337",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Brał udział w marcowych rokowaniach inowrocławskich z przedstawicielami zakonu krzyżackiego"
     },
     {
         "place": "Poznań",
         "date": "1337",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "1341",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Awinion",
         "date": "1357",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1362",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Wrocławska kapituła skutecznie protestowała jednak przeciwko przyjęciu S-a "
     },
     {
         "place": "Opole",
         "date": "1368",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nic nie wskazuje na to, że S. rozpoczął jakieś zabiegi o objęcie archidiakonatu opolskiego"
     }
 ]

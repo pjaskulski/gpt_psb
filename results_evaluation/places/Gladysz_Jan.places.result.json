@@ -2,61 +2,61 @@
     {
         "place": "Babimost",
         "date": "1762",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Borek",
         "date": "1799",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chobienice",
         "date": "1797",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "oznaczony «1797 w Chobienicach»"
     },
     {
         "place": "Drezno",
         "date": "1800",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Francja",
         "date": "1803",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Płock",
         "date": "1810",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1809-1830",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Osiek",
         "date": "1824",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowe Miasto nad Pilicą",
         "date": "1829",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "namalował wiele obrazów ołtarzowych dla kościołów ... w Nowym Mieście nad Pilicą w 1829 r."
     }
 ]

@@ -2,61 +2,61 @@
     {
         "place": "Warszawa",
         "date": "1814",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1833",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1845",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1845",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1846",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Londyn",
         "date": "1851",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1858",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1864",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "paryskie Tow. Przemysłu, Sztuk i Nauk Wyzwolonych powołało go w r. 1859 na członka korespondenta"
     },
     {
         "place": "Petersburg",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "przekazał arytmometr do Muz. Cesarskiej Akad. Nauk w Petersburgu"
     }
 ]

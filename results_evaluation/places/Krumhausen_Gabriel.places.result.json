@@ -2,61 +2,61 @@
     {
         "place": "Gdańsk",
         "date": "1614-09-14",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Łobżenica",
         "date": "1630-1632",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Strasburg",
         "date": "1640",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1646",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grudziądz",
         "date": "1648",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1649",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "1649",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Malbork",
         "date": "1650",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Helem",
         "date": "1666-1682",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna odmiana"
     },
     {
         "place": "Żuławy",
         "date": "1683",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]
