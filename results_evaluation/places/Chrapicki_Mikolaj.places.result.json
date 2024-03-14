@@ -2,67 +2,67 @@
     {
         "place": "Kolonia",
         "date": "1472",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "możliwe, że immatrykulowany na Uniwersytecie Kolońskim 1472 r. Nicolas Thoren de Prussia ... to nasz Ch."
     },
     {
         "place": "Kraków",
         "date": "1473",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "możliwe, że immatrykulowany ... 1473 r. w Krakowie Nicolaus de Thoron, to nasz Ch."
     },
     {
         "place": "Rzym",
         "date": "1489",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chełmno",
         "date": "1496",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Byszwałd",
         "date": "1500",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lembarg",
         "date": "1507",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lubawa",
         "date": "1502",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Radzyń",
         "date": "1503",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chełmno",
         "date": "1505",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Starogard",
         "date": "1505",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "król Aleksander ... 26 V 1505 darował biskupstwu chełmińskiemu ... zamki: starogrodzki i papowski"
     },
     {
         "place": "Papowo",
         "date": "1505",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "król Aleksander ... 26 V 1505 darował biskupstwu chełmińskiemu ... zamki: starogrodzki i papowski"
     }
 ]

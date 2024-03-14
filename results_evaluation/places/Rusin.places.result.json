@@ -2,67 +2,67 @@
     {
         "place": "Kraków",
         "date": "1313",
-        "result": null,
-        "pj_note": ""
+        "result": true  ,
+        "pj_note": "W r. 1313 nabył od mieszczanina toruńskiego Sandra Snela dom w rynku od strony ul. Żydowskiej..."
     },
     {
         "place": "Kraków",
         "date": "1319-1320",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Był rajcą krakowskim w l. 1319–20, 1327, 1329–30"
     },
     {
         "place": "Kraków",
         "date": "1327",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Był rajcą krakowskim w l. 1319–20, 1327, 1329–30"
     },
     {
         "place": "Kraków",
         "date": "1329-1330",
         "result": null,
-        "pj_note": ""
+        "pj_note": "Był rajcą krakowskim w l. 1319–20, 1327, 1329–30"
     },
     {
         "place": "Kraków",
         "date": "1320",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to raczej nadinterpretacja choć R. mieszkał w Krakowie i pewnie był w tym czasie w mieście"
     },
     {
         "place": "Kraków",
         "date": "1319",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1325",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1328",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1318",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "1326",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1326 wyjednał w Rzymie od biskupów włoskich odpust"
     },
     {
         "place": "Ziemia Święta",
         "date": "1330",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]

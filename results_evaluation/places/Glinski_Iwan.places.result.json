@@ -2,67 +2,79 @@
     {
         "place": "Smoleńsk",
         "date": "1492",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - wysłany został przez w. ks. lit. Aleksandra Jagiellończyka do namiestnika smoleńskiego J. Hlebowicza, aby Smoleńszczan utrzymać w wierności"
     },
     {
         "place": "Markowo",
         "date": "1495",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przełom",
         "date": "1495",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - był już namiestnikiem przełomskim i ożskim"
     },
     {
         "place": "Ożsk",
         "date": "1495",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - był już namiestnikiem przełomskim i ożskim"
     },
     {
         "place": "Lublin",
         "date": "1503",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "towarzyszył w. ks. Aleksandrowi do Polski i brał udział w naradach lubelskich"
     },
     {
         "place": "Kijów",
         "date": "1505",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - w r. 1505 mianowany wojewodą kijowskim"
     },
     {
         "place": "Grodno",
         "date": "1506",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "brał udział w listopadzie t. r. w sejmie grodzieńskim"
     },
     {
         "place": "Mielnik",
         "date": "1507",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "w Mielniku w styczniu 1507 r. Zygmunt przeniósł go - to nie oznacza że G. był w Mielniku"
     },
     {
         "place": "Nowogród",
         "date": "1507",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - przeniósł go z woj. kijowskiego na niższe woj. nowogródzkie"
     },
     {
         "place": "Turow",
         "date": "1508",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "literówka w nazwie - Turów?"
     },
     {
         "place": "Mozyrz",
         "date": "1508",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Moskwa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: przeniósł się z braćmi do Moskwy"
+    },
+    {
+        "place": "Medynia",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: otrzymał jako uposażenie Medynię"
     }
 ]

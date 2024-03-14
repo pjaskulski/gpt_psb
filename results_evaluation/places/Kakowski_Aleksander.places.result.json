@@ -2,67 +2,79 @@
     {
         "place": "Dębiny",
         "date": "1862-02-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pułtusk",
         "date": "1878",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1878",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Mentona",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "1913-06-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Łowicz",
         "date": "1913",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Anglia",
         "date": "1914",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Skandynawia",
         "date": "1914",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Finlandia",
         "date": "1914",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Częstochowa",
         "date": "1936",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Bródno",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
