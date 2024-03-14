@@ -2,55 +2,61 @@
     {
         "place": "Kraków",
         "date": "1166-06-19",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data błędna wynikająca z 2 różnych dat, biskupem krak. został w 1166, ale konsekrowany został 19 VI 1167"
     },
     {
         "place": "Śląsk",
         "date": "1146-1163",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kielce",
         "date": "1171",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jędrzejów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Miechów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sulejów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Busko",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Koprzywnica",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Modena",
         "date": "1184-11",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Jeżów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: Uczestniczył G. w synodzie polskiego Kościoła, odbytym w Jeżowie"
     }
 ]

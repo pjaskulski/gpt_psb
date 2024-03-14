@@ -2,55 +2,67 @@
     {
         "place": "Radziejów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Podoliniec",
         "date": "1765",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzeszów",
         "date": "1768-1770",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łuków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Radom",
         "date": "1774",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łowicz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Drohiczyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczuczyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: został wicerektorem Collegium Nobilium w Warszawie"
+    },
+    {
+        "place": "Radziejów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: został zamianowany rektorem kolegium w Radziejowie"
     }
 ]

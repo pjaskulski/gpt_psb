@@ -2,55 +2,55 @@
     {
         "place": "Warszawa",
         "date": "1911-02-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1920-1930",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1930-1936",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1936",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1940-1942",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pławnie",
         "date": "1944",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "błędna odmiana"
     },
     {
         "place": "Warszawa",
         "date": "1945-1946",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1948",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1979-05-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]
