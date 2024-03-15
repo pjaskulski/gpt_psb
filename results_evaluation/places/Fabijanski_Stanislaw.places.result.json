@@ -2,43 +2,49 @@
     {
         "place": "Paryż",
         "date": "1865",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1880",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1883",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Monachium",
         "date": "1888",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przecław",
         "date": "1889",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Irkuck",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1929",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Kraków",
+        "date": "1947",
+        "result": false,
+        "pj_note": "brak: zmarł prawie że niepostrzeżenie w Krakowie dnia 13 II 1947"
     }
 ]

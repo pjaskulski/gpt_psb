@@ -2,37 +2,37 @@
     {
         "place": "Brudzewice",
         "date": "1929-07-02",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nadleśnictwo Brudzewice",
         "date": "1942-1945",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Gostyń",
         "date": "1946",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "studiował na Wydz. Leśnym SGGW, rozpoczął S. pracę zawodową w Inst. Badawczym Leśnictwa w Warszawie, Zmarł nagle 2 XI 1986 w Warszawie"
     },
     {
         "place": "Buenos Aires",
         "date": "1972",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Puszkin",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "odmiana?"
     }
 ]
