@@ -2,37 +2,43 @@
     {
         "place": "Czehryń",
         "date": "1653",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "podejmował posła moskiewskiego Iwana Fomina, który oczekiwał w Czehryniu na nieobecnego chwilowo hetmana"
     },
     {
         "place": "Suczawa",
         "date": "1653",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "1653-09-14",
         "result": null,
-        "pj_note": ""
+        "pj_note": "We wrześniu t. r. posłował K. do Moskwy ... Dn. 14 X 1653 r. był K. przyjęty na audiencji końcowej w Moskwie"
     },
     {
         "place": "Ukraina",
         "date": "1653-11-03",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Perejasław",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stambuł",
         "date": "1657-04-29",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Cudnów",
+        "date": "1660",
+        "result": false,
+        "pj_note": "brak: w ugodzie cudnowskiej z 17 X 1660 r., którą zawierał z Polakami jako jeden z kilku przedstawicieli góry kozackiej"
     }
 ]

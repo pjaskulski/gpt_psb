@@ -2,37 +2,37 @@
     {
         "place": "Raciążek",
         "date": "1330",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brześć",
         "date": "1332-1341",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - otrzymał podkomorstwo brzeskie"
     },
     {
         "place": "Inowrocław",
         "date": "1341",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "przebywał jako asesor sądu ziemskiego w odzyskanym na mocy rozejmu Inowrocławiu"
     },
     {
         "place": "Kruszwica",
         "date": "1345-1346",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - przeszedł na urząd kasztelana kruszwickiego"
     },
     {
         "place": "Kujawy",
         "date": "1345-1346",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Strzelno",
         "date": "1346 lub 1347",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "zmarł 31 X (wg nekrologu strzeleńskiego) w r. 1346 lub 1347"
     }
 ]

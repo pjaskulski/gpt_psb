@@ -2,37 +2,37 @@
     {
         "place": "Borgo",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy przodka F."
     },
     {
         "place": "Oława",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy przodka F."
     },
     {
         "place": "Szwabiszki",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy przodka F."
     },
     {
         "place": "Wilno",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Jako radny miejski wileński"
     },
     {
         "place": "Jęczmieniszki",
         "date": "1900",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1914-01-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

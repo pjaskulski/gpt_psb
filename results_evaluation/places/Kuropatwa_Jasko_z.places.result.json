@@ -2,37 +2,37 @@
     {
         "place": "Grodziny",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żmigród",
         "date": "1397",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łańcuchów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lublin",
         "date": "1403",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? sędzia ziemski lubelski"
     },
     {
         "place": "Zawichost",
         "date": "1412-1417",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - w l. 1412–7 jako kasztelan zawichojski"
     },
     {
         "place": "Widuchowa",
         "date": "1421",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
