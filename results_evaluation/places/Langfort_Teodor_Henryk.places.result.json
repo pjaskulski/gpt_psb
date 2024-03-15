@@ -2,49 +2,49 @@
     {
         "place": "brak danych",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "O jego pochodzeniu brak wiadomości"
     },
     {
         "place": "Liwiec",
         "date": "1776",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Wkra",
         "date": "1776",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Pilica",
         "date": "1776",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Wisła",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Warta",
         "date": "1790",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "rzeka"
     },
     {
         "place": "Sieradz",
         "date": "1790",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Siemiątki",
         "date": "1790",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

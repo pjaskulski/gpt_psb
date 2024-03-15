@@ -2,43 +2,43 @@
     {
         "place": "Podfilipie",
         "date": "1510-03-12",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Czerwony",
         "date": "1510-07-12",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "poprawna odmiana? - zawarli w Czerwonym"
     },
     {
         "place": "Piotrków",
         "date": "1511",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Holeniszczów",
         "date": "1511-02-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1513",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kamieniec",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - kasztelan kamieniecki, stolnik kamieniecki"
     },
     {
         "place": "Wilno",
         "date": "1517-06-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

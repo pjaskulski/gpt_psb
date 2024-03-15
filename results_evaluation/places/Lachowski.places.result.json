@@ -2,49 +2,49 @@
     {
         "place": "Mękarzów",
         "date": "1627",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kijowszczyzna",
         "date": "1647-1651",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Gdańsk",
         "date": "1652",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lusławice",
         "date": "1653",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1657",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rożnów",
         "date": "1660",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kluczbork",
         "date": "1661",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Koloszwar",
         "date": "1663-1691",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

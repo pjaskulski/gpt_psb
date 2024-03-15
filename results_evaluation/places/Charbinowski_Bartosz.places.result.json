@@ -2,43 +2,43 @@
     {
         "place": "Charbinowice",
         "date": "XIII wiek",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data błędna"
     },
     {
         "place": "Kraków",
         "date": "1365-1383",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca C."
     },
     {
         "place": "Lublin",
         "date": "1383-1391",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca C."
     },
     {
         "place": "Podole",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Sandomierz",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Od r. 1411 występował na sądach jako podkomorzy sandomierski"
     },
     {
         "place": "Ogrodzieńce",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Bartosz, występujący w dokumentach z nazwiskiem Charbinowski, czy też z Ogrodzieńca, Wierzchosławic"
     },
     {
         "place": "Wierzchosławice",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Bartosz, występujący w dokumentach z nazwiskiem Charbinowski, czy też z Ogrodzieńca, Wierzchosławic"
     }
 ]
