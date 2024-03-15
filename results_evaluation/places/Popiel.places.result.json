@@ -2,31 +2,31 @@
     {
         "place": "Gniezno",
         "date": "IX w.",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Lubiąż",
         "date": "1285",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kruszwica",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ostrów Lednicki",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

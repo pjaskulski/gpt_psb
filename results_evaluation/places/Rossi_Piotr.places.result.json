@@ -2,37 +2,37 @@
     {
         "place": "Rzym",
         "date": "1760",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1790",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bakszta",
         "date": "1791",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pożajście",
         "date": "1792",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Podbrzezie",
         "date": "1798",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ostra Brama",
         "date": "1798-1799",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

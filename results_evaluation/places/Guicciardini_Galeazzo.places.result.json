@@ -2,37 +2,37 @@
     {
         "place": "Florencja",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Pochodził ze znanej patrycjuszowskiej rodziny florenckiej"
     },
     {
         "place": "Kraków",
         "date": "1550",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pilica",
         "date": "1557",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Melsztyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rabsztyn",
         "date": "1560",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Rachunki bonerowskie z r. 1560 mówią także o jego pracy przy dworze Rabsztyn na Wawelu"
     },
     {
         "place": "Wawel",
         "date": "1560",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data błędna, G. zmarł w 1557"
     }
 ]

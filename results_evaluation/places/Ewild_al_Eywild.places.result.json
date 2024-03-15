@@ -2,37 +2,37 @@
     {
         "place": "Horodło",
         "date": "1413",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Litwa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Żmudź",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Królewiec",
         "date": "1390",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "?"
     },
     {
         "place": "Lida",
         "date": "XV w.",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1764",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

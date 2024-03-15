@@ -2,37 +2,37 @@
     {
         "place": "Praga",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Spira",
         "date": "1435",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "połowa XVI wieku",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wenecja",
         "date": "1603",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1604",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Jessnitz",
         "date": "1724",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

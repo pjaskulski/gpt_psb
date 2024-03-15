@@ -2,37 +2,43 @@
     {
         "place": "Krzeszowice",
         "date": "1891-08-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1910",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jarosław",
         "date": "1916-1921",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1939-1945",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1946-1953",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1953",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Stęszewo koło Poznania",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: W zawartym 16 VIII 1925 w Stęszewie koło Poznania małżeństwie z Felicją Teresą z Kęszyckich"
     }
 ]

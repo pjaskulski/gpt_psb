@@ -2,37 +2,37 @@
     {
         "place": "Lwów",
         "date": "1874-01-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rövensdorf",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - to posiadłość dziadka Q. ale:  W r. 1941 przeniósł się do rodzinnej posiadłości pod Opawą, gdzie 17 IX 1942 zmarł. Pochowany został w Rövensdorf"
     },
     {
         "place": "Graz",
         "date": "1900",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1902-1905",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1906-1913",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1913",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

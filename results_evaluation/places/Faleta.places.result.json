@@ -2,31 +2,31 @@
     {
         "place": "Gniezno",
         "date": "1262",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1265/7",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Pyzdry",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {

@@ -2,31 +2,31 @@
     {
         "place": "Dzwonowo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1308-1318",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w l. 1308–18 wojewoda poznański"
     },
     {
         "place": "Wielkopolska",
         "date": "1313/14",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kłecko",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Górki",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
