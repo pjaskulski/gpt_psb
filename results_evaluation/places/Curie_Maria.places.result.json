@@ -2,38 +2,50 @@
     {
         "place": "Warszawa",
         "date": "1867-11-07",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Szczuki",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sèvres",
         "date": "1900",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Joachimstal",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Stockholm",
         "date": "1902",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Warszawa",
+        "date": "1913",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "place": "Warszawa",
+        "date": "1932",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Sceaux",

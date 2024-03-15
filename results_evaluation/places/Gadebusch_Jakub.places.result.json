@@ -2,43 +2,49 @@
     {
         "place": "Gryfia",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gdańsk",
         "date": "1619-1620",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Magdeburg",
         "date": "1623",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "druk. w Magdeburgu w r. 1623"
     },
     {
         "place": "Polska",
         "date": "1621",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Lubeka",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wismar",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Rostock",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Królewiec",
+        "date": "1623",
+        "result": false,
+        "pj_note": "brak: zapisując się 14 X 1623 na uniwersytet w Królewcu"
     }
 ]

@@ -2,43 +2,43 @@
     {
         "place": "Killobe",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Gdańsk",
         "date": "1519",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1525",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Prusy Książęce",
         "date": "1533",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Antorf",
         "date": "1546",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wittenberdze",
         "date": "1548",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna K."
     },
     {
         "place": "Królewiec",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

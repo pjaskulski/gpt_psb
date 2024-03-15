@@ -2,43 +2,43 @@
     {
         "place": "Łęg Kościelny",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1412",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rzym",
         "date": "1423",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Wyciąże",
         "date": "1431",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1437",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zabiegał ... o kanonię poznańską ... uzyskał na nią prowizję papieską ... wszedł w posiadanie tej kanonii"
     },
     {
         "place": "Iłża",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Bazylea",
         "date": "1441",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]
