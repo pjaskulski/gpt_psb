@@ -2,49 +2,55 @@
     {
         "place": "Kraków",
         "date": "1866-12-26",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Rouen",
         "date": "1893",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1895",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "koniec lat dziewięćdziesiątych XIX wieku",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Zakopane",
         "date": "1908",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Budapeszt",
         "date": "koniec 1910 roku",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Praga",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]

@@ -2,49 +2,55 @@
     {
         "place": "Inflanty",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Puszcza Zielona",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
+    },
+    {
+        "place": "Ostrołęka",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Zaręby",
         "date": "1733-12-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przasnysz",
         "date": "1733-12-21",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - a może i R-a"
     },
     {
         "place": "Chorzele",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - a może i R-a"
     },
     {
         "place": "Łomża",
         "date": "1734-07-19",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Kolno",
         "date": "1735-05-27",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

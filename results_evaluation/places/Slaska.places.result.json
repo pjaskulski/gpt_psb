@@ -2,49 +2,49 @@
     {
         "place": "Katowice",
         "date": "1925-11-04",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Winiary",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to miejsce pochodzenia matki"
     },
     {
         "place": "Gliwice",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Głuchołazy",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1943",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1945-1946",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1949",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1989-09-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

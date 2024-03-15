@@ -2,49 +2,55 @@
     {
         "place": "Koszyce Wielkie",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Konary",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? był synem Dobiesława z Konar ... wspólnie z braćmi dziedziczył cały majątek po Dobiesławie"
     },
     {
         "place": "Kraków",
         "date": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "Po objęciu przez kaszt. krakowskiego Jana Czyżowskiego urzędu star. krakowskiego w kwietniu 1440 R. został podstarościm ... Ok. r. 1445 R. został burgrabią krakowskim"
     },
     {
         "place": "Bogumiłowice",
         "date": "1442",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Czajków",
         "date": "1442",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bukowa",
         "date": "1442",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Smerdynia",
         "date": "1442",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łękawica",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Biadolinki",
+        "date": null,
+        "result": false,
+        "pj_note": "brak"
     }
 ]
