@@ -2,49 +2,49 @@
     {
         "place": "Bissone",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Dolny Śląsk",
         "date": "1539",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Bolków",
         "date": "1539-1540",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brzeg",
         "date": "1543-1575",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1569",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - podpisał w r. 1569 umowę o budowę zamku królewskiego w Warszawie, jeszcze t. r. wycofał się jednak"
     },
     {
         "place": "Oława",
         "date": "1543",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Prudnik",
         "date": "1564",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "udział w unowocześnianiu fortyfikacji miejskich Oławy i Wrocławia"
     }
 ]

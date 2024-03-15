@@ -2,49 +2,49 @@
     {
         "place": "Kraków",
         "date": "1886-08-28",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1904",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1909",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1917-1918",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Oranienburg-Sachsenhausen",
         "date": "1939-11-06",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1940",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1941-1942",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1945-01-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

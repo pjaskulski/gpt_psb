@@ -2,49 +2,61 @@
     {
         "place": "Zalesie",
         "date": "prawdopodobnie przed 1440",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1454",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bolonia",
         "date": "1465-1471",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1472",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "1473",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Grodno",
         "date": "1492",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiślica",
         "date": "1490-1494",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "został proboszczem kolegiaty wiślickiej"
     },
     {
         "place": "Kraków",
         "date": "1485-1487",
         "result": null,
-        "pj_note": ""
+        "pj_note": "przybrano go do grona krakowskich kanoników katedralnych"
+    },
+    {
+        "place": "Gniezno",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: nastąpiła jednomyślna elekcja J-a na kanonika gnieźnieńskiego"
+    },
+    {
+        "place": "Włocławek",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: J. był już także kanonikiem włocławskim"
     }
 ]

@@ -2,49 +2,49 @@
     {
         "place": "Human",
         "date": "1858-05-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Żytomierz",
         "date": "do 1873",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Winnica",
         "date": "1878",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Międzybórz",
         "date": "1881",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Petersburg",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1887",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Odesa",
         "date": "1914",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "literówka w nazwie"
     },
     {
         "place": "Nowy Jork",
         "date": "1920-1925",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

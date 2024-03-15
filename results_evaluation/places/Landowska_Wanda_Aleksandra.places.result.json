@@ -2,49 +2,61 @@
     {
         "place": "Warszawa",
         "date": "1879-07-05",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "1896",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Paryż",
         "date": "1900",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wrocław",
         "date": "1912",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Berlin",
+        "date": "1913",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "place": "Bazylea",
         "date": "1919",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Paryż",
+        "date": "1920",
+        "result": false,
+        "pj_note": "brak: W r. 1920 wróciła L. do Paryża"
     },
     {
         "place": "Saint-Leu la Forêt",
         "date": "1925",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Nowy Jork",
         "date": "1941",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lakeville",
         "date": "1959-08-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

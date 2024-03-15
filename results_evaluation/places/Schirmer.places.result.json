@@ -2,49 +2,49 @@
     {
         "place": "Świdnica",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nazwisko Schirmer jest odnotowane pod koniec XIV w. w Świdnicy"
     },
     {
         "place": "Lublin",
         "date": "1403",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1404, 1406",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Konopnica",
         "date": "1407",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Brunowice",
         "date": "1407",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gródek",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sandomierz",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1409, 1411",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - spłacał w Krakowie krewnych Piotra Czecha zw. Bogaczem"
     }
 ]

@@ -2,49 +2,61 @@
     {
         "place": "Holandia",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Wiedeń",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Amsterdam",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1767",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Moskwa",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Polska",
         "date": "1782",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Grodno",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Berlin",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Gdańsk",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: Po wyroku wywieziono ją do fortecy gdańskiej"
+    },
+    {
+        "place": "Sieniawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: generał dał jej i jej mężowi schronienie w Sieniawie"
     }
 ]
