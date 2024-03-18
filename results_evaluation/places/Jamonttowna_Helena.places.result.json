@@ -2,25 +2,25 @@
     {
         "place": "Warszawa",
         "date": "1914-05-22",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca J."
     },
     {
         "place": "Pawiak",
         "date": "1940",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - więzienie w Warszawie: zorganizowała skuteczną pomoc dla Uwięzionych na Pawiaku i na Szucha"
     },
     {
         "place": "Szucha",
         "date": "1940",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - ulica w Warszawie: zorganizowała skuteczną pomoc dla Uwięzionych na Pawiaku i na Szucha"
     }
 ]

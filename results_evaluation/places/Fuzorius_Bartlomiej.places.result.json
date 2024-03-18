@@ -2,19 +2,19 @@
     {
         "place": "Nowy Sącz",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "F. ur. w Nowym Sączu ... Zmarł w r. 1637 w Nowym Sączu"
     },
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "kształcił się prawdopodobnie w Akad. Krak."
     },
     {
         "place": "Kamionka Wielka",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Wybudował w Kamionce Wielkiej, z której pobierał dochody prałackie, kościółek"
     }
 ]

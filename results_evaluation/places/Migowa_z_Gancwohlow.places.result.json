@@ -2,25 +2,25 @@
     {
         "place": "Będzin",
         "date": "1890-05-19",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1908",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Praga",
         "date": "1915",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1915 prowadziła społecznie w Pradze kuchnię"
     },
     {
         "place": "Warszawa",
         "date": "1926",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1926 przeniosła się do Warszawy"
     }
 ]

@@ -2,19 +2,19 @@
     {
         "place": "Głogówek",
         "date": "1853-1894",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "nauczyciel seminarium nauczycielskiego w Głogówku"
     },
     {
         "place": "Górny Śląsk",
         "date": "1844-1872",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Katowice",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Śląska Biblioteka Publiczna im. Józefa Piłsudskiego w Katowicach posiada plik"
     }
 ]
