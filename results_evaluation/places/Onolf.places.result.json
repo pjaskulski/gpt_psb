@@ -2,25 +2,25 @@
     {
         "place": "Kruszwica",
         "date": "przed 1161",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "biskup kruszwicki"
     },
     {
         "place": "Włocławek",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Można z nim wiązać budowę niezachowanej katedry romańskiej we Włocławku ... został pochowany we Włocławku"
     },
     {
         "place": "Łęczyca",
         "date": "1161",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "O. uczestniczył w konsekracji tumu pod Łęczycą w r. 1161 jako biskup kruszwicki"
     },
     {
         "place": "Łęczyca",
         "date": "1180",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w zjeździe łęczyckim 1180 r. (wg Kadłubka) jako biskup kujawski"
     }
 ]

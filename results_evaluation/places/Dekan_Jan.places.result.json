@@ -2,25 +2,25 @@
     {
         "place": "Leszno",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Leszno Wielkopolskie"
     },
     {
         "place": "Antwerpia",
         "date": "1613",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "miejsce wydania książki"
     },
     {
         "place": "Zbąszyń",
         "date": "1632",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Grójec Wielkopolski",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

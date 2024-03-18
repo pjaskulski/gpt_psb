@@ -2,31 +2,31 @@
     {
         "place": "Opole",
         "date": "przed 1229",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - Córka Kazimierza, ks. opolskiego"
     },
     {
         "place": "Kujawy",
         "date": "1257",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Pomorze",
         "date": "1275",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Kępno",
         "date": "1282",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - ale układ w Kępnie r. 1282 dowodzi, że już w tym czasie stosunki jej z mężem były złe"
     },
     {
         "place": "Kujawy",
         "date": "1288",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     }
 ]

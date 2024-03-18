@@ -2,25 +2,37 @@
     {
         "place": "Łęczyca",
         "date": "1839",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Była córką Zygmunta Rogolińskiego, właściciela dóbr w okolicach Łęczycy"
     },
     {
         "place": "Chocianowice",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "czynna była w narodowej organizacji łódzkiej"
     },
     {
         "place": "brak danych",
         "date": "1863",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "place": "Dobra",
+        "date": "1863",
+        "result": false,
+        "pj_note": "brak: rozbity 24 II 1863 pod Dobrą"
+    },
+    {
+        "place": "Radogoszcz",
+        "date": "1863",
+        "result": false,
+        "pj_note": "brak: Pochowana została 28 II 1863 w Radogoszczy"
     }
 ]
