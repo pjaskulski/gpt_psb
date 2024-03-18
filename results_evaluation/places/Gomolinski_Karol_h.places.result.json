@@ -2,31 +2,31 @@
     {
         "place": "Piotrków",
         "date": "1727",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "sędzia: w Piotrkowie lub Lublinie"
     },
     {
         "place": "Lublin",
         "date": "1727",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "sędzia: w Piotrkowie lub Lublinie"
     },
     {
         "place": "Łęczyca",
         "date": "1727",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "data chyba bez związku z miejscowością: podkomorzy łęczycki ...  miecznikiem łęczyckim mianowany jeszcze za Augusta II ... na stare lata lubił przesiadywać u bernardynów w Łęczycy"
     },
     {
         "place": "Drezno",
         "date": "1743",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1743 jeździł do Drezna"
     },
     {
         "place": "Krośniewice",
         "date": "1775",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "data niepoprawna, w dziedzicznym jego majątku w woj. łęczyckim, w Krośniewicy"
     }
 ]

@@ -2,31 +2,37 @@
     {
         "place": "Garbów",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Bośnia",
         "date": "1408",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Grunwald",
         "date": "1410",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Buda",
         "date": "1412",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jedlnia",
         "date": "1430",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "W r. 1430 świadkuje na przywileju jedlneńskim"
+    },
+    {
+        "place": "Osobnica",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: król zapisał mu 400 grzywien na wsi Osobnica"
     }
 ]

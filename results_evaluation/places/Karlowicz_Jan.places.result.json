@@ -2,31 +2,49 @@
     {
         "place": "Nur",
         "date": "1851",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1855",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1864",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Podejmował się jeszcze wiosną 1864 r. urządzenia Policji Narodowej w Poznańskiem"
     },
     {
         "place": "Drezno",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Przebywał w Dreźnie, a później w Paryżu"
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Przebywał w Dreźnie, a później w Paryżu"
+    },
+    {
+        "place": "Lwów",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: W r. 1870 przeniósł się do Lwowa"
+    },
+    {
+        "place": "Snopków pod Lwowem",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: zakupił w r. 1872 folwark Snopków pod Lwowem"
+    },
+    {
+        "place": "Merana",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: mimo kuracji w Meranie"
     }
 ]

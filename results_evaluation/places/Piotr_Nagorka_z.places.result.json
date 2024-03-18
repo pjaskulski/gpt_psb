@@ -2,31 +2,43 @@
     {
         "place": "Grąbc",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kisielewo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Awinion",
         "date": "1359",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Awinion",
         "date": "1360",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Awinion",
         "date": "1361",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Poznań",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: kanonik poznański i płocki"
+    },
+    {
+        "place": "Płock",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: kanonik poznański i płocki"
     }
 ]
