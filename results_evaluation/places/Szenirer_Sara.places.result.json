@@ -73,13 +73,13 @@
     },
     {
         "place": "Wiedeń",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: Po nieudanej operacji w Wiedniu zmarła 1 III 1935 w Krakowie"
     },
     {
         "place": "Kraków",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: Po nieudanej operacji w Wiedniu zmarła 1 III 1935 w Krakowie"
     }

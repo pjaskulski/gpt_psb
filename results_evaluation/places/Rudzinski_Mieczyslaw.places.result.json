@@ -50,7 +50,7 @@
     {
         "place": "Kraków",
         "date": "1931-05-23/1931-05-25",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {

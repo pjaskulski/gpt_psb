@@ -55,13 +55,13 @@
     },
     {
         "place": "Warszawa",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: został wicerektorem Collegium Nobilium w Warszawie"
     },
     {
         "place": "Radziejów",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: został zamianowany rektorem kolegium w Radziejowie"
     }

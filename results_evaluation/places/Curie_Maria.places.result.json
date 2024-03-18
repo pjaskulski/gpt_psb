@@ -50,7 +50,7 @@
     {
         "place": "Sceaux",
         "date": "1934",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

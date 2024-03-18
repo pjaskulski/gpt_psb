@@ -43,7 +43,7 @@
     },
     {
         "place": "Warszawa",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak"
     },

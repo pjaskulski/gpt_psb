@@ -14,14 +14,14 @@
     {
         "place": "Smoleńsk",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": "dotyczy ojca bohatera biogramu"
     },
     {
         "place": "Chocim",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca bohatera biogramu"
     },
     {
         "place": "Węgry",

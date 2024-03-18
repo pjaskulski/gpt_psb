@@ -73,19 +73,19 @@
     },
     {
         "place": "Werona",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak"
     },
     {
         "place": "Rzym",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak"
     },
     {
         "place": "Fryburg",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak"
     }

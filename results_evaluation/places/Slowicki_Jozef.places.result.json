@@ -26,7 +26,7 @@
     {
         "place": "Awinion",
         "date": "1832-05",
-        "result": null,
+        "result": true,
         "pj_note": "S. udał się na emigrację i znalazł się w zakładzie awiniońskim w maju 1832"
     },
     {
@@ -55,19 +55,19 @@
     },
     {
         "place": "Hawr",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: Prawdopodobnie w r. 1843 S. przeniósł się do Hawru"
     },
     {
         "place": "Cherbourg",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: miał pracować jako ekspedytor parowozów w lokomotywowni w Cherbourgu"
     },
     {
         "place": "Zagrzeb",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak: osadzony w więzieniu w Zagrzebiu"
     }

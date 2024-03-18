@@ -32,7 +32,7 @@
     {
         "place": "Kraków",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

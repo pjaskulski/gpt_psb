@@ -80,7 +80,7 @@
     {
         "place": "Warszawa",
         "date": "1947",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
@@ -116,8 +116,8 @@
     {
         "place": "Warszawa",
         "date": "1952",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "place": "Warszawa",

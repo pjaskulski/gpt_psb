@@ -176,14 +176,14 @@
     {
         "place": "Kopenhaga",
         "date": "1968",
-        "result": null,
+        "result": false,
         "pj_note": "nie ma informacji o osobistym pobycie S., jedynie o wystawieniu prac"
     },
     {
         "place": "Paryż",
         "date": "1968",
-        "result": null,
-        "pj_note": "true"
+        "result": true,
+        "pj_note": ""
     },
     {
         "place": "Quercetta",

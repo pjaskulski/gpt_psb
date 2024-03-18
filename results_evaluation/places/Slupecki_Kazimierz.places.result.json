@@ -31,13 +31,13 @@
     },
     {
         "place": "Grzybowo",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak"
     },
     {
         "place": "Raszyn",
-        "date": null,
+        "date": "",
         "result": false,
         "pj_note": "brak"
     },
