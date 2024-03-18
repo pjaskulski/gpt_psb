@@ -2,31 +2,37 @@
     {
         "place": "Litwa",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Rosienie",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Warszawa",
         "date": "1690",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Stara Warszawa",
         "date": "1690-07-21",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gniezno",
         "date": "1721",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "S. wykonywał zamówienia dla katedry gnieźnieńskiej co nie znaczy że tam był"
+    },
+    {
+        "place": "wilno",
+        "date": "1725",
+        "result": false,
+        "pj_note": "brak: Możliwe, że przebywał jakiś czas (1725) w Wilnie"
     }
 ]

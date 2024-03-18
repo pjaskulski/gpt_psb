@@ -2,31 +2,37 @@
     {
         "place": "Ostrowo",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kujawy",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "kraj"
     },
     {
         "place": "Świecie",
         "date": "1300-1306",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "place": "Kruszwica",
+        "date": "1332",
+        "result": false,
+        "pj_note": "brak: W kwietniu 1332 ... opuścił powierzoną sobie Kruszwicę"
     },
     {
         "place": "Uniejów",
         "date": "1339-03-11",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Gniezno",
         "date": "1339-04-10",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

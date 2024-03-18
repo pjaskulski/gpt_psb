@@ -2,31 +2,31 @@
     {
         "place": "Teklinów",
         "date": "1863",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Ryga",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Dorpat",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wilno",
         "date": "1900",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Liceum im. Filomatów",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to jedna ze szkół w Wilnie"
     }
 ]
