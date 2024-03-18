@@ -2,25 +2,25 @@
     {
         "place": "Toruń",
         "date": "1380",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Toruń",
         "date": "po 1389",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale data błędna, dotyczy ojca G. choć ten prawdopodobnie mieszkał wówczas w Toruniu"
     },
     {
         "place": "Braniewo",
         "date": "1437-1445",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "brak danych",
         "date": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

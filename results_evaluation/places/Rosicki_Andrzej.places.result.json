@@ -2,25 +2,25 @@
     {
         "place": "Władysławowo",
         "date": "1814-10-13",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sochaczew",
         "date": "1862",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1862-12-16",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Łódź",
         "date": "1872",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,25 +2,25 @@
     {
         "place": "Zamość",
         "date": "1860",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Córka dziedzica Zamościa"
     },
     {
         "place": "Paryż",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jeżewo",
         "date": "1883",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "wyszła za mąż za Zygmunta Glogera, właściciela majątku Jeżewo na Podlasiu"
     },
     {
         "place": "Tykocin",
         "date": "1899-04-11",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "została pochowana w Tykocinie"
     }
 ]

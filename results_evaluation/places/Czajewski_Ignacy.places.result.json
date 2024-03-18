@@ -2,25 +2,31 @@
     {
         "place": "Petersburg",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "po ukończeniu seminarium duchownego w Petersburgu"
     },
     {
         "place": "Charków",
         "date": "1905",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "mianowany proboszczem w Charkowie"
     },
     {
         "place": "Moskwa",
         "date": "1911",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Przeniesiony w r. 1911 do Moskwy"
     },
     {
         "place": "Petersburg",
         "date": "1916",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "We wrześniu 1916 mianowany kanclerzem kurii metropolitalnej w Petersburgu"
+    },
+    {
+        "place": "Warszawa",
+        "date": null,
+        "result": false,
+        "pj_note": "brak: jako repatriant wrócił do Warszawy"
     }
 ]
