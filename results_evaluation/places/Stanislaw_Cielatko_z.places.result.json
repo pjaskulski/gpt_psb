@@ -2,31 +2,37 @@
     {
         "place": "Liszyn",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Kraków",
         "date": "1429",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Jaśle",
         "date": "1443-1448",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy brata S."
+    },
+    {
+        "place": "Jaśło",
+        "date": "1446",
+        "result": false,
+        "pj_note": "brak: W r. 1446 razem z bratem Mikołajem wystawił w Jaśle murowany kościół parafialny"
     },
     {
         "place": "Stary Brzesko",
         "date": "1450",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "place": "Przemyśl",
         "date": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Był wówczas S. także kanonikiem przemyskim"
     }
 ]

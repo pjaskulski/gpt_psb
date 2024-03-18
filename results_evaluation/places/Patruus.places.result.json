@@ -2,31 +2,31 @@
     {
         "place": "Norymberga",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Koło",
         "date": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Poznań",
         "date": "1513",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Chwaliszewo",
         "date": "1520",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lipsk",
         "date": "1526",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "? - Wiadomo natomiast o jego związkach z Lipskiem, z firmą drukarską Melchiora i Michaela Lotterów"
     }
 ]

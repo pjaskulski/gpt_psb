@@ -2,31 +2,31 @@
     {
         "place": "Brześciany",
         "date": "1784-05-18",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Sambor",
         "date": "1795",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Lwów",
         "date": "1800-1803",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Wiedeń",
         "date": "1804-1807",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "place": "Przemyśl",
         "date": "1815-1847",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

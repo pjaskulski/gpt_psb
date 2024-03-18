@@ -3,30 +3,36 @@
         "place": "Stawy",
         "date": "brak danych",
         "result": null,
-        "pj_note": ""
+        "pj_note": "Od rodzinnych dóbr Stawy koło Janowa Podlaskiego przyjął nazwisko Stawski"
     },
     {
         "place": "Kraków",
         "date": "1469-1478",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "ale można podać więcej dat np. 1463"
     },
     {
         "place": "Wilno",
         "date": "1478",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "Jako kanonik wileński S. wystąpił 14 V 1478"
     },
     {
         "place": "Łuck",
         "date": "1483-1490/1",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "uzyskał prowizję papieską na biskupstwo łuckie"
     },
     {
         "place": "Janów Podlaski",
         "date": "1484",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "z najstarszych akt oficjalatu diec. łuckiej w Janowie, 19 III 1484 pełnił już S. swą funkcję przewodząc konsystorzowi"
+    },
+    {
+        "place": "Grodn0",
+        "date": "1490",
+        "result": false,
+        "pj_note": "brak: W marcu 1490 uczestniczył S. w zjeździe dostojników kościelnych i świeckich w Grodnie"
     }
 ]
