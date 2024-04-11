@@ -2,49 +2,55 @@
     {
         "institution": "Uniwersytet Jagielloński",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klinika Chirurgiczna UJ",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szpital w Drohobyczu",
         "place_of_institution": "Drohobycz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szpital im. Dzieciątka Jezus",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szpital Bonifratrów",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakłady prof. O. Bujwida dla wyrobu surowic i szczepionek leczniczych",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wojskowy szpital polowy",
         "place_of_institution": "Zwierzyniec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Stacja Sanitarno-Epidemiologiczna (Sanepid)",
         "place_of_institution": "Olsztyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "postępowa organizacja 'Spójnia'",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

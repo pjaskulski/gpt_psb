@@ -2,31 +2,31 @@
     {
         "institution": "Wójtostwo Lubelskie",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sołectwo w Konopnicy",
         "place_of_institution": "Konopnica",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Folwark w Brunowicach",
         "place_of_institution": "Brunowice",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wójtostwo w Gródku",
         "place_of_institution": "Gródek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Miejska",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

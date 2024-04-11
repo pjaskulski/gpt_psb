@@ -2,37 +2,37 @@
     {
         "institution": "Chorągiew koronna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zakon Dominikanów",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakon Karmelitów Bosych",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klasztor Karmelitów",
         "place_of_institution": "Hussaków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Nowogródzki",
         "place_of_institution": "Nowogródek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół Dominikanów",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

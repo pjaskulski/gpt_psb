@@ -2,49 +2,49 @@
     {
         "institution": "Bractwo Wniebowzięcia NMP przy kościele Mariackim",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Miejska Krakowa",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Wyższy Prawa Magdeburskiego na Zamku krakowskim",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sejmik województwa krakowskiego",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szpital Świętego Ducha",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kopalnia ołowiu",
         "place_of_institution": "Działoszyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sztolnia Ostowicka",
         "place_of_institution": "Olkusz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Sienie",
         "place_of_institution": "Siena",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

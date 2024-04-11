@@ -2,49 +2,49 @@
     {
         "institution": "monaster w Czernihowie",
         "place_of_institution": "Czernihów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Akademia Zamojska",
         "place_of_institution": "Zamość",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "niepewne"
     },
     {
         "institution": "Akademia Ostrogska",
         "place_of_institution": "Ostroh",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "niepewne"
     },
     {
         "institution": "kolegium jezuickie",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "niepewne"
     },
     {
         "institution": "szkoła Lwowskiego Bractwa Stauropigialnego",
         "place_of_institution": "Lwów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "niepewne"
     },
     {
         "institution": "wileńska szkoła bracka",
         "place_of_institution": "Wilno",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "niepewne"
     },
     {
         "institution": "drukarnia Bractwa Stauropigialnego",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "unicki monaster Jelecki",
         "place_of_institution": "Czernihów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

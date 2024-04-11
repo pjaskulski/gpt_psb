@@ -2,13 +2,13 @@
     {
         "institution": "klasztor Bernardynek",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Zamojska",
         "place_of_institution": "Zamość",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

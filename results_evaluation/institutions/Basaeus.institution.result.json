@@ -2,25 +2,31 @@
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor kanoników regularnych szpitalników Ducha św. pod wezwaniem św. Marka",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor duchaków",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor duchaków",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "prawdopodobnie"
+    },
+    {
+        "institution": "kapituła generalna zakonu kanoników regularnych szpitalników Ducha św.",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

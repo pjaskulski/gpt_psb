@@ -2,49 +2,49 @@
     {
         "institution": "Szkoła Sztuk Pięknych (Meisterschuli)",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia",
         "place_of_institution": "Monachium",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Przyjaciół Sztuk Pięknych",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zachęta",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum Narodowe",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum",
         "place_of_institution": "Irkuck",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Powszechna Wystawa Krajowa",
         "place_of_institution": "Poznań",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "wydarzenie"
     }
 ]

@@ -2,187 +2,211 @@
     {
         "institution": "szkoła katolicka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kolegium jezuickie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "skit w Maniawie",
         "place_of_institution": "Maniawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ławra uniowska",
         "place_of_institution": "Uniów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "monaster wicyński",
         "place_of_institution": "Wicyń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "drukarnia przy ławrze",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Uniów"
     },
     {
         "institution": "Zamek królewski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "katedra św. Jura",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "cerkiew Zbawiciela",
         "place_of_institution": "Sambor",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "biskupstwo lwowsko-halicko-kaminieckie",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "bractwo przy cerkwi Narodzenia Matki Boskiej",
         "place_of_institution": "Szczyrk",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Szczyrc"
     },
     {
         "institution": "bractwo przy cerkwi Wniebowstąpienia Pańskiego",
         "place_of_institution": "Śniatyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kuria rzymska",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "katedra Świętej Trójcy",
         "place_of_institution": "Kamieniec Podolski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor kołomyjski",
         "place_of_institution": "Kołomyja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor tłumacki",
         "place_of_institution": "Tłumacz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor ugornicki",
         "place_of_institution": "Ugorniki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ławra poczajowska",
         "place_of_institution": "Poczajów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sąd duchowny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "generalna wizytacja",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "synod diecezjalny",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "sobór mniszy",
+        "place_of_institution": "Uniejów",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Kongregacja Propagandy Wiary",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "archimandria uniowska",
         "place_of_institution": "Uniów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "metropolia kijowska",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "diecezja przemyska",
         "place_of_institution": "Przemyśl",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ławra kijowsko-peczerska",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "katedra lwowska",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor wicyński",
         "place_of_institution": "Wicyń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor krechowski",
         "place_of_institution": "Krechów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor ławrowski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor szczepłocki",
         "place_of_institution": "Szczepłocice",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "cerkiew parafialna",
         "place_of_institution": "Woszczańce",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor św. Jura",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "mnisi w Uniowie",
         "place_of_institution": "Uniów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

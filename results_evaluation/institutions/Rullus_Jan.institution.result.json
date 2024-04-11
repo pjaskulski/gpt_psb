@@ -2,31 +2,31 @@
     {
         "institution": "universitas Viennensis",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gimnazjum przy kościele Św. Marii Magdaleny",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Lubrańskiego",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Miejska Wrocławia",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

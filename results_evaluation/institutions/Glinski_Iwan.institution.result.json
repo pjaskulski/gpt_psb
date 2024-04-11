@@ -2,55 +2,55 @@
     {
         "institution": "dwór królewski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "namiestnictwo smoleńskie",
         "place_of_institution": "Smoleńsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "namiestnictwo przełomskie i ożskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "marszałkostwo hospodarskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "województwo kijowskie",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rada",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm grodzieński",
         "place_of_institution": "Grodno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "województwo nowogródzkie",
         "place_of_institution": "Nowogródek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "wielkie księstwo Moskiewskie",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

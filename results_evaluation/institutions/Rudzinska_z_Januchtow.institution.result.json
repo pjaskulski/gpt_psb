@@ -2,37 +2,37 @@
     {
         "institution": "Liceum im. Jana Śniadeckiego",
         "place_of_institution": "Kielce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Badań Literackich PAN",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pracownia Badań Kultury Współczesnej PAN",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pracownia Badań Kultury Literackiej IBL",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Filologiczny Uniwersytetu im. M. Curie-Sklodowskiej",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

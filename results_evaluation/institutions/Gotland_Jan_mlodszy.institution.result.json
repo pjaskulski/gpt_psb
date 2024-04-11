@@ -2,31 +2,31 @@
     {
         "institution": "Cech murarzy",
         "place_of_institution": "Toruń",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy ojca, Hansa"
     },
     {
         "institution": "Kościół Św. Jana",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół Św. Wawrzyńca",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Brama miejska",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół OO. Franciszkanów",
         "place_of_institution": "Braniewo",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

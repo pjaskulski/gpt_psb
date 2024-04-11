@@ -2,31 +2,37 @@
     {
         "institution": "Uniw. Krak.",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rota Rzymska",
         "place_of_institution": "Rzym",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie dotyczy bohatera biogramu"
     },
     {
         "institution": "Bazylika św. Piotra",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kuria Rzymska",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła gnieźnieńska",
         "place_of_institution": "Gniezno",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie dotyczy bohatera biogramu"
+    },
+    {
+        "institution": "wydział prawa Uniwersytetu w Padwie",
+        "place_of_institution": "Padwa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

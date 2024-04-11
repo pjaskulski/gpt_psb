@@ -2,55 +2,55 @@
     {
         "institution": "Uniwersytet Lwowski",
         "place_of_institution": "Lwów",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "profesor Uniwersytetu Lwowskiego"
     },
     {
         "institution": "Uniwersytet Wiedeński",
         "place_of_institution": "Wiedeń",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "studja zaś teologiczne odbył w Uniwersytecie Wiedeńskim"
     },
     {
         "institution": "Ministerstwo W. i O.",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "był ... kierownikiem utworzonego przez Ministerstwo W. i O. seminarjum homiletycznego dla alumnów gr.-kat."
     },
     {
         "institution": "Konsystorz Metropol.",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "zamianowany został rzeczywistym radcą gr.-kat. Konsystorza Metropol."
     },
     {
         "institution": "Metropol. Kapituła",
         "place_of_institution": "Lwów",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "honorowym kanonikiem lwowskiej gr.-kat. Metropol. Kapituły"
     },
     {
         "institution": "Metrop. sąd",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "w r. 1897 radcą Metrop. sądu dla spraw małżeńskich i sądu instancyjnego"
     },
     {
         "institution": "Ruskyj Syjon",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - drukował w języku ruskim szereg traktatów z dziedziny teologicznej w czasopismach cerkiewnych »Ruskyj Syjon«, »Hałyckyj Syjon«, »Duszpastyr«"
     },
     {
         "institution": "Hałyckyj Syjon",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - drukował w języku ruskim szereg traktatów z dziedziny teologicznej w czasopismach cerkiewnych »Ruskyj Syjon«, »Hałyckyj Syjon«, »Duszpastyr«"
     },
     {
         "institution": "Duszpastyr",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? - drukował w języku ruskim szereg traktatów z dziedziny teologicznej w czasopismach cerkiewnych »Ruskyj Syjon«, »Hałyckyj Syjon«, »Duszpastyr«"
     }
 ]

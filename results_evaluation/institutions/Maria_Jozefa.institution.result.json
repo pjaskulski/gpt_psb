@@ -2,37 +2,37 @@
     {
         "institution": "Liga Święta",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór królewicza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sejm Rzeczypospolitej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór polsko-saski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm grodzieński",
         "place_of_institution": "Grodno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo spiskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

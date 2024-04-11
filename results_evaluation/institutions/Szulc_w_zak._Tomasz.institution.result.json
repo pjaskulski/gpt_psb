@@ -2,103 +2,115 @@
     {
         "institution": "Zakon Dominikanów",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konwent św. Mikołaja",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor w Toruniu",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klasztor w Opatowcu",
         "place_of_institution": "Opatowiec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kapituła w Płocku",
         "place_of_institution": "Płock",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kapituła w Lublinie",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoły dominikańskie",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoły dominikańskie",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoły dominikańskie",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół św. Wojciecha",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rada prowincji",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor w Chełmnie",
         "place_of_institution": "Chełmno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła prowincji",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor w Płocku",
         "place_of_institution": "Płock",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kontrata pruska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła w Janowie",
         "place_of_institution": "Janów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Bractwo różańcowe",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "studium generalne",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "klasztor w Gdańsku",
+        "place_of_institution": "Gdańsk",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

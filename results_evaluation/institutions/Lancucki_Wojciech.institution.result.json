@@ -2,85 +2,103 @@
     {
         "institution": "Akademia Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Lubrańskiego",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Seminarium Duchowne",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Mniejsze",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Większe",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Jurystów",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Lubrańskiego",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Kolegiata Wszystkich Świętych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Trybunał Roty Rzymskiej",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Prawnicze",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata Św. Anny",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła parafialna",
         "place_of_institution": "Skawina",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Wydział Filozoficzny",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Wydział Prawa",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "probostwo",
+        "place_of_institution": "Luborzyca",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

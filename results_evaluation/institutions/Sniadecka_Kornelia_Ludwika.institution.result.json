@@ -2,61 +2,61 @@
     {
         "institution": "Tow. Promienistych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Uniw. Wil.",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Agencja Wschodnia Hotelu Lambert",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dep. Górniczego w Petersburgu",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Hotel Lambert",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rząd Narodowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Narodowa",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Muz. A. Mickiewicza",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Jagiellońska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Czartoryskich",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

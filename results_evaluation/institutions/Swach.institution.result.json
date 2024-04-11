@@ -2,115 +2,115 @@
     {
         "institution": "zakon franciszkanów konwentualnych",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "szkoła malarska Jerzego Eleutera Siemiginowskiego",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół Franciszkanów",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół Cystersów",
         "place_of_institution": "Ląd",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół pocysterski",
         "place_of_institution": "Tarnów Pałucki",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor Franciszkanów",
         "place_of_institution": "Kalisz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor Franciszkanów",
         "place_of_institution": "Pyzdry",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół p. wezw. św. Stanisława Biskupa",
         "place_of_institution": "Żerków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kolegiata łowicka",
         "place_of_institution": "Łowicz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół Franciszkanów",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół p. wezw. św. Franciszka Ksawerego",
         "place_of_institution": "Krasnystaw",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół",
         "place_of_institution": "Krosno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół filipinów",
         "place_of_institution": "Studzianna",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół p. wezw. Podwyższenia Krzyża Świętego",
         "place_of_institution": "Wełna",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół cysterek",
         "place_of_institution": "Owińska",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor Jezuitów",
         "place_of_institution": "Jarosław",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół Reformatów",
         "place_of_institution": "Szamotuły",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół p. wezw. Najświętszej Krwi Pana Jezusa",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

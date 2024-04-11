@@ -2,37 +2,37 @@
     {
         "institution": "Trybunał w Mińsku",
         "place_of_institution": "Mińsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Trybunał Skarbowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "konfederacja Antoniego Ponińskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm pacyfikacyjny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Skarb W. Ks. Lit.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,43 +2,43 @@
     {
         "institution": "Dom Montelupich",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dom Gutteterów",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Melsztynie",
         "place_of_institution": "Melsztyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek Wawelski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór Rabsztyn",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dzwonnica Zygmuntowska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kamienica «książęca»",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

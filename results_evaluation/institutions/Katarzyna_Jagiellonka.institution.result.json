@@ -2,37 +2,37 @@
     {
         "institution": "Dwór królewski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek wawelski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Turku",
         "place_of_institution": "Turku",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek Gripsholm",
         "place_of_institution": "Mariefred",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Królestwo Szwecji",
         "place_of_institution": "Szwecja",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Katedra w Uppsali",
         "place_of_institution": "Uppsala",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

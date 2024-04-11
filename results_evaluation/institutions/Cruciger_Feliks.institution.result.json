@@ -2,97 +2,103 @@
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Secemin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Pińczów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Książ",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: synod w Książu"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: synod w Krakowie"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Włodzisław",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: synod wodzisławski"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Gołuchów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: synod w Gołuchowie"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Koźminek",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: synod w Koźminku"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Słomniki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: synod w Słomnikach"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Chrzęcice",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: zjaz w Chrzęcicach"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Lipnik",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: zjazd w Lipniku"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Ostroróg",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: kościół w Ostrorogu"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Niedźwiedź",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: proboszcz w Niedźwiedziu"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Poznań",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest: nabożeństwo w Poznaniu"
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Wielkopolska",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Małopolska",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+    "instytution": "kaqpituła krakowska",
+    "place_of_instytution": "Kraków",
+    "result": false,
+    "pj_note": "brak"
     }
 ]

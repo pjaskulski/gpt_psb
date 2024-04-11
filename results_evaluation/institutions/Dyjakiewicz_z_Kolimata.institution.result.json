@@ -2,37 +2,37 @@
     {
         "institution": "gimnazjum słuckie",
         "place_of_institution": "Słuck",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "synod",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "zbór zejmelski",
         "place_of_institution": "Zejmy",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powinno być: Żejmy"
     },
     {
         "institution": "zbór w Węgrowie",
         "place_of_institution": "Węgrów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Archiwum Synodu Wileńskiego",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "gimnazjum w Kiejdanach",
         "place_of_institution": "Kiejdany",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dot. syna, Marcina"
     }
 ]

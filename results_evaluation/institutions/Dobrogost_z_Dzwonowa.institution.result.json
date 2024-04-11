@@ -2,13 +2,13 @@
     {
         "institution": "województwo poznańskie",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół poznański",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

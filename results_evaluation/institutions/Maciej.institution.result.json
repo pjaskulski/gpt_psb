@@ -2,19 +2,19 @@
     {
         "institution": "Kancelaria księcia wielkopolskiego Bolesława Pobożnego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klasztor Benedyktynów",
         "place_of_institution": "Lubin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Poznańska",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

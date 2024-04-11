@@ -2,43 +2,43 @@
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Katedralna Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kuria Rzymska",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Stolica Apostolska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd Konsystorski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Synod Prowincjonalny",
         "place_of_institution": "Łęczyca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Katedralna Poznańska",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

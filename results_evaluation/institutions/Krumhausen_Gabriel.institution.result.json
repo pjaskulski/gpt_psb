@@ -2,25 +2,25 @@
     {
         "institution": "Gimnazjum Akademickie",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Strasburgu",
         "place_of_institution": "Strasburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Wojenna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Rady Miasta",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

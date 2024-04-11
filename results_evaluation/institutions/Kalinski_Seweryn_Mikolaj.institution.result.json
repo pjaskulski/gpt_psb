@@ -2,49 +2,49 @@
     {
         "institution": "wojsko kwarciane",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "pułk chorążego kor. Aleksandra Koniecpolskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "starostwo barskie",
         "place_of_institution": "Bar",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "starostwo bracławskie",
         "place_of_institution": "Bracław",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "armia szwedzka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "korpus gen. Müllera",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor jasnogórski",
         "place_of_institution": "Częstochowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "wojsko Stefana Czarnieckiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

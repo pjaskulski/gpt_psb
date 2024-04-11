@@ -2,67 +2,67 @@
     {
         "institution": "Gazeta Warszawska",
         "place_of_institution": "Warszawa",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "pracował w Redakcji"
     },
     {
         "institution": "Szkoła Dramatyczna",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Wielki",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Rozmaitości",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Wileński",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Lwowski",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Burg-teatr",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Thaliatheater",
         "place_of_institution": "Hamburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Drezdeński",
         "place_of_institution": "Drezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Niemiecki",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

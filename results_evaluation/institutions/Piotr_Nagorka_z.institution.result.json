@@ -2,13 +2,13 @@
     {
         "institution": "Kuria awiniońska",
         "place_of_institution": "Awinion",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata Św. Piotra",
         "place_of_institution": "Kruszwica",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

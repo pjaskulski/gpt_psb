@@ -1,116 +1,146 @@
 [
     {
+        "institution": "gimnazjum",
+        "place_of_institution": "Pułtusk",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {    
         "institution": "Seminarium Duchowne",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Duchowna",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Gregoriański",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Adwokatów: Lo Studio del Concilio di Trento",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Arcybiskupi",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła warszawska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "kuria rzymska",
+        "place_of_institution": "Rzym",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Mędzybartyjne Koło Polityczne",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Rada Regencyjna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zjednoczenie Ludowe",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Pogotowie Patriotów Polskich",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Kongregacja Sakramentów",
         "place_of_institution": "Rzym",
-        "result": null,
-        "pj_note": ""
+        "result": true,
+        "pj_note": "K. został członkiem Kongregacji Sakramentów"
     },
     {
         "institution": "Propaganda Wiary",
         "place_of_institution": "Rzym",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Kongregacja Propagandy Wiary"
     },
     {
         "institution": "Seminaria i Uniwersytety",
         "place_of_institution": "Rzym",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Kongregacja Seminariów i Uniwersytetów"
     },
     {
         "institution": "Reverenda Fabrica di s. Pietro",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Akcja Katolicka",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Katolicki Związek Instytucji i Zakładów Wychowawczych «Caritas»",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Katolicki Dom tzw. Romy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Wyższej Kultury Religijnej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dom Pracy dla Najbiedniejszych",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dom rekolekcyjny",
         "place_of_institution": "Skrzeszewy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum Archidiecezjalne",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

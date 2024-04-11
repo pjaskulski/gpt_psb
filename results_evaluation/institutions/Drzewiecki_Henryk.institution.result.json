@@ -2,31 +2,37 @@
     {
         "institution": "Konserwatorium",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Opera",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Opera",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Okręgowy",
         "place_of_institution": "Radom",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "wydział prawa",
+        "place_of_institution": "Petersburg",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Izba Notarialna",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "tytuł"
     }
 ]

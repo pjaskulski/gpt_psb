@@ -2,103 +2,103 @@
     {
         "institution": "bet-hamidrasz",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "rządowa szkoła rabinów",
         "place_of_institution": "Żytomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jidišes folksblat",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Der hojz-frajnd",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Der familjen frajnd",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jom-tov-blettlech",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Der jud",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Di jidisze folkscajtung",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Frajtag",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Die cajt",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Die noje weit",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Unzer leben",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Der moment",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Der frajnd",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Izraelita",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Di cajt",
         "place_of_institution": "Nowy Jork",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jidišer tageblat",
         "place_of_institution": "Nowy Jork",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,25 +2,25 @@
     {
         "institution": "Rada Kozacka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm Rzeczypospolitej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Wojenna Moskiewska",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Armia Moskiewska",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "to nie jest instytucja"
     }
 ]

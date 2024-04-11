@@ -2,271 +2,307 @@
     {
         "institution": "Muzeum M. Kopernika",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "biskupstwo wrocławskie",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zakon św. Dominika",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor benedyktynek",
         "place_of_institution": "Chełmno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniw. Krak.",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kapituła warmińska",
         "place_of_institution": "Frombork",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+         "institution": "szkoła przy kościele św. Jana",
+        "place_of_institution": "Toruń",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": " szkoła partykularna Braci Wspólnego Życia (Hieronimianów)",
+        "place_of_institution": "Chełmno",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": " szkoła katedralna",
+        "place_of_institution": "Włocławek",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Uniwersytet Jurystów",
         "place_of_institution": "Bolonia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Boloński",
         "place_of_institution": "Bolonia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kuria Papieska",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Padewski",
         "place_of_institution": "Padwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Ferrarze",
         "place_of_institution": "Ferrara",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Warmińska",
         "place_of_institution": "Warmia",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Rada Prus Królewskich",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek Lidzbarski",
         "place_of_institution": "Lidzbark Warmiński",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Oficyna J. Hallera",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła warmińska",
         "place_of_institution": "Frombork",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Zamek w Olsztynie",
         "place_of_institution": "Olsztyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Stanów Prus Królewskich",
         "place_of_institution": "Grudziądz",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "sejm krakowski",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "sejmik pruski",
+        "place_of_institution": "Grudziądz",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Mennica krzyżacka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakon",
         "place_of_institution": "Elbląg",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "diecezja warmińska",
+        "place_of_institution": "Frombork",
+        "result": false,
+        "pj_note": "brak"
     },
     {
         "institution": "Kapituła",
         "place_of_institution": "Grudziądz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rada Stanów Pruskich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Mennica",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór bpa Maurycego Ferbera",
         "place_of_institution": "Lidzbark",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Uniwersytet",
         "place_of_institution": "Bolonia",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Dwór ks. Albrechta Pruskiego",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Warmińska",
         "place_of_institution": "Frombork",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Gimnazjum Elbląskie",
         "place_of_institution": "Elbląg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór Książęcy",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Wittenberdze",
         "place_of_institution": "Wittenberga",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Oficyna F. Rhodego",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Bazylei",
         "place_of_institution": "Bazylea",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia J. Luffta",
         "place_of_institution": "Wittenberga",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia Jana Petreiusa",
         "place_of_institution": "Norymberga",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Oficyna J. Petreiusa",
         "place_of_institution": "Norymberga",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Biskupia",
         "place_of_institution": "Lidzbark",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Katedra Fromborska",
         "place_of_institution": "Frombork",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Św. Inkwizycja",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Groningen",
         "place_of_institution": "Groningen",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Nostitzów",
         "place_of_institution": "Praga",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Jagiellońska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Czartoryskich",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Uniwersytecka",
         "place_of_institution": "Upsala",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

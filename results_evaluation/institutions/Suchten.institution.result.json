@@ -2,73 +2,73 @@
     {
         "institution": "gimnazjum",
         "place_of_institution": "Elbląg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Warmińska",
         "place_of_institution": "Frombork",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Lowanium",
         "place_of_institution": "Lowanium",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Rzymie",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Ferrarze",
         "place_of_institution": "Ferrara",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Bolonii",
         "place_of_institution": "Bolonia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Padwie",
         "place_of_institution": "Padwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Królewcu",
         "place_of_institution": "Królewiec",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie dotyczy bohatera biogramu"
     },
     {
         "institution": "Biblioteka księcia Albrechta",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka palatyna reńskiego Ottona Henryka",
         "place_of_institution": "Weinheim",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Królewski dwór Zygmunta Augusta",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm Rzeszy",
         "place_of_institution": "Speyer",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

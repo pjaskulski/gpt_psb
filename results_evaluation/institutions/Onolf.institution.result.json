@@ -2,25 +2,25 @@
     {
         "institution": "Diecezja kruszwicka",
         "place_of_institution": "Kruszwica",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Diecezja włocławska",
         "place_of_institution": "Włocławek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kapituła",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szpital Św. Gotarda",
         "place_of_institution": "Włocławek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

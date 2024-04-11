@@ -2,85 +2,85 @@
     {
         "institution": "Klasztor koprzywnicki",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Królewski sąd ziemski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Królewski sąd ziemski",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo chęcińskie",
         "place_of_institution": "Chęciny",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Królewskie zatwierdzenie dokumentu",
         "place_of_institution": "Chęciny",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Radoszyce",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Łagów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Biecz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Solec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Nowe Miasto Korczyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Koprzywnica",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "Trzeciec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

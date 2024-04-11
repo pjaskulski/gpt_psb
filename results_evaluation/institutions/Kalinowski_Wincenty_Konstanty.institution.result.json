@@ -2,55 +2,55 @@
     {
         "institution": "Szkoła w Świsłoczy",
         "place_of_institution": "Świsłocz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Moskwie",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Prawa",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Ziemli i Woli",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Prowincjonalny Litwy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rząd Tymczasowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wydział",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komitet Litewski",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rząd Narodowy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

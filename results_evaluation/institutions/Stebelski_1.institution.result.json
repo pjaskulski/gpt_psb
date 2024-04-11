@@ -2,223 +2,259 @@
     {
         "institution": "Uniw. Lwow.",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Obwodowy",
         "place_of_institution": "Stanisławów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd Powiatowy",
         "place_of_institution": "Chrzanów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd Obwodowy",
         "place_of_institution": "Nowy Sącz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd Krajowy Wyższy",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Min. Sprawiedliwości",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd Krajowy",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Gimnazjum",
         "place_of_institution": "Stanisławów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gimnazjum im. Franciszka Józefa",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Tow. im. Kaczkowskiego",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ruska Rada",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Państwa",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Gazeta Narodowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Przegląd Lwowski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Reforma",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Ziarno",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kraj",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Strachopud",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Novost'",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Różowe Domino",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dziennik Polski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Ognisko Domowe",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kurier Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kurier Codzienny",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Tygodnik Ilustrowany",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Echo Muzyczne, Teatralne i Artystyczne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Nowa Reforma",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wędrowiec",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Przegląd Tygodniowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Muza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Tygodnik Powszechny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kalendarz warszawski Józefa Ungra",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kolce",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Mucha",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakład dla umysłowo chorych",
         "place_of_institution": "Tworki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Literaturno-Naukovego Vistnyka",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kraj",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "Gimnazjum",
+        "place_of_institution": "Sambor",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {   
+        "institution": "Bojan",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Akademiczna Besida",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Akademiczeskij Krużok",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "uniwerystet",
+        "place_of_institution": "Wiedeń",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Szczutek",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

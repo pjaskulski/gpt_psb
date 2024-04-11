@@ -2,73 +2,73 @@
     {
         "institution": "Zakład zegarmistrzowski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Ratusz Główny",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Giełda w Banku Polskim",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Cesarska Akademia Nauk",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Instytut Szlachecki",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szpital Świętego Ducha",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek Królewski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Przemysłu, Sztuk i Nauk Wyzwolonych",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Bank Polski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Muzeum Cesarskiej Akademii Nauk",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Akademii Nauk",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Archiwum Historyczne",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

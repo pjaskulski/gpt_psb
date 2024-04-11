@@ -2,31 +2,31 @@
     {
         "institution": "zamek biskupów kujawskich",
         "place_of_institution": "Raciążek",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "podkomorstwo brzeskie",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "miejsce winno być: Brzeg Kujawski"
     },
     {
         "institution": "sąd ziemski",
         "place_of_institution": "Inowrocław",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kasztelania kruszwicka",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "miejsce winno być: Kruszwica"
     },
     {
         "institution": "starostwo kujawskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -2,43 +2,43 @@
     {
         "institution": "Beit Jakow",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Agudat Israel",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Keren Hatora",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Benot Agudat Israel",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Seminarium Nauczycielskie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Nauczycielskie Keren Hatora",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Synagoga przy Stumpfergasse",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

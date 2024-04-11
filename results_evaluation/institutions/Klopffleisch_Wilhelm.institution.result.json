@@ -2,43 +2,43 @@
     {
         "institution": "Gimnazjum",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Fabryka maszyn na Solcu",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Demokratyczny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Centralizacja Tow. Demokr. Pol.",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Centralny Komitet Demokracji Europejskiej",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Browar na Nowym Świecie",
         "place_of_institution": "Warszawa",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "ojciec"
     },
     {
         "institution": "Nerczyński Zawód",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -2,91 +2,91 @@
     {
         "institution": "Szkoła powiatowa",
         "place_of_institution": "Międzyboże",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gimnazjum",
         "place_of_institution": "Żytomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniw. Kijowski",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Tow. Rolnicze",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Polskie Tow. Pomocy Naukowej dla ziem Wołynia, Podola i Ukrainy",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gimnazjum żytomierskie",
         "place_of_institution": "Żytomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gazeta Warszawska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kurier Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Tygodnik Ilustrowany",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kłosy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Echo",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wieniec",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Krakowski Teatr",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Teatr Miejski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Narodowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

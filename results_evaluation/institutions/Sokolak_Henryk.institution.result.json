@@ -2,151 +2,253 @@
     {
         "institution": "Szkoła Podchorążych Rezerwy Piechoty",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Nauczycielstwa Polskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komunistyczna Partia Niemiec",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Międzynarodowy Komitet Obozowy",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak miejscowości"
     },
     {
         "institution": "Polska Partia Robotnicza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Centralny PPR",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Państwowa Komisja Weryfikacyjna",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Propagandy KC PPR",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Organizacyjny Komitetu Wojewódzkiego PPR",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wojewódzki Urząd Bezpieczeństwa Publicznego",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Polityczno-Wychowawcza Dep. VII Min. Bezpieczeństwa Publicznego",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Oficerska Dep. VII MBP",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ministerstwo Spraw Zagranicznych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ambasada PRL",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Agencja Prasowa",
         "place_of_institution": "Berlin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ministerstwo Spraw Wewnętrznych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Zjednoczona Partia Robotnicza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ambasada PRL",
         "place_of_institution": "Niemiecka Republika Demokratyczna",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja ds. Odszkodowań Niemieckich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ambasada PRL",
         "place_of_institution": "Tunezja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Departament Kadr i Szkolenia MSZ",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Departament Studiów i Programowania MSZ",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polski Związek Byłych Więźniów Politycznych Hitlerowskich Więzień i Obozów Koncentracyjnych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Naczelna ZBoWiD",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Służba Bezpieczeństwa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "seminarium nauczycielskie",
+        "place_of_institution": "Rogoźno",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "szkoła",
+        "place_of_institution": "Rudna",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "obóz przejściowy",
+        "place_of_institution": "Gąbin",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Fort VII Cytadeli Poznańskiej",
+        "place_of_institution": "Poznań",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "obóz koncentracyjny",
+        "place_of_institution": "Buchenwald",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Komitet Koleżeński",
+        "place_of_institution": "Buchenwald",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Komitet Antyfaszystowski",
+        "place_of_institution": "Buchenwald",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Rada Narodowa Polaków w Buchenwaldzie",
+        "place_of_institution": "Buchenwald",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Gwardia Ludowa",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Rada Obozowa",
+        "place_of_institution": "Buchenwald",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Prawda o Polsce",
+        "place_of_institution": "Buchenwald",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Komitet Miejski PPR",
+        "place_of_institution": "Poznań",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Egzekutywa Komitetu Wojewódzkiego PPR",
+        "place_of_institution": "Poznań",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "senatorium ZNP",
+        "place_of_institution": "Zakopane",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Wydział IV Departamentu VII MBP",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Komitet do spraw Bezpieczeństwa Publicznego",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Wojsko Polskie",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

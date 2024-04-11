@@ -2,145 +2,145 @@
     {
         "institution": "Uniwersytet Paryski",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "pensja J. Sikorskiej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "gimnazjum rządowe",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "uniwersytet latający",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum Przemysłu i Rolnictwa",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Société d’Encouragement pour l’Industrie Nationale",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Miejska Szkoła Fizyki i Chemii",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Fizyki i Chemii",
         "place_of_institution": "Paryż",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "było już wyżej"
     },
     {
         "institution": "Institut de France",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "École Normale Supérieure",
         "place_of_institution": "Sèvres",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Sorbonie",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Nauk w Stockholmie",
         "place_of_institution": "Sztokholm",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Royal Institution",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Pasteura",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sorbona",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Radowy",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Naukowe",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Marie Curie Radium Found",
         "place_of_institution": "Ameryka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Fundacja Curie",
         "place_of_institution": "Francja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Izba Deputowanych",
         "place_of_institution": "Francja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Senat",
         "place_of_institution": "Francja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Nauk",
         "place_of_institution": "Francja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Medycyny",
         "place_of_institution": "Francja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Radowy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

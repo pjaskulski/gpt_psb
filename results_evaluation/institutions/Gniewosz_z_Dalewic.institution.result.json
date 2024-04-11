@@ -2,73 +2,73 @@
     {
         "institution": "Księstwo Opolskie",
         "place_of_institution": "Opole",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek Wawelski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór królewski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Starostwo Lwowskie",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Starostwo Trembowelskie",
         "place_of_institution": "Trembowla",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Podkomorzy Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór drugiej żony Jagiełły, królowej Anny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Królewska",
         "place_of_institution": "Raciąż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kasztelania Sandomierska",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy żony, Anny"
     },
     {
         "institution": "Klasztor w Koprzywnicy",
         "place_of_institution": "Koprzywnica",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor augustianów przy kościele Bożego Ciała",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

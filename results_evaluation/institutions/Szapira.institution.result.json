@@ -2,145 +2,145 @@
     {
         "institution": "Stowarzyszenie Żydów Religijnych «Tiferet Hadas»",
         "place_of_institution": "Tarnopol",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Agudat Israel (Związek Izraela)",
         "place_of_institution": "Katowice",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła elementarna talmud-tora Bnei Tora",
         "place_of_institution": "Gliniany",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kasa zapomogowo-pożyczkowa",
         "place_of_institution": "Gliniany",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo opieki nad ubogimi chorymi Bikur Cholim",
         "place_of_institution": "Gliniany",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jesziwa",
         "place_of_institution": "Gliniany",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dep. Oświaty w Oddziale Galicji Wschodniej «Agudy»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Agudat Rabbonim Galitzo’im (Stow. Rabinów Galicyjskich)",
         "place_of_institution": "Tarnopol",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Ratunkowy",
         "place_of_institution": "Tarnopol",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kursy talmudyczne",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "«Aguda»",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Stowarzyszenie Talmud-Tora",
         "place_of_institution": "Sanok",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jesziwa",
         "place_of_institution": "Sanok",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klub Posłów i Senatorów «Szlomej Emunej Israel»",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Organizacja Syjonistów-Ortodoksów «Mizrachi»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "I Światowy Kongres «Agudy»",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komitet Budowy Wyższej Szkoły Religijnej «Keren Hatora»",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jesziwat Chachmej Lublin (Jesziwa Mędrców Lublina)",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Bank Gospodarstwa Krajowego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Rabinackie przy Min. WRiOP",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zarząd Lubelskiej Gminy Wyznaniowej",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Jesziwa Mędrców Lublina",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Nowy Cmentarz Żydowski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Cmentarz Har ha-Menuuchot",
         "place_of_institution": "Jerozolima",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

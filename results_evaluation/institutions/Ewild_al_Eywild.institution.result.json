@@ -2,25 +2,25 @@
     {
         "institution": "Unia Horodelska",
         "place_of_institution": "Horodło",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zakon Krzyżowy",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wielkie Księstwo Litewskie",
         "place_of_institution": "Lida",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Akta Wileńskie",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

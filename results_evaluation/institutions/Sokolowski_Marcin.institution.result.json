@@ -2,25 +2,31 @@
     {
         "institution": "Księga prawa miejskiego Starej Warszawy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rada Starej Warszawy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła gnieźnieńska",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kościół św. Krzyża",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "cech złotników",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

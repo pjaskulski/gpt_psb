@@ -2,13 +2,13 @@
     {
         "institution": "Opactwo New Minster i Hyde",
         "place_of_institution": "Winchester",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klub Storrady – Stow. na Rzecz Wzbogacenia i Rozwoju Życia Kulturalno-Społecznego Szczecina",
         "place_of_institution": "Szczecin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

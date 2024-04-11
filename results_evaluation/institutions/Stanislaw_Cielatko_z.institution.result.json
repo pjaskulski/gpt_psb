@@ -2,49 +2,49 @@
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Kanonistów",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kolegium Jurystów",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Katedra Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor Dominikanów",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół parafialny p. wezw. Wniebowzięcia NMP",
         "place_of_institution": "Jasło",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Katedra Przemyska",
         "place_of_institution": "Przemyśl",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata NMP",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

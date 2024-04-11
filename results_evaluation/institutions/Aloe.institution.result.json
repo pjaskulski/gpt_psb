@@ -2,61 +2,85 @@
     {
         "institution": "Wolnomularstwo",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wielki Wschód Narodowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Legacja polska",
         "place_of_institution": "Berlin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Zastępcza Tymczasowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Najwyższa Narodowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Deputacja do rewizji papierów dyplomatycznych i krajowej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Rządząca",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Stanu",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wielka Kapituła",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Najwyższa Kapituła",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Wydział dyplomatyczny",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "poselstwo polskie",
+        "place_of_institution": "Berlin",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "rząd Księstwa",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Wielki Wschód Polski",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

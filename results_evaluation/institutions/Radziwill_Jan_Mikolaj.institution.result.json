@@ -2,85 +2,85 @@
     {
         "institution": "kolegium jezuickie",
         "place_of_institution": "Nieśwież",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejmik gromniczny",
         "place_of_institution": "Nowogródek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "parlament",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Trybunał Litewski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejmik elekcyjny",
         "place_of_institution": "Nowogródek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Walna Rada Warszawska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm grodzieński",
         "place_of_institution": "Grodno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "wizytki",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "ekonomia szadowska",
         "place_of_institution": "powiat upicki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "leśnictwo jurborskie",
         "place_of_institution": "Żmudź",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "miasteczko Jansberg",
         "place_of_institution": "starostwo jurborskie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Narodowa",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

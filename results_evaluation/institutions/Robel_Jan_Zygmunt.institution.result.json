@@ -2,139 +2,139 @@
     {
         "institution": "III Gimnazjum im. Sobieskiego",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Filozoficzny UJ",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakład Chemii Lekarskiej UJ",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Ekspertyz Sądowych",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Oddział Chemiczny Instytutu Medycyny Sądowej i Kryminalistyki",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakład Chemii Lekarskiej",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Akademia Medyczna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Stowarzyszenie Asystentów UJ",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Stowarzyszeń Asystentów Szkół Wyższych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Centralna Komisja Porozumiewawczej Związków Zawodowych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polskie Towarzystwo Chemiczne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Stowarzyszenie Przeciwalkoholowe «Błękitny Krzyż»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "obóz koncentracyjny w Oranienburgu-Sachsenhausen",
         "place_of_institution": "Oranienburg-Sachsenhausen",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "tajny uniwersytet",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Lekarski UJ",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Rolniczy",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "? prowadząc przy tym ... wykłady (również dla studentów Wydziału Rolniczego)"
     },
     {
         "institution": "Armia Krajowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Grupa Oświęcim",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zespół Redakcyjny „Biuletynu Konserwatorskiego”",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Orderu Białego Kruka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Państwowa Rada Ochrony Przyrody",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Kynologiczny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Główna Komisja Badania Zbrodni Hitlerowskich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

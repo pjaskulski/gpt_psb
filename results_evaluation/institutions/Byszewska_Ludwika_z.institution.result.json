@@ -2,31 +2,37 @@
     {
         "institution": "Dwór królewski",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie związana z bohjaterem biogramu"
     },
     {
         "institution": "Komisja Edukacji Narodowej",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie związana z bohaterem biogramu"
     },
     {
         "institution": "Szkoła Główna Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Opactwo Miechowskie",
         "place_of_institution": "Wrocieryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rząd austriacki",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "sejm",
+        "place_of_institution": "Grodno",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

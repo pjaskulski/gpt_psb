@@ -2,43 +2,43 @@
     {
         "institution": "Kanonik krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kustosz gnieźnieński",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Łożniczy królewski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starosta",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Łowczy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sędzia ziemski lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kasztelan zawichojski",
         "place_of_institution": "Zawichost",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -2,79 +2,79 @@
     {
         "institution": "Kościół łaciński na Rusi Czerwonej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Diecezja w Hildesheimie",
         "place_of_institution": "Hildesheim",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konwent dominikanów",
         "place_of_institution": "Przemyśl",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konwent dominikanów",
         "place_of_institution": "Łańcut",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konwent franciszkanów",
         "place_of_institution": "Przemyśl",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konwent franciszkanów",
         "place_of_institution": "Krosno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konwent franciszkanów",
         "place_of_institution": "Sanok",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Katedra pod wezwaniem Matki Boskiej i św. Jana Chrzciciela",
         "place_of_institution": "Przemyśl",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kancelaria kurialna",
         "place_of_institution": "Przemyśl",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kuria biskupia",
         "place_of_institution": "Krosno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Bractwo Literackie ku czci N. P. Marii",
         "place_of_institution": "Krosno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klasztor dominikanów",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klasztor franciszkanów",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

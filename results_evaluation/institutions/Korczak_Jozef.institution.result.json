@@ -2,79 +2,79 @@
     {
         "institution": "Organizacja Młodzieży Narodowej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Strzelecki",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Oddział Lotny Wojsk Polskich",
         "place_of_institution": "Lubelszczyzna",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Organizacja Wojskowa",
         "place_of_institution": "Siedlce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "I Brygada Legionów Polskich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Partia Socjalistyczna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pogotowie Bojowe PPS",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wojsko Polskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Milicja Ludowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ministerstwo Spraw Wojskowych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wolna Wszechnica Polska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "201 Pułk Piechoty",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

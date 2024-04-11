@@ -2,163 +2,163 @@
     {
         "institution": "Akademia Mohylańska",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kancelaria hetmańska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "konsystorz metropolii kijowskiej",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szwedzka dyplomacja",
         "place_of_institution": "Sztokholm",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Francuska dyplomacja",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kolegium w Stanisławowie",
         "place_of_institution": "Stanisławów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Gwardia saska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kongres w Soissons",
         "place_of_institution": "Soissons",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór carski",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór wiedeński",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór w Hanowerze",
         "place_of_institution": "Hanower",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór w Chambord",
         "place_of_institution": "Chambord",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór w Wersalu",
         "place_of_institution": "Wersal",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Porta",
         "place_of_institution": "Stambuł",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rzym",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztory w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kongres w Brunszwiku",
         "place_of_institution": "Brunszwik",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rezydencja rosyjska w Wiedniu",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Poselstwo rosyjskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo holsztyńskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo saskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo macedońskie",
         "place_of_institution": "Serez",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo bułgarskie",
         "place_of_institution": "Adrianopol",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo rumuńskie",
         "place_of_institution": "Bukareszt",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo mołdawskie",
         "place_of_institution": "Jassy",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księstwo bułgarskie",
         "place_of_institution": "Widyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "brak danych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

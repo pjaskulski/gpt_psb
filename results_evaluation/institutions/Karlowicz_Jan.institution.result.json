@@ -2,79 +2,79 @@
     {
         "institution": "warszawska policja narodowa",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "probostwo",
         "place_of_institution": "Nur",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "magistrat",
         "place_of_institution": "Nur",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kancelaria IV cyrkułu policji wykonawczej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "zarząd ober-policmajstra",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kantor Służby Domowej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Centralny",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie związane z bohaterem biogramu"
     },
     {
         "institution": "Rząd Narodowy",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie związane z bohaterem biogramu"
     },
     {
         "institution": "Wydział Policji Rządu Narodowego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ratusz warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wydział Krajowy",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Politechniczna",
         "place_of_institution": "Lwów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy syna Jana"
     },
     {
         "institution": "Szkoła Gospodarstwa Wiejskiego",
         "place_of_institution": "Snopków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy córki Janiny Teresy"
     }
 ]

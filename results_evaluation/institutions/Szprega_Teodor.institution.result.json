@@ -2,73 +2,91 @@
     {
         "institution": "gimnazjum katolickie",
         "place_of_institution": "Chojnice",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zakon Braci Mniejszych",
         "place_of_institution": "Wejherowo",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor",
         "place_of_institution": "Łąki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Prow. Rekolektów Krzyża Świętego",
         "place_of_institution": "Westfalia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "studium seminaryjne",
         "place_of_institution": "Miejska Górka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "dom księży demerytów",
         "place_of_institution": "Osieczna",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor przy kościele NMP (zwanej Draperis)",
         "place_of_institution": "Stambuł",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ambasada austro-węgierska",
         "place_of_institution": "Stambuł",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kościół zakonny",
         "place_of_institution": "Goruszki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "parafia",
         "place_of_institution": "Dubinie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor",
         "place_of_institution": "Osieczna",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "parafia",
         "place_of_institution": "Drzeczkowo",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "parafia",
+        "place_of_institution": "Kurzętnik",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "parafia",
+        "place_of_institution": "Zblew",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "parafia",
+        "place_of_institution": "Miejska Górka",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

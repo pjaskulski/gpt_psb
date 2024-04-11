@@ -2,109 +2,109 @@
     {
         "institution": "Państwowe Gimnazjum im. Stefana Batorego",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Ordynacji Zamoyskich",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkola Podchorążych Rezerwy Artylerii",
         "place_of_institution": "Włodzimierz Wołyński",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "32. dyon artyl. lekkiej",
         "place_of_institution": "Rembertów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Syndykalistów Polskich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biuro Informacji i Propagandy Komendy Głównej ZWZ/AK",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Stronnictwo Demokratyczne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polski Związek Zachodni",
         "place_of_institution": "Katowice",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Departament Informacji i Prasy MSZ",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polski Ośrodek Informacyjny",
         "place_of_institution": "Nowy Jork",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ONZ",
         "place_of_institution": "Nowy Jork",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Polska Misja w Międzynarodowej Komisji Nadzoru i Kontroli",
         "place_of_institution": "Wietnam",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ambasada PRL",
         "place_of_institution": "Szwecja",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Departament Europy Zachodniej MSZ",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Departament Wielkiej Brytanii i Ameryki MSZ",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "chargé d’affaires w Islandii",
         "place_of_institution": "Reykjavík",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Telewizja Polska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

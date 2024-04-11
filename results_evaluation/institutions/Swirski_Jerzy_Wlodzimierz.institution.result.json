@@ -2,193 +2,199 @@
     {
         "institution": "Korpus Kadetów",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Morski Korpus Kadetów",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Flota Bałtycka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Flota Czarnomorska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Główny Sztab Morski",
         "place_of_institution": "Min. Marynarki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Naczelny i Dowództwo Wojsk Polskich na Wschodzie",
         "place_of_institution": "Odesa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Liga Odrodzenia Marynarki Polskiej",
         "place_of_institution": "Odesa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sekcja Wojskowa Komitetu Narodowego Polskiego",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dep. dla Spraw Morskich (DSM) MSWojsk",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja (Komitet?) Budowy Portu Wojennego",
         "place_of_institution": "Gdynia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kierownictwo Marynarki Wojennej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Główna Ligi Morskiej i Kolonialnej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kwatera Główna Naczelnego Wodza",
         "place_of_institution": "Kołomyja",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kierownictwo Marynarki Wojennej",
         "place_of_institution": "Pińsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Morski Sąd Wojenny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Polska Misja Wojskowa",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Admiralicja brytyjska",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "ORP «Gdynia»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkola Podchorążych Marynarki Wojennej",
         "place_of_institution": "Toruń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kierownictwo Marynarki Wojennej RP",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła realna",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Polski Korpus Przysposobienia i Rozmieszczenia",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Admiralicja",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Instytut Historyczny im. gen. Sikorskiego",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Koło Generałów i Pułkowników",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Egzekutywa Zjednoczenia Narodowego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Loża masońska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Brompton Cemetery",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół p. wezw. św. Michała Archanioła",
         "place_of_institution": "Gdynia",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Cmentarz Marynarki Wojennej",
         "place_of_institution": "Gdynia",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Morska Straż Graniczna",
         "place_of_institution": "Odesa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sztab odeskiego oddziału Morskiej Straży Granicznej",
         "place_of_institution": "Odesa",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "Rada Wojenna",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

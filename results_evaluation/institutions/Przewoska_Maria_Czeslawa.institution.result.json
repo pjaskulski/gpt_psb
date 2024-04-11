@@ -2,67 +2,79 @@
     {
         "institution": "Szkoła średnia",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Gazeta Świąteczna",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sorbona",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Collège de France",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Międzynarodowa Liga Wychowawcza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ognisko Badań Ezoterycznych i Metapsychicznych",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konfederacja Polska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Ognisko Uświadomienia Narodowego",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Literatów i Dziennikarzy Polskich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Ochrony Kobiet",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Stowarzyszenie Trzeźwość",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Związek Etyczny Kobiet",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Ministerstwo Wyznań Religinych i Oświecenia Publicznego",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

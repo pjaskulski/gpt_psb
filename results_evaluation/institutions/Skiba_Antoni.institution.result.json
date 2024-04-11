@@ -2,55 +2,55 @@
     {
         "institution": "pruskie Zgromadzenie Narodowe",
         "place_of_institution": "Berlin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet we Wrocławiu",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "seminarium duchowne",
         "place_of_institution": "Pelplin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "parafia kościoła św. Józefa",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "parafia w Rumi",
         "place_of_institution": "Rumia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Bractwo Bożej Opatrzności",
         "place_of_institution": "Rumia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Bractwo Różańca Świętego",
         "place_of_institution": "Reda",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Liga Polska Narodowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm pruski",
         "place_of_institution": "Berlin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

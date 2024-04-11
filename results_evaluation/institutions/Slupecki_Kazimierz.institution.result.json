@@ -2,85 +2,103 @@
     {
         "institution": "wojsko pruskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "2. Pułk Piechoty Ks. Warsz.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "7. kompania",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "18. pp",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "1. Pułk Piechoty Lit.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "loża rytu szkockiego «Świątynia Izis»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "2. Pułk Piechoty Liniowej",
         "place_of_institution": "Sandomierskiem",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisariatu Ubiorczego Wojska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisji Rozpoznawczej nominacji oficerskich",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Rozpoznawczy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Wojenny Nadzwyczajny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja do przejrzenia papierów osobom o spisek przeciw ojczyźnie obwinionym",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Rządowa Wojny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "pułk piechoty «Ritz»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "sztab gubernatora Warszawy",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "5. p. strzelców pieszych",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Pułk Weteranów Czynnych",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

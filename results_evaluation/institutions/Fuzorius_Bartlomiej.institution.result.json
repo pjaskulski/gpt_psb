@@ -2,19 +2,25 @@
     {
         "institution": "kolegiata nowosądecka",
         "place_of_institution": "Nowy Sącz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Kapitulna",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
-    }
+    },
+    {
+        "institution": "kapituła kolegiaty św. Małgorzaty",
+        "place_of_institution": "Nowy Sącz",
+        "result": false,
+        "pj_note": "brak"
+    }    
 ]

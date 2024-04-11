@@ -2,181 +2,181 @@
     {
         "institution": "Uniwersytet w Lipsku",
         "place_of_institution": "Lipsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Padwie",
         "place_of_institution": "Padwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór Zygmunta I",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór Zygmunta Augusta",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm Rzeczypospolitej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Synod w Piotrkowie",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Synod w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Senatu",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Senat",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zjazd w Kaskach",
         "place_of_institution": "Kaski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejmik województwa krakowskiego",
         "place_of_institution": "Proszowice",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Knyszynie",
         "place_of_institution": "Knyszyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zbor kalwiński",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejmik w Wiślicy",
         "place_of_institution": "Wiślica",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejmik w Środzie",
         "place_of_institution": "Środa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Senatorskie zebranie w Osieku",
         "place_of_institution": "Osiek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Kazimierzu",
         "place_of_institution": "Kazimierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek na Wawelu",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Kocku",
         "place_of_institution": "Kock",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Miasteczko Firlejów",
         "place_of_institution": "Firlejów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Miasto Wąwelnicę",
         "place_of_institution": "Wąwelnicę",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Kock",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński w Małopolsce",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uczelnie zagraniczne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo rohatyńskie",
         "place_of_institution": "Rohatyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Dwór królewski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "brak danych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

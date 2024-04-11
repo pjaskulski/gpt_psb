@@ -2,109 +2,109 @@
     {
         "institution": "XII Państwowe Gimnazjum i Liceum",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Medyczno-Weterynaryjna",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Armia Radziecka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Oficerska Szkoła Artylerii",
         "place_of_institution": "Szaumiani",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "III Leningradzka Szkoła Artylerii",
         "place_of_institution": "Kostroma",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "I Warszawska Brygada Artylerii im. gen. J. Bema",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "34 p. artylerii lekkiej 12 dyw. piechoty",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Centrum Wyszkolenia Artylerii",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Sztabu Generalnego im. gen. broni K. Świerczewskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dowództwo Artylerii W. P.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pomorski Okręg Wojskowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zarząd Sztabu Generalnego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Misja Polska przy Międzynarodowej Komisji Nadzoru i Kontroli",
         "place_of_institution": "Korea",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Główny Inspektorat Szkolenia Min. Obrony Narodowej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Partia Robotnicza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Zjednoczona Partia Robotnicza",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Sztabu Generalnego",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wojskowa Akademia Polityczna im. F. Dzierżyńskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

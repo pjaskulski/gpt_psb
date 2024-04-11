@@ -2,109 +2,115 @@
     {
         "institution": "Uniwersytet w Moskwie",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Polskiej Młodzieży Socjalistycznej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Pomocy Ofiarom Wojny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kancelaria Aleksandra Lednickiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polskie przedstawicielstwo w Gruzji, Armenii i Azerbejdżanie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Adwokatura z siedzibą w Warszawie",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Okręgowa Rada Adwokacka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Partia Socjalistyczna (PPS)",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Centralny Sąd Partyjny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zrzeszenie Prawników Socjalistów",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Koleżeński",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Liga Praw Człowieka i Obywatela",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Prezydium Okręgowej Rady Adwokackiej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Konsultacyjna (Beirat)",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gestapo",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pawiak",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Obóz koncentracyjny w Sachsenhausen",
         "place_of_institution": "Sachsenhausen",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Obóz w Dachau",
         "place_of_institution": "Dachau",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Związek Polskiej Młodzieży Akademickiej",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

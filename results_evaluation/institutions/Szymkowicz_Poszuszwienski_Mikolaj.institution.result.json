@@ -2,25 +2,25 @@
     {
         "institution": "Uniw. Krak.",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "dwór Jagiellonów",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "zakon kawalerów mieczowych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "zbór ewangelicki",
         "place_of_institution": "Poszuszwie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

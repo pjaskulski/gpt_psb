@@ -2,25 +2,25 @@
     {
         "institution": "Tygodnik Petersburski",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result":false,
         "pj_note": ""
     },
     {
         "institution": "Athenaeum",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Bibl. Warsz.",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zawadzki",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -2,55 +2,55 @@
     {
         "institution": "szkoła powiatowa",
         "place_of_institution": "Wieluń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "zakon oo. paulinów",
         "place_of_institution": "Częstochowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "klasztor",
         "place_of_institution": "Leśniów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Jasna Góra",
         "place_of_institution": "Częstochowa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "parafia",
         "place_of_institution": "Skałka",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kościół",
         "place_of_institution": "Skałka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor oo. paulinów",
         "place_of_institution": "Nagy-Levard",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "klasztor św. Krzyża",
         "place_of_institution": "Węgry",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

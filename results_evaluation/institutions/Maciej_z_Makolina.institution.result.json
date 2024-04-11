@@ -2,49 +2,55 @@
     {
         "institution": "Biskupstwo płockie",
         "place_of_institution": "Płock",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór królowej Bony",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kancelaria króla Zygmunta Augusta",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata Św. Michała na Wawelu",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata Św. Jerzego na Wawelu",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Katedra krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Katedra płocka",
         "place_of_institution": "Płock",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata w Pułtusku",
         "place_of_institution": "Pułtusk",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "dwór ostatnich książąt mazowieckich",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

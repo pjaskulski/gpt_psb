@@ -2,73 +2,85 @@
     {
         "institution": "Warsztaty gdańskich złotników",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Cech złotników",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum im. Czartoryskich",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Muzeum Narodowe",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół w Starogardzie",
         "place_of_institution": "Starogard",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół parafialny w Subkowych",
         "place_of_institution": "Subkowy",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół Św. Brygidy",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Prywatne kolekcje",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Muzeum «Oružejnaja Palata»",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zbiory barona K. Frankensteina",
         "place_of_institution": "Wiedeń",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół Najśw. Maryi Panny",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Warsztat Pichgiela",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "Warsztat złotniczy Matthiasa Pichela",
+        "place_of_institution": "Gdańsk",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Warsztat złotniczy Hieronima Edela",
+        "place_of_institution": "Gdańsk",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

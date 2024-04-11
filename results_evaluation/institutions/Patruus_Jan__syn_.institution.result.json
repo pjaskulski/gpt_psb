@@ -2,85 +2,85 @@
     {
         "institution": "Uniwersytet w Lipsku",
         "place_of_institution": "Lipsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Wittenberdze",
         "place_of_institution": "Wittenberga",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Warsztat introligatorski",
         "place_of_institution": "Chwaliszewo",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Warsztat introligatorski",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księgarnia",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Księgarnia",
         "place_of_institution": "Łęczyca",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia F. Behema",
         "place_of_institution": "Moguncja",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia C. Scharffenberga",
         "place_of_institution": "Wrocław",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia E. Vogelina",
         "place_of_institution": "Lipsk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia Mayera",
         "place_of_institution": "Dylindze",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia A. i S. Weyssenhornów",
         "place_of_institution": "Ingolsztat",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Drukarnia Melchiora Nehringa",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Cech kupców",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Katedra",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

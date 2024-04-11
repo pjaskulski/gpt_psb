@@ -2,19 +2,19 @@
     {
         "institution": "Kasztelania kruszwicka",
         "place_of_institution": "Kruszwica",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kasztelania michałowska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kasztelania dzbarska",
         "place_of_institution": "Mogilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

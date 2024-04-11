@@ -2,19 +2,19 @@
     {
         "institution": "Szkola Departamentowa",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pensjonat dla chłopców",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoła żeńska Tekli Herwig",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

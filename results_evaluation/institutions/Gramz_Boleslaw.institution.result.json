@@ -2,43 +2,43 @@
     {
         "institution": "Gimnazjum Św. Katarzyny",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Seminarium Duchowne",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Teologiczny Uniwersytetu Stefana Batorego",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Fundusz Kultury Narodowej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "6. pułk piechoty I. Dywizji",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "tajna prasa polska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół w Idołcie",
         "place_of_institution": "Idołta",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "parafia w Idołcie"
     }
 ]

@@ -2,37 +2,37 @@
     {
         "institution": "służba u Zygmunta Luksemburskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "dwór królewski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "turniej w Budzie",
         "place_of_institution": "Buda",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "konfederacja korczyńska",
         "place_of_institution": "Korczyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "tron węgierski",
         "place_of_institution": "Węgry",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "wyprawa warneńska",
         "place_of_institution": "Warna",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

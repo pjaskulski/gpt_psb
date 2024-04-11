@@ -2,607 +2,637 @@
     {
         "institution": "Uniw. Królewiecki",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Tryb. Piotrkowski",
         "place_of_institution": "Piotrków Trybunalski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Tryb. Skarbowy",
         "place_of_institution": "Radom",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm nadzwycz.",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Trybunał",
         "place_of_institution": "Wschowa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Trybunał Litewski",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Senatu",
         "place_of_institution": "Wschowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Poselstwo angielskie",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór rosyjski",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Poselstwo inflanckie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Poselstwo saskie",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór saski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Prywatna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Rycerska",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Kancelaria Królewska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Konferencja Króla z Ministrami",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
-    },
-    {
-        "institution": "brak danych",
-        "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Edukacyjna Narodowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Nieustająca",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisje Wojskowe",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dep. Wojskowy RN",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "KEN",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "skrót rozwinięty"
     },
     {
         "institution": "Komisje Skarbowe",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "RN",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "skrót rozwiwnięty"
     },
     {
         "institution": "Dep. Interesów Cudzoziemskich RN",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sąd Marszałkowski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Gabinet Maurycego Glayre’a",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kancelaria wojskowa króla",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gabinet króla",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "placówka dyplomatyczna",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Edukacji Narodowej",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Departament",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komisja",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Deputacja Interesów Zagranicznych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gabinet",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kancelaria wojskowa",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Deputacja «do formy rządu»",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Tryb. Lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Bank Narodowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rada Gabinetowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sejm Czteroletni",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Straż",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Wojenna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Konfederacja Targowicka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Generalność",
         "place_of_institution": "Grodno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm Czteroletni",
         "place_of_institution": "Warszawa",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Generalność targowicka",
         "place_of_institution": "Grodno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Banki warszawskie",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rada Zastępcza Tymczasowa",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Najwyższa Narodowa",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła Rycerska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pałac Marmurowy",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Petersburska Akademia Nauk",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Nauk",
         "place_of_institution": "Berlin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek Warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kompania Manufaktur Wełnianych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "manufaktura sukienna",
         "place_of_institution": "Zaleszczyki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "manufaktura wyrobów fajansowych",
         "place_of_institution": "Belweder",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "ludwisarnia",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "wytwórnia",
         "place_of_institution": "Kamieniec Podolski",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "koszary"
     },
     {
         "institution": "fabryka ręcznej broni palnej",
         "place_of_institution": "Kozienice",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Górnicza (Kruszcową)",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kopalnia marmurów",
         "place_of_institution": "Dębnik",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kopalnia węgla kamiennego",
         "place_of_institution": "Szczakowa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "obserwatorium astronomiczne",
         "place_of_institution": "Zamek Warszawski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "teatr francuski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "opera włoska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "balet",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "scena narodowa",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "szkoła baletowa",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "teatr",
         "place_of_institution": "Zamek Warszawski",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "teatr 'mały'",
         "place_of_institution": "Łazienki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "teatr 'na wyspie'",
         "place_of_institution": "Łazienki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "teatr w Pomarańczarni",
         "place_of_institution": "Łazienki",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "orkiestra dworska i teatralna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zamek Ujazdowski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek w Warszawie",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Łazienki Królewskie",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biały Dom",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Pałac Myślewicki",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Pomarańczarnia",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Amfiteatr",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Mennica Warszawska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Pałac Kazimierzowski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Pałac Pod Blachą",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komisja Skarbu Jego Królewskiej Mości",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Ekonomiczna Skarbu Jego Królewskiej Mości",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kasa Litewska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Manufaktura sukienna",
         "place_of_institution": "Zaleszczyki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Jurydyka Skaryszew",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Jurydyka Mariensztat",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komisja Ekonomiczna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Bankierzy genueńscy",
         "place_of_institution": "Genua",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Bankierzy holenderscy",
         "place_of_institution": "Holandia",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Masoneria",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół św. Katarzyny",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół parafialny w Wołczynie",
         "place_of_institution": "Wołczyn",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Katedra św. Jana",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Stara Pomarańczarnia",
         "place_of_institution": "Łazienki",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "kancelaria Michała Czartoryskiego",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "dwór cesarski",
+        "place_of_institution": "Wiedeń",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "archiwum królewskie",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "koszary",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "uniwersytet",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Monitor",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

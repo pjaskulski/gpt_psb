@@ -1,8 +1,8 @@
 [
     {
-        "institution": "brak danych",
-        "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "institution": "sąd marszałkowski",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

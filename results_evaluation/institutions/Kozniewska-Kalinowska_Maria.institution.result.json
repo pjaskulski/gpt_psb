@@ -2,139 +2,139 @@
     {
         "institution": "Académie Vitty",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Académie Colarossi",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Salon Société Nationale des Beaux-Arts",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Salon des Indépendants",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Royal Academy",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Zachęty Sztuk Pięknych",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Salon Krywulta",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Salon F. Richlinga",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Zawodowy Polskich Artystów Plastyków",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Przyjaciół Sztuk Pięknych",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Warszawski Związek Zawodowy Polskich Artystów Plastyków",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polskie Towarzystwo Artystyczne",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Powszechna Wystawa Krajowa",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wystawa Niezależnych",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Bazar Zachęty",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Pierwsza Ogólnopolska Wystawa Plastyki",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wystawa Związku Polskich Artystów Plastyków Okręgu Warszawskiego",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Polskich Artystów Niezależnych",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Artystów-Plastyków «Zachęta»",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Union Internationale des Beaux-Arts et des Lettres",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polskie Towarzystwo Artystyczne",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Polskich Artystów Plastyków",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Muzeum Narodowe",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,13 +2,13 @@
     {
         "institution": "Firma drukarska Melchiora i Michaela Lotterów",
         "place_of_institution": "Lipsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Poznańska",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

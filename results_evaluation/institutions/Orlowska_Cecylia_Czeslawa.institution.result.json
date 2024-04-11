@@ -2,49 +2,67 @@
     {
         "institution": "Gimnazjum im. E. Orzeszkowej",
         "place_of_institution": "Łódź",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Młodzieży Komunistycznej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komunistyczna Partia Robotnicza Polski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Dzielnicowy",
         "place_of_institution": "Łódź",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Dzielnicowy «Powązki»",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komunistyczny uniwersytet im. J. M. Swierdłowa",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Międzynarodówka Komunistyczna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Fabryka firanek",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "więzienie",
+        "place_of_institution": "Łódź",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "więzienie",
+        "place_of_institution": "Wronki",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "więzienie 'Serbia'",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

@@ -2,31 +2,31 @@
     {
         "institution": "Kasztelania wileńska",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Namiestnictwo smoleńskie",
         "place_of_institution": "Smoleńsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kanclerstwo wielkiego księcia",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Starostwo kowieńskie",
         "place_of_institution": "Kowno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada wielkoksiążęca",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

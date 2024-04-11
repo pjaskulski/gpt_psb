@@ -2,49 +2,49 @@
     {
         "institution": "Uniw. Warsz",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "16. pp liniowej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "zakład awinioński",
         "place_of_institution": "Awinion",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Centralna Polaków w dep. des Landes",
         "place_of_institution": "Mont-de-Marsan",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Tow. Demokratycznego Polskiego (TDP)",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Centralizacja TDP",
         "place_of_institution": "Poitiers",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "lokomotywownia",
         "place_of_institution": "Cherbourg",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "więzienie",
         "place_of_institution": "Zagrzeb",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

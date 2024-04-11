@@ -2,115 +2,133 @@
     {
         "institution": "szkoła kolegiacka",
         "place_of_institution": "Wieluń",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Lubrańskiego",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "uniwersytet wittenberski",
         "place_of_institution": "Wittenberga",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniw. Krak.",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kancelaria królewska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kolegiata kielecka",
         "place_of_institution": "Kielce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kancelaria królewska",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sąd wójtowski",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm kor.",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm parczewski",
         "place_of_institution": "Parczew",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm wileński",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm grodzieński",
         "place_of_institution": "Grodno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kolegium wileńskie",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Jezusowe",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Bractwo św. Anny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Radziwiłłów",
         "place_of_institution": "Nieśwież",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zbór kalwiński",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Katedra Św. Jana",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "uniwersytet",
+        "place_of_institution": "Padwa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "uniwersytet",
+        "place_of_institution": "Bolonia",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "uniwersytet",
+        "place_of_institution": "Ferrara",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

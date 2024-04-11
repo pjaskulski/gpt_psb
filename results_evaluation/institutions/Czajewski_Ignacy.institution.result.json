@@ -2,79 +2,85 @@
     {
         "institution": "seminarium duchowne",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Duchowna",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "szkoły średnie",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak konkretnej"
     },
     {
         "institution": "biblioteka szkoły męskiej przy kośc. św. Katarzyny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Parafia Charkowska",
         "place_of_institution": "Charków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "tytuł"
     },
     {
         "institution": "kościół św. Piotra i Pawła",
         "place_of_institution": "Moskwa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "C. K. O.",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie rozwiązano skrótu, miejsce Moskawa"
     },
     {
         "institution": "P. T. P. O.W.",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie rozwiązano skrótu, miejsce Moskwa"
     },
     {
         "institution": "kuria metropolitalna",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kościół św. Katarzyny",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "Petersburg"
     },
     {
         "institution": "szpital Dzieciątka Jezus",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "cmentarz w Ząbkach",
         "place_of_institution": "Ząbki",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "inna kategoria"
     },
     {
         "institution": "G. P. U.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "kapituła mohylewska",
+        "place_of_institution": "Mohylew",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

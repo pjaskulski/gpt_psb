@@ -2,163 +2,163 @@
     {
         "institution": "Politechnika w Rydze",
         "place_of_institution": "Ryga",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Technical College Finsbury",
         "place_of_institution": "Londyn",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet we Fryburgu",
         "place_of_institution": "Fryburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Société dc l’Acide Nitrique",
         "place_of_institution": "Fryburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Société Générale des Condensateurs Electriques",
         "place_of_institution": "Fryburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Aluminium A. G. Neuhausen",
         "place_of_institution": "Chippis",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Politechnika Lwowska",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Elektrochemiczny",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Badań Naukowych i Technicznych «Metan»",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Fabryka «Azot»",
         "place_of_institution": "Jaworzno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Fabryka azotniaku i karbidu",
         "place_of_institution": "Chorzów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Chemiczny Instytut Badawczy",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Politechnika Warszawska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kombinat chemiczny Mościc",
         "place_of_institution": "Tarnów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Akademia Umiejętności",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Naukowe Warszawskie",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Akademia Nauk Technicznych",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polskie Towarzystwo Chemiczne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Zgromadzenie Narodowe",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek Królewski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Obozu Zjednoczenia Narodowego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komitet Obrony Rzeczypospolitej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Centralny Okręg Przemysłowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek książąt Radziwiłłów",
         "place_of_institution": "Ołyka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Rząd Jedności Narodowej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Poselstwo RP",
         "place_of_institution": "Bern",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Ambasada RP",
         "place_of_institution": "Waszyngton",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

@@ -2,43 +2,55 @@
     {
         "institution": "Akademia Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła w Lewoczy",
         "place_of_institution": "Lewocza",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła w Koszycach",
         "place_of_institution": "Koszyce",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła opactwa w Reading",
         "place_of_institution": "Reading",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła w Bristol",
         "place_of_institution": "Bristol",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Szkoła w Reading",
         "place_of_institution": "Reading",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "jest wyżej"
     },
     {
         "institution": "Szkoła w Coventry",
         "place_of_institution": "Coventry",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "uniwerystet Oxford",
+        "place_of_institution": "Oxford",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "uniwerystet Cambridge",
+        "place_of_institution": "Cambridge",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

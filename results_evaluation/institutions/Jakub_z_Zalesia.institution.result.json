@@ -2,55 +2,55 @@
     {
         "institution": "Uniwersytet Jagielloński",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniw. Boloński",
         "place_of_institution": "Bolonia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór króla Kazimierza Jagiellończyka",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata Wiślicka",
         "place_of_institution": "Wiślica",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Katedralna w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Metropolitalna w Gnieźnie",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Katedralna we Włocławku",
         "place_of_institution": "Włocławek",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kolegiata Tarnowska",
         "place_of_institution": "Tarnów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kapituła Katedralna w Płocku",
         "place_of_institution": "Płock",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

@@ -2,73 +2,73 @@
     {
         "institution": "Król Stanisław August",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Władze kościelne",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Magistrat",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kościół kamedułów",
         "place_of_institution": "Pożajście",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół Św. Ignacego",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół Św. Kazimierza",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół w Podbrzeziu",
         "place_of_institution": "Podbrzezie",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Pałac Dominika Radziwiłła",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kaplica Matki Boskiej przy Ostrej Bramie",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Gubernia wileńska",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Browar przy placu Kossakowskich",
         "place_of_institution": "Antokol",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Młyn miejski",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

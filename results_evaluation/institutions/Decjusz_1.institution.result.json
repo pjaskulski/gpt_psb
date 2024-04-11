@@ -2,61 +2,61 @@
     {
         "institution": "Uniwersytet Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Mennica Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Mennica Wileńska",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kółko Trzecieskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zbór Krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Synod w Włodzisławiu",
         "place_of_institution": "Włodzisław",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Synod Kalwiński w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Żupy Olkuskie i Chęcińskie",
         "place_of_institution": "Olkusz, Chęciny",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dwór Królewski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm Lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

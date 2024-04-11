@@ -2,103 +2,103 @@
     {
         "institution": "Szkola Dramatyczna przy Warszawskim Tow. Muzycznym",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Polski",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Nowy Teatr Polski",
         "place_of_institution": "Kijów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Klub Obywatelski «Ogniwo»",
         "place_of_institution": "Kijów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie związane z bohaterem biogramu"
     },
     {
         "institution": "Teatr Dramatyczny",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Polski",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Miejski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Miejski",
         "place_of_institution": "Bydgoszcz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Objazdowy",
         "place_of_institution": "Wielkopolska",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polski Biały Krzyż",
         "place_of_institution": "Gdynia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydz. Kultury i Sztuki",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Gdański Zespół Artystyczny",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr Miejski",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr im. W. Bogusławskiego",
         "place_of_institution": "Kalisz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr im. J. Osterwy",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Teatr im. A. Fredry",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Schronisko Artystów Weteranów Scen Polskich",
         "place_of_institution": "Skolimów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

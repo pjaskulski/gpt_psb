@@ -2,13 +2,13 @@
     {
         "institution": "Album wileński",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Łowca",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "ma być: 'Łowiec', m. wyd.: Lwów"
     }
 ]

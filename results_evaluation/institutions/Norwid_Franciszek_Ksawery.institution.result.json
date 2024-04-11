@@ -2,49 +2,67 @@
     {
         "institution": "Gimnazjum Warszawskie",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Dyrekcja Główna Tow. Kredytowego Ziemskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komitet Emigracji Polskiej",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Biblioteka Polska",
         "place_of_institution": "Paryż",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kompania kolejowa",
         "place_of_institution": "Marsylia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Biuro Ekspedycyjne",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rada Miejska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wydział Skarbu Rządu Narodowego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+        "institution": "Cytadela",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Komitet Ruchu",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "tzw. Koło",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

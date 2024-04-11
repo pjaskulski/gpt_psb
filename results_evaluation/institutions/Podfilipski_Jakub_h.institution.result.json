@@ -2,37 +2,37 @@
     {
         "institution": "Sąd ziemski",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komisja królewska",
         "place_of_institution": "Czerwono",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zespół orzekający",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sąd królewski",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

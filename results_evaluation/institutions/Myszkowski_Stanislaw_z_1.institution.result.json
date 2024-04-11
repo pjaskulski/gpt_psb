@@ -2,169 +2,169 @@
     {
         "institution": "dwór Ferdynanda I",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "dwór Zygmunta Augusta",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm piotrkowski",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm warszawski",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm parczowski",
         "place_of_institution": "Parczew",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejm lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "mennica w Tykocinie",
         "place_of_institution": "Tykocin",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "mennica wileńska",
         "place_of_institution": "Wilno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Krajczy kor.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo malborskie",
         "place_of_institution": "Malbork",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kasztelania sandomierska",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Starostwo generalne",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "winno być: starostwo generalne krakowskie, miejsce: Kraków"
     },
     {
         "institution": "Województwo krakowskie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kościół małopolski",
         "place_of_institution": "Małopolska",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo oświęcimskie i zatorskie",
         "place_of_institution": "Oświęcim i Zator",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy krewniaka, Zygmunta"
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Parczów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Synod generalny",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "niepewne"
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo generalne krakowskie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kościół kalwiński",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Synod sandomierski",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zbór w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy żony"
     },
     {
         "institution": "Uniwersytet w Heidelbergu",
         "place_of_institution": "Heidelberg",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy bratanka, Jana"
     },
     {
         "institution": "Dwór palatyna",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "dotyczy bratanka, Piotra"
     },
     {
         "institution": "Sejm",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Cmentarz ewangelicki w Krakowie",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

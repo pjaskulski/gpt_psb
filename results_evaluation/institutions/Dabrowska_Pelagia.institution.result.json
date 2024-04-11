@@ -2,37 +2,49 @@
     {
         "institution": "pensja Teresy Brzezińskiej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Centralny Komitet Narodowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "X pawilon",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak miejscowości, raczej nie instytucja"
     },
     {
         "institution": "szkoła św. Andrzeja ss. felicjanek",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "gimnazjum żeńskie",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak doprecyzowania gimnazjum Trzaskowskiego, miejsce Kraków"
     },
     {
         "institution": "gimnazjum Królowej Jadwigi",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "brak miejscowości Kraków"
+    },
+    {
+        "institution": "szkoła Serwatowskiej",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "szkoła Krynickiej",
+        "place_of_institution": "Kraków",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

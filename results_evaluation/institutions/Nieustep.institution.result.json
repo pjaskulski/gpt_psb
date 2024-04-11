@@ -2,13 +2,13 @@
     {
         "institution": "Kasztelania Sandomierska",
         "place_of_institution": "Sandomierz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Palacja Krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

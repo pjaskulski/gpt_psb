@@ -2,49 +2,49 @@
     {
         "institution": "Podkomorzy sandomierski",
         "place_of_institution": "Sandomierz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     },
     {
         "institution": "Cześnik krakowski",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     },
     {
         "institution": "Starosta lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     },
     {
         "institution": "Starosta podolski",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     },
     {
         "institution": "Biskupstwo krakowskie",
         "place_of_institution": "Kraków",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powinien rozpoznać urząd: biskuo krakowski"
     },
     {
         "institution": "Ochmistrz dworu królowej Anny",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     },
     {
         "institution": "Chorąży sandomierski",
         "place_of_institution": "Sandomierz",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     },
     {
         "institution": "Podczaszy lwowski",
         "place_of_institution": "Lwów",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "urząd"
     }
 ]

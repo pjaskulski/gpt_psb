@@ -2,31 +2,31 @@
     {
         "institution": "Wojsko szwedzkie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wojsko konfederacji tarnogrodzkiej",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Służba u Stanisława Leszczyńskiego",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wojska Stanisława",
         "place_of_institution": "Ostrołęka",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Armia rosyjska",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     }
 ]

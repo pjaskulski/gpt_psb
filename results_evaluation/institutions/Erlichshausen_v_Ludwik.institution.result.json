@@ -2,55 +2,61 @@
     {
         "institution": "Zakon Krzyżacki",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wójtostwo Leszków",
         "place_of_institution": "Żuławy",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wójtostwo Grabin",
         "place_of_institution": "Żuławy",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Wójtostwo Lipienek",
         "place_of_institution": "ziemia chełmińska",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Komturia Gniew",
         "place_of_institution": "Gniew",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Zamek Malbork",
         "place_of_institution": "Malbork",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kartuzja w Świbowinach",
         "place_of_institution": "Świbowiny",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Królewiec",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Chełmno",
         "place_of_institution": "Chełmno",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "Związek Pruski",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

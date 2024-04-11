@@ -2,37 +2,37 @@
     {
         "institution": "Zakon Krzyżacki",
         "place_of_institution": "Prusy Krzyżackie",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Pruski",
         "place_of_institution": "Prusy",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Królestwo Polskie",
         "place_of_institution": "Polska",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Starostwo Puckie",
         "place_of_institution": "Puck",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Starostwo Mirachowskie",
         "place_of_institution": "Mirachowo",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Sejm w Piotrkowie",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

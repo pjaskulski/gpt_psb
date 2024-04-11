@@ -2,79 +2,85 @@
     {
         "institution": "Uniw. Krak.",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kapituła katedralna krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kapituła katedralna poznańska",
         "place_of_institution": "Poznań",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kapituła gnieźnieńska",
         "place_of_institution": "Gniezno",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "kolegiata kaliska",
         "place_of_institution": "Kalisz",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "katedra krakowska",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "synod prowincjalny",
         "place_of_institution": "Piotrków",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "katedra lwowska",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "sejmik przedsejmowy woj. ruskiego",
         "place_of_institution": "Sądowa Wisznia",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "sejm lubelski",
         "place_of_institution": "Lublin",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "kościół Świętej Trójcy",
         "place_of_institution": "Kraków",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "zjazd woj. ruskiego",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "archidiecezja",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {
+         "institution": "sejm koronacyjny",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

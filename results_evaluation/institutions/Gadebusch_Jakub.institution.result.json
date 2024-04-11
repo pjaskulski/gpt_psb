@@ -2,13 +2,13 @@
     {
         "institution": "Gimnazjum Akademickie",
         "place_of_institution": "Gdańsk",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet",
         "place_of_institution": "Królewiec",
-        "result": null,
+        "result": true,
         "pj_note": ""
     }
 ]

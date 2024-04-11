@@ -2,43 +2,79 @@
     {
         "institution": "IV Gimnazjum",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Instytut Górniczy",
         "place_of_institution": "Petersburg",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "14. turkiestański batalion liniowy",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Rosyjskie Towarzystwo Geograficzne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Państwowy Instytut Meteorologiczny",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polskie Towarzystwo Geograficzne",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wojsko Rosyjskie",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
+    },
+    {
+        "institution": "naczelnictwo powiatu margelańskiego",
+        "place_of_institution": "Margelańsk",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "komisariat pograniczny nadamurski",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "komisariat Kuantungu",
+        "place_of_institution": "Kuantung",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "gubernatorstwo astrachańskie",
+        "place_of_institution": "Astrachań",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {   
+        "institution": "zarząd cywilny kolei wschodnio-chińskiej",
+        "place_of_institution": "Charbin",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Rosyjski Czerwony Krzyż",
+        "place_of_institution": "Hiszpania",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

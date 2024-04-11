@@ -2,91 +2,144 @@
     {
         "institution": "Wolna Wszechnica Polska",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Łódzki",
         "place_of_institution": "Łódź",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Polska Partia Socjalistyczna (PPS)-Lewica",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet Latający",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Kursów Naukowych",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Uniwersytet w Brukseli",
         "place_of_institution": "Bruksela",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Państwowe Seminarium Nauczycielskie im. E. Orzeszkowej",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Państwowe Pedagogium im. S. Konarskiego",
         "place_of_institution": "Warszawa",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Komisja Pedagogiczna Min. Wyznań Rel. i Oświecenia Publ.",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Polskiego Nauczycielstwa Szkół Powszechnych (ZPNSP)",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Związek Nauczycielstwa Polskiego (ZNP)",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Towarzystwo Oświaty Demokratycznej „Nowe Tory”",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Wolna Wszechnica Polska",
         "place_of_institution": "brak danych",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "powtórzenie"
     },
     {
         "institution": "Uniwersytet",
         "place_of_institution": "brak danych",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Łódzkie Towarzystwo Naukowe",
         "place_of_institution": "Łódź",
-        "result": null,
+        "result": true,
         "pj_note": ""
+    },
+    {   "institution": "pensja Zuzanny Morawskiej",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Polska Partia Socjalno-Demokratyczna",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Polski Związek Nauczycielski",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {   
+        "institution": "więzienie kobiece przy ul. Daniłowiczowskiej",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "szkoła podstawowa przy ul. Koszykowej",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Studium Pracy Kulturalnej",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "'Praca Szkolna'",
+        "place_of_institution": "Warszawa",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Pedagogium",
+        "place_of_institution": "brak danych",
+        "result": false,
+        "pj_note": "brak"
+    },
+    {
+        "institution": "Łódzkie Towarzystwo Psychologiczne",
+        "place_of_institution": "Łódź",
+        "result": false,
+        "pj_note": "brak"
     }
 ]

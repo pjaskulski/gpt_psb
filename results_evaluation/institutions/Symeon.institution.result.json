@@ -2,61 +2,61 @@
     {
         "institution": "Szkoła",
         "place_of_institution": "Zamość",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "?"
     },
     {
         "institution": "Klasztor św. Jerzego",
         "place_of_institution": "Charberd",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor Świętego Znaku",
         "place_of_institution": "Cowk",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Klasztor św. Jakuba",
         "place_of_institution": "Jerozolima",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Hospicjum ormiańskie przy kościele św. Marii Egipcjanki",
         "place_of_institution": "Rzym",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Ormiańskie hospicjum przy kościele Świętego Krzyża",
         "place_of_institution": "Wenecja",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Szkoła przy katedrze ormiańskiej",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": true,
         "pj_note": ""
     },
     {
         "institution": "Kościół Matki Bożej",
         "place_of_institution": "Bursa",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Katedra Ormiańska",
         "place_of_institution": "Lwów",
-        "result": null,
+        "result": false,
         "pj_note": ""
     },
     {
         "institution": "Kongregacja Rozkrzewiania Wiary",
         "place_of_institution": "Rzym",
-        "result": null,
-        "pj_note": ""
+        "result": false,
+        "pj_note": "nie dotyczy bohatera biogramu"
     }
 ]
